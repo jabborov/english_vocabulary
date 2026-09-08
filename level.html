@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Vocabulary</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #0E1013;
+    --bg-alt: #14171C;
+    --line: #262B33;
+    --text: #E7E9EC;
+    --muted: #8B93A1;
+    --accent: #F2B84B;
+    --accent-dim: #7A6435;
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  body{
+    background: var(--bg); color: var(--text);
+    font-family: 'Inter', sans-serif; line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  a{ color: inherit; text-decoration: none; }
+  ::selection{ background: var(--accent-dim); color: var(--text); }
+  .wrap{ max-width: 760px; margin: 0 auto; padding: 0 28px; }
+  h1,h2,h3{ font-family: 'Space Grotesk', sans-serif; font-weight: 600; letter-spacing: -0.01em; }
+  .mono{ font-family: 'JetBrains Mono', monospace; }
+
+  nav{
+    position: sticky; top: 0; z-index: 20;
+    background: rgba(14,16,19,0.92); backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+  }
+  nav .wrap{ display:flex; align-items:center; justify-content:space-between; height:56px; }
+  .back{ font-size: 14px; color: var(--muted); display:flex; align-items:center; gap:6px; }
+  .back:hover{ color: var(--text); }
+  #level-title-nav{ font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--muted); }
+
+  header.head{ padding: 48px 0 28px; border-bottom: 1px solid var(--line); }
+  header.head h1{ font-size: 28px; margin-bottom: 8px; }
+  header.head p{ color: var(--muted); font-size: 15px; max-width: 60ch; margin-bottom: 24px; }
+
+  .search-box{
+    display:flex; align-items:center; gap: 10px;
+    border: 1px solid var(--line); border-radius: 8px;
+    padding: 10px 14px; background: var(--bg-alt);
+  }
+  .search-box:focus-within{ border-color: var(--accent); }
+  .search-box input{
+    flex:1; background:none; border:none; outline:none; color:var(--text);
+    font-family:'Inter',sans-serif; font-size: 15px;
+  }
+  .search-box input::placeholder{ color: var(--muted); }
+  .search-icon{ color: var(--muted); font-size: 15px; }
+
+  main{ padding: 32px 0 40px; }
+
+  #count{ font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--muted); margin-bottom: 18px; }
+
+  .entry{
+    border: 1px solid var(--line); border-radius: 10px;
+    padding: 20px 22px; margin-bottom: 12px;
+  }
+  .entry-top{ display:flex; align-items:baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; }
+  .entry-word{ font-family:'Space Grotesk',sans-serif; font-size: 19px; font-weight: 600; }
+  .entry-pos{ font-family:'JetBrains Mono',monospace; font-size: 12px; color: var(--accent); border:1px solid var(--accent-dim); border-radius:4px; padding: 2px 8px; }
+  .entry-ipa{ font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--muted); }
+  .entry-def{ font-size: 15px; margin-bottom: 8px; }
+  .entry-ex{ font-size: 14px; color: var(--muted); font-style: italic; }
+  .entry-ex::before{ content: "“"; }
+  .entry-ex::after{ content: "”"; }
+
+  .no-results{ color: var(--muted); text-align:center; padding: 48px 0; font-size: 15px; }
+
+  .level-nav{
+    display:flex; flex-wrap:wrap; gap:8px; margin-top: 40px; padding-top: 28px; border-top: 1px solid var(--line);
+  }
+  .level-nav a{
+    font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--muted);
+    border: 1px solid var(--line); border-radius: 6px; padding: 6px 12px;
+  }
+  .level-nav a.active{ color: var(--accent); border-color: var(--accent); }
+  .level-nav a:hover{ color: var(--text); border-color: var(--text); }
+
+  footer{ padding: 32px 0 48px; font-size: 13px; color: var(--muted); border-top: 1px solid var(--line); }
+
+  @media (max-width: 600px){
+    header.head{ padding: 32px 0 22px; }
+    header.head h1{ font-size: 23px; }
+  }
+  @media print{
+    nav, .search-box, .level-nav{ display:none; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <a class="back" href="index.html">← All levels</a>
+    <span id="level-title-nav" class="mono"></span>
+  </div>
+</nav>
+
+<header class="head">
+  <div class="wrap">
+    <h1 id="level-title"></h1>
+    <p id="level-desc"></p>
+    <div class="search-box">
+      <span class="search-icon mono">/</span>
+      <input id="search" type="text" placeholder="Search words or definitions..." autocomplete="off">
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <div id="count" class="mono"></div>
+    <div id="entries"></div>
+    <div id="no-results" class="no-results" style="display:none;">No words match your search.</div>
+
+    <div class="level-nav" id="level-nav"></div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">English Vocabulary · Self-study CEFR reference</div>
+</footer>
+
+<script src="data.js"></script>
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const levelKey = params.get('level') || 'a1';
+  const data = window.VOCAB_DATA[levelKey] || window.VOCAB_DATA['a1'];
+
+  document.title = `${data.title} — English Vocabulary`;
+  document.getElementById('level-title').textContent = data.title;
+  document.getElementById('level-title-nav').textContent = levelKey.toUpperCase();
+  document.getElementById('level-desc').textContent = data.desc;
+
+  const entriesEl = document.getElementById('entries');
+  const countEl = document.getElementById('count');
+  const noResultsEl = document.getElementById('no-results');
+  const searchEl = document.getElementById('search');
+
+  function render(filter){
+    const q = (filter || '').trim().toLowerCase();
+    const filtered = data.words.filter(item =>
+      !q || item.w.toLowerCase().includes(q) || item.def.toLowerCase().includes(q)
+    );
+
+    entriesEl.innerHTML = '';
+    if(filtered.length === 0){
+      noResultsEl.style.display = 'block';
+    } else {
+      noResultsEl.style.display = 'none';
+      filtered.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'entry';
+        div.innerHTML = `
+          <div class="entry-top">
+            <span class="entry-word">${item.w}</span>
+            <span class="entry-pos mono">${item.p}</span>
+            <span class="entry-ipa">${item.ipa}</span>
+          </div>
+          <div class="entry-def">${item.def}</div>
+          <div class="entry-ex">${item.ex}</div>
+        `;
+        entriesEl.appendChild(div);
+      });
+    }
+    countEl.textContent = `${filtered.length} of ${data.words.length} words`;
+  }
+
+  searchEl.addEventListener('input', e => render(e.target.value));
+  render('');
+
+  // Level switcher
+  const navEl = document.getElementById('level-nav');
+  Object.keys(window.VOCAB_DATA).forEach(key => {
+    const a = document.createElement('a');
+    a.href = `level.html?level=${key}`;
+    a.textContent = key.toUpperCase();
+    if(key === levelKey) a.classList.add('active');
+    navEl.appendChild(a);
+  });
+</script>
+
+</body>
+</html>
