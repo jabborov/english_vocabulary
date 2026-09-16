@@ -25,5 +25,29 @@ window.VOCAB_DATA = {
       {w:"combat",p:"verb",ipa:"/ˈkɒmbæt/",def:"kurashmoq / qarshi kurash olib bormoq",ex:"New irrigation methods help combat the effects of drought."},
       {w:"trick question",p:"noun phrase",ipa:"/trɪk ˈkwestʃən/",def:"hiyla-nayrangli savol",ex:"That was a trick question, since both answers were technically correct."}
     ]
+  },
+  "0002": {
+    slug: "tea-drinking-in-the-uk",
+    title: "Tea Drinking in the UK",
+    desc: "Britain's drinking culture — tea, coffee, pubs, and spirits, along with the language of habit, restraint, and excess.",
+    words: [
+      {w:"addict",p:"noun",ipa:"/ˈædɪkt/",def:"qaram / mukkasidan ketgan",ex:"He became an addict to caffeine after years of drinking coffee daily."},
+      {w:"unremarkable",p:"adjective",ipa:"/ˌʌnrɪˈmɑːkəbəl/",def:"oddiy / e'tiborga sazovor bo'lmagan",ex:"The building looked completely unremarkable from the outside."},
+      {w:"sweetened by",p:"phrase",ipa:"/ˈswiːtənd baɪ/",def:"...bilan shirin qilingan",ex:"The tea was sweetened by a spoonful of honey."},
+      {w:"institution",p:"noun",ipa:"/ˌɪnstɪˈtjuːʃən/",def:"muassasa / an'ana",ex:"The pub has become a British institution over the centuries."},
+      {w:"beer",p:"noun",ipa:"/bɪə/",def:"pivo",ex:"Many people enjoy a pint of beer after work."},
+      {w:"port",p:"noun",ipa:"/pɔːt/",def:"port (spirtli ichimlik)",ex:"Port is a strong, sweet wine often served after dinner."},
+      {w:"gin",p:"noun",ipa:"/dʒɪn/",def:"jin (spirtli ichimlik)",ex:"Gin is a popular spirit used in many cocktails."},
+      {w:"ruling",p:"adjective",ipa:"/ˈruːlɪŋ/",def:"hukmron / boshqaruvchi",ex:"The ruling class had significant influence over public policy."},
+      {w:"sobriety",p:"noun",ipa:"/səˈbraɪəti/",def:"hushyorlik",ex:"The campaign encourages sobriety among young drivers."},
+      {w:"desire",p:"noun",ipa:"/dɪˈzaɪə/",def:"istak",ex:"There was a growing desire among workers for better wages."},
+      {w:"sober",p:"adjective",ipa:"/ˈsəʊbə/",def:"hushyor",ex:"He stayed sober throughout the entire evening."},
+      {w:"industrious",p:"adjective",ipa:"/ɪnˈdʌstriəs/",def:"mehnatkash / tirishqoq",ex:"The industrious workers finished the project ahead of schedule."},
+      {w:"dissent",p:"noun",ipa:"/dɪˈsent/",def:"norozilik / e'tiroz",ex:"The government faced growing dissent over the new policy."},
+      {w:"cappuccinos",p:"noun",ipa:"/ˌkæpuˈtʃiːnəʊz/",def:"kapuchinolar",ex:"The café is famous for its creamy cappuccinos."},
+      {w:"lattes",p:"noun",ipa:"/ˈlɑːteɪz/",def:"lattelar",ex:"She ordered two lattes and a slice of cake."},
+      {w:"staggering",p:"adjective",ipa:"/ˈstæɡərɪŋ/",def:"hayratlanarli darajada katta",ex:"The cost of the new stadium was staggering."},
+      {w:"antiseptic",p:"noun",ipa:"/ˌæntɪˈseptɪk/",def:"antiseptik",ex:"The nurse cleaned the wound with antiseptic before bandaging it."}
+    ]
   }
 };
