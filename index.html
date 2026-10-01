@@ -72,6 +72,13 @@
   .eyebrow{ font-family:'JetBrains Mono',monospace; font-size:13px; color:var(--accent); margin-bottom:16px; }
   header.hero h1{ font-size: 34px; margin-bottom: 14px; }
   header.hero p{ color: var(--muted); max-width: 58ch; font-size: 15.5px; }
+  .random-btn{
+    margin-top: 24px; padding: 9px 16px; border-radius: 8px;
+    border: 1px solid var(--accent); background: none; color: var(--accent);
+    font-family:'JetBrains Mono',monospace; font-size: 13.5px; cursor: pointer;
+    transition: background .15s ease;
+  }
+  .random-btn:hover{ background: var(--accent-dim); }
 
   main{ padding: 56px 0 40px; }
 
@@ -115,6 +122,7 @@
     <div class="eyebrow mono">EN</div>
     <h1>English Vocabulary</h1>
     <p>A self-study vocabulary reference organized by topic. Each topic is a single page with word, part of speech, pronunciation, translation, and an example sentence. Search instantly within any topic.</p>
+    <button class="random-btn" type="button" data-random-word>↻ Random word</button>
   </div>
 </header>
 
@@ -137,6 +145,8 @@
 </footer>
 
 <script src="data.js"></script>
+<script src="examples.js"></script>
+<script src="random.js"></script>
 <script>
   const list = document.getElementById('topic-list');
   Object.keys(window.VOCAB_DATA).forEach(key => {

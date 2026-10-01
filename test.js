@@ -79,5 +79,47 @@ async function load(url){
   store['vocab-status'] = '{bad'; store['vocab-level'] = '"Z9"';
   w = await load('topic.html?topic=0001');
   assert.strictEqual(w.document.querySelector('.entry-ex').textContent, w.VOCAB_DATA['0001'].words[0].ex);
+  // ---- Random word (index + topic pages) ----
+  for (const page of ['index.html', 'topic.html?topic=0003']) {
+    store['vocab-level'] = 'null';
+    w = await load(page);
+    const d = w.document, btn = d.querySelector('[data-random-word]');
+    assert.ok(btn, 'random button on ' + page);
+    assert.strictEqual(w.VocabRandom.poolSize, 238);
+    const all = Object.entries(w.VOCAB_DATA).flatMap(([k,t]) => t.words.map(it => ({k, t: t.title, it})));
+    const seen = new Set(); let prev = null;
+    for (let n = 0; n < 400; n++) {
+      if (n === 0) btn.click(); else d.getElementById('rw-next').click();
+      assert.ok(d.querySelector('.rw-backdrop').classList.contains('open'));
+      const word = d.getElementById('rw-word').textContent;
+      assert.notStrictEqual(word, prev, 'no immediate repeat'); prev = word;
+      const e = all.find(x => x.it.w === word); assert.ok(e, 'word exists: ' + word);
+      seen.add(e.k);
+      assert.strictEqual(d.getElementById('rw-ipa').textContent, e.it.ipa);
+      assert.strictEqual(d.getElementById('rw-pos').textContent, e.it.p);
+      assert.strictEqual(d.getElementById('rw-uz').textContent, e.it.tr || e.it.def);
+      const en = d.getElementById('rw-en');
+      if (e.it.tr) assert.strictEqual(en.textContent, e.it.def);
+      else assert.ok(en.querySelector('a').href.includes('oxfordlearnersdictionaries.com'));
+      assert.strictEqual(d.getElementById('rw-ex').textContent, e.it.ex);
+      assert.ok(d.getElementById('rw-topic').getAttribute('href') === 'topic.html?topic=' + e.k);
+    }
+    assert.strictEqual(seen.size, 10, 'words come from all topics');
+    // Escape closes
+    d.dispatchEvent(new w.KeyboardEvent('keydown', { key: 'Escape' }));
+    assert.ok(!d.querySelector('.rw-backdrop').classList.contains('open'));
+  }
+  // Respects the saved CEFR level
+  store['vocab-level'] = '"B2"';
+  w = await load('index.html');
+  w.document.querySelector('[data-random-word]').click();
+  const rw = w.document.getElementById('rw-word').textContent;
+  const k = Object.keys(w.VOCAB_DATA).find(k => w.VOCAB_DATA[k].words.some(x => x.w === rw));
+  assert.strictEqual(w.document.getElementById('rw-ex').textContent, w.VOCAB_EXAMPLES[k][rw][3]);
+  assert.strictEqual(w.document.getElementById('rw-ex-label').textContent, 'Example · B2');
+  // Backdrop click closes
+  w.document.querySelector('.rw-backdrop').click();
+  assert.ok(!w.document.querySelector('.rw-backdrop').classList.contains('open'));
+
   console.log('ALL TESTS PASSED');
 })().catch(e => { console.error('FAIL', e.message); process.exit(1); });
