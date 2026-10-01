@@ -35,6 +35,13 @@ async function load(url){
     assert.strictEqual(entries[0].querySelector('.entry-ex').textContent, t.VOCAB_DATA[k].words[0].ex);
   }
 
+  // Level buttons live in the nav row, directly before the Random button
+  { const d = (await load('topic.html?topic=0002')).document;
+    const bar = d.getElementById('level-bar'), rnd = d.querySelector('nav [data-random-word]');
+    assert.ok(bar.closest('nav') && bar.parentElement === rnd.parentElement, 'same row as Random');
+    assert.strictEqual(bar.nextElementSibling, rnd);
+    assert.ok(!d.querySelector('header .level-bar'), 'removed from header'); }
+
   // CEFR level switching + persistence + toggle off
   w = await load('topic.html?topic=0004');
   const first = w.VOCAB_DATA['0004'].words[0];
