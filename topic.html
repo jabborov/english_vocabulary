@@ -30,6 +30,8 @@
     --accent: #F2B84B;
     --accent-dim: #7A6435;
     --shadow: rgba(0,0,0,0.35);
+    --ok: #6CC08B;
+    --weak: #E5766B;
   }
   [data-theme="light"]{
     --bg: #F7F5F0;
@@ -40,6 +42,8 @@
     --accent: #A8681B;
     --accent-dim: #E7D2AC;
     --shadow: rgba(32,29,24,0.08);
+    --ok: #2F7D4F;
+    --weak: #B2402F;
   }
   *{ box-sizing:border-box; margin:0; padding:0; }
   body{
@@ -96,6 +100,15 @@
   .search-box input::placeholder{ color: var(--muted); }
   .search-icon{ color: var(--muted); font-size: 15px; }
 
+  .level-bar{ display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-top: 16px; }
+  .level-label{ font-family:'JetBrains Mono',monospace; font-size: 12.5px; color: var(--muted); margin-right: 4px; }
+  .pill{
+    font-family:'JetBrains Mono',monospace; font-size: 12.5px; color: var(--muted);
+    background: none; border: 1px solid var(--line); border-radius: 6px; padding: 5px 11px; cursor: pointer;
+  }
+  .pill:hover{ color: var(--text); border-color: var(--text); }
+  .pill.active{ color: var(--accent); border-color: var(--accent); }
+
   main{ padding: 32px 0 40px; }
 
   #count{ font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--muted); margin-bottom: 18px; }
@@ -113,6 +126,21 @@
   .entry-ex{ font-size: 14px; color: var(--muted); font-style: italic; }
   .entry-ex::before{ content: "“"; }
   .entry-ex::after{ content: "”"; }
+
+  .entry-actions{
+    display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap: 10px;
+    margin-top: 14px; padding-top: 12px; border-top: 1px dashed var(--line);
+  }
+  .status-group{ display:flex; flex-wrap:wrap; gap: 6px; }
+  .status-btn{ font-size: 12px; padding: 3px 9px; }
+  .status-btn.active[data-status="memorized"]{ color: var(--ok); border-color: var(--ok); }
+  .status-btn.active[data-status="weak"]{ color: var(--weak); border-color: var(--weak); }
+  .status-btn.active[data-status="learn"]{ color: var(--accent); border-color: var(--accent); }
+  .entry.is-memorized{ border-left: 3px solid var(--ok); }
+  .entry.is-weak{ border-left: 3px solid var(--weak); }
+  .entry.is-learn{ border-left: 3px solid var(--accent); }
+  .dict-link{ font-family:'JetBrains Mono',monospace; font-size: 12px; color: var(--muted); }
+  .dict-link:hover{ color: var(--accent); }
 
   .no-results{ color: var(--muted); text-align:center; padding: 48px 0; font-size: 15px; }
 
@@ -134,7 +162,7 @@
     #topic-title-nav{ display:none; }
   }
   @media print{
-    nav, .search-box, .topic-nav, .theme-toggle{ display:none; }
+    nav, .search-box, .topic-nav, .theme-toggle, .level-bar, .status-group{ display:none; }
   }
 </style>
 </head>
@@ -162,6 +190,9 @@
       <span class="search-icon mono">/</span>
       <input id="search" type="text" placeholder="Search words or translations..." autocomplete="off">
     </div>
+    <div class="level-bar" id="level-bar" role="group" aria-label="Example sentence CEFR level">
+      <span class="level-label">Example level</span>
+    </div>
   </div>
 </header>
 
@@ -176,10 +207,11 @@
 </main>
 
 <footer>
-  <div class="wrap">English Vocabulary · Self-study topic-based reference</div>
+  <div class="wrap">English Vocabulary · Self-study topic-based reference · Dictionary source: <a href="https://www.oxfordlearnersdictionaries.com/" target="_blank" rel="noopener">Oxford Learner's Dictionaries</a></div>
 </footer>
 
 <script src="data.js"></script>
+<script src="examples.js"></script>
 <script>
   const params = new URLSearchParams(window.location.search);
   const keys = Object.keys(window.VOCAB_DATA);
@@ -197,6 +229,85 @@
   const noResultsEl = document.getElementById('no-results');
   const searchEl = document.getElementById('search');
 
+  // ----- Persistent storage helpers (same pattern as the theme toggle) -----
+  function loadJSON(key, fallback){
+    try{ const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; }catch(e){ return fallback; }
+  }
+  function saveJSON(key, value){
+    try{ localStorage.setItem(key, JSON.stringify(value)); }catch(e){}
+  }
+
+  // ----- CEFR level for example sentences -----
+  const LEVELS = ['A1','A2','B1','B2','C1','C2'];
+  const examples = (window.VOCAB_EXAMPLES || {})[topicKey] || {};
+  let level = loadJSON('vocab-level', null);
+  if(!LEVELS.includes(level)) level = null; // null = original example from data.js
+
+  function exampleFor(item){
+    if(!level) return item.ex;
+    const set = examples[item.w];
+    return (set && set[LEVELS.indexOf(level)]) || item.ex;
+  }
+
+  const levelBar = document.getElementById('level-bar');
+  LEVELS.forEach(lv => {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'pill level-btn';
+    b.dataset.level = lv;
+    b.textContent = lv;
+    b.title = `Show ${lv}-level example sentences (click again for the original)`;
+    levelBar.appendChild(b);
+  });
+  function syncLevelButtons(){
+    levelBar.querySelectorAll('.level-btn').forEach(b => {
+      const on = b.dataset.level === level;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+  }
+  levelBar.addEventListener('click', e => {
+    const b = e.target.closest('.level-btn');
+    if(!b) return;
+    level = (level === b.dataset.level) ? null : b.dataset.level;
+    saveJSON('vocab-level', level);
+    syncLevelButtons();
+    render(searchEl.value);
+  });
+  syncLevelButtons();
+
+  // ----- Learning status per word (persisted) -----
+  const STATUSES = [
+    { key: 'memorized', label: 'Memorized' },
+    { key: 'weak',      label: 'Weak' },
+    { key: 'learn',     label: 'Need to Learn' }
+  ];
+  const statusMap = loadJSON('vocab-status', {});
+  const statusId = item => `${topicKey}|${item.w}`;
+
+  function applyStatus(div, status){
+    STATUSES.forEach(s => div.classList.toggle(`is-${s.key}`, s.key === status));
+    div.querySelectorAll('.status-btn').forEach(b => {
+      const on = b.dataset.status === status;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+  }
+
+  entriesEl.addEventListener('click', e => {
+    const b = e.target.closest('.status-btn');
+    if(!b) return;
+    const div = b.closest('.entry');
+    const id = div.dataset.id;
+    const next = statusMap[id] === b.dataset.status ? null : b.dataset.status;
+    if(next) statusMap[id] = next; else delete statusMap[id];
+    saveJSON('vocab-status', statusMap);
+    applyStatus(div, next);
+  });
+
+  // ----- Dictionary source: Oxford Learner's Dictionaries only -----
+  const oxfordUrl = w => `https://www.oxfordlearnersdictionaries.com/search/english/?q=${encodeURIComponent(w)}`;
+
   function render(filter){
     const q = (filter || '').trim().toLowerCase();
     const filtered = data.words.filter(item =>
@@ -212,6 +323,7 @@
       filtered.forEach(item => {
         const div = document.createElement('div');
         div.className = 'entry';
+        div.dataset.id = statusId(item);
         div.innerHTML = `
           <div class="entry-top">
             <span class="entry-word">${item.w}</span>
@@ -220,12 +332,19 @@
           </div>
           <div class="entry-def">${item.def}</div>
           ${item.tr ? `<div class="entry-tr">${item.tr}</div>` : ''}
-          <div class="entry-ex">${item.ex}</div>
+          <div class="entry-ex">${exampleFor(item)}</div>
+          <div class="entry-actions">
+            <div class="status-group" role="group" aria-label="Learning status">
+              ${STATUSES.map(s => `<button type="button" class="pill status-btn" data-status="${s.key}">${s.label}</button>`).join('')}
+            </div>
+            <a class="dict-link" href="${oxfordUrl(item.w)}" target="_blank" rel="noopener">Oxford ↗</a>
+          </div>
         `;
+        applyStatus(div, statusMap[div.dataset.id] || null);
         entriesEl.appendChild(div);
       });
     }
-    countEl.textContent = `${filtered.length} of ${data.words.length} words`;
+    countEl.textContent = `${filtered.length} of ${data.words.length} words` + (level ? ` · ${level} examples` : '');
   }
 
   searchEl.addEventListener('input', e => render(e.target.value));
