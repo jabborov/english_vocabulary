@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Vocabulary — Self-Study Reference</title>
+<meta name="description" content="A self-study English vocabulary reference organized by topic.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script>
+  // Applied before first paint to avoid a light/dark flash.
+  (function(){
+    try{
+      var saved = localStorage.getItem('vocab-theme');
+      var theme = saved || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+      document.documentElement.setAttribute('data-theme', theme);
+    }catch(e){
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  })();
+</script>
+<style>
+  :root,
+  [data-theme="dark"]{
+    --bg: #0E1013;
+    --bg-alt: #14171C;
+    --line: #262B33;
+    --text: #E7E9EC;
+    --muted: #8B93A1;
+    --accent: #F2B84B;
+    --accent-dim: #7A6435;
+    --shadow: rgba(0,0,0,0.35);
+  }
+  [data-theme="light"]{
+    --bg: #F7F5F0;
+    --bg-alt: #EEEBE3;
+    --line: #DCD7CB;
+    --text: #201D18;
+    --muted: #6E6A62;
+    --accent: #A8681B;
+    --accent-dim: #E7D2AC;
+    --shadow: rgba(32,29,24,0.08);
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  body{
+    background: var(--bg); color: var(--text);
+    font-family: 'Inter', sans-serif; line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    transition: background .2s ease, color .2s ease;
+  }
+  a{ color: inherit; text-decoration: none; }
+  ::selection{ background: var(--accent-dim); color: var(--text); }
+  .wrap{ max-width: 760px; margin: 0 auto; padding: 0 28px; }
+  h1,h2,h3{ font-family: 'Space Grotesk', sans-serif; font-weight: 600; letter-spacing: -0.01em; }
+  .mono{ font-family: 'JetBrains Mono', monospace; }
+
+  .theme-toggle{
+    position: fixed; top: 20px; right: 20px; z-index: 30;
+    width: 38px; height: 38px; border-radius: 8px;
+    border: 1px solid var(--line); background: var(--bg-alt);
+    color: var(--muted); display:flex; align-items:center; justify-content:center;
+    cursor: pointer; transition: border-color .15s ease, color .15s ease;
+  }
+  .theme-toggle:hover{ border-color: var(--accent); color: var(--accent); }
+  .theme-toggle svg{ width: 17px; height: 17px; }
+  .theme-toggle .icon-sun{ display:none; }
+  [data-theme="light"] .theme-toggle .icon-sun{ display:block; }
+  [data-theme="light"] .theme-toggle .icon-moon{ display:none; }
+
+  header.hero{ padding: 88px 0 56px; border-bottom: 1px solid var(--line); }
+  .eyebrow{ font-family:'JetBrains Mono',monospace; font-size:13px; color:var(--accent); margin-bottom:16px; }
+  header.hero h1{ font-size: 34px; margin-bottom: 14px; }
+  header.hero p{ color: var(--muted); max-width: 58ch; font-size: 15.5px; }
+  .random-btn{
+    margin-top: 24px; padding: 9px 16px; border-radius: 8px;
+    border: 1px solid var(--accent); background: none; color: var(--accent);
+    font-family:'JetBrains Mono',monospace; font-size: 13.5px; cursor: pointer;
+    transition: background .15s ease;
+  }
+  .random-btn:hover{ background: var(--accent-dim); }
+  .hero-actions{ display:flex; flex-wrap:wrap; align-items:center; gap: 10px; margin-top: 24px; }
+  .hero-actions .random-btn{ margin-top: 0; }
+  .part-btn{
+    padding: 9px 16px; border-radius: 8px;
+    border: 1px solid var(--line); background: none; color: var(--muted);
+    font-family:'JetBrains Mono',monospace; font-size: 13.5px; cursor: pointer;
+    transition: border-color .15s ease, color .15s ease, background .15s ease;
+  }
+  .part-btn:hover{ border-color: var(--accent); color: var(--accent); }
+  .part-btn.active{ border-color: var(--accent); background: var(--accent); color: var(--bg); }
+  .empty-part{ border: 1px dashed var(--line); border-radius: 10px; padding: 32px 26px; color: var(--muted); text-align: center; font-size: 14.5px; }
+
+  .global-search{ margin-top: 28px; position: relative; }
+  .global-search input{
+    width: 100%; padding: 12px 16px; border-radius: 8px;
+    border: 1px solid var(--line); background: var(--bg-alt); color: var(--text);
+    font-family: 'Inter', sans-serif; font-size: 15px; outline: none;
+    transition: border-color .15s ease;
+  }
+  .global-search input:focus{ border-color: var(--accent); }
+  .global-search input::placeholder{ color: var(--muted); }
+  .search-results{
+    margin-top: 10px; border: 1px solid var(--line); border-radius: 10px;
+    background: var(--bg-alt); max-height: 420px; overflow-y: auto;
+    box-shadow: 0 8px 24px var(--shadow);
+  }
+  .search-results[hidden]{ display: none; }
+  .search-meta{ padding: 10px 16px; font-family:'JetBrains Mono',monospace; font-size: 12.5px; color: var(--muted); border-bottom: 1px solid var(--line); }
+  .search-hit{ display:block; padding: 12px 16px; border-bottom: 1px solid var(--line); transition: background .12s ease; }
+  .search-hit:last-child{ border-bottom: none; }
+  .search-hit:hover, .search-hit:focus{ background: var(--bg); outline: none; }
+  .hit-top{ display:flex; align-items:baseline; justify-content:space-between; gap: 12px; }
+  .hit-word{ font-family:'Space Grotesk',sans-serif; font-weight: 600; font-size: 15.5px; }
+  .hit-pos{ font-size: 12.5px; color: var(--muted); font-style: italic; margin-left: 6px; font-weight: 400; }
+  .hit-topic{ font-family:'JetBrains Mono',monospace; font-size: 12px; color: var(--accent); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 45%; }
+  .hit-tr{ font-size: 14px; color: var(--text); margin-top: 2px; }
+  .hit-def{ font-size: 13px; color: var(--muted); }
+  .search-hit mark{ background: var(--accent-dim); color: inherit; border-radius: 2px; }
+  .search-empty{ padding: 14px 16px; color: var(--muted); font-size: 14px; }
+
+  main{ padding: 56px 0 40px; }
+
+  .topic-card{
+    display:block; border:1px solid var(--line); border-radius: 10px;
+    padding: 24px 26px; margin-bottom: 16px; transition: border-color .15s ease;
+  }
+  .topic-card:hover{ border-color: var(--accent); }
+  .topic-top{ display:flex; align-items:baseline; justify-content:space-between; margin-bottom: 8px; gap: 12px; }
+  .topic-name{ display:flex; align-items:baseline; gap: 10px; }
+  .topic-number{ font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--accent); }
+  .topic-top h2{ font-size: 18px; }
+  .topic-count{ font-family:'JetBrains Mono',monospace; font-size: 12.5px; color: var(--muted); white-space: nowrap; }
+  .topic-card p{ color: var(--muted); font-size: 14.5px; margin-bottom: 12px; }
+  .topic-open{ font-size: 13.5px; color: var(--accent); font-family:'JetBrains Mono',monospace; }
+
+  .notes{ margin-top: 48px; padding-top: 40px; border-top: 1px solid var(--line); }
+  .notes h3{ font-size: 16px; margin-bottom: 14px; }
+  .notes ul{ padding-left: 18px; color: var(--muted); font-size: 14.5px; }
+  .notes li{ margin-bottom: 8px; }
+  .notes strong{ color: var(--text); }
+
+  footer{ padding: 32px 0 48px; font-size: 13px; color: var(--muted); border-top: 1px solid var(--line); margin-top: 40px; }
+
+  @media (max-width: 600px){
+    header.hero{ padding: 56px 0 40px; }
+    header.hero h1{ font-size: 27px; }
+    .theme-toggle{ top: 14px; right: 14px; }
+  }
+</style>
+</head>
+<body>
+
+<button class="theme-toggle" id="theme-toggle" aria-label="Toggle light and dark mode" type="button">
+  <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8Z"/></svg>
+  <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+</button>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="eyebrow mono">EN</div>
+    <h1>English Vocabulary</h1>
+    <p>A self-study vocabulary reference organized by topic. Each topic is a single page with word, part of speech, pronunciation, translation, and an example sentence. Search instantly within any topic.</p>
+    <div class="hero-actions">
+      <button class="random-btn" type="button" data-random-word>↻ Random word</button>
+      <button class="part-btn" type="button" data-part="1" aria-pressed="false">Part 1</button>
+      <button class="part-btn" type="button" data-part="2" aria-pressed="false">Part 2</button>
+    </div>
+    <div class="global-search">
+      <input id="global-search" type="search" placeholder="Search all words, translations or definitions…" autocomplete="off" aria-label="Search all topics" aria-controls="search-results">
+      <div class="search-results" id="search-results" hidden></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap" id="topic-list"></div>
+
+  <div class="wrap notes">
+    <h3>About this reference</h3>
+    <ul>
+      <li><strong>Made for studying.</strong> Search any topic's word list instantly — no page reload.</li>
+      <li><strong>Grouped by topic.</strong> Topics are numbered in the order they're added, starting with 0001.</li>
+      <li><strong>Oxford only.</strong> Dictionary look-ups link to <a href="https://www.oxfordlearnersdictionaries.com/" target="_blank" rel="noopener">Oxford Learner's Dictionaries</a>. Example sentences can be switched between CEFR levels A1–C2, and each word can be marked Memorized, Weak or Need to Learn.</li>
+      <li><strong>Works offline.</strong> Every page is self-contained and prints cleanly to PDF (Ctrl/Cmd + P).</li>
+    </ul>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">English Vocabulary · Self-study topic-based reference</div>
+</footer>
+
+<script src="data.js"></script>
+<script src="data_part1.js"></script>
+<script src="examples_part1.js"></script>
+<script src="examples.js"></script>
+<script src="random.js"></script>
+<script src="scroll.js"></script>
+<script>
+  // Part 1 = data_part1.js (empty for now), Part 2 = data.js
+  const PARTS = { '1': window.VOCAB_DATA_PART1 || {}, '2': window.VOCAB_DATA };
+  let part = new URLSearchParams(window.location.search).get('part');
+  if(!PARTS[part]){
+    try{ part = localStorage.getItem('vocab-part'); }catch(e){ part = null; }
+    if(!PARTS[part]) part = '2';
+  }
+
+  const list = document.getElementById('topic-list');
+  function renderTopics(){
+    const topics = PARTS[part];
+    list.innerHTML = '';
+    if(Object.keys(topics).length === 0){
+      list.innerHTML = `<div class="empty-part">No topics in Part ${part} yet.</div>`;
+      return;
+    }
+    Object.keys(topics).forEach(key => {
+      const t = topics[key];
+      const a = document.createElement('a');
+      a.className = 'topic-card';
+      a.href = `topic.html?topic=${key}${part === '1' ? '&part=1' : ''}`;
+      a.innerHTML = `
+        <div class="topic-top">
+          <div class="topic-name">
+            <span class="topic-number mono">${key}</span>
+            <h2>${t.title}</h2>
+          </div>
+          <span class="topic-count mono">${t.words.length} words</span>
+        </div>
+        <p>${t.desc}</p>
+        <span class="topic-open">Open reference →</span>
+      `;
+      list.appendChild(a);
+    });
+  }
+
+  // Search across every topic
+  const searchInput = document.getElementById('global-search');
+  const resultsEl = document.getElementById('search-results');
+  const MAX_HITS = 50;
+  let index = [];
+  function buildIndex(){
+    index = [];
+    const topics = PARTS[part];
+    Object.keys(topics).forEach(key => {
+      const t = topics[key];
+      t.words.forEach(item => index.push({ key, title: t.title, item }));
+    });
+  }
+
+  function escapeHTML(s){
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+  function highlight(text, q){
+    const s = String(text || '');
+    const i = s.toLowerCase().indexOf(q);
+    if(i < 0) return escapeHTML(s);
+    return escapeHTML(s.slice(0, i)) + '<mark>' + escapeHTML(s.slice(i, i + q.length)) + '</mark>' + escapeHTML(s.slice(i + q.length));
+  }
+
+  function runSearch(){
+    const q = searchInput.value.trim().toLowerCase();
+    if(!q){ resultsEl.hidden = true; resultsEl.innerHTML = ''; return; }
+    // Rank: exact word, word starts with, word contains, then translation/definition matches.
+    const hits = [];
+    index.forEach(e => {
+      const w = e.item.w.toLowerCase();
+      let rank = -1;
+      if(w === q) rank = 0;
+      else if(w.startsWith(q)) rank = 1;
+      else if(w.includes(q)) rank = 2;
+      else if((e.item.tr || '').toLowerCase().includes(q)) rank = 3;
+      else if((e.item.def || '').toLowerCase().includes(q)) rank = 4;
+      if(rank >= 0) hits.push({ e, rank });
+    });
+    hits.sort((a, b) => a.rank - b.rank || a.e.item.w.localeCompare(b.e.item.w));
+
+    resultsEl.hidden = false;
+    if(hits.length === 0){
+      resultsEl.innerHTML = '<div class="search-empty">No words match your search.</div>';
+      return;
+    }
+    const shown = hits.slice(0, MAX_HITS);
+    resultsEl.innerHTML =
+      `<div class="search-meta">${hits.length} match${hits.length === 1 ? '' : 'es'}${hits.length > MAX_HITS ? ` · showing first ${MAX_HITS}` : ''}</div>` +
+      shown.map(({ e }) => `
+        <a class="search-hit" href="topic.html?topic=${e.key}${part === '1' ? '&part=1' : ''}&q=${encodeURIComponent(e.item.w)}">
+          <div class="hit-top">
+            <span class="hit-word">${highlight(e.item.w, q)}<span class="hit-pos">${escapeHTML(e.item.p)}</span></span>
+            <span class="hit-topic">${e.key} · ${escapeHTML(e.title)}</span>
+          </div>
+          ${e.item.tr ? `<div class="hit-tr">${highlight(e.item.tr, q)}</div>` : ''}
+          <div class="hit-def">${highlight(e.item.def, q)}</div>
+        </a>`).join('');
+  }
+  searchInput.addEventListener('input', runSearch);
+  searchInput.addEventListener('keydown', ev => {
+    if(ev.key === 'Escape'){ searchInput.value = ''; runSearch(); }
+    if(ev.key === 'Enter'){ const first = resultsEl.querySelector('.search-hit'); if(first) window.location.href = first.href; }
+  });
+  // "/" focuses the search box
+  document.addEventListener('keydown', ev => {
+    if(ev.key === '/' && document.activeElement !== searchInput && !/^(INPUT|TEXTAREA)$/.test(document.activeElement.tagName)){
+      ev.preventDefault(); searchInput.focus();
+    }
+  });
+
+  // Part 1 / Part 2 switch
+  const partBtns = document.querySelectorAll('.part-btn');
+  function setPart(p){
+    part = p;
+    try{ localStorage.setItem('vocab-part', p); }catch(e){}
+    partBtns.forEach(b => {
+      const on = b.dataset.part === p;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+    renderTopics();
+    buildIndex();
+    runSearch();
+  }
+  partBtns.forEach(b => b.addEventListener('click', () => setPart(b.dataset.part)));
+  setPart(part);
+
+  // Theme toggle
+  const toggleBtn = document.getElementById('theme-toggle');
+  toggleBtn.addEventListener('click', () => {
+    const current = document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark';
+    const next = current === 'light' ? 'dark' : 'light';
+    document.documentElement.setAttribute('data-theme', next);
+    try{ localStorage.setItem('vocab-theme', next); }catch(e){}
+  });
+</script>
+
+</body>
+</html>
