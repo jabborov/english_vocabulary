@@ -16,7 +16,7 @@ For each word you get:
 - 🔍 **Search:** find any word, translation or meaning.
 - 🔤 **Transcription:** British IPA for every word.
 - 🔁 **Irregular verbs:** past simple and past participle forms (e.g. *go → went → gone*).
-- 🔄 **Synonyms and opposites:** shown for adjectives (e.g. *cheap → expensive*).
+- 🔄 **Synonyms and opposites:** shown for adjectives and nouns (e.g. *cheap → expensive*, *success → failure*).
 - 🇺🇿 **Uzbek translation:** every word is translated into Uzbek.
 - 📈 **CEFR levels:** example sentences from A1 to C2.
 - 🎲 **Random word:** practise with a random word.
@@ -42,7 +42,7 @@ english_vocabulary/
 ├── data.js             # Part 2 words: meaning, IPA, Uzbek translation, example
 ├── examples.js         # Part 2 example sentences (A1–C2)
 ├── irregular.js        # Irregular verbs: past simple and past participle forms
-├── synonyms.js         # Synonyms and opposites for adjectives
+├── synonyms.js         # Synonyms and opposites for adjectives and nouns
 ├── random.js           # Random word feature
 ├── scroll.js           # ↑ / ↓ buttons to jump to the top or bottom of a page
 ├── test.js             # Page tests (Node.js + jsdom)
