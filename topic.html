@@ -130,6 +130,8 @@
   .entry-word{ font-family:'Space Grotesk',sans-serif; font-size: 19px; font-weight: 600; }
   .entry-pos{ font-family:'JetBrains Mono',monospace; font-size: 12px; color: var(--accent); border:1px solid var(--accent-dim); border-radius:4px; padding: 2px 8px; }
   .entry-ipa{ font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--muted); }
+  .entry-forms{ font-size: 13px; color: var(--muted); }
+  .entry-forms b{ font-weight: 600; color: var(--text); }
   .entry-def{ font-size: 15px; margin-bottom: 6px; }
   .entry-tr{ font-size: 13.5px; color: var(--accent); margin-bottom: 8px; }
   .entry-ex{ font-size: 14px; color: var(--muted); font-style: italic; }
@@ -227,6 +229,8 @@
 <script src="examples.js"></script>
 <script src="data_part1.js"></script>
 <script src="examples_part1.js"></script>
+<script src="irregular.js"></script>
+<script src="synonyms.js"></script>
 <script src="random.js"></script>
 <script src="scroll.js"></script>
 <script>
@@ -330,6 +334,20 @@
 
   // ----- Dictionary source: Oxford Learner's Dictionaries only -----
   const oxfordUrl = w => `https://www.oxfordlearnersdictionaries.com/search/english/?q=${encodeURIComponent(w)}`;
+  // Irregular verbs: past simple and present perfect next to the transcription.
+  function formsHTML(item){
+    const f = window.verbForms ? window.verbForms(item) : null;
+    return f ? `<span class="entry-forms">Past: <b>${f.past}</b> · Present perfect: <b>${f.perfect}</b></span>` : '';
+  }
+  // Adjectives: synonyms and opposites next to the transcription.
+  function relatedHTML(item){
+    const r = window.adjRelated ? window.adjRelated(item) : null;
+    if(!r) return '';
+    const parts = [];
+    if(r.syn.length) parts.push(`Synonyms: <b>${r.syn.join(', ')}</b>`);
+    if(r.ant.length) parts.push(`Opposites: <b>${r.ant.join(', ')}</b>`);
+    return `<span class="entry-forms">${parts.join(' · ')}</span>`;
+  }
 
   function render(filter){
     const q = (filter || '').trim().toLowerCase();
@@ -352,6 +370,7 @@
             <span class="entry-word">${item.w}</span>
             <span class="entry-pos mono">${item.p}</span>
             <span class="entry-ipa">${item.ipa}</span>
+            ${formsHTML(item)}${relatedHTML(item)}
           </div>
           <div class="entry-def">${item.def}</div>
           ${item.tr ? `<div class="entry-tr">${item.tr}</div>` : ''}

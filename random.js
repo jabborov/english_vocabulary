@@ -51,6 +51,8 @@
   .rw-pos{ font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--accent);
     border:1px solid var(--accent-dim); border-radius:4px; padding:2px 8px; }
   .rw-ipa{ font-family:'JetBrains Mono',monospace; font-size:14px; color:var(--muted); }
+  .rw-forms{ font-size:13px; color:var(--muted); }
+  .rw-forms b{ font-weight:600; color:var(--text); }
   .rw-row{ margin-bottom:12px; }
   .rw-label{ font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--muted);
     text-transform:uppercase; letter-spacing:.04em; margin-bottom:2px; }
@@ -85,6 +87,7 @@
         <span class="rw-word" id="rw-word"></span>
         <span class="rw-pos" id="rw-pos"></span>
         <span class="rw-ipa" id="rw-ipa"></span>
+        <span class="rw-forms" id="rw-forms"></span>
       </div>
       <div class="rw-row"><div class="rw-label">English meaning</div><div id="rw-en"></div></div>
       <div class="rw-row"><div class="rw-label">Uzbek translation</div><div class="rw-uz" id="rw-uz"></div></div>
@@ -112,6 +115,13 @@
     $('rw-word').textContent = it.w;
     $('rw-pos').textContent = it.p;
     $('rw-ipa').textContent = it.ipa;
+    const vf = window.verbForms ? window.verbForms(it) : null;
+    const rel = window.adjRelated ? window.adjRelated(it) : null;
+    const relParts = rel ? [
+      rel.syn.length ? `Synonyms: <b>${rel.syn.join(', ')}</b>` : '',
+      rel.ant.length ? `Opposites: <b>${rel.ant.join(', ')}</b>` : ''
+    ].filter(Boolean) : [];
+    $('rw-forms').innerHTML = vf ? `Past: <b>${vf.past}</b> · Present perfect: <b>${vf.perfect}</b>` : relParts.join(' · ');
 
     const en = $('rw-en');
     en.className = f.en ? 'rw-en' : 'rw-missing';
