@@ -53,6 +53,7 @@
   .rw-ipa{ font-family:'JetBrains Mono',monospace; font-size:14px; color:var(--muted); }
   .rw-forms{ font-size:13px; color:var(--muted); }
   .rw-forms b{ font-weight:600; color:var(--text); }
+  .rw-forms .lbl{ font-style:normal; color:var(--accent); }
   .rw-row{ margin-bottom:12px; }
   .rw-label{ font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--muted);
     text-transform:uppercase; letter-spacing:.04em; margin-bottom:2px; }
@@ -118,10 +119,10 @@
     const vf = window.verbForms ? window.verbForms(it) : null;
     const rel = window.adjRelated ? window.adjRelated(it) : null;
     const relParts = rel ? [
-      rel.syn.length ? `Synonyms: <b>${rel.syn.join(', ')}</b>` : '',
-      rel.ant.length ? `Opposites: <b>${rel.ant.join(', ')}</b>` : ''
+      rel.syn.length ? `<i class="lbl">Synonyms:</i> <b>${rel.syn.join(', ')}</b>` : '',
+      rel.ant.length ? `<i class="lbl">Opposites:</i> <b>${rel.ant.join(', ')}</b>` : ''
     ].filter(Boolean) : [];
-    $('rw-forms').innerHTML = vf ? `Past: <b>${vf.past}</b> · Present perfect: <b>${vf.perfect}</b>` : relParts.join(' · ');
+    $('rw-forms').innerHTML = vf ? `<i class="lbl">Past:</i> <b>${vf.past}</b> · <i class="lbl">Past participle:</i> <b>${vf.participle}</b>` : relParts.join(' · ');
 
     const en = $('rw-en');
     en.className = f.en ? 'rw-en' : 'rw-missing';

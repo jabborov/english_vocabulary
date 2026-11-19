@@ -1,6 +1,6 @@
 // Irregular English verbs: base -> [past simple, past participle].
 // British forms first where two are common (e.g. "learnt/learned").
-// window.verbForms(item) returns {past, perfect} for verb entries
+// window.verbForms(item) returns {past, participle} for verb entries
 // (including phrasal verbs such as "give up"), or null.
 (function(){
   const V = {
@@ -67,7 +67,7 @@
     const join = x => rest ? `${x} ${rest}` : x;
     return {
       past: f[0].split('/').map(join).join(' / '),
-      perfect: f[1].split('/').map(x => 'have ' + join(x)).join(' / ')
+      participle: f[1].split('/').map(join).join(' / ')
     };
   };
 })();

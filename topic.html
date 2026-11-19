@@ -132,6 +132,7 @@
   .entry-ipa{ font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--muted); }
   .entry-forms{ font-size: 13px; color: var(--muted); }
   .entry-forms b{ font-weight: 600; color: var(--text); }
+  .entry-forms .lbl{ font-style: normal; color: var(--accent); }
   .entry-def{ font-size: 15px; margin-bottom: 6px; }
   .entry-tr{ font-size: 13.5px; color: var(--accent); margin-bottom: 8px; }
   .entry-ex{ font-size: 14px; color: var(--muted); font-style: italic; }
@@ -334,18 +335,18 @@
 
   // ----- Dictionary source: Oxford Learner's Dictionaries only -----
   const oxfordUrl = w => `https://www.oxfordlearnersdictionaries.com/search/english/?q=${encodeURIComponent(w)}`;
-  // Irregular verbs: past simple and present perfect next to the transcription.
+  // Irregular verbs: past simple and past participle next to the transcription.
   function formsHTML(item){
     const f = window.verbForms ? window.verbForms(item) : null;
-    return f ? `<span class="entry-forms">Past: <b>${f.past}</b> · Present perfect: <b>${f.perfect}</b></span>` : '';
+    return f ? `<span class="entry-forms"><i class="lbl">Past:</i> <b>${f.past}</b> · <i class="lbl">Past participle:</i> <b>${f.participle}</b></span>` : '';
   }
   // Adjectives: synonyms and opposites next to the transcription.
   function relatedHTML(item){
     const r = window.adjRelated ? window.adjRelated(item) : null;
     if(!r) return '';
     const parts = [];
-    if(r.syn.length) parts.push(`Synonyms: <b>${r.syn.join(', ')}</b>`);
-    if(r.ant.length) parts.push(`Opposites: <b>${r.ant.join(', ')}</b>`);
+    if(r.syn.length) parts.push(`<i class="lbl">Synonyms:</i> <b>${r.syn.join(', ')}</b>`);
+    if(r.ant.length) parts.push(`<i class="lbl">Opposites:</i> <b>${r.ant.join(', ')}</b>`);
     return `<span class="entry-forms">${parts.join(' · ')}</span>`;
   }
 
