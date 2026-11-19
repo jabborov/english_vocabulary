@@ -15,6 +15,8 @@
       var saved = localStorage.getItem('vocab-theme');
       var theme = saved || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
       document.documentElement.setAttribute('data-theme', theme);
+      // Synonyms/opposites display: shown unless turned off.
+      if(localStorage.getItem('vocab-related') === 'off') document.documentElement.setAttribute('data-related', 'off');
     }catch(e){
       document.documentElement.setAttribute('data-theme', 'dark');
     }

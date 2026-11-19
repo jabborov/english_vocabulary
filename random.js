@@ -54,6 +54,7 @@
   .rw-forms{ font-size:13px; color:var(--muted); }
   .rw-forms b{ font-weight:600; color:var(--text); }
   .rw-forms .lbl{ font-style:normal; color:var(--accent); }
+  [data-related="off"] .rw-related{ display:none; }
   .rw-row{ margin-bottom:12px; }
   .rw-label{ font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--muted);
     text-transform:uppercase; letter-spacing:.04em; margin-bottom:2px; }
@@ -89,6 +90,7 @@
         <span class="rw-pos" id="rw-pos"></span>
         <span class="rw-ipa" id="rw-ipa"></span>
         <span class="rw-forms" id="rw-forms"></span>
+        <span class="rw-forms rw-related" id="rw-related"></span>
       </div>
       <div class="rw-row"><div class="rw-label">English meaning</div><div id="rw-en"></div></div>
       <div class="rw-row"><div class="rw-label">Uzbek translation</div><div class="rw-uz" id="rw-uz"></div></div>
@@ -122,7 +124,8 @@
       rel.syn.length ? `<i class="lbl">Synonyms:</i> <b>${rel.syn.join(', ')}</b>` : '',
       rel.ant.length ? `<i class="lbl">Opposites:</i> <b>${rel.ant.join(', ')}</b>` : ''
     ].filter(Boolean) : [];
-    $('rw-forms').innerHTML = vf ? `<i class="lbl">Past:</i> <b>${vf.past}</b> · <i class="lbl">Past participle:</i> <b>${vf.participle}</b>` : relParts.join(' · ');
+    $('rw-forms').innerHTML = vf ? `<i class="lbl">Past:</i> <b>${vf.past}</b> · <i class="lbl">Past participle:</i> <b>${vf.participle}</b>` : '';
+    $('rw-related').innerHTML = relParts.join(' · ');
 
     const en = $('rw-en');
     en.className = f.en ? 'rw-en' : 'rw-missing';
