@@ -91,6 +91,10 @@
   }
   .part-btn:hover{ border-color: var(--accent); color: var(--accent); }
   .part-btn.active{ border-color: var(--accent); background: var(--accent); color: var(--bg); }
+  /* Synonyms on by default; the off state comes from <html data-related="off">, set before first paint. */
+  .related-btn{ border-color: var(--accent); color: var(--accent); }
+  [data-related="off"] .related-btn{ border-color: var(--line); color: var(--muted); }
+  [data-related="off"] .related-btn:hover{ border-color: var(--accent); color: var(--accent); }
   .empty-part{ border: 1px dashed var(--line); border-radius: 10px; padding: 32px 26px; color: var(--muted); text-align: center; font-size: 14.5px; }
 
   .global-search{ margin-top: 28px; position: relative; }
@@ -167,6 +171,7 @@
       <button class="random-btn" type="button" data-random-word>↻ Random word</button>
       <button class="part-btn" type="button" data-part="1" aria-pressed="false">Part 1</button>
       <button class="part-btn" type="button" data-part="2" aria-pressed="false">Part 2</button>
+      <button class="part-btn related-btn" id="related-toggle" type="button" aria-pressed="true" title="Show or hide synonyms and opposites">⇄ Synonyms</button>
     </div>
     <div class="global-search">
       <input id="global-search" type="search" placeholder="Search all words, translations or definitions…" autocomplete="off" aria-label="Search all topics" aria-controls="search-results">
@@ -310,7 +315,7 @@
   });
 
   // Part 1 / Part 2 switch
-  const partBtns = document.querySelectorAll('.part-btn');
+  const partBtns = document.querySelectorAll('.part-btn[data-part]');
   function setPart(p){
     part = p;
     try{ localStorage.setItem('vocab-part', p); }catch(e){}
@@ -333,6 +338,18 @@
     const next = current === 'light' ? 'dark' : 'light';
     document.documentElement.setAttribute('data-theme', next);
     try{ localStorage.setItem('vocab-theme', next); }catch(e){}
+  });
+
+  // Synonyms and opposites on/off (shared with topic pages and the Random box)
+  const relatedBtn = document.getElementById('related-toggle');
+  const syncRelated = () => relatedBtn.setAttribute('aria-pressed', document.documentElement.getAttribute('data-related') === 'off' ? 'false' : 'true');
+  syncRelated();
+  relatedBtn.addEventListener('click', () => {
+    const off = document.documentElement.getAttribute('data-related') !== 'off';
+    if(off) document.documentElement.setAttribute('data-related', 'off');
+    else document.documentElement.removeAttribute('data-related');
+    try{ localStorage.setItem('vocab-related', off ? 'off' : 'on'); }catch(e){}
+    syncRelated();
   });
 </script>
 
