@@ -1,5 +1,5 @@
-// Synonyms and opposites for adjectives, nouns, verbs and adverbs: word -> {syn:[...], ant:[...]}.
-// window.adjRelated(item) returns the entry for an adjective, noun, verb or adverb item, or null.
+// Synonyms and opposites for adjectives, nouns, verbs, adverbs, determiners and pronouns: word -> {syn:[...], ant:[...]}.
+// window.adjRelated(item) returns the entry for an adjective, noun, verb, adverb, determiner or pronoun item, or null.
 (function(){
   const R = {
    adjective: {
@@ -9237,6 +9237,40 @@
     "wisely":{"syn":["sensibly","prudently","judiciously"],"ant":["foolishly","unwisely"]},
     "wrongly":{"syn":["incorrectly","mistakenly","unfairly"],"ant":["rightly","correctly"]},
     "yet":{"syn":["so far","until now","still"],"ant":[]}
+   },
+   determiner: {
+    "a few":{"syn":["some","several","a couple of"],"ant":["many","a lot of"]},
+    "all":{"syn":["every","each","the whole"],"ant":["none","no"]},
+    "any":{"syn":["some","a single"],"ant":["no","none"]},
+    "both":{"syn":["the two","each"],"ant":["neither"]},
+    "enough":{"syn":["sufficient","adequate","plenty of"],"ant":["insufficient","too little"]},
+    "few":{"syn":["not many","hardly any"],"ant":["many","a lot of"]},
+    "least":{"syn":["fewest","smallest","minimum"],"ant":["most"]},
+    "many":{"syn":["a lot of","numerous","lots of"],"ant":["few"]},
+    "many a":{"syn":["many","numerous"],"ant":["few"]},
+    "more":{"syn":["additional","extra","further"],"ant":["less","fewer"]},
+    "most":{"syn":["the majority of","nearly all"],"ant":["least","fewest"]},
+    "neither":{"syn":["not either"],"ant":["both","either"]},
+    "no":{"syn":["not any","not a single"],"ant":["some","any"]},
+    "second":{"syn":["next","following"],"ant":["first"]},
+    "several":{"syn":["a few","some","various"],"ant":["many"]},
+    "such":{"syn":["like this","of this kind"],"ant":[]},
+    "third":{"syn":["3rd"],"ant":[]},
+    "whatever":{"syn":["any","no matter what"],"ant":[]}
+   },
+   pronoun: {
+    "all":{"syn":["everyone","everything","each"],"ant":["none","nobody"]},
+    "loads":{"syn":["lots","plenty","heaps"],"ant":["few","little"]},
+    "mine":{"syn":["my own"],"ant":["yours"]},
+    "more":{"syn":["extra","additional"],"ant":["less","fewer"]},
+    "most":{"syn":["the majority","nearly all"],"ant":["least","the minority"]},
+    "neither":{"syn":["not either","nor"],"ant":["both","either"]},
+    "none":{"syn":["not one","nobody","nothing"],"ant":["all","everyone"]},
+    "one":{"syn":["someone","a person"],"ant":[]},
+    "plenty":{"syn":["lots","loads","enough"],"ant":["shortage","lack"]},
+    "several":{"syn":["a few","some"],"ant":["many"]},
+    "thou":{"syn":["you"],"ant":[]},
+    "whatever":{"syn":["anything","no matter what"],"ant":["nothing"]}
    }
   };
   window.WORD_RELATED = R;
@@ -9244,7 +9278,7 @@
     if(!item) return null;
     const w = String(item.w).trim().toLowerCase();
     // Try each part of speech in the order it is listed, e.g. "noun, adjective".
-    const order = String(item.p || '').match(/\b(adjective|adverb|noun|verb)\b/gi) || [];
+    const order = String(item.p || '').match(/\b(adjective|adverb|noun|verb|determiner|pronoun)\b/gi) || [];
     if(/proper noun/i.test(item.p || '')) return null;
     for(const c of order){
       const e = R[c.toLowerCase()][w];
