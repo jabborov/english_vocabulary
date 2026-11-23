@@ -1,0 +1,59 @@
+// Part 1 topic 0205: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0205', {
+ "B1": {
+  "Victoria": "Victoria ispan tilini maktabda o'rgangan.",
+  "bilingual": "U ikki tilli oilada ulg'aygan.",
+  "cognitive neuroscientist": "Dasturda kognitiv neyrobiolog so'zga chiqdi.",
+  "first language": "Ingliz tili uning ona tili emas.",
+  "immerse": "U kitobga butunlay sho'ng'ib ketdi.",
+  "learner": "Bu kitob til o'rganuvchilar uchun.",
+  "logo": "Kompaniyangiz logotipi menga yoqadi.",
+  "monolingual": "Shahrimizdagi ko'pchilik odamlar faqat bitta tilda gaplashadi.",
+  "paying back": "U kreditini qaytarib to'layapti.",
+  "polyglot": "U ko'p tilni biladigan poliglot bo'lishni xohlaydi.",
+  "to the full": "U hayotdan to'liq bahramand bo'lib yashaydi.",
+  "weekday": "Do'kon ish kunlari ochiq."
+ },
+ "B2": {
+  "Victoria": "Viktoriya har kuni yangi so'zlar o'rganishini aytdi.",
+  "bilingual": "Ikki tilli bolalar ko'pincha tillar o'rtasida osongina o'tishadi.",
+  "cognitive neuroscientist": "Kognitiv nevrolog miya bir nechta tilni qanday boshqarishini tushuntirib berdi.",
+  "first language": "Bolalar o'z ona tilini hech qanday darssiz o'rganishadi.",
+  "immerse": "Chet elda yashash sizga yangi tilga to'liq sho'ng'ish imkonini beradi.",
+  "learner": "Til o'rganuvchilar har kuni gapirishni mashq qilishlari kerak.",
+  "logo": "Ko'p odamlar til ilovasining logotipini darhol tanishadi.",
+  "monolingual": "Bir tilli odamlar ba'zan ikkinchi tilni o'rganishni qiyin deb bilishadi.",
+  "paying back": "Mening mashaqqatli mehnatim nihoyat o'z samarasini bermoqda.",
+  "polyglot": "Ba'zi poliglotlar har yili yangi til o'rganishadi.",
+  "to the full": "Gapirish uchun har bir imkoniyatdan to'liq foydalaning.",
+  "weekday": "U ish kunlarining har birida boshqa tilni mashq qiladi."
+ },
+ "C1": {
+  "Victoria": "Viktoriya barcha tillarini qanday faol saqlab turishini tushuntirib berdi.",
+  "bilingual": "Ba'zi tadqiqotlarga ko'ra, ikki tilli odamlar bir vaqtda bir nechta ishni bajarishga ustaroq.",
+  "cognitive neuroscientist": "Kognitiv neyrobiologlar nutq paytida miyaning qaysi qismlari faol ekanini ko'rish uchun miya skanerlaridan foydalanishadi.",
+  "first language": "Ikkinchi tilni o'rganish ona tilini o'zlashtirishdan juda farq qiladi.",
+  "immerse": "Ko'p tilni biladiganlar ko'pincha o'rganayotgan tilidagi filmlar va kitoblarga sho'ng'ib ketishadi.",
+  "learner": "Katta yoshdagi til o'rganuvchilar ko'pincha bolalarga qaraganda yaxshiroq o'qish ko'nikmalariga ega bo'lishadi.",
+  "logo": "Maktab ko'plab mamlakatlar bayroqlarini aks ettirish uchun logotipini o'zgartirdi.",
+  "monolingual": "Tadqiqotchilar bir tilli va ikki tilli kattalarning miyasini solishtirishdi.",
+  "paying back": "Til o'rganish vaqt talab qiladi, ammo sarflangan mehnat yillar davomida o'z samarasini berib turadi.",
+  "polyglot": "Tadqiqotchilar ko'p tilni biladigan odamlarning tilni qanday qayta ishlashini ko'rish uchun ularning miyasini skanerdan o'tkazishdi.",
+  "to the full": "Agar chet elda yashasangiz, bu tajribadan to'liq foydalanishingiz kerak.",
+  "weekday": "Ish kunlari u ishga ketayotib frantsuz tilidagi podkastlarni tinglaydi."
+ },
+ "C2": {
+  "Victoria": "Viktoriyaning fikricha, til o'rganishning kaliti muntazam va mazmunli amaliyotdir.",
+  "bilingual": "Ikki tilli bo'lish demensiya boshlanishini kechiktirishi mumkin, garchi dalillar hamon munozarali bo'lsa ham.",
+  "cognitive neuroscientist": "Kognitiv neyrobiolog sifatida u ko'p tilli miyalar raqobatlashuvchi lug'at boyliklarini qanday boshqarishini tadqiq qiladi.",
+  "first language": "Ona tilimizni o'zlashtirish usulimiz keyinchalik boshqa tillarni o'rganishga yondashuvimizni shakllantiradi.",
+  "immerse": "Tilga to'liq sho'ng'ish, garchi mashaqqatli bo'lsa-da, ravon gapirishning eng samarali yo'li bo'lib qolmoqda.",
+  "learner": "Muvaffaqiyatli o'rganuvchilar tizimli o'qishni real hayotdagi ko'p muloqot bilan uyg'unlashtirishga moyil.",
+  "logo": "Yaxshi ishlangan logotip brendning o'ziga xosligini hech qaysi tildagi so'zlarsiz yetkazib bera oladi.",
+  "monolingual": "Dunyoning katta qismida bir tilli bo'lish aslida me'yor emas, balki istisnodir.",
+  "paying back": "Erta til ta'limiga kiritilgan sarmoya keyingi akademik muvaffaqiyatda o'zini mo'l-ko'l oqlamoqda.",
+  "polyglot": "Poliglotlar ko'pincha har bir qo'shimcha tilni o'rganish avvalgisidan osonroq bo'lishini aytishadi.",
+  "to the full": "Poliglotlar mashq qilish uchun har bir imkoniyatdan to'liq foydalanishga moyil.",
+  "weekday": "Har bir ish kunida yigirma daqiqa ajratib, u holdan toymasdan barqaror o'sishga erishdi."
+ }
+});

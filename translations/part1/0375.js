@@ -1,0 +1,67 @@
+// Part 1 topic 0375: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0375', {
+ "B1": {
+  "brushing": "Tishlarni tozalash muhim.",
+  "cerebral palsy": "Amakivachcham bolalar serebral falaji bilan tug'ilgan.",
+  "equine": "Markaz ot yordamida terapiya xizmatini taklif qiladi.",
+  "gentleness": "Hamshira unga muloyimlik bilan munosabatda bo'ldi.",
+  "grooming": "Bolalar poni otlarini parvarish qilishni yoqtirishadi.",
+  "heart rate": "Jismoniy mashqlar yurak urish tezligini oshiradi.",
+  "majestic": "Osmonda viqorli burgutni ko'rdik.",
+  "make over": "Biz bog'ni butunlay yangilamoqchimiz.",
+  "pony": "U har shanba kuni poni otiga minadi.",
+  "reliance": "Shahar turizmga juda qaram.",
+  "riding horse": "Fermada ikkita minish oti saqlanadi.",
+  "umbrella": "Soyabonimni avtobusda qoldirib ketdim.",
+  "unanswered": "Bir nechta elektron xatlarim javobsiz qoldi.",
+  "work through": "Biz bu savollarni birma-bir hal qilib chiqishimiz kerak."
+ },
+ "B2": {
+  "brushing": "Ot minishdan keyin bolalar otni o'zlari cho'tkalab tozalashadi.",
+  "cerebral palsy": "Ot minish bolalar serebral falaji bilan og'rigan odamlarga mushaklarini mustahkamlashda yordam beradi.",
+  "equine": "Otlar yordamidagi terapiya odamlarga o'ziga ishonchni mustahkamlashda yordam beradi.",
+  "gentleness": "Otning yuvoshligi qizchaga qo'rquvini yengishga yordam berdi.",
+  "grooming": "Otni parvarish qilish bemorlarga ot bilan yaqin aloqa o'rnatishga yordam beradi.",
+  "heart rate": "Otni silash yurak urishi tezligi va qon bosimini pasaytirishi mumkin.",
+  "majestic": "Viqorli oq ot bolaning yonida xotirjam turardi.",
+  "make over": "Eski ombor terapiya markaziga aylantirildi.",
+  "pony": "Yuvosh poni uyatchan bolaga bo'shashishga yordam berdi.",
+  "reliance": "Shifokorlar ot terapiyasi og'riq qoldiruvchi dorilarga qaramlikni kamaytirishiga umid qilishadi.",
+  "riding horse": "Bolalar bilan terapiyada faqat yuvosh minish otlaridan foydalaniladi.",
+  "umbrella": "\"Hayvonlar terapiyasi\" itlar va otlar bilan ishlashni o'z ichiga olgan umumlashtiruvchi atamadir.",
+  "unanswered": "Terapiyaning foydasi haqidagi ba'zi savollar hamon javobsiz qolmoqda.",
+  "work through": "Terapiya unga baxtsiz hodisadan keyingi g'azabini yengib o'tishga yordam berdi."
+ },
+ "C1": {
+  "brushing": "Muntazam cho'tkalash kirni ketkazadi va otning junini yaltiroq saqlaydi.",
+  "cerebral palsy": "Bolalar serebral falaji yengil qotishdan tortib harakatlanishdagi jiddiy qiyinchiliklargacha juda xilma-xil bo'ladi.",
+  "equine": "Tadqiqotchilar ot terapiyasining xavotirga qarshi foydalari haqida dalillar to'plashmoqda.",
+  "gentleness": "Kattaligiga qaramay, bu hayvonlar ajoyib yuvoshligi bilan mashhur.",
+  "grooming": "Muntazam parvarish otning junini sog'lom saqlaydi va jarohatlarni tekshirish imkonini beradi.",
+  "heart rate": "Tadqiqotchilar har bir mashg'ulotdan oldin va keyin chavandozlarning yurak urish tezligini kuzatib borishdi.",
+  "majestic": "Otning ochiq dala bo'ylab harakatlanishida qandaydir viqorli jihat bor.",
+  "make over": "Teleko'rsatuv xarob bo'lgan otxonani atigi ikki hafta ichida butunlay yangilab chiqdi.",
+  "pony": "Poni otlari ko'pincha terapiyada qo'llaniladi, chunki ular katta otlarga qaraganda kamroq qo'rqitadi.",
+  "reliance": "Yagona davolash usuliga haddan tashqari tayanish xavfli bo'lishi mumkin.",
+  "riding horse": "Yaxshi minish oti asabiy yangi boshlovchilarga sabr bilan munosabatda bo'lishi kerak.",
+  "umbrella": "Xayriya tashkiloti o'nlab kichik ot minish markazlari uchun bosh tashkilot vazifasini bajaradi.",
+  "unanswered": "Tadqiqot eng muhim savolni javobsiz qoldiradi: bu ta'sir uzoq davom etadimi?",
+  "work through": "Bemorlar otlarni parvarish qilish jarayonida ko'pincha og'ir xotiralarni asta-sekin yengib o'tishadi."
+ },
+ "C2": {
+  "brushing": "Cho'tkalashning sekin, takroriy harakati xavotirli bemorlarga tinchlantiruvchi ta'sir ko'rsatadiganga o'xshaydi.",
+  "cerebral palsy": "Bolalar serebral falaji bilan og'rigan ko'plab yosh chavandozlar uchun otning ritmik harakati yurish harakatiga taqlid qiladi.",
+  "equine": "Otlar bo'yicha mutaxassislar har qanday terapevtik dasturda otning farovonligi markaziy o'rinda qolishi kerakligini ta'kidlaydi.",
+  "gentleness": "Ko'ngillilarga otning ishonchini qozonishning kaliti kuch emas, balki muloyimlik ekani o'rgatiladi.",
+  "grooming": "Ba'zi bemorlar uchun otni parvarishlashning sokin tartibi minishning o'zidan ko'ra ko'proq shifobaxsh ta'sir qiladi.",
+  "heart rate": "Qizig'i shundaki, chavandoz tinchlanganda otning yurak urish tezligi ham sekinlashgandek bo'ldi.",
+  "majestic": "Ulug'vor gavdasiga qaramay, otlar chavandozlarning eng kichik harakatlariga ham muloyimlik bilan javob berardi.",
+  "make over": "Loyiha nafaqat binoni, balki undan foydalanadigan yoshlarning hayotini ham tubdan o'zgartirishni maqsad qilgan.",
+  "pony": "Kichik bo'yiga qaramay, poni otlar ajablanarli darajada qaysar bo'lishi mumkin va ular bilan ehtiyotkorona muomala qilish kerak.",
+  "reliance": "Markazning xayriya xayr-ehsonlariga tayanishi uning kelajagini noaniq qilib qo'yadi.",
+  "riding horse": "Iste'fodagi poyga otlari ba'zan terapevtik dasturlar uchun minib yuriladigan otlar sifatida qayta o'rgatiladi.",
+  "umbrella": "\"Farovonlik\" degan umumiy nom ostida bemorlarga sifati juda turlicha bo'lgan dasturlar taklif etiladi.",
+  "unanswered": "Kengroq sinovlar o'tkazilmaguncha, bu savollar kishini afsuslantiradigan darajada javobsiz qolaveradi.",
+  "work through": "Qayg'uni shoshiltirib bo'lmaydi; odamlarga uni yengib o'tish uchun vaqt va qo'llab-quvvatlash kerak."
+ }
+});

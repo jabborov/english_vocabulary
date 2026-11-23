@@ -1,0 +1,67 @@
+// Part 1 topic 0119: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0119', {
+ "B1": {
+  "addictive": "Ijtimoiy tarmoqlar juda qaram qilib qo'yadi.",
+  "adolescent": "Ko'plab o'smirlar ijtimoiy tarmoqlardan foydalanadi.",
+  "adulthood": "Bolalar ulg'ayib, voyaga yetadi.",
+  "chronic": "Surunkali stress siz uchun zararli.",
+  "eating disorder": "U ovqatlanish buzilishi bo'yicha yordam oldi.",
+  "gamble": "Ba'zi odamlar internetda qimor o'ynaydi.",
+  "navigate": "Veb-saytda kerakli narsani topish qiyin.",
+  "onus": "Bu yerda mas'uliyat kimning zimmasida?",
+  "prioritise": "U oilasini birinchi o'ringa qo'yadi.",
+  "revenue": "Reklamalar daromad keltiradi.",
+  "teen": "Ko'plab o'smirlar Instagram'dan foydalanadi.",
+  "time period": "Bir yillik vaqt davomida vaziyat o'zgardi.",
+  "user": "Yosh foydalanuvchilar videolarni juda yaxshi ko'radi.",
+  "young girl": "Yosh qizlarga bu ilova yoqadi."
+ },
+ "B2": {
+  "addictive": "Ko'plab ilovalar ataylab qaramlik uyg'otadigan qilib yaratiladi.",
+  "adolescent": "O'smirlar boshqalarning ular haqida nima deb o'ylashiga ayniqsa sezgir bo'lishadi.",
+  "adulthood": "O'smirlik yillarida boshlangan ruhiy salomatlik muammolari voyaga yetgandan keyin ham davom etishi mumkin.",
+  "chronic": "Surunkali uyqusizlik ekran oldida haddan ziyod ko'p vaqt o'tkazish bilan bog'liq.",
+  "eating disorder": "Juda ozg'in tanalar tasvirlari ovqatlanish buzilishlariga sabab bo'lishi mumkin.",
+  "gamble": "Ba'zi ilovalar foydalanuvchilarni qimorga o'xshash tarzda rag'batlantiradi.",
+  "navigate": "Ota-onalar farzandlariga ijtimoiy tarmoqlarda xavfsiz yo'l topishga yordam berishadi.",
+  "onus": "Ilovalarni xavfsizroq qilish mas'uliyati kompaniyalar zimmasida.",
+  "prioritise": "Ota-onalarga ekran vaqtidan ko'ra uyquga ustuvorlik berish tavsiya etiladi.",
+  "revenue": "Ijtimoiy tarmoqlar daromadining asosiy qismi reklamadan keladi.",
+  "teen": "O'smirlar ijtimoiy tarmoqlarda kuniga o'rtacha bir necha soat vaqt o'tkazishadi.",
+  "time period": "Tadqiqotchilar o'n yillik vaqt oralig'ida kayfiyatni o'lchab borishdi.",
+  "user": "Ko'plab foydalanuvchilar rasmiy yosh chegarasidan kichikroq.",
+  "young girl": "Tadqiqotlarga ko'ra, onlayn taqqoslashlardan ayniqsa yosh qizlar aziyat chekadi."
+ },
+ "C1": {
+  "addictive": "Cheksiz aylantirish ijtimoiy tarmoqlarni o'smirlar uchun ayniqsa qaramlik uyg'otadigan qiladi.",
+  "adolescent": "Tadqiqotlar ijtimoiy tarmoqlardan ko'p foydalanadigan o'smirlar ko'proq xavotirdan shikoyat qilishini ko'rsatadi.",
+  "adulthood": "O'smirlikdan kattalik davriga o'tish hozir asosan onlayn tarzda kechmoqda.",
+  "chronic": "Ijtimoiy tarmoqlardan haddan ortiq foydalanish surunkali yolg'izlik hissi bilan bog'liq ekani aniqlangan.",
+  "eating disorder": "Shifokorlar ijtimoiy tarmoqlardan ko'p foydalanadigan o'smirlar orasida ovqatlanish buzilishlari ko'payganini qayd etishmoqda.",
+  "gamble": "Bolalarga ijtimoiy tarmoqlardan bunchalik yoshligidan foydalanishga ruxsat berib, biz ularning sog'lig'ini tavakkalga qo'yayotgan bo'lishimiz mumkin.",
+  "navigate": "Yoshlar internetdagi doimiy taqqoslashlar olamida yo'l topishlari kerak.",
+  "onus": "Ko'pchilikning fikricha, ekran vaqtini nazorat qilish mas'uliyati to'liq ota-onalar zimmasiga tushmasligi kerak.",
+  "prioritise": "Tartibga soluvchilar platformalar o'smirlarning farovonligini birinchi o'ringa qo'yishini xohlashadi.",
+  "revenue": "Foydalanuvchilar internetda qancha ko'p vaqt o'tkazsa, platformalar shuncha ko'p daromad oladi.",
+  "teen": "So'rovnomalar o'smirlar internetda mukammal ko'rinishga majbur ekanliklarini his qilishlarini ko'rsatadi.",
+  "time period": "Bu davr mobaynida o'smir qizlar orasida xavotir darajasi keskin oshdi.",
+  "user": "Platformalar har bir foydalanuvchi haqida juda katta hajmdagi ma'lumotlarni to'playdi.",
+  "young girl": "Yosh qizlar ijtimoiy tarmoqlarda ko'pincha haqiqatga to'g'ri kelmaydigan go'zallik andozalariga duch kelishadi."
+ },
+ "C2": {
+  "addictive": "Tanqidchilar qaramlikka olib keluvchi dizayn xususiyatlari o'smirlarning rivojlanayotgan miyasidan foydalanadi, deb ta'kidlashadi.",
+  "adolescent": "Hali yetilayotgan o'smir miyasi onlayn ijtimoiy taqqoslashga alohida darajada zaif bo'lishi mumkin.",
+  "adulthood": "Ijtimoiy tarmoqlar bilan erta tanishish o'zi haqidagi tasavvurni voyaga yetgandan keyin ham shakllantirishi mumkin.",
+  "chronic": "Ideallashtirilgan tasvirlarga surunkali duch kelish ko'p yillar davomida o'zini hurmat qilish tuyg'usini yemirishi mumkin.",
+  "eating disorder": "Zaif foydalanuvchilarga parhez kontentini tiqishtiradigan algoritmlar ovqatlanish buzilishlari bilan bog'langan.",
+  "gamble": "Tadqiqotchilar ijtimoiy tarmoqlarning mukofot sikllarini qimor avtomatlarida qo'llaniladigan sikllarga qiyoslashadi.",
+  "navigate": "O'smirlik davridan o'tish hech qachon oson bo'lmagan; ijtimoiy tarmoqlar esa unga yangi murakkablik qatlamini qo'shdi.",
+  "onus": "Mas'uliyat yukini foydalanuvchilardan platformalarga o'tkazish yangi qonunchilikning asosiy maqsadidir.",
+  "prioritise": "Texnologiya firmalari yosh foydalanuvchilarning ruhiy salomatligidan ko'ra faollikni ustun qo'yganlikda ayblanmoqda.",
+  "revenue": "Tanqidchilar reklama daromadiga asoslangan biznes modeli tabiatan foydalanuvchilar farovonligiga zid, deb ta'kidlashadi.",
+  "teen": "O'smirlarning o'zlari ko'pincha o'zlari foydalanadigan platformalarning eng aniq fikr bildiruvchi tanqidchilari bo'lishadi.",
+  "time period": "Bunday vaqt oralig'ida ijtimoiy tarmoqlar ta'sirini alohida ajratib olish uslubiy jihatdan murakkab.",
+  "user": "Foydalanuvchilarga mijoz emas, mahsulot sifatida qarash chuqur axloqiy savollarni tug'diradi.",
+  "young girl": "Yosh qizlarga oid ma'lumotlar tartibga solish haqidagi siyosiy bahslarning katta qismiga turtki bo'ldi."
+ }
+});

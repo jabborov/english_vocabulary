@@ -1,0 +1,59 @@
+// Part 1 topic 0459: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0459', {
+ "B1": {
+  "Jason": "Jeyson bankdan qarz oldi.",
+  "disconnect": "Kompaniya gazimizni uzib qo'ydi.",
+  "estate": "Mavzemizda do'kon bor.",
+  "housing estate": "Turar joy massivida ko'plab oilalar yashaydi.",
+  "in arrears": "Ko'plab oilalarning to'lovlar bo'yicha qarzi bor.",
+  "moral obligation": "Qarzlarimni to'lashni o'zimning ma'naviy burchim deb bilaman.",
+  "overdraft": "Bank menga overdraft berdi.",
+  "personal loan": "Shaxsiy kredit unga mashina sotib olishga yordam berdi.",
+  "repay": "Kreditni qaytarish uchun unga besh yil kerak bo'ldi.",
+  "saver": "Yaxshi tejamkor odam pulini bankda saqlaydi.",
+  "spender": "Isrofgarlarning ko'pincha jamg'armasi bo'lmaydi.",
+  "strain": "Qarz oilaga og'ir yuk bo'ladi."
+ },
+ "B2": {
+  "Jason": "Jason har oy overdraftdan foydalanishini aytdi.",
+  "disconnect": "Hisoblarini to'lamagan oilalar elektr va suvdan uzib qo'yilishi mumkin.",
+  "estate": "Yangi turar-joy massivi o'n yil oldin qurilgan.",
+  "housing estate": "Turar-joy massividagi ko'plab odamlar qarz bilan bog'liq qiyinchiliklarga duch kelishmoqda.",
+  "in arrears": "Agar to'lovlarni kechiktirsangiz, bank choralar ko'rishi mumkin.",
+  "moral obligation": "Ba'zi odamlar qarzni to'lashni ma'naviy burch deb bilishadi.",
+  "overdraft": "Ko'plab talabalar overdraft hisobiga kun kechirishadi.",
+  "personal loan": "Shaxsiy kreditni har oy to'lab borasiz.",
+  "repay": "Qarzni o'z vaqtida to'lashingiz kerak.",
+  "saver": "Past foiz stavkalari omonatchilar uchun yomon xabar.",
+  "spender": "Do'konlar ko'p pul sarflaydigan xaridorlarni yaxshi ko'radi.",
+  "strain": "Qarzdorlik tufayli chekkan ruhiy zo'riqish uni kasal qilib qo'ydi."
+ },
+ "C1": {
+  "Jason": "Jeyson foizlar qanchalik tez yig'ilib borishini anglamaganini tan oldi.",
+  "disconnect": "Elektr ta'minotidan uzib qo'yilish qarzning qo'rqinchli oqibatidir.",
+  "estate": "Massiv aholisi pul muammolarida bir-biriga yordam berish uchun guruh tuzishdi.",
+  "housing estate": "Bu turar-joy massivida ishsizlik darajasi yuqori.",
+  "in arrears": "Minglab xonadonlar hozirda ipoteka to'lovlari bo'yicha qarzdor bo'lib qolgan.",
+  "moral obligation": "Qarz beruvchilarning qaytara olmaydigan odamlarga qarz bermaslik bo'yicha axloqiy majburiyati bormi?",
+  "overdraft": "Har oy overdraftdan foydalanish qimmatga tushadigan odatga aylanishi mumkin.",
+  "personal loan": "Shaxsiy kreditning foiz stavkasi odatda kredit kartasinikidan pastroq bo'ladi.",
+  "repay": "Ko'plab qarz oluvchilar qarzini qaytarishga qiynaladi.",
+  "saver": "Banklar juda kam foiz to'lagani uchun omonatchilar zarar ko'rishdi.",
+  "spender": "Odatda pulni ko'p sarflaydiganlar qarzga botish ehtimoli yuqoriroq.",
+  "strain": "Moliyaviy tanglik er-xotin o'rtasidagi janjallarning eng ko'p uchraydigan sabablaridan biri."
+ },
+ "C2": {
+  "Jason": "Jeysonning hikoyasi kichik qarzlar qanchalik oson inqirozga aylanib ketishini ko'rsatadi.",
+  "disconnect": "Tartibga soluvchilar energetika kompaniyalari himoyaga muhtoj iste'molchilarni qachon tarmoqdan uzishi mumkinligini cheklab qo'ydi.",
+  "estate": "Mavzedagi hayot past maoshlar va arzon kreditdan cheklangan foydalanish imkoniyati bilan belgilanardi.",
+  "housing estate": "Qarz bo'yicha maslahat beruvchi xayriya tashkilotlari ko'pincha qashshoq turar-joy mavzelari aholisi bilan bevosita ishlaydi.",
+  "in arrears": "Qarzdorlikka tushib qolish kredit reytingingizga keyingi yillar davomida zarar yetkazishi mumkin.",
+  "moral obligation": "Bahs banklar mas'uliyatsiz kredit bergani uchun biror axloqiy majburiyatga egami, degan savol atrofida aylanadi.",
+  "overdraft": "Ruxsat etilmagan overdraftlar ko'pincha oddiy kreditdan ancha yuqori to'lovlarni talab qiladi.",
+  "personal loan": "Qarzlarni bitta iste'mol kreditiga birlashtirish to'lovlarni boshqarishni osonlashtirishi mumkin.",
+  "repay": "Kreditni qanchalik uzoq to'lasangiz, jami shunchalik ko'p foiz to'laysiz.",
+  "saver": "Qarz oluvchilarga foyda keltiradigan siyosat ko'pincha tejamkor jamg'aruvchilar hisobiga amalga oshadi.",
+  "spender": "Iqtisodiyot pul sarflovchilarga tayanadi, biroq shaxsiy moliya bo'yicha maslahatlar odatda jamg'aruvchilarni maqtaydi.",
+  "strain": "Surunkali qarzdorlikning ruhiy zo'riqishi ko'pincha siyosatchilar tomonidan yetarlicha baholanmaydi."
+ }
+});

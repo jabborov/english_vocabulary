@@ -1,0 +1,63 @@
+// Part 1 topic 0500: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0500', {
+ "B1": {
+  "crack down": "Politsiya tezlikni oshiruvchi haydovchilarga qarshi qattiq choralar ko'rmoqda.",
+  "crackdown": "Mast holda mashina haydashga qarshi keskin choralar ko'rildi.",
+  "dupe": "U soxta elektron xat orqali aldandi.",
+  "government department": "Davlat idorasi menga xat yubordi.",
+  "hooked": "U qahvaga mukkasidan ketdi.",
+  "murky": "Bitim biroz shubhali ko'rinardi.",
+  "postage": "Pochta xarajati sovg'aning o'zidan qimmatga tushdi.",
+  "postage stamp": "U eski pochta markalarini yig'adi.",
+  "scammer": "Firibgar uning hamma pulini olib ketdi.",
+  "strait": "Gibraltar bo'g'ozi juda gavjum.",
+  "sucker": "O'sha xatga faqat go'l odam ishonadi.",
+  "suckers": "Ba'zi soddalar to'lovni to'lab qo'yishdi.",
+  "tempter": "Bu taklif juda vasvasali edi."
+ },
+ "B2": {
+  "crack down": "Pochta xizmatlari soxta yutuq xatlariga qarshi keskin kurash olib bormoqda.",
+  "crackdown": "Hukumat firibgarlik xatlarini yuboruvchi jinoyatchilarga qarshi qat'iy choralar ko'rishni va'da qildi.",
+  "dupe": "Minglab odamlar firibgarlik xatlari orqali aldangan.",
+  "government department": "Firibgarlik xatlari ba'zan go'yo davlat idorasidan kelgandek ko'rsatiladi.",
+  "hooked": "Odamlar bir marta pul yuborgach, firibgarlar ularni o'z tuzog'iga ilintirib olishadi.",
+  "murky": "Firibgarlik xatlarini yuboradigan qorong'u guruhlar haqida kam narsa ma'lum.",
+  "postage": "Firibgarlik xatlarida ko'pincha pochta xarajati uchun kichik to'lov so'raladi.",
+  "postage stamp": "Firibgarlar har biriga pochta markasi yopishtirilgan minglab xatlar yuborishadi.",
+  "scammer": "Firibgarlar ko'pincha yolg'iz yashaydigan keksalarni nishonga oladi.",
+  "strait": "Jamg'armasidan ayrilish keksa ayolni jiddiy moliyaviy tanglikka solib qo'ydi.",
+  "sucker": "Firibgarlar avval javob bergan soddadil odamlar ro'yxatini saqlab qo'yishadi.",
+  "suckers": "Firibgarlar aldanuvchan odamlar ro'yxatini boshqa jinoyatchilarga sotishgan.",
+  "tempter": "Firibgar mavjud bo'lmagan boyliklarni taklif qilib, vasvasachi rolini o'ynaydi."
+ },
+ "C1": {
+  "crack down": "Yangi qonun rasmiylarga chalg'ituvchi xatlar yuboradigan kompaniyalarga qarshi keskin choralar ko'rish imkonini beradi.",
+  "crackdown": "Qat'iy choralar yuzlab firibgarlik xatlari to'xtatilishiga olib keldi.",
+  "dupe": "Qurbonlar ko'pincha aldanib qolganlarini tan olishdan uyalishadi.",
+  "government department": "Pochta firibgarligini to'xtatish uchun bir nechta davlat idorasi hamkorlikda ishlamoqda.",
+  "hooked": "Ko'plab qurbonlar navbatdagi xat nihoyat sovrin olib keladi, deb ishonib, unga mukkasidan ketib qolishadi.",
+  "murky": "Tergovchilar soxta kompaniyalarning qorong'i, shubhali tarmog'ini fosh etishdi.",
+  "postage": "Ommaviy pochta jo'natmasi juda arzon bo'lgani sababli, firibgarlar pul topishi uchun bir nechta qurbonning o'zi kifoya.",
+  "postage stamp": "Ba'zi firibgarlik xatlari rasmiyroq ko'rinish uchun xorijiy pochta markalaridan foydalanadi.",
+  "scammer": "Firibgarlar o'z xatlarini haqiqiydek ko'rsatish uchun ustalik bilan nayranglar ishlatishadi.",
+  "strait": "Pochta firibgarligi qurbonlari o'zlarini og'ir ahvolda topishlari mumkin.",
+  "sucker": "Men shokoladga o'chman - unga hech qachon yo'q deya olmayman.",
+  "suckers": "Keksa odamlar soddadil emas, lekin ular ko'pincha ataylab nishonga olinadi.",
+  "tempter": "Mumtoz vasvasachi kabi bu xat ham ochko'zlik va umidga murojaat qiladi."
+ },
+ "C2": {
+  "crack down": "Rasmiylar xalqaro pochta firibgarligi ortida turgan tarmoqlarga qarshi qat'iy kurashishga va'da berdi.",
+  "crackdown": "Tanqidchilarning ta'kidlashicha, bu qattiq choralar mayda huquqbuzarlarga qaratilgan, tashkilotchilar esa jazodan qochib qutulgan.",
+  "dupe": "Firibgarlar aql bovar qilmas daromad va'da qilib, investorlarni millionlab pulga aldab ketdi.",
+  "government department": "Loyiha vakolatlari bir-biriga kesishadigan ikki davlat idorasi tomonidan birgalikda boshqarildi.",
+  "hooked": "Firibgarlik qurbonlarni yana bitta kichik to'lov pulni ozod qiladi, deb va'da qilish orqali ilintirib turadi.",
+  "murky": "Pulning qorong'i, noaniq kelib chiqishi ish qo'zg'ashni qiyinlashtirdi.",
+  "postage": "Narxga Buyuk Britaniya ichida pochta jo'natmasi va qadoqlash xarajatlari kiradi.",
+  "postage stamp": "Birinchi yelimli pochta markasi \"Penny Black\" 1840-yilda Britaniyada chiqarilgan.",
+  "scammer": "Politsiya firibgarlar yirik xalqaro jinoiy tarmoqning bir qismi deb hisoblaydi.",
+  "strait": "Xayriya tashkilotining ogohlantirishicha, yordam bo'lmasa minglab nafaqaxo'rlar og'ir ahvolda qoladi.",
+  "sucker": "Bu firibgarlik xatni olgan minglab odamlar orasidan bir nechta laqmani topishga asoslangan.",
+  "suckers": "Bu sxema mo'jizaviy yutuqqa ishonishga tayyor laqmalarning uzluksiz oqimiga bog'liq edi.",
+  "tempter": "Hikoyada vasvasachi qahramonni o'zi ishongan hamma narsaga xiyonat qilishga ko'ndiradi."
+ }
+});

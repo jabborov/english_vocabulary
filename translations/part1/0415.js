@@ -1,0 +1,67 @@
+// Part 1 topic 0415: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0415', {
+ "B1": {
+  "Stradivari": "Stradivari skripkalari juda mashhur.",
+  "chop down": "Fermer eski eman daraxtini kesib tashladi.",
+  "cold spell": "Qisqa muddatli sovuq gullarni nobud qildi.",
+  "density": "Olimlar skripka yog'ochining zichligini o'lchashdi.",
+  "echo": "Bo'sh xonada aks-sado bor edi.",
+  "mellow": "Violonchelning chuqur va mayin ohangi bor.",
+  "musical instrument": "Muzeyda juda qadimiy musiqa asboblari bor.",
+  "musical scale": "Skripkachi musiqiy gammani chalib, qizishib oldi.",
+  "reverberant": "Aks-sadoli cherkovda musiqa boy jaranglardi.",
+  "reverberate": "Eski cherkovda musiqa aks-sado berib yangradi.",
+  "soloist": "Yakkaxon ijrochi orkestr oldida turdi.",
+  "timbre": "Ikki cholg'uning tembri turlicha.",
+  "violin maker": "Skripka ustasi katta mahoratga ega bo'lishi kerak.",
+  "violinist": "Mashhur skripkachi shahrimizda konsert berdi."
+ },
+ "B2": {
+  "Stradivari": "Bugungi kunda Stradivari yasagan cholg'ulardan atigi 600 ga yaqini saqlanib qolgan.",
+  "chop down": "Skripkalar uchun yog'och Alp tog'larida kesilgan daraxtlardan olingan.",
+  "cold spell": "Ba'zi olimlarning fikricha, Yevropadagi sovuq davr Stradivari ishlatgan yog'ochga ta'sir qilgan.",
+  "density": "Yog'ochning zichligi skripka nega bunchalik yaxshi jaranglashini tushuntirib berishi mumkin.",
+  "echo": "Zaldagi aks-sado skripka ovozini yanada boyroq qildi.",
+  "mellow": "Ko'pchilik eski skripkalar yangilariga qaraganda mayinroq jaranglaydi deb hisoblaydi.",
+  "musical instrument": "Stradivarius, ehtimol, dunyodagi eng qimmatbaho musiqa cholg'usidir.",
+  "musical scale": "Sinovchilar eski va yangi skripkalarda bir xil musiqiy gammani chalishdi.",
+  "reverberant": "Akustikasi kuchli zal hatto arzon skripkani ham ta'sirli jaranglatishi mumkin.",
+  "reverberate": "U chalishni to'xtatganidan keyin ham nota bir necha soniya aks-sado berib turdi.",
+  "soloist": "Yakkaxon ijrochiga orkestr ovozidan baland eshitiladigan cholg'u kerak.",
+  "timbre": "Mutaxassislar Stradivariusga uning o'ziga xos tembrini nima berishi haqida bahslashishadi.",
+  "violin maker": "Bugungi skripka ustalari o'z cholg'ularini takomillashtirish uchun ilm-fandan foydalanishadi.",
+  "violinist": "Professional skripkachilar eski va yangi cholg'ular sinovida ishtirok etishdi."
+ },
+ "C1": {
+  "Stradivari": "Olimlar Stradivari ishlatgan yog'ochni o'rganishgan.",
+  "chop down": "Daraxtlar kesilganda ular asrlar davomida sekin o'sgan edi.",
+  "cold spell": "\"Kichik muzlik davri\" asrlar davom etgan uzoq sovuq davr edi.",
+  "density": "Asbob bo'ylab zichlikdagi farqlar skaner yordamida xaritaga tushirildi.",
+  "echo": "Haddan tashqari aks-sado musiqani xira eshittirishi mumkin.",
+  "mellow": "Asbobning mayin ovozi konsert zalini to'ldirdi.",
+  "musical instrument": "Har bir musiqa asbobi tovushni biroz boshqacha tarzda chiqaradi.",
+  "musical scale": "Musiqiy gamma asbobning butun diapazon bo'ylab ohangini ochib beradi.",
+  "reverberant": "Sinovlar aks-sadosi kuchli konsert zalida va kichik, aks-sadosiz xonada o'tkazildi.",
+  "reverberate": "Zal tovush bir tekis aks-sado berib yangraydigan qilib loyihalashtirilgan.",
+  "soloist": "Yakkaxon ijrochi Stradivari skripkasidan ko'ra zamonaviy skripkani afzal ko'rdi.",
+  "timbre": "Asbobning tembri qanday yog'och ishlatilganiga qarab o'zgaradi.",
+  "violin maker": "Sinov zamonaviy skripka ustalari ham eskilari kabi yaxshi asboblar yasay olishini ko'rsatdi.",
+  "violinist": "Ko'plab skripkachilar bir kun kelib Stradivari skripkasiga ega bo'lishni orzu qilishadi."
+ },
+ "C2": {
+  "Stradivari": "Stradivarining siri, agar u bo'lgan bo'lsa, hamon qizg'in ilmiy va tijoriy taxminlar mavzusi bo'lib qolmoqda.",
+  "chop down": "O'sha davrda kesilgan archa daraxtlari noyob darajada qulay akustik xususiyatlarga ega bo'lgan bo'lishi mumkin.",
+  "cold spell": "Bir nazariyaga ko'ra, uzoq davom etgan sovuq davr g'ayrioddiy zich yog'och hosil qilib, skripkalar ohangini yaxshilagan.",
+  "density": "Ba'zi tadqiqotchilar archa yog'ochining bir xil zichligi cholg'ular ovozining tiniqligiga hissa qo'shadi, deb hisoblaydi.",
+  "echo": "Me'morlar har bir cholg'u aniq eshitilishi uchun aks-sadoni ataylab minimallashtirdi.",
+  "mellow": "Cholg'uning mayin rezonansi ko'pincha, balki romantik tarzda, asrlar davomida chalinganiga bog'lanadi.",
+  "musical instrument": "Bunday cholg'u asboblariga sarflangan mahoratni hech qachon qoniqarli darajada takrorlab bo'lmagan.",
+  "musical scale": "Hatto oddiy musiqiy gamma ham cholg'u asbobi rezonansidagi nozik farqlarni ochib berishi mumkin.",
+  "reverberant": "Kuchli aks-sado beruvchi akustikada cholg'ular o'rtasidagi nozik ohang farqlari osongina ko'milib ketadi.",
+  "reverberate": "Kamon torlardan ajralganidan ancha keyin ham so'nggi akkord zal bo'ylab aks-sado berib turdi.",
+  "soloist": "Yakkaxon ijrochi uchun cholg'uning katta zalda ovozini yetkaza olishi birinchi darajali ahamiyatga ega.",
+  "timbre": "Ko'r-ko'rona sinovlarda tinglovchilar Stradivari skripkasini faqat tembriga qarab aniqlashda qiynalishdi.",
+  "violin maker": "Zamonaviy skripka ustalari o'z hunarlari qadimgi italyan ustalarinikidan tabiatan past degan taxmindan norozi.",
+  "violinist": "Bir nechta yetakchi skripkachilar qadimgi ustalarning cholg'ularini zamonaviylaridan ajrata olmadi."
+ }
+});

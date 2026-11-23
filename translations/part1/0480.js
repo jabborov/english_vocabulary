@@ -1,0 +1,59 @@
+// Part 1 topic 0480: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0480', {
+ "B1": {
+  "bow tie": "Kapalak bo'yinbog' taqishni bilasanmi?",
+  "carte blanche": "Bizga qaror qabul qilishda to'liq erkinlik berilgan.",
+  "dinner jacket": "Ziyofat uchun sizga smoking kerak.",
+  "eavesdrop": "U eshik oldida turib, gap poylab yashirincha tinglayotgan edi.",
+  "fascinated": "Bolalar josuslarga juda qiziqishadi.",
+  "franchise": "Bu franshizada 25 ta film bor.",
+  "pull over": "Politsiya meni yo'l chetiga to'xtashga majbur qildi.",
+  "reinvent": "Guruh o'z musiqasini butunlay yangidan yaratdi.",
+  "rule in": "Hech bir narsani aniq deb ham hisoblay olmaymiz.",
+  "shoelace": "Uning poyabzal ipi yechilib ketdi.",
+  "unsurpassed": "Bu manzaraga teng keladigani yo'q.",
+  "villain": "Bond yovuz qahramonga qarshi kurashadi."
+ },
+ "B2": {
+  "bow tie": "Bond bir necha soniyada babochkani mukammal bog'lay oladi.",
+  "carte blanche": "Dizaynerga uyni qayta bezash uchun to'liq erkinlik berildi.",
+  "dinner jacket": "Bond kazinoda smoking kiyib yurishi bilan mashhur.",
+  "eavesdrop": "Bond dushmanlarini yashirincha tinglash uchun maxfiy qurilmalardan foydalanadi.",
+  "fascinated": "U doimo Bondning moslamalari bilan maftun bo'lib kelgan.",
+  "franchise": "Bond franshizasi kino tarixidagi eng uzoq davom etayotganlaridan biri.",
+  "pull over": "Xaritani tekshirish uchun mashinani yo'l chetiga to'xtatdim.",
+  "reinvent": "So'nggi film Bondni qorong'iroq va jiddiyroq qahramon sifatida qaytadan yaratadi.",
+  "rule in": "Studiya keyingi film uchun biror aktyorni tasdiqlashdan bosh tortdi.",
+  "shoelace": "Ta'qib boshlanishidan oldin u egilib oyoq kiyimining bog'ichini bog'ladi.",
+  "unsurpassed": "Seriyaning uzoq yillik muvaffaqiyati kino tarixida tengsizdir.",
+  "villain": "Yovuz qahramon dunyoni o'z nazoratiga olishni istaydi."
+ },
+ "C1": {
+  "bow tie": "Kapalak bo'yinbog'lar ko'pincha to'ylarda va rasmiy kechki ziyofatlarda taqiladi.",
+  "carte blanche": "Bond o'zi xohlagan narsani qilish uchun cheksiz erkinlikka egadek ko'rinadi.",
+  "dinner jacket": "Mehmonlardan smoking va kapalak bo'yinbog' taqib kelish so'raldi.",
+  "eavesdrop": "Men yashirincha quloq solmoqchi emasdim, lekin hammasini eshitib qoldim.",
+  "fascinated": "Olimlarni miya xotiralarni qanday saqlashi qiziqtirib kelmoqda.",
+  "franchise": "Kinostudiyalar franshizalarni afzal ko'radi, chunki tomoshabinlar qahramonlarni allaqachon tanishadi.",
+  "pull over": "Haydovchi tez yordam mashinasini o'tkazib yuborish uchun yo'l chetiga chiqib to'xtadi.",
+  "reinvent": "Xonanda o'z faoliyati davomida o'z qiyofasini ko'p marta yangitdan yaratgan.",
+  "rule in": "Shifokorlar kasallik sababi sifatida virusni ehtimoliy omil deb tan olishdi.",
+  "shoelace": "Josuslik filmlarida hatto oddiy poyabzal ipi ham yashirin asbobni o'zida yashirishi mumkin.",
+  "unsurpassed": "Uning g'alabalar bo'yicha rekordi hamon hech kim tomonidan oshib o'tilmagan.",
+  "villain": "Bond filmlaridagi ko'plab yovuz qahramonlarning qayerdadir yashirin bazasi bor."
+ },
+ "C2": {
+  "bow tie": "Bir vaqtlar rasmiylik ramzi bo'lgan kapalak bo'yinbog' moda aksessuari sifatida qaytib keldi.",
+  "carte blanche": "Har qanday agentga to'liq erkinlik berish xavfli, buni filmlardagi ko'plab avtomobil quvlashlari va portlashlar yaqqol ko'rsatadi.",
+  "dinner jacket": "Oq smoking nafis maxfiy agentning ramziy obrazining bir qismiga aylandi.",
+  "eavesdrop": "Zamonaviy texnologiya telefon qo'ng'iroqlari va elektron xatlarni yashirincha tinglashni xavotirli darajada osonlashtiradi.",
+  "fascinated": "Tomoshabinlar jozibadorlik, xavf va zo'r bermagan ishonchni o'zida mujassam etgan qahramondan hamon maftun.",
+  "franchise": "Franshizani ellik yil davomida yangi saqlash an'ana va o'zgarish o'rtasida nozik muvozanatni talab qiladi.",
+  "pull over": "Bond yo'l chetiga to'xtash o'rniga odatda tezlikni oshirib, shahar bo'ylab murakkab quvlashni boshlaydi.",
+  "reinvent": "Franshiza o'zgaruvchan zamonga moslashish uchun o'z qahramonini qayta-qayta yangicha talqin qilish orqali saqlanib qoldi.",
+  "rule in": "Rasmiylar mashhur qahramonga katta o'zgarishlar kiritilishini na tasdiqladi, na rad etdi.",
+  "shoelace": "Bond gadjetlarining zukkoligi halokatli qurilmalarni ruchka yoki poyabzal ipi kabi kundalik buyumlar qiyofasida yashirishdadir.",
+  "unsurpassed": "Franshizaning tijoratdagi uzoq umrbo'qiyligi kinoda tengsiz ekanini kam kishi inkor etadi.",
+  "villain": "Esda qolarli yovuz qahramon Bondga munosib va rang-barang raqib bergani uchun formulaning ajralmas qismidir."
+ }
+});

@@ -1,0 +1,59 @@
+// Part 1 topic 0238: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0238', {
+ "B1": {
+  "Russian": "Biz rus taomlarini yedik.",
+  "abundance": "Bog'da gullar juda mo'l.",
+  "bulk": "Ular oziq-ovqatni ulgurji sotishadi.",
+  "colloquial": "Biz so'zlashuv ingliz tilini o'rganamiz.",
+  "communism": "U yerda kommunizm 1991-yilda tugagan.",
+  "contributor": "Mashinalar ifloslanishga hissa qo'shuvchi omillardan biri.",
+  "end of the world": "O'yinda yutqazish dunyoning oxiri emas.",
+  "go past": "Biz do'kon yonidan o'tib ketdik.",
+  "leftover": "Tushlikka qolgan ovqatni yedik.",
+  "spring to mind": "Xayolingizga nima keladi?",
+  "terribly": "U juda yomon kuyladi.",
+  "unhygienic": "Iflos qo'llar gigiyenaga zid."
+ },
+ "B2": {
+  "Russian": "Rossiyalik do'stim menga o'tmishdagi oziq-ovqat tanqisligi haqida gapirib berdi.",
+  "abundance": "Mo'l-ko'lchilik davrida odamlar ovqatni kamroq qadrlashadi.",
+  "bulk": "Ulgurji xarid qilish pul tejashi mumkin, ammo ovqat isrof bo'ladi.",
+  "colloquial": "\"Grub\" ovqatni anglatuvchi so'zlashuv so'zidir.",
+  "communism": "Kommunizm davrida ulg'aygan odamlar ko'pincha oziq-ovqat tanqisligini eslashadi.",
+  "contributor": "Oziq-ovqat isrofiga eng ko'p hissa qo'shadiganlar uy xo'jaliklaridir.",
+  "end of the world": "Ovqatni muddati o'tganidan bir kun keyin yeyish dunyoning oxiri emas.",
+  "go past": "Yogurtni shunchaki muddati o'tgani uchun tashlab yubormang.",
+  "leftover": "Buvim ortib qolgan ovqatni hech qachon tashlab yubormasdi.",
+  "spring to mind": "Isrof bo'lgan ovqat haqida o'ylasam, birinchi bo'lib non xayolimga keladi.",
+  "terribly": "U isrof bo'lgan non uchun o'zini juda aybdor his qildi.",
+  "unhygienic": "Ovqatni kun bo'yi ochiq qoldirish gigiyenaga zid bo'lishi mumkin."
+ },
+ "C1": {
+  "Russian": "Ko'plab keksa rossiyaliklar oziq-ovqat taqchil bo'lgan davrlarni eslashadi.",
+  "abundance": "Supermarketlar cheksiz to'kinlik hissini uyg'otadi.",
+  "bulk": "Do'konlar maxsus takliflar orqali bizni ulgurji, ko'p miqdorda xarid qilishga undaydi.",
+  "colloquial": "Ko'rsatuvda oziq-ovqatga oid ba'zi so'zlashuv iboralari tushuntiriladi.",
+  "communism": "Kommunizm davrida ovqat isrof qilish kam uchrardi, chunki ovqatning o'zi juda oz edi.",
+  "contributor": "Chiqindixonada chirigan ovqat issiqxona gazlari hosil bo'lishiga hissa qo'shadi.",
+  "end of the world": "Bitta isrof bo'lgan ovqat dunyoning oxiri bo'lmasligi mumkin, ammo millionlab ovqatlar isrof bo'lmoqda.",
+  "go past": "\"Yaroqlilik muddati\" o'tib ketgan oziq-ovqat ko'pincha hali ham yaroqli bo'ladi.",
+  "leftover": "Qolgan guruchdan ertasi kuni qovurilgan guruch tayyorlash mumkin.",
+  "spring to mind": "Ko'z oldimga to'lib-toshgan chiqindi qutilari keladi.",
+  "terribly": "Keragidan ortiq narsa sotib olish juda ham oson.",
+  "unhygienic": "Odamlar ovqatni gigiyenaga zid deb noto'g'ri o'ylab, uloqtirib yuborishadi."
+ },
+ "C2": {
+  "Russian": "Taqchillik davrini boshdan kechirgan rus xonadonlarida oziq-ovqatni isrof qilishga chuqur nafrat shakllangan.",
+  "abundance": "To'kin-sochinlik madaniyatimiz yeb tugata olmagan narsamizni tashlab yuborishni psixologik jihatdan osonlashtiradi.",
+  "bulk": "Ulgurji xarid takliflari ko'pincha isrofni supermarketdan xonadonga ko'chiradi.",
+  "colloquial": "\"Axlatga tashla\" kabi so'zlashuv iboralari oziq-ovqatni tashlab yuborish haqida qanchalik beparvo gapirishimizni ochib beradi.",
+  "communism": "Kommunizm davridagi tanqislik tajribasi butun bir avlodning oziq-ovqatga munosabatini shakllantirdi.",
+  "contributor": "Isrof qilingan oziq-ovqat global chiqindilarga jiddiy, ammo ko'pincha e'tibordan chetda qoladigan hissa qo'shuvchi omildir.",
+  "end of the world": "Oziq-ovqat isrofgarchiligiga \"dunyoning oxiri emas\" deb qarash aynan uning o'sishiga yo'l qo'yadigan munosabatdir.",
+  "go past": "Yeyish mumkin bo'lgan ko'plab oziq-ovqat yorliqdagi o'zboshimchalik bilan belgilangan sanadan o'tib ketgani uchungina tashlab yuboriladi.",
+  "leftover": "Ortib qolgan ovqatdan ijodiy foydalanish bir paytlar turmush tarzi tanlovi emas, balki zarur uy-ro'zg'or ko'nikmasi edi.",
+  "spring to mind": "Asosiy aybdorlar sifatida supermarketlar xayolga kelishi mumkin, biroq xonadonlar ko'proq isrof qiladi.",
+  "terribly": "Biz qancha ovqatni haqiqatan yeyishimizni baholashda juda yomonmiz.",
+  "unhygienic": "Ortib qolgan ovqat gigiyenaga zid degan bo'rttirilgan qo'rquvlar uy xo'jaliklaridagi oziq-ovqat isrofiga jiddiy hissa qo'shadi."
+ }
+});

@@ -1,0 +1,67 @@
+// Part 1 topic 0289: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0289', {
+ "B1": {
+  "Franklin": "Benjamin Franklin 100 dollarlik pul birligida tasvirlangan.",
+  "civic": "U fuqarolik faoliyatida qatnashadi.",
+  "diplomat": "Diplomatlar elchixonalarda ishlashadi.",
+  "fallacy": "Bosim ostida yaxshiroq ishlaysiz degan fikr noto'g'ri tasavvurdir.",
+  "focussed": "Uyda diqqatimni jamlay olmayman.",
+  "knuckle": "U eshikni barmoq bo'g'imlari bilan taqillatdi.",
+  "knuckle down": "U jiddiy kirishib, hisobotni tugatdi.",
+  "postmaster": "Pochta boshlig'i menga bir nechta marka sotdi.",
+  "seem off": "Sentyabrda imtihon hali ancha uzoqdek tuyulardi.",
+  "slip by": "Yoz juda tez o'tib ketdi.",
+  "statesman": "Franklin mashhur amerikalik davlat arbobi bo'lgan.",
+  "take five": "Biz bir soat ishladik, keyin besh daqiqa dam oldik.",
+  "tedious": "Soliq hujjatlarini to'ldirish zerikarli ish.",
+  "theorist": "Nazariyotchi ko'plab kitoblar yozgan."
+ },
+ "B2": {
+  "Franklin": "Franklin vaqtni behuda sarflamaslik haqidagi maslahati bilan mashhur.",
+  "civic": "Franklin ko'plab fuqarolik tashkilotlariga asos solgan.",
+  "diplomat": "Franklin Fransiyada diplomat bo'lib xizmat qilgan.",
+  "fallacy": "Ishni paysalga solish dangasalik degan fikr noto'g'ri tasavvurdir.",
+  "focussed": "Ishingizga diqqatingizni jamlash uchun telefoningizni o'chiring.",
+  "knuckle": "U rulni ushlab turarkan, barmoq bo'g'imlari oqarib ketdi.",
+  "knuckle down": "Imtihondan o'tmoqchi bo'lsangiz, jiddiy kirishib ishlashingiz kerak.",
+  "postmaster": "Franklin Filadelfiyada pochta boshlig'i bo'lib ishlagan.",
+  "seem off": "Muddat uzoqdek tuyulganda, biz ishlarni keyinga qoldirishga moyil bo'lamiz.",
+  "slip by": "Agar ishni paysalga solsangiz, muddatlar sezdirmasdan o'tib ketadi.",
+  "statesman": "Buyuk davlat arboblari donoligi bilan yodda qoladi.",
+  "take five": "Har soatda besh daqiqa tanaffus qilish samarali bo'lib qolishga yordam beradi.",
+  "tedious": "Biz zerikarli vazifalarni keyinga qoldirishga moyilmiz.",
+  "theorist": "Franklin olim va siyosiy nazariyotchi edi."
+ },
+ "C1": {
+  "Franklin": "Franklin yozuvchi, ixtirochi, davlat arbobi va diplomat bo'lgan.",
+  "civic": "Ko'ngillilik fuqarolik mas'uliyatini namoyon etish usullaridan biridir.",
+  "diplomat": "Yaxshi diplomat sabrli va odobli bo'lishi kerak.",
+  "fallacy": "Ko'pchilik ertaga ko'proq vaqtim bo'ladi, degan yanglish fikrga ishonadi.",
+  "focussed": "Diqqatini jamlagan odamlar kamroq vaqtda ko'proq ish qiladi.",
+  "knuckle": "\"Knuckle down\" iborasi o'yin paytida qo'l bo'g'imlarining yerga tegishidan kelib chiqqan.",
+  "knuckle down": "Bir hafta dangasalik qilgandan keyin u nihoyat ishga jiddiy kirishdi.",
+  "postmaster": "Keyinchalik u Qo'shma Shtatlarning birinchi Bosh pochta boshlig'i bo'ldi.",
+  "seem off": "Ko'pchilik yosh xodimlarga nafaqa hali ancha uzoqdek tuyuladi.",
+  "slip by": "Telefonimni varaqlab o'tirganimda soatlar sezdirmay o'tib ketdi.",
+  "statesman": "Keksa davlat arbobi barcha partiyalar tomonidan hurmat qilinardi.",
+  "take five": "Rejissyor aktyorlarga besh daqiqa dam olishni aytdi.",
+  "tedious": "Ma'ruza uzoq va zerikarli bo'ldi.",
+  "theorist": "Iqtisodiyot nazariyotchilari odamlar nima uchun qarorlarni kechiktirishini o'rganishgan."
+ },
+ "C2": {
+  "Franklin": "Franklinning paysalga solishga qarshi mashhur hikmatli so'zi ikki asrdan ko'proq vaqt o'tib ham keng iqtibos qilinmoqda.",
+  "civic": "Franklinning fuqarolik loyihalari orasida kutubxona, o't o'chirish jamiyati va kasalxona bor edi.",
+  "diplomat": "Diplomat sifatida Franklin Amerika mustaqilligi uchun hal qiluvchi ahamiyatga ega bo'lgan Fransiya ko'magini qo'lga kiritdi.",
+  "fallacy": "Rejalashtirish xatoligi bizni vazifalar qancha vaqt olishini kam baholashga olib keladi va kechiktirishni rag'batlantiradi.",
+  "focussed": "Katta vazifani kichik qadamlarga bo'lish diqqatni jamlab turishga va ishni paysalga solmaslikka yordam beradi.",
+  "knuckle": "\"Knuckle down\" iborasi o'yinchilar barmoq bo'g'imlarini yerga qo'yadigan sharcha o'yinidan kelib chiqqan, deyiladi.",
+  "knuckle down": "Paysalga solishning eng yaxshi davosi ko'pincha shunchaki jiddiy kirishib, ishni boshlashdir, birinchi qadam qanchalik kichik bo'lmasin.",
+  "postmaster": "Pochta boshlig'i sifatida Franklin mustamlaka pochtasining tezligi va ishonchliligini keskin yaxshiladi.",
+  "seem off": "Kelajakdagi mukofotlar juda uzoqdek tuyulgani uchun biz boshqa ish bilan shug'ullanishning darhol keladigan zavqini afzal ko'ramiz.",
+  "slip by": "Ko'pincha imkoniyatlarni shunchaki harakat qilishni orqaga surganimiz uchun qo'ldan boy beramiz.",
+  "statesman": "Davlat arbobi sifatida Franklin Mustaqillik deklaratsiyasini tayyorlashda ishtirok etgan.",
+  "take five": "Qisqa tanaffuslar, ya'ni besh daqiqa dam olish, ishni boshqarish osonroqdek tuyulishi orqali paysalga solishni aslida kamaytirishi mumkin.",
+  "tedious": "Zerikarli vazifalarni, hatto ular shoshilinch bo'lsa ham, eng ko'p paysalga solamiz.",
+  "theorist": "Xulq-atvor nazariyotchilari paysalga solish kelajakdagi mukofotlarni kam baholashga moyilligimizdan kelib chiqadi, deb ta'kidlaydilar."
+ }
+});

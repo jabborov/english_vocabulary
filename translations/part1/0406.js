@@ -1,0 +1,63 @@
+// Part 1 topic 0406: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0406', {
+ "B1": {
+  "finishing": "Yakuniy bosqich oson.",
+  "finishing school": "Odob maktablarida yaxshi xulq-atvor o'rgatiladi.",
+  "furthest": "Likopchadan eng uzoqda turgan sanchqidan foydalaning.",
+  "head up": "U maktabga rahbarlik qiladi.",
+  "headmaster": "Borib maktab direktori bilan uchrashing.",
+  "high society": "U yuqori jamiyat vakillari bilan tanishdi.",
+  "impeccable": "Xona benuqson toza edi.",
+  "leaver": "Bitiruvchilar ziyofat uyushtirishdi.",
+  "let down": "Men o'zimni aldangandek his qilyapman.",
+  "place setting": "Stolga olti kishilik idish-tovoq tortilgan.",
+  "school year": "U maktabning oxirgi o'quv yilida.",
+  "tutor": "Murabbiy yaxshi odob-axloqni o'rgatadi.",
+  "young lady": "Yosh xonim uchun eshikni oching."
+ },
+ "B2": {
+  "finishing": "O'g'il bolalar yaxshi xulq-odobning so'nggi nozik jihatlarini o'rganishadi.",
+  "finishing school": "Odob-axloq maktablari an'anaviy ravishda faqat badavlat yosh qizlar uchun bo'lgan.",
+  "furthest": "Oshxona anjomlaridan foydalanganda tashqi tomondan, eng chetdagi asbobdan boshlaysiz.",
+  "head up": "Bolalarning odob-axloq dasturiga sobiq diplomat rahbarlik qiladi.",
+  "headmaster": "Odob-axloq maktabining direktori qisqa nutq so'zladi.",
+  "high society": "Odob-axloq maktablari yoshlarni yuqori jamiyatdagi hayotga tayyorlaydi.",
+  "impeccable": "Maktab o'g'il bolalarga benuqson odob-axloq berishni maqsad qilgan.",
+  "leaver": "Maktabni bitiruvchilarning ko'pchiligi ishni boshlashdan oldin qo'shimcha ko'nikmalarga ega bo'lishni xohlaydi.",
+  "let down": "Dasturxon atrofidagi yomon odob ish suhbati bilan bog'liq kechki ovqatda sizni sharmanda qilishi mumkin.",
+  "place setting": "O'g'il bolalar rasmiy dasturxon tuzilishidan qaysi sanchqidan foydalanish kerakligini o'rganishdi.",
+  "school year": "Mashg'ulotlar o'quv yili tugaganidan keyin o'tkaziladi.",
+  "tutor": "Har bir bolaning dasturxon atrofidagi xulqini tuzatadigan murabbiysi bor.",
+  "young lady": "O'g'il bolalar yosh xonim uchun stulni tortib berishni mashq qilishdi."
+ },
+ "C1": {
+  "finishing": "Chiroyli bog'langan galstuk ko'rkam kiyimga yakuniy jilo beradi.",
+  "finishing school": "Odob maktabi o'g'il bolalarga dasturxon tuzash va mehmonlarni kutib olishni o'rgatadi.",
+  "furthest": "O'ng tomondagi eng chetki qadah suv uchun.",
+  "head up": "Undan yangi bo'limga rahbarlik qilish so'raldi.",
+  "headmaster": "Sobiq maktab direktori endi odob-axloq darslarini o'tadi.",
+  "high society": "Yuqori tabaqa tadbirlarida kiyinish va xulq-atvorga oid qat'iy qoidalar mavjud.",
+  "impeccable": "U benuqson to'q rangli kostyum kiygan edi.",
+  "leaver": "Kurs universitetga kirish arafasidagi maktab bitiruvchilari orasida mashhur.",
+  "let down": "U kelishga va'da berdi va bizni ranjitmadi.",
+  "place setting": "Rasmiy dasturxondagi idishlar to'plami ko'plab qadahlari bilan odamlarni chalg'itishi mumkin.",
+  "school year": "Britaniyada o'quv yili odatda sentyabrda boshlanadi.",
+  "tutor": "Badavlat oilalar ko'pincha qo'shimcha darslar uchun xususiy repetitorga pul to'lashadi.",
+  "young lady": "O'qituvchi yosh xonim bilan qanday qilib xushmuomalalik bilan salomlashishni tushuntirdi."
+ },
+ "C2": {
+  "finishing": "\"Yakunlovchi\" ta'lim g'oyasi shundan iboratki, u yosh insonning kattalar hayotiga tayyorgarligini nihoyasiga yetkazadi.",
+  "finishing school": "Bir paytlar eskicha deb hisoblangan odob-axloq maktablari shuhratparast ota-onalar orasida qayta jonlanmoqda.",
+  "furthest": "Eng chetdagi oshxona anjomlaridan ichkariga qarab foydalanish qoidasi hatto eng rasmiy ziyofatni ham osonlashtiradi.",
+  "head up": "Odob-axloq maktabiga rahbarlik qilish ham ijtimoiy nafosatni, ham o'smirlarga dars berish iste'dodini talab qiladi.",
+  "headmaster": "Maktab direktori yaxshi xulq o'g'il bolalarga har qanday ijtimoiy vaziyatda o'ziga ishonch bag'ishlaydi, deb ta'kidladi.",
+  "high society": "Tanqidchilarning aytishicha, odob-axloq kurslari yuqori tabaqani himoya qiluvchi to'siqlarni shunchaki mustahkamlaydi.",
+  "impeccable": "Benuqson odob-axloqning o'zi muvaffaqiyatni kafolatlamaydi, ammo u kuchli birinchi taassurot qoldirishi mumkin.",
+  "leaver": "Maktabni bitiruvchi uchun sayqal topgan xulq-atvor suhbatlarda va rasmiy ziyofatlarda qo'l kelishi mumkin.",
+  "let down": "Ota-onalar ijtimoiy ko'nikmalarsiz o'g'illari raqobatli dunyoda pand yeyishidan qo'rqishadi.",
+  "place setting": "Murakkab dasturxon tuzilishini tushunish ijtimoiy o'ziga ishonchning kichik, ammo muhim belgisidir.",
+  "school year": "Ko'plab ota-onalar so'nggi o'quv yilidan keyingi bo'shliqni to'ldirish uchun odob-axloq kurslariga yozilishadi.",
+  "tutor": "Odob-axloq murabbiyi yaxshi xulq kibr emas, balki mehribonlik haqida ekanini qat'iy ta'kidladi.",
+  "young lady": "Yosh xonimga qanday muomala qilish kerakligi haqidagi qoidalar ba'zilarga yoqimli, boshqalarga esa eskirgan tuyuldi."
+ }
+});

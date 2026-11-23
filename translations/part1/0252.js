@@ -1,0 +1,67 @@
+// Part 1 topic 0252: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0252', {
+ "B1": {
+  "benchmark": "Uning ishi boshqalar uchun andoza hisoblanadi.",
+  "bluntly": "Ochig'ini aytganda, bu reja ish bermaydi.",
+  "carriage": "Qirolicha oltin aravada yurdi.",
+  "flawed": "Tadqiqot kamchiliklarga ega edi.",
+  "gritty": "Ko'rsatuv shahar hayoti haqidagi hayotiy va shafqatsiz drama.",
+  "hopeless": "U tuzatib bo'lmas darajadagi romantik.",
+  "idealised": "Filmlarda oilaviy hayot ideallashtirilgan holda ko'rsatiladi.",
+  "imperfect": "Har qanday munosabat mukammal emas.",
+  "moody": "U charchaganda kayfiyati tez-tez o'zgaradi.",
+  "perfection": "U hamma narsada mukammallikni xohlaydi.",
+  "public transport": "U ishga jamoat transportida qatnaydi.",
+  "romanticism": "Romantizm Yevropada 200 yildan ko'proq vaqt oldin boshlangan.",
+  "smack": "U qo'lini eshikka qarsillatib urdi.",
+  "zeitgeist": "Ijtimoiy tarmoqlar bugungi davr ruhining bir qismi."
+ },
+ "B2": {
+  "benchmark": "Romantik hikoyalar haqiqiy munosabatlar uchun o'lchov mezoniga aylangan.",
+  "bluntly": "Faylasuf buni ochiq-oydin aytdi: hammamiz noto'g'ri odamga uylanamiz.",
+  "carriage": "U gavjum vagonda uning nigohini o'ziga tortdi.",
+  "flawed": "Barcha odamlar qaysidir jihatdan nuqsonli.",
+  "gritty": "Haqiqiy munosabatlar og'ir, kundalik muammolarni o'z ichiga oladi.",
+  "hopeless": "Munosabatlar tugagach, u o'zini umidsiz his qildi.",
+  "idealised": "Ko'plab yoshlar romantika haqida ideallashtirilgan tasavvur bilan ulg'ayadi.",
+  "imperfect": "Biz nomukammal odamlarni sevishni o'rganishimiz kerak.",
+  "moody": "Haqiqiy sheriklar kayfiyati tez o'zgaradigan, tartibsiz va qiyin bo'lishi mumkin.",
+  "perfection": "Sevgida mukammallik izlash umidsizlikka olib keladi.",
+  "public transport": "Romantik filmlar notanish odamlarning jamoat transportida uchrashib qolishi sahnalarini yaxshi ko'radi.",
+  "romanticism": "Romantizm odamlarni sevgida yuragiga ergashishga o'rgatdi.",
+  "smack": "Bir ko'rishda sevib qolish g'oyasi sevgi sizni to'satdan urib tushadi, degan fikrni bildiradi.",
+  "zeitgeist": "Filmlar ko'pincha o'zlari suratga olingan yillar ruhini aks ettiradi."
+ },
+ "C1": {
+  "benchmark": "Odamlar o'z sheriklarini mukammal muhabbatning noreal mezoni bilan baholaydi.",
+  "bluntly": "U ochiqchasiga, to'g'ridan-to'g'ri unga munosabatlarida muammolar borligini aytdi.",
+  "carriage": "Filmda juftlik poyezdning sokin vagonida uchrashadi.",
+  "flawed": "Sheriklarimiz ham xuddi o'zimiz kabi kamchiliklarga ega ekanini qabul qilishimiz kerak.",
+  "gritty": "U romantik xayoliy asarlardan ko'ra hayotning og'ir tomonlarini ochiq ko'rsatadigan romanlarni afzal ko'radi.",
+  "hopeless": "Davosiz romantiklar haqiqiy muhabbat hamma narsani yengadi, deb ishonishadi.",
+  "idealised": "Ideallashtirilgan sherik real hayotda mavjud emas.",
+  "imperfect": "Eng yaxshi nikohlar bir-biriga mehribon bo'lgan ikki nomukammal inson o'rtasida bo'ladi.",
+  "moody": "Ishdagi muammolar tufayli u butun hafta kayfiyati tez-tez o'zgarib, tund yurdi.",
+  "perfection": "Romantik filmlar bizga mukammallik timsolini sotadi.",
+  "public transport": "Yaxshi jamoat transporti yo'llarda mashinalar kamroq bo'lishini anglatadi.",
+  "romanticism": "Ba'zilarning fikricha, romantizm nikohdan imkonsiz darajada yuqori kutishlarni yuzaga keltirgan.",
+  "smack": "Munosabatlar tugaganda haqiqat sizni qattiq urib, larzaga solishi mumkin.",
+  "zeitgeist": "Romantik muhabbat ikki asr davomida madaniy davr ruhining markazida bo'lib kelgan."
+ },
+ "C2": {
+  "benchmark": "Gollivud romantikasini o'z nikohingiz uchun o'lchov sifatida olish deyarli muqarrar ravishda hafsalasizlikka olib keladi.",
+  "bluntly": "Ochig'ini aytganda, uning ta'kidlashicha, romantizm zamonaviy munosabatlarga foydadan ko'ra ko'proq zarar keltirgan.",
+  "carriage": "Poyezd vagoni bo'ylab tashlangan bir nigoh romantik madaniyat bizga taqdir deb ko'rishni o'rgatadigan lahzalardan biridir.",
+  "flawed": "Barchamiz tubdan nuqsonli ekanimizni tan olish uzoq davom etadigan munosabatlar sari birinchi qadam bo'lishi mumkin.",
+  "gritty": "Sevgi haqidagi yanada hayotiy, bezaksiz va halol hikoya juftliklarni birga yashash haqiqatlariga yaxshiroq tayyorlashi mumkin.",
+  "hopeless": "Tuzalmas romantik bo'lish yoqimli bo'lishi mumkin, ammo bu haqiqiy munosabatlarni hafsalani pir qiladigandek ko'rsatishi mumkin.",
+  "idealised": "Romanlardagi ideallashtirilgan sevgi obrazi oddiy mehrni taqqoslaganda yetarli emasdek ko'rsatishi mumkin.",
+  "imperfect": "Romantik ideallar haqiqiy munosabatlar talab qiladigan nomukammal, murosaga asoslangan sevgini qadrlashni qiyinlashtiradi.",
+  "moody": "Turmush o'rtog'ingizning ba'zan kayfiyati o'zgarib turishini qabul qilish tirik insonni sevishning bir qismidir.",
+  "perfection": "Romantik mukammallikka intilish odamlarga o'zlarida bor yaxshi munosabatlarni qadrlashga to'sqinlik qilishi mumkin.",
+  "public transport": "Jamoat transportida jufti halolini uchratish haqidagi orzu romantik komediyalarning asosiy mavzularidan biridir.",
+  "romanticism": "Romantizm merosi sevgi ham ehtirosli, ham abadiy bo'lishi kerak, degan zamonaviy ishonchda ko'rinadi.",
+  "smack": "Kundalik oilaviy hayotdagi hafsalasizlik ertakdagi kabi ishqni kutganlarga qattiq zarba berishi mumkin.",
+  "zeitgeist": "Roman zamon ruhini shu qadar aniq aks ettirdiki, butun bir avlod uchun mezonga aylandi."
+ }
+});

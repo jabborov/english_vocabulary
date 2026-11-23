@@ -1,0 +1,67 @@
+// Part 1 topic 0301: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0301', {
+ "B1": {
+  "awaken": "U tong otganda uyg'ondi.",
+  "bodybuilder": "U yetmish yoshida bodibilder bo'ldi.",
+  "business enterprise": "Bu tadbirkorlik korxonasi tort sotadi.",
+  "coy": "Tug'ilgan kuni haqida so'raganimizda, u uyalinqirab jilmaydi.",
+  "enterprise": "Shahar mahalliy tadbirkorlikni qo'llab-quvvatlaydi.",
+  "granddad": "Bobom kulgili hikoyalar aytib beradi.",
+  "lotion": "U har kuni quyoshdan himoya losonidan foydalanadi.",
+  "midnight": "U ko'pincha yarim tungacha ishlaydi.",
+  "of age": "Klub har qanday yoshdagi odamlarni mamnuniyat bilan qabul qiladi.",
+  "old woman": "Keksa ayol har kuni ertalab sayr qiladi.",
+  "order off": "Qorovul bizni maysazordan chiqib ketishga buyurdi.",
+  "potion": "Yosh qolish uchun sehrli damlama yo'q.",
+  "senior citizen": "Keksa fuqarolar uchun avtobus bepul.",
+  "unfit": "Ta'tildan keyin u o'zini jismonan zaif his qildi."
+ },
+ "B2": {
+  "awaken": "Sayohat unda boshqa madaniyatlarga qiziqish uyg'otdi.",
+  "bodybuilder": "Bodibilder haftada besh kun sport zalida mashq qiladi.",
+  "business enterprise": "Nafaqada tadbirkorlik bilan shug'ullanish uning aqlini faol saqlaydi.",
+  "coy": "Ko'plab keksa odamlar aniq necha yoshda ekanini aytishga tortinishadi.",
+  "enterprise": "Uning yangi korxonasi bog'idagi mevalardan murabbo tayyorlaydi.",
+  "granddad": "Bobom hamon haftada uch marta suzishga boradi.",
+  "lotion": "Do'konlar ajinlarni yo'qotadi deb da'vo qiladigan losonlarga to'la.",
+  "midnight": "Buvim hamon yarim tundan keyin ham film ko'rib o'tiradi.",
+  "of age": "Voyaga yetganingizda ovoz berishingiz mumkin.",
+  "old woman": "Hech kim kampir bunday og'ir yuklarni ko'tara oladi deb kutmagan edi.",
+  "order off": "O'yinchi ikkinchi sariq kartochkadan keyin maydondan chetlatildi.",
+  "potion": "Hikoyada bir sehrli damlama keksa qirolni yana yosharitadi.",
+  "senior citizen": "Sport zalida keksa fuqarolar uchun maxsus mashg'ulotlar o'tkaziladi.",
+  "unfit": "Jismonan baquvvat bo'lmaslik zinadan chiqish kabi kundalik ishlarni ancha qiyinlashtiradi."
+ },
+ "C1": {
+  "awaken": "Keksa yoshda sport bilan shug'ullanish unda o'zi bilmagan raqobat ruhini uyg'otdi.",
+  "bodybuilder": "Musobaqadagi eng keksa bodibilderga eng qizg'in olqishlar yangradi.",
+  "business enterprise": "Ko'plab muvaffaqiyatli biznes korxonalari ellik yoshdan oshgan odamlar tomonidan tashkil etilgan.",
+  "coy": "Kompaniya yangi mahsulot qancha turishi haqida gapirishdan o'zini tiyib turdi.",
+  "enterprise": "Hukumat keksa xodimlar orasida tadbirkorlikni rag'batlantirmoqchi.",
+  "granddad": "Bobom 85 yoshga to'lgan kunida parashyutdan sakrashga yozilib, barchamizni hayratda qoldirdi.",
+  "lotion": "Hech qanday losyon vaqtni to'xtata olmaydi, ammo jismoniy mashqlar sizni o'zingizni yosh his qilishingizga yordam beradi.",
+  "midnight": "Do'kon ertalab soat oltidan yarim tungacha ishlaydi.",
+  "of age": "Moda sanoati ma'lum yoshdagi ayollarni ko'pincha e'tiborsiz qoldiradi.",
+  "old woman": "Odamlar uni kampir deb ataganda u kulib yubordi – o'zini o'ttiz yoshdagidek his qilardi.",
+  "order off": "U faqat yoshi tufayli raqs maydonidan haydab chiqarilishiga yo'l qo'ymadi.",
+  "potion": "U qimmatbaho losyon va malhamlarga ishonmaydi – shunchaki faol hayot kechiradi.",
+  "senior citizen": "Tobora ko'proq keksa fuqarolar nafaqa yoshidan ancha keyin ham ishlashni tanlamoqda.",
+  "unfit": "O'n yillar davomida jismonan bo'shang bo'lgan bo'lsangiz ham, o'zgarish uchun hech qachon kech emas."
+ },
+ "C2": {
+  "awaken": "Dastur keksa odamlarning ko'zini nafaqa davri beradigan imkoniyatlarga ochishni maqsad qilgan.",
+  "bodybuilder": "Uning nafaqaxo'rdan bodibilderga aylangan hikoyasi keksa ayollar nimalarga qodirligi haqidagi stereotiplarni sindiradi.",
+  "business enterprise": "Keksa asoschilar tijorat korxonasiga ko'pincha yosh raqiblarida bo'lmagan o'nlab yillik aloqalar va tajribani olib kiradilar.",
+  "coy": "80 yoshli bodibilder ayol yoshini yashirib uyalish o'rniga, uni sahnada g'urur bilan e'lon qildi.",
+  "enterprise": "Yosh tadbirkorlikka to'siq emas: eng innovatsion firmalarning ba'zilarini nafaqaxo'rlar boshqaradi.",
+  "granddad": "U tebranma kursida o'tirgan odatiy bobo bo'lishdan yiroq, muvaffaqiyatli onlayn biznesni boshqaradi.",
+  "lotion": "Go'zallik sanoati qarishdan qo'rqadigan odamlarga loson va damlamalar sotib milliardlab pul ishlaydi.",
+  "midnight": "Tun yarmigacha mehnat qilib, 75 yoshli talaba ayol diplom ishini o'z vaqtida tugatdi.",
+  "of age": "Keksa yoshdagi odamlar yangi ko'nikmalarni o'rgana olmaydi, degan fikr shunchaki afsonadir.",
+  "old woman": "Nimjon kampir obrazi faol va sarguzashtga intiluvchi keksalar haqidagi hikoyalar bilan almashtirilmoqda.",
+  "order off": "Sport zali keksa a'zolarni jihozlardan haydash o'rniga, endi ular uchun maxsus mashg'ulotlar o'tkazmoqda.",
+  "potion": "Abadiy yoshlik sharbatini izlash ming yillar davomida insonlarni o'ziga rom etib kelgan.",
+  "senior citizen": "Marketing kampaniyalari tobora ko'proq keksa fuqarolarni nishonga olmoqda, chunki ularda ko'pincha yoshlarga qaraganda erkin sarflanadigan daromad ko'proq.",
+  "unfit": "Shifokorlarning ta'kidlashicha, keksalikda jismoniy holatning yomonligi ko'pincha qarishning o'zidan emas, balki turmush tarzidan kelib chiqadi."
+ }
+});

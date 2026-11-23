@@ -1,0 +1,59 @@
+// Part 1 topic 0331: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0331', {
+ "B1": {
+  "accountable": "Menejer loyiha muvaffaqiyatsiz bo'lsa, javobgarlikni o'z zimmasiga olishini aytdi.",
+  "active citizen": "Buvim har hafta kutubxonada yordam beradigan faol fuqaro.",
+  "assembly": "Har bir o'quvchi dushanba kuni ertalab umumiy yig'ilishga borishi kerak.",
+  "break water": "Kecha tunda bo'ron paytida katta to'lqinlar to'lqinto'sarga urildi.",
+  "citizenship": "U o'tgan yili fuqarolik olish uchun ariza berdi.",
+  "curriculum": "Maktabimiz bu yil o'quv dasturiga dasturlashni qo'shdi.",
+  "erosion": "Kuchli yomg'ir daryo qirg'og'i bo'ylab eroziyaga sabab bo'ldi.",
+  "law of the land": "Har bir tashrif buyuruvchi mamlakat qonunlariga bo'ysunishi shart.",
+  "pin": "U nishonini ushlab turgan to'g'nog'ichni yo'qotib qo'ydi.",
+  "pin down": "Shifokorlar uning kasal bo'lishiga nima sabab bo'layotganini aniq belgilay olmadilar.",
+  "political party": "U bu safar boshqa siyosiy partiyaga ovoz berishga qaror qildi.",
+  "weakening": "Zavod yopilgandan keyin ko'pchilik mahalliy jamoaning zaiflashganini sezdi."
+ },
+ "B2": {
+  "accountable": "Saylovchilar saylovlarda hukumatni javobgarlikka tortishlari mumkin.",
+  "active citizen": "Faol fuqaro bo'lish shunchaki ovoz berishdan ko'proq narsani anglatadi.",
+  "assembly": "Uels Assambleyasi Uels uchun ba'zi qonunlarni qabul qiladi.",
+  "break water": "Shahar bandargohni himoya qilish uchun to'lqinqaytargich qurdi.",
+  "citizenship": "Fuqarolik darslari bolalarga saylov va huquqlar haqida o'rgatadi.",
+  "curriculum": "Pazandachilik maktab o'quv dasturiga kiritilishi kerakmi?",
+  "erosion": "Siyosatchilarga bo'lgan ishonch yemirilib bormoqda.",
+  "law of the land": "Yangi fuqarolar mamlakat qonunlarini hurmat qilishga va'da berishadi.",
+  "pin": "U e'lonni doskaga to'g'nog'ich bilan qadab qo'ydi.",
+  "pin down": "Uchrashuv uchun aniq sanani belgilab olsak bo'ladimi?",
+  "political party": "Har bir siyosiy partiya saylovdan oldin o'z rejalarini e'lon qildi.",
+  "weakening": "Mahalliy klublarning zaiflashuvi ko'ngilli bo'luvchilar kamayishini anglatadi."
+ },
+ "C1": {
+  "accountable": "Davlat amaldorlari o'zlari xizmat qiladigan xalq oldida hisob berishlari kerak.",
+  "active citizen": "Maktablar o'quvchilarni faol fuqarolarga aylantirishga umid qilishadi.",
+  "assembly": "Yig'ilishlar erkinligi odamlarga uchrashish va tinch namoyish o'tkazish imkonini beradi.",
+  "break water": "Mahalliy aholi shikastlangan to'lqinqaytargichni qayta qurish uchun pul yig'di.",
+  "citizenship": "Yaxshi fuqarolik shunchaki qonunga bo'ysunishdan ko'proq narsani o'z ichiga oladi.",
+  "curriculum": "Hukumat o'rta maktablar o'quv dasturini isloh qilishni rejalashtirmoqda.",
+  "erosion": "Kampaniya faollari fuqarolik erkinliklarining tobora yemirilib borayotgani haqida ogohlantirmoqda.",
+  "law of the land": "Demokratiyada hatto hukumat ham mamlakat qonunlariga bo'ysunadi.",
+  "pin": "Nishon kichik to'g'nag'ich bilan mahkamlangan edi.",
+  "pin down": "Yaxshi fuqarolik tushunchasini aniq ta'riflash kutilmaganda qiyin.",
+  "political party": "Asosiy siyosiy partiyalar a'zolari soni keskin kamaydi.",
+  "weakening": "Tadqiqotchilar jamiyatdagi aloqalarning zaiflashuvini uzoqroq ish soatlari bilan bog'lashadi."
+ },
+ "C2": {
+  "accountable": "Hokimiyatdagilar chinakamiga hisobdor bo'lishi uchun erkin matbuot zarur.",
+  "active citizen": "Faol fuqaro ideali odamlarda ishtirok etish uchun vaqt va resurslar bor deb taxmin qiladi.",
+  "assembly": "Yig'ilishlar erkinligi ko'pincha avtoritar hukumatlar cheklaydigan birinchi huquqdir.",
+  "break water": "Jamoa mablag'lari hisobiga qurilgan to'lqinqaytargich faol fuqarolar birgalikda nimalarga erisha olishining ramziga aylandi.",
+  "citizenship": "Tanqidchilarning fikricha, fuqarolik tarbiyasi osongina siyosiy aqidaparastlikka singdirishga aylanib ketishi mumkin.",
+  "curriculum": "Allaqachon to'lib-toshgan o'quv dasturiga har bir qo'shimcha muqarrar ravishda boshqa fanlarning vaqtini qisqartiradi.",
+  "erosion": "Mahalliy muassasalarning sekin yemirilishi ko'plab fuqarolarni hech qanday mansublik tuyg'usisiz qoldirdi.",
+  "law of the land": "Fuqarolik itoatsizligi mamlakat qonunlariga qachon, agar umuman, qarshi chiqish to'g'ri bo'ladi, degan savolni tug'diradi.",
+  "pin": "\"Pin down\" iborali fe'li kabi, bu ot ham biror narsani mahkam qadab qo'yish ma'nosini beradi.",
+  "pin down": "Jurnalistlar vazirdan siyosat aslida qanchaga tushishi haqida aniq javob olishga behuda urinishdi.",
+  "political party": "Hafsalasi pir bo'lgan saylovchilar tobora siyosiy partiyalarni chetlab o'tib, bitta masalaga qaratilgan kampaniyalarni afzal ko'rmoqda.",
+  "weakening": "Fuqarolik institutlarining asta-sekin zaiflashuvi demokratiyani rasman qulashidan ancha oldin mazmunsiz qilib qo'yishi mumkin."
+ }
+});

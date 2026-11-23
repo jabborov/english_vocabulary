@@ -1,0 +1,67 @@
+// Part 1 topic 0494: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0494', {
+ "B1": {
+  "Celtic": "Seltik yashil formada o'ynaydi.",
+  "clash": "To'qnashuv qisqa davom etdi.",
+  "confrontation": "Men to'qnashuvni yoqtirmayman.",
+  "derby": "Derbida kim g'alaba qozondi?",
+  "direct correlation": "Biz bevosita bog'liqlik topdik.",
+  "domestic violence": "Oilaviy zo'ravonlik oilalarga zarar yetkazadi.",
+  "fixture": "Uchrashuv yakshanba kuni bo'lib o'tadi.",
+  "heated": "Munozara qizg'in bo'ldi.",
+  "licensing": "Ular litsenziyalangan savdo soatlarini o'zgartirishdi.",
+  "match play": "O'yin tez sur'atda o'tdi.",
+  "midweek": "Hafta o'rtasidagi o'yin qiziqarli bo'ldi.",
+  "spill over": "G'azab avjga chiqib, tashqariga toshib ketdi.",
+  "televise": "U televizorda ko'rsatiladimi?",
+  "whistle": "Hushtak ovozini eshitdim."
+ },
+ "B2": {
+  "Celtic": "Seltik muxlislari stadionni to'ldirishdi.",
+  "clash": "Politsiya muxlislar o'rtasidagi to'qnashuvni to'xtatdi.",
+  "confrontation": "Politsiya yetib kelgach, to'qnashuv barham topdi.",
+  "derby": "Mahalliy derbi har doim juda ko'p tomoshabin to'playdi.",
+  "direct correlation": "Narx va sifat o'rtasida to'g'ridan-to'g'ri bog'liqlik bor.",
+  "domestic violence": "Politsiya derbidan keyin oiladagi zo'ravonlik holatlari ko'paygani haqida xabar berdi.",
+  "fixture": "Keyingi mavsum uchun o'yinlar jadvali bugun e'lon qilindi.",
+  "heated": "Ikki murabbiy o'rtasida qizg'in bahs bo'lib o'tdi.",
+  "licensing": "O'yin kunlari uchun spirtli ichimlik sotishga ruxsat berilgan yangi soatlar joriy etildi.",
+  "match play": "Ikkinchi bo'limda jamoaning o'yin uslubi yaxshilandi.",
+  "midweek": "Hafta o'rtasidagi o'yinlarga kamroq muxlis boradi.",
+  "spill over": "Muxlislar o'rtasidagi janjallar ba'zan ko'chalarga ham yoyilib ketadi.",
+  "televise": "Barcha yirik o'yinlar televizorda jonli efirda ko'rsatiladi.",
+  "whistle": "Yakuniy hushtak o'yinni yakunladi."
+ },
+ "C1": {
+  "Celtic": "\"Seltik\" va \"Reynjers\" har mavsumda bir necha marta to'qnash keladi.",
+  "clash": "Ikki yetakchi jamoa o'rtasidagi bellashuv shanba kuni bo'lib o'tadi.",
+  "confrontation": "To'qnashuvning oldini olish uchun muxlislar bir-biridan ajratib qo'yildi.",
+  "derby": "Derbi chiptalari bir necha daqiqada sotilib ketdi.",
+  "direct correlation": "Tadqiqot alkogol va zo'ravonlik o'rtasida bevosita bog'liqlik borligini aniqladi.",
+  "domestic violence": "Xayriya tashkilotlari oiladagi zo'ravonlik qurbonlarini qo'llab-quvvatlaydi.",
+  "fixture": "Politsiya shanba kungi o'yinga tayyorgarlik ko'rmoqda.",
+  "heated": "Derbi oldidan muxlislar o'rtasida qizg'in bahslar odatiy hol.",
+  "licensing": "Stadion yaqinidagi pablar litsenziyalash bo'yicha qat'iy qoidalarga duch keladi.",
+  "match play": "Murabbiylar zaif tomonlarni topish uchun o'yin jarayonini tahlil qilishadi.",
+  "midweek": "Hafta o'rtasidagi o'yin kubok finali sababli boshqa kunga ko'chirildi.",
+  "spill over": "Maydondagi taranglik tribunalarga ham ko'chib o'tdi.",
+  "televise": "Hukumat debatni televideniye orqali efirga uzatishga qaror qildi.",
+  "whistle": "Hakamning so'nggi hushtagi chalinganda mezbon jamoa muxlislari baland ovozda bayram qilishdi."
+ },
+ "C2": {
+  "Celtic": "\"Seltik\" va \"Reynjers\" o'rtasidagi raqobat chuqur diniy va ijtimoiy ildizlarga ega.",
+  "clash": "Stadion tashqarisidagi to'qnashuv bir necha kishining hibsga olinishiga sabab bo'ldi.",
+  "confrontation": "O'yinchilar o'rtasidagi arzimas to'qnashuv ommaviy mushtlashuvga sabab bo'ldi.",
+  "derby": "Derbi o'yinlari oddiy liga o'yinlarida kamdan-kam uchraydigan keskinlikka ega bo'ladi.",
+  "direct correlation": "Raqobat va jinoyatchilik darajasi o'rtasida to'g'ridan-to'g'ri bog'liqlik isbotlanmagan.",
+  "domestic violence": "Tadqiqotlar mashhur o'yinlardan keyin oiladagi zo'ravonlik ko'payishini ko'rsatadi.",
+  "fixture": "Uchrashuvni tushki vaqtga ko'chirish spirtli ichimliklar bilan bog'liq tartibsizliklarni kamaytirdi.",
+  "heated": "Do'stona suhbat sifatida boshlangan narsa tezda qizg'in tortishuvga aylandi.",
+  "licensing": "Litsenziyalash to'g'risidagi qonunlarga kiritilgan o'zgartirishlar futbol o'yinlari atrofidagi zo'ravonlikni kamaytirishga qaratilgan edi.",
+  "match play": "Raqobat o'yin jarayoniga ta'sir qilib, o'yinchilarni keraksiz tavakkalchilikka undashi mumkin.",
+  "midweek": "Hafta o'rtasidagi o'yinlar ko'pincha dam olish kunlaridagi uchrashuvlarga qaraganda kamroq tomoshabin yig'adi.",
+  "spill over": "Politsiya raqobat o'yindan keyin zo'ravonlikka aylanib ketishidan xavotirda.",
+  "televise": "Ko'proq o'yinlarni televizorda ko'rsatish muxlislarning futbolni kuzatish usulini o'zgartirdi.",
+  "whistle": "Yakuniy hushtakdan bir necha daqiqa o'tib, janjal boshlanib ketdi."
+ }
+});

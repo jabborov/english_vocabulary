@@ -1,0 +1,59 @@
+// Part 1 topic 0314: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0314', {
+ "B1": {
+  "dazzle": "U do'stlarini lol qoldirmoqchi.",
+  "gimmick": "Bu reklama shunchaki e'tibor tortish uchun qilingan hiyla.",
+  "handsome": "U kelishgan yigitga turmushga chiqdi.",
+  "hunk": "Aktyor juda kelishgan va baquvvat yigit.",
+  "obese": "Semizlik sog'liq uchun zararli.",
+  "padded": "U paxtali palto kiygan edi.",
+  "pectoral": "Bu ko'krak mushaklari uchun mashq.",
+  "pectoral muscle": "Uning ko'krak mushaklari katta.",
+  "physique": "U qomatini chiniqtirish ustida ishlaydi.",
+  "shortcut": "Muvaffaqiyatga qisqa yo'l yo'q.",
+  "shortcuts": "Kompyuterdagi tezkor tugmalar vaqtni tejaydi.",
+  "vanity": "U o'ziga bino qo'ygani uchun ko'zguga qaraydi."
+ },
+ "B2": {
+  "dazzle": "Aktyor chiniqqan qomati bilan muxlislarini lol qoldirdi.",
+  "gimmick": "Qistirmali ko'ylaklar erkaklarni kuchliroq ko'rsatish uchun o'ylab topilgan hiyladir.",
+  "handsome": "Ko'plab erkaklar kelishgan va mushakdor ko'rinish uchun bosim his qiladi.",
+  "hunk": "Jurnallar mushakdor barvasta yigitlarning suratlariga to'la.",
+  "obese": "Kattalar orasida semizlikdan aziyat chekuvchilar hech qachon bunchalik ko'p bo'lmagan.",
+  "padded": "Ba'zi kompaniyalar erkaklar uchun qistirmali ichki kiyim sotadi.",
+  "pectoral": "Shtanga ko'tarish ko'krak mushaklari uchun mashhur mashqdir.",
+  "pectoral muscle": "Bodibilderlar ko'krak mushaklarini qattiq mashq qildiradi.",
+  "physique": "Ko'plab yigitlar kino yulduzlaridek mushakdor qomatga ega bo'lishni xohlaydi.",
+  "shortcut": "Ba'zi erkaklar mushaklarni kattalashtirishning qisqa yo'li sifatida tabletkalardan foydalanadi.",
+  "shortcuts": "Ko'plab yigitlar mushakdor tanaga erishishning oson yo'llarini izlaydi.",
+  "vanity": "Ba'zilar erkaklarning tashqi ko'rinishiga qiziqishini shunchaki manmanlik deb o'ylaydi."
+ },
+ "C1": {
+  "dazzle": "Reklama beruvchilar mukammal tanalar tasvirlari bilan iste'molchilarni maftun qilishga harakat qilishadi.",
+  "gimmick": "Ko'plab fitnes moslamalari oddiy reklama hiylasidan boshqa narsa emasligi ma'lum bo'ladi.",
+  "handsome": "Reklamada mukammal qomatli kelishgan model ko'rsatilgan edi.",
+  "hunk": "U Gollivudning eng kelishgan yigiti deb topildi.",
+  "obese": "Shifokorlar semizlikdan aziyat chekayotgan bemorga parhezini o'zgartirishni maslahat berishdi.",
+  "padded": "Paxtali kamzullar ko'krak kattaroqdek taassurot qoldirishi mumkin.",
+  "pectoral": "Erkaklar orasida ko'krak implantlari tobora keng tarqalmoqda.",
+  "pectoral muscle": "Ba'zi erkaklar hatto ko'krak mushaklarini kattaroq ko'rsatish uchun implant qo'ydirishadi.",
+  "physique": "Bunday qomatga ega bo'lish uchun yillab mashq qilish kerak.",
+  "shortcut": "Steroidlar qisqa yo'ldek ko'rinishi mumkin, ammo ular xavfli.",
+  "shortcuts": "Sog'lig'ingiz bilan bog'liq masalalarda oson yo'llarni izlash jiddiy oqibatlarga olib kelishi mumkin.",
+  "vanity": "Xudbinlik ko'p odamlarni go'zallik mahsulotlariga katta pul sarflashga undaydi."
+ },
+ "C2": {
+  "dazzle": "Tahrirlangan suratlardan ko'zlari qamashgan yigitlarda o'z tanalariga nisbatan real bo'lmagan kutishlar paydo bo'lishi mumkin.",
+  "gimmick": "Tanqidchilar \"olti haftada olti kubik\" dasturini marketing nayrangi deb rad etdi.",
+  "handsome": "Kelishgan erkak haqidagi madaniy ideal tobora mushakdor qomat tomon siljidi.",
+  "hunk": "Sport zalida yetishtirilgan barvasta yigit qiyofasi kamdan-kam oddiy erkak erisha oladigan me'yorni belgilaydi.",
+  "obese": "Ba'zi erkaklar mushaklarga berilib ketgan bir paytda, boshqalarining tobora ko'proq qismi klinik jihatdan semizlikdan aziyat chekmoqda.",
+  "padded": "Ichiga yostiqcha qo'yilgan kiyimlar bozori ayrim erkaklar o'z tanalari haqida qanchalik xavotirda ekanini ko'rsatadi.",
+  "pectoral": "Erkaklar jurnallarida bo'rtib turgan ko'krak mushaklari erkakcha jismoniy tayyorgarlikning ramziga aylangan.",
+  "pectoral muscle": "Katta ko'krak mushaklari ideal erkak tanasining asosiy belgisiga aylandi.",
+  "physique": "Reklamadagi ideal erkak qomatiga ko'pchilik erkaklar o'ta keskin choralarsiz erisha olmaydi.",
+  "shortcut": "Mukammal tanaga eltuvchi qisqa yo'llarni izlash qo'shimchalar bozorining gullab-yashnashiga sabab bo'ldi.",
+  "shortcuts": "Anabolik steroidlar kabi qisqa yo'llar kosmetik foydasidan ancha oshib ketadigan xavflarga ega.",
+  "vanity": "Ba'zilar shunchaki manmanlik deb hisoblaydigan narsa aslida o'z qadrini his etishdagi chuqurroq ishonchsizliklarni aks ettirishi mumkin."
+ }
+});

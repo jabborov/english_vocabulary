@@ -1,0 +1,63 @@
+// Part 1 topic 0174: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0174', {
+ "B1": {
+  "agent": "Operator yordam berdi.",
+  "aggravate": "Bu muammoni yanada chuqurlashtirdi.",
+  "as a matter of fact": "Aslida, bugun mening tug'ilgan kunim.",
+  "calm down": "U bolani tinchlantirishga harakat qildi.",
+  "displace": "Mashinalar ba'zi ish o'rinlarini siqib chiqardi.",
+  "empathetic": "Yaxshi hamshiralar hamdard bo'ladi.",
+  "filler": "To'ldiruvchi so'zlarni ishlatmaslikka harakat qiling.",
+  "frustrate": "Sekin kompyuterlar asabimga tegadi.",
+  "pacify": "Musiqa itni tinchlantiradi.",
+  "phone up": "U do'konga qo'ng'iroq qildi.",
+  "queue": "Navbatda turishni yomon ko'raman.",
+  "uncertainty": "Kelajak haqida noaniqlik ko'p.",
+  "yelling": "Qo'shni xonadonda baqir-chaqir bo'ldi."
+ },
+ "B2": {
+  "agent": "Sun'iy intellekt qo'ng'iroq markazlaridagi ko'plab operatorlar o'rnini egallashi mumkin.",
+  "aggravate": "Uzoq kutish allaqachon xafa bo'lgan mijozlarni battar asabiylashtiradi.",
+  "as a matter of fact": "Aslida, ko'pchilik inson bilan gaplashishni afzal ko'radi.",
+  "calm down": "Jahli chiqqan qo'ng'iroq qiluvchining tinchlanishiga o'n daqiqa ketdi.",
+  "displace": "Sun'iy intellekt ko'plab inson operatorlarni siqib chiqarishi ehtimoli bor.",
+  "empathetic": "Hamdard operator qo'ng'iroq qiluvchilarda tinglanayotganlik hissini uyg'otadi.",
+  "filler": "\"Like\" va \"you know\" kabi so'zlar keng tarqalgan to'ldiruvchi so'zlardir.",
+  "frustrate": "Robot bilan gaplashish qo'ng'iroq qiluvchilarning jig'iga tegishi mumkin.",
+  "pacify": "Sun'iy intellekt jahli chiqqan mijozni tinchlantira oladimi?",
+  "phone up": "Ko'p odamlar shikoyat qilish uchun qo'ng'iroq markazlariga telefon qilishadi.",
+  "queue": "Siz navbatda beshinchisiz.",
+  "uncertainty": "\"Um\" deyish ishonchsizlikni bildirishi mumkin.",
+  "yelling": "Operatorlar baqir-chaqirga qaramay xotirjam qolishga o'rgatiladi."
+ },
+ "C1": {
+  "agent": "Sayyohlik agenti bizning ta'tilimizni band qildi.",
+  "aggravate": "Qashish toshmani yanada kuchaytiradi.",
+  "as a matter of fact": "\"Siz qahvani yoqtirmaysiz, shundaymi?\" \"Aslini olganda, men uni juda yaxshi ko'raman.\"",
+  "calm down": "Sekin nafas olish tinchlanishga yordam beradi.",
+  "displace": "Suv toshqini yuzlab oilalarni o'z uylaridan siqib chiqardi.",
+  "empathetic": "Sun'iy intellekt ovozlari ko'proq hamdardlik bilan eshitilishi uchun o'rgatilmoqda.",
+  "filler": "Sun'iy intellekt nutqi tabiiy eshitilishi uchun to'ldiruvchi so'zlardan foydalanadi.",
+  "frustrate": "Ular hech qanday oldinga siljimagani jamoaning hafsalasini pir qila boshladi.",
+  "pacify": "Menejer mehmonlarni bepul ichimliklar bilan tinchlantirdi.",
+  "phone up": "Buyurtmam haqida so'rash uchun kompaniyaga qo'ng'iroq qildim.",
+  "queue": "Chipta uchun navbat butun mavzeni aylanib chiqqan edi.",
+  "uncertainty": "Bu xabar ishchilar orasida noaniqlik va xavotir uyg'otdi.",
+  "yelling": "Ko'chadan kelgan baqiriq-chaqiriq chaqaloqni uyg'otib yubordi."
+ },
+ "C2": {
+  "agent": "Hissiy yoki g'ayrioddiy qo'ng'iroqlarni hal qilishda inson operatorlar hamon ustunroq.",
+  "aggravate": "Andoza bo'yicha aytilgan robotsimon javob ozgina hamdardlik bilan yumshatsa bo'ladigan vaziyatni yanada keskinlashtirishi mumkin.",
+  "as a matter of fact": "Aslini olganda, bu texnologiya ko'pchilik mijozlar tasavvur qilganidan ancha uzoqroq vaqtdan beri qo'llanilmoqda.",
+  "calm down": "G'azablangan odamga \"tinchlaning\" deyish kamdan-kam hollarda kutilgan natijani beradi.",
+  "displace": "Avtomatlashtirish birinchi navbatda odatiy ish o'rinlarini siqib chiqaradi, shu bilan birga boshqa joylarda yangi turdagi ishlarni yaratadi.",
+  "empathetic": "Mashina shunchaki shunday tuyulishi emas, balki chinakam hamdard bo'la oladimi, degan masala qizg'in bahs mavzusidir.",
+  "filler": "\"Hmm\", \"ee\" kabi to'ldiruvchi so'zlar beparvolik belgisi bo'lishdan yiroq bo'lib, tinglovchilarga tabiiy suhbat ritmini kuzatishda yordam beradi.",
+  "frustrate": "Qo'ng'iroq qiluvchini bir bo'limdan boshqasiga o'tkazib yuborishdan ko'ra hech narsa ko'proq g'ashini keltirmaydi.",
+  "pacify": "Tadqiqotchilar sun'iy intellekt ovozlari qo'ng'iroq qiluvchilarni odamlar kabi samarali tinchlantira oladimi, buni sinab ko'rmoqda.",
+  "phone up": "Shikoyat bilan qo'ng'iroq qiladigan mijozlar ko'pincha yechim kabi hamdardlikni ham istaydi.",
+  "queue": "Telefondagi uzun navbatlar mijozlar noroziligining eng keng tarqalgan sabablaridan biridir.",
+  "uncertainty": "Sun'iy intellektning ish o'rinlariga ta'siri jiddiy noaniqlik manbai bo'lib qolmoqda.",
+  "yelling": "Norozi mijozlarning doimiy baqir-chaqirlari koll-markaz xodimlari orasidagi yuqori stressga sabab bo'ladi."
+ }
+});

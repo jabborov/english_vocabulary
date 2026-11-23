@@ -1,0 +1,59 @@
+// Part 1 topic 0315: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0315', {
+ "B1": {
+  "GM": "GM ekinlar tez o'sadi.",
+  "antioxidant": "Ko'katlarda antioksidantlar bor.",
+  "commercially": "U hali tijorat maqsadida yetishtirilmaydi.",
+  "cranberry": "U klyukva sousini tayyorladi.",
+  "decaying": "Bu chirib borayotgan daraxt.",
+  "ketchup": "Bolalar ketchupni juda yaxshi ko'rishadi.",
+  "pigment": "Teri pigmenti bizga rang beradi.",
+  "rape": "Yog' raps urug'idan olinadi.",
+  "reasonably": "U o'zini oqilona tutdi.",
+  "ripen": "Pomidorlar yozda pishadi.",
+  "ripening": "Bananlar pishib yetilishi kerak.",
+  "supportive": "Do'stlarim meni qo'llab-quvvatlashdi."
+ },
+ "B2": {
+  "GM": "Olimlar binafsharang GM pomidor yaratishdi.",
+  "antioxidant": "Binafsharang pomidorlar antioksidantlarga boy.",
+  "commercially": "Bu pomidorlar bir necha yil ichida tijorat maqsadida yetishtirilishi mumkin.",
+  "cranberry": "Klyukva ham binafsharang pomidorlar singari antioksidantlarga boy.",
+  "decaying": "Chirib borayotgan mevalar pashshalarni jalb qiladi.",
+  "ketchup": "Ketchup pomidor, shakar va sirkadan tayyorlanadi.",
+  "pigment": "Binafsharang pigment arslonog'iz gulida uchraydigan gendan olinadi.",
+  "rape": "Fermerlar o'simlik yog'i ishlab chiqarish uchun moyli raps yetishtiradi.",
+  "reasonably": "Binafsharang pomidorlarni ancha arzon narxda sotish mumkin bo'lardi.",
+  "ripen": "Pomidorlar pishishi uchun ularni deraza tokchasida qoldiring.",
+  "ripening": "Iliq joyda pishish jarayoni tezroq kechadi.",
+  "supportive": "Hamma ham genetik modifikatsiya qilingan ekinlarni qo'llab-quvvatlamaydi."
+ },
+ "C1": {
+  "GM": "Ko'plab yevropalik xaridorlar GMO mahsulotlariga shubha bilan qarashadi.",
+  "antioxidant": "Antioksidantlar organizmni yurak kasalliklaridan himoya qilishga yordam berishi mumkin.",
+  "commercially": "Film tijoriy jihatdan muvaffaqiyatli bo'ldi, ammo taqrizchilar tomonidan tanqid qilindi.",
+  "cranberry": "Klyukva sousi an'anaviy ravishda kurka go'shti bilan yeyiladi.",
+  "decaying": "Binafsharang pomidorlar chirishdan oldin uzoqroq vaqt yangiligicha qoladi.",
+  "ketchup": "Binafsharang pomidorlardan binafsharang ketchup tayyorlash mumkin.",
+  "pigment": "Xuddi shu pigment ko'katga to'q rang beradi.",
+  "rape": "Genetik modifikatsiyalangan raps Kanadada yetishtiriladi, ammo Yevropada keng tarqalmagan.",
+  "reasonably": "Sinov natijalari ancha umidbaxsh bo'ldi.",
+  "ripen": "Binafsharang pomidorlar oddiylariga qaraganda sekinroq pishadi.",
+  "ripening": "Binafsharang pigment pishish jarayonini kechiktiradiganga o'xshaydi.",
+  "supportive": "Olimlar jamoatchilik foydasini ko'rgach, ko'proq qo'llab-quvvatlaydi, deb umid qilishadi."
+ },
+ "C2": {
+  "GM": "GM ekinlar haqidagi bahs ularning salomatlik uchun ehtimoliy foydasini uzoq muddatli xavfsizlik bilan bog'liq xavotirlarga qarshi qo'yadi.",
+  "antioxidant": "Antioksidantlar keng targ'ib qilinsa-da, ularning inson uchun foydasi haqidagi dalillar hali ham bahsli.",
+  "commercially": "GM binafsha pomidorlar Yevropada qachondir tijorat jihatdan foydali bo'ladimi-yo'qmi, hali noaniq.",
+  "cranberry": "Binafsha pomidorlardagi antioksidantlar miqdori klyukva va chernikadagi bilan tenglasha oladi.",
+  "decaying": "Mevalarning chiriy boshlash tezligini sekinlashtirish oziq-ovqat isrofini sezilarli darajada kamaytirishi mumkin.",
+  "ketchup": "Oziq-ovqat kompaniyalari antioksidantlarga boy pomidorlar ketchupni foydaliroq mahsulotga aylantira oladimi-yo'qmi, o'rganmoqda.",
+  "pigment": "Olimlar antotsian pigmenti ayrim saraton turlaridan himoya qilishi mumkin, deb hisoblaydi.",
+  "rape": "GM raps yovvoyi o'simliklar bilan chetdan changlanishi mumkinligi haqidagi xavotirlar uni bahsli ekinga aylantirdi.",
+  "reasonably": "Iste'molchilar genetik modifikatsiyalangan oziq-ovqatlarning aniq yorliqlanishini asosli ravishda kutishlari mumkin.",
+  "ripen": "Ba'zi mevalar xom holida terilib, supermarketga tashilayotganda pishishiga qo'yib beriladi.",
+  "ripening": "Pishishni nazorat qilish mevalarni buzilmasdan uzoq masofalarga tashish imkonini beradi.",
+  "supportive": "Yevropada hukumatlar GM texnologiyasini Amerika qit'asidagiga qaraganda kamroq qo'llab-quvvatlagan."
+ }
+});

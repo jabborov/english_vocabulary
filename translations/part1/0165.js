@@ -1,0 +1,67 @@
+// Part 1 topic 0165: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0165', {
+ "B1": {
+  "bandy around": "Bu g'oya tez-tez tilga olinadi.",
+  "category": "Kitoblarni toifalarga ajrating.",
+  "drum": "U tayoqchalar bilan barabanni urdi.",
+  "finance minister": "Moliya vaziri soliqlar haqida gapirdi.",
+  "harmonious": "Opa-singillar o'rtasida ahil do'stlik bor.",
+  "little sister": "Men singlimga uy vazifasida yordam beraman.",
+  "march": "U jahl bilan xonaga shahdam kirib keldi.",
+  "on the spot": "Bu savol meni noqulay ahvolga solib qo'ydi.",
+  "peacemaker": "U yarashtiruvchi bo'lishga harakat qiladi.",
+  "read along": "Tinglash bilan birga matnni kuzatib o'qib borishingiz mumkin.",
+  "reunite": "Ular aeroportda yana uchrashishdi.",
+  "sibling": "Aka-uka va opa-singillarim mendan katta.",
+  "sisterhood": "Opa-singillik bir-biriga yordam berish demakdir.",
+  "spoiled": "U singlisini erka deb o'ylaydi."
+ },
+ "B2": {
+  "bandy around": "\"Abadiy eng yaqin do'stlar\" kabi iboralar ko'pincha o'ylamay ishlatiladi.",
+  "category": "Tadqiqotchilar aka-uka va opa-singillar munosabatlarini turli toifalarga ajratishdi.",
+  "drum": "Orkestr marsh qilib borarkan, baraban ritmni ushlab turdi.",
+  "finance minister": "Moliya vaziri yangi byudjetni e'lon qildi.",
+  "harmonious": "Opa-singillar o'rtasidagi munosabatlar har doim ham ahil bo'lavermaydi.",
+  "little sister": "Singlisi doim uning kiyimlarini olib kiyishni xohlardi.",
+  "march": "Ikki opa-singil paradda birga qadam tashlab yurishdi.",
+  "on the spot": "Singlisi haqida so'rashganda, u kutilmagan savoldan dovdirab qoldi.",
+  "peacemaker": "Kenja singil ko'pincha opa-akalari o'rtasida yarashtiruvchi rolini o'ynardi.",
+  "read along": "Matn yozuvi dastur bilan birga o'qib borish imkonini beradi.",
+  "reunite": "Yillar davomida chet elda yashagan opa-singillar nihoyat yana birga bo'lishdi.",
+  "sibling": "Aka-uka va opa-singillar o'rtasidagi munosabatlar boshqa har qanday munosabatdan uzoqroq davom etishi mumkin.",
+  "sisterhood": "Kitob opa-singillik va do'stlikni ulug'laydi.",
+  "spoiled": "Kenja farzandni ko'pincha katta aka-opalari erka deb atashadi."
+ },
+ "C1": {
+  "bandy around": "Aka-uka va opa-singillar munosabatlari haqidagi raqamlar unchalik dalilsiz u yoqdan-bu yoqqa aytilib yuriladi.",
+  "category": "Ba'zi opa-singillar hech bir toifaga aniq mos kelmaydi.",
+  "drum": "U baraban chalishni opasidan o'rgandi.",
+  "finance minister": "Moliya vaziri sifatida u davlat xarajatlari borasida qiyin qarorlar qabul qilishga majbur edi.",
+  "harmonious": "Ahil oilaviy hayot bolalarga o'zini xavfsiz his qilishga yordam beradi.",
+  "little sister": "Opa bo'lish singlingizdan xabar olib turishni anglatadi.",
+  "march": "Namoyishchilar o'zgarish talab qilib, shahar bo'ylab yurish qilishdi.",
+  "on the spot": "Muxbir vazirni qaltis savol bilan noqulay ahvolga solib qo'ydi.",
+  "peacemaker": "Oilada doim yarashtiruvchi bo'lish odamni holdan toydirishi mumkin.",
+  "read along": "Tinglash bilan birga matnni kuzatib o'qish ingliz tilini yaxshilashning yaxshi usulidir.",
+  "reunite": "Ijtimoiy tarmoqlar ko'plab oilalarga yo'qolgan qarindoshlari bilan qayta topishishga yordam berdi.",
+  "sibling": "Aka-uka va opa-singillar o'rtasidagi raqobat, ayniqsa bolalar yoshi yaqin bo'lsa, keng tarqalgan.",
+  "sisterhood": "Ular katta bo'lgan sari ular o'rtasidagi opa-singillik tuyg'usi kuchayib bordi.",
+  "spoiled": "Ota-onalar ba'zan juda ko'p sovg'a berish bolalarni erka qilib qo'yishidan xavotirlanadi."
+ },
+ "C2": {
+  "bandy around": "\"Toksik\" kabi atamalar shunchalik erkin ishlatiladiki, ular o'z ma'nosini yo'qotish xavfi ostida qolmoqda.",
+  "category": "Aka-uka va opa-singil rishtalarini tartibli toifalarga ajratishga urinishlar murakkab voqelikni muqarrar ravishda soddalashtiradi.",
+  "drum": "\"O'z barabaningning zarbiga qadam tashlash\" iborasi boshqalarga qaramay ishlarni o'z yo'lingcha qilishni anglatadi.",
+  "finance minister": "Moliya vazirining opasi ularning bolalikdagi raqobati qanday qilib intilishlarini shakllantirganini hikoya qildi.",
+  "harmonious": "Hatto eng ahil aka-uka, opa-singillar munosabatlarida ham raqobat va ranjish davrlari bo'ladi.",
+  "little sister": "Ular katta bo'lishgan bo'lsa ham, u hamon uni o'zining kichik singlisi deb biladi, bu esa ishqalanishlarga sabab bo'lishi mumkin.",
+  "march": "U singlisiga oxirgi so'zni qoldirmaslikka qat'iy ahd qilib, yig'ilishdan shahdam qadamlar bilan chiqib ketdi.",
+  "on the spot": "Oilaviy munosabatlar haqida kutilmaganda savol berilganda, har qanday tayyorlangan javobdan ko'ra ko'proq narsa oshkor bo'lishi mumkin.",
+  "peacemaker": "Yarashtiruvchi rolini o'z zimmasiga olgan bolalar bu mas'uliyatni katta yoshgacha olib o'tishlari mumkin.",
+  "read along": "Audio bilan birga matnni kuzatib o'qiydigan o'quvchilar odatda ham tinglab tushunish, ham talaffuzni yaxshilaydi.",
+  "reunite": "Uning aytishicha, o'nlab yillik ayriliqdan so'ng singlisi bilan qayta uchrashish o'zining bir qismini qaytarib olgandek tuyulgan.",
+  "sibling": "Aka-uka va opa-singillar ko'pincha oilada tinchlantiruvchi yoki isyonkor kabi bir-biriga zid rollarni o'ynaydi.",
+  "sisterhood": "Opa-singillik tushunchasi oiladan tashqariga chiqib, ayollar o'rtasidagi birdamlikni kengroq ma'noda ifodalaydi.",
+  "spoiled": "Erkatoy deb ayblash ko'pincha ota-onaning haqiqiy tarafkashligidan ko'ra aka-uka, opa-singillar o'rtasidagi raqobatni aks ettiradi."
+ }
+});

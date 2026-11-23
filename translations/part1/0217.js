@@ -1,0 +1,67 @@
+// Part 1 topic 0217: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0217', {
+ "B1": {
+  "Pink Lady": "Pink Lady olmalari juda qarsildoq bo'ladi.",
+  "backpack": "Ryukzagimga bitta olma solib qo'ydim.",
+  "beetle": "Ba'zi odamlar qo'ng'izlarni yeydi.",
+  "celery": "U selderni sous bilan yeydi.",
+  "cricket": "Men qovurilgan chirildoqni tatib ko'rdim.",
+  "crunch down": "Men chipsni qarsillatib tishladim.",
+  "freshness": "Qarsillashi uning yangiligini ko'rsatadi.",
+  "grasshopper": "Meksikada odamlar chigirtka yeyishadi.",
+  "grind": "Ular bug'doyni tortib un qilishadi.",
+  "locust": "Ba'zi odamlar qovurilgan chigirtka yeyishadi.",
+  "scrambled": "Bugun miyam chalkashib ketgandek.",
+  "scrambled eggs": "Tuxum quymoq yumshoq bo'ladi.",
+  "termite": "Ba'zi odamlar termitlarni yeydi.",
+  "ton": "Biz juda ko'p chips yedik."
+ },
+ "B2": {
+  "Pink Lady": "Pink Lady olma navi Avstraliyada yaratilgan.",
+  "backpack": "Qarsildoq gazaklarni ryukzakda olib yurish oson.",
+  "beetle": "Qovurilgan qo'ng'izlar Osiyoning ayrim qismlarida qarsildoq gazak hisoblanadi.",
+  "celery": "Selderey eng qarsillaydigan sabzavotlardan biridir.",
+  "cricket": "Ko'plab mamlakatlarda chigirtkalar oziq-ovqat sifatida yetishtiriladi.",
+  "crunch down": "Yangi olmani qarsillatib tishlaganingizda, u baland ovoz chiqaradi.",
+  "freshness": "Biz baland qarsillashni yangilik bilan bog'laymiz.",
+  "grasshopper": "Chigirtkalar qovurilib, qarsildoq gazak sifatida yeyiladi.",
+  "grind": "Hasharotlarni maydalab, oqsilga boy kukun tayyorlash mumkin.",
+  "locust": "Chigirtka to'dalari butun dalalarni yo'q qilishi mumkin.",
+  "scrambled": "U tuxumni ozgina pishloq qo'shib, quymoq qilib yeyishni afzal ko'radi.",
+  "scrambled eggs": "Qarsildoq tost ustidagi quymoq yaxshi nonushta bo'ladi.",
+  "termite": "Termitlar oqsil va yog'ga boy.",
+  "ton": "Supermarketda juda ko'p qarsildoq gazaklar bor."
+ },
+ "C1": {
+  "Pink Lady": "Ko'pchilik Pink Lady olmasini uning qarsildoq tuzilishi uchun tanlaydi.",
+  "backpack": "Sayohatchilar ryukzaklarini chips va yong'oqqa to'ldirib olishdi.",
+  "beetle": "Qo'ng'izlar oqsilga boy manbadir.",
+  "celery": "Yangi seldereyning qarsillashi undagi suv ko'pligidan dalolat beradi.",
+  "cricket": "Chigirtka unidan oqsilga boy gazaklar tayyorlanadi.",
+  "crunch down": "Qovurilgan chigirtkani tishlab qarsillatish u kutganchalik g'alati bo'lmadi.",
+  "freshness": "Supermarketlar sabzavotlarning yangiligini saqlash uchun sovutgichli peshtaxtalardan foydalanadi.",
+  "grasshopper": "Oaxakada qalampir va laym bilan ziravorlangan chigirtkalar mahalliy noz-ne'matlardan biri hisoblanadi.",
+  "grind": "Hasharotlarni maydalab un qilish ularni ko'plab iste'molchilar uchun maqbulroq qiladi.",
+  "locust": "Ba'zi mintaqalarda chigirtkalar yig'ib olinadi va qarsildoq taom sifatida iste'mol qilinadi.",
+  "scrambled": "Uzoq parvozdan keyin uning fikrlari butunlay chalkashib ketgan edi.",
+  "scrambled eggs": "Qarsildoq bekon qo'shish quymoqqa qarama-qarshi tuzilish baxsh etadi.",
+  "termite": "Ba'zi Afrika mamlakatlarida qovurilgan termitlar mavsumiy noz-ne'mat hisoblanadi.",
+  "ton": "Oziq-ovqat kompaniyalari mahsulotlarining ovozini sinash uchun juda ko'p pul sarflashadi."
+ },
+ "C2": {
+  "Pink Lady": "Pink Lady kabi olma navlari qisman iste'molchilar kutadigan yoqimli qarsillash uchun yetishtiriladi.",
+  "backpack": "Ryukzakdagi bir paket qarsildoq gazak zamonaviy sayohatning ajralmas qismiga aylandi.",
+  "beetle": "Dunyo aholisi o'sib borgani sari yeyiladigan qo'ng'izlar oqsilning keng tarqalgan manbaiga aylanishi mumkin.",
+  "celery": "Tadqiqotchilar tovush yangilikni idrok etishimizga qanday ta'sir qilishini o'rganish uchun selderey kabi oziq-ovqatlardan foydalanishadi.",
+  "cricket": "Chigirtkasimon chirildoqlarni yetishtirish qoramol boqishga qaraganda ancha kam issiqxona gazlari chiqaradi.",
+  "crunch down": "Ovqatni qarsillatib tishlash zavqi yangi hasharot va o'simliklarga bo'lgan qadimiy moyillik bilan bog'liq bo'lishi mumkin.",
+  "freshness": "Miya qarsillashdan yangilikning tezkor belgisi sifatida foydalanadi, bu odat ajdodlarimizga buzilgan ovqatdan saqlanishga yordam bergan bo'lishi mumkin.",
+  "grasshopper": "Chigirtkaning qarsillashi hasharotlarni G'arb iste'molchilari uchun maqbul qilishning kaliti bo'lishi mumkin.",
+  "grind": "Agar hasharotlar ko'rinmas kukunga aylantirib maydalansa, biz qarsillashni yo'qotamiz, ba'zilarning fikricha esa bu ularning asosiy jozibasidir.",
+  "locust": "Vayronkor chigirtka galalarini oziq-ovqatga aylantirish ekinlarga yetadigan zararga ijodiy yechim sifatida taklif qilingan.",
+  "scrambled": "Chalkash xabarni tushunish qiyin, xuddi chalkash fikrlarni tartibga solish qiyin bo'lgani kabi.",
+  "scrambled eggs": "Oshpazlar ko'pincha quymoq kabi yumshoq taomlarni qiziqarliroq qilish uchun ularga qarsildoq narsa qo'shishadi.",
+  "termite": "Primatlar, jumladan ilk odamlar, termitlarni yeyish orqali qarsillashga moyillik hosil qilgan bo'lishi mumkin.",
+  "ton": "Ishlab chiqaruvchilar qarsillash ovqatdan zavqlanishimizga qanday ta'sir qilishi haqida tonnalab ma'lumot to'plashgan."
+ }
+});

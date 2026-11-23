@@ -1,0 +1,63 @@
+// Part 1 topic 0225: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0225', {
+ "B1": {
+  "Benjamin": "Benjamin bizga o'z tadqiqoti haqida gapirib berdi.",
+  "card game": "Kechki ovqatdan keyin karta o'ynadik.",
+  "granny": "Biz yakshanba kunlari buvimnikiga boramiz.",
+  "irritated": "Shovqin uning jig'iga tegdi.",
+  "lead on": "U yolg'on va'dalar bilan ularni aldab yurdi.",
+  "operative": "Bu yerda asosiy so'z \"bepul\".",
+  "operatively": "Tizim samarali ishlaydi.",
+  "ostracise": "Guruh firibgarni o'z davrasidan chetlatdi.",
+  "parking": "Darvoza oldida mashina qo'yish taqiqlanadi.",
+  "parking space": "U do'kon yaqinidan mashina qo'yish uchun joy topdi.",
+  "selfishly": "Bunchalik xudbinlarcha harakat qilma.",
+  "so to speak": "Ta'bir joiz bo'lsa, biz bir qayiqdamiz.",
+  "social group": "Har bir ijtimoiy guruhning o'z qoidalari bor."
+ },
+ "B2": {
+  "Benjamin": "Benjamin odamlar nega mayda yolg'onlar gapirishini tushuntirib beradi.",
+  "card game": "Odamlar ba'zan hech kim qaramayotganda karta o'yinida aldashadi.",
+  "granny": "Ko'p odamlar buvisiga hech qachon yolg'on gapirmagan bo'lardi.",
+  "irritated": "Boshqalar o'zini xudbinlarcha tutganda odamlarning g'ashi keladi.",
+  "lead on": "Ba'zi odamlar boshqalarga rozi bo'lgandek ko'rinib, ularni chalg'itishadi.",
+  "operative": "Ushbu muhokamada \"halol\" asosiy so'z hisoblanadi.",
+  "operatively": "Ishonch ko'plab ijtimoiy vaziyatlarda amalda faol ishlaydi.",
+  "ostracise": "Boshqalarni aldagan ilk odamlar o'z guruhidan chetlatilishi mumkin edi.",
+  "parking": "Ba'zi odamlar bepul to'xtash joyiga ega bo'lish uchun qayerda yashashlari haqida yolg'on gapirishadi.",
+  "parking space": "Birovning to'xtash joyini egallab olish kichik xudbinlikning keng tarqalgan ko'rinishidir.",
+  "selfishly": "Ko'p odamlar hech kim ko'rmayotganda o'zini xudbinlarcha tutishadi.",
+  "so to speak": "Yolg'onchilar ko'pincha, ta'bir joiz bo'lsa, o'z hikoyalari bilan qo'lga tushib qolishadi.",
+  "social group": "Insofsiz odamlar o'z ijtimoiy guruhidan chetlatilishi mumkin."
+ },
+ "C1": {
+  "Benjamin": "Ko'rsatuvda Benjamin karta o'yini bilan o'tkazilgan tajribani tasvirlab beradi.",
+  "card game": "Tajribada nohalollikni o'lchash uchun oddiy karta o'yinidan foydalanildi.",
+  "granny": "Buvim halollik eng to'g'ri yo'l, deydi.",
+  "irritated": "U hamkasbi yolg'on gapirganini bilib, jahli chiqdi.",
+  "lead on": "U yigitning boshidan beri uni aldab, umid berib kelganini angladi.",
+  "operative": "Qoida o'tgan yili kuchga kirdi.",
+  "operatively": "Halollik biz sezmasak ham, munosabatlarimizda amalda o'z ta'sirini ko'rsatadi.",
+  "ostracise": "Jamiyatdan chetlatilish qo'rquvi odamlarni halol bo'lishga undaydi.",
+  "parking": "Noqonuniy to'xtash ko'pchilik o'ylab ham o'tirmay sodir etadigan kichik huquqbuzarlikdir.",
+  "parking space": "Tadqiqotda haydovchilar avtoturargoh joyi uchun raqobatlashganda o'zlarini qanday tutishlari kuzatildi.",
+  "selfishly": "Xudbinlarcha harakat qiladigan odamlar ham o'zlarini halol deb ta'riflashlari mumkin.",
+  "so to speak": "Kichik yolg'onlar aytish, ta'bir joiz bo'lsa, ijtimoiy hayotni bog'lab turuvchi yelimning bir qismidir.",
+  "social group": "Halolligimiz biz mansub bo'lgan ijtimoiy guruh me'yorlari ta'sirida shakllanadi."
+ },
+ "C2": {
+  "Benjamin": "Benjaminning xulosalariga ko'ra, ko'pchilik odamlar biroz aldaydi, ammo faqat ozchilik ko'p aldaydi.",
+  "card game": "Karta o'yini kichik aldovlarni aniq qayd etish mumkin bo'lgan nazorat ostidagi muhitni ta'minlaydi.",
+  "granny": "Ishda haqiqatni biroz buzadiganlar ham buvisiga yolg'on gapirganda ko'pincha o'zini aybdor his qiladi.",
+  "irritated": "Biz o'zimizdagidan ko'ra boshqalardagi kichik nohalolliklardan ko'proq g'ashimiz keladi.",
+  "lead on": "Birovni aldab umid berish, ochiq yolg'on aytmasa ham, keng ma'noda nohalollik shakli deb qaraladi.",
+  "operative": "Amaldagi tamoyil shundan iboratga o'xshaydi: biz o'zimizni yaxshi odam deb bilishda davom eta oladigan darajadagina yolg'on gapiramiz.",
+  "operatively": "Qoidaning amalda ijro etilishi xatti-harakat uchun uning rasman belgilanganidan ko'ra muhimroq.",
+  "ostracise": "Ajdodlarimiz uchun jamoadan chetlatilish o'limni anglatishi mumkin edi, bu esa obro'ga bo'lgan chuqur e'tiborimizni tushuntirishi mumkin.",
+  "parking": "Tadqiqotchilar diplomatlar qanchalik halol ekanini o'lchash uchun to'lanmagan avtoturargoh jarimalaridan foydalanishgan.",
+  "parking space": "Hatto avtoturargoh joyi ustidagi arzimas nizolar ham odamning adolat tuyg'usi haqida ko'p narsani oshkor qilishi mumkin.",
+  "selfishly": "Tajriba shuni ko'rsatdiki, odamlar o'zlarini aniqlab bo'lmaydi deb hisoblaganda ancha ko'proq xudbinlarcha harakat qilishadi.",
+  "so to speak": "Barchamiz ba'zan haqiqatni biroz buramiz; biz, ta'bir joiz bo'lsa, ma'lum chegaralar ichida halolmiz.",
+  "social group": "Ijtimoiy guruh ichidagi mavqeni yo'qotish qo'rquvi halol xatti-harakatning kuchli sababidir."
+ }
+});

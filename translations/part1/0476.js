@@ -1,0 +1,67 @@
+// Part 1 topic 0476: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0476', {
+ "B1": {
+  "bloke": "Qandaydir bir yigit mendan yo'l so'radi.",
+  "blonde": "Uning sarg'ish sochi uzun.",
+  "cabin": "Biz kemadagi kayutada uxladik.",
+  "categorise": "U suratlarni yillar bo'yicha toifalarga ajratdi.",
+  "crossing": "Biz parom orqali o'tdik.",
+  "levelling": "Ta'lim tufayli tabaqalar o'rtasidagi farq biroz tenglashdi.",
+  "persecution": "Oila diniy ta'qibdan qochib qutuldi.",
+  "shady": "U biroz shubhali odam.",
+  "starboard": "Qayiq o'ng tomonga burildi.",
+  "stylish": "Mehmonxona kichik, lekin zamonaviy va did bilan bezatilgan.",
+  "toff": "Zodagonlar ot poygasiga borishdi.",
+  "unrepresentative": "Natijalar umumiy holatni aks ettirmasdi.",
+  "viewpoint": "Uning nuqtai nazari boshqacha.",
+  "working person": "Oddiy ishlovchi odam kamroq maosh oladi."
+ },
+ "B2": {
+  "bloke": "U shunchaki futbolni yaxshi ko'radigan oddiy yigit.",
+  "blonde": "Aktrisa rol uchun sochini sariqqa bo'yadi.",
+  "cabin": "Eng yaxshi kayutalar kemaning soya tomonida edi.",
+  "categorise": "Odamlarni gapirish uslubiga qarab toifalarga ajratish adolatdan emas.",
+  "crossing": "Hindistonga dengiz orqali o'tish uzoq va juda issiq edi.",
+  "levelling": "Urushdan keyin daromadlarning tenglashuvi sinfiy farqlarni kamaytirdi.",
+  "persecution": "Uning da'vo qilishicha, aslzodalar talaffuzida gapiradigan odamlar o'ziga xos ta'qibga uchraydi.",
+  "shady": "Kemaning soya tomoni ancha salqin edi.",
+  "starboard": "Uyga qaytishda kemaning o'ng borti quyosh tushmaydigan tomonda edi.",
+  "stylish": "U ishga doim zamonaviy, didli kiyimlarda keladi.",
+  "toff": "Ba'zi gazetalar siyosatchilarni boyvachchalar to'dasi deb ta'rifladi.",
+  "unrepresentative": "Bir nechta boy oilalar butun mintaqani to'g'ri aks ettirmaydi.",
+  "viewpoint": "Tarixiy nuqtai nazardan, \"posh\" so'zi ancha yangi.",
+  "working person": "Yangi qonun oddiy mehnatkash insonga yordam beradi."
+ },
+ "C1": {
+  "bloke": "Do'kondagi yigit menga qaytimni noto'g'ri berdi.",
+  "blonde": "Badavlat qizlar haqidagi stereotiplar ularni ko'pincha sariq sochli va chiroyli kiyingan qilib ko'rsatadi.",
+  "cabin": "Birinchi toifa yo'lovchilari o'z hammomiga ega katta kayutalarda joylashgan edi.",
+  "categorise": "Tadqiqotchilar javoblarni uch guruhga ajratib tasnifladi.",
+  "crossing": "Dengizdan o'tish sokin kechdi, shuning uchun hech kimni dengiz kasalligi tutmadi.",
+  "levelling": "Ko'pchilik boy va kambag'al hududlar o'rtasida ko'proq tenglashtirish zarur deb hisoblaydi.",
+  "persecution": "Minglab odamlar siyosiy ta'qibdan qochib mamlakatni tark etishdi.",
+  "shady": "Tez foyda va'da qiladigan shubhali bizneslardan ehtiyot bo'ling.",
+  "starboard": "Dengizchilar chap va o'ng o'rniga \"port\" va \"starbord\" so'zlarini ishlatishadi.",
+  "stylish": "Restoranning ichki bezagi zamonaviy va nafis, menyusi esa qimmat.",
+  "toff": "Faqat talaffuzi tufayli uni \"zodagon\" deb atashlarini u yomon ko'rardi.",
+  "unrepresentative": "Tanqidchilar hukumat oddiy saylovchilarni munosib aks ettirmasligini aytishdi.",
+  "viewpoint": "Ko'rsatuv turli tabaqa vakillarining nuqtai nazarini taqdim etadi.",
+  "working person": "Siyosatchilar ko'pincha oddiy mehnatkash xalq nomidan gapirayotganlarini da'vo qilishadi."
+ },
+ "C2": {
+  "bloke": "Siyosatchilar haqiqiy kelib chiqishidan qat'i nazar, o'zlarini oddiy yigit qilib ko'rsatishni yaxshi ko'radi.",
+  "blonde": "Sariq sochli, badavlat merosxo'r qiz haqidagi qolip tabaqaning o'zidan ko'ra ommaviy axborot vositalaridagi stereotiplar haqida ko'proq ma'lumot beradi.",
+  "cabin": "Mashhur rivoyatlardan biriga ko'ra, badavlat sayohatchilar kemaning quyoshdan uzoq tomonidagi kayutalarni band qilishgan.",
+  "categorise": "Jamiyatni sinflarga aniq toifalarga ajratishga urinishlar odamlar hayoti aslida qanchalik murakkab ekanini e'tiborsiz qoldiradi.",
+  "crossing": "Imperiya davrida Hindistonga dengiz orqali o'tish faqat boylar qulay qila oladigan mashaqqatli sinov edi.",
+  "levelling": "O'nlab yillik ijtimoiy tenglashtirishga qaramay, talaffuz Britaniyada tabaqaning eng aniq belgilaridan biri bo'lib qolmoqda.",
+  "persecution": "Talaffuz ustidan masxara qilishni \"ta'qib\" deb ta'riflash ko'pchilikka mubolag'adek tuyuladi.",
+  "shady": "\"Posh\" so'zi soya kayutalarga ishora qilgan, degan nazariya jozibali, ammo buning dalili kam.",
+  "starboard": "Etimologlar \"port out, starboard home\" (borishda chap bort, qaytishda o'ng bort) hikoyasiga shubha bilan qaraydi, chunki \"POSH\" deb belgilangan birorta chipta topilmagan.",
+  "stylish": "Zamonaviy kiyimlar endi ko'pchilik uchun hamyonbop bo'lgani sababli, didli kiyinish endi tabaqa belgisi emas.",
+  "toff": "Kimnidir \"zodagon\" deb atash ta'riflanayotgan shaxs haqida qancha ma'lumot bersa, so'zlovchining g'arazi haqida ham shuncha ma'lumot beradi.",
+  "unrepresentative": "Bunday reprezentativ bo'lmagan tanlanma asosida tabaqa haqida xulosa chiqarish o'ta chalg'ituvchi bo'lardi.",
+  "viewpoint": "Boshqa insonning nuqtai nazarini tushunish u bilan rozi bo'lishingizni talab qilmaydi.",
+  "working person": "\"Mehnatkash inson\" tushunchasi Britaniyada tabaqa va adolat haqidagi bahslarning markazida turadi."
+ }
+});

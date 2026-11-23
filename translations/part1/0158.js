@@ -1,0 +1,67 @@
+// Part 1 topic 0158: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0158', {
+ "B1": {
+  "adjustment": "Uy ko'chirish moslashishni talab qiladi.",
+  "by trial and error": "Biz yo'lni sinov va xatolar orqali topdik.",
+  "comfort zone": "O'zingiz ko'nikmagan narsani sinab ko'ring.",
+  "dietitian": "Men dietologga bordim.",
+  "in for": "Uni kutilmagan voqea kutmoqda.",
+  "integral": "U jamoaning ajralmas qismi.",
+  "replacement": "Biz shakar o'rnini bosadigan narsa topdik.",
+  "scone": "U murabbo bilan skon yedi.",
+  "sunny": "Uning mamlakati issiq va quyoshli.",
+  "to be sure": "Ovqat, shubhasiz, g'alati edi.",
+  "toad": "\"Toad in the hole\" taomida kolbasa bo'ladi.",
+  "trial and error": "Ovqat pishirish ko'pincha sinov va xatolar orqali o'rganiladi.",
+  "tweak": "U sozlamalarni biroz o'zgartirdi.",
+  "well out": "Bu taom men uchun mutlaqo odatiy bo'lmagan narsa."
+ },
+ "B2": {
+  "adjustment": "Yangi taomlarga ko'nikish katta moslashuvni talab qiladi.",
+  "by trial and error": "U qaysi do'konlarda o'z ziravorlari sotilishini sinab ko'rib, xato qilib aniqladi.",
+  "comfort zone": "Yangi taomlarni tatib ko'rish sizni qulaylik doirangizdan chiqarishi mumkin.",
+  "dietitian": "Dietolog qaysi mahalliy taomlar foydali ekanini tushuntirib berdi.",
+  "in for": "Agar Britaniya taomlarini tatib ko'rsangiz, sizni bir nechta kutilmagan holatlar kutmoqda.",
+  "integral": "Ko'plab madaniyatlarda birgalikda ovqatlanish oilaviy hayotning ajralmas qismidir.",
+  "replacement": "Muhojirlar ko'pincha o'z yurtidagi masalliqlar o'rnini bosadigan narsalarni izlashadi.",
+  "scone": "Skonlar ko'pincha qaymoq va murabbo bilan tortiladi.",
+  "sunny": "Quyoshli mamlakatlardan keltirilgan mevalar ko'pincha shirinroq bo'ladi.",
+  "to be sure": "To'g'ri, ba'zi Britaniya taomlariga ko'nikish uchun vaqt kerak bo'ladi.",
+  "toad": "\"Toad in the hole\" taomi tarkibida umuman qurbaqa yo'qligini bilib, u hayron qoldi.",
+  "trial and error": "To'g'ri ziravorlarni topish sinov va xatolar orqali amalga oshdi.",
+  "tweak": "U an'anaviy taomlarni foydaliroq qilish uchun ularga biroz o'zgartirish kiritadi.",
+  "well out": "Xorijiy taom pishirish uni o'zi o'rgangan qulay muhitidan ancha chiqarib yubordi."
+ },
+ "C1": {
+  "adjustment": "Boshqacha ovqatlanishga moslashish muhojirlarning sog'lig'iga ta'sir qilishi mumkin.",
+  "by trial and error": "Ko'pchilik notanish taomlarni pishirishni sinov va xatolar orqali o'rganadi.",
+  "comfort zone": "Ko'p odamlar o'z qulaylik doirasida qolib, faqat o'zlari bilgan narsalarni yeydi.",
+  "dietitian": "Dietolog yangi kelganlarga o'zlarining an'anaviy ovqatlanishini moslashtirishga yordam beradi.",
+  "in for": "Yangi kelganlar odamlarning nonushtaga nima yeyishini ko'rib, ko'pincha hayratga tushishadi.",
+  "integral": "Taom o'zlikning ajralmas qismidir, shuning uchun ovqatlanish tarzini o'zgartirish o'zingizning bir bo'lagingizni yo'qotgandek tuyulishi mumkin.",
+  "replacement": "Tanish ziravorga munosib o'rinbosar topish bir necha oy vaqt olishi mumkin.",
+  "scone": "Ilk bor skon tatib ko'rish Britaniya taomlari bilan tanishishning bir qismi edi.",
+  "sunny": "Quyoshli iqlimdan kelgan unga Britaniya sabzavotlari ancha bemaza tuyuldi.",
+  "to be sure": "To'g'ri, vatanni sog'inish dastlabki bir necha oyni og'irlashtirdi.",
+  "toad": "\"Toad in the hole\" kabi g'alati nomlar yangi kelganlarni Britaniya taomlaridan sovitib qo'yishi mumkin.",
+  "trial and error": "U sinov va xatolar orqali qaysi mahalliy mahsulotlar o'z retseptlariga mos kelishini o'rgandi.",
+  "tweak": "Bir nechta masalliqni ozgina o'zgartirib, uy taomining ta'mini saqlab qolishingiz mumkin.",
+  "well out": "Yangi ovqatlanish tarzi u uyda yeb o'rgangan taomlardan butunlay yiroq edi."
+ },
+ "C2": {
+  "adjustment": "Ovqatlanishga moslashish migratsiyaning eng kam baholanadigan qiyinchiliklaridan biridir.",
+  "by trial and error": "U retseptlarga amal qilish o'rniga mahalliy oshxonani sinov va xatolar orqali o'rganib oldi.",
+  "comfort zone": "Oshxonadagi qulaylik doirangizdan tashqariga chiqish chet elda yashashning eng mamnuniyat bag'ishlaydigan jihatlaridan biri bo'lishi mumkin.",
+  "dietitian": "Muhojirlar bilan ishlaydigan dietologlar ovqatlanish bo'yicha maslahatni madaniy nozik jihatlarga e'tibor bilan muvozanatlashlari kerak.",
+  "in for": "Tanish ta'mlarni kutayotgan har bir kishini ancha uzoq moslashish davri kutmoqda.",
+  "integral": "Oshxona an'analari o'zlikning shunchalik ajralmas qismiki, ovqatlanishdagi o'zgarish yo'qotishning bir ko'rinishi sifatida his qilinishi mumkin.",
+  "replacement": "Mahalliy o'rinbosarlar kamdan-kam hollarda mukammal almashtirish bo'la oladi, bu esa an'anaviy taomlar ta'mini sezilmas darajada o'zgartiradi.",
+  "scone": "Skonlar bilan tortiladigan qaymoqli choy marosimi o'ziga xos britaniyacha an'anadir.",
+  "sunny": "Quyoshliroq iqlimdan kelgan muhojirlar ko'pincha yangi, mavsumiy mahsulotlar yetishmasligidan nolishadi.",
+  "to be sure": "To'g'ri, madaniy moslashuv kamdan-kam hollarda og'riqsiz kechadi, ammo u deyarli har doim o'z samarasini beradi.",
+  "toad": "\"Toad in the hole\" (\"teshikdagi qurbaqa\") kabi taomlar mehmonlarni hayron qoldiradi, chunki ularning kutganlari butunlay nomga asoslanadi.",
+  "trial and error": "Notanish oziq-ovqat madaniyatiga moslashish asosan sinov va xatolar jarayonidir.",
+  "tweak": "Tanish retseptlarga kiritilgan kichik o'zgartirishlar muhojirlarga sog'lomroq ovqatlangan holda o'z merosini saqlab qolish imkonini beradi.",
+  "well out": "O'zlari ko'nikkan muhitdan ancha uzoqda bo'lgani uchun ko'plab muhojirlar dastlab tanish taomlarga qaytishadi."
+ }
+});

@@ -1,0 +1,63 @@
+// Part 1 topic 0439: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0439', {
+ "B1": {
+  "comprehensive": "Bu kitob juda keng qamrovli.",
+  "defence system": "Mudofaa tizimi osmonni himoya qiladi.",
+  "deployment": "Qo'shinlarning joylashtirilishi kutilmagan bo'ldi.",
+  "devise": "U vaqtni tejash usulini o'ylab topdi.",
+  "high explosive": "Bomba kuchli portlovchi modda bilan to'ldirilgan edi.",
+  "high profile": "Bu ish jamoatchilik e'tiborida bo'lgan juda shov-shuvli ish edi.",
+  "imposition": "Bu qoida majburan tiqishtirilgan narsa edi.",
+  "injured": "Uch kishi jarohat oldi.",
+  "layered": "Reja ko'p qatlamli tuzilishga ega.",
+  "plotter": "Politsiya fitnachilarni hibsga oldi.",
+  "salvo": "Armiya havoga yalpi o'q uzdi.",
+  "spinal": "Shifokorlar uning umurtqa suyaklarini tekshirishdi.",
+  "suspense": "Biz hayajon bilan kutib turdik."
+ },
+ "B2": {
+  "comprehensive": "Rasmiylar keng qamrovli xavfsizlik operatsiyasini va'da qilishdi.",
+  "defence system": "Havo hujumidan mudofaa tizimi samolyotlarni urib tushira oladi.",
+  "deployment": "Shaharga raketalar joylashtirilishi munozaralarga sabab bo'ldi.",
+  "devise": "Muhandislar stadionni himoya qilish uchun tizim ishlab chiqishdi.",
+  "high explosive": "Raketada oz miqdorda kuchli portlovchi modda bor.",
+  "high profile": "Bunday yuqori darajadagi tadbirda xavfsizlik choralari kuchaytirilgan.",
+  "imposition": "Ko'plab aholi rejani adolatsiz ravishda majburan tiqishtirilgan narsa deb hisobladi.",
+  "injured": "Mashg'ulot paytida bir nechta askar jarohat oldi.",
+  "layered": "Ko'p qatlamli mudofaa bir nechta turli qurollardan foydalanadi.",
+  "plotter": "Fitnachilar binoni portlatib yubormoqchi edilar.",
+  "salvo": "Tizim bir necha soniya ichida raketalar zalpini otishi mumkin.",
+  "spinal": "Umurtqa pog'onasi jarohati yurishni qiyinlashtirishi mumkin.",
+  "suspense": "Intiqlik chidab bo'lmas darajada edi, shuning uchun oxirgi sahifani o'qib qo'ya qoldim."
+ },
+ "C1": {
+  "comprehensive": "Hisobot xavflar haqida har tomonlama to'liq ma'lumot beradi.",
+  "defence system": "Hukumat yangi raketaga qarshi mudofaa tizimiga millionlab mablag' sarfladi.",
+  "deployment": "Aholiga harbiylarning joylashtirilishi haqida so'nggi daqiqagacha aytilmagan.",
+  "devise": "Hukumat O'yinlar xavfsizligi bo'yicha batafsil reja ishlab chiqdi.",
+  "high explosive": "Aholi tomlarida kuchli portlovchi moddalar saqlanayotganidan xavotirda edi.",
+  "high profile": "Ommaning katta e'tiboridagi tadbirlar terrorchilar nishoniga aylanishi mumkin.",
+  "imposition": "Tomda askarlarning bo'lishi u yerda yashovchi oilalar uchun katta noqulaylik va og'irlik edi.",
+  "injured": "Jarohatlanganlar tez yordam mashinasida shifoxonaga olib ketildi.",
+  "layered": "Xavfsizlik mutaxassislari himoyaga ko'p bosqichli yondashuvni ma'qul ko'radi.",
+  "plotter": "Xavfsizlik xizmatlarining fikricha, fitnachilarga chet eldan yordam berilgan.",
+  "salvo": "Bu norozilik uzoq davom etadigan kampaniyaning ilk zarbasi edi.",
+  "spinal": "Shifoxonada umurtqa pog'onasi kasalliklariga ixtisoslashgan bo'lim bor.",
+  "suspense": "Yozuvchi o'quvchilarni so'nggi bobgacha intizorlikda ushlab turadi."
+ },
+ "C2": {
+  "comprehensive": "Xavfsizlikka kompleks yondashuv razvedka, politsiya va harbiy yordamni birlashtiradi.",
+  "defence system": "Harbiy rahbarlar tom ustidagi raketalarni kengroq mudofaa tizimining faqat bir qatlami deb ta'rifladi.",
+  "deployment": "Turar-joy hududiga harbiy texnikaning joylashtirilishi tinchlik davridagi Britaniyada misli ko'rilmagan hol edi.",
+  "devise": "Harbiy rejalashtiruvchilar tom ustidagi raketalarni shay turgan qiruvchi samolyotlar bilan birlashtirgan strategiya ishlab chiqdi.",
+  "high explosive": "Armiya kuchli portlovchi jangovar kallaklar pastda yashovchi odamlar uchun hech qanday xavf tug'dirmasligini ta'kidladi.",
+  "high profile": "Shaharga raketalar joylashtirish to'g'risidagi qaror aholi tomonidan keng jamoatchilik e'tiborini tortgan tanqidlarga sabab bo'ldi.",
+  "imposition": "Aholi bu joylashtirishni tegishli maslahatlashuvsiz zo'rlab tiqishtirilgan qaror deb hisobladi.",
+  "injured": "Baxtimizga, uskuna tomga ko'tarilayotganda hech kim jarohatlanmadi.",
+  "layered": "Ko'p qatlamli tizim bir mudofaa ishdan chiqsa ham, boshqasi hali o'rnida bo'lishini anglatardi.",
+  "plotter": "Gay Foks 1605-yilda Parlamentni portlatishga uringan fitnachilarning eng mashhuridir.",
+  "salvo": "Gazeta maqolasi xavfsizlik rejalari ustidagi kurashning ilk zarbasi sifatida qabul qilindi.",
+  "spinal": "Davolashdagi yutuqlar umurtqa pog'onasi jiddiy jarohatlangan bemorlar istiqbolini yaxshiladi.",
+  "suspense": "Boshlovchi viktorina javobini oshkor qilishdan oldin tomoshabinlarni intizorlikda ushlab turdi."
+ }
+});

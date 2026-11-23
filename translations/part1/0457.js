@@ -1,0 +1,67 @@
+// Part 1 topic 0457: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0457', {
+ "B1": {
+  "Antarctica": "Antarktidada kam odam bo'lgan.",
+  "cubic": "Xonaning hajmi taxminan qirq kub metr.",
+  "cubic kilometre": "Ko'lda bir kub kilometr suv bor.",
+  "ecology": "Orolning ekologiyasi o'ziga xos.",
+  "frisk": "Politsiya qurol bor-yo'qligini bilish uchun erkakni tintuv qildi.",
+  "greener": "Yomg'irdan keyin bog' yanada yashilroq ko'rinadi.",
+  "invader": "Bosqinchi turlar yangi joyni egallab olishi mumkin.",
+  "offshore": "Ular dengizdagi neft platformasida ishlashadi.",
+  "peninsula": "Antarktida yarim oroli sayyohlar orasida mashhur.",
+  "pristine": "Mashina yangidek top-toza ko'rinadi.",
+  "run up": "Safar oldidan biz issiq kiyimlar sotib oldik.",
+  "southernmost": "Ular Afrikaning eng janubiy nuqtasiga borishdi.",
+  "take hold": "Shamollash tezda avj olishi mumkin.",
+  "tuck away": "Urug'lar paypog'ingiz ichiga yashirinib qolishi mumkin."
+ },
+ "B2": {
+  "Antarctica": "Antarktida qalin muz bilan qoplangan.",
+  "cubic": "Suv kub metrlarda o'lchanadi.",
+  "cubic kilometre": "Antarktidada millionlab kub kilometr muz bor.",
+  "ecology": "Yangi turlar mahalliy ekologiyaga zarar yetkazishi mumkin.",
+  "frisk": "Tadqiqotchilar urug' bor-yo'qligini bilish uchun sayyohlarning sumka va etiklarini tintuv qilishdi.",
+  "greener": "Havoning isishi Antarktidaning ayrim qismlarini yashilroq qilmoqda.",
+  "invader": "Olimlar Antarktidaga bostirib kirayotgan begona o'simliklardan xavotirda.",
+  "offshore": "Antarktida yaqinidagi qirg'oqdan uzoqdagi orollarni allaqachon begona o'simliklar egallab olgan.",
+  "peninsula": "Yarimorol Antarktidaning qolgan qismiga qaraganda iliqroq.",
+  "pristine": "Antarktida beg'ubor tabiatga ega.",
+  "run up": "Bayramlar arafasida do'konlar juda gavjum bo'ladi.",
+  "southernmost": "Dunyoning eng janubiy hududlari juda sovuq.",
+  "take hold": "Agar hech kim yulib tashlamasa, begona o'tlar ildiz otib ketishi mumkin.",
+  "tuck away": "Ko'plab urug'lar fotoapparat sumkalarida yashirinib qolgan edi."
+ },
+ "C1": {
+  "Antarctica": "Antarktidaga boradigan sayyohlar o'zlari bilan tasodifan begona urug'larni olib kelishlari mumkin.",
+  "cubic": "Muz qatlamida millionlab kub kilometr muzlagan suv bor.",
+  "cubic kilometre": "Erigan muzning har bir kub kilometri dengiz sathini juda oz miqdorda ko'taradi.",
+  "ecology": "Antarktida ekologiyasi oddiy, shuning uchun uni buzish oson.",
+  "frisk": "Jamoa tashrif buyuruvchilarning kiyimlarini tintuv qilib, minglab yashirin urug'larni topdi.",
+  "greener": "Yashilroq Antarktida yoqimli eshitilishi mumkin, ammo bu tez sodir bo'layotgan o'zgarishlardan darak beradi.",
+  "invader": "O'rnashib olgach, bosqinchi turlar joy va oziq moddalar uchun mahalliy turlar bilan raqobatlashadi.",
+  "offshore": "O'tlar mintaqadagi bir nechta qirg'oqdan uzoqdagi orollarga allaqachon tarqalib ulgurgan.",
+  "peninsula": "Tashrif buyuruvchilarning aksariyati yarim orolga tushadi, u yerda begona turlar kirib kelish xavfi eng yuqori.",
+  "pristine": "Tashrif buyuruvchilarni qit'aning musaffo, insoniyat qo'li tegmagan manzaralari o'ziga tortadi.",
+  "run up": "Ekspeditsiya arafasida har bir sumka urug'lar bor-yo'qligi yuzasidan tekshirildi.",
+  "southernmost": "Sayyohlar eng janubiy qit'aga tobora ko'p sonda sayohat qilmoqda.",
+  "take hold": "Issiqroq yoz begona turlarning o'rnashib olishini osonlashtiradi.",
+  "tuck away": "Kurtka choklariga yashirinib qolgan mayda urug'lar osongina e'tibordan chetda qolishi mumkin."
+ },
+ "C2": {
+  "Antarctica": "Antarktidaning ajralib qolganligi uning ekotizimlarini millionlab yillar davomida himoya qilib kelgan - hozirgacha.",
+  "cubic": "Kub birliklardagi hisob-kitoblar muzning ulkan miqyosini tasavvur qilishni qiyinlashtiradi.",
+  "cubic kilometre": "Agar o'sha kub kilometrlab muzlarning barchasi erisa, jahon okeani sathi o'nlab metrga ko'tariladi.",
+  "ecology": "Hatto kichik kiritmalar ham mintaqaning nozik ekologiyasiga zanjirli ta'sir ko'rsatishi mumkin.",
+  "frisk": "Tadqiqot aslida qit'aga tashrif buyuruvchilarni tintuv qilib, ular qancha keraksiz \"yo'lovchi\" olib yurganini aniqladi.",
+  "greener": "Sun'iy yo'ldosh suratlari moxlar tarqalishi bilan yarim orol sezilarli darajada yashilroq bo'lib borayotganini ko'rsatadi.",
+  "invader": "Hatto bir hovuch urug' ham bosqinchi turlarga nozik, ajralib qolgan ekotizimda mustahkam o'rnashib olish imkonini berishi mumkin.",
+  "offshore": "Qirg'oqdan uzoqdagi orollar tajribasi bosqinchilar mahalliy o'simliklarni qanchalik tez bosib ketishi mumkinligini ko'rsatadi.",
+  "peninsula": "Yarim orol Yer yuzidagi deyarli har qanday joydan tezroq isib, bosqinchi turlar kirib kelishiga zaif bo'lib qoldi.",
+  "pristine": "Sayyohlarni jalb qiladigan aynan o'sha beg'ubor tabiat ularning mavjudligi tufayli xavf ostida qolmoqda.",
+  "run up": "Olimlar qit'aga har qanday qo'nish arafasida qat'iy tozalash ishlarini o'tkazishni tavsiya qiladi.",
+  "southernmost": "Hatto sayyoramizning eng janubiy hududlari ham endi inson ta'siri doirasidan tashqarida emas.",
+  "take hold": "Bosqinchi tur bir marta o'rnashib olgach, uni yo'q qilish deyarli imkonsiz bo'lishi mumkin.",
+  "tuck away": "Poyabzal tagidagi o'yiqlar va cho'ntaklarga yashirinib olgan urug'lar sezilmagan holda ming kilometrlab yo'l bosadi."
+ }
+});

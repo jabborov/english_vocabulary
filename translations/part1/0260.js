@@ -1,0 +1,59 @@
+// Part 1 topic 0260: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0260', {
+ "B1": {
+  "allow for": "Biroz qo'shimcha vaqtni hisobga oling.",
+  "easier": "Ikkinchi test osonroq edi.",
+  "illustrate": "U o'z fikrini misol bilan tushuntirib berdi.",
+  "inner resource": "Kitob o'qish ichki kuchni oshiradi.",
+  "internally": "Muammo ichki tartibda hal qilindi.",
+  "lie with": "Qaror boshliqqa bog'liq.",
+  "overpower": "Baland musiqa sizni bosib ketishi mumkin.",
+  "pairing": "Juftliklarni o'qituvchi tanladi.",
+  "recharge": "U uyda kuch to'playdi.",
+  "regain": "Men kuchimni qayta tiklamoqchiman.",
+  "speak out": "U o'z fikrini ochiq aytishdan qo'rqadi.",
+  "stay in": "U dam olish kunlari ko'pincha uyda qoladi."
+ },
+ "B2": {
+  "allow for": "O'qituvchilar sinfdagi kamgaproq o'quvchilarni ham hisobga olishlari kerak.",
+  "easier": "Introvertlar uchun yakkama-yakka gaplashish osonroq.",
+  "illustrate": "Bu misol introvertlar qanday qilib kuch to'plashini yaqqol ko'rsatib beradi.",
+  "inner resource": "Introvertlar ijtimoiy faollikdan ko'ra ichki imkoniyatlariga tayanishadi.",
+  "internally": "Introvertlar o'z fikrlarini ichida qayta ishlashadi.",
+  "lie with": "Introvertlarning kuchli tomonlari ko'pincha tinglash va mulohaza qilishda namoyon bo'ladi.",
+  "overpower": "Baland ovozli odamlar kamgap odamlarning g'oyalarini bosib ketishi mumkin.",
+  "pairing": "Introvert va ekstravertning juftligi bir-birining kuchli tomonlarini muvozanatlashi mumkin.",
+  "recharge": "Introvertlar yolg'iz vaqt o'tkazib, kuch to'plashadi.",
+  "regain": "Uzoq yig'ilishdan so'ng unga kuchini qayta tiklash uchun yolg'izlikda vaqt kerak edi.",
+  "speak out": "Introvertlar ba'zan katta guruhlarda fikrini ochiq aytishni qiyin deb bilishadi.",
+  "stay in": "Introvertlar ko'pincha uyda yaxshi kitob bilan qolishni yoqtirishadi."
+ },
+ "C1": {
+  "allow for": "Reja uchrashuvlar oralig'ida yolg'iz qolish uchun vaqtni ham hisobga oladi.",
+  "easier": "Uydan ishlash ko'plab introvertlar uchun hayotni osonroq qildi.",
+  "illustrate": "Tadqiqot turli odamlarning ziyofatlarga qanday munosabatda bo'lishini yaqqol ko'rsatib beradi.",
+  "inner resource": "Sokin vaqt unga ichki kuchlarini qayta tiklashga yordam beradi.",
+  "internally": "Kompaniya muammoni o'z ichida hal qildi.",
+  "lie with": "Adolatli ish muhitini yaratish mas'uliyati rahbarlar zimmasida.",
+  "overpower": "Ziyofat shovqini uni holdan toydirdi.",
+  "pairing": "Vino va pishloq — klassik uyg'unlik.",
+  "recharge": "Ziyofatdan keyin u kuch to'plash uchun sokin bir kunga muhtoj edi.",
+  "regain": "U asta-sekin o'ziga bo'lgan ishonchni qayta tikladi.",
+  "speak out": "U ishdagi adolatsiz munosabatga qarshi ochiq gapirdi.",
+  "stay in": "Band haftadan keyin u uyda qolishni yaxshi ko'radi."
+ },
+ "C2": {
+  "allow for": "Inklyuziv ish joylari ochiq ofislar va aqliy hujum sessiyalarida hamma ham yaxshi ishlay olmasligini hisobga oladi.",
+  "easier": "Ba'zi ish joylari diqqatni jamlab ishlash uchun sokin joylar ajratib, introvertlarning hayotini osonlashtirmoqda.",
+  "illustrate": "Uning o'z tajribasi introvertlar shovqinli, kirishimli ish joylarida ko'pincha noto'g'ri tushunilishini yaqqol ko'rsatadi.",
+  "inner resource": "Introvertlar ko'pincha boy ichki imkoniyatlarga ega bo'lib, o'z fikrlari va tasavvurlaridan ilhom oladi, deyishadi.",
+  "internally": "Introvertlar ichida mulohaza yuritishga moyil bo'lgani uchun ularni aytadigan gapi yo'qdek noto'g'ri qabul qilishlari mumkin.",
+  "lie with": "Sokin, mulohazakor fazilatlarni xarizma kabi qadrlash vazifasi tashkilotlar zimmasiga tushadi.",
+  "overpower": "Ko'plab yig'ilishlarda eng o'ziga ishongan ovozlar introvertlarning puxtaroq fikrlarini bosib ketadi.",
+  "pairing": "Mulohazakor introvertni g'ayratli ekstravert bilan juftlashtirish nihoyatda samarali jamoalarni yuzaga keltirishi mumkin.",
+  "recharge": "Ekstravertlar ijtimoiy muloqot orqali kuch to'plasa, introvertlar yolg'izlikda quvvat oladi.",
+  "regain": "Introvertlar muvozanatini qo'shimcha ta'sirotlar orqali emas, balki sokin mulohaza orqali tiklaydi.",
+  "speak out": "Introvertlar kamroq gapirib chiqishlari mumkin, ammo gapirganda ularning fikrlari ko'pincha puxta o'ylangan bo'ladi.",
+  "stay in": "Introvertlar uchun uyda qolishni tanlash baxtsizlik belgisi emas, balki kuch-quvvatni tiklash usulidir."
+ }
+});

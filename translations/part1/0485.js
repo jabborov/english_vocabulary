@@ -1,0 +1,63 @@
+// Part 1 topic 0485: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0485', {
+ "B1": {
+  "Holly": "Xolli o'yinni tomosha qildi.",
+  "athleticism": "Futbol jismoniy chaqqonlikni talab qiladi.",
+  "brain stem": "Miya ustuni miyani orqa miya bilan bog'laydi.",
+  "brainwave": "Apparat miya to'lqinlarini ko'rsatadi.",
+  "cognition": "Jismoniy mashqlar bilish qobiliyatini yaxshilashi mumkin.",
+  "detecting": "Xatolarni aniqlash vaqt talab etadi.",
+  "expertise": "Uning tajribasi futbol sohasida.",
+  "football player": "Futbolchi gol urdi.",
+  "free kick": "Hakam jarima zarbasini tayinladi.",
+  "margin": "Biz ozgina farq bilan yutqazdik.",
+  "push forward": "Ikkinchi bo'limda o'yinchilar hujumga o'tishdi.",
+  "rotate": "Yer har kuni o'z o'qi atrofida aylanadi.",
+  "stillness": "Xonada sukunat hukm surardi."
+ },
+ "B2": {
+  "Holly": "Holly bizga miya tomografiyasi haqida gapirib berdi.",
+  "athleticism": "Yosh o'yinchi o'zining jismoniy chaqqonligi bilan hammani hayratda qoldirdi.",
+  "brain stem": "Miya ustuniga shikast yetishi juda jiddiy bo'lishi mumkin.",
+  "brainwave": "Tadqiqotchilar o'yinchilar video lavhalarni tomosha qilayotganda miya to'lqinlarini o'lchashdi.",
+  "cognition": "Olimlar o'yinchilarning bilish qobiliyatini kompyuter testlari yordamida o'lchashdi.",
+  "detecting": "Himoyadagi bo'shliqni payqash yaxshi o'yinchilarga xos mahoratdir.",
+  "expertise": "Murabbiy yosh o'yinchilar bilan o'z tajriba va bilimlarini o'rtoqlashdi.",
+  "football player": "Har bir futbolchiga yaxshi muvozanat va tezlik kerak.",
+  "free kick": "U jarima zarbasini burab, darvoza burchagiga yo'lladi.",
+  "margin": "Jamoa uch gol farq bilan g'alaba qozondi.",
+  "push forward": "Jamoa hujumga intilib, o'yin oxirida gol urdi.",
+  "rotate": "U to'pni tepish uchun tanasini burdi.",
+  "stillness": "Ko'lning sokinligi go'zal edi."
+ },
+ "C1": {
+  "Holly": "Xollining aytishicha, futbolchilar ko'pchilik odamlardan tezroq fikrlashadi.",
+  "athleticism": "Buyuk futbolchi bo'lish uchun faqat jismoniy chaqqonlik yetarli emas.",
+  "brain stem": "Miya ustuni yurak urishi va boshqa avtomatik jarayonlarni boshqaradi.",
+  "brainwave": "Miya to'lqinlaridagi o'zgarishlar o'yinchilar qanchalik tez javob qaytarganini ko'rsatdi.",
+  "cognition": "Tez idrok etish o'yinchilarga bosim ostida tezkor qaror qabul qilishga yordam beradi.",
+  "detecting": "Miya atrofimizdagi harakatni doimiy ravishda aniqlab turadi.",
+  "expertise": "Sportdagi mahorat ham tanaga, ham miyaga bog'liq.",
+  "football player": "Tadqiqotchilar professional futbolchilarning miyasini skanerdan o'tkazishdi.",
+  "free kick": "Jarima zarbasini tepish xotirjamlik va puxta hisob-kitobni talab qiladi.",
+  "margin": "Yuqori darajada reaksiya vaqtidagi juda kichik farqlar o'yin taqdirini hal qilishi mumkin.",
+  "push forward": "Yomg'irga qaramay, hujumchilar oldinga intilishda davom etishdi.",
+  "rotate": "Sinovda o'yinchilar narsalarni xayolan aylantirishlari kerak edi.",
+  "stillness": "Darvozabonning qimirlamay turishi penalti tepuvchini sarosimaga soldi."
+ },
+ "C2": {
+  "Holly": "Xolli futbol intellektini boshqa har qanday ko'nikma kabi mashq qilish mumkin, deb taxmin qildi.",
+  "athleticism": "Sharhlovchilar ko'pincha jismoniy chaqqonlikni maqtab, ajoyib uzatma ortidagi kognitiv ko'nikmalarni e'tibordan chetda qoldiradi.",
+  "brain stem": "Signallar miyaning yuqori qismlariga yetib borishdan oldin miya ustuni orqali o'tadi.",
+  "brainwave": "Kutilmaganda xayoliga kelgan yorqin fikr bilan murabbiy taktikani o'zgartirdi va o'yinda g'alaba qozondi.",
+  "cognition": "Sport kognitsiyasi bo'yicha tadqiqotlar futbolchilar aqlli emas, degan eski g'oyani shubha ostiga qo'yadi.",
+  "detecting": "Elita o'yinchilari raqibning tana tilidagi nozik ishoralarni payqashda ustunlik qiladi.",
+  "expertise": "Sport psixologiyasi bo'yicha tajribasi uni tadqiqotga rahbarlik qilish uchun eng munosib nomzodga aylantirdi.",
+  "football player": "Eng yaxshi futbolchilar voqealarni ular sodir bo'lishidan oldin oldindan sezayotgandek tuyuladi.",
+  "free kick": "Darvozabon jarima zarbasini noto'g'ri baholadi va to'p uning yonidan uchib o'tdi.",
+  "margin": "Xatolik uchun qoldirilgan zaxira shunchalik kichikki, hatto soniyaning bir ulushi ham ahamiyatga ega.",
+  "push forward": "Hukumat yangi stadionlar qurish rejalarini qat'iyat bilan ilgari surmoqda.",
+  "rotate": "Shakllarni xayolan aylantira olish qobiliyati fazoviy intellekt bilan bog'liq.",
+  "stillness": "Jarima zarbasi oldidagi sukunatda butun stadion nafasini ichiga yutdi."
+ }
+});

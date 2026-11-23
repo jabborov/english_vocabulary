@@ -1,0 +1,63 @@
+// Part 1 topic 0386: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0386', {
+ "B1": {
+  "affluent": "Badavlat oilalar xususiy repetitorlarga pul to'lay oladi.",
+  "ambitious": "Shuhratparast talabalar ko'pincha juda qattiq ishlaydi.",
+  "cleverer": "Uyqu sizni aqlliroq qilishi mumkin.",
+  "deprive": "Uzoq ish soatlari odamlarni dam olishdan mahrum qiladi.",
+  "get down": "Ishga kirishish vaqti keldi.",
+  "go to sleep": "Chaqaloq tezda uxlab qoldi.",
+  "hit the sack": "U soat o'nda yotib qoldi.",
+  "lacking": "Xonada yorug'lik yetishmas edi.",
+  "pinball": "U pinbolda ko'p ochko to'pladi.",
+  "siesta": "Issiq mamlakatlarda odamlar ko'pincha tushki uyquga yotadi.",
+  "simplify": "Bu ko'rsatmalarni soddalashtira olasizmi?",
+  "take account": "Rejada xarajatlar hisobga olinmagan.",
+  "tetchy": "U bugun ertalab biroz jizzaki edi."
+ },
+ "B2": {
+  "affluent": "Tadqiqotchilar badavlat va kambag'alroq oilalardagi uyqu tartibini taqqoslashdi.",
+  "ambitious": "Ba'zi shuhratparast yoshlar oldinga o'tish uchun uyqularini qurbon qilishadi.",
+  "cleverer": "Ba'zi tadqiqotlarga ko'ra, yaxshi dam olgan o'quvchilar testlarda aqlliroq bo'lishadi.",
+  "deprive": "Maktab mashg'ulotlarining erta boshlanishi o'smirlarni zarur uyqudan mahrum qilishi mumkin.",
+  "get down": "Doimo charchoq his qilish bir muddatdan keyin kayfiyatingizni tushirib yuborishi mumkin.",
+  "go to sleep": "Mutaxassislarning aytishicha, har kecha bir xil vaqtda uxlashimiz kerak.",
+  "hit the sack": "Ertaroq uxlashga yotadigan o'quvchilar ko'pincha maktabda yaxshiroq o'qishadi.",
+  "lacking": "Uyqusi yetishmaydigan o'quvchilarga diqqatni jamlash qiyinroq bo'ladi.",
+  "pinball": "Pinbol o'ynash tez reaksiya va yaxshi diqqatni talab qiladi.",
+  "siesta": "Qisqa tushlik uyqusi xotirangiz va kayfiyatingizni yaxshilashi mumkin.",
+  "simplify": "Olimlar ba'zan o'z xulosalarini keng jamoatchilik uchun soddalashtirishadi.",
+  "take account": "O'qituvchilar ertalab o'quvchilar qanchalik charchaganini hisobga olishlari kerak.",
+  "tetchy": "Uyqu yetishmasligi hatto eng vazmin odamlarni ham jizzaki qilib qo'yishi mumkin."
+ },
+ "C1": {
+  "affluent": "Hatto badavlat mamlakatlarda ham ko'plab o'smirlar surunkali uyqu yetishmasligidan aziyat chekadi.",
+  "ambitious": "Maktab o'quvchilarning uyqu odatlarini yaxshilash bo'yicha keng ko'lamli loyihani boshladi.",
+  "cleverer": "Gap bolalarning tabiatan aqlliroq ekanida emas; ular shunchaki yaxshiroq dam olgan.",
+  "deprive": "Uyqudan mahrum qilingan ko'ngillilar xotira testlarida yomon natija ko'rsatishdi.",
+  "get down": "Yaxshi uxlab olgach, u dars takrorlashga jiddiy kirisha oldi.",
+  "go to sleep": "U imtihoni haqida xavotirlanib, uxlay olmadi.",
+  "hit the sack": "Butun oqshom dars takrorlaganidan so'ng, u nihoyat yarim tundan sal oldin o'rniga yotdi.",
+  "lacking": "Bu g'oyani tasdiqlovchi dalillar ajablanarli darajada yetishmas edi.",
+  "pinball": "Uyqusiz fikrlarim pinbol o'yin avtomatidagi shardek u yoqdan-bu yoqqa sakrardi.",
+  "siesta": "Ba'zi kompaniyalar endi unumdorlikni oshirish uchun xodimlarni qisqa tushki uyquga rag'batlantirmoqda.",
+  "simplify": "Tajribani soddalashtirish uchun barcha ishtirokchilar bir vaqtda uxlashga yotishdi.",
+  "take account": "Tadqiqotchilar ovqatlanish va jismoniy mashqlar kabi omillarni hisobga olishdi.",
+  "tetchy": "Uzoq yig'ilish oxiriga kelib hamma ancha jizzaki bo'lib qolgan edi."
+ },
+ "C2": {
+  "affluent": "Tadqiqot badavlat bo'lish ekranlarning uyqudan mahrum qiluvchi ta'siridan deyarli himoya qilmasligini aniqladi.",
+  "ambitious": "Shuhratparast mutaxassislar uyqu samaradorlikning asosi ekanini ko'rsatuvchi dalillarga qaramay, ko'pincha unga hashamat sifatida qaraydi.",
+  "cleverer": "Uyqu bizni aqlliroq qiladi degan da'vo dam olish, xotira va samaradorlik o'rtasidagi murakkab bog'liqlikni haddan tashqari soddalashtiradi.",
+  "deprive": "Rivojlanayotgan miyani uyqudan mahrum qilish uning bilimni mustahkamlash jarayonining o'ziga putur yetkazish demakdir.",
+  "get down": "Surunkali charchoq odamlarni uning sababini anglashlaridan ancha oldin tushkunlikka solib qo'yadi.",
+  "go to sleep": "Yotishdan oldin ekranlardan foydalanish miyaning uyquga ketishini ancha qiyinlashtiradi.",
+  "hit the sack": "O'smirlarning biologik soati ularga ota-onalari istaganchalik erta yotib uxlashni chindan ham qiyinlashtiradi.",
+  "lacking": "Maktabdagi o'zlashtirish haqidagi munozaralarda ko'pincha uyquni jiddiy ko'rib chiqish yetishmaydi.",
+  "pinball": "Bir tajribada ko'ngillilar pinbolga o'xshash o'yinni o'rganishdi va bir kecha uxlaganlaridan so'ng qayta sinovdan o'tkazildi.",
+  "siesta": "Bir paytlar dangasalik deb rad etilgan an'anaviy siesta endilikda uyqu tadqiqotlari asosida qayta ko'rib chiqilmoqda.",
+  "simplify": "Gazeta sarlavhalari tadqiqotlarni soddalashtirishga moyil bo'lib, uyqu haqidagi nozik xulosalarni bitta shov-shuvli da'voga aylantirib qo'yadi.",
+  "take account": "Har qanday oqilona ta'lim siyosati o'smirlarning uyqu sikllaridagi biologik o'zgarishlarni hisobga olishi kerak.",
+  "tetchy": "Uyqusiz qolgan kichkintoylarning ota-onalari o'tkazib yuborilgan kunduzgi uyqudan keyingi injiq, yig'loqi kayfiyatni yaxshi bilishadi."
+ }
+});

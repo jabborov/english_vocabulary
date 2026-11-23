@@ -1,0 +1,67 @@
+// Part 1 topic 0249: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0249', {
+ "B1": {
+  "Korea": "U Koreyada yashaydi.",
+  "Liza": "Liza Koreyadan.",
+  "bow down": "U ta'zim qilib egildi.",
+  "dictate": "Ob-havo rejalarimizni belgilaydi.",
+  "disrespectful": "U hurmatsizlik qildi.",
+  "earlobe": "Uning quloq solinchaklari teshilgan.",
+  "honorific": "Bu hurmat bildiruvchi murojaat shakli.",
+  "honour": "U sharaf uchun kurashdi.",
+  "kneel": "U polga tiz cho'kdi.",
+  "kneel down": "U ibodat qilish uchun tiz cho'kdi.",
+  "lob": "U toshni baland qilib otdi.",
+  "palace": "Biz saroyga bordik.",
+  "tug": "U yengimdan tortdi.",
+  "upfront": "U men bilan ochiq gaplashdi."
+ },
+ "B2": {
+  "Korea": "Koreyada odamlar uzr so'raganda ko'pincha ta'zim qilishadi.",
+  "Liza": "Liza turli madaniyatlarda uzr so'rash qanday amalga oshishini tasvirlab berdi.",
+  "bow down": "Yaponiyada odamlar juda afsusda ekanliklarini ko'rsatish uchun past egilib ta'zim qilishadi.",
+  "dictate": "Qanday kechirim so'rashingizni ko'pincha madaniyatingiz belgilaydi.",
+  "disrespectful": "Ba'zi madaniyatlarda oddiygina uzr so'rash hurmatsizlik deb qaraladi.",
+  "earlobe": "Ba'zi madaniyatlarda odamlar uzr so'rash belgisi sifatida quloq yumshog'ini ushlaydi.",
+  "honorific": "Koreys tilida keksalar bilan gaplashganda hurmat shakllari ishlatiladi.",
+  "honour": "Samimiy uzr insonning sha'nini tiklashga yordam berishi mumkin.",
+  "kneel": "Ba'zi joylarda odamlar jiddiy uzr so'raganda tiz cho'kishadi.",
+  "kneel down": "U buvisidan uzr so'rash uchun tiz cho'kdi.",
+  "lob": "Shunchaki beparvo uzr tashlab, ketib qolish mumkin emas.",
+  "palace": "Saroy xato uchun rasmiy uzr bayon qildi.",
+  "tug": "Hindistonda bolalar uzr so'rash belgisi sifatida quloqlarini tortishlari mumkin.",
+  "upfront": "Biror noto'g'ri ish qilganingizda, ochiqchasiga aytganingiz ma'qul."
+ },
+ "C1": {
+  "Korea": "Koreya taomlari butun dunyoda mashhur.",
+  "Liza": "Lizaning aytishicha, oddiy \"kechirasiz\" har doim ham yetarli emas.",
+  "bow down": "Xizmatkorlar qirolicha oldida ta'zim qilishdi.",
+  "dictate": "Ta'tilda qayerga borishimizni byudjetimiz belgilaydi.",
+  "disrespectful": "Marosim paytida gaplashish hurmatsizlikdir.",
+  "earlobe": "U asabiy holda quloq solinchog'ini tortqiladi.",
+  "honorific": "Yapon tilida hurmatni ifodalovchi ko'plab hurmat shakllari bor.",
+  "honour": "Siz bilan tanishish men uchun sharaf.",
+  "kneel": "U karavot yonida tiz cho'kdi.",
+  "kneel down": "Bola o'yinchoqni olish uchun tiz cho'kdi.",
+  "lob": "O'yinchi to'pni darvozabon ustidan oshirib tepdi.",
+  "palace": "Bukingem saroyi Londonda joylashgan.",
+  "tug": "Kichkina bola onasining paltosidan tortqiladi.",
+  "upfront": "U ketishi sabablarini ochiq aytdi."
+ },
+ "C2": {
+  "Korea": "Koreyada uzr so'rash yosh va ijtimoiy ierarxiyaga qarab shakllanadi.",
+  "Liza": "Lizaning fikricha, qanday uzr so'rashimiz madaniyatimiz haqida ko'p narsani ochib beradi.",
+  "bow down": "Yaponiyada qanchalik chuqur ta'zim qilsangiz, uzr shunchalik samimiy hisoblanadi.",
+  "dictate": "Ijtimoiy odatlar nafaqat uzr so'rashimiz kerakmi yoki yo'qligini, balki qanchalik chuqur so'rashimizni ham belgilaydi.",
+  "disrespectful": "Yaponiyada uzr so'raganda yetarlicha egilmaslik hurmatsizlik deb qabul qilinishi mumkin.",
+  "earlobe": "Uzr so'rash uchun quloq solinchoqlarini tortish Janubiy Osiyoning ba'zi qismlarida keng tarqalgan ishoradir.",
+  "honorific": "Koreys tilida rasmiy uzr so'raganda to'g'ri hurmat shaklini tanlash juda muhim.",
+  "honour": "Nomus markaziy o'rin tutadigan madaniyatlarda uzrning shakli so'zlar kabi muhim bo'lishi mumkin.",
+  "kneel": "Kimningdir oldida tiz cho'kish ko'plab madaniyatlarda uchraydigan kamtarlik ishorasidir.",
+  "kneel down": "Ba'zi an'analarda tiz cho'kish uzrning eng chuqur shaklini bildiradi.",
+  "lob": "Yelka osha beparvolik bilan otilgan uzr kamdan-kam hollarda kimnidir ishontiradi.",
+  "palace": "Qirollik saroylarining uzrlari qat'iy va puxta qoidalarga amal qiladi.",
+  "tug": "Quloq solinchoqlarini tortish uzrga hamroh bo'ladigan ramziy o'z-o'zini jazolash harakatidir.",
+  "upfront": "Tez va halol aytilgan ochiqchasiga uzr ko'pincha eng samarali bo'ladi."
+ }
+});

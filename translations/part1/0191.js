@@ -1,0 +1,63 @@
+// Part 1 topic 0191: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0191', {
+ "B1": {
+  "affected": "Qizlar onlayn izohlardan o'g'il bolalarga qaraganda ko'proq ta'sirlanadi.",
+  "affection": "Muxlislar sevimli ijodkorlariga chin dildan mehr his qilishadi.",
+  "bully": "Bezori bola direktor huzuriga yuborildi.",
+  "bullying": "Maktabda bezorilikka qarshi qat'iy qoida bor.",
+  "climactic": "Hamma eng qizg'in pallaga yetgan yakuniy debatni tomosha qilayotgan edi.",
+  "fond": "Uning maktab yillari haqida iliq xotiralari bor.",
+  "intimidate": "U meni jahldor xabarlar bilan qo'rqitmoqchi bo'ldi.",
+  "politics": "U universitetda siyosatga qiziqib qoldi.",
+  "presidential": "Millionlab odamlar prezidentlik debatini televizorda tomosha qildi.",
+  "shrink": "U o'z fikrini aytishdan tortinmadi.",
+  "soft spot": "Buvim doim eski filmlarga alohida mehr qo'ygan.",
+  "vocal": "Talabalar rejani ochiq-oydin qo'llab-quvvatlashdi.",
+  "voter": "Yosh saylovchilar atrof-muhitga katta e'tibor berishadi."
+ },
+ "B2": {
+  "affected": "So'rovnoma onlayn haqoratlardan yosh ayollar nomutanosib ravishda ko'proq zarar ko'rishini aniqladi.",
+  "affection": "Tomoshabinlarining unga ko'rsatadigan mehri salbiy xabarlarga bardosh berishiga yordam beradi.",
+  "bully": "Ko'plab onlayn bezorilar bunday gaplarni hech qachon yuzma-yuz aytmagan bo'lardi.",
+  "bullying": "Internetdagi bezorilik yosh ayollarni o'z fikrlarini bildirishdan to'xtatishi mumkin.",
+  "climactic": "Saylov kampaniyasining eng hal qiluvchi kunlarida yosh kontent yaratuvchilar o'nlab videolar joylashdi.",
+  "fond": "Ko'plab yosh ayollar o'z hayoti haqida ochiq gapiradigan kontent yaratuvchilarni yaxshi ko'radi.",
+  "intimidate": "Haqoratli izohlar ko'pincha yosh ayollarni qo'rqitib, jim qilish uchun ishlatiladi.",
+  "politics": "Ijtimoiy tarmoqlar siyosatni yoshlar uchun ancha qulay va tushunarli qildi.",
+  "presidential": "Ikkala prezidentlikka nomzod ham internetda yosh saylovchilarni jalb qilishga astoydil harakat qildi.",
+  "shrink": "Agar haqoratlar davom etsa, yosh ayollarning siyosiy muhokamalardagi ishtiroki qisqarishi mumkin.",
+  "soft spot": "Tomoshabinlar samimiy va sodda ko'rinadigan influenserlarga nisbatan alohida mehr qo'yishga moyil.",
+  "vocal": "U internetda qanchalik ochiq fikr bildirsa, shunchalik ko'p haqoratga uchradi.",
+  "voter": "Siyosatchilar birinchi marta ovoz beradigan saylovchilarga yetib borish uchun TikTokdan foydalanmoqda."
+ },
+ "C1": {
+  "affected": "Dushmanona izohlardan eng ko'p jabr ko'rganlar ko'pincha jamoatchilik muhokamalaridan butunlay chetlashadi.",
+  "affection": "Onlayn hamjamiyatlar, ayniqsa yolg'iz qolgan yoshlarga, chinakam mehr va qo'llab-quvvatlash berishi mumkin.",
+  "bully": "U anonim bezorilarning o'zini platformadan haydab chiqarishiga yo'l qo'ymadi.",
+  "bullying": "Faollar ijtimoiy tarmoq kompaniyalari o'z platformalaridagi tazyiq va haqoratga qarshi kurashish uchun juda kam ish qilayotganini ta'kidlashadi.",
+  "climactic": "Natija ijtimoiy tarmoqlarda jonli efirda e'lon qilinganda eng avjli lahza yuz berdi.",
+  "fond": "U o'z obunachilariga mehr qo'ygan bo'lsa-da, doimiy salbiy izohlar oxir-oqibat uni holdan toydirdi.",
+  "intimidate": "Faollarning aytishicha, uyushtirilgan hujumlar ayollarni qo'rqitib, jamoat hayotidan chetlatishga qaratilgan.",
+  "politics": "Yosh ayollar rasmiy bahs-munozaradan ko'ra qisqa, shaxsiy videolarni afzal ko'rib, siyosat qanday muhokama qilinishini o'zgartirmoqda.",
+  "presidential": "Tahlilchilarning fikricha, prezidentlik saylov kampaniyasiga an'anaviy gazetalarga qaraganda ijtimoiy tarmoq influenserlari ko'proq ta'sir ko'rsatgan.",
+  "shrink": "U bahsli vaziyatdan qochish o'rniga, o'z platformasidan tanqidchilariga to'g'ridan-to'g'ri qarshi chiqish uchun foydalandi.",
+  "soft spot": "Platformani tanqid qilishiga qaramay, u platforma yaratgan hamjamiyatga nisbatan qalbida iliq tuyg'u borligini tan oladi.",
+  "vocal": "Ovozini baland ko'taradigan ozchilik onlayn muhokamalarda ustunlik qilib, jamoatchilik fikri haqida noto'g'ri tasavvur uyg'otishi mumkin.",
+  "voter": "Shiddatli onlayn kampaniyadan so'ng yosh ayol saylovchilarning faolligi keskin oshdi."
+ },
+ "C2": {
+  "affected": "Siyosatchilar yechimlarni ular nomidan ishlab chiqish o'rniga, eng ko'p jabr ko'rgan jamoalarni tinglashlari kerak.",
+  "affection": "Obunachilarning influenserga bo'lgan mehri kuchli bo'lishi mumkin, ammo u tubdan bir tomonlama bo'lib qoladi.",
+  "bully": "Anonimlik onlayn bezorini dadillashtiradi va odatda bunday xatti-harakatni tiyib turadigan ijtimoiy oqibatlarni yo'qotadi.",
+  "bullying": "Onlayn bezorilikning makkorligi uning doimiyligidadir: u o'z nishonlarini uylarigacha va ekranlarigacha ta'qib qiladi.",
+  "climactic": "Sharhlovchilar ovoz berishni onlayn ishtiyoq haqiqiy saylovda ishtirokka aylana oladimi, degan savolning hal qiluvchi sinovi deb ta'rifladi.",
+  "fond": "Uning ilk, do'stonaroq internet haqidagi iliq xotiralari bugungi dushmanona platformalar haqidagi fikri bilan keskin farq qiladi.",
+  "intimidate": "Ochiq so'zli ayol kontent yaratuvchilarni qo'rqitishga urinishlar ko'pincha teskari natija berib, ularning xabariga ko'proq e'tibor jalb qiladi.",
+  "politics": "Siyosatning onlayn hayotning har bir burchagiga kirib borishi ko'ngilochar va fuqarolik faolligi o'rtasidagi chegarani xiralashtirdi.",
+  "presidential": "Prezidentlik poygasi nomzodlarning jurnalistlardan ko'ra kontent yaratuvchilarga ko'proq e'tibor qaratgani bilan ajralib turdi.",
+  "shrink": "Agar ta'qiblar nazoratsiz qolsa, internetda turli ovozlar uchun maydon torayib boraveradi.",
+  "soft spot": "Saylovchilar ko'pincha siyosati noaniq bo'lsa ham, samimiy ko'rinadigan nomzodlarga nisbatan iliq munosabatda bo'lishadi.",
+  "vocal": "Yosh ayollar ularni ta'qiblardan himoya qila olmaydigan platformalarning tobora ochiqroq tanqidchilariga aylanmoqda.",
+  "voter": "Yosh saylovchilarning tashvishlarini e'tiborsiz qoldiradigan partiyalar butun bir saylovchilar avlodini o'zidan uzoqlashtirish xavfiga duch keladi."
+ }
+});

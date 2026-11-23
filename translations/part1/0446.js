@@ -1,0 +1,63 @@
+// Part 1 topic 0446: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0446', {
+ "B1": {
+  "black bear": "Qora ayiqlar Shimoliy Amerikada yashaydi.",
+  "jaywalk": "Bu yerda yo'lni qoidabuzarlik bilan kesib o'tish xavfli.",
+  "jaywalking": "Ba'zi mamlakatlarda yo'lni noto'g'ri joydan kesib o'tish qonunga zid.",
+  "lumber": "U xonaga og'ir qadamlar bilan kirdi.",
+  "lumber down": "Katta yuk mashinasi ko'chadan og'ir-og'ir yurib o'tdi.",
+  "monument": "Maydonda haykal bor.",
+  "pavement": "Piyodalar yo'lkasida velosiped haydama.",
+  "plunge": "U sovuq suvga sho'ng'idi.",
+  "police department": "Politsiya boshqarmasi shahar markazida joylashgan.",
+  "sidewalk": "Bolalar piyodalar yo'lkasida o'ynashardi.",
+  "sinkhole": "Mashina yer o'pirilishi natijasida hosil bo'lgan chuqurga tushib ketdi.",
+  "suit of armour": "Ritsar sovuti juda og'ir bo'ladi.",
+  "wander down": "Biz sekin sayr qilib sohilga tushdik."
+ },
+ "B2": {
+  "black bear": "Bir kishi xabar yozishga shunchalik berilib ketgan ediki, qora ayiqni ham ko'rmay qoldi.",
+  "jaywalk": "AQShning ba'zi shaharlarida yo'lni noto'g'ri joydan kesib o'tsangiz, jarimaga tortilishingiz mumkin.",
+  "jaywalking": "Politsiya yo'lni noto'g'ri joydan kesib o'tayotgan odamlarni to'xtatmoqda.",
+  "lumber": "Katta hayvon yo'lni og'ir qadamlar bilan kesib o'tdi.",
+  "lumber down": "Qora ayiq piyodalar yo'lkasi bo'ylab lapanglab u tomon kelardi.",
+  "monument": "U xabar yozib ketayotib to'g'ri yodgorlikka borib urildi.",
+  "pavement": "Piyodalar yo'lkasida xabar yozib ketayotgan odamlar ko'pincha boshqalarga urilib ketishadi.",
+  "plunge": "Bir kishi telefoniga qarab ketayotib chuqurga qulab tushdi.",
+  "police department": "Politsiya departamenti telefonda xabar yozib ketayotgan odamlarni jarimaga tortdi.",
+  "sidewalk": "Amerikaliklar piyodalar yo'lkasini \"sidewalk\", britaniyaliklar esa \"pavement\" deyishadi.",
+  "sinkhole": "Ko'chaning o'rtasida yer o'pirilib, chuqur paydo bo'ldi.",
+  "suit of armour": "U telefoniga tikilib ketayotgani uchun ritsar sovutiga borib urildi.",
+  "wander down": "U ekranidan ko'zini uzmay ko'cha bo'ylab sanqib ketdi."
+ },
+ "C1": {
+  "black bear": "Telefoniga SMS yozib ketayotgan piyodaning qora ayiqqa urilib ketishiga sal qolgani aks etgan video ommalashib ketdi.",
+  "jaywalk": "Yaqin atrofda o'tish joyi bo'lmasa, piyodalar ko'pincha yo'lni noto'g'ri joydan kesib o'tishadi.",
+  "jaywalking": "Ko'chani kesib o'tayotganda SMS yozish endi yo'lni noto'g'ri joydan kesib o'tish bilan teng hisoblanadi.",
+  "lumber": "Tanklar shahar ko'chalari bo'ylab og'ir gumburlab harakatlandi.",
+  "lumber down": "Ulkan hayvon qiyalikdan shaharga qarab og'ir-og'ir tushib keldi.",
+  "monument": "Bu monument urushda halok bo'lgan askarlar xotirasiga o'rnatilgan.",
+  "pavement": "Piyodalar yo'lagi shunchalik gavjum ediki, u yo'lning qatnov qismiga tushishga majbur bo'ldi.",
+  "plunge": "Videoda SMS yozayotgan xaridorning favvoraga sho'ng'ib ketgani ko'rsatilgan.",
+  "police department": "Politsiya departamenti vakilining aytishicha, maqsad jazolash emas, xavfsizlikni ta'minlash.",
+  "sidewalk": "U piyodalar yo'lagidan tushayotib SMS yozgani uchun jarimaga tortildi.",
+  "sinkhole": "Erkak telefoniga shunchalik berilib ketgan ediki, yer o'pirilgan chuqurga qarab yurib ketaverdi.",
+  "suit of armour": "O'rta asr ritsarlari to'liq sovutda zo'rg'a harakatlana olardi.",
+  "wander down": "Sayyohlar eski shaharning tor ko'chalari bo'ylab sayr qilishni yaxshi ko'radi."
+ },
+ "C2": {
+  "black bear": "Qora ayiqni sezmay qolgan piyoda haqidagi hikoya telefonlar e'tiborimizni qanchalik toraytirishini ko'rsatadi.",
+  "jaywalk": "Tanqidchilar odamlar ko'chani qoidaga zid kesib o'tishining asosiy sababi shaharlarning piyodalar uchun emas, avtomobillar uchun loyihalanganida, deb hisoblaydi.",
+  "jaywalking": "Qoidabuzar piyodalarga qarshi qonunlar dastlab javobgarlikni piyodalarga yuklash uchun avtomobil ishlab chiqaruvchilari tomonidan ilgari surilgan.",
+  "lumber": "Atrofidagi narsalardan bexabar SMS yozayotgan odam ayiq lapanglab yonidan o'tib ketgandagina boshini ko'tardi.",
+  "lumber down": "Ayiq piyodalar yo'lagi bo'ylab lapanglab kelib, bir necha qadam narida bo'lgunga qadar ikkalasi ham bir-birini payqamadi.",
+  "monument": "Ajablanarlisi shundaki, tashrif buyuruvchilar yodgorlikni tinimsiz suratga olishadi-yu, lekin unga to'xtab, yaxshilab qarashmaydi.",
+  "pavement": "Ba'zi shaharlar hatto yurib ketayotib SMS yozadigan odamlar uchun piyodalar yo'lagiga \"telefon yo'laklari\"ni chizib qo'ygan.",
+  "plunge": "Chalg'igan piyodalar kanallarga, favvoralarga va hatto ochiq quduqlarga qulab tushgan.",
+  "police department": "Politsiya departamenti bunday qonunni amalda ijro etish qiyin bo'lishini tan oldi.",
+  "sidewalk": "Ushbu qaror piyodalar yo'lagidan ko'chaga o'tayotganda telefondan foydalanadigan har qanday shaxsga taalluqli.",
+  "sinkhole": "O'pirilmalar hech qanday ogohlantirishsiz paydo bo'lib, yo'llarni, mashinalarni va ba'zan uylarni yutib yuborishi mumkin.",
+  "suit of armour": "SMS yozayotgan odamning ritsar sovutiga urilib ketishi tasviri \"chalg'igan holda yurish\"ning ramziga aylandi.",
+  "wander down": "Telefonga berilib, gavjum ko'cha bo'ylab sayr qilib ketayotgan u yaqinlashib kelayotgan mashinani sezmay qoldi."
+ }
+});

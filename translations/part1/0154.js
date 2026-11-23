@@ -1,0 +1,63 @@
+// Part 1 topic 0154: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0154', {
+ "B1": {
+  "bestseller": "Shokoladli fadj ularning eng ko'p sotiladigan mahsuloti.",
+  "cocoa": "Tortga ozroq kakao qo'shing.",
+  "cocoa bean": "Kakao donlari issiq mamlakatlarda o'sadi.",
+  "confectionary": "U fabrikada qandolat mahsulotlari tayyorlaydi.",
+  "eater": "O'g'lim ovqat tanlaydi.",
+  "flop": "Uning birinchi shirinligi muvaffaqiyatsiz chiqdi.",
+  "fudge": "Biz shokoladli fadj sotib oldik.",
+  "marshmallow": "Biz issiq shokoladga zefir solamiz.",
+  "pillow": "Bu shirinlik yostiqqa o'xshaydi.",
+  "proud of": "U o'zining yangi shirinliklari bilan faxrlanadi.",
+  "snicker": "U uning hazilidan pixillab kuldi.",
+  "turn around": "Yangi rahbar do'konning ishini o'nglab yubordi.",
+  "unsuccessful": "Uning birinchi urinishi muvaffaqiyatsiz bo'ldi."
+ },
+ "B2": {
+  "bestseller": "Uning yangi shirinligi bir necha hafta ichida eng ko'p sotiladigan mahsulotga aylandi.",
+  "cocoa": "Bu shokolad tarkibida yetmish foiz kakao bor.",
+  "cocoa bean": "U kakao loviyalarini to'g'ridan-to'g'ri fermerlardan sotib oladi.",
+  "confectionary": "Qandolatchilik biznesida raqobat juda kuchli.",
+  "eater": "Shokolad ishqibozlari yangi ta'mlarni tatib ko'rishni yaxshi ko'rishadi.",
+  "flop": "Ko'plab yangi shirinliklar muvaffaqiyatsizlikka uchraydi va boshqa sotilmaydi.",
+  "fudge": "Fadj shakar, sariyog' va sutdan tayyorlanadi.",
+  "marshmallow": "U zefirning yangi ta'mini ixtiro qildi.",
+  "pillow": "Bu yostiqcha shaklidagi shirinliklar ichiga shokolad solingan.",
+  "proud of": "Jamoa o'zlari yaratgan narsadan faxrlanadi.",
+  "snicker": "U shirinlik tayyorlamoqchi ekanini aytganda do'stlari kulib qo'yishdi.",
+  "turn around": "Bitta yaxshi mahsulot qiynalayotgan biznesni oyoqqa turg'izishi mumkin.",
+  "unsuccessful": "Ko'plab muvaffaqiyatsiz shirinliklar tezda unutiladi."
+ },
+ "C1": {
+  "bestseller": "Deyarli muvaffaqiyatsizlikka uchragan konfet keyinchalik kompaniyaning eng ko'p sotiladigan mahsulotiga aylandi.",
+  "cocoa": "Kakaoning sifati ta'mga katta ta'sir ko'rsatadi.",
+  "cocoa bean": "Kakao loviyasi shokoladga aylanishidan oldin achitilishi, quritilishi va qovurilishi kerak.",
+  "confectionary": "Uning qandolatchilik kompaniyasi hozirda qirqta mamlakatda shirinlik sotadi.",
+  "eater": "U shirinliklarini sotuvga chiqarishdan oldin ularni ishtiyoqmand iste'molchilar guruhida sinab ko'radi.",
+  "flop": "Uning muvaffaqiyatli mahsulotlari qancha bo'lsa, omadsizlari ham shuncha, lekin u tajriba qilishda davom etadi.",
+  "fudge": "Uning sho'r karamelli fadji sayyohlar orasida mashhur.",
+  "marshmallow": "Zefirlar shunchalik yengilki, xuddi bulut yeyayotgandek bo'lasiz.",
+  "pillow": "Zefirlar yangi qoqib yumshatilgan yostiqdek mayin va oppoq edi.",
+  "proud of": "U ayniqsa har bir shirinlik hali ham qo'lda tayyorlanishidan faxrlanadi.",
+  "snicker": "Raqiblar bekon ta'mli shokolad batonchigi g'oyasi ustidan istehzo bilan kulishdi.",
+  "turn around": "U ikki yil ichida fabrikani inqirozdan olib chiqishga muvaffaq bo'ldi.",
+  "unsuccessful": "Bir necha muvaffaqiyatsiz urinishlardan so'ng u nihoyat retseptni to'g'ri topdi."
+ },
+ "C2": {
+  "bestseller": "Kam qandolatchilar qaysi ixtiro eng ko'p sotiladigan mahsulotga aylanishini va qaysi biri sezdirmay yo'qolib ketishini oldindan ayta oladi.",
+  "cocoa": "Dunyodagi kakaoning katta qismi G'arbiy Afrikadagi kichik fermerlar tomonidan yetishtiriladi.",
+  "cocoa bean": "Kakao loviyasi narxining oshishi shokolad ishlab chiqaruvchilarni retseptlarini qayta ko'rib chiqishga majbur qildi.",
+  "confectionary": "Qandolatchilik sanoati iste'molchilar qiziqishini saqlab qolish uchun doimiy yangilikka tayanadi.",
+  "eater": "Britaniyalik shokolad iste'molchilari dunyodagi eng sodiq va eng talabchan xaridorlar qatoriga kiradi.",
+  "flop": "Sarimsoq ta'mli shokoladining muvaffaqiyatsizlikka uchrashi unga faqat yangilikning o'zi sotuvni ta'minlamasligini o'rgatdi.",
+  "fudge": "Fadjni kerakli ushoqli tuzilishga keltirish haroratni aniq nazorat qilishni talab qiladi.",
+  "marshmallow": "Rezinadek qotib qolmasdan shaklini saqlaydigan zefir tayyorlash kutilmaganda murakkab texnik vazifadir.",
+  "pillow": "Qandolatchining \"shokoladli yostiqchalari\" bolalar va kattalar orasida kutilmaganda mashhur bo'lib ketdi.",
+  "proud of": "Ixtirochi sifatidagi obro'si bilan faxrlanib, u shunchaki nusxa bo'lgan hech qanday mahsulotni chiqarishni rad etadi.",
+  "snicker": "Bir paytlar uning g'alati ixtirolari ustidan piqillab kulganlar endi ularni ko'chirishga urinishmoqda.",
+  "turn around": "Bankrotlik yoqasida turgan qandolatchilik korxonasining ahvolini o'nglash uchun birgina kutilmagan muvaffaqiyatli mahsulot kifoya qildi.",
+  "unsuccessful": "Muvaffaqiyatsiz mahsulotlar qandolatchilik savdosidagi innovatsiyalarning muqarrar qismidir."
+ }
+});

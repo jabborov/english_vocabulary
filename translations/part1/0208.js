@@ -1,0 +1,67 @@
+// Part 1 topic 0208: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0208', {
+ "B1": {
+  "brisk": "Salqin va tetiklantiruvchi tong edi.",
+  "buggy": "U bolalar aravachasini yig'ib qo'ydi.",
+  "en route": "U yo'l-yo'lakay qahva sotib oldi.",
+  "enthusiast": "Tadbirga ko'plab ishqibozlar keldi.",
+  "incremental": "Asta-sekin o'sish kuzatildi.",
+  "jogging": "Yengil yugurish foydali.",
+  "lower": "Jismoniy mashqlar stressni kamaytirishi mumkin.",
+  "magic number": "10 000 sehrli raqammi?",
+  "saunter": "Biz bog'da sekin sayr qildik.",
+  "saunter over": "Mushuk shoshilmay eshik tomon yurib bordi.",
+  "step out": "U toza havo olish uchun tashqariga chiqdi.",
+  "taxi": "Taksi keldi.",
+  "vigorous": "Biz tetik qadamlar bilan sayr qildik.",
+  "vigorously": "Sho'rvani jadal aralashtiring."
+ },
+ "B2": {
+  "brisk": "Tez yurish o'rtacha jismoniy mashq hisoblanadi.",
+  "buggy": "Bolalar aravachasini itarib yurish tez yurish hisoblanishi mumkin.",
+  "en route": "Ishga piyoda borib, yo'l-yo'lakay jismoniy mashq qilishingiz mumkin.",
+  "enthusiast": "Fitnes ishqibozlari ko'pincha kerak bo'lganidan ko'proq mashq qilishadi.",
+  "incremental": "Kichik bosqichma-bosqich o'zgarishlar sizni faolroq qilishi mumkin.",
+  "jogging": "Ko'pchilik uchun yengil yugurish shiddatli mashq hisoblanadi.",
+  "lower": "Har kuni piyoda yurish yurak kasalliklari xavfini kamaytirishi mumkin.",
+  "magic number": "Ko'p odamlar 10 000 qadam sog'liq uchun sehrli raqam deb o'ylashadi.",
+  "saunter": "Sekin sayr qilish mashq hisoblanmaydi.",
+  "saunter over": "U sport zaliga bemalol kirib keldi-yu, lekin ko'p mashq qilmadi.",
+  "step out": "Tushlik paytida sayr qilish uchun tashqariga chiqishga harakat qiling.",
+  "taxi": "Qisqa masofalarga taksi o'rniga piyoda boring.",
+  "vigorous": "Shiddatli mashqlar yuragingizni ancha tez urishga majbur qiladi.",
+  "vigorously": "Nafasingiz qisadigan darajada shiddat bilan mashq qiling."
+ },
+ "C1": {
+  "brisk": "Mutaxassislar kuniga kamida o'n daqiqa tez qadam bilan yurishni tavsiya qilishadi.",
+  "buggy": "Ota-onalar bolalar aravachasini itarib, tez yurish orqali ham mashq qilishlari mumkin.",
+  "en route": "Avtobusdan bir bekat oldin tushish yo'l-yo'lakay piyoda yurish imkonini beradi.",
+  "enthusiast": "Yugurish ishqibozlari qadamlari va yurak urishini sinchiklab kuzatib borishadi.",
+  "incremental": "Mashq hajmini bosqichma-bosqich oshirib borishni davom ettirish osonroq.",
+  "jogging": "Ko'pchilik sog'lig'ini yaxshilash uchun yengil yugurishni boshlaydi.",
+  "lower": "Muntazam jismoniy faollik qon bosimi va xolesterinni pasaytirishga yordam beradi.",
+  "magic number": "Olimlarning aytishicha, qancha mashq qilishimiz kerakligini ko'rsatadigan yagona sehrli raqam yo'q.",
+  "saunter": "Do'konga sekin-asta sayr qilib borish yurak urishini unchalik tezlashtirmaydi.",
+  "saunter over": "Do'konlarga sekin-asta sayr qilib borish o'rniga, tez qadam bilan yurib ko'ring.",
+  "step out": "Agar tez qadam tashlab yursangiz, hatto qisqa sayr ham mashq hisoblanadi.",
+  "taxi": "Ko'pchilik bemalol piyoda borishi mumkin bo'lsa ham taksiga o'tiradi.",
+  "vigorous": "Yugurish yoki tez velosiped haydash kabi jadal faollik sog'liq uchun katta foyda keltiradi.",
+  "vigorously": "Kattalarga haftasiga 75 daqiqa jadal yoki 150 daqiqa o'rtacha jismoniy mashq qilish tavsiya etiladi."
+ },
+ "C2": {
+  "brisk": "Biroz nafasingizni qaytaradigan tez yurish sog'liqni yaxshilashning eng oddiy usullaridan biridir.",
+  "buggy": "Bolalar aravachasini itarib tepalikka tez yurish yurak urishini sport zalidagi mashg'ulot kabi samarali tezlashtirishi mumkin.",
+  "en route": "Ishga ketayotib yo'l-yo'lakay faollikni kiritish band kattalar uchun amaliy yechimdir.",
+  "enthusiast": "Jismoniy mashq ishqibozlari ko'pchilik kattalar hatto tavsiya etilgan minimal faollikni ham zo'rg'a bajarishini unutib qo'yishi mumkin.",
+  "incremental": "Kundalik faollikdagi bosqichma-bosqich yutuqlar to'planib, uzoq muddatda sog'liq uchun katta foyda keltiradi.",
+  "jogging": "Bir paytlar tor doiradagi mashg'ulot bo'lgan yengil yugurish 1970-yillarda ommaviy ishtiyoqqa aylandi.",
+  "lower": "Kundalik faollikning hatto kichik oshishi ham bevaqt o'lim xavfini kamaytirishi isbotlangan.",
+  "magic number": "\"10 000 qadam\" degan sehrli raqam ilmiy tadqiqotda emas, balki reklama kampaniyasida paydo bo'lgan.",
+  "saunter": "Sog'liq nuqtai nazaridan, bemalol sayr qilish bilan tez yurish o'rtasida yer bilan osmoncha farq bor.",
+  "saunter over": "U mashg'ulotni boshlashga shoshilmayotgani aniq bo'lib, yugurish yo'lakchasi tomon bemalol yurib bordi.",
+  "step out": "Kuniga bir necha marta o'n daqiqaga tashqariga chiqib tez yurish faollik bo'yicha tavsiyalarni bajarishi mumkin.",
+  "taxi": "Qisqa taksi safarlarini tez yurish bilan almashtirish kunlik faollikni oshirishning oson usulidir.",
+  "vigorous": "Kundalik tartibga kiritilgan qisqa muddatli jadal faollik ham o'lim xavfini kamaytirishi mumkin.",
+  "vigorously": "Hatto qisqa muddatlarda bo'lsa ham jadal mashq qilish sog'liq uchun nomutanosib darajada katta foyda keltirar ekan."
+ }
+});

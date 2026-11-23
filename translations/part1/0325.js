@@ -1,0 +1,59 @@
+// Part 1 topic 0325: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0325', {
+ "B1": {
+  "ECT": "EKT ba'zi bemorlarga yordam berishi mumkin.",
+  "causing": "Stress uning bosh og'rig'iga sabab bo'lmoqda.",
+  "delete": "Bu faylni o'chira olasizmi?",
+  "electroconvulsive therapy": "Elektr talvasa terapiyasi paytida bemorlar uxlab yotadi.",
+  "last resort": "Jarrohlik amaliyoti so'nggi chora hisoblanadi.",
+  "picture card": "Har bir rasmli kartochkada bir voqea tasvirlangan.",
+  "pulse": "Apparat kichik impuls yuboradi.",
+  "reactivate": "Hikoyani o'qish xotirani qayta jonlantirdi.",
+  "resort": "Mehmonxona chang'i kurortida joylashgan.",
+  "strapped": "Chaqaloq avtomobil o'rindig'iga kamar bilan bog'langan.",
+  "terrified": "Bola qorong'ilikdan juda qo'rqardi.",
+  "unaffected": "Uning xotirasi zarar ko'rmadi."
+ },
+ "B2": {
+  "ECT": "EKT odatda boshqa davolash usullari natija bermaganda qo'llaniladi.",
+  "causing": "Maqsad bemorni xotirasini yo'qotishga sabab bo'lmagan holda davolashdir.",
+  "delete": "Tadqiqotchilar yomon xotiralarni o'chirib tashlash mumkinmi, deb o'ylab qolishdi.",
+  "electroconvulsive therapy": "Elektr talvasa terapiyasi og'ir depressiyani davolashda qo'llaniladi.",
+  "last resort": "Shifokorlar EKTni faqat so'nggi chora sifatida qo'llaydi.",
+  "picture card": "Bemorlar rasmli kartochkalar yordamida ikkita hikoyani o'rganishdi.",
+  "pulse": "Qisqa elektr impulsi nazorat ostidagi talvasani keltirib chiqaradi.",
+  "reactivate": "Xotira qayta faollashtirilganda uni o'zgartirish osonroq bo'lishi mumkin.",
+  "resort": "Dori-darmon birinchi chora, EKT esa oxirgi chora edi.",
+  "strapped": "Filmlarda ko'pincha bemorlar muolaja paytida tasmalar bilan bog'lab qo'yilgan holda ko'rsatiladi.",
+  "terrified": "Ba'zi bemorlar birinchi muolajadan oldin qattiq qo'rqib ketishadi.",
+  "unaffected": "Ikkinchi hikoyaga muolaja ta'sir qilmadi."
+ },
+ "C1": {
+  "ECT": "Tadqiqotchilar EST yaqinda eslangan xotirani zaiflashtirishi mumkinligini aniqlashdi.",
+  "causing": "Shifokorlar foydani nojo'ya ta'sirlar keltirib chiqarish xavfi bilan solishtirib ko'rishlari kerak.",
+  "delete": "Og'riqli xotiralarni o'chirib tashlash g'oyasi jiddiy axloqiy savollarni tug'diradi.",
+  "electroconvulsive therapy": "Tadqiqotda bemorlar biror hikoyani eslagach, ularga elektroshok terapiyasi qo'llanildi.",
+  "last resort": "U so'nggi chora sifatida bu davolash usulini sinab ko'rishga rozi bo'ldi.",
+  "picture card": "Bir haftadan so'ng ularga rasmli kartochkalardan biri yana ko'rsatildi.",
+  "pulse": "Impuls soniyaning bir ulushigina davom etadi.",
+  "reactivate": "Tadqiqotchilar davolashdan sal oldin bitta xotirani qayta faollashtirishdi.",
+  "resort": "Boshqa hech qanday chora qolmagach, shifokorlar yangi davolash usulini taklif qilishdi.",
+  "strapped": "Hushyor holatda karavotga bog'lab qo'yish endi zamonaviy amaliyotning bir qismi emas.",
+  "terrified": "U davolanish uning shaxsiyatini o'zgartirib yuborishidan juda qo'rqardi.",
+  "unaffected": "Faqat qayta faollashtirilgan xotira zaiflashdi, boshqasiga esa ta'sir qilmadi."
+ },
+ "C2": {
+  "ECT": "Bahsli obro'siga qaramay, EKT og'ir depressiyaning ayrim shakllari uchun samarali davo bo'lib qolmoqda.",
+  "causing": "Muammo boshqalariga yon zarar yetkazmasdan bitta xotirani nishonga olishdadir.",
+  "delete": "Agar biz og'ir ruhiy jarohatli xotiralarni o'chirib tashlay olsak, o'zligimizning bir qismini ham yo'qotib qo'ymaymizmi?",
+  "electroconvulsive therapy": "Bir paytlar filmlarda shafqatsiz qilib tasvirlangan elektr talvasa terapiyasi endilikda narkoz ostida sinchkov nazorat bilan o'tkaziladi.",
+  "last resort": "Elektr talvasa terapiyasi odatda so'nggi chora sifatida qaraladi va dori-darmonlarga javob bermagan bemorlar uchun qo'llaniladi.",
+  "picture card": "Rasmli kartochkalardan foydalanish tadqiqotchilarga bemorlar qaysi tafsilotlarni hali eslay olishini aniq o'lchash imkonini berdi.",
+  "pulse": "Zamonaviy apparatlar nojo'ya ta'sirlarni kamaytirish uchun aniq sozlangan impulslar yuboradi.",
+  "reactivate": "Nazariyaga ko'ra, qayta faollashtirilgan xotira yana saqlanishi kerak va aynan shu oraliqda uni buzish mumkin.",
+  "resort": "\"So'nggi chora\" iborasi shifokorlarning bunday aralashuvlarga ehtiyotkorona munosabatini aks ettiradi.",
+  "strapped": "Kamarlar bilan bog'lab qo'yilgan dahshatga tushgan bemor qiyofasi zamonaviy tibbiyotdan ko'ra Gollivudga ko'proq qarzdor.",
+  "terrified": "Mashhur filmlar ko'pchilikni aslida ancha yumshoq bo'lgan davolash usulidan dahshatga tushirib qo'ygan.",
+  "unaffected": "Tegilmagan xotiraga ta'sir yetmagani bu ta'sir juda o'ziga xos ekanini ko'rsatdi."
+ }
+});

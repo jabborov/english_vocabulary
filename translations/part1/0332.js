@@ -1,0 +1,43 @@
+// Part 1 topic 0332: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0332', {
+ "B1": {
+  "audio frequency": "Har bir musiqiy notaning o'z tovush chastotasi bor.",
+  "bandwidth": "Hamma video tomosha qilayotgani uchun tarmoq o'tkazuvchanligi yetmadi.",
+  "closed": "U hech kim xalaqit bermaydigan yopiq ofisda yaxshiroq ishlaydi.",
+  "collaboration": "Yangi ilova ikki kompaniya hamkorligining natijasi edi.",
+  "industrialist": "Mashhur bir sanoatchi shahrimizdagi yangi bog' uchun pul to'ladi.",
+  "on paper": "Nazariy jihatdan, ofisning yangi joylashuvi vaqtni tejashi kerak.",
+  "take root": "Yangi qoidalar kompaniyada ildiz otishi uchun yillar kerak bo'ldi.",
+  "white noise": "Ba'zi ota-onalar chaqaloqlari uxlab qolishi uchun oq shovqindan foydalanadi."
+ },
+ "B2": {
+  "audio frequency": "Mashina har bir tovush chastotasida ovoz chiqaradi.",
+  "bandwidth": "U yana uchrashuvlar uchun ruhiy kuchi qolmaganini aytdi.",
+  "closed": "Xodimlar umumiy ochiq maydonda ishlasa, menejerlar ko'pincha yopiq kabinetlarda o'tirishadi.",
+  "collaboration": "Yaxshi hamkorlik ishonch va aniq muloqotni talab qiladi.",
+  "industrialist": "Viktoriya davri sanoatchilari ishchilari uchun uylar qurishgan.",
+  "on paper": "Qog'ozda stollarni bo'lishib ishlatish ko'p pul tejaydi.",
+  "take root": "Umumiy ish stollari tizimi ko'plab yirik kompaniyalarda ildiz otgan.",
+  "white noise": "Oq shovqin ochiq ofisni jimroq qilib ko'rsatishi mumkin."
+ },
+ "C1": {
+  "audio frequency": "Inson nutqi tovush chastotasi diapazonining faqat bir qismini qamrab oladi.",
+  "bandwidth": "Ofisdagi doimiy shovqin odamlarning aqliy imkoniyatlarini yeb qo'yadi.",
+  "closed": "Yopiq kabinet odamlarga diqqatni jamlash uchun shaxsiy makon beradi.",
+  "collaboration": "Tadqiqotlar ochiq ofislar aslida yuzma-yuz hamkorlikni kamaytirishi mumkinligini ko'rsatmoqda.",
+  "industrialist": "Ofislar dizayni unumdorlikka berilib ketgan sanoatchilar tomonidan shakllantirilgan.",
+  "on paper": "Loyiha qog'ozda ishlagan, ammo amalda muvaffaqiyatsiz bo'lgan.",
+  "take root": "Ish madaniyati bir marta ildiz otgach, uni o'zgartirish juda qiyin.",
+  "white noise": "Ba'zi kompaniyalar gap-so'zlarni bosib ketish uchun oq shovqin qurilmalarini o'rnatishadi."
+ },
+ "C2": {
+  "audio frequency": "Tovushni niqoblash tizimlari nutq eng aniq eshitiladigan tovush chastotalariga moslab sozlanadi.",
+  "bandwidth": "Rahbarlar fondagi chalg'ituvchi omillar qanchalik ko'p aqliy imkoniyatni egallashini ko'pincha yetarlicha baholamaydi.",
+  "closed": "Yopiq ofislarga qaytish doimiy chalg'itish diqqatni jamlashga zarar yetkazishi haqidagi dalillar ko'payib borayotganini aks ettiradi.",
+  "collaboration": "Haqiqiy hamkorlik stollarning joylashuvidan ko'ra ishonch madaniyatiga ko'proq bog'liq.",
+  "industrialist": "Ochiq rejali ofis zamonaviy hamkorlik g'oyalaridan ko'ra o'n to'qqizinchi asr sanoatchilariga ko'proq qarzdor.",
+  "on paper": "Ish joyidagi ko'plab islohotlar qog'ozda ishonarli ko'rinadi, ammo inson xulq-atvori bilan to'qnashganda barbod bo'ladi.",
+  "take root": "Moslashuvchan ish tartibi texnologiya uni oddiy xodimlar uchun amaliy qilgandagina ildiz otdi.",
+  "white noise": "G'alati tuyulsa-da, oq shovqin qo'shish tushunarli nutqni bosib, ofisni tinchroq his qildirishi mumkin."
+ }
+});

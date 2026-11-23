@@ -1,0 +1,67 @@
+// Part 1 topic 0136: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0136', {
+ "B1": {
+  "choke": "Yulduz o'yinchi so'nggi daqiqada hayajondan sarosimaga tushib qoldi.",
+  "elite": "Eng nufuzli klublarda pul eng ko'p.",
+  "flip side": "G'alabaning boshqa tomoni bosimdir.",
+  "football season": "Futbol mavsumi may oyida tugaydi.",
+  "league": "Ligada yigirmata jamoa bor.",
+  "merit": "Ish o'rinlari xizmatiga qarab berilishi kerak.",
+  "relegate": "May oyida uchta klub quyi ligaga tushib ketadi.",
+  "relegate down": "Har yili uchta jamoa quyi ligaga tushiriladi.",
+  "relegation": "Ular so'nggi kunda quyi ligaga tushishdan qutulib qolishdi.",
+  "superstar": "Superyulduz muxlislar uchun dastxat yozib berdi.",
+  "top dog": "Yetakchi har doim ham g'alaba qozonavermaydi.",
+  "underdog": "Finalda kichik klub ojiz tomon hisoblanardi.",
+  "underperform": "Jamoamiz bu yil kutilganidan past o'ynadi.",
+  "victory": "Bu ularning shu mavsumdagi birinchi g'alabasi edi."
+ },
+ "B2": {
+  "choke": "Ba'zi favoritlar hamma ularning g'alabasini kutganda asabiylashib, uddalay olmay qolishadi.",
+  "elite": "Ba'zi odamlar elitaning hokimiyatini yoqtirishmaydi.",
+  "flip side": "Zaif tomonni qo'llab-quvvatlashning teskari tomoni favoritning muvaffaqiyatsizligidan zavqlanishdir.",
+  "football season": "\"Leicester\" 2015–16 yilgi futbol mavsumida hammani hayratda qoldirdi.",
+  "league": "Ligada g'olib chiqish bitta kubok o'yinida yutishdan qiyinroq.",
+  "merit": "Zaif tomonning g'alabasi sof xizmatga asoslangandek tuyuladi.",
+  "relegate": "Mutaxassislar klub chempion bo'lish o'rniga quyi ligaga tushib ketadi, deb bashorat qilishgan.",
+  "relegate down": "Hech kim o'z klubining quyi divizionga tushib ketishini ko'rishni istamaydi.",
+  "relegation": "Quyi ligaga tushish televideniyedan kamroq pul olishni anglatadi.",
+  "superstar": "Superyulduzlardan iborat jamoa har doim ham ahil ishlaydigan jamoani yengavermaydi.",
+  "top dog": "Yetakchi bo'lish katta bosim keltiradi.",
+  "underdog": "Odamlar kutilmagan natijani istagani uchun ko'pincha zaif tomonni qo'llab-quvvatlashadi.",
+  "underperform": "Qimmat futbolchilar yangi klubga o'tganda ko'pincha o'z darajasida o'ynay olmaydi.",
+  "victory": "Zaif tomonning g'alabasi betaraf muxlislarga ancha shirinroq tuyuladi."
+ },
+ "C1": {
+  "choke": "Jamoa bosim ostida o'zini yo'qotib qo'ydi va osongina yutishi kerak bo'lgan o'yinda mag'lub bo'ldi.",
+  "elite": "Autsayder elitani mag'lub etganda, bu pul doimo g'alaba qozonadi degan fikrga shubha uyg'otadi.",
+  "flip side": "Boshqa tomondan, favorit yildan-yilga g'alaba qozonaversa, odamlarda norozilik paydo bo'lishi mumkin.",
+  "football season": "Uzoq futbol mavsumi davomida omad odatda tenglashadi va kuchliroq jamoalar ko'pincha yuqoriga ko'tariladi.",
+  "league": "Klubning liga chempionligi sport tarixidagi eng katta kutilmagan voqealardan biri deb ta'riflandi.",
+  "merit": "Muxlislar jamoa chempionlikni mehnat va jamoaviy ruh orqali munosib ravishda qo'lga kiritgan deb hisoblashdi.",
+  "relegate": "Klub mavsumning so'nggi kunida quyi ligaga tushib ketishdan zo'rg'a qutulib qoldi.",
+  "relegate down": "Dahshatli mavsumdan keyin klub ikkinchi divizionga tushirib yuborildi.",
+  "relegation": "Bukmekerlar quyi ligaga tushishni chempionlikdan ko'ra ancha ehtimolli deb hisoblashgan.",
+  "superstar": "Superyulduzlarga to'la klub kichik jamoaga yutqazsa, butun mamlakat bu haqda gapiradi.",
+  "top dog": "Eng kuchli jamoa kichik jamoaga yutqazganda, betaraf muxlislar odatda xursand bo'lishadi.",
+  "underdog": "Aniq autsayder bo'lishiga qaramay, jamoa kurash olib borib, kutilmagan g'alabaga erishdi.",
+  "underperform": "Favoritlar kutilgan natijani ko'rsata olmagan bir paytda, autsayder jimgina jadval cho'qqisiga ko'tarildi.",
+  "victory": "Ularning liga yetakchilari ustidan qozongan kutilmagan g'alabasi butun dunyo bo'ylab sarlavhalarga chiqdi."
+ },
+ "C2": {
+  "choke": "Favoritlarning hal qiluvchi paytda bosim ostida dovdirab qolishga moyilligi zaif jamoalarning ehtimollardan ko'ra tez-tez g'alaba qozonishini tushuntirishi mumkin.",
+  "elite": "Zaif tomonni qo'llab-quvvatlash mustahkam o'rnashib olgan elitaga qarshi sokin isyon bo'lishi mumkin.",
+  "flip side": "Zaif tomonga mehrimizning teskari tomoni qudratlilarning qulashini ko'rishdan olinadigan yashirin zavqdir.",
+  "football season": "Quyi ligaga tushib ketishi bashorat qilingan jamoaning butun bir futbol mavsumida ustunlik qilishini kam odam oldindan ko'rgan edi.",
+  "league": "Boy klublar hukmronlik qiladigan ligada kichik jamoaning barqaror muvaffaqiyati deyarli eshitilmagan holdir.",
+  "merit": "Zaif tomonning jozibasi qisman imtiyoz emas, munosiblik taqdirlanishi kerak degan ishonchimizda yotadi.",
+  "relegate": "O'n ikki oy ichida jamoa quyi ligaga tushib ketmaslik uchun kurashishdan kubokni ko'tarishgacha yo'l bosdi.",
+  "relegate down": "Bir divizion pastga tushib ketish klubni yillar davomida o'nglana olmaydigan moliyaviy inqirozga olib kelishi mumkin.",
+  "relegation": "Bir mavsum ichida quyi ligaga tushish nomzodlaridan chempionlarga aylanish har qanday statistik modelni rad etdi.",
+  "superstar": "Jasur havaskorlarning yulduzlardan iborat jamoani yengishi haqidagi hikoya sport muxlislarini hech qachon zeriktirmaydiganga o'xshaydi.",
+  "top dog": "Yetakchiga nisbatan ikkilanma munosabatimiz ustunlikni adolatsizlik bilan qanchalik yaqin bog'lashimizni ko'rsatadi.",
+  "underdog": "Zaif tomonga hamdardligimiz biron bir oqilona hisob-kitobdan emas, balki chuqur ildiz otgan adolat tuyg'usidan kelib chiqishi mumkin.",
+  "underperform": "Zaif jamoaning muvaffaqiyati ko'pincha uning o'z mahoratiga bo'lgani kabi raqiblarning kutilganidan yomon o'ynashiga ham bog'liq.",
+  "victory": "Ikki klub o'rtasidagi resurslardagi ulkan tafovutni hisobga olsak, bu g'alaba yanada hayratlanarli edi."
+ }
+});

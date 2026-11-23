@@ -1,0 +1,67 @@
+// Part 2 topic 0034: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('2', '0034', {
+ "B1": {
+  "aim": "Bu ilovaning maqsadi kuniga o'nta so'z o'rganishingizga yordam berishdir.",
+  "evidence": "Ilovalar odamlarga so'z boyligini o'rganishda yordam berishi haqida ba'zi dalillar bor.",
+  "explicit": "Ochiq grammatika o'qitish qoidalarni sizga to'g'ridan-to'g'ri aytadi.",
+  "fictional": "Tadqiqotchilar sinov uchun to'qima til yaratishdi.",
+  "immersion": "Boshqa mamlakatda yashash tilga sho'ng'ishning eng yaxshi usulidir.",
+  "implicit": "Yashirin o'rganish qoidalar haqida o'ylamasdan sodir bo'ladi.",
+  "indeed": "Ilovalar haqiqatan ham yangi so'zlarni o'rganishga yordam berishi mumkin.",
+  "keep up": "Har kuni mashq qilishni davom ettirish qiyin.",
+  "key finding": "Asosiy xulosa shuki, odamlar qisqa mashg'ulotlarda yaxshiroq o'rganishgan.",
+  "mimic": "Gapni takrorlang va so'zlovchining talaffuziga taqlid qilishga harakat qiling.",
+  "one particular": "Tadqiqot bitta muayyan ilovani o'rgandi.",
+  "promising": "Yangi ilova juda istiqbolli ko'rinadi.",
+  "realistically": "Real qarasak, tilni o'rganish qancha vaqt oladi?",
+  "tend": "Odamlar bir necha haftadan keyin ilovalardan foydalanishni to'xtatishga moyil."
+ },
+ "B2": {
+  "aim": "Tadqiqotning asosiy maqsadi ilovalar haqiqatan ham samara beradimi-yo'qligini aniqlash edi.",
+  "evidence": "Tadqiqotchilar foydalanuvchilar grammatikani o'rgatilmasdan ham o'zlashtira olishiga dalil topishdi.",
+  "explicit": "Ba'zi o'rganuvchilar qoidalarni o'zlari taxmin qilishdan ko'ra aniq tushuntirishlarni afzal ko'radi.",
+  "fictional": "To'qima tildan foydalanish uni ilgari hech kim o'rganmaganini anglatardi.",
+  "immersion": "Ilovalar chet elda bir yil yashashdagidek til muhitiga sho'ng'ishni taqdim eta olmaydi.",
+  "implicit": "Tadqiqot ilovalar grammatikani beixtiyor, yashirin o'rganishni qo'llab-quvvatlashi mumkinligini ko'rsatadi.",
+  "indeed": "Natijalar haqiqatan ham umidli edi, biroq ko'proq tadqiqot talab etiladi.",
+  "keep up": "Ilovalar o'rganuvchilarga motivatsiyani saqlab qolishda yordam berish uchun ketma-ketlik seriyalari va mukofotlardan foydalanadi.",
+  "key finding": "Tadqiqotning asosiy xulosasi shu bo'ldiki, grammatikani ilova orqali beixtiyor o'rganish mumkin.",
+  "mimic": "Ba'zi ilovalar haqiqiy suhbatlarga taqlid qiladigan chatbotlardan foydalanadi.",
+  "one particular": "O'rganuvchilarning ma'lum bir guruhi boshqalarga qaraganda ancha tez rivojlandi.",
+  "promising": "Dastlabki natijalar umidli, ammo tadqiqot ancha kichik hajmda o'tkazilgan.",
+  "realistically": "Real qaraganda, ilova sizni ravon gapiradigan qilmaydi, ammo so'z boyligingizni oshirishga yordam berishi mumkin.",
+  "tend": "Kattalar o'rganuvchilar bolalarga qaraganda aniq grammatik qoidalarga ko'proq tayanishga moyil."
+ },
+ "C1": {
+  "aim": "Ko'pgina til ilovalarining e'lon qilingan maqsadi o'rganishni oson va yoqimli qilishdir.",
+  "evidence": "Nazorat ostidagi tadqiqotlardan olingan dalillar ilovaga asoslangan o'qish boshqa usullar bilan birgalikda eng samarali ekanini ko'rsatadi.",
+  "explicit": "Tadqiqotda aniq, tushuntirishli o'qitish faqat tilga duch kelishga asoslangan o'rganish bilan taqqoslandi.",
+  "fictional": "Oldingi bilimlar natijalarga ta'sir qilmasligi uchun ishtirokchilarga to'qima til o'rgatildi.",
+  "immersion": "To'liq til muhitiga sho'ng'ish o'quvchilarni tilni real vaqtda qayta ishlashga majbur qiladi va ularning rivojlanishini sezilarli tezlashtiradi.",
+  "implicit": "Tilni yashirin, ongsiz bilish so'zlovchilarga o'zlari hech qachon tushuntirib bera olmaydigan tuzilmalardan foydalanish imkonini beradi.",
+  "indeed": "O'quvchilar haqiqatan ham grammatik qoliplarni ular aniq o'rgatilmasdan o'zlashtira oladi.",
+  "keep up": "Ko'plab o'quvchilar dastlabki ishtiyoq so'ngach, o'qishni davom ettirishda qiynalishadi.",
+  "key finding": "Asosiy xulosalardan biri kattalar grammatikani yashirin tarzda o'rgana olmaydi, degan keng tarqalgan taxminni shubha ostiga qo'yadi.",
+  "mimic": "Dizaynerlar raqamli muhitda tilni tabiiy o'zlashtirish sharoitlariga taqlid qilishga urinishadi.",
+  "one particular": "Tadqiqotchilar yashirin o'rganishni o'lchash uchun ma'lum bir grammatik tuzilmaga e'tibor qaratishdi.",
+  "promising": "Bu istiqbolli natijalar texnologiya til ta'limida kattaroq rol o'ynashi mumkinligini ko'rsatadi.",
+  "realistically": "Real qaraganda, ko'pchilik o'quvchilarga ilovalar, darslar va suhbat amaliyotining uyg'unligi kerak.",
+  "tend": "O'quvchilar ilova yordamida qanchalik rivojlanayotganlarini oshirib baholashga moyil."
+ },
+ "C2": {
+  "aim": "O'yinlashtirilgan ta'limning zohiriy maqsadi - uzluksiz ishtirok - ba'zan haqiqiy malakaning yanada muhimroq maqsadini soyada qoldirishi mumkin.",
+  "evidence": "Dalillar ishora beruvchi bo'lsa-da, faqat ilovalar amaliy erkin so'zlashuvni ta'minlay olishini isbotlashdan ancha yiroq.",
+  "explicit": "Bir paytlar eskirgan deb rad etilgan ochiq ta'lim tadqiqotchilar uning katta yoshdagi o'quvchilar uchun qadrini tan olgani sari yana e'tiborga sazovor bo'lmoqda.",
+  "fictional": "To'qima tildan foydalanish, sun'iy bo'lsa-da, tadqiqotchilarga o'quvchilarning oldingi tajribasini misli ko'rilmagan darajada nazorat qilish imkonini beradi.",
+  "immersion": "Til muhitiga sho'ng'ish, barcha romantik jozibasiga qaramay, to'g'rilikni kafolatlamaydi: uzoq yillik ko'plab muhojirlar ko'zga tashlanadigan xatolarni qotirib olishadi.",
+  "implicit": "Yashirin va ochiq bilim o'rtasidagi chegara ikkinchi tilni o'zlashtirishdagi eng bahsli masalalardan biri bo'lib qolmoqda.",
+  "indeed": "Darhaqiqat, ilovalar orqali o'rganishning aynan osonligi uning chuqur malaka shakllantirish qobiliyatini cheklayotgan bo'lishi mumkin.",
+  "keep up": "Qiyinchilik tilni boshlashda emas, balki haqiqiy malaka talab qiladigan uzluksiz sa'y-harakatni davom ettirishdadir.",
+  "key finding": "Agar tadqiqotning asosiy xulosasi takrorlansa, kattalarga til o'rgatish usullarini jiddiy qayta ko'rib chiqishga turtki bo'lishi mumkin.",
+  "mimic": "Dastur qanchalik murakkab bo'lmasin, u haqiqiy insoniy muloqotning oldindan aytib bo'lmasligiga faqat taqlid qila oladi, uni hech qachon haqiqatan qayta yarata olmaydi.",
+  "one particular": "Bitta muayyan ilovadan butun raqamli ta'lim vositalari toifasi haqida umumiy xulosa chiqarish uslubiy jihatdan noto'g'ri bo'lardi.",
+  "promising": "Natijalar shubhasiz istiqbolli bo'lsa-da, ular ko'proq xilma-xil guruhlarda sinab ko'rilmaguncha ehtiyotkorlik bilan talqin qilinishi kerak.",
+  "realistically": "Real baholanganda, ba'zi ilova ishlab chiquvchilarining da'volari lingvistik tadqiqotlardan ko'ra marketingga ko'proq tayanadi.",
+  "tend": "Foydalanuvchilar tanishlikni mukammal bilish bilan aralashtirib yuborishga moyil bo'lib, so'zni tanishni uni qo'llay olish qobiliyati deb adashadi."
+ }
+});

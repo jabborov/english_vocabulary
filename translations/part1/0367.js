@@ -1,0 +1,59 @@
+// Part 1 topic 0367: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0367', {
+ "B1": {
+  "Bruno": "Bruno ingliz tilini maktabda o'rgangan.",
+  "bulletin": "Tushda yangiliklar xabari berildi.",
+  "celebratory": "Ular bayram munosabati bilan ovqatlanishga borishdi.",
+  "improved": "U tinglash ko'nikmalari yaxshilanganini ko'rsatdi.",
+  "liberty": "Odamlar o'z erkinliklari uchun kurashdilar.",
+  "mechanical engineering": "U mashinasozlik muhandisligi bo'yicha diplomga ega.",
+  "morale": "Jamoaning ruhiy holati tushkun edi.",
+  "news bulletin": "Har soatda qisqa yangiliklar dasturi efirga uzatiladi.",
+  "radio news": "Urush paytida radio yangiliklari juda muhim edi.",
+  "radio signal": "Tog'larda radio signali yomon edi.",
+  "smatter": "Chala-chulpa bilish deganda biror narsani ozgina bilish tushuniladi.",
+  "smattering": "U ispan tilida ozgina gapira oladi."
+ },
+ "B2": {
+  "Bruno": "Bruno dasturga ingliz tili darslari haqida xat yozdi.",
+  "bulletin": "Ob-havo axboroti bo'ronlar haqida ogohlantirdi.",
+  "celebratory": "Jamoa tinglovchilarga bayramona xabar yo'lladi.",
+  "improved": "Takomillashtirilgan veb-sayt o'qishni osonlashtiradi.",
+  "liberty": "Eshittirishlar bosib olingan mamlakatlarga ozodlik umidini berdi.",
+  "mechanical engineering": "Ingliz tili unga mashinasozlik bo'yicha kitoblarni o'qishga yordam berdi.",
+  "morale": "Radio dasturlari og'ir paytlarda ruhiyatni ko'tardi.",
+  "news bulletin": "Yangiliklar dasturi o'quvchilar uchun sekin o'qildi.",
+  "radio news": "O'quvchilar tinglash ko'nikmasini oshirish uchun sekin o'qiladigan radio yangiliklaridan foydalanishdi.",
+  "radio signal": "Tinglovchilar yaxshiroq radio signali olish uchun antennani surishardi.",
+  "smatter": "U inglizcha bir necha so'zni zo'rg'a gapira olardi.",
+  "smattering": "Ingliz tilini biroz bilgani bilan u chet elda ish topdi."
+ },
+ "C1": {
+  "Bruno": "Brunoning aytishicha, radio eshittirishlari uning hayotini o'zgartirgan.",
+  "bulletin": "Urush davridagi axborot xabarlari Yevropa bo'ylab tinglovchilarga shoshilinch yangiliklarni yetkazdi.",
+  "celebratory": "Yubiley kuni studiyada bayramona kayfiyat hukm surardi.",
+  "improved": "Takomillashgan texnologiya tufayli darslar endi o'quvchilarga telefonlari orqali yetib boradi.",
+  "liberty": "Til o'rganish o'ziga xos bir erkinlikdek tuyulishi mumkin.",
+  "mechanical engineering": "Mashinasozlik bo'yicha ko'plab ilmiy maqolalar faqat ingliz tilida nashr etiladi.",
+  "morale": "Radioda samimiy ovozlarni eshitish tinglovchilarning ruhini ko'tardi.",
+  "news bulletin": "Ingliz tilidagi yangiliklar dasturlari urush paytida tinglovchilarga dunyo voqealarini kuzatib borishga yordam berdi.",
+  "radio news": "Sodda ingliz tilidagi radio yangiliklari chet eldagi millionlab tinglovchilarga yetib bordi.",
+  "radio signal": "Urush paytida radio signallari ba'zan bo'g'ib qo'yilardi.",
+  "smatter": "\"Smatter\" fe'li asosan \"smattering\" otida saqlanib qolgan.",
+  "smattering": "Mahalliy tilni ozgina bilish sayohatni ancha osonlashtirishi mumkin."
+ },
+ "C2": {
+  "Bruno": "Brunoning hikoyasi radio orqali o'tilgan ingliz tili darslari qanday qilib keyingi o'qish va martabaga eshik ochganini ko'rsatadi.",
+  "bulletin": "BBC yangiliklar dasturlari Britaniyadan ancha tashqarida ham ishonch qozongan aniqlik bo'yicha obro' orttirdi.",
+  "celebratory": "Bayramona eshittirish butun dunyo bo'ylab ingliz tilini o'qitishning yetmish yilini sarhisob qildi.",
+  "improved": "Onlayn materiallardan yaxshilangan foydalanish imkoniyati dunyo bo'ylab odamlarning ingliz tilini qanday o'rganishini tubdan o'zgartirdi.",
+  "liberty": "Bosqin ostidagi tinglovchilar uchun eshittirishlar ozodlik va erkin dunyo bilan aloqani ramziy ifodalardi.",
+  "mechanical engineering": "Uning mashinasozlik sohasidagi faoliyati ingliz tilida yozilgan texnik adabiyotni o'qishga bog'liq edi.",
+  "morale": "Radioeshittirish bosib olingan Yevropada ruhiy holatni saqlab qolishning muhim vositasi sifatida ko'rilgan.",
+  "news bulletin": "Qisqa yangiliklar sharhlari dolzarb voqealarni aniq nutq bilan uyg'unlashtirgani uchun til o'rganish materiallarining doimiy qismi bo'lib qolmoqda.",
+  "radio news": "O'nlab yillar davomida radio yangiliklari xalqaro auditoriya og'zaki ingliz tili bilan tanishadigan asosiy vosita edi.",
+  "radio signal": "Radio signaliga ataylab xalaqit berilishiga qaramay, ko'plab tinglovchilar eshittirishlarni tinglash uchun tavakkal qilgan.",
+  "smatter": "Tilni yuzaki o'rganish ma'nosini anglatuvchi \"smatter\" fe'li hozir asosan eskirgan hisoblanadi.",
+  "smattering": "U ingliz tilini arzimas darajada, chala-chulpa bilib kelgan edi, ammo bir necha yil ichida erkin gapiradigan bo'ldi."
+ }
+});

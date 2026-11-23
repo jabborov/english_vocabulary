@@ -1,0 +1,63 @@
+// Part 1 topic 0465: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0465', {
+ "B1": {
+  "abandoned ship": "Ekipaj kechasi kemani tashlab ketdi.",
+  "capsize": "Kichkina qayiq bo'ronda ag'darilib ketdi.",
+  "cruise": "Kruiz ikki hafta davom etdi.",
+  "cruise ship": "Kruiz kemasida ko'plab basseynlar bor.",
+  "dreadful": "Yo'lovchilar dahshatli tunni boshidan o'tkazishdi.",
+  "heroic": "O't o'chiruvchilar qahramonlik ko'rsatishdi.",
+  "oasis": "Bu bog' shahar ichidagi vohaga o'xshaydi.",
+  "speculating": "Taxmin qilish bizga yordam bermaydi.",
+  "stay on": "U ziyofatda qolib ketdi.",
+  "turn over": "Qayiq to'lqinlarda ag'darilib ketdi.",
+  "unthinkable": "O'yinda yutqazish aqlga sig'maydigan narsa edi.",
+  "utterly": "Film mutlaqo zerikarli edi.",
+  "wash off": "To'lqinlar qumni yuvib ketdi."
+ },
+ "B2": {
+  "abandoned ship": "Kapitan kemani juda erta tashlab ketganlikda ayblandi.",
+  "capsize": "Kema Italiya qirg'og'ining yaqinginasida ag'darilib ketdi.",
+  "cruise": "Kruiz sayohati - xotirjam dam olishdir.",
+  "cruise ship": "Kruiz kemasi qirg'oq yaqinida qoyaga urilib ketdi.",
+  "dreadful": "Ko'pchilik bu voqeani dahshatli deb ta'rifladi.",
+  "heroic": "Ba'zi ekipaj a'zolari yo'lovchilarni qutqarish uchun qahramonona harakat qildi.",
+  "oasis": "Kema osoyishtalik vohasi bo'lishi kerak edi.",
+  "speculating": "Gazetalar sabab haqida taxminlar qilmoqda.",
+  "stay on": "Kapitanlar oxirigacha kemada qolishlari kutiladi.",
+  "turn over": "Kema asta-sekin yonboshiga ag'darildi.",
+  "unthinkable": "Ko'pchilik kapitanlar uchun yo'lovchilarni tashlab ketish aqlga sig'maydigan ish edi.",
+  "utterly": "Yo'lovchilar butunlay larzaga kelgan edi.",
+  "wash off": "Ba'zi sumkalarni to'lqin kemadan yuvib olib ketdi."
+ },
+ "C1": {
+  "abandoned ship": "Tashlab ketilgan kema chiroqlari lipillagan holda port yaqinida yonboshlab yotardi.",
+  "capsize": "Kema sekin ag'darildi, bu esa ko'plab yo'lovchilarga qochib qutulishga vaqt berdi.",
+  "cruise": "Orzudagi kruiz bo'lishi kerak bo'lgan sayohat dahshatli tushga aylandi.",
+  "cruise ship": "Kruiz kemasi qiyshaya boshlaganda yo'lovchilar qamalib qolishdi.",
+  "dreadful": "Kema bortidagi dahshatli manzaralar butun dunyo odamlarini larzaga soldi.",
+  "heroic": "Qahramonona qutqaruvlar haqidagi hikoyalar kapitanning xatti-harakatiga keskin zid edi.",
+  "oasis": "Ko'plab yo'lovchilar uchun kema falokat yuz bergunga qadar hashamat vohasi edi.",
+  "speculating": "Hisobot e'lon qilinmaguncha bu taxminlarning barchasi hech qanday foyda bermaydi.",
+  "stay on": "An'anaga ko'ra, kapitan oxirgi yo'lovchi tushgunga qadar kemada qolishi kerak.",
+  "turn over": "Kema ag'darilayotganda yo'lovchilar oyoqda turishga qiynalishdi.",
+  "unthinkable": "Bir asr oldin kapitanning o'z kemasini tashlab ketishi aqlga sig'maydigan hol bo'lardi.",
+  "utterly": "Kapitanning xatti-harakati mutlaqo qabul qilib bo'lmaydigan deb baholandi.",
+  "wash off": "Bir nechta qutqaruv qayig'ini to'lqinlar oqizib ketishiga sal qoldi."
+ },
+ "C2": {
+  "abandoned ship": "Yo'lovchilar hali bortda bo'lganida kemani tashlab ketgani uchun kapitan qattiq tanqidga uchradi.",
+  "capsize": "Agar kema chuqurroq suvda ag'darilib ketganida, qurbonlar soni ancha ko'p bo'lishi mumkin edi.",
+  "cruise": "Fojia bir muddat jamoatchilikning kruiz sayohatlariga bo'lgan ishtiyoqini so'ndirdi.",
+  "cruise ship": "Falokat ulkan kruiz kemalaridagi xavfsizlik standartlari haqida savollar tug'dirdi.",
+  "dreadful": "Omon qolganlar chiroqlar o'chib, kema og'a boshlagandagi dahshatli sarosimani eslashdi.",
+  "heroic": "Ayrim kishilarning qahramonona harakatlari bortdagi rahbariyatning muvaffaqiyatsizliklarini qoplay olmadi.",
+  "oasis": "Kruiz kemasi xavfsiz vohadir, degan tasavvur halokat tufayli chilparchin bo'ldi.",
+  "speculating": "Faktlar aniqlanmasdan turib kim aybdorligi haqida taxmin qilish adolatli tergovga xolis bo'lmagan ta'sir ko'rsatishi mumkin.",
+  "stay on": "Kapitanning bortda qolishi qonunan shartmi yoki yo'qmi, bu mamlakatdan mamlakatga farq qiladi.",
+  "turn over": "Muhandislar shuncha katta kema nima uchun bunchalik tez ag'darilib ketishi mumkinligini tushuntirdi.",
+  "unthinkable": "Bir vaqtlar aqlga sig'maydigan bo'lgan narsa qo'mondonlik burchlari haqida bahsga sabab bo'ldi.",
+  "utterly": "Tergov favqulodda vaziyatga ko'rsatilgan munosabatni mutlaqo nomaqbul deb topdi.",
+  "wash off": "Tanqidchilarning aytishicha, mas'uliyatni shunchaki kechirim so'rash bilan yuvib tashlab bo'lmaydi."
+ }
+});

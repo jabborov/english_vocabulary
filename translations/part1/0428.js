@@ -1,0 +1,67 @@
+// Part 1 topic 0428: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0428', {
+ "B1": {
+  "IMF": "XVJning ta'kidlashicha, iqtisodiyot o'smoqda.",
+  "allocate": "Maktab yangi kitoblar uchun mablag' ajratdi.",
+  "bribery": "Yangi qonun poraxo'rlikka qarshi kurashadi.",
+  "eligible": "Besh yoshgacha bo'lgan bolalar bepul ovqatlanish huquqiga ega.",
+  "financial support": "Xayriya tashkiloti talabalarga moliyaviy yordam ko'rsatadi.",
+  "fraud": "Bank hisoblarda firibgarlik aniqladi.",
+  "health care": "Bepul tibbiy xizmat kambag'al oilalarga yordam beradi.",
+  "monetary fund": "Xalqaro valyuta jamg'armasining qarorgohi Vashingtonda joylashgan.",
+  "mountainous": "Tog'li hududlar ko'pincha sovuq bo'ladi.",
+  "pioneering": "Maktab yangi turdagi kitob o'qish dasturini boshladi.",
+  "poverty line": "Hukumat odamlarni qashshoqlik chegarasidan yuqoriga ko'tarishni xohlaydi.",
+  "subsidy": "Subsidiya guruch narxini past ushlab turadi.",
+  "terrain": "Shimoldagi joy relyefi juda tik.",
+  "undertaking": "Uy ko'chish ancha mashaqqatli ish."
+ },
+ "B2": {
+  "IMF": "Hukumat XVJdan moliyaviy yordam so'radi.",
+  "allocate": "Mablag'lar birinchi navbatda eng kambag'al tumanlarga ajratiladi.",
+  "bribery": "Bir nechta amaldor poraxo'rlik va korrupsiyada aybdor deb topildi.",
+  "eligible": "Bu pensiyani olishga faqat oltmish yoshdan oshganlar haqli.",
+  "financial support": "Yosh bolali oilalar moliyaviy yordam olish uchun ariza topshirishlari mumkin.",
+  "fraud": "Pul yo'qolib qolganidan keyin ba'zi amaldorlar firibgarlikda ayblandi.",
+  "health care": "Tog'li hududlarda tibbiy xizmatdan foydalanish imkoniyati juda cheklangan.",
+  "monetary fund": "Xalqaro valyuta jamg'armasi mamlakatga katta miqdorda kredit berdi.",
+  "mountainous": "Tog'li hududlarda sayohat qilish ko'p soat vaqt olishi mumkin.",
+  "pioneering": "Xayriya tashkiloti chekka qishloqlardagi kashshof loyihalari bilan tanilgan.",
+  "poverty line": "Mamlakatda millionlab odamlar hamon qashshoqlik chegarasidan pastda yashaydi.",
+  "subsidy": "Ko'plab oilalar kun ko'rish uchun oziq-ovqat subsidiyalariga qaram.",
+  "terrain": "Mushkul relyef tufayli ba'zi qishloqlarga faqat piyoda yetib borish mumkin.",
+  "undertaking": "Minglab o'qituvchilarni tayyorlash har qanday hukumat uchun yirik vazifadir."
+ },
+ "C1": {
+  "IMF": "XVJ ortib borayotgan qarz mamlakatning tiklanishiga xavf solishi mumkinligi haqida ogohlantirdi.",
+  "allocate": "Hukumat byudjetining uchdan bir qismini ta'lim va sog'liqni saqlashga ajratdi.",
+  "bribery": "Poraxo'rlik kambag'al odamlarga o'zlari haqli bo'lgan xizmatlarni olishni qiyinlashtiradi.",
+  "eligible": "Minglab yordam olish huquqiga ega oilalar hali ariza topshirmagan.",
+  "financial support": "Chet eldan moliyaviy yordam bo'lmaganida, loyiha barbod bo'lgan bo'lardi.",
+  "fraud": "Ijtimoiy to'lovlardagi firibgarlikni kamaytirish uchun qat'iy tekshiruvlar joriy etildi.",
+  "health care": "Hukumat sog'liqni saqlash va ta'limga ko'proq mablag' sarflashga va'da berdi.",
+  "monetary fund": "Xalqaro Valyuta Jamg'armasi hisobotlariga ko'ra, bu yil iqtisodiy o'sish sekinlashadi.",
+  "mountainous": "Tog'li landshaft yo'llar va maktablar qurishni qiyinlashtiradi.",
+  "pioneering": "Uning kashshof tadqiqoti shifokorlarning bu kasallikni davolash usulini o'zgartirib yubordi.",
+  "poverty line": "Iqtisodchilar qashshoqlik chegarasini aynan qayerdan belgilash kerakligi borasida bir fikrga kelisha olmaydi.",
+  "subsidy": "Hukumat xarajatlarni kamaytirish uchun yoqilg'i subsidiyalarini qisqartirishni rejalashtirmoqda.",
+  "terrain": "Askarlar har qanday joy relyefida tez harakatlanishga o'rgatilgan.",
+  "undertaking": "Loyiha o'n yildan ortiq vaqt olgan qimmat tashabbus bo'ldi."
+ },
+ "C2": {
+  "IMF": "XVJ rasmiylari islohotlar qo'shimcha mablag' ajratishning dastlabki sharti ekanini qat'iy ta'kidladi.",
+  "allocate": "Tanqidchilar mablag'lar qanday taqsimlangani va ular eng muhtojlarga yetib borganmi, degan savolni qo'yishdi.",
+  "bribery": "Poraxo'rlikka qarshi kurashish qattiq jazolar bilan bir qatorda shaffof tizimlarni ham talab qiladi.",
+  "eligible": "Ko'pchilikda rasmiy hujjatlar bo'lmagan sharoitda kim yordam olishga haqli ekanini aniqlash qiyin.",
+  "financial support": "Oilalar o'z-o'zini ta'minlay olishi uchun uzoq muddatli moliyaviy yordam kasbiy tayyorgarlik bilan birga olib borilishi kerak.",
+  "fraud": "Keng tarqalgan firibgarlik butun dasturga bo'lgan jamoatchilik ishonchini yo'qqa chiqarish xavfini tug'dirdi.",
+  "health care": "Arzon tibbiy xizmat bo'lmasa, birgina kasallik oilani qarzga botirishi mumkin.",
+  "monetary fund": "Tanqidchilarning fikricha, Xalqaro valyuta jamg'armasi kreditlariga qo'yiladigan shartlar kambag'allarning qiyinchiliklarini chuqurlashtirishi mumkin.",
+  "mountainous": "Bunday tog'li hududda xizmat ko'rsatish pul bilan birga ijodkorlikni ham talab qiladi.",
+  "pioneering": "Bu ilg'or dastur uning muvaffaqiyatini takrorlashga umid qilayotgan boshqa rivojlanayotgan mamlakatlarning qiziqishini uyg'otdi.",
+  "poverty line": "Daromadlarni shunchaki qashshoqlik chegarasidan yuqoriga ko'tarish sog'liqni saqlash yoki ta'limdan foydalanish imkoniyatini kafolatlamaydi.",
+  "subsidy": "Subsidiyalarni juda tez bekor qilish zaif xonadonlarni qaytadan qashshoqlik chegarasidan pastga tushirib yuborishi mumkin.",
+  "terrain": "Mamlakatning og'ir yer relyefi uzoq vaqtdan beri iqtisodiy rivojlanish va bozorlarga chiqishga to'sqinlik qilib keladi.",
+  "undertaking": "Tarqoq tog' qishloqlariga yordam yetkazish o'ta murakkab logistik vazifadir."
+ }
+});

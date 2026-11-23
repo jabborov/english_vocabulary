@@ -1,0 +1,67 @@
+// Part 1 topic 0461: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0461', {
+ "B1": {
+  "assault": "Veb-sayt hujumga uchradi.",
+  "await": "Politsiya qo'shimcha ma'lumotlarni kutmoqda.",
+  "civilian": "Urushlar ko'pincha tinch aholiga zarar yetkazadi.",
+  "cyberspace": "Ma'lumotlar kibermakon orqali uzatiladi.",
+  "governing": "Hukmron partiya ovoz berishda yutqazdi.",
+  "hacker": "Xakerlar veb-saytga hujum qilishdi.",
+  "in that respect": "Bu jihatdan ikki shahar bir-biriga o'xshaydi.",
+  "information system": "Kasalxonaning axborot tizimi ishdan chiqdi.",
+  "registration": "Onlayn ro'yxatdan o'tish oson.",
+  "specify": "Sizga aniq nima kerakligini ko'rsata olasizmi?",
+  "speculate": "Biz sababini faqat taxmin qilishimiz mumkin.",
+  "terrorism": "Ko'plab mamlakatlar terrorizmdan xavotirda.",
+  "unofficial": "Ular norasmiy uchrashuv o'tkazishdi.",
+  "warfare": "Kiberurushda kompyuterlardan foydalaniladi."
+ },
+ "B2": {
+  "assault": "Onlayn hujum bir necha kun davom etdi.",
+  "await": "Mamlakat rasmiy bayonotni kutmoqda.",
+  "civilian": "Kasalxonalarga qilinadigan kiberhujumlar tinch aholi hayotini xavf ostiga qo'yishi mumkin.",
+  "cyberspace": "Mamlakatlar endi kibermakonda o'zlarini himoya qilishadi.",
+  "governing": "Boshqaruv organi qoidalarni belgilaydi.",
+  "hacker": "Xakerlar bosh sahifada xabar qoldirishdi.",
+  "in that respect": "Bu jihatdan yangi tizim eskisidan yaxshiroq.",
+  "information system": "Xakerlar hukumatning axborot tizimlariga hujum qilishdi.",
+  "registration": "Sayt izoh qoldirishdan oldin ro'yxatdan o'tishni talab qiladi.",
+  "specify": "Vazir nechta sayt buzib kirilganini aniq aytmadi.",
+  "speculate": "Jurnalistlar hujum xorijdan uyushtirilgan degan taxminlarni ilgari surishdi.",
+  "terrorism": "Veb-saytlarga qilinadigan hujumlar ba'zan kiberterrorizm deb ataladi.",
+  "unofficial": "Hujum norasmiy guruh tomonidan uyushtirilganga o'xshaydi.",
+  "warfare": "Kiberurush birorta ham o'q uzmasdan mamlakatga zarar yetkazishi mumkin."
+ },
+ "C1": {
+  "assault": "Muvofiqlashtirilgan hujum yigirmadan ortiq hukumat saytlarini ishdan chiqardi.",
+  "await": "Tergovchilar hali ham xakerlar qanday kirib olgani haqidagi to'liq hisobotni kutishmoqda.",
+  "civilian": "Banklar va elektr tarmoqlariga hujum qilinganda tinch aholi tobora ko'proq zarar ko'rmoqda.",
+  "cyberspace": "Kibermakon davlatlar o'rtasidagi to'qnashuvlarning yangi maydoniga aylandi.",
+  "governing": "Hukmron partiya mamlakatning onlayn xavfsizligini yaxshilashga va'da berdi.",
+  "hacker": "Xakerlar chegaradagi qotilliklar uchun qasos olayotganlarini da'vo qilishdi.",
+  "in that respect": "Bu jihatdan kiberhujumlar an'anaviy josuslikdan unchalik farq qilmaydi.",
+  "information system": "Zaif axborot tizimi xakerlar uchun ochiq eshikdir.",
+  "registration": "Ro'yxatga olish ma'lumotlari veb-sayt qayerda joylashganini ko'rsatdi.",
+  "specify": "Rasmiylar qaysi tizimlar zarar ko'rganini aniq aytishdan bosh tortishdi.",
+  "speculate": "Dalillarsiz xakerlarning niyatlari haqida taxmin qilish oqilona bo'lmaydi.",
+  "terrorism": "Hukumatlar kiberterrorizmning oldini olishga ko'proq mablag' sarflamoqda.",
+  "unofficial": "Norasmiy xakerlar guruhlari jiddiy zarar yetkazishi mumkin.",
+  "warfare": "Mutaxassislar kiberurush elektr va bank tizimlarini ishdan chiqarishi mumkinligi haqida ogohlantirmoqda."
+ },
+ "C2": {
+  "assault": "Muhim infratuzilmaga uzoq davom etadigan hujum zamonaviy iqtisodiyotni falaj qilib qo'yishi mumkin.",
+  "await": "Mintaqa hujum davlat homiyligida uyushtirilganmi yoki yo'qmi, degan masalada aniqlikni kutmoqda.",
+  "civilian": "Xalqaro huquq hatto kibermojarolarda ham tinch aholini himoya qilishni talab qiladi.",
+  "cyberspace": "Hukumatlar kibermakonda xulq-atvor qoidalari bo'yicha kelisha olmayapti.",
+  "governing": "Hozirda kibermakonda sodir bo'ladigan mojarolarni hech qanday boshqaruv organi tartibga solmaydi.",
+  "hacker": "Xakerlarni kuzatib topish qiyin, chunki ular ko'plab mamlakatlardagi kompyuterlar ortiga yashirinishi mumkin.",
+  "in that respect": "Bu jihatdan xalqaro huquq hali texnologiyadan ortda qolmoqda.",
+  "information system": "Milliy axborot tizimlarini himoya qilish endi mudofaa siyosatining asosiy qismiga aylandi.",
+  "registration": "Ro'yxatdan o'tishning qat'iyroq qoidalari xakerlarning anonim qolishini qiyinlashtirishi mumkin.",
+  "specify": "Qonunda nima kiberurush harakati hisoblanishi aniq belgilanmagan.",
+  "speculate": "Sharhlovchilar hujum avvalgi voqeaga javob sifatida uyushtirilgan bo'lishi mumkin, deb taxmin qilishdi.",
+  "terrorism": "Kiberterrorizmni ta'riflash qiyin, chunki hujumchilarning maqsadlari ko'pincha noaniq bo'ladi.",
+  "unofficial": "Hukumat norasmiy kiberfaollar bilan har qanday aloqasini rad etdi.",
+  "warfare": "Kiberjinoyat va davlat homiyligidagi urush harakatlari o'rtasidagi chegara tobora xiralashib bormoqda."
+ }
+});

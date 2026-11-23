@@ -1,0 +1,67 @@
+// Part 1 topic 0029: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0029', {
+ "B1": {
+  "accidentally": "U xabarni tasodifan boshqa odamga yuborib yubordi.",
+  "behind": "Orqamdagi kimdir telefonda gaplashayotgan edi.",
+  "by the way": "Aytgancha, kecha akangni ko'rdim.",
+  "care": "Unga boshqalarning nima deb o'ylashi baribir.",
+  "cell phone": "Amerikaliklar cell phone deyishadi, britaniyaliklar esa mobile deyishadi.",
+  "cellular": "Uyali aloqa tarmoqlari deyarli istalgan joydan qo'ng'iroq qilish imkonini beradi.",
+  "cellular phone": "Birinchi uyali telefonlar juda katta va og'ir edi.",
+  "make unnecessary": "Mobil telefonlar telefon budkalarini keraksiz qilib qo'ydi.",
+  "mine": "Sening telefoning menikidan yangiroq.",
+  "okay": "Mayli, ishdan keyin senga qo'ng'iroq qilaman.",
+  "phone call": "Bugun ertalab boshlig'imdan qo'ng'iroq bo'ldi.",
+  "ringing": "Kinoteatrda telefon jiringlashi hammani orqasiga o'girilishga majbur qildi.",
+  "turn off": "Uxlashga yotganimda telefonimni doim o'chirib qo'yaman.",
+  "weird": "Bir kunni telefonsiz o'tkazish g'alati tuyuldi."
+ },
+ "B2": {
+  "accidentally": "Ko'pchilik telefoni cho'ntagida turganida tasodifan kimgadir qo'ng'iroq qilib yuborgan.",
+  "behind": "Navbatda mening orqamda turgan ayol telefonda juda baland ovozda gaplashayotgan edi.",
+  "by the way": "Aytgancha, bugungi savolning javobi ko'rsatuv oxirida.",
+  "care": "Ba'zi telefon foydalanuvchilari baland ovozda gaplashishi atrofdagilarning g'ashiga tegayotganiga parvo qilmaydi.",
+  "cell phone": "U uyali telefonini taksida qoldirib ketdi va uni qaytarib ololmadi.",
+  "cellular": "Tog'larning ba'zi qismlarida uyali aloqa yo'q.",
+  "cellular phone": "Uyali telefon o'z nomini hududni qamrab oluvchi uyalar tarmog'idan olgan.",
+  "make unnecessary": "Onlayn bank xizmatlari bankka qilinadigan ko'plab tashriflarni keraksiz qilib qo'ydi.",
+  "mine": "Telefon jiringlaganda, men uning meniki ekan-emasligini tekshirdim.",
+  "okay": "Xo'sh, bugungi savol mobil telefon odobi haqida.",
+  "phone call": "U shoshilinch telefon qo'ng'irog'iga javob berish uchun tashqariga chiqishiga to'g'ri keldi.",
+  "ringing": "Yig'ilishlarda mobil telefonlarning baland jiringlashi juda qo'pollik hisoblanadi.",
+  "turn off": "Yo'lovchilardan parvoz vaqtida mobil telefonlarini o'chirib qo'yish so'raladi.",
+  "weird": "Telefonni hamma joyga olib yurishga shunchalik tez o'rganib qolganimiz g'alati."
+ },
+ "C1": {
+  "accidentally": "U tasodifan telefonini yoniq holda qoldirib ketdi va konsert paytida telefon baland ovozda jiringladi.",
+  "behind": "U orqasidagi o'rindiqda bo'layotgan telefon suhbatining har bir so'zini eshitib turardi.",
+  "by the way": "Aytgancha, ko'pchilik uyg'onganidan keyin bir necha daqiqa ichida telefonini tekshirishini ta'kidlab o'tish joiz.",
+  "care": "Odob-axloqqa chin dildan e'tibor beradiganlar qo'ng'iroqqa javob berishdan oldin tashqariga chiqishadi.",
+  "cell phone": "Uyali telefon nafaqat muloqot usulimizni, balki butun kunimizni qanday tashkil etishimizni ham o'zgartirdi.",
+  "cellular": "Uyali aloqa tarmoqlarining qishloq joylarga kengayishi ma'lumot olish imkoniyatini tubdan o'zgartirdi.",
+  "cellular phone": "Ilk uyali telefonlar shu qadar qimmat ediki, ularni faqat ishbilarmonlar sotib ola olardi.",
+  "make unnecessary": "Smartfonlar fotoapparatdan tortib budilnikkacha bo'lgan bir qator alohida qurilmalarni deyarli keraksiz qilib qo'ydi.",
+  "mine": "Har kim jiringlayotgan telefon o'ziniki deb ishonib cho'ntagiga qo'l uzatdi, lekin u meniki edi.",
+  "okay": "Xo'sh, davom etishdan oldin telefon odobi haqida nimalarni o'rganganimizni takrorlab olaylik.",
+  "phone call": "Ko'plab yoshlar endi telefon qilishdan ko'ra xabar yozishni afzal ko'radi, chunki qo'ng'iroqni bezovtalik deb bilishadi.",
+  "ringing": "Jamoat joylarida telefonlarning tinimsiz jiringlashi ba'zi muassasalarni ularni butunlay taqiqlashga undadi.",
+  "turn off": "Ko'pchilik hatto bir soatga ham telefonini o'chirib qo'yishni ajablanarli darajada qiyin deb biladi.",
+  "weird": "Ba'zilar uchun boshqalarning jamoat joyida telefonda shaxsiy masalalarni bemalol muhokama qilishi g'alati tuyuladi."
+ },
+ "C2": {
+  "accidentally": "Odamlar faqat bitta qabul qiluvchiga mo'ljallangan xabarlarni tasodifan boshqalarga ulashib yuborishi tufayli son-sanoqsiz noqulay vaziyatlar yuzaga kelgan.",
+  "behind": "Uzoq safarda tinimsiz qo'ng'iroq qiladigan odamning orqasida o'tirish hatto eng sabrli yo'lovchining ham sabrini sinashi mumkin.",
+  "by the way": "Aytgancha, boshlovchi bejirim ta'kidlaganidek, birinchi mobil qo'ng'iroq yarim asrdan ko'proq vaqt oldin amalga oshirilgan.",
+  "care": "Odamlar hali ham telefon odobiga e'tibor beradimi yoki shunchaki o'z kamchiliklarini sezmay qo'yganmi, bu ochiq savol bo'lib qolmoqda.",
+  "cell phone": "Bir avlod davomida mobil telefon rahbarlar uchun hashamatdan insonning ajralmas davomiga aylandi.",
+  "cellular": "Uyali aloqa texnologiyasi rivojlanayotgan mamlakatlarni bog'lash uchun simli aloqa infratuzilmasiga o'n yillar davomida kiritilgan sarmoyadan ham ko'proq ish qilgan, deyish mumkin.",
+  "cellular phone": "\"Cellular phone\" (uyali telefon) degan rasmiy atama kundalik nutqda qisqaroq shakllar bilan almashtirilib, asosan texnik va huquqiy hujjatlarda saqlanib qolgan.",
+  "make unnecessary": "Kamdan-kam texnologiyalar mobil telefonchalik qisqa vaqt ichida shuncha ko'p o'rnashgan odatlarni keraksiz qilib qo'ygan.",
+  "mine": "Gavjum xonada bir xil qo'ng'iroq ohanglari yangraganda, tomoshabinlar orasida \"meniki emasmi?\" degan savol to'lqindek tarqaladi.",
+  "okay": "\"Okay\" so'zi ingliz tilidagi suhbatlarda shu qadar keng tarqalganki, so'zlovchilar uni suhbatni boshqarish uchun qanchalik tez-tez ishlatishlarini deyarli sezmaydilar.",
+  "phone call": "Bir paytlar uzoq masofali muloqotning odatiy usuli bo'lgan oddiy telefon qo'ng'irog'i tobora ko'proq bezovtalik deb qabul qilinmoqda.",
+  "ringing": "Bir paytlar yo'lakda vaqti-vaqti bilan jiringlaydigan telefon ovozi bugun zamonaviy hayotning tinimsiz fon tovushiga aylandi.",
+  "turn off": "Telefonni o'chira olmaslik doimiy aloqada bo'lishni muhimlik bilan tenglashtiradigan madaniyatning ramziga aylandi.",
+  "weird": "Odamlar yonma-yon o'tirib, har biri alohida ekranga sho'ng'ib ketgan jamiyatda qandaydir g'alatilik bor."
+ }
+});

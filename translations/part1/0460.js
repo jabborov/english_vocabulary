@@ -1,0 +1,63 @@
+// Part 1 topic 0460: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0460', {
+ "B1": {
+  "Glenn": "Glenn Yer atrofini uch marta aylanib chiqdi.",
+  "VIP": "Yuqori martabali mehmonlar uchun maxsus xona bor.",
+  "back and forth": "Biz bir-birimizga elektron xatlar yuborib turdik.",
+  "circle round": "Oy Yer atrofida aylanadi.",
+  "fiftieth": "Ular to'yining ellik yilligini nishonlashdi.",
+  "known": "Glenn hamma joyda tanildi.",
+  "mouthful": "'Anniversary' so'zini talaffuz qilish biroz qiyin.",
+  "publicise": "Parvoz televideniyeda keng targ'ib qilindi.",
+  "space age": "Glenn kosmos asrining qahramoni edi.",
+  "sprightly": "U sakson yoshda ham hali tetik.",
+  "spring chicken": "U endi yosh emas, lekin sog'lom va baquvvat.",
+  "supremacy": "Ikki jamoa ustunlik uchun kurashdi.",
+  "touch on": "Ma'ruzada ko'plab mavzularga to'xtalib o'tildi."
+ },
+ "B2": {
+  "Glenn": "Keyinchalik Glenn AQSh senatori bo'ldi.",
+  "VIP": "Glenn tadbirning faxriy mehmoni edi.",
+  "back and forth": "To'p to'r ustidan u yoqdan-bu yoqqa borib kelardi.",
+  "circle round": "Glennning kapsulasi besh soatga yetmagan vaqt ichida sayyorani aylanib chiqdi.",
+  "fiftieth": "NASA parvozning ellik yilligini nishonladi.",
+  "known": "U ko'proq Yer atrofida orbita bo'ylab uchgani bilan tanilgan.",
+  "mouthful": "Dasturning to'liq nomini aytish ancha qiyin.",
+  "publicise": "NASA o'z yutuqlarini keng targ'ib qilish uchun ko'p harakat qildi.",
+  "space age": "Kosmik asr Yerga bo'lgan qarashimizni o'zgartirdi.",
+  "sprightly": "Tetik astronavt savollarga tabassum bilan javob berdi.",
+  "spring chicken": "To'qson yoshida Glenn, shubhasiz, yosh yigit emas edi.",
+  "supremacy": "Kosmik poyga ikki davlat o'rtasidagi ustunlik uchun kurash edi.",
+  "touch on": "Glenn intervyu davomida o'z qo'rquvlariga ham to'xtalib o'tdi."
+ },
+ "C1": {
+  "Glenn": "Glenn 1998-yilda 77 yoshida yana koinotga uchdi.",
+  "VIP": "Yubileyga siyosat va fan olamidan ko'plab nufuzli mehmonlar tashrif buyurdi.",
+  "back and forth": "Muhandislar uchirish xavfsizmi yoki yo'qmi, degan masalada uzoq bahslashishdi.",
+  "circle round": "Sun'iy yo'ldoshlar Yer atrofida juda katta tezlikda aylanadi.",
+  "fiftieth": "Ellik yillik yubileyda Glenn kosmik stansiyadagi astronavtlar bilan gaplashdi.",
+  "known": "Xavflar ma'lum edi, lekin Glenn baribir uchishni tanladi.",
+  "mouthful": "Missiyaning rasmiy nomi shunchalik uzun va talaffuzi og'ir ediki, hamma uni qisqartirib aytardi.",
+  "publicise": "Milliy g'ururni oshirish uchun missiya keng targ'ib qilindi.",
+  "space age": "Koinot asrining dastlabki davri xavf-xatar va hayajonga to'la edi.",
+  "sprightly": "Yoshi o'tganiga qaramay, Glenn hamon tetik va hozirjavob edi.",
+  "spring chicken": "U endi yosh yigit emas edi, shunga qaramay barcha tibbiy tekshiruvlardan o'tdi.",
+  "supremacy": "Glennning parvozi koinotdagi ustunlik uchun kurashda muhim qadam bo'ldi.",
+  "touch on": "Ko'rsatuv koinot poygasining siyosiy fonini faqat qisqacha tilga oldi."
+ },
+ "C2": {
+  "Glenn": "Glenn Sovuq urushning keskin davrida Amerika o'ziga ishonchining ramziga aylandi.",
+  "VIP": "Parvozidan keyin Glenn umrining oxirigacha VIP maqomidan bahramand bo'ldi.",
+  "back and forth": "G'oyalar ikki raqib dasturdagi olimlar o'rtasida u yoqdan-bu yoqqa almashib turardi.",
+  "circle round": "O'nlab yillik uchirishlar merosi sifatida hozir minglab obyektlar sayyora atrofida aylanib yuribdi.",
+  "fiftieth": "Ellik yillik yubiley koinot tadqiqotlari qanchalik oldinga siljiganini mulohaza qilishga undadi.",
+  "known": "Oradan o'nlab yillar o'tsa ham, Glenn kabi keng tanilgan astronavtlar kam.",
+  "mouthful": "Texnik jargon mavzuga yangi tinglovchilar uchun tilni sindiradigan darajada qiyin bo'lishi mumkin.",
+  "publicise": "Sovet raqiblaridan farqli o'laroq, amerikaliklar o'z uchirishlarini oldindan e'lon qilishni tanladi.",
+  "space age": "Biz har kuni foydalanadigan ko'plab texnologiyalar koinot asrining qo'shimcha mahsulotlaridir.",
+  "sprightly": "Uning tantanalardagi tetik ko'rinishi to'qson yoshda ekanini bildirmasdi.",
+  "spring chicken": "Yoshi ancha o'tib qolgani Glennga ikkinchi marta tarix yaratishiga to'sqinlik qilmadi.",
+  "supremacy": "Sovuq urush davridagi texnologik ustunlik uchun kurash fanga ulkan sarmoyalar kiritilishiga turtki bo'ldi.",
+  "touch on": "Hujjatli film astronavtlar duch kelgan xavflarga to'xtalib o'tadi, ammo ularni hech qachon to'liq yoritmaydi."
+ }
+});

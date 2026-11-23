@@ -1,0 +1,67 @@
+// Part 1 topic 0181: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0181', {
+ "B1": {
+  "IT": "Maktabimizda yangi axborot texnologiyalari xonasi bor.",
+  "PISA": "PISA natijalari har bir necha yilda e'lon qilinadi.",
+  "Singapore": "Singapurda juda yaxshi maktablar bor.",
+  "contentious": "Yangi imtihon qoidalari juda munozarali bo'ldi.",
+  "historically": "Mamlakat tarixan ta'limga kam mablag' sarflab kelgan.",
+  "international organisation": "Bir xalqaro tashkilot har uch yilda o'n besh yoshli o'quvchilarni sinovdan o'tkazadi.",
+  "keep apart": "Biz toza va iflos piyolalarni alohida saqlaymiz.",
+  "outpace": "Uning o'qishi tezda akasinikidan o'zib ketdi.",
+  "outperform": "Kichik maktablar ko'pincha kattalaridan yaxshiroq natija ko'rsatadi.",
+  "principal": "Direktor maktab qoidalarini o'zgartirdi.",
+  "school principal": "Maktab direktori mehmonlarni kutib oldi.",
+  "segregate": "Ular o'quvchilarni test natijalariga ko'ra ajratishadi.",
+  "service industry": "Xizmat ko'rsatish sohasiga yaxshi muloqot qila oladigan odamlar kerak.",
+  "upcoming": "Yaqinda e'lon qilinadigan natijalar dekabrda chop etiladi."
+ },
+ "B2": {
+  "IT": "Yaxshi IT ko'nikmalari ish topishga yordam beradi.",
+  "PISA": "So'nggi PISA reytingida Singapur birinchi o'rinni egalladi.",
+  "Singapore": "Singapurdagi o'quvchilar matematikadan juda yaxshi natija ko'rsatishadi.",
+  "contentious": "Turli mamlakatlardagi maktablarni solishtirish munozarali g'oyadir.",
+  "historically": "Tarixan Osiyo mamlakatlari matematika jadvallarida yetakchilik qilib kelgan.",
+  "international organisation": "Natijalarni Parijda joylashgan xalqaro tashkilot e'lon qiladi.",
+  "keep apart": "Ba'zi mamlakatlar akademik va amaliy yo'nalishdagi o'quvchilarni alohida o'qitishadi.",
+  "outpace": "O'qituvchilarga bo'lgan talab taklifdan o'zib ketdi.",
+  "outperform": "Estoniya o'quvchilari Yevropaning ko'plab yirikroq mamlakatlaridagi tengdoshlaridan yaxshiroq natija ko'rsatishadi.",
+  "principal": "Yangi direktor standartlarni tezda oshirdi.",
+  "school principal": "Yaxshi maktab direktori qoloq maktabni butunlay o'zgartirishi mumkin.",
+  "segregate": "Tanqidchilarning aytishicha, bolalarni o'n bir yoshda ajratib qo'yish noto'g'ri.",
+  "service industry": "Maktablar o'quvchilarni xizmat ko'rsatish sohasidagi ishlarga tayyorlashi kerak.",
+  "upcoming": "Ko'plab maktablar yaqinlashib kelayotgan reytinglardan xavotirda."
+ },
+ "C1": {
+  "IT": "Axborot texnologiyalari ta'limiga erta sarmoya kiritgan mamlakatlar hozir uning samarasini ko'rmoqda.",
+  "PISA": "Hukumatlar o'zlarining PISA ko'rsatkichlariga katta e'tibor beradi.",
+  "Singapore": "Butun dunyodan pedagoglar Singapurning usullarini o'rganish uchun u yerga tashrif buyuradi.",
+  "contentious": "Vazirning Osiyo o'qitish usullarini ko'chirish haqidagi bahsli qarori fikrlarni ikkiga bo'ldi.",
+  "historically": "Tarixan qoloq bo'lgan hududlar endi yetib olmoqda.",
+  "international organisation": "Tanqidchilarning fikricha, yaxshi ta'lim qanday bo'lishini xalqaro tashkilot hal qilmasligi kerak.",
+  "keep apart": "Bo'sh va kuchli o'quvchilarni bir-biridan ajratib qo'yish eng past o'rindagilarga zarar yetkazishi mumkin.",
+  "outpace": "Singapur o'quvchilari muntazam ravishda ancha boy davlatlardagi tengdoshlaridan o'zib ketadi.",
+  "outperform": "O'qituvchilar malakasini oshirishga sarmoya kiritadigan maktablar odatda bunday qilmaydiganlardan yaxshiroq natija ko'rsatadi.",
+  "principal": "Direktor maktabni inqirozdan olib chiqqani uchun maqtovga sazovor bo'ldi.",
+  "school principal": "Maktab direktori reytinglar o'quvchilarga haddan tashqari bosim o'tkazishini ta'kidladi.",
+  "segregate": "O'quvchilarni erta ajratib qo'yadigan tizimlar ko'pincha boy va kambag'al o'rtasidagi tafovutni kengaytiradi.",
+  "service industry": "Zavodlar yopilgach, xizmat ko'rsatish sohasi asosiy ish beruvchiga aylandi.",
+  "upcoming": "Kutilayotgan hisobot matematika bo'yicha ko'rsatkichlarning pasayishini ko'rsatishi taxmin qilinmoqda."
+ },
+ "C2": {
+  "IT": "Boy va kambag'al maktablardagi axborot texnologiyalari ta'limi o'rtasidagi tafovut tengsizlikni chuqurlashtirish xavfini tug'diradi.",
+  "PISA": "Tanqidchilarning fikricha, PISA ta'limni osonlikcha o'lchash mumkin bo'lgan narsalar bilan cheklab qo'yadi.",
+  "Singapore": "Singapurning muvaffaqiyati mashhur matematika darsliklari kabi o'qituvchilarni puxta tanlashga ham bog'liq.",
+  "contentious": "Har bir kishi o'z fikrini bildirishga haqli deb hisoblaydigan ta'lim kabi bahsli siyosat sohalari kam topiladi.",
+  "historically": "Tarixan milliy g'urur manbai bo'lgan narsa ballar pasaygani sari xavotir sababiga aylandi.",
+  "international organisation": "Reytinglar xalqaro tashkilot tomonidan yuritilsa-da, ular ko'pincha sof ichki siyosiy bahslarni qizdirish uchun ishlatiladi.",
+  "keep apart": "Turli ijtimoiy qatlamdan bo'lgan bolalarni bir-biridan ajratib qo'yadigan siyosat ijtimoiy bo'linishlarni avlodlar davomida mustahkamlab qo'yishi mumkin.",
+  "outpace": "Texnologik o'zgarishlar maktablarning o'quv dasturlarini moslashtirish imkoniyatidan o'zib ketdi.",
+  "outperform": "Nisbatan kambag'al mamlakatning boyroq davlatlardan ustun kela olishi faqat pul natija keltiradi, degan taxminni shubha ostiga qo'yadi.",
+  "principal": "O'qituvchilarga ishonadigan direktor odatda innovatsionroq maktab madaniyatini yaratadi.",
+  "school principal": "Tadqiqotlarga ko'ra, maktab direktorining kuchli rahbarligi sinf hajmidan ko'ra muhimroqdir.",
+  "segregate": "Dalillar shuni ko'rsatadiki, tizim o'quvchilarni qobiliyatiga ko'ra qanchalik kam ajratsa, uning natijalari shunchalik teng bo'ladi.",
+  "service industry": "Xizmat ko'rsatish sohasiga asoslangan iqtisodiyot an'anaviy imtihonlar kamdan-kam tekshiradigan ko'nikmalarni talab qiladi.",
+  "upcoming": "Siyosatchilar yaqinlashib kelayotgan ta'lim tahlilidan oldin o'z pozitsiyalarini egallab olmoqda."
+ }
+});

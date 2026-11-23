@@ -1,0 +1,67 @@
+// Part 1 topic 0250: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0250', {
+ "B1": {
+  "binging": "Shirinliklarni haddan tashqari ko'p yeyish sog'liqqa zarar.",
+  "equitable": "Kelishuv adolatli edi.",
+  "exit": "Favqulodda chiqish yo'lidan foydalaning.",
+  "expectancy": "Ular umid bilan kutishdi.",
+  "high life": "U dabdabali hayotdan zavqlandi.",
+  "impartial": "Bu xolis maslahat.",
+  "industrialise": "Ular tez sanoatlashdi.",
+  "life expectancy": "Ayollarning umr ko'rish davomiyligi uzoqroq.",
+  "moderately": "U me'yorida ichadi.",
+  "motto": "Maktabning shiori bor.",
+  "orange juice": "Bir stakan apelsin sharbati, iltimos.",
+  "path of least resistance": "U eng oson yo'lni tanladi.",
+  "swear": "U ko'k choyning foydasiga qattiq ishonadi.",
+  "thoroughly": "Uni sinchiklab tekshiring."
+ },
+ "B2": {
+  "binging": "Teleseriallarni to'xtovsiz tomosha qilish soatlab qimirlamay o'tirishni anglatishi mumkin.",
+  "equitable": "Ko'pchilik yanada adolatli sog'liqni saqlash tizimini xohlaydi.",
+  "exit": "Ozgina qo'shimcha jismoniy harakat uchun chiqishga zinadan boring.",
+  "expectancy": "\"Expectancy\" so'zi \"life expectancy\" (umr ko'rish davomiyligi) iborasida ishlatiladi.",
+  "high life": "To'yimli ovqat va kech tunlar bilan dabdabali hayot kechirish sog'liq uchun foydali emas.",
+  "impartial": "Hisobot xolis tashkilot tomonidan yozilgan.",
+  "industrialise": "Mamlakatlar sanoatlashgan sari, ular ko'pincha sog'liqni saqlash va sanitariyani yaxshilaydi.",
+  "life expectancy": "Yaponiyada umr ko'rish davomiyligi dunyodagi eng yuqorilar qatoriga kiradi.",
+  "moderately": "Me'yorida jismoniy mashq qiladigan odamlar ko'pincha uzoqroq yashaydi.",
+  "motto": "Uning shiori: \"Hamma narsada me'yor\".",
+  "orange juice": "Apelsin sharbati C vitaminiga boy, ammo unda shakar ham ko'p.",
+  "path of least resistance": "Nosog'lom ovqat yeyish ko'pincha eng oson yo'l bo'ladi.",
+  "swear": "Bobom kuniga bitta olmaning foydasiga qasamyod qiladi.",
+  "thoroughly": "Meva va sabzavotlarni yeyishdan oldin yaxshilab yuving."
+ },
+ "C1": {
+  "binging": "Dam olish kunlari spirtli ichimliklarni me'yoridan ortiq ichish sog'lig'ingizga zarar yetkazadi.",
+  "equitable": "Pul adolatli tarzda taqsimlanishi kerak.",
+  "exit": "Favqulodda chiqish yo'li binoning orqa tomonida.",
+  "expectancy": "Natijalar e'lon qilinishidan oldin intizorlik hissi bor edi.",
+  "high life": "Kino yulduzi hashamatli hayot kechirishi bilan mashhur edi.",
+  "impartial": "Hakam mutlaqo xolis bo'lishi kerak.",
+  "industrialise": "Britaniya sanoatlashgan birinchi mamlakat bo'ldi.",
+  "life expectancy": "Sog'liqni saqlashning yaxshilanishi o'rtacha umr ko'rish davomiyligini oshirdi.",
+  "moderately": "Mehmonxona o'rtacha darajada qimmat edi.",
+  "motto": "Kompaniyaning shiori har bir mahsulotda bosilgan.",
+  "orange juice": "U har kuni ertalab nonushtada apelsin sharbati ichadi.",
+  "path of least resistance": "Ko'p odamlar charchaganda eng oson yo'ldan boradi.",
+  "swear": "Ba'zi odamlar sog'liq uchun sovuq dushning foydasiga qasam ichib ishonadi.",
+  "thoroughly": "Olimlar ma'lumotlarni sinchiklab o'rganishdi."
+ },
+ "C2": {
+  "binging": "Vaqti-vaqti bilan me'yordan ortiq ichib-yeyish kundalik odatlarga qaraganda kamroq zararli bo'lishi mumkin, lekin baribir umr davomiyligiga ta'sir qiladi.",
+  "equitable": "Sog'liqni saqlash xizmatlaridan teng va adolatli foydalanish mamlakatdagi umr ko'rish davomiyligining eng kuchli ko'rsatkichlaridan biridir.",
+  "exit": "Ziyofatdan erta chiqib ketish uyqungiz va sog'lig'ingiz uchun foydali bo'lishi mumkin.",
+  "expectancy": "Demografik ma'noda kutilayotgan davomiylik o'rtacha ko'rsatkich bo'lib, ulkan individual farqlarni yashiradi.",
+  "high life": "Butun umr dabdabali hayot kechirish — yog'li ovqat, spirtli ichimlik va kam uyqu — sog'liqqa o'z ta'sirini o'tkazadi.",
+  "impartial": "Hukumatlar sog'liqni saqlash siyosatini ishlab chiqishda xolis tadqiqotlar hal qiluvchi ahamiyatga ega.",
+  "industrialise": "Jadal sanoatlashayotgan mamlakatlarda umr ko'rish davomiyligi ko'pincha oshadi, ammo ifloslanish bu yutuqlarning bir qismini yo'qqa chiqarishi mumkin.",
+  "life expectancy": "1900 yildan beri dunyo bo'yicha o'rtacha umr ko'rish davomiyligi ikki baravardan ko'proq oshdi, biroq bu yutuqlar notekis taqsimlangan.",
+  "moderately": "Spirtli ichimlikni me'yorida ichadigan yoki umuman ichmaydiganlar, odatda, uzoq muddatda sog'lomroq bo'ladi.",
+  "motto": "\"Tez yasha, yosh o'l\" umr ko'rish davomiyligini oshirish uchun shior bo'la olmasa kerak.",
+  "orange juice": "Yangi siqilgan apelsin sharbati to'yimli bo'lsa-da, unda ko'pchilik o'ylagandan ko'ra ko'proq shakar bor.",
+  "path of least resistance": "Sog'liqni saqlash siyosati sog'lom tanlovni eng oson yo'lga aylantirishga harakat qiladi.",
+  "swear": "Ko'plab yuz yoshlilar muayyan bir odatni qasam ichib maqtashadi, ammo fan kamdan-kam hollarda yagona sirni tasdiqlaydi.",
+  "thoroughly": "U hayotdan to'la-to'kis zavqlandi va shunga qaramay yuz yoshgacha yashadi."
+ }
+});

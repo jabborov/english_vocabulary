@@ -1,0 +1,59 @@
+// Part 1 topic 0214: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0214', {
+ "B1": {
+  "contest": "Ular kim haq ekani ustida tortishishdi.",
+  "expressive": "U gapirganda qo'llari juda ifodali harakatlanadi.",
+  "expressively": "U qo'llarini ifodali silkitdi.",
+  "fall out": "Ular pul masalasida urishib qolishdi.",
+  "gesticulate": "Erkak qo'llarini silkitib bekat tomonni ko'rsatdi.",
+  "in agreement": "Reja bo'yicha hamma bir fikrda edi.",
+  "let it go": "Jahlim chiqdi, lekin bunga e'tibor bermay qo'ya qoldim.",
+  "misperceive": "Odamlar tana tilini noto'g'ri qabul qilishi mumkin.",
+  "misunderstand": "U yo'l ko'rsatmalarini noto'g'ri tushundi.",
+  "nod": "Men bosh irg'ab, rahmat aytdim.",
+  "pa": "Dadam hech qachon yo'l so'ramaydi.",
+  "roll down": "U oynani tushirib, yo'l so'radi."
+ },
+ "B2": {
+  "contest": "Er-xotinlar ko'pincha qaysi biri yaxshiroq yo'l ko'rsatuvchi ekani ustida bahslashishadi.",
+  "expressive": "Ba'zi madaniyatlar imo-ishoralarda boshqalarga qaraganda ifodaliroq bo'ladi.",
+  "expressively": "U ko'plab imo-ishoralar qilib, yo'lni ifodali tushuntirib berdi.",
+  "fall out": "Er-xotinlar mashinada adashib qolishganda ko'pincha urishib qolishadi.",
+  "gesticulate": "Odamlar jahli chiqqanda yoki hayajonlanganda ko'pincha qo'llarini ko'proq silkitib gapirishadi.",
+  "in agreement": "Er-xotin nihoyat qaysi yo'ldan yurish haqida kelishib olishdi.",
+  "let it go": "Ba'zan bahslashmasdan, o'tib ketganini o'tib ketdi deb qo'ya qolgan ma'qul.",
+  "misperceive": "Haydovchilar do'stona qo'l silkitishni qo'pol imo-ishora deb noto'g'ri qabul qilishi mumkin.",
+  "misunderstand": "Sayyohlar ko'pincha mahalliy imo-ishoralarni noto'g'ri tushunishadi.",
+  "nod": "Ba'zi mamlakatlarda bosh irg'ash \"ha\" emas, \"yo'q\" degan ma'noni anglatishi mumkin.",
+  "pa": "Dadam to'xtab yo'l so'rashdan ko'ra bir soat aylanib yurishni afzal ko'radi.",
+  "roll down": "Notanish odamdan so'rash uchun oynani tushirish noqulay tuyulishi mumkin."
+ },
+ "C1": {
+  "contest": "U adashib qoldik, degan da'vosiga e'tiroz bildirdi.",
+  "expressive": "Ifodali tana tili bahsni aslidagidan jiddiyroq ko'rsatishi mumkin.",
+  "expressively": "Ifodali gapiradigan odamlarni tushunish ko'pincha osonroq bo'ladi.",
+  "fall out": "Bir-birining imo-ishoralarini noto'g'ri tushunish odamlarning arazlashib qolishiga olib kelishi mumkin.",
+  "gesticulate": "Mahalliy tilni bilmasangiz, qo'l harakatlari bilan tushuntirish yordam berishi mumkin.",
+  "in agreement": "Rozilik bildirib bosh irg'ash suhbatning ravon kechishiga yordam beradi.",
+  "let it go": "U sayohatni buzmaslik uchun bu masalani unutib yuborishga qaror qildi.",
+  "misperceive": "Birovning ohangini noto'g'ri qabul qilsak, janjal tezda boshlanib ketishi mumkin.",
+  "misunderstand": "Ba'zi madaniyatlarda oddiy bosh irg'ash noto'g'ri tushunilishi mumkin.",
+  "nod": "U bir og'iz ham tushunmagan bo'lsa-da, bosh irg'ab turaverdi.",
+  "pa": "\"Pa\" otani bildiruvchi norasmiy, biroz eskirgan so'zdir.",
+  "roll down": "U deraza oynasini tushirdi va xarita tomon ishora qildi."
+ },
+ "C2": {
+  "contest": "Har bir fikr ustida bahslashish o'rniga, ba'zan shunchaki qo'yib yuborgan ma'qul.",
+  "expressive": "Bir madaniyat ifodali deb qabul qiladigan narsani boshqasi tajovuzkor deb talqin qilishi mumkin.",
+  "expressively": "Ifodali gapirish til to'sig'ini yengishga yordam berishi mumkin, ammo uni noto'g'ri tushunishlari ham mumkin.",
+  "fall out": "Odamlar yo'l so'rash kabi arzimas narsa ustida qanchalik tez-tez urishib qolishlari hayratlanarli.",
+  "gesticulate": "Ko'p qo'l siltab gapiradigan odamlar ba'zan noto'g'ri ravishda tajovuzkor deb qabul qilinadi.",
+  "in agreement": "Janjallashishganiga qaramay, ular qayerga borishni xohlashlari bo'yicha umuman olganda bir fikrda edilar.",
+  "let it go": "Qachon qo'yib yuborishni bilish har qanday munosabatda qimmatli ko'nikmadir.",
+  "misperceive": "Tadqiqotlar shuni ko'rsatadiki, biz ko'pincha shunchaki diqqatini jamlagan yuzlarda g'azabni noto'g'ri ko'ramiz.",
+  "misunderstand": "Biz boshqalarning imo-ishoralari biznikiga o'xshash ma'noni anglatadi deb o'ylaganimizda ularni eng ko'p noto'g'ri tushunamiz.",
+  "nod": "Bosh irg'ash, ehtimol, eng keng tarqalgan imo-ishoradir, ammo hatto uning ma'nosi ham umumbashariy emas.",
+  "pa": "Ba'zi oilalarda hamon \"Pa\" deyiladi, garchi Britaniyada \"Dad\" ancha keng tarqalgan bo'lsa ham.",
+  "roll down": "U oynani tushirgan zahoti suhbat so'zlar va keskin imo-ishoralar aralashmasiga aylandi."
+ }
+});

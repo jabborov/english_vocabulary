@@ -1,0 +1,67 @@
+// Part 1 topic 0381: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0381', {
+ "B1": {
+  "clumping": "U etiklarini taqillatib kirib keldi.",
+  "curly": "Telefonning jingalak simi bor edi.",
+  "duplicate": "Iltimos, menga kvitansiyaning nusxasini yuboring.",
+  "follow up": "U qo'ng'irog'idan keyin qo'shimcha ravishda xat ham yubordi.",
+  "follow up on": "U ish e'loni yuzasidan qo'shimcha surishtiruv qildi.",
+  "landline": "Buvim va bobom faqat statsionar telefondan foydalanishadi.",
+  "patiently": "U shikoyatni sabr bilan tingladi.",
+  "sm": "U kechikayotganini aytish uchun qisqa SMS yubordi.",
+  "smartly": "U eshik tomon chaqqonlik bilan yurdi.",
+  "urgency": "Hech qanday shoshilinchlik yo'q.",
+  "voicemail": "Menda uchta yangi ovozli xabar bor.",
+  "waiting": "Shuncha kutishdan keyin ham avtobus kelmadi.",
+  "waiting list": "Bu maktabga navbat ro'yxati bor.",
+  "workmate": "Hamkasblarim juda samimiy."
+ },
+ "B2": {
+  "clumping": "Bolalar telefon tomon yugurganda dupur-dupur ovoz eshitildi.",
+  "curly": "Telefonda gaplashayotganimda jingalak simni barmog'imga o'rab o'ynardim.",
+  "duplicate": "Bizga hisobning nusxasi kelgan edi, shu sababli ikki marta to'lab qo'yishimizga sal qoldi.",
+  "follow up": "Ish suhbatidan keyin qo'shimcha xabar yuborib, qiziqishingizni bildirish odobdan hisoblanadi.",
+  "follow up on": "Menejer mijozning shikoyatini ko'rib chiqib, natijasini bildirishga va'da berdi.",
+  "landline": "Ko'plab yoshlarning uyida hech qachon statsionar telefon bo'lmagan.",
+  "patiently": "Odamlar ilgari do'stidan qo'ng'iroq kutib, telefon yonida sabr bilan o'tirishardi.",
+  "sm": "Matnli xabarlar statsionar telefon orqali qilinadigan ko'plab qo'ng'iroqlarning o'rnini egalladi.",
+  "smartly": "Kompaniya bozordagi o'zgarishga ustalik bilan javob qaytardi.",
+  "urgency": "Kechasi qilingan telefon qo'ng'irog'i har doim qandaydir shoshilinchlik tuyg'usini olib kelardi.",
+  "voicemail": "Ko'pchilik yoshlar ovozli xabar qoldirgandan ko'ra matnli xabar yuborishni afzal ko'radi.",
+  "waiting": "Endi kimdir qo'ng'iroq qilishini telefon yonida kutib o'tirishga hojat yo'q.",
+  "waiting list": "Ota-onam telefon o'rnatish uchun olti oy navbatda turishgan.",
+  "workmate": "U majlis haqida so'rash uchun hamkasbiga xabar yozdi."
+ },
+ "C1": {
+  "clumping": "Yuqori qavatdagi og'ir qadam tovushlari akamning uyga kelganini bildirdi.",
+  "curly": "Jingalak sim tufayli gaplashayotganda faqat bir necha qadam yura olardingiz.",
+  "duplicate": "Tizim telefoningizdagi takroriy kontaktlarni avtomatik ravishda o'chiradi.",
+  "follow up": "Shifokor kelasi hafta qo'shimcha tahlillar bilan davolashni davom ettiradi.",
+  "follow up on": "Jurnalistlar mish-mishni sinchiklab tekshirib, uning rost ekanini aniqlashdi.",
+  "landline": "Uy telefoniga keladigan qo'ng'iroqlar hozir asosan biror narsa sotmoqchi bo'lgan kompaniyalardan bo'ladi.",
+  "patiently": "Operator xalqaro qo'ng'iroqni qanday amalga oshirishni sabr bilan tushuntirdi.",
+  "sm": "Bir paytlar SMS xabarlar 160 belgi bilan cheklangan edi.",
+  "smartly": "U oqilona yo'l tutib, arzonroq mobil tarifga o'tdi va uy telefonidan voz kechdi.",
+  "urgency": "Doimiy bildirishnomalar soxta shoshilinchlik hissini yaratadi.",
+  "voicemail": "U telefonni ko'tarmadi, shuning uchun men qisqa ovozli xabar qoldirdim.",
+  "waiting": "Mobil telefonlar do'stlar bilan uchrashuvni kelishishdagi kutishni yo'q qildi.",
+  "waiting list": "Ba'zi hududlarda operatsiya uchun navbat kutish ro'yxati bir yildan oshishi mumkin.",
+  "workmate": "Ish hamkasblari bilan telefon qilishdan ko'ra onlayn suhbatlashish osonroq."
+ },
+ "C2": {
+  "clumping": "Eski uylar har bir dupurlagan qadam tovushini kuchaytirardi, shuning uchun dahlizda telefonda gaplashishda deyarli maxfiylik bo'lmasdi.",
+  "curly": "Ko'pchilik uchun jingalak telefon simi telefondagi oilaviy janjallarni nostalgiya bilan eslatadi.",
+  "duplicate": "Ma'lumotlar bazasidagi takroriy yozuvlar mijozlar ko'chib o'tganida chalkashlikka sabab bo'ldi.",
+  "follow up": "Sotuvchilar mijozning qiziqishi so'nishidan oldin u bilan zudlik bilan qayta bog'lanishga o'rgatiladi.",
+  "follow up on": "Dastlabki ogohlantirishlar yuzasidan choralar ko'rilmagani muammoning kattalashishiga imkon berdi.",
+  "landline": "Telekom kompaniyalari internetga asoslangan xizmatlar foydasiga eski statsionar telefon tarmoqlarini asta-sekin o'chirib bormoqda.",
+  "patiently": "Bugungi kunda kam odam biror narsani, ayniqsa xabarga javobni sabr bilan kutishga tayyor.",
+  "sm": "Matnli xabarlar (SMS) ning keng tarqalishi kundalik muloqot odobini tubdan o'zgartirdi.",
+  "smartly": "Mobil texnologiyalarga oqilona moslashgan firmalar omon qoldi; statsionar telefonlarga yopishib olganlari esa yo'q.",
+  "urgency": "Marketologlar teskari sanoq taymerlari va \"faqat bugun\" takliflari orqali ataylab shoshilinchlik hissini yaratadi.",
+  "voicemail": "Ba'zi kompaniyalar ovozli pochtadan butunlay voz kechdi, chunki xodimlar uni shunchaki hech qachon tekshirmagan.",
+  "waiting": "Bir paytlar masofadagi munosabatlarning o'ziga xos belgisi bo'lgan xabarni xavotir bilan kutish asosan o'tmishda qoldi.",
+  "waiting list": "Kasalxonalarga parvarish sifatini pasaytirmagan holda navbat ro'yxatlarini qisqartirish yuzasidan bosim o'tkazilmoqda.",
+  "workmate": "Ishdoshlar bilan yaqin do'stlik hatto stressli ishni ham chidab bo'ladigan qiladi."
+ }
+});

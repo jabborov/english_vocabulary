@@ -1,0 +1,63 @@
+// Part 1 topic 0351: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0351', {
+ "B1": {
+  "aftercare": "Televizorni sotuvdan keyingi xizmat ko'rsatish uchun shu yerdan sotib oldim.",
+  "bargain hunter": "Arzon narsa izlovchilar erta tongda yetib kelishdi.",
+  "catalogue": "Onam ilgari kiyimlarni katalogdan sotib olardi.",
+  "discount": "Bu hafta bu poyabzallarga chegirma qilingan.",
+  "festive": "Bayram mavsumida ko'pchilik ko'proq pul sarflaydi.",
+  "good deal": "Bu telefon rostdan ham foydali xaridmi?",
+  "newsagent": "Mahalladagi gazeta do'konimizda otkritka va shirinliklar ham sotiladi.",
+  "reassurance": "Mijozlar haqiqiy odam bilan gaplashish beradigan ishonchni yoqtirishadi.",
+  "see in": "U o'sha eski mashinada nimani yoqtirishini tushunmayman.",
+  "shop around": "Biz turli do'konlarni solishtirib, arzonroq televizor topdik.",
+  "showroom": "Mebel ko'rgazma zalida chiroyli divan ko'rdim.",
+  "tn": "\"tn\" qisqartma, lekin nimaning qisqartmasi?",
+  "voucher": "Bu vaucherdan oy oxirigacha foydalanishingiz mumkin."
+ },
+ "B2": {
+  "aftercare": "Do'kondan xarid qilish mahsulot buzilsa, yaxshiroq sotuvdan keyingi xizmatni anglatishi mumkin.",
+  "bargain hunter": "Arzon narx izlovchilar ilovalar yordamida narxlarni soniyalar ichida solishtirishadi.",
+  "catalogue": "Internetdan oldin ko'pchilik bosma kataloglardan xarid qilardi.",
+  "discount": "Onlayn do'konlar xarajatlari pastroq bo'lgani uchun ko'pincha kattaroq chegirmalar taklif qila oladi.",
+  "festive": "Do'konlar yillik foydasining katta qismini bayram savdolaridan olishga tayanadi.",
+  "good deal": "Ko'plab xaridorlar foydali xarid qilayotganiga ishonch hosil qilish uchun bir nechta veb-saytni tekshiradi.",
+  "newsagent": "Kichik gazeta do'konlari supermarketlar bilan raqobatlashishda qiynalmoqda.",
+  "reassurance": "Mahsulotni ushlab, sinab ko'rish xaridorlarda uning sifatli ekaniga ishonch uyg'otadi.",
+  "see in": "Odamlar mahsulotni do'konda ko'rib, keyin internetda arzonroq narx qidirishadi.",
+  "shop around": "Smartfonlar hali do'konda turganingizda narxlarni solishtirib ko'rishni osonlashtiradi.",
+  "showroom": "Ba'zilar do'konlarga ko'rgazma zali sifatida qarab, keyin internetdan sotib olishadi.",
+  "tn": "\"tn\" kabi ba'zi qisqartmalarni kontekstsiz tushunish qiyin.",
+  "voucher": "Do'kon mijozlarni qaytib kelishga undash uchun ularga vaucherlar yuboradi."
+ },
+ "C1": {
+  "aftercare": "Ko'plab xaridorlar ishonchli sotuvdan keyingi xizmat va oson qaytarish uchun biroz ko'proq to'lashga tayyor.",
+  "bargain hunter": "\"Showrooming\" oddiy xaridorlarni qat'iyatli arzon narx ovchilariga aylantirdi.",
+  "catalogue": "Kompaniyaning onlayn katalogida batafsil sharhlar bilan minglab mahsulotlar ro'yxati berilgan.",
+  "discount": "Ba'zi do'konlar endi internetda arzonroq narx ko'rsatgan mijozlarga darhol chegirma taklif qiladi.",
+  "festive": "Chakana savdogarlar bayram xaridorlari endi do'konning o'zida telefonlari orqali narxlarni solishtirayotganidan xavotirda.",
+  "good deal": "Onlayn foydali bitim bo'lib ko'ringan narsa yetkazib berish yoki sotuvdan keyingi xizmatni o'z ichiga olmasligi mumkin.",
+  "newsagent": "Muyulishdagi oilaviy gazeta do'koni qirq yildan ortiq vaqtdan beri shu ko'chaga xizmat ko'rsatib keladi.",
+  "reassurance": "Do'kondan qayta-qayta ishontirishlarga qaramay, u noutbuk o'ziga mos ekaniga hamon amin emasdi.",
+  "see in": "Do'kon egalari mijozlarga boshqa joydan sotib oladigan mollarini ushlab ko'rishga ruxsat berishda deyarli hech qanday foyda ko'rmaydi.",
+  "shop around": "Sug'urta uchun turli takliflarni solishtirib chiqqan iste'molchilar ko'pincha yiliga yuzlab funt tejashlari mumkin.",
+  "showroom": "\"Showrooming\" atamasi do'kondan onlayn xaridlar uchun shunchaki ko'rgazma zali sifatida foydalanish g'oyasidan kelib chiqqan.",
+  "tn": "Asl yozuv matnisiz \"tn\" nimani anglatgani haqida biror narsa deyish qiyin.",
+  "voucher": "Ba'zi chakana savdogarlar \"showroomer\"larni joyida xarid qilishga ko'ndirish uchun do'kon vaucherlarini taklif qiladi."
+ },
+ "C2": {
+  "aftercare": "Ko'cha do'konlari shaxsiy sotuvdan keyingi xizmat onlayn sotuvchilar tenglasha olmaydigan xizmatlardan biri ekanini ta'kidlaydi.",
+  "bargain hunter": "Chinakam arzon narx ovchisi uchun zavq oxir-oqibatdagi tejashda bo'lgani kabi izlashning o'zida ham.",
+  "catalogue": "Pochta orqali buyurtma kataloglari ma'lum ma'noda bugungi elektron tijorat platformalarining salaflari edi.",
+  "discount": "Tinimsiz chegirmalar qisqa muddatda xaridorlarni jalb qilishi mumkin, ammo savdogarning ustama foydasini jiddiy kamaytirishi mumkin.",
+  "festive": "Ko'plab yirik savdo tarmoqlari uchun bayramlar choragidagi past savdo omon qolish va yopilish o'rtasidagi farqni hal qilishi mumkin.",
+  "good deal": "Chakana savdogarlar tobora onlayn raqobatchilarning narxlariga tenglashtirmoqda, toki xaridorlar do'kondan chiqmasdan foydali xarid qilganini his qilsin.",
+  "newsagent": "Bosma nashrlar savdosi muttasil kamayib borayotgan sharoitda an'anaviy britaniyalik gazeta do'koni o'zini kundalik mahsulotlar do'koni sifatida qayta kashf qilishga majbur bo'ldi.",
+  "reassurance": "Qimmatbaho xaridlarda do'kondagi mutaxassis maslahati beradigan xotirjamlik onlayndagi arzonroq narx jozibasidan ustun kelishi mumkin.",
+  "see in": "Tanqidchilar shourumingda azaldan mavjud bo'lgan turli do'konlarni aylanib narx solishtirish odatining zamonaviy ko'rinishidan boshqa narsani ko'rmaydi.",
+  "shop around": "Shouruming aslida raqamli asrda narxlarni solishtirib xarid qilishning mantiqiy yakunidir.",
+  "showroom": "Ayrim chakana savdogarlar bu tendensiyani qabul qilib, do'konlarini mol saqlash joyi emas, balki zamonaviy ko'rgazma zallari sifatida qayta jihozladi.",
+  "tn": "Avtomatik vositalar yozuvdan so'zlar yoki qisqartmalarni kesib olganda ko'pincha \"tn\" kabi parchalar paydo bo'ladi.",
+  "voucher": "Xaridor do'konni aylanib yurganida uning telefoniga yuboriladigan raqamli vaucherlar onlayn raqobatchilarga qarshi tobora kuchayib borayotgan quroldir."
+ }
+});

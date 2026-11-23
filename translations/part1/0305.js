@@ -1,0 +1,67 @@
+// Part 1 topic 0305: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0305', {
+ "B1": {
+  "all too": "Ta'til juda ham qisqa bo'ldi.",
+  "closeness": "Yaqinlik vaqt talab qiladi.",
+  "connect up": "U karnaylarni ulab chiqdi.",
+  "filmmaker": "U kinorejissyor bo'lishni xohlaydi.",
+  "intimacy": "Telefonlar yaqinlikka zarar yetkazishi mumkin.",
+  "physiologically": "Stress bizga fiziologik jihatdan ta'sir qiladi.",
+  "physiology": "Bu inson fiziologiyasi.",
+  "portmanteau": "U eski chamadonni ko'tarib olgan edi.",
+  "portmanteau word": "\"Smog\" ham qo'shma-qisqartma so'zdir.",
+  "snub": "Bu mensimaslik edi.",
+  "snubbing": "Uning e'tiborsizlik qilishi qizga yoqmasdi.",
+  "techie": "Texnika bilimdonidan yordam so'rang.",
+  "tip over": "Qayiq ag'darilib ketdi.",
+  "word form": "\"Went\" so'zi \"go\"ning bir shaklidir."
+ },
+ "B2": {
+  "all too": "Telefoningiz jiringlaganda odamlarni e'tiborsiz qoldirish juda ham oson.",
+  "closeness": "Telefonsiz birga ovqatlanish oila a'zolari o'rtasidagi yaqinlikni oshiradi.",
+  "connect up": "Ijtimoiy tarmoqlar butun dunyodagi odamlarni bir-biriga bog'laydi.",
+  "filmmaker": "Kinorejissyor odamlardan telefondan foydalanish odatlari haqida intervyu oldi.",
+  "intimacy": "Haqiqiy yaqinlik vaqt va e'tibor talab qiladi.",
+  "physiologically": "Fiziologik jihatdan, e'tiborsiz qolish bizda stress uyg'otishi mumkin.",
+  "physiology": "Stress fiziologiyamizni ko'p jihatdan o'zgartiradi.",
+  "portmanteau": "\"Spork\" so'zi \"spoon\" va \"fork\" so'zlarining qo'shilmasidir.",
+  "portmanteau word": "\"Motel\" so'zi \"motor\" va \"hotel\" so'zlarining qo'shilishidan hosil bo'lgan qo'shma so'zdir.",
+  "snub": "Kechki ovqat paytida u xabarga javob bergach, ayol o'zini mensimaganlikdan ranjigandek his qildi.",
+  "snubbing": "Telefon tufayli suhbatdoshni e'tiborsiz qoldirish sherigingizni o'zini keraksiz his qilishga majbur qilishi mumkin.",
+  "techie": "Silikon vodiysidagi texnologiya mutaxassislari ko'pincha o'z farzandlarining ekran oldida o'tkazadigan vaqtini cheklaydi.",
+  "tip over": "Oddiy foydalanish asta-sekin zararliroq narsaga aylanib ketishi mumkin.",
+  "word form": "Lug'atda fe'lning turli so'z shakllari ko'rsatiladi."
+ },
+ "C1": {
+  "all too": "Juftliklarning telefon tufayli janjallashishi haqidagi hikoyalar juda ham tanish.",
+  "closeness": "Stolda telefonlar turganda juftliklar o'zaro yaqinlikni kamroq his qilganlarini aytishdi.",
+  "connect up": "Kun bo'yi tarmoqqa ulanib turish bizni hayratlanarli darajada yolg'iz his qildirishi mumkin.",
+  "filmmaker": "Yosh kinorejissyor bir oy ijtimoiy tarmoqlarsiz yashab, natijasini suratga oldi.",
+  "intimacy": "Tadqiqotlar telefondan doimiy foydalanish munosabatlardagi yaqinlikni kamaytirishini ko'rsatmoqda.",
+  "physiologically": "Tadqiqotchilar sherigi telefondan foydalanganda ishtirokchilar fiziologik jihatdan qanday javob berishini o'lchashdi.",
+  "physiology": "Qaramlik fiziologiyasi ko'plab turli odatlar uchun o'xshash.",
+  "portmanteau": "Bu atama ikki tanish so'zni birlashtirgan qo'shma-qisqartma so'zdir.",
+  "portmanteau word": "Yangi texnologiyalar \"phubbing\" kabi ko'plab qo'shma-qisqartma so'zlarni yuzaga keltiradi.",
+  "snub": "Kimdir gapirayotganda telefoningizni tekshirish uni mensimaslikdek tuyulishi mumkin.",
+  "snubbing": "\"Phubbing\" so'zi \"phone\" (telefon) va \"snubbing\" (mensimaslik) so'zlarini birlashtiradi.",
+  "techie": "Texnologiya ishqibozi sifatida u yangi gadjetlarni yaxshi ko'radi, lekin ularga qaram bo'lib qolmaslikka harakat qiladi.",
+  "tip over": "Odat qachon qaramlikka aylanib ketadi?",
+  "word form": "O'quvchilar so'zning ot, fe'l va sifat shakllarini bilishlari kerak."
+ },
+ "C2": {
+  "all too": "Ekranga bir qarash qanday qilib yarim soatlik varaqlashga aylanib ketishini biz juda yaxshi bilamiz.",
+  "closeness": "Hissiy yaqinlik e'tibor va ko'z bilan aloqadan o'sib chiqadi, telefonlar esa ikkalasini ham bo'lishi mumkin.",
+  "connect up": "Texnologiya milliardlab odamlarni bir-biriga bog'laydi, ammo ko'pchilik o'zini avvalgidan ham yolg'izroq his qilishini aytadi.",
+  "filmmaker": "Kinorejissyorning hujjatli filmi texnologiya munosabatlarimizni qanday shakllantirishi haqida bahs-munozaraga sabab bo'ldi.",
+  "intimacy": "Yaqinlik to'liq hozir bo'lishga bog'liq, ekran bizni doimo chalg'itib tursa, bunga erishish qiyin.",
+  "physiologically": "Fiziologik jihatdan miya har bir bildirishnomaga ozgina dofamin ajratish bilan javob beradi.",
+  "physiology": "Diqqat fiziologiyasini tushunish telefonlarni e'tiborsiz qoldirish nega shunchalik qiyinligini tushuntirishga yordam beradi.",
+  "portmanteau": "Lyuis Kerroll \"portmanteau\" so'zini birinchi bo'lib ikki ma'noni bittaga jamlagan so'z uchun ishlatgan.",
+  "portmanteau word": "Qo'shma-chatishma so'zlar ingliz tilida yangi ijtimoiy xatti-harakatlarni ifodalashning samarali usulidir.",
+  "snub": "Hatto kichik, beixtiyor e'tiborsizliklar ham vaqt o'tishi bilan to'planib, munosabatlarga zarar yetkazishi mumkin.",
+  "snubbing": "Tadqiqotlar suhbatdoshni telefon tufayli tez-tez e'tiborsiz qoldirishni munosabatlardan qoniqishning pastligi bilan bog'laydi.",
+  "techie": "Kinoyali tomoni shundaki, qaramlik uyg'otuvchi ilovalarni yaratgan ba'zi texnologiya mutaxassislari endi ulardan ogohlantirmoqda.",
+  "tip over": "Ekranlar bilan munosabatimiz biz sezmagan holda foydalidan zararliga o'tib ketishi mumkin.",
+  "word form": "O'zaro bog'liq so'z shakllarini tanib olish o'rganuvchilarga so'z boyligini tez kengaytirishga yordam beradi."
+ }
+});

@@ -1,0 +1,67 @@
+// Part 1 topic 0328: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0328', {
+ "B1": {
+  "aroma": "Xonani non hidi tutib ketdi.",
+  "awake": "Qahva meni bedor tutadi.",
+  "chewing gum": "Bu saqichning ta'mi yalpizga o'xshaydi.",
+  "espresso": "U har kuni ertalab espresso ichadi.",
+  "gum": "Milklarim og'riyapti.",
+  "indigestion": "Qahva hazmsizlikka olib kelishi mumkin.",
+  "insomnia": "Qahva uyqusizlikka sabab bo'lishi mumkin.",
+  "lethargic": "Issiq meni lanj qilib qo'yadi.",
+  "psychoactive": "Ba'zi o'simliklar psixoaktiv ta'sirga ega.",
+  "psychoactive drug": "Alkogol ham psixoaktiv moddadir.",
+  "stimulant": "Kofein yengil qo'zg'atuvchi moddadir.",
+  "waffle": "Nonushtaga vafli yedim.",
+  "withdrawal": "Qahvani tashlaganimda boshim og'riydi.",
+  "withdrawal symptom": "Charchoq abstinensiya alomatidir."
+ },
+ "B2": {
+  "aroma": "Ko'pchilik uchun qahvaning xushbo'y hidi lazzatning bir qismidir.",
+  "awake": "U uxlab qolmaslik uchun uch piyola qahva ichdi.",
+  "chewing gum": "Ba'zi askarlar hushyor qolish uchun kofeinli saqichdan foydalanadi.",
+  "espresso": "Bir espressoda katta filtr qahvaga qaraganda kamroq kofein bor.",
+  "gum": "Kofeinli saqich uzoq masofaga qatnaydigan haydovchilar orasida mashhur.",
+  "indigestion": "Ba'zilar juda ko'p qahva ichsa, oshqozoni buziladi.",
+  "insomnia": "Uyqusizlik haddan tashqari ko'p kofeinning keng tarqalgan nojo'ya ta'siridir.",
+  "lethargic": "Qahvasiz ko'p odamlar ertalab o'zini lanj his qiladi.",
+  "psychoactive": "Kofeinning psixoaktiv ta'siri qatoriga hushyorlikning oshishi kiradi.",
+  "psychoactive drug": "Kam odam qahvani psixoaktiv modda deb hisoblaydi.",
+  "stimulant": "Kofein kabi qo'zg'atuvchi moddalar sizni hushyorroq his qildiradi.",
+  "waffle": "Ezmalanishni bas qilib, javobni ayt.",
+  "withdrawal": "Abstinensiya odatda kofeinni to'xtatgandan keyin bir kun ichida boshlanadi.",
+  "withdrawal symptom": "Qahva ichuvchilar to'satdan ichishni to'xtatsa, abstinensiya alomatlaridan aziyat chekishi mumkin."
+ },
+ "C1": {
+  "aroma": "Ba'zi qahvaxo'rlarni birgina hidi ham tetiklashtiradi.",
+  "awake": "Kofein charchoq signallarini to'sib, odamlarga bedor turishga yordam beradi.",
+  "chewing gum": "Endilikda kofein saqich va yalpizli konfetlar kabi mahsulotlarga ham qo'shilmoqda.",
+  "espresso": "Italiyaliklar odatda espressoni bar peshtaxtasi yonida tik turib ichishadi.",
+  "gum": "Saqich kofeinning tezkor manbai bo'lishi mumkin.",
+  "indigestion": "Ovqat hazm qilishning buzilishi kofeinning kamroq ma'lum ta'sirlaridan biridir.",
+  "insomnia": "U qahvadan voz kechgunicha uyqusizlikdan aziyat chekdi.",
+  "lethargic": "Holsizlik kofeindan voz kechishning keng tarqalgan belgisidir.",
+  "psychoactive": "Qahvaning psixofaol xususiyatlari asrlar oldin payqalgan.",
+  "psychoactive drug": "Kofein dunyoda eng keng iste'mol qilinadigan psixofaol moddadir.",
+  "stimulant": "Ko'plab alkogolsiz ichimliklar tarkibida ham qo'zg'atuvchi moddalar bor.",
+  "waffle": "To'rtta espressodan keyin u soatlab bo'sh-bayov gapira boshlaydi.",
+  "withdrawal": "Voz kechish alomatlari bir necha kun davom etishi mumkin.",
+  "withdrawal symptom": "Voz kechish sindromining eng keng tarqalgan belgisi kuchli bosh og'rig'idir."
+ },
+ "C2": {
+  "aroma": "Yangi tuyilgan donlarning to'yingan xushbo'y hidi odatlangan ichuvchilarda kuchli intiqlik uyg'otadi.",
+  "awake": "Kechasi uyqusiz yotish kunning oxirida qahva ichishning odatiy oqibatidir.",
+  "chewing gum": "Kofeinli saqich og'iz orqali so'rilgani uchun moddani qahvadan tezroq yetkazib beradi.",
+  "espresso": "O'z kuchliligiga qaramay, bir porsiya espressoda katta krujka filtr qahvaga nisbatan ajablanarli darajada kam kofein bo'ladi.",
+  "gum": "Energetik saqich hech narsa ichmasdan kofein iste'mol qilishning bilintirmaydigan usulini taklif etadi.",
+  "indigestion": "Kuchli qahva oshqozon kislotasini ko'paytiradi, bu esa ayrim ichuvchilarda hazm buzilishiga olib kelishi mumkin.",
+  "insomnia": "Kofein bilan bog'liq surunkali uyqusizlik ko'pincha yetarlicha baholanmaydi, chunki uning ta'siri ko'p soat davom etadi.",
+  "lethargic": "Odatlangan ichuvchilar birinchi finjongacha o'zlarini lanj his qiladi, bu esa qaramlik haqida nimanidir anglatadi.",
+  "psychoactive": "Uning yengil psixoaktiv ta'siri qahva nima uchun shuncha madaniyatlarda markaziy o'rin egallaganini tushuntiradi.",
+  "psychoactive drug": "Ko'pchilik psixoaktiv moddalardan farqli o'laroq, kofein deyarli hamma joyda qonuniy va jamiyatda qabul qilingan.",
+  "stimulant": "Kofein qo'zg'atuvchi modda sifatida hushyorlikni oshiradi, ammo ta'sirchan odamlarda xavotirni ham kuchaytirishi mumkin.",
+  "waffle": "Boshlovchi uchinchi finjon qahvasini ayblab, mavzudan chetga chiqib ezmalik qilgani uchun uzr so'radi.",
+  "withdrawal": "Ko'pchilik qanchalik qaram ekanini faqat birinchi marta abstinensiyani boshdan kechirganida anglaydi.",
+  "withdrawal symptom": "Abstinensiya alomatlarining mavjudligi olimlar kofeinni yengil qaramlik keltiruvchi modda deb ta'riflashining sabablaridan biridir."
+ }
+});

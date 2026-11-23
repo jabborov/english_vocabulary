@@ -1,0 +1,59 @@
+// Part 2 topic 0042: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('2', '0042', {
+ "B1": {
+  "Yiddish": "Ba'zi inglizcha so'zlar idish tilidan kelib chiqqan.",
+  "articulate": "U savolga aniq va ravon javob berdi.",
+  "charmer": "Kichkina bola juda maftunkor, uni hamma yaxshi ko'radi.",
+  "establishment": "Ko'plab yoshlar hukmron tizimga qarshi kurashmoqchi edi.",
+  "likeable": "Filmning bosh qahramoni kulgili va yoqimtoy.",
+  "lively": "Bozor shanba kuni ertalab doim gavjum va jonli bo'ladi.",
+  "lover": "Bu festival rok musiqasi ixlosmandlari uchun ayni muddao.",
+  "pistol": "Poyga odam to'pponchadan o'q uzganda boshlanadi.",
+  "punk": "Pank musiqasi baland va tez.",
+  "spiel": "Har safar o'sha bir xil gaplarni eshitishdan charchadim.",
+  "spieler": "Unga ishonmang, u gapga usta, tilyog'lama odam.",
+  "stage name": "Ko'plab qo'shiqchilar haqiqiy ismi o'rniga sahna taxallusidan foydalanadi."
+ },
+ "B2": {
+  "Yiddish": "\"Spiel\", \"glitch\" va \"schmooze\" kabi so'zlar ingliz tiliga yahudiy (idish) tilidan kirgan.",
+  "articulate": "Qo'pol qiyofasiga qaramay, xonanda aqlli va fikrini juda ravon ifodalaydigan odam edi.",
+  "charmer": "Ehtiyot bo'l — u o'zi istagan narsasiga doim erishadigan maftunkor odam.",
+  "establishment": "Guruhning qo'shiqlari siyosiy hukmron doiralarni ochiqchasiga masxara qilardi.",
+  "likeable": "Siyosatchilar saylovchilarga yoqimli ko'rinishga astoydil harakat qilishadi.",
+  "lively": "Siyosat mavzusi ko'tarilganda bahs ancha qizg'in tus oldi.",
+  "lover": "San'at ixlosmandlari yangi ko'rgazmani ko'rish uchun soatlab navbatda turishdi.",
+  "pistol": "Askar belidagi g'ilofda to'pponcha olib yurgan edi.",
+  "punk": "Pank yoshlarga ishsizlikdan g'azabini ifoda etish imkonini berdi.",
+  "spiel": "Sotuvchi qancha pul tejashimiz haqidagi odatiy uzundan-uzoq nutqini boshlab yubordi.",
+  "spieler": "Bozordagi savdogar har kimga har narsani sota oladigan tug'ma ezma gapdon edi.",
+  "stage name": "U o'zining isyonkor qiyofasiga mos keladigan tajovuzkor sahna taxallusini tanladi."
+ },
+ "C1": {
+  "Yiddish": "Yahudiy tili (idish) norasmiy amerika va britaniya ingliz tiliga kutilmaganda boy ta'sir ko'rsatgan.",
+  "articulate": "Harakatning eng fikrini ravon ifoda eta oladigan tanqidchilari ko'pincha sobiq pankchilarning o'zlari edi.",
+  "charmer": "Tishini g'ichirlatuvchi sahna qiyofasi ortida jurnalistlarni o'ziga rom qilishga usta, ancha maftunkor inson yashiringan edi.",
+  "establishment": "Dastlab pank hukmron doiralar tomonidan qoralangan edi, ular uni jamoat axloqiga tahdid deb bildi.",
+  "likeable": "Barcha ig'vogarliklariga qaramay, u jamoatchilik nazarida g'alati darajada yoqimtoy shaxs bo'lib qoldi.",
+  "lively": "Pankning jo'shqin, betartib chiqishlari sayqallangan stadion rokini ataylab rad etish edi.",
+  "lover": "Hujjatli film ilk chiqishlardan noyob kadrlarni taqdim etib, pank muxlislarini xursand qiladi.",
+  "pistol": "O'zlariga to'pponcha nomini qo'yib, guruh ataylab tahdidli qiyofa yaratdi.",
+  "punk": "Pankning \"o'zing qil\" falsafasi mustaqil musiqachilarning o'z asarlarini yozib olish va tarqatish usulini tubdan o'zgartirdi.",
+  "spiel": "Saylovchilar davlat xizmatlarini yaxshilagan holda soliqlarni kamaytirish haqidagi tanish safsatalardan charchab qolishgan.",
+  "spieler": "Guruhning taniqli gapdon menejeri ovoz yozish kompaniyalarini deyarli har qanday narsaga ko'ndira olardi.",
+  "stage name": "Esda qolarli sahna taxallusi ijrochining brendi uchun uning musiqasi kabi muhim bo'lishi mumkin."
+ },
+ "C2": {
+  "Yiddish": "Yidish tilining so'zlashuv tili sifatida tanazzuli uning adabiyot va ommaviy jargondagi so'nmas merosi bilan qisman qoplandi.",
+  "articulate": "U urushdan keyingi davrning iqtisodiy va'dalari tomonidan aldangan deb hisoblagan avlodning so'zga chechan vakili edi.",
+  "charmer": "Mohir maftun qiluvchi bo'lgan u birgina o'zini kamsituvchi gap bilan hatto eng ashaddiy tanqidchilarini ham qurolsizlantira olardi.",
+  "establishment": "Kinoyali tomoni shundaki, ko'plab sobiq isyonchilar oxir-oqibat o'zlari bir paytlar qarshi chiqqan hukmron doiralarning o'ziga singib ketishdi.",
+  "likeable": "Uning sahnadan tashqaridagi yoqimli muomalasi chiqishlarida yaratgan to'qnashuvchan obraziga to'g'ri kelmasdi.",
+  "lively": "Shaharning jo'shqin musiqa hayoti ko'p jihatdan bir paytlar qiynalayotgan san'atkorlarni uning chekkalariga jalb qilgan arzon ijara haqiga qarzdor.",
+  "lover": "Janrning haqiqiy muxlislari uning keyingi tijoratlashuviga nostalgiya va nafrat aralash qarashga moyil.",
+  "pistol": "Keskin tovush chiqaradigan start to'pponchasi raqobatli sportning universal ramziga aylandi.",
+  "punk": "Tijorat jihatdan qisqa umr ko'rgan bo'lsa-da, pank moda, grafik dizayn va hokimiyatga munosabatda o'chmas iz qoldirdi.",
+  "spiel": "Yod olingan balandparvoz gaplaridan tozalangach, taklif mohiyatan juda kam narsa berishi ma'lum bo'ldi.",
+  "spieler": "Iqtidorli gap ustasi bo'lgan u musiqa biznesida yaxshi hikoya ko'pincha qo'shiqlardan ham muhimroq ekanini tushunardi.",
+  "stage name": "Sahna taxallusi uning obrazidan shu qadar ajralmas bo'lib qoldiki, kam muxlislar uning asl ismi Jon Laydon ekanini bilishardi."
+ }
+});

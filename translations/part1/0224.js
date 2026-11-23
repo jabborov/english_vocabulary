@@ -1,0 +1,63 @@
+// Part 1 topic 0224: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0224', {
+ "B1": {
+  "Norman": "Norman o'z hayoti haqida gapirib berdi.",
+  "couch": "U divanda uxlab qoldi.",
+  "daytime": "Boyqushlar kunduzi uxlaydi.",
+  "functioning": "Stress odatdagi faoliyatimizga ta'sir qiladi.",
+  "homework": "O'qituvchi bizga ko'p uy vazifasi berdi.",
+  "interrupt": "Men gapirayotganimda u doim gapimni bo'ladi.",
+  "marked": "Uning ishida sezilarli yaxshilanish ko'rindi.",
+  "medication": "Bu dori og'riqni qoldirishga yordam beradi.",
+  "neurologist": "Nevrolog uning miyasini tekshirdi.",
+  "psycho": "Film ruhiy kasal odam haqida.",
+  "psychoanalysis": "Psixoanaliz odamlarga suhbat orqali yordam beradi.",
+  "psychoanalytic": "Psixoanalitik terapiya yillab davom etishi mumkin.",
+  "upsetting": "Film unga juda og'ir botdi."
+ },
+ "B2": {
+  "Norman": "Normanning aytishicha, terapiya uning stressga qanday munosabatda bo'lishini o'zgartirgan.",
+  "couch": "Psixoanalitikning kushetkasi terapiyaning mashhur ramziga aylangan.",
+  "daytime": "Ko'p odamlar ish tufayli kunduzi terapiyaga borishga qiynalishadi.",
+  "functioning": "Terapiya odamlarga normal faoliyatga qaytishga yordam berishi mumkin.",
+  "homework": "Ba'zi terapiya turlarida bemorlar kundalik yuritish kabi uy vazifalarini bajarishadi.",
+  "interrupt": "Do'stlar ko'pincha maslahat berish uchun gapni bo'lishadi, terapevtlar esa shunchaki tinglashadi.",
+  "marked": "Ko'plab bemorlarda suhbat terapiyasidan keyin sezilarli yaxshilanish kuzatiladi.",
+  "medication": "Shifokorlar dori-darmon o'rniga terapiyani taklif qilishi mumkin.",
+  "neurologist": "Freyd faoliyatini Venada nevrolog sifatida boshlagan.",
+  "psycho": "\"Psix\" kabi so'zlar odamlarni ruhiy salomatlik haqida gapirishdan qo'rqitadi.",
+  "psychoanalysis": "Psixoanaliz \"suhbat orqali davolash\"ning birinchi shakli edi.",
+  "psychoanalytic": "Psixoanalitik g'oyalar ong haqidagi tasavvurlarimizni o'zgartirdi.",
+  "upsetting": "Terapevtlar odamlarga ko'ngilni xira qiladigan voqealar haqida gapirishga yordam beradi."
+ },
+ "C1": {
+  "Norman": "Ko'rsatuvda Norman gapira boshlash qanchalik qiyin bo'lganini tasvirlab beradi.",
+  "couch": "Freydning bemorlari bo'shashib, erkin gapira olishlari uchun kushetkada yotishgan.",
+  "daytime": "Kechasi yomon uxlash kunduzgi vaqtni toliqtiruvchi qilib qo'yishi mumkin.",
+  "functioning": "Shifokorlar bemorning ishda va uyda qanchalik faoliyat yurita olishini baholashadi.",
+  "homework": "Terapiyadagi \"uy vazifasi\" odamlarga yangicha fikrlash usullarini mashq qilishda yordam beradi.",
+  "interrupt": "Hech kim gapingizni bo'lmasdan gapira olish katta yengillik bo'lishi mumkin.",
+  "marked": "Do'st bilan gaplashish va terapevt bilan gaplashish o'rtasida sezilarli farq bor.",
+  "medication": "Ko'plab kasalliklarda dori-darmon va suhbat terapiyasining uyg'unligi eng yaxshi natija beradi.",
+  "neurologist": "Nevrolog miya va nervlarning jismoniy faoliyatini o'rganadi.",
+  "psycho": "\"Psixo-\" qo'shimchasi psixologiya va psixoanaliz kabi so'zlarda uchraydi.",
+  "psychoanalysis": "Tanqidchilarning fikricha, psixoanaliz mustahkam ilmiy asosga ega emas.",
+  "psychoanalytic": "Ongsizlik kabi ko'plab psixoanalitik tushunchalar endi kundalik tilning bir qismiga aylangan.",
+  "upsetting": "Terapiyada og'ir hodisalarni qayta eslash oxir-oqibat ularning ta'sirini kamaytirishi mumkin."
+ },
+ "C2": {
+  "Norman": "Normanning hikoyasi ko'plab erkaklar hamon psixologik yordam so'rashga qanchalik istamasligini ko'rsatadi.",
+  "couch": "Zamonaviy terapiyaning aksariyati yuzma-yuz o'tkazilsa-da, kushetka barqaror madaniy timsol bo'lib qolmoqda.",
+  "daytime": "Kunduzi boshqarsa bo'ladigandek tuyulgan xavotir kechasi bosib ketadigan darajaga yetishi mumkin.",
+  "functioning": "Davolanmagan depressiya kognitiv va ijtimoiy faoliyatni jiddiy izdan chiqarishi mumkin.",
+  "homework": "Kognitiv terapiyaning samaradorligi qisman bemorlarning seanslar orasida uy vazifalarini bajarishiga bog'liq.",
+  "interrupt": "Terapevtlar mijozlarga fikrlari qayerga olib borsa, o'sha yerga ergashish imkonini berib, ularning gapini bo'lmaslikka o'rgatiladi.",
+  "marked": "Tadqiqotlar to'liq terapiya kursini tugatganlar orasida alomatlarning sezilarli kamayganini qayd etadi.",
+  "medication": "Ba'zi bemorlar uzoq muddatli dori-darmonlarning nojo'ya ta'siridan xavotirlangani uchun suhbat terapiyasini afzal ko'rishadi.",
+  "neurologist": "Freydning nevrolog sifatidagi tajribasi uning ruhiy kasalliklarni ilmiy tushuntirishga bo'lgan ilk urinishlariga asos bo'ldi.",
+  "psycho": "\"Psixo\" kabi so'zlarning beparvo ishlatilishi aynan terapiya yo'q qilishga intilayotgan tamg'ani mustahkamlaydi.",
+  "psychoanalysis": "Psixoanaliz ommabopligini yo'qotgan bo'lsa-da, uning suhbatga urg'u berishi keyingi barcha terapiya shakllarini shakllantirdi.",
+  "psychoanalytic": "Zamonaviy terapiyalar tizimliroq bo'lsa-da, hamon psixoanalitik nazariyaga ko'p jihatdan qarzdor.",
+  "upsetting": "Og'ir xotiralarni muhokama qilish azobli bo'lsa-da, ulardan qochish iztirobni uzaytirishga moyil."
+ }
+});

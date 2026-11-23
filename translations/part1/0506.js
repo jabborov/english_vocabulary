@@ -1,0 +1,67 @@
+// Part 1 topic 0506: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0506', {
+ "B1": {
+  "Fahrenheit": "Suv 212 daraja Farengeytda qaynaydi.",
+  "back out": "U oxirgi daqiqada voz kechdi.",
+  "beyond doubt": "Uning halolligi shubhasiz.",
+  "blue sky": "Moviy osmon kayfiyatimizni ko'tardi.",
+  "cloudless": "Bir hafta davomida osmon musaffo, bulutsiz bo'ldi.",
+  "conditional": "Kredit yaxshi ishga ega bo'lish sharti bilan beriladi.",
+  "greenhouse effect": "Karbonat angidrid issiqxona effektini kuchaytiradi.",
+  "head in": "Bo'ron biz tomonga qarab kelmoqda.",
+  "life support": "Bemor sun'iy hayotni ta'minlash apparatiga ulandi.",
+  "out of whack": "Jadval izdan chiqib ketgan.",
+  "solar energy": "Quyosh energiyasi toza.",
+  "support system": "Oila – muhim tayanch tizimi.",
+  "swelter": "Sayyohlar issiq ko'chalarda jazirama issiqdan qiynalishdi.",
+  "trajectory": "Grafik o'sib boruvchi traektoriyani ko'rsatmoqda."
+ },
+ "B2": {
+  "Fahrenheit": "Shaharda harorat 100 daraja Farengeytdan oshdi.",
+  "back out": "Bir nechta davlat chiqindilarni kamaytirish haqidagi va'dasidan voz kechdi.",
+  "beyond doubt": "Olimlarning ta'kidlashicha, inson iqlimni o'zgartirayotgani shubhasiz.",
+  "blue sky": "Dam olish kunlari moviy osmon va quyoshli havo kutilmoqda.",
+  "cloudless": "Bulutsiz osmon yerga ko'proq quyosh nuri yetib borishiga imkon beradi.",
+  "conditional": "Prognoz mamlakatlarning chiqindilarni kamaytirishiga bog'liq.",
+  "greenhouse effect": "Ma'lum darajadagi issiqxona effekti bo'lmaganida, Yer hayot uchun juda sovuq bo'lardi.",
+  "head in": "Olimlarning aytishicha, harorat noto'g'ri yo'nalishda ketmoqda.",
+  "life support": "Sog'lom okeanlar Yerdagi hayotni ta'minlovchi tizimning bir qismidir.",
+  "out of whack": "Haddan ortiq karbonat angidrid iqlim tizimining muvozanatini buzishi mumkin.",
+  "solar energy": "Yerga yetib keladigan quyosh energiyasi miqdori ancha barqaror.",
+  "support system": "O'rmonlar sayyoramizning tabiiy hayotni ta'minlash tizimining bir qismidir.",
+  "swelter": "O'tgan yozda Yevropaning katta qismi rekord darajadagi jaziramadan qiynaldi.",
+  "trajectory": "Chiqindilar davom etsa, isish sur'ati yanada keskinlashadi."
+ },
+ "C1": {
+  "Fahrenheit": "Olimlar odatda haroratni Farengeyt emas, Selsiy bo'yicha ko'rsatadi.",
+  "back out": "Agar yirik ifloslantiruvchi davlat kelishuvdan voz kechsa, butun bitim barbod bo'lishi mumkin.",
+  "beyond doubt": "Dalillar u kishining aybsizligini hech qanday shubhasiz isbotladi.",
+  "blue sky": "Kompaniya o'z tadqiqot jamoasida erkin, ijodiy fikrlashni rag'batlantiradi.",
+  "cloudless": "Oddiy bulutsiz atmosferadan farqli o'laroq, bulutlarni modellashtirish qiyin.",
+  "conditional": "Iqlimshunoslar ularning bashoratlari aniq emas, balki shartli ekanini ta'kidlaydi.",
+  "greenhouse effect": "Qazilma yoqilg'ilarni yoqish issiqxona effektini kuchaytirdi.",
+  "head in": "Modellar iqlim qaysi yo'nalishda ketayotganini ko'rishga yordam beradi.",
+  "life support": "Olimlar atmosferani sayyoramizning hayotni ta'minlash tizimi deb atashadi.",
+  "out of whack": "Vaqt mintaqasi almashuvi tana soatingizni bir necha kun izdan chiqarishi mumkin.",
+  "solar energy": "Iqlim modellari quyosh energiyasining qancha qismi kosmosga qaytarilishini ham hisobga oladi.",
+  "support system": "Iqlim o'zgarishi insonlar tayanadigan qo'llab-quvvatlash tizimlariga tahdid solmoqda.",
+  "swelter": "Iqlim modellari uzoq davom etadigan jaziramalarda ko'proq shaharlar issiqdan qiynalishini bashorat qilmoqda.",
+  "trajectory": "Olimlar kelajakdagi chiqindilarga qarab turli traektoriyalarni modellashtiradi."
+ },
+ "C2": {
+  "Fahrenheit": "Selsiy va Farengeyt o'rtasida o'girish xalqaro yangiliklar o'quvchilarini chalg'itishi mumkin.",
+  "back out": "Xavflar ayon bo'lgach, investorlar kelishuvdan voz kechdi.",
+  "beyond doubt": "Tendensiya shubhasiz bo'lsa-da, kelajakdagi isishning aniq sur'atini bashorat qilish qiyinroq.",
+  "blue sky": "Iqlim muammosining ba'zi yechimlari hali nazariy g'oya bosqichida va amaliyotdan ancha yiroq.",
+  "cloudless": "Bulutsiz tun yulduzlarni tomosha qilish uchun ayni muddao edi.",
+  "conditional": "Uning universitetga qabul qilinishi imtihon natijalariga bog'liq.",
+  "greenhouse effect": "Iqlim modellari chiqindilar ortishi bilan issiqxona effekti qanday o'zgarishini hisoblab chiqadi.",
+  "head in": "Choralar ko'rilmasa, global chiqindilar talab qilinganining aksi tomonga qarab ketaveradi.",
+  "life support": "Inqirozga yuz tutgan bu soha hukumat subsidiyalari hisobiga sun'iy ravishda tirik saqlab kelinmoqda.",
+  "out of whack": "G'ayrioddiy ob-havo hodisalari fasllar izdan chiqayotganidan dalolat beradi.",
+  "solar energy": "Quyosh energiyasi narxining pasayishi uni qazilma yoqilg'i bilan raqobatbardosh qildi.",
+  "support system": "Kuchli qo'llab-quvvatlash tizimi bo'lmasa, ko'plab yangi talabalar birinchi yilda qiynaladi.",
+  "swelter": "Yo'lovchilar konditsionersiz to'xtab turgan poyezdda soatlab jaziramada qiynalishdi.",
+  "trajectory": "Birinchi kitobi muvaffaqiyat qozongach, uning karyerasi yuqoriga ko'tarilish yo'nalishida rivojlandi."
+ }
+});

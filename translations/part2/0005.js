@@ -1,0 +1,67 @@
+// Part 2 topic 0005: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('2', '0005', {
+ "B1": {
+  "apparently": "Aytishlaricha, erkaklar uy ishlarini aslida qilganidan ko'proq qilaman deb o'ylashar ekan.",
+  "conduct": "Olimlar savollarga javob topish uchun tadqiqot o'tkazishadi.",
+  "division of labour": "Uyimizda mehnat taqsimoti ancha teng.",
+  "fair share": "Oiladagi har bir kishi ishning o'ziga tegishli ulushini bajarishi kerak.",
+  "household chores": "Ovqat pishirish va tozalash kabi uy yumushlari ko'p vaqt oladi.",
+  "once again": "Uyga kelganimda oshxona yana ostin-ustun edi.",
+  "pulling their weight": "Bu uydagi hamma o'z zimmasidagi ishni bajarishni boshlashi kerak.",
+  "reasonable amount": "Bolalar uy ishlarining me'yoriy qismini bajarishi kerak.",
+  "scrubbing the toilet": "Unitazni ishqalab yuvish uyimizdagi eng yoqimsiz yumush.",
+  "stereotypically": "Mashinani tuzatish odatda erkaklar yumushi deb qaraladi.",
+  "sweep": "Iltimos, bog'dagi barglarni supurib bera olasizmi?",
+  "take a breather": "Bir soatlik ishdan keyin men biroz nafas rostlashim kerak.",
+  "to nag less": "Agar hamma yordam bersa, ota-onalarning kamroq jig'ibiyron qilishiga asos bo'ladi.",
+  "worksheet": "Iltimos, keyingi darsgacha ish varag'ini to'ldiring."
+ },
+ "B2": {
+  "apparently": "Aytishlaricha, so'rovnoma juftliklarning aksariyati idish yuvish ustida janjallashishini aniqlagan.",
+  "conduct": "Universitet juftliklar uy ishlarini qanday taqsimlashi bo'yicha tadqiqot o'tkazdi.",
+  "division of labour": "An'anaviy mehnat taqsimotiga ko'ra erkaklar ishga chiqqan, ayollar esa uyda qolgan.",
+  "fair share": "Ko'plab ayollar turmush o'rtoqlari uy ishlarida o'z ulushini bajarmaydi deb hisoblaydi.",
+  "household chores": "Tadqiqotlar ko'rsatishicha, uy yumushlarining asosiy qismini hamon ayollar bajaradi.",
+  "once again": "So'rovnoma yana bir bor o'n yil ichida deyarli hech narsa o'zgarmaganini ko'rsatdi.",
+  "pulling their weight": "O'smirlar ko'pincha uy ishlarida o'z ulushini bajarmaslikda ayblanadi.",
+  "reasonable amount": "U tozalashga yetarlicha vaqt sarflaydi, ammo kamdan-kam ovqat pishiradi.",
+  "scrubbing the toilet": "Hojatxonani yuvishga kam odam o'z ixtiyori bilan rozi bo'ladi, shuning uchun biz navbat bilan qilamiz.",
+  "stereotypically": "Bog'dorchilik va uyni o'zi ta'mirlash kabi ishlar stereotip bo'yicha erkaklar bilan bog'lanadi.",
+  "sweep": "Agar u idish yuvsa, u pollarni supurishga rozi bo'ldi.",
+  "take a breather": "Dazmol qilishga kirishishdan oldin u divanda biroz nafas rostladi.",
+  "to nag less": "U kamroq g'udranishga qaror qildi va buning o'rniga haftalik uy yumushlari jadvalini tuzdi.",
+  "worksheet": "Ish varag'ida o'quvchilardan uylarida har bir yumushni kim bajarishini sanab chiqish so'ralgan."
+ },
+ "C1": {
+  "apparently": "Uy yumushlari bo'yicha zohiran arzimas kelishmovchiliklar jiddiy nizoga aylanishi mumkin.",
+  "conduct": "So'rovnoma ikki ming xonadondan iborat reprezentativ tanlanma o'rtasida o'tkazildi.",
+  "division of labour": "Mehnatning adolatliroq taqsimlanishi munosabatlardan yuqoriroq qoniqish bilan bog'liq ekani aniqlangan.",
+  "fair share": "Uy ishlarining adolatli ulushi nima ekanligi haqidagi bahslar ko'pincha rollar haqidagi chuqurroq kelishmovchiliklarni aks ettiradi.",
+  "household chores": "Uy yumushlarining notekis taqsimlanishi oilaviy kelishmovchiliklarning doimiy manbai bo'lib qolmoqda.",
+  "once again": "Ma'lumotlar yana bir bor qarashlar va real xatti-harakatlar o'rtasidagi qaysar tafovutni tasdiqlaydi.",
+  "pulling their weight": "Sheriklardan biri ikkinchisi o'z zimmasidagi ishni bajarmayapti deb his qilsa, norozilik tezda to'planadi.",
+  "reasonable amount": "Uy ishlarining maqbul miqdori qancha ekanligi muqarrar ravishda subyektiv masaladir.",
+  "scrubbing the toilet": "Hojatxonani yuvib tozalash muntazam ravishda eng yoqimsiz uy yumushi deb topiladi.",
+  "stereotypically": "Stereotipik tarzda ayollarga xos yumushlar odatiy va kundalik bo'ladi, erkaklarniki esa vaqti-vaqti bilan bajariladi.",
+  "sweep": "Supurish va chang artish band oilalarda eng ko'p bajarilmay qoladigan yumushlar qatoriga kiradi.",
+  "take a breather": "Yosh bolali ota-onalar kamdan-kam hollarda nafas rostlash imkoniga ega bo'ladi.",
+  "to nag less": "Mas'uliyatni adolatli taqsimlaydigan juftliklar kamroq g'ash qiladi va kamroq janjallashadi.",
+  "worksheet": "Ish varag'i oiladagi gender rollari haqida mulohaza yuritishga undash uchun ishlab chiqilgan."
+ },
+ "C2": {
+  "apparently": "Garchi arzimasdek tuyulsa-da, idish yuvish mashinasini kim bo'shatishi masalasi kengroq noroziliklar ramziga aylanishi mumkin.",
+  "conduct": "O'z-o'zini baholashdagi tarafkashlikka yetarli e'tibor bermasdan o'tkazilgan tadqiqot asosliligi shubhali xulosalar berishi mumkin.",
+  "division of labour": "Mehnatning jinsga ko'ra taqsimoti, garchi susayib borayotgan bo'lsa-da, asr o'rtasidagi ko'rinishidan nozikroq shakllarda saqlanib qolmoqda.",
+  "fair share": "\"Adolatli ulush\" tushunchasi umuman teng bo'lmagan vazifalarni qanday baholash bo'yicha kelishuvni nazarda tutadi.",
+  "household chores": "Uy yumushlari haq to'lanmaydigan va deyarli ko'rinmas bo'lgani uchun iqtisodchilar mehnatni baholaydigan o'lchovlardan uzoq vaqt chetda qolib kelgan.",
+  "once again": "Tenglik haqidagi gaplar yana bir bor kundalik amaliyotning ancha sekin o'zgarishidan o'zib ketdi.",
+  "pulling their weight": "O'z ulushini bajarmayotganlikda ayblashlar kamdan-kam hollarda ayblovchining o'zi ko'tarib yurgan ko'rinmas aqliy yukni tan oladi.",
+  "reasonable amount": "Aniqlanmagan holda qoldirilgan \"oqilona miqdor\" iborasi yillab davom etadigan sokin kelishmovchilikka sabab bo'la oladi.",
+  "scrubbing the toilet": "Ko'plab xonadonlarda hojatxonani yuvish hamon ayollar zimmasida qolayotgani chuqur ildiz otgan me'yorlar haqida ko'p narsa aytadi.",
+  "stereotypically": "Odatiy tasavvurga ko'ra jinsga bog'langan uy ishlarining saqlanib qolishi tug'ma qobiliyatdan ko'ra ijtimoiy tarbiyani aks ettiradi.",
+  "sweep": "Muammoni, ta'bir joiz bo'lsa, gilam ostiga supurib qo'yish muqarrar oilaviy hisob-kitobni orqaga surish, xolos.",
+  "take a breather": "Ko'plab parvarishchilar uchun nafas rostlab olish imkoniyati shu qadar kamyob hashamatki, deyarli afsonadek tuyuladi.",
+  "to nag less": "Agar jig'ibiyronlikka sabab bo'layotgan nomutanosiblik saqlanib qolsa, kamroq jig'ibiyron qilishga ahd qilish befoyda.",
+  "worksheet": "Puxta tuzilgan topshiriq varag'i talabalar hech qachon o'ylab ko'rmagan farazlarni kutilmaganda chuqur muhokama qilishga undashi mumkin."
+ }
+});

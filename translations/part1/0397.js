@@ -1,0 +1,67 @@
+// Part 1 topic 0397: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0397', {
+ "B1": {
+  "auditory": "Filmda tovush effektlaridan foydalanilgan.",
+  "blub": "Film oxirida yig'lab yubordim.",
+  "catharsis": "Film uning uchun ruhiy poklanish bo'ldi.",
+  "daddy": "Men dadajonimni yaxshi ko'raman.",
+  "exile": "Qirol surgunda vafot etdi.",
+  "instantaneously": "U deyarli bir zumda javob berdi.",
+  "misty": "To'yda uning ko'zlari namlandi.",
+  "regrettable": "Uning ketib qolgani afsuslanarli.",
+  "run down": "Yomg'ir oyna bo'ylab oqib tushdi.",
+  "sob": "U xabarni eshitib, ho'ngrab yig'ladi.",
+  "sob story": "U bizga uzoq, achinarli voqeasini gapirib berdi.",
+  "spilt": "U polga suv to'kib yubordi.",
+  "tearjerker": "Bu kitob odamni yig'latadi.",
+  "weepy": "Bu film rostdan ham ko'z yoshlarga sabab bo'ladi."
+ },
+ "B2": {
+  "auditory": "G'amgin musiqa filmlarda kuchli eshituv signali hisoblanadi.",
+  "blub": "Aytishga uyalaman, kinoteatrda o'kirib yig'lab yubordim.",
+  "catharsis": "Ko'pchilik g'amgin filmdan keyin ruhan yengil tortganini his qiladi.",
+  "daddy": "Bola dadasini topadigan sahna hammani yig'latdi.",
+  "exile": "Film qahramoni yillar davomida surgunda yashaydi.",
+  "instantaneously": "G'amgin musiqa bir zumda kayfiyatimni tushirib yubordi.",
+  "misty": "Bu filmning oxirida hatto qattiqqo'l odamlarning ham ko'zlari yoshlanadi.",
+  "regrettable": "Qahramonning afsuslanarli tanlovi fojiali yakunga olib keladi.",
+  "run down": "So'nggi sahnaga kelib, yonoqlarimdan yosh oqa boshladi.",
+  "sob": "Film oxiriga kelib tomoshabinlarning yarmi o'ksib yig'lardi.",
+  "sob story": "Tanqidchilar filmni arzon, ko'z yoshiga chaqiruvchi hikoya deb rad etishdi.",
+  "spilt": "To'kilgan sut uchun yig'lama, bo'lar ish bo'ldi.",
+  "tearjerker": "Barcha davrlarning eng sevimli filmlarining ko'pchiligi yig'latuvchi filmlardir.",
+  "weepy": "Romantik yig'latuvchi filmlar tomoshabinlar orasida juda mashhur."
+ },
+ "C1": {
+  "auditory": "Miyaning eshitish bilan bog'liq qismi hissiyotli musiqaga kuchli javob beradi.",
+  "blub": "Filmda it o'lganda u ochiqchasiga ho'ng-ho'ng yig'ladi.",
+  "catharsis": "Qayg'usi haqida yozish uning uchun ruhiy poklanishning bir shakli edi.",
+  "daddy": "Poyezd vokzaldan jo'nab ketayotganda u \"Dadajon!\" deb qichqirdi.",
+  "exile": "Ko'plab yozuvchilar surgundagi hayotning yolg'izligini tasvirlagan.",
+  "instantaneously": "Miyamiz qiyin ahvoldagi odamlar tasvirlariga bir zumda munosabat bildiradi.",
+  "misty": "Eski suratlar buvimning ko'zlarini doim yoshlantiradi.",
+  "regrettable": "Bu go'zal filmni juda kam odam ko'rgani afsuslanarli.",
+  "run down": "U kinoteatrda yuzidan oqib tushayotgan ko'z yoshlarini yashirishga urindi.",
+  "sob": "Qahramonning o'limida u o'zini tutolmay ho'ngrab yig'ladi.",
+  "sob story": "U ishdan qochib qolish uchun ko'ngilni yumshatadigan achinarli hikoya to'qib chiqardi.",
+  "spilt": "Kimdir kinoteatr poliga popkorn to'kib yuborgan edi.",
+  "tearjerker": "Ro'molcha olib oling, bu film chindan ham yig'latadi.",
+  "weepy": "Studiya eskicha ko'z yoshi to'kdiradigan filmlar yaratishi bilan mashhur."
+ },
+ "C2": {
+  "auditory": "Kinoijodkorlar hissiyotni kuchaytirish uchun torli cholg'ularning avjga chiqishi kabi eshitish signallaridan foydalanadi.",
+  "blub": "Film ko'rib piq-piq yig'lashda uyat narsa yo'q; bu shunchaki hikoya sizni ta'sirlantirganini ko'rsatadi.",
+  "catharsis": "Qadimgi yunonlar tragediya tomoshabinlarga achinish va qo'rquvdan katarsis, ya'ni ruhiy poklanish baxsh etadi, deb hisoblagan.",
+  "daddy": "Yo'qolgan dadasini qidirayotgan bolalar haqidagi filmlar bizning eng chuqur qo'rquvlarimizga ta'sir qiladi.",
+  "exile": "Filmda surgun va vatan sog'inchining tasvirlanishi tomoshabinlarni ko'z yoshlarga cho'mdirdi.",
+  "instantaneously": "Filmga hissiy munosabat deyarli bir zumda, biz u haqda ongli ravishda mulohaza yuritishimizdan ancha oldin paydo bo'ladi.",
+  "misty": "Filmning sokin yakuniy sahnasi ko'plab tajribali tanqidchilarning ham kutilmaganda ko'zlarini namlantirdi.",
+  "regrettable": "Eng ta'sirli filmlar ko'pincha ortga qaytarib bo'lmaydigan birgina afsuslanarli qarorga asoslanadi.",
+  "run down": "Kamdan-kam film butun zaldagi tomoshabinlarning yuzidan ko'z yoshlarini oqizishga qodir, ammo bu film shunga erishdi.",
+  "sob": "Qorong'i kinozalda odamlarning birgalikda o'kirib yig'layotganini ko'rish hikoyalar bizni qanchalik kuchli birlashtira olishini ochib beradi.",
+  "sob story": "Haqiqiy g'amgin film ko'z yoshlariga munosib bo'ladi; oddiy achinarli hikoya esa tomoshabinni yig'lashga majburlab, manipulyatsiya qiladi.",
+  "spilt": "Filmning g'oyasi shu ediki, afsuslanish befoyda; to'kilgan sut uchun yig'lashdan naf yo'q.",
+  "tearjerker": "Studiyalar o'z vaqtida chiqarilgan yig'latadigan film jangari blokbaster kabi daromadli bo'lishi mumkinligini biladi.",
+  "weepy": "Mohirona suratga olingan ko'zyoshli film komediyalar kamdan-kam beradigan qoniqarli hissiy yengillikni taqdim etishi mumkin."
+ }
+});

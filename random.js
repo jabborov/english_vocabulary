@@ -4,15 +4,15 @@
 (function(){
   // Part 1 = data_part1.js / examples_part1.js, Part 2 = data.js / examples.js
   const PARTS = [
-    { part: '1', data: window.VOCAB_DATA_PART1 || {}, examples: window.VOCAB_EXAMPLES_PART1 || {}, uz: { B1: window.VOCAB_TR_B1_PART1 || {}, B2: window.VOCAB_TR_B2_PART1 || {} } },
-    { part: '2', data: window.VOCAB_DATA || {}, examples: window.VOCAB_EXAMPLES || {}, uz: { B1: window.VOCAB_TR_B1 || {}, B2: window.VOCAB_TR_B2 || {} } }
+    { part: '1', data: window.VOCAB_DATA_PART1 || {}, examples: window.VOCAB_EXAMPLES_PART1 || {} },
+    { part: '2', data: window.VOCAB_DATA || {}, examples: window.VOCAB_EXAMPLES || {} }
   ];
   const LEVELS = ['A1','A2','B1','B2','C1','C2'];
 
   // Flatten every topic of both parts into one pool: [{ part, examples, topicKey, topicTitle, item }]
   const pool = [];
   PARTS.forEach(P => Object.keys(P.data).forEach(k => P.data[k].words.forEach(item =>
-    pool.push({ part: P.part, examples: P.examples, uz: P.uz, topicKey: k, topicTitle: P.data[k].title, item })
+    pool.push({ part: P.part, examples: P.examples, topicKey: k, topicTitle: P.data[k].title, item })
   )));
   if(!pool.length) return;
 
@@ -25,10 +25,9 @@
     const set = (entry.examples[entry.topicKey] || {})[it.w];
     const idx = LEVELS.indexOf(level);
     const ex = (idx >= 0 && set && set[idx]) || it.ex;
-    const uz = ((entry.uz[level] || {})[entry.topicKey] || {})[it.w];
     return {
-      // Uzbek translation only while a translated level (B1 or B2) is selected.
-      uzex: (uz && set && idx >= 0 && ex === set[idx]) ? uz : null,
+      // Index of the level whose example is on screen (-1 = original example); used for the Uzbek translation.
+      shownIdx: (idx >= 0 && set && ex === set[idx]) ? idx : -1,
       en: it.tr ? it.def : null,
       uz: it.tr || it.def,
       ex, level: (idx >= 0 && set && set[idx]) ? level : null
@@ -147,13 +146,22 @@
     $('rw-uz').textContent = f.uz;
     $('rw-ex-label').textContent = f.level ? `Example · ${f.level}` : 'Example';
     $('rw-ex').textContent = f.ex;
-    const uzex = $('rw-uzex');
-    uzex.className = f.uzex ? 'rw-uzex has' : 'rw-uzex';
-    uzex.innerHTML = '';
-    if(f.uzex){
-      const u = document.createElement('div');
-      u.innerHTML = '<i class="lbl">UZ</i>'; u.appendChild(document.createTextNode(f.uzex));
-      uzex.appendChild(u);
+    // Uzbek translation (B1–C2 only). The topic's file is loaded on demand the first time.
+    const fillUz = data => {
+      const uz = f.shownIdx >= 0 ? ((data || {})[LEVELS[f.shownIdx]] || {})[it.w] : null;
+      const uzex = $('rw-uzex');
+      uzex.className = uz ? 'rw-uzex has' : 'rw-uzex';
+      uzex.innerHTML = '';
+      if(uz){
+        const u = document.createElement('div');
+        u.innerHTML = '<i class="lbl">UZ</i>'; u.appendChild(document.createTextNode(uz));
+        uzex.appendChild(u);
+      }
+    };
+    const cached = window.getTopicTranslations ? window.getTopicTranslations(entry.part, entry.topicKey) : null;
+    fillUz(cached);
+    if(!cached && f.shownIdx >= 0 && window.loadTopicTranslations){
+      window.loadTopicTranslations(entry.part, entry.topicKey).then(d => { if(lastIndex === i) fillUz(d); });
     }
     $('rw-oxford').href = oxfordUrl(it.w);
 

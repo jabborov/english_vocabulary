@@ -1,0 +1,67 @@
+// Part 1 topic 0357: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0357', {
+ "B1": {
+  "Rupert": "Rupert odob-axloq qoidalari haqida ko'p narsa biladi.",
+  "Samuel": "Semyuel kundaligida taomlar haqida yozgan.",
+  "across": "Stolning narigi tomoniga qo'l cho'zmang.",
+  "burp": "U ichimligidan keyin baland ovozda kekirdi.",
+  "chewing": "Og'izni ochib chaynash odobsizlikdir.",
+  "clink": "Ular qadahlarini bir-biriga urishtirishdi.",
+  "cutlery": "U qoshiq-vilkalarni likopchalar yoniga qo'ydi.",
+  "drinking glass": "Bizga ko'proq ichimlik stakanlari kerak.",
+  "glass in": "Tost uchun hammaning qo'lida qadah bor edi.",
+  "lap": "U tizzasiga kitob qo'yib o'tirdi.",
+  "make peace": "Aka-ukalar janjaldan keyin yarashishdi.",
+  "napkin": "U og'zini salfetka bilan artdi.",
+  "picky": "Tanlab ovqatlanadiganlar yangi taomlarni yoqtirmaydi.",
+  "slop": "U choyni ko'ylagiga to'kib yubordi."
+ },
+ "B2": {
+  "Rupert": "Rupert dasturxon atrofida qaysi odatlar qo'pollik ekanini tushuntiradi.",
+  "Samuel": "Samuelning kundaligi bizga uning davridagi dasturxon odobi haqida ko'p narsa aytib beradi.",
+  "across": "Boshqalarning ustidan qo'l cho'zgandan ko'ra, ovqatni uzatib yuborishni so'rash odobliroq.",
+  "burp": "Ba'zi madaniyatlarda ovqatdan keyin kekirish taomdan zavq olganingizni bildiradi.",
+  "chewing": "Ovoz chiqarib chaynash dasturxon atrofidagi eng g'ashga tegadigan odatlardan biridir.",
+  "clink": "Odamlar qadah so'zi aytishdan oldin ko'pincha qadahlarni jaranglatib urishtiradi.",
+  "cutlery": "Rasmiy kechki ovqatlarda vilka-pichoqlardan tashqaridan ichkariga qarab foydalaniladi.",
+  "drinking glass": "Vino qadahlari uzun oyoqchali ichimlik idishlaridir.",
+  "glass in": "Kechki ovqat tortilishidan oldin mehmonlar qo'llarida qadah bilan aralashib suhbatlashishdi.",
+  "lap": "Odob qoidalariga ko'ra, salfetkani tizzangizda ushlab turishingiz kerak.",
+  "make peace": "Oilalar ko'pincha bayram dasturxonida yarashib olishadi.",
+  "napkin": "Yaxshi restoranda salfetkalar matodan tayyorlangan bo'ladi.",
+  "picky": "Ziyofatda ovqat tanlaydigan injiq odam bo'lish noqulay bo'lishi mumkin.",
+  "slop": "Qadahlarni urishtirayotganda ichimligingizni chayqatib to'kib yubormaslikka harakat qiling."
+ },
+ "C1": {
+  "Rupert": "Rupertning fikricha, odob-axloq qoidalardan ko'ra boshqalarga nisbatan e'tiborli bo'lish bilan bog'liq.",
+  "Samuel": "Semyuel Pepis o'zining mashhur kundaligida dabdabali ziyofatlarni jonli tafsilotlar bilan tasvirlagan.",
+  "across": "Rasmiy ziyofatda stolning narigi tomonidagi do'stga baqirib gapirish qo'pollik hisoblanadi.",
+  "burp": "Kekirish qo'pollik yoki oshpazga maqtov sifatida qabul qilinishi ko'p jihatdan qayerda ekaningizga bog'liq.",
+  "chewing": "Bolalarga yoshligidanoq chaynayotganda og'zini yopiq tutish o'rgatiladi.",
+  "clink": "Nega qadahlarni jiringlatib urishtirishimiz haqida ko'plab nazariyalar bor, ammo ularning hech biri aniq emas.",
+  "cutlery": "Rasmiy ziyofatda har bir taom uchun qaysi oshxona anjomidan foydalanishni bilish chalkash bo'lishi mumkin.",
+  "drinking glass": "Turli ichimliklar an'anaga ko'ra turli shakldagi ichimlik stakanlarida tortiladi.",
+  "glass in": "Qadahlarni urishtirganda qo'lingizdagi qadahni ko'tarib, suhbatdoshning ko'ziga qarash odobdan.",
+  "lap": "Televizor oldida tizzada patnisda kechki ovqat yeyish ko'plab uylarda odatiy holga aylangan.",
+  "make peace": "Birga non sindirish azaldan dushmanlarning yarashishining ramziy usuli bo'lib kelgan.",
+  "napkin": "Salfetkani yoqaga qistirib qo'yish bir paytlar odatiy hol bo'lgan, ammo hozir eskicha hisoblanadi.",
+  "picky": "Mezbonlar ko'pincha yoqtirmaydigan narsalari ro'yxati uzun bo'lgan injiq mehmonlar uchun ovqat pishirishdan xavotirlanishadi.",
+  "slop": "Haddan tashqari to'la kosalarni ko'tarib ketayotgan ofitsiant patnis ustiga sho'rvani to'kib yubordi."
+ },
+ "C2": {
+  "Rupert": "Rupertning fikricha, dasturxon odobi doimiy rivojlanib, jamiyatdagi kengroq o'zgarishlarni aks ettiradi.",
+  "Samuel": "Samuel Pepys kabi yozuvchilar tarixchilarga o'n yettinchi asr Londonidagi kundalik ovqatlanish odatlariga kamdan-kam nazar tashlash imkonini beradi.",
+  "across": "Faqat yoningizdagilar bilan emas, stolning narigi tomonidagilar bilan gaplashish bir paytlar odob qoidalarini buzish deb hisoblangan.",
+  "burp": "O'tmishdagi odob qo'llanmalari kekirish, tupurish va hozir biz odobsizlik deb biladigan boshqa odatlar haqida hayratlanarli darajada ochiq yozgan.",
+  "chewing": "Mizofoniyasi bor odamlar uchun birovning chaynash ovozi ajablanarli darajada kuchli munosabat uyg'otishi mumkin.",
+  "clink": "Nafis billurning yoqimli jaranglashi qadah ko'tarish marosimining ajralmas qismiga aylangan.",
+  "cutlery": "Pichoq-sanchqini likopchada qanday qoldirishingiz ofitsiantlarga ovqatlanib bo'lganingizni bildirishi mumkin.",
+  "drinking glass": "Bir paytlar hashamatli buyum bo'lgan ichimlik stakani faqat sanoat usulida shisha ishlab chiqarish bilan kundalik buyumga aylandi.",
+  "glass in": "Qo'lda qadah bilan qabul marosimida aylanib yurish Britaniya ijtimoiy va ishbilarmonlik hayotining tanish marosimidir.",
+  "lap": "Rasmiy ovqat stolidan tizzamizda yeyiladigan taomlarga o'tish oilaviy hayotning o'zgarishi haqida ko'p narsa aytadi.",
+  "make peace": "Qadahlarni urishtirish odati ishonch bildirish va yarashish marosimlaridan kelib chiqqan bo'lishi mumkin.",
+  "napkin": "Oddiy salfetkaning ham ajablanarli darajada murakkab odob qoidalari bor: uni qayerga qo'yishdan tortib, ketayotganda qanday buklashgacha.",
+  "picky": "Birovning dasturxonida o'ta tanlovchan bo'lish, rad etishingiz qanchalik odobli bo'lmasin, noshukurlikdek ko'rinishi mumkin.",
+  "slop": "Eski odob kitoblari sho'rvani to'kib yubormaslik uchun kosani o'zingizdan nariga qiyshaytirishni maslahat bergan."
+ }
+});

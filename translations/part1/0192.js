@@ -1,0 +1,63 @@
+// Part 1 topic 0192: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+VOCAB_TR_STORE('1', '0192', {
+ "B1": {
+  "buyer": "Ko'plab xaridorlar kechasi onlayn xarid qilishadi.",
+  "cheer up": "Ko'nglimni ko'tarish uchun tort sotib oldim.",
+  "cozy": "Biz shinam kafeda o'tirdik.",
+  "figuratively": "\"Yuragim yorildi\" degan ibora ko'chma ma'noda ishlatiladi.",
+  "head off": "U savdo markaziga yo'l oldi.",
+  "humorous": "Kitob kulgili va o'qishga oson.",
+  "jumper": "U chegirmada issiq sviter sotib oldi.",
+  "pang": "U pul masalasida birdan vijdon azobini his qildi.",
+  "regret": "Janjaldan keyin u qattiq afsuslandi.",
+  "remorse": "Telefonni sotib olganimdan keyin xaridimdan pushaymon bo'ldim.",
+  "stab": "Xariddan keyin u birdan afsus his qildi.",
+  "wardrobe": "Uning yozgi kiyimlari juda ko'p.",
+  "weigh down": "U ish va to'lovlar og'irligidan ezilib ketganini his qildi."
+ },
+ "B2": {
+  "buyer": "Tadqiqotlar g'amgin xaridorlar ko'proq pul sarflashga tayyor ekanini ko'rsatadi.",
+  "cheer up": "Yangi kiyim sotib olish odamlarning kayfiyatini ko'tarishi mumkin, ammo bu ta'sir uzoq davom etmaydi.",
+  "cozy": "Odamlar xafa bo'lganda ko'pincha uyda kiyish uchun qulay va issiq biror narsa sotib olishadi.",
+  "figuratively": "Bank hisobingizni ko'rganingizda aybdorlik hissi sizga, majoziy ma'noda, pichoq sanchgandek bo'lishi mumkin.",
+  "head off": "Kayfiyati tushib ketganda, u yangi narsa sotib olishga jo'nab qoladi.",
+  "humorous": "Ular odamlar xafa bo'lganda nima sotib olishiga hazil nazari bilan qarashdi.",
+  "jumper": "Xafa bo'lsam, oxir-oqibat yana bitta issiq jemper sotib olaman.",
+  "pang": "Ko'plab xaridorlar uyga kelishlari bilanoq afsus sanchig'ini his qiladi.",
+  "regret": "Ko'p odamlar xafa paytida qilgan xaridlaridan afsuslanadi.",
+  "remorse": "Yomon kayfiyatda qilingan qimmat xaridlardan keyin xaridorning pushaymonligi keng tarqalgan holat.",
+  "stab": "Kredit karta hisobiga qarab, u birdan aybdorlik sanchig'ini his qildi.",
+  "wardrobe": "U shkafini ochib, hech qachon kiymagan ko'ylaklarini ko'rdi.",
+  "weigh down": "G'am-qayg'u bizni ezganda, ko'pincha kayfiyatimizni ko'taradigan biror narsa izlaymiz."
+ },
+ "C1": {
+  "buyer": "Chakana sotuvchilar his-tuyg'uga berilgan xaridorlar narxlarni sinchiklab solishtirishga kamroq moyil ekanini bilishadi.",
+  "cheer up": "Tadqiqotchilar kichik bir xarid yomon kundan keyin odamlarning kayfiyatini chindan ham ko'tarishi mumkinligini aniqlashdi.",
+  "cozy": "Brendlar shinam uy kiyimlarini og'ir kunlarda o'ziga g'amxo'rlik qilish vositasi sifatida reklama qiladi.",
+  "figuratively": "\"A pang of guilt\" iborasi jismoniy emas, balki ruhiy og'riqni tasvirlash uchun ko'chma ma'noda ishlatiladi.",
+  "head off": "Turtki beruvchi omillarni erta anglash qimmatga tushadigan xarid ishtiyoqining oldini olishga yordam beradi.",
+  "humorous": "Uning uchta bir xil jemper sotib olgani haqidagi kulgili hikoyasi hammani kuldirdi.",
+  "jumper": "Uning shkafi g'amgin tushdan keyingi paytlarda sotib olingan va hech qachon kiyilmagan jemperlarga to'la edi.",
+  "pang": "Har safar shkafni ochganida, kiyilmagan kiyimlarni ko'rib, u aybdorlik hissining sanchig'ini sezardi.",
+  "regret": "Xarid orqali ko'ngil ochish ko'pincha kayfiyatni qisqa muddatga ko'taradi, ortidan esa tezda afsus keladi.",
+  "remorse": "Tadqiqotchilar xaridorlardan xariddan bir hafta o'tib pushaymon bo'lgan-bo'lmaganliklarini so'rashdi.",
+  "stab": "Hasadning bir sanchig'i odamlarni ijtimoiy tarmoqlarda ko'rgan narsalarini sotib olishga undashi mumkin.",
+  "wardrobe": "Ko'pchilikning kiyim shkafi hali ham narx yorlig'i osilib turgan, o'ylamay sotib olingan narsalarga to'la.",
+  "weigh down": "Ko'pchilik qurbi yetmaydigan pulni sarflaganidan keyin aybdorlik hissi ostida ezilib qoladi."
+ },
+ "C2": {
+  "buyer": "\"Xaridor pushaymonligi\" hodisasi biror narsaga ega bo'lishni kutish va haqiqat o'rtasidagi tafovutni ko'rsatadi.",
+  "cheer up": "Xarid qilish orqali ko'nglini ko'tarish istagi tushunarli, ammo u e'tibor talab qiladigan chuqurroq muammolarni niqoblashi mumkin.",
+  "cozy": "Shinam, taskin beruvchi xaridlarning jozibasi iste'mol hissiy xavfsizlik bilan qanchalik chambarchas bog'liqligini ko'rsatadi.",
+  "figuratively": "O'quvchilar iboralarni tushunishga ko'pincha qiynaladi, chunki ko'chma ma'noda ishlatilgan so'zlar kamdan-kam hollarda o'z to'g'ri ma'nosini saqlaydi.",
+  "head off": "Moliyaviy maslahatchilar hissiy xarajatlarni odatga aylanmasdan oldin oldini olish strategiyalarini taklif qilishadi.",
+  "humorous": "Kulgili latifalar ortida hissiyotlar iste'molchi xulq-atvorini qanday boshqarishi haqidagi jiddiy fikr yotadi.",
+  "jumper": "Oddiy jemper ko'pchilik uchun qulaylikka intilib qilinadigan xarajatlar ramziga aylandi.",
+  "pang": "Hissiy xariddan keyin keladigan pushaymonlik sanchig'i u keltirgan zavqdan ko'ra ko'pincha o'tkirroq bo'ladi.",
+  "regret": "Tadqiqotlarga ko'ra, afsus hissi to'satdan va hissiyotga berilib qilingan xaridlarda eng kuchli bo'ladi.",
+  "remorse": "Xarajat qilgandan keyingi pushaymonlik kayfiyatni yanada tushirib, buzish qiyin bo'lgan aylanani yuzaga keltirishi mumkin.",
+  "stab": "O'ylamay qilingan xariddan keyin keladigan pushaymonlik sanchig'i, ko'chma ma'noda aytganda, o'tkinchi zavqning bahosidir.",
+  "wardrobe": "Liq to'la kiyim javoni xarajatlarimiz ortidagi hissiy ko'tarilish va tushishlarning jimjit qaydnomasi bo'lishi mumkin.",
+  "weigh down": "Hissiyotga berilib xarajat qilish natijasida to'plangan qarz yuki insonni yillar davomida ezib qo'yishi mumkin."
+ }
+});
