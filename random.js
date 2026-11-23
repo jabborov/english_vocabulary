@@ -4,15 +4,15 @@
 (function(){
   // Part 1 = data_part1.js / examples_part1.js, Part 2 = data.js / examples.js
   const PARTS = [
-    { part: '1', data: window.VOCAB_DATA_PART1 || {}, examples: window.VOCAB_EXAMPLES_PART1 || {} },
-    { part: '2', data: window.VOCAB_DATA || {}, examples: window.VOCAB_EXAMPLES || {} }
+    { part: '1', data: window.VOCAB_DATA_PART1 || {}, examples: window.VOCAB_EXAMPLES_PART1 || {}, uz: window.VOCAB_TR_B1_PART1 || {} },
+    { part: '2', data: window.VOCAB_DATA || {}, examples: window.VOCAB_EXAMPLES || {}, uz: window.VOCAB_TR_B1 || {} }
   ];
   const LEVELS = ['A1','A2','B1','B2','C1','C2'];
 
   // Flatten every topic of both parts into one pool: [{ part, examples, topicKey, topicTitle, item }]
   const pool = [];
   PARTS.forEach(P => Object.keys(P.data).forEach(k => P.data[k].words.forEach(item =>
-    pool.push({ part: P.part, examples: P.examples, topicKey: k, topicTitle: P.data[k].title, item })
+    pool.push({ part: P.part, examples: P.examples, uz: P.uz, topicKey: k, topicTitle: P.data[k].title, item })
   )));
   if(!pool.length) return;
 
@@ -25,7 +25,11 @@
     const set = (entry.examples[entry.topicKey] || {})[it.w];
     const idx = LEVELS.indexOf(level);
     const ex = (idx >= 0 && set && set[idx]) || it.ex;
+    const uz = (entry.uz[entry.topicKey] || {})[it.w];
+    const b1 = set && set[2];
     return {
+      uzex: (uz && b1) ? uz : null,
+      b1en: (uz && b1 && ex !== b1) ? b1 : null,
       en: it.tr ? it.def : null,
       uz: it.tr || it.def,
       ex, level: (idx >= 0 && set && set[idx]) ? level : null
@@ -62,6 +66,11 @@
   .rw-uz{ font-size:15px; color:var(--accent); }
   .rw-ex{ font-size:14.5px; color:var(--muted); font-style:italic; }
   .rw-ex::before{ content:"\\201C"; } .rw-ex::after{ content:"\\201D"; }
+  .rw-uzex{ display:none; margin-top:4px; font-size:14.5px; }
+  [data-translate="on"] .rw-uzex.has{ display:block; }
+  .rw-uzex .b1-en{ color:var(--muted); font-style:italic; }
+  .rw-uzex .lbl{ font-family:'JetBrains Mono',monospace; font-style:normal; font-size:11px; color:var(--accent);
+    border:1px solid var(--accent-dim); border-radius:4px; padding:0 5px; margin-right:6px; }
   .rw-missing{ font-size:14px; color:var(--muted); }
   .rw-missing a{ color:var(--accent); }
   .rw-actions{ display:flex; justify-content:space-between; align-items:center; gap:10px; flex-wrap:wrap;
@@ -94,7 +103,7 @@
       </div>
       <div class="rw-row"><div class="rw-label">English meaning</div><div id="rw-en"></div></div>
       <div class="rw-row"><div class="rw-label">Uzbek translation</div><div class="rw-uz" id="rw-uz"></div></div>
-      <div class="rw-row"><div class="rw-label" id="rw-ex-label">Example</div><div class="rw-ex" id="rw-ex"></div></div>
+      <div class="rw-row"><div class="rw-label" id="rw-ex-label">Example</div><div class="rw-ex" id="rw-ex"></div><div class="rw-uzex" id="rw-uzex"></div></div>
       <div class="rw-actions">
         <button class="rw-btn" type="button" id="rw-next">↻ Another random word</button>
         <a class="rw-oxford" id="rw-oxford" target="_blank" rel="noopener">Oxford ↗</a>
@@ -140,6 +149,19 @@
     $('rw-uz').textContent = f.uz;
     $('rw-ex-label').textContent = f.level ? `Example · ${f.level}` : 'Example';
     $('rw-ex').textContent = f.ex;
+    const uzex = $('rw-uzex');
+    uzex.className = f.uzex ? 'rw-uzex has' : 'rw-uzex';
+    uzex.innerHTML = '';
+    if(f.uzex){
+      if(f.b1en){
+        const d = document.createElement('div'); d.className = 'b1-en';
+        d.innerHTML = '<i class="lbl">B1</i>'; d.appendChild(document.createTextNode(f.b1en));
+        uzex.appendChild(d);
+      }
+      const u = document.createElement('div');
+      u.innerHTML = '<i class="lbl">UZ</i>'; u.appendChild(document.createTextNode(f.uzex));
+      uzex.appendChild(u);
+    }
     $('rw-oxford').href = oxfordUrl(it.w);
 
     if(!backdrop.classList.contains('open')){

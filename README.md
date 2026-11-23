@@ -19,6 +19,7 @@ For each word you get:
 - 🔄 **Synonyms and opposites:** shown for adjectives, nouns, verbs, adverbs, determiners and pronouns (e.g. *cheap → expensive*, *success → failure*, *increase → decrease*, *quickly → slowly*, *many → few*). Turn them on or off with the **⇄ Synonyms** button.
 - 🇺🇿 **Uzbek translation:** every word is translated into Uzbek.
 - 📈 **CEFR levels:** example sentences from A1 to C2.
+- 🌐 **Translate:** shows the Uzbek translation of the B1 example sentence. Turn it on or off with the **文 Translate** button.
 - 🎲 **Random word:** practise with a random word.
 - ✅ **Progress:** mark words as memorized, weak or to learn.
 - 🌙 **Dark mode:** switch between light and dark themes.
@@ -35,18 +36,20 @@ For each word you get:
 
 ```
 english_vocabulary/
-├── index.html          # Home page: topic list, search, Part 1/2 and Random buttons
-├── topic.html          # Topic page: all words of one topic
-├── data_part1.js       # Part 1 words: meaning, IPA, Uzbek translation, example
-├── examples_part1.js   # Part 1 example sentences (A1–C2)
-├── data.js             # Part 2 words: meaning, IPA, Uzbek translation, example
-├── examples.js         # Part 2 example sentences (A1–C2)
-├── irregular.js        # Irregular verbs: past simple and past participle forms
-├── synonyms.js         # Synonyms and opposites for adjectives, nouns, verbs, adverbs, determiners and pronouns
-├── random.js           # Random word feature
-├── scroll.js           # ↑ / ↓ buttons to jump to the top or bottom of a page
-├── test.js             # Page tests (Node.js + jsdom)
-└── README.md           # This file
+├── index.html             # Home page: topic list, search, Part 1/2 and Random buttons
+├── topic.html             # Topic page: all words of one topic
+├── data_part1.js          # Part 1 words: meaning, IPA, Uzbek translation, example
+├── examples_part1.js      # Part 1 example sentences (A1–C2)
+├── data.js                # Part 2 words: meaning, IPA, Uzbek translation, example
+├── examples.js            # Part 2 example sentences (A1–C2)
+├── irregular.js           # Irregular verbs: past simple and past participle forms
+├── translations_part1.js  # Part 1 Uzbek translations of the B1 example sentences
+├── translations.js        # Part 2 Uzbek translations of the B1 example sentences
+├── synonyms.js            # Synonyms and opposites for adjectives, nouns, verbs, adverbs, determiners and pronouns
+├── random.js              # Random word feature
+├── scroll.js              # ↑ / ↓ buttons to jump to the top or bottom of a page
+├── test.js                # Page tests (Node.js + jsdom)
+└── README.md              # This file
 ```
 
 ## Run locally

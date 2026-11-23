@@ -17,6 +17,8 @@
       document.documentElement.setAttribute('data-theme', theme);
       // Synonyms/opposites display: shown unless turned off.
       if(localStorage.getItem('vocab-related') === 'off') document.documentElement.setAttribute('data-related', 'off');
+      // Uzbek translation of the B1 example: hidden unless turned on.
+      if(localStorage.getItem('vocab-translate') === 'on') document.documentElement.setAttribute('data-translate', 'on');
     }catch(e){
       document.documentElement.setAttribute('data-theme', 'dark');
     }
@@ -95,6 +97,8 @@
   .related-btn{ border-color: var(--accent); color: var(--accent); }
   [data-related="off"] .related-btn{ border-color: var(--line); color: var(--muted); }
   [data-related="off"] .related-btn:hover{ border-color: var(--accent); color: var(--accent); }
+  /* Translate off by default; the on state comes from <html data-translate="on">. */
+  [data-translate="on"] .translate-btn{ border-color: var(--accent); color: var(--accent); }
   .empty-part{ border: 1px dashed var(--line); border-radius: 10px; padding: 32px 26px; color: var(--muted); text-align: center; font-size: 14.5px; }
 
   .global-search{ margin-top: 28px; position: relative; }
@@ -172,6 +176,7 @@
       <button class="part-btn" type="button" data-part="1" aria-pressed="false">Part 1</button>
       <button class="part-btn" type="button" data-part="2" aria-pressed="false">Part 2</button>
       <button class="part-btn related-btn" id="related-toggle" type="button" aria-pressed="true" title="Show or hide synonyms and opposites">⇄ Synonyms</button>
+      <button class="part-btn translate-btn" id="translate-toggle" type="button" aria-pressed="false" title="Show or hide the Uzbek translation of the B1 example sentence">文 Translate</button>
     </div>
     <div class="global-search">
       <input id="global-search" type="search" placeholder="Search all words, translations or definitions…" autocomplete="off" aria-label="Search all topics" aria-controls="search-results">
@@ -204,6 +209,8 @@
 <script src="examples.js"></script>
 <script src="irregular.js"></script>
 <script src="synonyms.js"></script>
+<script src="translations.js"></script>
+<script src="translations_part1.js"></script>
 <script src="random.js"></script>
 <script src="scroll.js"></script>
 <script>
@@ -350,6 +357,18 @@
     else document.documentElement.removeAttribute('data-related');
     try{ localStorage.setItem('vocab-related', off ? 'off' : 'on'); }catch(e){}
     syncRelated();
+  });
+
+  // Uzbek translation of the B1 examples on/off
+  const translateBtn = document.getElementById('translate-toggle');
+  const syncTranslate = () => translateBtn.setAttribute('aria-pressed', document.documentElement.getAttribute('data-translate') === 'on' ? 'true' : 'false');
+  syncTranslate();
+  translateBtn.addEventListener('click', () => {
+    const on = document.documentElement.getAttribute('data-translate') !== 'on';
+    if(on) document.documentElement.setAttribute('data-translate', 'on');
+    else document.documentElement.removeAttribute('data-translate');
+    try{ localStorage.setItem('vocab-translate', on ? 'on' : 'off'); }catch(e){}
+    syncTranslate();
   });
 </script>
 
