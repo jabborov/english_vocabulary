@@ -28,8 +28,8 @@
     const uz = (entry.uz[entry.topicKey] || {})[it.w];
     const b1 = set && set[2];
     return {
-      uzex: (uz && b1) ? uz : null,
-      b1en: (uz && b1 && ex !== b1) ? b1 : null,
+      // Uzbek translation only while the B1 level is selected.
+      uzex: (level === 'B1' && uz && b1 && ex === b1) ? uz : null,
       en: it.tr ? it.def : null,
       uz: it.tr || it.def,
       ex, level: (idx >= 0 && set && set[idx]) ? level : null
@@ -68,7 +68,6 @@
   .rw-ex::before{ content:"\\201C"; } .rw-ex::after{ content:"\\201D"; }
   .rw-uzex{ display:none; margin-top:4px; font-size:14.5px; }
   [data-translate="on"] .rw-uzex.has{ display:block; }
-  .rw-uzex .b1-en{ color:var(--muted); font-style:italic; }
   .rw-uzex .lbl{ font-family:'JetBrains Mono',monospace; font-style:normal; font-size:11px; color:var(--accent);
     border:1px solid var(--accent-dim); border-radius:4px; padding:0 5px; margin-right:6px; }
   .rw-missing{ font-size:14px; color:var(--muted); }
@@ -153,11 +152,6 @@
     uzex.className = f.uzex ? 'rw-uzex has' : 'rw-uzex';
     uzex.innerHTML = '';
     if(f.uzex){
-      if(f.b1en){
-        const d = document.createElement('div'); d.className = 'b1-en';
-        d.innerHTML = '<i class="lbl">B1</i>'; d.appendChild(document.createTextNode(f.b1en));
-        uzex.appendChild(d);
-      }
       const u = document.createElement('div');
       u.innerHTML = '<i class="lbl">UZ</i>'; u.appendChild(document.createTextNode(f.uzex));
       uzex.appendChild(u);

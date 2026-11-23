@@ -99,7 +99,6 @@
   [data-translate="on"] .translate-btn{ border-color: var(--accent); color: var(--accent); }
   .entry-uzex{ display:none; margin-top: 4px; font-size: 14px; }
   [data-translate="on"] .entry-uzex{ display:block; }
-  .entry-uzex .b1-en{ color: var(--muted); font-style: italic; }
   .entry-uzex .uz{ color: var(--text); }
   .entry-uzex .lbl{ font-family: 'JetBrains Mono', monospace; font-style: normal; font-size: 11px; color: var(--accent);
     border: 1px solid var(--accent-dim); border-radius: 4px; padding: 0 5px; margin-right: 6px; }
@@ -300,11 +299,10 @@
   // Uzbek translations of the B1 example sentences: topic -> word -> Uzbek sentence.
   const b1Uz = ((part === '1' ? window.VOCAB_TR_B1_PART1 : window.VOCAB_TR_B1) || {})[topicKey] || {};
   function translateHTML(item){
+    // Shown only while the B1 level is selected.
     const uz = b1Uz[item.w], set = examples[item.w];
-    if(!uz || !set || !set[2]) return '';
-    // When another example is on screen, also show the B1 sentence that the translation belongs to.
-    const en = exampleFor(item) === set[2] ? '' : `<div class="b1-en"><i class="lbl">B1</i>${set[2]}</div>`;
-    return `<div class="entry-uzex">${en}<div class="uz"><i class="lbl">UZ</i>${uz}</div></div>`;
+    if(level !== 'B1' || !uz || !set || exampleFor(item) !== set[2]) return '';
+    return `<div class="entry-uzex"><div class="uz"><i class="lbl">UZ</i>${uz}</div></div>`;
   }
 
   const levelBar = document.getElementById('level-bar');

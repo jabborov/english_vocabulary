@@ -19,7 +19,7 @@ For each word you get:
 - 🔄 **Synonyms and opposites:** shown for adjectives, nouns, verbs, adverbs, determiners and pronouns (e.g. *cheap → expensive*, *success → failure*, *increase → decrease*, *quickly → slowly*, *many → few*). Turn them on or off with the **⇄ Synonyms** button.
 - 🇺🇿 **Uzbek translation:** every word is translated into Uzbek.
 - 📈 **CEFR levels:** example sentences from A1 to C2.
-- 🌐 **Translate:** shows the Uzbek translation of the B1 example sentence. Turn it on or off with the **文 Translate** button.
+- 🌐 **Translate:** shows the Uzbek translation of the example sentences when the **B1** level is selected. Turn it on or off with the **文 Translate** button.
 - 🎲 **Random word:** practise with a random word.
 - ✅ **Progress:** mark words as memorized, weak or to learn.
 - 🌙 **Dark mode:** switch between light and dark themes.
