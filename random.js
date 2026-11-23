@@ -4,8 +4,8 @@
 (function(){
   // Part 1 = data_part1.js / examples_part1.js, Part 2 = data.js / examples.js
   const PARTS = [
-    { part: '1', data: window.VOCAB_DATA_PART1 || {}, examples: window.VOCAB_EXAMPLES_PART1 || {}, uz: window.VOCAB_TR_B1_PART1 || {} },
-    { part: '2', data: window.VOCAB_DATA || {}, examples: window.VOCAB_EXAMPLES || {}, uz: window.VOCAB_TR_B1 || {} }
+    { part: '1', data: window.VOCAB_DATA_PART1 || {}, examples: window.VOCAB_EXAMPLES_PART1 || {}, uz: { B1: window.VOCAB_TR_B1_PART1 || {}, B2: window.VOCAB_TR_B2_PART1 || {} } },
+    { part: '2', data: window.VOCAB_DATA || {}, examples: window.VOCAB_EXAMPLES || {}, uz: { B1: window.VOCAB_TR_B1 || {}, B2: window.VOCAB_TR_B2 || {} } }
   ];
   const LEVELS = ['A1','A2','B1','B2','C1','C2'];
 
@@ -25,11 +25,10 @@
     const set = (entry.examples[entry.topicKey] || {})[it.w];
     const idx = LEVELS.indexOf(level);
     const ex = (idx >= 0 && set && set[idx]) || it.ex;
-    const uz = (entry.uz[entry.topicKey] || {})[it.w];
-    const b1 = set && set[2];
+    const uz = ((entry.uz[level] || {})[entry.topicKey] || {})[it.w];
     return {
-      // Uzbek translation only while the B1 level is selected.
-      uzex: (level === 'B1' && uz && b1 && ex === b1) ? uz : null,
+      // Uzbek translation only while a translated level (B1 or B2) is selected.
+      uzex: (uz && set && idx >= 0 && ex === set[idx]) ? uz : null,
       en: it.tr ? it.def : null,
       uz: it.tr || it.def,
       ex, level: (idx >= 0 && set && set[idx]) ? level : null
