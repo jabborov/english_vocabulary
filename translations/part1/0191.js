@@ -1,5 +1,35 @@
-// Part 1 topic 0191: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0191: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0191', {
+ "A1": {
+  "affected": "Yangilik unga qattiq ta'sir qildi.",
+  "affection": "Mushukka mehr kerak.",
+  "bully": "U bezori.",
+  "bullying": "Bezorilik qilish noto'g'ri.",
+  "climactic": "Bu filmning eng avj nuqtasi.",
+  "fond": "Men musiqani yaxshi ko'raman.",
+  "intimidate": "Uni qo'rqitmang.",
+  "politics": "Men siyosatni yoqtirmayman.",
+  "presidential": "Bu prezident mashinasi.",
+  "shrink": "Ko'ylagim issiq suvda kirishib qoladi.",
+  "soft spot": "Mushuklarga nisbatan ko'nglim yumshoq.",
+  "vocal": "U o'z fikrini baralla aytadi.",
+  "voter": "U yangi saylovchi."
+ },
+ "A2": {
+  "affected": "Ko'plab odamlar bo'rondan zarar ko'rdi.",
+  "affection": "U oilasiga mehr ko'rsatadi.",
+  "bully": "Boshqa bolalarga zo'ravonlik qilmang.",
+  "bullying": "Internetda bezorilik juda ko'p.",
+  "climactic": "Eng avj sahna juda hayajonli edi.",
+  "fond": "U o'qituvchisini juda yaxshi ko'radi.",
+  "intimidate": "Katta itlar kichik bolalarni qo'rqitishi mumkin.",
+  "politics": "Dadam televizorda siyosiy ko'rsatuvlarni ko'radi.",
+  "presidential": "Prezidentlik saylovi kelasi yili bo'ladi.",
+  "shrink": "Kitobxonlar soni kamaya boshladi.",
+  "soft spot": "U ukasiga nisbatan juda mehribon.",
+  "vocal": "U o'z g'oyalarini ochiq aytadi.",
+  "voter": "Har bir saylovchining bitta ovozi bor."
+ },
  "B1": {
   "affected": "Qizlar onlayn izohlardan o'g'il bolalarga qaraganda ko'proq ta'sirlanadi.",
   "affection": "Muxlislar sevimli ijodkorlariga chin dildan mehr his qilishadi.",

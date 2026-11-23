@@ -1,5 +1,37 @@
-// Part 1 topic 0457: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0457: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0457', {
+ "A1": {
+  "Antarctica": "Antarktida juda sovuq.",
+  "cubic": "Bu quti bir kub metr.",
+  "cubic kilometre": "Bu bir kub kilometr.",
+  "ecology": "Men ekologiyani o'rganaman.",
+  "frisk": "Qo'riqchi uni tintuv qildi.",
+  "greener": "Bog' endi yanada yashilroq.",
+  "invader": "Bosqinchi tunda keldi.",
+  "offshore": "Qirg'oqdan uzoqda bir orol bor.",
+  "peninsula": "Biz yarim orolda yashaymiz.",
+  "pristine": "Qor bokira va toza.",
+  "run up": "Bu Rojdestvo oldidan bo'lgan davr edi.",
+  "southernmost": "Bu eng janubiy shahar.",
+  "take hold": "Olov avj oldi.",
+  "tuck away": "U pulni yashirib qo'ydi."
+ },
+ "A2": {
+  "Antarctica": "Pingvinlar Antarktidada yashaydi.",
+  "cubic": "Bizga o'n kub metr qum kerak.",
+  "cubic kilometre": "Bir kub kilometr juda ulkan.",
+  "ecology": "Ekologiya tabiat haqidagi fan.",
+  "frisk": "Aeroportda odamlarni tintuv qilishadi.",
+  "greener": "Bahor tepaliklarni yanada yashilroq qiladi.",
+  "invader": "Ba'zi o'simliklar begona bosqinchilardir.",
+  "offshore": "Shamol qirg'oqdan dengiz tomon esmoqda.",
+  "peninsula": "Yarim orol uzun.",
+  "pristine": "Sohil musaffo va toza edi.",
+  "run up": "Imtihonim oldidan juda band edim.",
+  "southernmost": "Antarktida eng janubiy joy.",
+  "take hold": "O'simliklar tezda ildiz otdi.",
+  "tuck away": "Kalit yashirib qo'yilgan."
+ },
  "B1": {
   "Antarctica": "Antarktidada kam odam bo'lgan.",
   "cubic": "Xonaning hajmi taxminan qirq kub metr.",

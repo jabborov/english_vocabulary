@@ -1,5 +1,37 @@
-// Part 1 topic 0328: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0328: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0328', {
+ "A1": {
+  "aroma": "Men bu xushbo'y hidni yaxshi ko'raman.",
+  "awake": "Men uyg'oqman.",
+  "chewing gum": "Menda saqich bor.",
+  "espresso": "Menga espresso kerak.",
+  "gum": "Men saqich chaynayman.",
+  "indigestion": "Oshqozonim buzilgan.",
+  "insomnia": "Menda uyqusizlik bor.",
+  "lethargic": "Men o'zimni lanj his qilyapman.",
+  "psychoactive": "U psixoaktiv ta'sirga ega.",
+  "psychoactive drug": "Kofein psixoaktiv moddadir.",
+  "stimulant": "Qahva qo'zg'atuvchi moddadir.",
+  "waffle": "Ezmalanib gapirma.",
+  "withdrawal": "Odatdan voz kechish qiyin.",
+  "withdrawal symptom": "Bosh og'rig'i abstinensiya alomatidir."
+ },
+ "A2": {
+  "aroma": "Qahvaning yoqimli xushbo'y hidi bor.",
+  "awake": "Uyg'oqmisiz?",
+  "chewing gum": "Darsda saqich chaynamang.",
+  "espresso": "Espresso juda kuchli.",
+  "gum": "Saqich xohlaysizmi?",
+  "indigestion": "Achchiq ovqat oshqozonimni buzadi.",
+  "insomnia": "Uyqusizlik muammodir.",
+  "lethargic": "U bugun lanj.",
+  "psychoactive": "Kofein psixoaktiv ta'sirga ega.",
+  "psychoactive drug": "Ba'zi dori-darmonlar psixoaktiv moddalardir.",
+  "stimulant": "Choyda qo'zg'atuvchi modda bor.",
+  "waffle": "U ko'p ezmalanib gapiradi.",
+  "withdrawal": "U abstinensiya holatida.",
+  "withdrawal symptom": "Unda abstinensiya alomatlari bor."
+ },
  "B1": {
   "aroma": "Xonani non hidi tutib ketdi.",
   "awake": "Qahva meni bedor tutadi.",

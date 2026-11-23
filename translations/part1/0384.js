@@ -1,5 +1,25 @@
-// Part 1 topic 0384: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0384: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0384', {
+ "A1": {
+  "delight": "Bolalar xursandchilikdan kulishdi.",
+  "delighted": "Men juda xursandman!",
+  "duration": "Davomiyligi qancha?",
+  "patriotic": "U juda vatanparvar.",
+  "pride": "Men g'urur his qilyapman.",
+  "take pride": "Ishingiz bilan faxrlaning.",
+  "thanks": "Rahmat!",
+  "waterfall": "Sharsharaga qarang!"
+ },
+ "A2": {
+  "delight": "Sizni ko'rganimdan juda xursandman.",
+  "delighted": "U sovg'adan juda xursand bo'ldi.",
+  "duration": "Davomiyligi ikki soat.",
+  "patriotic": "Ular vatanparvarlik qo'shig'ini kuylashdi.",
+  "pride": "U g'ururga to'la.",
+  "take pride": "Biz maktabimiz bilan faxrlanamiz.",
+  "thanks": "Katta rahmat.",
+  "waterfall": "Sharshara juda baland."
+ },
  "B1": {
   "delight": "U xursandchilikdan qarsak chaldi.",
   "delighted": "Siz bilan tanishganimizdan juda xursandmiz.",

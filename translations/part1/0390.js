@@ -1,5 +1,31 @@
-// Part 1 topic 0390: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0390: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0390', {
+ "A1": {
+  "bathroom": "Hammom qayerda?",
+  "belonging": "Bular mening narsalarim.",
+  "best seller": "Bu kitob eng ko'p sotilganlardan biri.",
+  "halogen": "Bu galogen chiroq.",
+  "lamp": "Chiroqni yoqing.",
+  "living space": "Unda yashash maydoni kam.",
+  "ornament": "Bu chiroyli bezak.",
+  "renovation": "Uy ta'mirlanishi kerak.",
+  "research out": "Men buni tadqiq qilib aniqladim.",
+  "stove": "Pechka issiq.",
+  "television set": "Bizda televizor bor."
+ },
+ "A2": {
+  "bathroom": "Hammom kichkina.",
+  "belonging": "Barcha narsalaringizni oling.",
+  "best seller": "Bu o'yin eng ko'p sotilganlardan biri.",
+  "halogen": "Bizda galogen chiroq bor.",
+  "lamp": "Chiroq stol ustida.",
+  "living space": "Bizga ko'proq yashash maydoni kerak.",
+  "ornament": "Uning ko'plab bezak buyumlari bor.",
+  "renovation": "Ta'mirlash qimmatga tushadi.",
+  "research out": "U faktlarni tadqiq qilib aniqladi.",
+  "stove": "Onam plitada ovqat pishiradi.",
+  "television set": "Televizor eski."
+ },
  "B1": {
   "bathroom": "Men hammomni tozalayapman.",
   "belonging": "U narsalarini sumkaga joyladi.",

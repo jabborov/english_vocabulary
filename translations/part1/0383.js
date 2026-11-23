@@ -1,5 +1,23 @@
-// Part 1 topic 0383: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0383: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0383', {
+ "A1": {
+  "dummy": "Chaqaloqda so'rg'ich bor.",
+  "eat c": "U sabzi yeyishni yaxshi ko'radi.",
+  "foetus": "Homila o'syapti.",
+  "lingual": "U ikki tilli.",
+  "linked": "Ular bir-biriga bog'liq.",
+  "vowel": "\"E\" unli harf.",
+  "vowel sound": "\"A\" unli tovush."
+ },
+ "A2": {
+  "dummy": "So'rg'ich qayerda?",
+  "eat c": "Chaqaloqlar sabzi pyuresini yeyishadi.",
+  "foetus": "Homila eshita oladi.",
+  "lingual": "O'g'lim ikki tilli.",
+  "linked": "Ikki xona bir-biriga tutashgan.",
+  "vowel": "Nechta unli bor?",
+  "vowel sound": "Bu unli tovushni ayting."
+ },
  "B1": {
   "dummy": "U chaqaloqqa so'rg'ichini berdi.",
   "eat c": "Ona har kuni sabzi yedi.",

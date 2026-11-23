@@ -1,5 +1,17 @@
-// Part 1 topic 0376: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0376: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0376', {
+ "A1": {
+  "book of instructions": "Qo'llanmani o'qing.",
+  "forgotten": "Bu unutilgan qo'shiq.",
+  "spare part": "Menga ehtiyot qism kerak.",
+  "wasteful": "Bu isrofgarchilik."
+ },
+ "A2": {
+  "book of instructions": "Qo'llanma kitobi qayerda?",
+  "forgotten": "Men unutilgan o'yinchoqni topdim.",
+  "spare part": "Siz ehtiyot qismlar sotasizmi?",
+  "wasteful": "Bunchalik isrofgar bo'lma."
+ },
  "B1": {
   "book of instructions": "Yo'riqnoma kitobchasi qutining ichida.",
   "forgotten": "Kiyim yamash deyarli unutilgan mahoratga aylangan.",

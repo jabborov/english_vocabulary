@@ -1,5 +1,43 @@
-// Part 1 topic 0505: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0505: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0505', {
+ "A1": {
+  "MRI": "Menga MRT qilishdi.",
+  "anterior": "Bu oldingi qism.",
+  "capitalism": "Kapitalizm nima?",
+  "conservatism": "Konservatizm nima?",
+  "control room": "Bu boshqaruv xonasi.",
+  "corpus callosum": "Qadoqsimon tana miyada joylashgan.",
+  "grey matter": "Miyangizni ishlating!",
+  "imaging": "Tasvirlash usullari shifokorlarga yordam beradi.",
+  "magnetic resonance imaging": "Magnit-rezonans tomografiya tekshiruv turidir.",
+  "nervous system": "Hammamizda asab tizimi bor.",
+  "postgraduate": "U magistrant.",
+  "resonance": "Rezonans fizika atamasi.",
+  "right wing": "U o'ng qanotda.",
+  "scanner": "Bu skaner.",
+  "socialism": "Sotsializm nima?",
+  "thickness": "Yog'ochning qalinligini tekshiring.",
+  "unmovable": "Qoya qo'zg'almas."
+ },
+ "A2": {
+  "MRI": "MRT uning miyasini ko'rsatdi.",
+  "anterior": "Oldingi tomon bu old qism.",
+  "capitalism": "Bu mamlakatda kapitalizm tizimi amal qiladi.",
+  "conservatism": "U konservatizmga ishonadi.",
+  "control room": "U boshqaruv xonasida ishlaydi.",
+  "corpus callosum": "U qadoqsimon tana deb ataladi.",
+  "grey matter": "Miyada kulrang modda bor.",
+  "imaging": "Kasalxonada tasvirlash diagnostikasi markazi bor.",
+  "magnetic resonance imaging": "Shifokorlar magnit-rezonans tomografiyadan foydalanishadi.",
+  "nervous system": "Miya asab tizimining bir qismidir.",
+  "postgraduate": "U magistratura talabasi bo'ldi.",
+  "resonance": "Bu tovushda rezonans bor.",
+  "right wing": "U o'ng qanot uchun ovoz beradi.",
+  "scanner": "Skanerga yoting.",
+  "socialism": "U sotsializmga ishonadi.",
+  "thickness": "Muzning qalinligi yetarli.",
+  "unmovable": "Uning fikri o'zgarmas."
+ },
  "B1": {
   "MRI": "MRT tasvirlari juda batafsil bo'ladi.",
   "anterior": "Tadqiqotda miyaning old qismi o'rganildi.",

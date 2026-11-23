@@ -1,5 +1,41 @@
-// Part 1 topic 0438: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0438: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0438', {
+ "A1": {
+  "atheist": "U ateist.",
+  "crab": "Qarang, qisqichbaqa!",
+  "crustacean": "Qisqichbaqa qisqichbaqasimonlarga kiradi.",
+  "delightful": "Naqadar yoqimli kun!",
+  "devote": "Men kitob o'qishga vaqt ajrataman.",
+  "devoted": "U fidoyi ona.",
+  "filament": "Tola juda ingichka.",
+  "finish off": "Keling, endi tugatib qo'yaylik.",
+  "freshwater": "Bu chuchuk suv balig'i.",
+  "genus": "Urug' turlar guruhidir.",
+  "get onto": "Keling, keyingi mavzuga o'taylik.",
+  "immortality": "Hech kim o'lmas emas.",
+  "lobster": "Men omar yedim.",
+  "reggae": "Men reggini juda yaxshi ko'raman.",
+  "shell": "Tuxumning po'chog'i bor.",
+  "trail": "So'qmoqdan yuring."
+ },
+ "A2": {
+  "atheist": "U ateistga aylandi.",
+  "crab": "Qisqichbaqa qizil.",
+  "crustacean": "Krevetkalar qisqichbaqasimonlardir.",
+  "delightful": "U juda yoqimtoy.",
+  "devote": "U dam olish kunlarini sportga bag'ishlaydi.",
+  "devoted": "U itiga juda sodiq.",
+  "filament": "Lampochkada tola bor.",
+  "finish off": "Uy vazifamni oxiriga yetkazaman.",
+  "freshwater": "Chuchuk suv sho'r emas.",
+  "genus": "Sherlar va yo'lbarslar bir urug'ga kiradi.",
+  "get onto": "Endi eng qiziq qismga o'tamiz.",
+  "immortality": "Odamlar o'lmaslikni orzu qilishadi.",
+  "lobster": "Omarning qisqichlari katta.",
+  "reggae": "Reggi Yamaykadan kelib chiqqan.",
+  "shell": "Men sohilda chig'anoq topdim.",
+  "trail": "Qorda iz bor."
+ },
  "B1": {
   "atheist": "Ba'zi ateistlar kitob yozishadi.",
   "crab": "Qisqichbaqalar yonboshlab yuradi.",

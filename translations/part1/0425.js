@@ -1,5 +1,35 @@
-// Part 1 topic 0425: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0425: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0425', {
+ "A1": {
+  "RNA": "RNK hujayralarimizda bor.",
+  "allergic reaction": "Unda allergik reaksiya yuz berdi.",
+  "bad guy": "U yovuz qahramon.",
+  "beta": "Beta yunon harfidir.",
+  "culprit": "Aybdor kim?",
+  "disrupt": "Darsni buzmang.",
+  "ease in": "Asta-sekin kirishing.",
+  "interference": "Men aralashuvni istamayman.",
+  "itchy": "Terim qichiyapti.",
+  "milk can": "Bu sut bidoni.",
+  "modification": "Biz kichik o'zgartirish kiritdik.",
+  "rash": "Unda toshma bor.",
+  "shelf life": "Sutning saqlanish muddati qisqa."
+ },
+ "A2": {
+  "RNA": "RNK DNKga o'xshaydi.",
+  "allergic reaction": "Yong'oqlar allergik reaksiyaga sabab bo'lishi mumkin.",
+  "bad guy": "Yovuz qahramon yutqazdi.",
+  "beta": "Alfa, beta, gamma...",
+  "culprit": "Politsiya aybdorni qo'lga oldi.",
+  "disrupt": "Yomg'ir o'yinni buzdi.",
+  "ease in": "Biz yangi qoidalarni asta-sekin joriy qildik.",
+  "interference": "Radioda shovqin-xalal bor edi.",
+  "itchy": "Bu jemper badanni qichitadi.",
+  "milk can": "Sut bidoni to'la.",
+  "modification": "Mashinaga o'zgartirish kiritish kerak.",
+  "rash": "Toshma qizil.",
+  "shelf life": "Saqlanish muddatini tekshiring."
+ },
  "B1": {
   "RNA": "RNK hujayra ichida xabarlarni tashiydi.",
   "allergic reaction": "Unda kremga nisbatan allergik reaksiya yuz berdi.",

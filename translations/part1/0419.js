@@ -1,5 +1,29 @@
-// Part 1 topic 0419: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0419: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0419', {
+ "A1": {
+  "AB": "Qon guruhim AB.",
+  "blood group": "Qon guruhim O.",
+  "blood type": "Qon guruhim A.",
+  "classification": "Bu hayvonlar tasnifi.",
+  "grouping": "Bu yangi guruh.",
+  "matchmaking": "U sovchilik qilishni yaxshi ko'radi.",
+  "popularly": "U xalq orasida \"sevgi shahri\" nomi bilan mashhur.",
+  "reserved": "U juda kamgap va odamovi.",
+  "squeamish": "Men jirkanchoqman.",
+  "temperament": "Uning fe'l-atvori yoqimli."
+ },
+ "A2": {
+  "AB": "AB kam uchraydi.",
+  "blood group": "Qon guruhingiz qanday?",
+  "blood type": "Qon guruhingizni bilasizmi?",
+  "classification": "Biz o'simliklarning tasnifi haqida o'rgandik.",
+  "grouping": "Guruhlash yoshga qarab qilingan.",
+  "matchmaking": "Sovchilik bu biznes.",
+  "popularly": "Uni xalq orasida Tom deb atashadi.",
+  "reserved": "U kamgap va odamovi inson.",
+  "squeamish": "U qon ko'rsa, ko'ngli ayniydi.",
+  "temperament": "Itlarning fe'l-atvori har xil bo'ladi."
+ },
  "B1": {
   "AB": "AB qon guruhiga ega odamlar istalgan guruhdagi qonni qabul qila oladi.",
   "blood group": "To'rtta asosiy qon guruhi bor.",

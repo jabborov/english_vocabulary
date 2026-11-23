@@ -1,5 +1,25 @@
-// Part 1 topic 0504: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0504: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0504', {
+ "A1": {
+  "cancelling": "Onlayn bekor qilish oson.",
+  "clench": "Tishlaringizni qisib olmang.",
+  "clench up": "Qo'llarim musht bo'lib qisilib qoladi.",
+  "consulting": "Bu qabul xonasi.",
+  "even off": "Bu yerda yo'l tekislanadi.",
+  "medical care": "Unga tibbiy yordam kerak.",
+  "tense up": "Tarang tortilmang.",
+  "tighten up": "Bo'ynim tarang tortadi."
+ },
+ "A2": {
+  "cancelling": "U doim bekor qilib turadi.",
+  "clench": "U qo'llarini musht qilib qisdi.",
+  "clench up": "Tish shifokori oldida qisilib qolaman.",
+  "consulting": "Qabul xonasida kuting.",
+  "even off": "Narxlar barqarorlashdi.",
+  "medical care": "Bu yerda tibbiy yordam bepul.",
+  "tense up": "Tish shifokori oldida tarang tortilib qolaman.",
+  "tighten up": "Uning yuzi tarang tortildi."
+ },
  "B1": {
   "cancelling": "Oxirgi daqiqada bekor qilish – odobsizlik.",
   "clench": "U qo'rquvdan jag'ini qattiq qisdi.",

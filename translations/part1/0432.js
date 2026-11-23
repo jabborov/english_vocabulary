@@ -1,5 +1,25 @@
-// Part 1 topic 0432: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0432: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0432', {
+ "A1": {
+  "avoidance": "Qochish yechim emas.",
+  "claustrophobia": "Uning klaustrofobiyasi bor.",
+  "coriander": "Men kashnichni yoqtirmayman.",
+  "inherently": "Bu o'z-o'zidan yomon emas.",
+  "masking": "Shakar yordamida ta'mni yashirish oson.",
+  "neo": "\"Neo\" yangi degan ma'noni bildiradi.",
+  "preposition": "\"In\" predlogdir.",
+  "wired": "Chaqaloqlar tabiatan shirin narsalarni yoqtirishga moyil."
+ },
+ "A2": {
+  "avoidance": "Uning baliqdan qochishi g'alati.",
+  "claustrophobia": "Liftda uning klaustrofobiyasi qo'zg'aladi.",
+  "coriander": "Ustiga biroz kashnich seping.",
+  "inherently": "Ba'zi taomlar tabiatan shirin bo'ladi.",
+  "masking": "Hidlarni bosib ketish foydali.",
+  "neo": "\"Neo\" so'zlarning boshida ishlatiladi.",
+  "preposition": "\"On\" va \"at\" predloglardir.",
+  "wired": "Biz tabiatan qo'rquvni his qilishga moyilmiz."
+ },
  "B1": {
   "avoidance": "Yangi taomdan qochish bolalarda keng tarqalgan.",
   "claustrophobia": "Klaustrofobiya - tor joylardan qo'rqishdir.",

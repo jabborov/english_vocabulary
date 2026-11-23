@@ -1,5 +1,45 @@
-// Part 1 topic 0151: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0151: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0151', {
+ "A1": {
+  "above": "Qush daraxt ustida.",
+  "bakery": "Novvoyxona non sotadi.",
+  "beautifully": "U chiroyli kuylaydi.",
+  "beyond": "Do'kon ko'prikdan narida.",
+  "birthday party": "Men tug'ilgan kun ziyofatiga ketyapman.",
+  "client": "Uning yangi mijozi bor.",
+  "creatively": "Bolalar ijodiy o'ynashadi.",
+  "dame": "U endi dame unvoniga ega.",
+  "finished": "Tort tugadi.",
+  "jumble": "Xonam tartibsiz.",
+  "leeway": "Menda biroz erkinlik bor.",
+  "orange": "Men apelsinni yaxshi ko'raman.",
+  "over again": "Buni qaytadan qiling.",
+  "peak": "Biz cho'qqiga chiqdik.",
+  "precise": "Iltimos, menga aniq vaqtni ayting.",
+  "satisfy": "Ovqat meni qoniqtiradi.",
+  "to be precise": "Kech bo'ldi, aniqrog'i soat o'n bir.",
+  "work of art": "Bu rasm san'at asari."
+ },
+ "A2": {
+  "above": "Rasmni karavot ustiga iling.",
+  "bakery": "Men tortlarni novvoyxonadan sotib olaman.",
+  "beautifully": "Tort chiroyli tayyorlangan.",
+  "beyond": "Soat o'ndan keyin tashqarida qolib ketmang.",
+  "birthday party": "Biz uyda tug'ilgan kun ziyofatini o'tkazdik.",
+  "client": "Mijoz katta tort xohlaydi.",
+  "creatively": "U ijodkorlik bilan ovqat pishiradi.",
+  "dame": "Qirolicha unga dame unvonini berdi.",
+  "finished": "Tayyor rasmga qarang.",
+  "jumble": "Polda o'yinchoqlar sochilib yotibdi.",
+  "leeway": "Unga biroz erkinlik bering.",
+  "orange": "Tort to'q sariq rangda.",
+  "over again": "Sahifani qaytadan o'qing.",
+  "peak": "Yoz eng qizg'in mavsum.",
+  "precise": "Retsept juda aniq.",
+  "satisfy": "Tort sizga yoqdimi?",
+  "to be precise": "Mening ikkita mushugim bor, aniqrog'i uchta.",
+  "work of art": "Tort san'at asariga o'xshaydi."
+ },
  "B1": {
   "above": "Harorat yigirma darajadan yuqori.",
   "bakery": "Ko'chamizda yangi novvoyxona ochildi.",

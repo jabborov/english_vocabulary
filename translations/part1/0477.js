@@ -1,5 +1,27 @@
-// Part 1 topic 0477: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0477: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0477', {
+ "A1": {
+  "armed robbery": "Bu qurolli talonchilik edi.",
+  "cash in": "Ular bundan foyda ko'rishdi.",
+  "cashing": "Chekni naqdlashtirish oson.",
+  "commercialise": "Ular buni tijoratlashtirmoqchi.",
+  "commercialised": "Rojdestvo haddan tashqari tijoratlashgan.",
+  "computer network": "Bizda kompyuter tarmog'i bor.",
+  "espionage": "Josuslik jinoyatdir.",
+  "indiscriminately": "Ular duch kelganga o'q uzishdi.",
+  "malicious": "Bu zararli elektron xat edi."
+ },
+ "A2": {
+  "armed robbery": "U qurolli talonchilik uchun qamoqqa tushdi.",
+  "cash in": "U shuhratidan foyda ko'rdi.",
+  "cashing": "U ish haqini naqdlashtiryapti.",
+  "commercialise": "Hamma narsani tijoratga aylantirmang.",
+  "commercialised": "Hozir sport juda tijoratlashgan.",
+  "computer network": "Kompyuter tarmog'i ishlamayapti.",
+  "espionage": "U josuslikda ayblandi.",
+  "indiscriminately": "Undan tartibsiz ravishda foydalanmang.",
+  "malicious": "Bu g'arazli ish edi."
+ },
  "B1": {
   "armed robbery": "Bankda qurolli talonchilik sodir bo'ldi.",
   "cash in": "Do'konlar Rojdestvo paytida yaxshi foyda ko'rib qolishadi.",

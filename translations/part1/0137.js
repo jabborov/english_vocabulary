@@ -1,5 +1,39 @@
-// Part 1 topic 0137: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0137: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0137', {
+ "A1": {
+  "CD": "Menda kompakt-disk bor.",
+  "GP": "Men oilaviy shifokorimga uchradim.",
+  "add together": "Ikki bilan uchni qo'shing.",
+  "blood vessel": "Qon qon tomirlari bo'ylab harakatlanadi.",
+  "bum": "Men dumbam bilan yiqildim.",
+  "circulation": "Piyoda yurish qon aylanishiga yordam beradi.",
+  "comfortably": "Qulay o'tiring.",
+  "engineer out": "Mashinalar og'ir mehnatni yo'qotadi.",
+  "glucose": "Glyukoza shakar turi.",
+  "motorised": "Bu motorli velosiped.",
+  "not to mention": "Havo sovuq, ho'lligini aytmasa ham bo'ladi.",
+  "organised": "U juda tartibli.",
+  "surgery": "Poliklinika yopiq.",
+  "tide": "Suv ko'tarilishi o'zgaryapti.",
+  "vessel": "Bu idish."
+ },
+ "A2": {
+  "CD": "Kompakt-diskni qo'ying.",
+  "GP": "Oilaviy shifokoringizga qo'ng'iroq qiling.",
+  "add together": "O'tirgan soatlaringizni qo'shib chiqing.",
+  "blood vessel": "Bu kichik qon tomiri.",
+  "bum": "O'rningdan tur!",
+  "circulation": "Mening qon aylanishim yomon.",
+  "comfortably": "Mushuk qulay holatda uxlayapti.",
+  "engineer out": "Biz texnika yordamida piyoda yurishni hayotimizdan chiqarib tashladik.",
+  "glucose": "Mevada glyukoza bor.",
+  "motorised": "Biz motorli transportdan foydalanamiz.",
+  "not to mention": "U mehribon, kulgililigini aytmasa ham bo'ladi.",
+  "organised": "Bu uyushtirilgan sayohat edi.",
+  "surgery": "Men shifokor qabulxonasiga bordim.",
+  "tide": "Vaziyat bizga qarshi.",
+  "vessel": "Qon tomirlar orqali harakatlanadi."
+ },
  "B1": {
   "CD": "U musiqa diski sotib oldi.",
   "GP": "Umumiy amaliyot shifokori qon bosimimni tekshirdi.",

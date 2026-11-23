@@ -1,5 +1,39 @@
-// Part 1 topic 0508: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0508: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0508', {
+ "A1": {
+  "HTML": "Men HTML o'rganyapman.",
+  "WWW": "WWW Butunjahon o'rgimchak to'ri degani.",
+  "cabinet": "Shkafni oching.",
+  "file cabinet": "Hujjatlar shkafi to'la.",
+  "filing": "Men hujjatlarni tartiblab joylashni yomon ko'raman.",
+  "filing cabinet": "Hujjat jovonini oching.",
+  "gratify": "Bu uni mamnun qiladi.",
+  "gratifying": "Bu mamnun qiladigan edi.",
+  "groundbreaking": "Bu yangi yo'l ochuvchi g'oya.",
+  "mark up": "Matnni belgilab chiqing.",
+  "rightly": "U haqli ravishda xursand edi.",
+  "snail": "Shilliqqurtga qarang.",
+  "surf": "Men internetda kezishni yaxshi ko'raman.",
+  "surfing": "Men serfingni yaxshi ko'raman.",
+  "web page": "Veb-sahifani oching."
+ },
+ "A2": {
+  "HTML": "HTML yordamida veb-sahifalar yaratiladi.",
+  "WWW": "Avval WWW deb yozing.",
+  "cabinet": "Piyolalar javonda.",
+  "file cabinet": "Uni hujjatlar shkafiga qo'ying.",
+  "filing": "Hujjatlarni u tartiblab joylaydi.",
+  "filing cabinet": "U hujjat jovonida.",
+  "gratify": "Yangilik uni xursand qildi.",
+  "gratifying": "Uning muvaffaqiyati quvonarli edi.",
+  "groundbreaking": "Bu yangi yo'l ochuvchi ish.",
+  "mark up": "U sahifani belgilab chiqdi.",
+  "rightly": "U haqli ravishda yo'q dedi.",
+  "snail": "Shilliqqurt sekin yuradi.",
+  "surf": "U har kuni to'lqinda suzadi.",
+  "surfing": "Internetda kezish qiziqarli.",
+  "web page": "Bu veb-sahifa yangi."
+ },
  "B1": {
   "HTML": "HTML ni o'rganish qiyin emas.",
   "WWW": "Butunjahon o'rgimchak to'ri (WWW) yigirma yoshda.",

@@ -1,5 +1,39 @@
-// Part 1 topic 0449: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0449: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0449', {
+ "A1": {
+  "acknowledgement": "E'tirof uchun rahmat.",
+  "avid": "U kitobni juda sevib o'qiydi.",
+  "avidly": "U berilib kitob o'qiydi.",
+  "captivate": "Hikoya meni o'ziga rom etdi.",
+  "celebrated": "U mashhur yozuvchi.",
+  "cheque": "Chek bilan to'lasam bo'ladimi?",
+  "citation": "U maqtov yorlig'i oldi.",
+  "comprise": "Jamoa besh o'yinchidan iborat.",
+  "endorsement": "Bu katta qo'llab-quvvatlash edi.",
+  "loser": "U mag'lubiyatni ko'tara olmaydi.",
+  "news organisation": "BBC yangiliklar tashkilotidir.",
+  "riveting": "Kitob juda maroqli.",
+  "severely": "U qattiq jarohatlandi.",
+  "short list": "U qisqa ro'yxatga kiritilgan.",
+  "shortlist": "U saralangan nomzodlar ro'yxatida."
+ },
+ "A2": {
+  "acknowledgement": "Bu kichik bir e'tirof edi.",
+  "avid": "U ashaddiy muxlis.",
+  "avidly": "U berilib tingladi.",
+  "captivate": "Uning ovozi odamlarni maftun etadi.",
+  "celebrated": "Bu mashhur rasm.",
+  "cheque": "U chek yozib berdi.",
+  "citation": "Iqtibosni o'qing.",
+  "comprise": "Uy uchta xonadan iborat.",
+  "endorsement": "U o'z ma'qullashini bildirdi.",
+  "loser": "Hech kim yutqazuvchi bo'lishni yoqtirmaydi.",
+  "news organisation": "U yangiliklar tashkilotida ishlaydi.",
+  "riveting": "Bu juda maroqli film edi.",
+  "severely": "U qattiq jazolandi.",
+  "short list": "Bizda ismlarning qisqa ro'yxati bor.",
+  "shortlist": "Saralangan ro'yxatda beshta kitob bor."
+ },
  "B1": {
   "acknowledgement": "U minnatdorchilik belgisi sifatida qo'l silkitdi.",
   "avid": "Onam bog'dorchilikka juda ishqiboz.",

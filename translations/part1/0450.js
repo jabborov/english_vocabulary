@@ -1,5 +1,15 @@
-// Part 1 topic 0450: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0450: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0450', {
+ "A1": {
+  "agreeable": "Bu yoqimli oqshom edi.",
+  "prompt": "Menga turtki kerak.",
+  "recur": "Bu tush qayta-qayta takrorlanadi."
+ },
+ "A2": {
+  "agreeable": "U yoqimli inson.",
+  "prompt": "Aktyor so'zini unutib qo'ydi va unga suflyor yordami kerak bo'ldi.",
+  "recur": "Muammo yana takrorlanishi mumkin."
+ },
  "B1": {
   "agreeable": "Ob-havo yoqimli edi.",
   "prompt": "Ilova kechasi eslatma yuboradi.",

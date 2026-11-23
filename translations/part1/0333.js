@@ -1,5 +1,31 @@
-// Part 1 topic 0333: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0333: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0333', {
+ "A1": {
+  "alcohol abuse": "Spirtli ichimliklarni suiiste'mol qilish xavfli.",
+  "cut back": "Men shakarni kamaytiryapman.",
+  "intoxicate": "Juda ko'p vino sizni mast qiladi.",
+  "ml": "Bu shishaga 500 ml sig'adi.",
+  "parlour": "Biz muzqaymoq kafesiga bordik.",
+  "publicity": "Film katta shov-shuvga sabab bo'ldi.",
+  "religious belief": "Diniy e'tiqod u uchun muhim.",
+  "sober": "U bugun kechqurun hushyor.",
+  "stew over": "U tun bo'yi muammo ustida qayg'urib chiqdi.",
+  "tank": "Mashinaning baki bo'sh.",
+  "underage": "U voyaga yetmagan."
+ },
+ "A2": {
+  "alcohol abuse": "U spirtli ichimliklarni suiiste'mol qilganligi uchun yordam oldi.",
+  "cut back": "U qahvani kamaytirdi.",
+  "intoxicate": "U uch qadahdan keyin mast bo'lib qoldi.",
+  "ml": "200 ml sut qo'shing.",
+  "parlour": "Burchakda go'zallik saloni bor.",
+  "publicity": "Yomon shov-shuv biznesga zarar yetkazishi mumkin.",
+  "religious belief": "Odamlarning diniy e'tiqodlari turlicha.",
+  "sober": "U bir yildan beri ichkilik ichmaydi.",
+  "stew over": "U dugonasining gaplari haqida o'ylab, ichidan ezilib yurardi.",
+  "tank": "Bizda katta suv baki bor.",
+  "underage": "Do'konlar voyaga yetmaganlarga spirtli ichimlik sota olmaydi."
+ },
  "B1": {
   "alcohol abuse": "Xayriya tashkiloti alkogolizmdan aziyat chekkan oilalarga yordam beradi.",
   "cut back": "Ota-onam pul tejash uchun tashqarida ovqatlanishni kamaytirishga qaror qilishdi.",

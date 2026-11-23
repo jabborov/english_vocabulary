@@ -1,5 +1,39 @@
-// Part 1 topic 0448: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0448: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0448', {
+ "A1": {
+  "Hollywood": "Gollivud Amerikada joylashgan.",
+  "bandage": "Bint bog'lang.",
+  "bandaged": "Uning qo'li bintlangan.",
+  "communist": "Bu kommunistik davlat edi.",
+  "hail": "Uni qahramon deb olqishlashdi.",
+  "handling": "Uning muammoni hal qilish usuli menga yoqdi.",
+  "injure": "U oyog'ini jarohatladi.",
+  "jungle": "Yo'lbarslar changalzorda yashaydi.",
+  "kidnap": "Ular bir odamni o'g'irlab ketishdi.",
+  "limp": "U oqsoqlanib yuryapti.",
+  "military plane": "Bu harbiy samolyot.",
+  "police force": "U politsiya safiga qo'shildi.",
+  "rainforest": "Tropik o'rmon juda yam-yashil.",
+  "rescue operation": "Qutqaruv operatsiyasi muvaffaqiyatli o'tdi.",
+  "unevenly": "U notekis yuradi."
+ },
+ "A2": {
+  "Hollywood": "Men Gollivud filmlarini juda yaxshi ko'raman.",
+  "bandage": "Menga bint kerak.",
+  "bandaged": "Uning qo'li bintlangan edi.",
+  "communist": "U kommunistik g'oyalar haqida o'qidi.",
+  "hail": "Film muvaffaqiyatli deb e'tirof etildi.",
+  "handling": "U yig'ilishni yaxshi boshqardi.",
+  "injure": "Ikki kishi jarohat oldi.",
+  "jungle": "Changalzor issiq va nam.",
+  "kidnap": "Bola o'g'irlab ketildi.",
+  "limp": "U eshikka oqsoqlanib bordi.",
+  "military plane": "Harbiy samolyot juda shovqinli.",
+  "police force": "Politsiya kuchlari katta.",
+  "rainforest": "Tropik o'rmonda yomg'ir ko'p yog'adi.",
+  "rescue operation": "Ular qutqaruv operatsiyasini boshlashdi.",
+  "unevenly": "Bo'yoq notekis surtilgan edi."
+ },
  "B1": {
   "Hollywood": "U Gollivud yulduzi bo'lishni xohlaydi.",
   "bandage": "Bint oq rangda.",

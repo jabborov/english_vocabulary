@@ -1,5 +1,37 @@
-// Part 1 topic 0415: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0415: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0415', {
+ "A1": {
+  "Stradivari": "Stradivari skripkalar yasagan.",
+  "chop down": "Ular daraxtni kesib yiqitishdi.",
+  "cold spell": "Havo bir muddat sovib ketdi.",
+  "density": "Yog'ochning zichligi past.",
+  "echo": "Men aks-sadoni eshitdim.",
+  "mellow": "Musiqa mayin.",
+  "musical instrument": "Pianino musiqa asbobidir.",
+  "musical scale": "Musiqiy gammani chaling.",
+  "reverberant": "Zalda tovush aks-sado beradi.",
+  "reverberate": "Tovush aks-sado berdi.",
+  "soloist": "Yakkaxon ijrochi juda yaxshi edi.",
+  "timbre": "Menga uning ovoz tembri yoqadi.",
+  "violin maker": "U skripka ustasi.",
+  "violinist": "U skripkachi."
+ },
+ "A2": {
+  "Stradivari": "Stradivari Italiyada yashagan.",
+  "chop down": "Daraxtlarni kesmang!",
+  "cold spell": "Sovuq kunlar bir hafta davom etdi.",
+  "density": "Suvning zichligi yog'nikidan yuqori.",
+  "echo": "Baqiring va aks-sadoni tinglang.",
+  "mellow": "Menga mayin ranglar yoqadi.",
+  "musical instrument": "Biror musiqa asbobini chala olasizmi?",
+  "musical scale": "Bugun bitta musiqiy gammani o'rgandim.",
+  "reverberant": "Bu xonada tovush aks-sado beradi.",
+  "reverberate": "Uning ovozi xonada aks-sado berdi.",
+  "soloist": "U xorda yakkaxon ijrochi.",
+  "timbre": "Bu skripkaning tembri yoqimli.",
+  "violin maker": "Skripka ustasi yog'och bilan ishlaydi.",
+  "violinist": "Skripkachi tomoshabinlarga ta'zim qildi."
+ },
  "B1": {
   "Stradivari": "Stradivari skripkalari juda mashhur.",
   "chop down": "Fermer eski eman daraxtini kesib tashladi.",

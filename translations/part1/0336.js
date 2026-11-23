@@ -1,5 +1,43 @@
-// Part 1 topic 0336: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0336: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0336', {
+ "A1": {
+  "ballot": "Mana sizning byulleteningiz.",
+  "ballot box": "Byulleteningizni saylov qutisiga tashlang.",
+  "box in": "Mashina har tomondan qisib qo'yilgan edi.",
+  "break away": "Guruh ajralib chiqdi.",
+  "campaigning": "Saylovoldi tashviqoti og'ir ish.",
+  "come into being": "Klub o'tgan yili tashkil topgan.",
+  "commemorate": "Biz bu kunni nishonlab xotirlaymiz.",
+  "declaration": "Ular bayonot berishdi.",
+  "essence": "Bu g'oyaning mohiyati.",
+  "homeland": "Shotlandiya uning vatani.",
+  "misinformation": "Bu noto'g'ri ma'lumot.",
+  "passionate": "U musiqaga ishqiboz.",
+  "passport": "Pasportingizni ko'rsating.",
+  "referendum": "Referendum o'tkazildi.",
+  "rivalry": "Ular o'rtasida kuchli raqobat bor.",
+  "rugby": "Men regbini yaxshi ko'raman.",
+  "smear": "Bu hikoya tuhmatdir."
+ },
+ "A2": {
+  "ballot": "Ovoz berish yashirin tarzda o'tkaziladi.",
+  "ballot box": "Saylov qutisi yopiq.",
+  "box in": "Ishda o'zimni qafasga solingandek his qilaman.",
+  "break away": "Bir viloyat ajralib chiqmoqchi.",
+  "campaigning": "Saylovoldi tashviqoti erta boshlandi.",
+  "come into being": "Shahar qachon paydo bo'lgan?",
+  "commemorate": "Ular qahramonlar xotirasini yod etishadi.",
+  "declaration": "Deklaratsiya o'qib eshittirildi.",
+  "essence": "Mehribonlik do'stlikning mohiyatidir.",
+  "homeland": "U vatanini sog'inadi.",
+  "misinformation": "Noto'g'ri ma'lumot tarqatmang.",
+  "passionate": "U ehtirosli nutq so'zladi.",
+  "passport": "Mening pasportim qizil.",
+  "referendum": "Odamlar referendumda ovoz berishdi.",
+  "rivalry": "Jamoalar o'rtasidagi raqobat mashhur.",
+  "rugby": "U maktabda regbi o'ynaydi.",
+  "smear": "Ular unga tuhmat qilishga urinishdi."
+ },
  "B1": {
   "ballot": "Kasaba uyushmasi ish tashlash-tashlamaslikni hal qilish uchun ovoz berish o'tkazdi.",
   "ballot box": "Saylovchilar byulletenlarini saylov qutisiga tashlash uchun navbatga turishdi.",

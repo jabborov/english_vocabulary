@@ -1,5 +1,31 @@
-// Part 1 topic 0475: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0475: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0475', {
+ "A1": {
+  "Jerry": "Jerri mening do'stim.",
+  "announcer": "Diktor baland ovozda gapirdi.",
+  "fly up": "Qush yuqoriga uchib ketdi.",
+  "herald": "Qo'ng'iroq boshlanishdan darak beradi.",
+  "historic period": "Bu tarixiy davr edi.",
+  "in flight": "Qush parvoz qilmoqda.",
+  "lift off": "Raketa havoga ko'tarildi.",
+  "memorabilia": "U esdalik buyumlarini yig'adi.",
+  "propel": "Dvigatellar qayiqni harakatga keltiradi.",
+  "shuttle": "Shattl tayyor.",
+  "space shuttle": "Men kosmik kemani ko'rdim."
+ },
+ "A2": {
+  "Jerry": "Jerri raketalarni yaxshi ko'radi.",
+  "announcer": "U radio diktori.",
+  "fly up": "Shar osmonga uchib ketdi.",
+  "herald": "Bahor iliq kunlardan darak beradi.",
+  "historic period": "Biz tarixiy davrni o'rgandik.",
+  "in flight": "Ular parvoz paytida uxlashdi.",
+  "lift off": "Biz uning havoga ko'tarilishini tomosha qildik.",
+  "memorabilia": "Do'konda esdalik buyumlari sotiladi.",
+  "propel": "Shamol kemani harakatga keltiradi.",
+  "shuttle": "Aeroportga shattl avtobusida boring.",
+  "space shuttle": "Kosmik kema uchib ketdi."
+ },
  "B1": {
   "Jerry": "Jerri uchirilishni televizorda tomosha qildi.",
   "announcer": "Diktor yangiliklarni o'qidi.",

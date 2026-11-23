@@ -1,5 +1,41 @@
-// Part 1 topic 0244: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0244: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0244', {
+ "A1": {
+  "acid": "Limonda kislota bor.",
+  "alcoholic": "Bu spirtli.",
+  "alcoholic drink": "Pivo spirtli ichimlikdir.",
+  "bacterial": "Bu bakterial infeksiya.",
+  "bravery": "U jasorat ko'rsatdi.",
+  "bun": "Menga bulochka kerak.",
+  "counting": "Sanash oson.",
+  "fatty": "Bu go'sht yog'li.",
+  "ferment": "Sut achishi mumkin.",
+  "get moving": "Qani, yo'lga tushaylik!",
+  "miso": "Men miso sho'rvasini yaxshi ko'raman.",
+  "omega": "Baliqda omega-3 bor.",
+  "sauerkraut": "Men tuzlangan karamni tatib ko'rdim.",
+  "varied": "Xilma-xil ovqatlaning.",
+  "wash one's hands": "Qo'lingizni yuving.",
+  "yeast": "Nonga xamirturush kerak."
+ },
+ "A2": {
+  "acid": "Kislota kuydirishi mumkin.",
+  "alcoholic": "Bu spirtli ichimlikmi?",
+  "alcoholic drink": "Men spirtli ichimlik ichmayman.",
+  "bacterial": "Bu bakteriyalar keltirib chiqargan.",
+  "bravery": "U jasorati uchun mukofot oldi.",
+  "bun": "Bu bulochka shirin.",
+  "counting": "Men sanashni yaxshi bilaman.",
+  "fatty": "Yog'li ovqat yemang.",
+  "ferment": "Ular uzumni achitishadi.",
+  "get moving": "Biz yo'lga tushishimiz kerak.",
+  "miso": "Miso Yaponiyadan.",
+  "omega": "Omega yunon harfidir.",
+  "sauerkraut": "Tuzlangan karam nordon bo'ladi.",
+  "varied": "Uning ishi rang-barang.",
+  "wash one's hands": "Men qo'limni yuvaman.",
+  "yeast": "Xamirturushni qo'shing."
+ },
  "B1": {
   "acid": "Sirkada kislota bor.",
   "alcoholic": "Pivo tarkibida spirt bor.",

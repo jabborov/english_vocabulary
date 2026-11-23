@@ -1,5 +1,29 @@
-// Part 1 topic 0434: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0434: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0434', {
+ "A1": {
+  "BMI": "Tana massasi indeksingiz qancha?",
+  "bad person": "U yomon odam emas.",
+  "body mass index": "Tana massasi indeksi bu raqam.",
+  "conflicted": "Ichimda ikkilanish bor.",
+  "devil": "Iblis yomondir.",
+  "ether": "Tovush havoga singib ketdi.",
+  "intrusive": "Shovqin bezovta qiladi.",
+  "prescribe": "Shifokor bir nechta tabletka buyurdi.",
+  "the devil": "Odamlar shaytonni yovuz deyishadi.",
+  "whispering": "Men shivir-shivirni eshitdim."
+ },
+ "A2": {
+  "BMI": "Tana massasi indeksim me'yorda.",
+  "bad person": "Men yomon odammanmi?",
+  "body mass index": "Tana massasi indeksingizni onlayn tekshirishingiz mumkin.",
+  "conflicted": "U ish borasida ikkilanib qoldi.",
+  "devil": "Ichimdagi kichkina shayton tort yegin dedi.",
+  "ether": "Radio signallari efir orqali tarqaladi.",
+  "intrusive": "Uning savollari surbetlarcha edi.",
+  "prescribe": "U dam olishni buyurdi.",
+  "the devil": "Ertaklarda shayton qizil kiyim kiyadi.",
+  "whispering": "Iltimos, shivirlashni bas qiling."
+ },
  "B1": {
   "BMI": "Shifokor tana massasi indeksimni (BMI) tekshirdi.",
   "bad person": "Tort yeganing seni yomon odamga aylantirmaydi.",

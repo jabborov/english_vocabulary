@@ -1,5 +1,19 @@
-// Part 1 topic 0433: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0433: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0433', {
+ "A1": {
+  "bathhouse": "Biz hammomga bordik.",
+  "crack up": "Hammamiz qotib-qotib kulib yubordik.",
+  "randomise": "Biz guruhlarni tasodifiy tarzda tuzamiz.",
+  "sauna": "Men saunani yaxshi ko'raman.",
+  "saunas": "Bu yerda saunalar ko'p."
+ },
+ "A2": {
+  "bathhouse": "Hammom eski.",
+  "crack up": "Uning hazili meni qotib-qotib kuldirdi.",
+  "randomise": "Savollar tartibini tasodifiy qiling.",
+  "sauna": "Sauna juda issiq.",
+  "saunas": "Finlyandiyada saunalar mashhur."
+ },
  "B1": {
   "bathhouse": "Shaharda jamoat hammomi bor.",
   "crack up": "U mening shlyapamni ko'rib, qotib-qotib kulib yubordi.",

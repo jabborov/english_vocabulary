@@ -1,5 +1,47 @@
-// Part 1 topic 0307: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0307: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0307', {
+ "A1": {
+  "Titanic": "Men \"Titanic\"ni ko'rdim.",
+  "abbreviate": "Bu so'zni qisqartiring.",
+  "avatar": "Avatar tanlang.",
+  "avenger": "U qasoskor.",
+  "bank statement": "Men bank ko'chirmamni o'qidim.",
+  "big bang": "Koinot katta portlash bilan boshlangan.",
+  "buy at": "Men oziq-ovqatni bozordan sotib olaman.",
+  "excessively": "U haddan tashqari ko'p ovqatlanadi.",
+  "find over": "Vaqt o'tishi bilan bu osonroq ekanini ko'rasiz.",
+  "grotesque": "Bu xunuk niqob edi.",
+  "inauthentic": "Bu soxta tuyuladi.",
+  "insincere": "Uning tabassumi samimiy emas edi.",
+  "nub": "Gapning mag'zi shu.",
+  "puke": "Qusgim kelyapti.",
+  "raindrop": "Burnimga yomg'ir tomchisi tushdi.",
+  "saccharine": "Qo'shiq haddan tashqari shirin-shakar.",
+  "secret code": "Biz maxfiy koddan foydalandik.",
+  "vomit": "U qusdi.",
+  "whisker": "Mushukning mo'ylovi uzun."
+ },
+ "A2": {
+  "Titanic": "\"Titanic\" uzun film.",
+  "abbreviate": "\"Doctor\" so'zi \"Dr\" deb qisqartiriladi.",
+  "avatar": "Mening avatarim mushuk.",
+  "avenger": "Men \"Qasoskorlar\" filmini ko'rdim.",
+  "bank statement": "Bank ko'chirmasi bugun keldi.",
+  "big bang": "Katta portlash haqida eshitganmisiz?",
+  "buy at": "Do'kondan nima sotib olding?",
+  "excessively": "U haddan tashqari ko'p xavotirlanadi.",
+  "find over": "Yillar davomida ro'yxatlar yordam berishini angladim.",
+  "grotesque": "Film xunuk va dahshatli.",
+  "inauthentic": "Taom haqiqiy milliy taomga o'xshamas edi.",
+  "insincere": "Uning gaplari samimiy eshitilmadi.",
+  "nub": "Masalaning mag'zi mana shu.",
+  "puke": "U mashinada qusib yubordi.",
+  "raindrop": "Derazada yomg'ir tomchilari bor.",
+  "saccharine": "Bu haddan tashqari ko'ngilchan film edi.",
+  "secret code": "Bu maxfiy kod.",
+  "vomit": "Ko'nglim aynib, qusdim.",
+  "whisker": "Mushukchamning mo'ylovi oq."
+ },
  "B1": {
   "Titanic": "\"Titanik\" 1912-yilda cho'kib ketgan.",
   "abbreviate": "Biz uzun nomlarni qisqartiramiz.",

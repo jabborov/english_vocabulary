@@ -1,5 +1,33 @@
-// Part 1 topic 0459: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0459: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0459', {
+ "A1": {
+  "Jason": "Jeyson mening do'stim.",
+  "disconnect": "Ular telefonni uzib qo'yishdi.",
+  "estate": "Biz mavzeda yashaymiz.",
+  "housing estate": "Men turar joy massivida yashayman.",
+  "in arrears": "Uning to'lov qarzdorligi bor.",
+  "moral obligation": "Bu ma'naviy burch.",
+  "overdraft": "Hisobimda overdraft bor.",
+  "personal loan": "Menga shaxsiy kredit kerak.",
+  "repay": "Men pulni qaytarishim kerak.",
+  "saver": "Onam tejamkor.",
+  "spender": "U pulni ko'p sovuradi.",
+  "strain": "Men zo'riqishni his qilyapman."
+ },
+ "A2": {
+  "Jason": "Jeysonning qarzi ko'p.",
+  "disconnect": "Suvni o'chirib qo'ymang.",
+  "estate": "Mavzeda ko'plab uylar bor.",
+  "housing estate": "Turar joy massivi katta.",
+  "in arrears": "Biz ijara haqi bo'yicha qarzdormiz.",
+  "moral obligation": "Yordam berish bizning ma'naviy burchimiz.",
+  "overdraft": "Overdraft qarzim katta.",
+  "personal loan": "U shaxsiy kredit oldi.",
+  "repay": "U bugun qarzini qaytardi.",
+  "saver": "Siz tejamkormisiz yoki isrofgarmi?",
+  "spender": "Akam pulni ko'p sarflaydi.",
+  "strain": "Pul muammolari zo'riqishga sabab bo'ladi."
+ },
  "B1": {
   "Jason": "Jeyson bankdan qarz oldi.",
   "disconnect": "Kompaniya gazimizni uzib qo'ydi.",

@@ -1,5 +1,29 @@
-// Part 2 topic 0037: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0037: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0037', {
+ "A1": {
+  "associated with": "Bu ko'l bir maxluq bilan bog'liq.",
+  "beast": "Bu maxluq katta.",
+  "bizarre": "Bu shlyapa g'alati.",
+  "dreich": "Bugun havo xira, sovuq va namgarchil.",
+  "harpoon": "Odamning qo'lida garpun bor.",
+  "look across": "Ko'lning narigi tomoniga qarang.",
+  "perhaps": "Balki yomg'ir yog'ar.",
+  "preserve": "Biz eski kitoblarni asraymiz.",
+  "regarding": "Sayohat bo'yicha bir savolim bor.",
+  "tackle": "Biz bu muammoni hal qilishimiz kerak."
+ },
+ "A2": {
+  "associated with": "Shotlandiya yomg'ir va tog'lar bilan bog'lanadi.",
+  "beast": "Bolalar ertakdagi maxluqdan qo'rqishdi.",
+  "bizarre": "U bizga g'alati bir hikoya so'zlab berdi.",
+  "dreich": "Havo xira, sovuq va namgarchil edi, shuning uchun uyda qoldik.",
+  "harpoon": "Baliqchilar kitni tutish uchun garpundan foydalanishgan.",
+  "look across": "Biz suvning narigi tomonidagi tepaliklarga qaradik.",
+  "perhaps": "Balki ertaga ko'lga borarmiz.",
+  "preserve": "Tuz baliqni buzilishdan saqlashi mumkin.",
+  "regarding": "U ko'l haqida xat yozdi.",
+  "tackle": "Jamoa qiyin ishni birgalikda hal qildi."
+ },
  "B1": {
   "associated with": "Volinkalar ko'pincha Shotlandiya madaniyati bilan bog'lanadi.",
   "beast": "Odamlarning aytishicha, chuqur suvda g'alati maxluq yashaydi.",

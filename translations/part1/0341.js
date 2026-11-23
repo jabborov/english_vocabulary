@@ -1,5 +1,39 @@
-// Part 1 topic 0341: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0341: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0341', {
+ "A1": {
+  "act out": "Keling, hikoyani sahnalashtiraylik.",
+  "acting out": "Rolni ijro etish bolalar uchun qiziqarli.",
+  "adore": "Men mushugimni juda yaxshi ko'raman.",
+  "break the ice": "Keling, tanishib olish uchun bir o'yin o'ynaylik.",
+  "bribe": "Bu pora.",
+  "degrade": "Boshqa odamlarni kamsitmang.",
+  "degraded": "U o'zini kamsitilgandek his qildi.",
+  "entertainer": "U ko'ngilochar san'atkor.",
+  "exaggerated": "Uning hikoyasi bo'rttirilgan.",
+  "humiliate": "Uni xo'rlama.",
+  "lasting": "Bu uzoq davom etgan do'stlik edi.",
+  "laugh along": "Hammamiz birga kuldik.",
+  "petrol station": "Yoqilg'i quyish shoxobchasi uyimga yaqin.",
+  "presentation": "Bugun mening taqdimotim bor.",
+  "shop floor": "Men sexda ishlayman."
+ },
+ "A2": {
+  "act out": "Bolalar ertakni sahnalashtirishadi.",
+  "acting out": "Darsda biz rollarni ijro etdik.",
+  "adore": "U shokoladli tortni juda yaxshi ko'radi.",
+  "break the ice": "Tabassum tanishuvdagi noqulaylikni yo'qotishi mumkin.",
+  "bribe": "U qo'riqchiga pora bermoqchi bo'ldi.",
+  "degrade": "Qo'pol hazillar ayollarni kamsitishi mumkin.",
+  "degraded": "U g'amgin va xo'rlangan ko'rinardi.",
+  "entertainer": "San'atkor kulgili qo'shiq kuyladi.",
+  "exaggerated": "U bo'rttirib yuz ifodasini qildi.",
+  "humiliate": "U dugonasini xo'rlashni xohlamadi.",
+  "lasting": "Sayohat menga uzoq muddatli ta'sir ko'rsatdi.",
+  "laugh along": "U do'stlari bilan birga kuldi.",
+  "petrol station": "Biz yoqilg'i quyish shoxobchasida to'xtadik.",
+  "presentation": "Uning taqdimoti juda yaxshi bo'ldi.",
+  "shop floor": "Savdo zali juda gavjum."
+ },
  "B1": {
   "act out": "Biz yig'ilishni sahnalashtirib ko'rsatishimiz kerak edi.",
   "acting out": "Telefon suhbatini sahnalashtirish unga mashq qilishga yordam berdi.",

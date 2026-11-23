@@ -1,5 +1,43 @@
-// Part 1 topic 0218: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0218: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0218', {
+ "A1": {
+  "air out": "Xonani shamollating.",
+  "amuse": "Masxarabozlar bolalarni xursand qiladi.",
+  "amused": "Unga bu qiziq tuyuldi.",
+  "astonishment": "U menga hayrat bilan qaradi.",
+  "catch one's breath": "Nafasimni rostlab olishim kerak.",
+  "choking": "Bo'g'ilish xavfli.",
+  "chuckle": "U piq-piq kuladi.",
+  "chuckling": "Men piqillab kulgan ovozni eshityapman.",
+  "diaphragm": "Diafragma mushakdir.",
+  "entertaining": "Film qiziqarli.",
+  "guffaw": "U qah-qah urib kuldi.",
+  "hearty": "Uning kulgisi samimiy.",
+  "laugh off": "U buni kulgiga burib yubordi.",
+  "quietly": "Iltimos, sekin gapiring.",
+  "squeeze": "Apelsinni siqing.",
+  "stream down": "Uning yuzidan ko'z yoshlari oqadi.",
+  "swam": "Men dengizda suzdim."
+ },
+ "A2": {
+  "air out": "Uyni shamollatish uchun derazani oching.",
+  "amuse": "Bu kitob sizni xursand qiladi.",
+  "amused": "U qiziqib qolgandek ko'rindi.",
+  "astonishment": "Men hayratga tushdim.",
+  "catch one's breath": "To'xtab, nafasingizni rostlab oling.",
+  "choking": "Bo'g'ilib qolishdan ehtiyot bo'ling.",
+  "chuckle": "U sekingina kulib qo'ydi.",
+  "chuckling": "Sinfda piq-piq kulgi eshitildi.",
+  "diaphragm": "Diafragma nafas olishimizga yordam beradi.",
+  "entertaining": "U qiziqarli odam.",
+  "guffaw": "U qah-qah kulgini eshitdi.",
+  "hearty": "Biz to'yimli ovqatlandik.",
+  "laugh off": "U xatosini kulib o'tkazib yubordi.",
+  "quietly": "U ohista kuldi.",
+  "squeeze": "U qo'limni siqdi.",
+  "stream down": "Yomg'ir derazadan oqib tushdi.",
+  "swam": "U tez suzdi."
+ },
  "B1": {
   "air out": "Kulish o'pkadagi havoni tashqariga chiqaradi.",
   "amuse": "Uning hazillari meni doim kuldiradi.",

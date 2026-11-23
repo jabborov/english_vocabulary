@@ -1,5 +1,43 @@
-// Part 1 topic 0256: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0256: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0256', {
+ "A1": {
+  "all at once": "Hammasini birdaniga qilmang.",
+  "bite off": "U nondan bir bo'lak tishlab uzib oldi.",
+  "chaos": "Xona alg'ov-dalg'ov.",
+  "clear away": "O'yinchoqlarni yig'ishtirib qo'ying.",
+  "clutter": "Xonam narsalarga to'lib-toshgan.",
+  "cluttered": "Xonam narsalar bilan to'lib ketgan.",
+  "cupboard": "Shkafni oching.",
+  "disorganised": "Men tartibsiz odamman.",
+  "gradual": "Bu asta-sekin o'zgarish.",
+  "heap": "Bir uyum kitob bor.",
+  "homily": "U nasihatomuz va'z o'qidi.",
+  "interior design": "U interyer dizaynini yaxshi ko'radi.",
+  "minimalist": "Xona minimalistik uslubda.",
+  "surrounding": "Atrofimdagi muhit menga yoqadi.",
+  "untidy": "Xonam tartibsiz.",
+  "unused": "Xonadan foydalanilmaydi.",
+  "uplifted": "Ko'nglim ko'tarildi."
+ },
+ "A2": {
+  "all at once": "To'satdan yomg'ir yog'ib ketdi.",
+  "bite off": "Kuching yetmaydigan ishga qo'l urma.",
+  "chaos": "Bekatda alg'ov-dalg'ov bo'ldi.",
+  "clear away": "U likopchalarni yig'ishtirib oldi.",
+  "clutter": "Keraksiz narsalarni yig'ishtiring.",
+  "cluttered": "Stol narsalarga to'lib ketgan.",
+  "cupboard": "Finjonlar shkafda.",
+  "disorganised": "Yig'ilish tartibsiz o'tdi.",
+  "gradual": "Asta-sekin o'sish kuzatildi.",
+  "heap": "Uni uyumning ustiga qo'ying.",
+  "homily": "Ruhoniy qisqa va'z o'qidi.",
+  "interior design": "U interyer dizayni sohasida ishlaydi.",
+  "minimalist": "Menga minimalistik uslub yoqadi.",
+  "surrounding": "Atrofdagi hudud sokin.",
+  "untidy": "U tartibsiz odam.",
+  "unused": "Menda ishlatilmagan chipta bor.",
+  "uplifted": "Musiqa ko'nglimni ko'tardi."
+ },
  "B1": {
   "all at once": "Ularning hammasi birdaniga gapirib yuborishdi.",
   "bite off": "It go'shtdan bir bo'lak uzib oldi.",

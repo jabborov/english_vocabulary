@@ -1,5 +1,35 @@
-// Part 1 topic 0444: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0444: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0444', {
+ "A1": {
+  "ILO": "XMT BMTning bir qismi.",
+  "a trifle": "Havo biroz sovuq.",
+  "custodian": "U muzey qo'riqchisi.",
+  "detach": "Sahifani ajratib oling.",
+  "entrench": "Yomon odatlar ildiz otib qolishi mumkin.",
+  "entrenched": "Muammo chuqur ildiz otgan.",
+  "higher education": "U oliy ta'limda o'qiydi.",
+  "lightly": "U unga yengilgina tegdi.",
+  "marginalise": "Hech kimni chetga surmang.",
+  "marginalised": "Ular o'zlarini chetga surilgandek his qilishadi.",
+  "one and only": "Bu mening yagona paltom.",
+  "trifle": "Shirinlikka trayfl yedik.",
+  "unskilled": "Uning ishi malaka talab qilmaydi."
+ },
+ "A2": {
+  "ILO": "XMT hisobot yozdi.",
+  "a trifle": "Men biroz kechikdim.",
+  "custodian": "U kalitlarning qo'riqchisi.",
+  "detach": "Kapyushonni ajratib olishingiz mumkin.",
+  "entrench": "Muammo chuqur ildiz otib ketishi mumkin.",
+  "entrenched": "Bu g'oyalar chuqur ildiz otgan.",
+  "higher education": "Oliy ta'lim qimmat bo'lishi mumkin.",
+  "lightly": "Yomg'ir sekin yog'di.",
+  "marginalise": "Qashshoqlik oilalarni jamiyat chetiga surib qo'yishi mumkin.",
+  "marginalised": "Chetga surilgan guruhlarga yordam bering.",
+  "one and only": "U bu yerdagi yagona do'stim.",
+  "trifle": "Bu arzimas narsa, xolos.",
+  "unskilled": "Malaka talab qilmaydigan ish kam haq to'lanadi."
+ },
  "B1": {
   "ILO": "XMT (Xalqaro mehnat tashkiloti) butun dunyodagi ishchilarga yordam beradi.",
   "a trifle": "U biroz charchaganga o'xshardi.",

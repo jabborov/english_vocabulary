@@ -1,5 +1,37 @@
-// Part 1 topic 0181: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0181: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0181', {
+ "A1": {
+  "IT": "Men informatika darslarini yaxshi ko'raman.",
+  "PISA": "PISA bu test.",
+  "Singapore": "Singapur Osiyoda joylashgan.",
+  "contentious": "Bu munozarali mavzu.",
+  "historically": "Tarixan bu yer ferma bo'lgan.",
+  "international organisation": "Bu xalqaro tashkilot.",
+  "keep apart": "Itlarni bir-biridan ajratib turing.",
+  "outpace": "U mendan o'zib keta oladi.",
+  "outperform": "U sinfdoshlaridan yaxshiroq natija ko'rsatadi.",
+  "principal": "Direktor o'z xonasida.",
+  "school principal": "Maktab direktori mehribon.",
+  "segregate": "Bolalarni bir-biridan ajratmang.",
+  "service industry": "U xizmat ko'rsatish sohasida ishlaydi.",
+  "upcoming": "Menda yaqinlashib kelayotgan imtihon bor."
+ },
+ "A2": {
+  "IT": "U axborot texnologiyalari sohasida ishlaydi.",
+  "PISA": "PISA o'qish, matematika va tabiiy fanlarni tekshiradi.",
+  "Singapore": "Amakivachcham Singapurda yashaydi.",
+  "contentious": "Uy vazifasi maktabimizda bahsli masala.",
+  "historically": "Tarixan bu yerda kam qizlar maktabga borgan.",
+  "international organisation": "Ko'plab davlatlar bu xalqaro tashkilotga a'zo bo'ladi.",
+  "keep apart": "O'qituvchi ikki bolani bir-biridan uzoq tutdi.",
+  "outpace": "Tez yuguruvchi hammadan o'zib ketdi.",
+  "outperform": "Jamoamiz boshqalardan yaxshiroq natija ko'rsatdi.",
+  "principal": "Direktorning oldiga boring.",
+  "school principal": "Maktab direktorimiz yig'ilishda nutq so'zlaydi.",
+  "segregate": "Maktab o'g'il va qiz bolalarni alohida o'qitadi.",
+  "service industry": "Mehmonxonalar xizmat ko'rsatish sohasining bir qismi.",
+  "upcoming": "Yaqin kunlardagi rejalaringiz qanday?"
+ },
  "B1": {
   "IT": "Maktabimizda yangi axborot texnologiyalari xonasi bor.",
   "PISA": "PISA natijalari har bir necha yilda e'lon qilinadi.",

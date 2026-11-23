@@ -1,5 +1,23 @@
-// Part 1 topic 0411: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0411: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0411', {
+ "A1": {
+  "double helix": "DNK qo'sh spiraldan iborat.",
+  "hand down": "U avloddan avlodga o'tib kelgan.",
+  "helix": "Bu spiral.",
+  "infectious": "Shamollash yuqumli.",
+  "infectious disease": "Gripp yuqumli kasallikdir.",
+  "micro": "Bu mikrokompyuter.",
+  "prosper": "Shahar gullab-yashnadi."
+ },
+ "A2": {
+  "double helix": "Qo'sh spiral chizing.",
+  "hand down": "U ko'ylagini kichiklarga berdi.",
+  "helix": "Geliks bu spiraldir.",
+  "infectious": "Bu yuqumlimi?",
+  "infectious disease": "U yuqumli kasalliklarni o'rganadi.",
+  "micro": "\"Micro\" juda kichik degan ma'noni bildiradi.",
+  "prosper": "O'simliklar quyoshda yaxshi o'sadi."
+ },
  "B1": {
   "double helix": "Qo'sh spiral mashhur shakldir.",
   "hand down": "Hikoyalar avloddan avlodga o'tadi.",

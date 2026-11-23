@@ -1,5 +1,35 @@
-// Part 1 topic 0385: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0385: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0385', {
+ "A1": {
+  "block out": "Yorug'likni to'sish uchun pardalarni yoping.",
+  "distracting": "Musiqa chalg'itadi.",
+  "get under one's skin": "O'sha shovqin asabimga tegadi.",
+  "grievance": "Uning shikoyati bor.",
+  "headphone": "Mening yangi quloqchinlarim bor.",
+  "imaginatively": "U ijodkorona yozadi.",
+  "lie around": "Poyabzallarim uyning hamma yerida sochilib yotadi.",
+  "stand by": "Iltimos, kutib turing.",
+  "tapping": "Men taqillagan ovozni eshityapman.",
+  "tolerant": "Boshlig'im juda bag'rikeng.",
+  "touch base": "Keyinroq bog'lanaylik.",
+  "unwashed": "Piyolalar yuvilmagan.",
+  "willingness": "Menga uning yordam berishga tayyorligi yoqadi."
+ },
+ "A2": {
+  "block out": "Men shovqinga quloq yumolmayapman.",
+  "distracting": "Bu shovqin juda chalg'itadi.",
+  "get under one's skin": "Mayda narsalar ham asabingizga tegishi mumkin.",
+  "grievance": "U menga o'z shikoyatini aytib berdi.",
+  "headphone": "U quloqchinda musiqa tinglaydi.",
+  "imaginatively": "Xona ijodkorona bezatilgan edi.",
+  "lie around": "Uning kitoblari hamma joyda sochilib yotibdi.",
+  "stand by": "Men qo'l qovushtirib qarab turolmayman.",
+  "tapping": "Iltimos, taqillatishni bas qiling!",
+  "tolerant": "Boshqa odamlarga bag'rikeng bo'ling.",
+  "touch base": "Ertaga siz bilan bog'lanaman.",
+  "unwashed": "Stolimda yuvilmagan likopcha bor.",
+  "willingness": "U o'rganishga tayyorligini ko'rsatdi."
+ },
  "B1": {
   "block out": "U hamkasblarining gap-so'zlarini eshitmaslik uchun musiqa qo'ydi.",
   "distracting": "Ishlayotganimda yorqin chiroqlar diqqatimni chalg'itadi.",

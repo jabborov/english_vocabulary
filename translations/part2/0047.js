@@ -1,5 +1,43 @@
-// Part 2 topic 0047: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0047: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0047', {
+ "A1": {
+  "a bit hairy": "Uning qo'llari biroz tukli.",
+  "catch a scratch": "Sizga ham qichishish yuqishi mumkin.",
+  "feed on": "Mushuklar baliq bilan oziqlanadi.",
+  "it is indeed a beard scratch": "Bu haqiqatan ham soqolni qashish.",
+  "itch": "Badanim qichishyapti.",
+  "itchier": "Bu sviter ko'proq qichitadi.",
+  "itchy": "Oyog'im qichishyapti.",
+  "jumper": "Mening qizil sviterim bor.",
+  "loads": "Mening juda ko'p o'yinchoqlarim bor.",
+  "parasite": "Burga parazitdir.",
+  "scalp": "Bosh terim qichishyapti.",
+  "scratch": "Qashimang!",
+  "spontaneously": "U beixtiyor kulib yubordi.",
+  "spot on": "Javobingiz mutlaqo to'g'ri.",
+  "to mean get from someone else": "\"Catch\" so'zi biror narsani boshqa birovdan yuqtirib olish ma'nosini bildirishi mumkin.",
+  "unpleasant": "Hid yoqimsiz.",
+  "whether": "Uning uyda bor-yo'qligini bilmayman."
+ },
+ "A2": {
+  "a bit hairy": "Mening itim biroz junli.",
+  "catch a scratch": "Qichishish menga do'stimdan yuqdi.",
+  "feed on": "Burgalar qon bilan oziqlanadi.",
+  "it is indeed a beard scratch": "Ha, bu haqiqatan ham soqolni qashish.",
+  "itch": "Bu chivin chaqqan joyi qichishyapti.",
+  "itchier": "Bugun qo'lim ko'proq qichishyapti.",
+  "itchy": "Bu yangi paypoqlar badanni qichitadi.",
+  "jumper": "Sviteringizni kiying. Havo sovuq.",
+  "loads": "Vaqtimiz juda ko'p.",
+  "parasite": "Ba'zi parazitlar itlarda yashaydi.",
+  "scalp": "Bosh teringizni yaxshilab yuving.",
+  "scratch": "It qulog'ini qashiyapti.",
+  "spontaneously": "Bolalar o'z-o'zidan qo'shiq aytib yuborishdi.",
+  "spot on": "Uning taxmini mutlaqo to'g'ri chiqdi.",
+  "to mean get from someone else": "Shamollashni yuqtirish uni boshqa birovdan olishni anglatadi.",
+  "unpleasant": "Bu yoqimsiz kun bo'ldi.",
+  "whether": "Undan choy xohlaydimi yoki yo'qmi, so'rang."
+ },
  "B1": {
   "a bit hairy": "Ta'tildan keyin uning iyagi biroz junlanib qolgan edi.",
   "catch a scratch": "Uning qashinayotganini ko'rib, men ham qashina boshladim.",

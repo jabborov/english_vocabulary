@@ -1,5 +1,41 @@
-// Part 2 topic 0039: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0039: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0039', {
+ "A1": {
+  "Callum": "Kallum mening do'stim.",
+  "I kind of persuaded you": "Men sizni kelishga qandaydir ko'ndirdim.",
+  "ape": "Odamsimon maymunning dumi yo'q.",
+  "biologically": "O'rmon biologik jihatdan boy.",
+  "canopy": "Maymunlar daraxtlarning yuqori qavatida yashaydi.",
+  "clouded leopard": "Bulutli qoplon mushuksimonlar oilasiga kiradi.",
+  "creepy-crawlies": "Menga o'rmalovchi hasharotlar yoqmaydi.",
+  "evolve": "Hayvonlar evolyutsiyaga uchraydi.",
+  "fascinating": "Film juda qiziqarli.",
+  "gibbon": "Gibbonning qo'llari uzun.",
+  "habitat": "Bu qushning yashash muhiti.",
+  "rainforest": "Tropik o'rmon yam-yashil.",
+  "remarkable": "Bu ajoyib qush.",
+  "rhinoceros": "Karkidon katta hayvon.",
+  "stick": "Menda tayoq bor.",
+  "tend to hear": "Biz odatda ertalab qushlarning ovozini eshitamiz."
+ },
+ "A2": {
+  "Callum": "Kallum hayvonlarni yaxshi ko'radi.",
+  "I kind of persuaded you": "Siz borishni xohlamagan edingiz, lekin men sizni qandaydir ko'ndirdim.",
+  "ape": "Gorilla va shimpanzelar odamsimon maymunlardir.",
+  "biologically": "Bu ikki hayvon biologik jihatdan o'xshash.",
+  "canopy": "Daraxtlarning yuqori qavati juda baland.",
+  "clouded leopard": "Bulutli qoplon daraxtlarga chiqa oladi.",
+  "creepy-crawlies": "Bog'da o'rmalovchi hasharotlar juda ko'p.",
+  "evolve": "Qushlar dinozavrlardan kelib chiqqan.",
+  "fascinating": "Hayvonlarni kuzatish juda qiziqarli.",
+  "gibbon": "Gibbon daraxtdan daraxtga osilib o'tadi.",
+  "habitat": "O'rmon maymunlar uchun yaxshi yashash muhiti.",
+  "rainforest": "Tropik o'rmonda ko'p yomg'ir yog'adi.",
+  "remarkable": "Uning xotirasi ajoyib.",
+  "rhinoceros": "Karkidonning burnida shoxi bor.",
+  "stick": "It tayoqni qaytarib olib keldi.",
+  "tend to hear": "Kechasi odatda hasharotlarning ovozi eshitiladi."
+ },
  "B1": {
   "Callum": "Callum film suratga olish uchun tropik o'rmonga bordi.",
   "I kind of persuaded you": "Avvaliga yo'q dedingiz, lekin men sizni qandaydir ko'ndirdim, shunday emasmi?",

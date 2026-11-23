@@ -1,5 +1,43 @@
-// Part 1 topic 0229: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0229: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0229', {
+ "A1": {
+  "attractiveness": "Ba'zi odamlar uchun jozibadorlik muhim.",
+  "attribute": "U muvaffaqiyatini mehnatsevarlikka bog'laydi.",
+  "audition": "Bugun menda tanlov tinglovi bor.",
+  "competence": "U malakasini ko'rsatdi.",
+  "dominant": "U hukmron.",
+  "electoral": "Bu saylov qonuni.",
+  "extrovert": "U ekstrovert.",
+  "extroverted": "U ochiqko'ngil va kirishimli.",
+  "in practice": "Nazariyada oson, lekin amalda qiyin.",
+  "masculine": "Uning ovozi erkaklarcha.",
+  "mental state": "Uning ruhiy holati yaxshi.",
+  "minimise": "Xavfni kamaytiring.",
+  "predictive": "Bu test bashorat qilish imkonini beradi.",
+  "strongest": "U eng kuchli bola.",
+  "symphony orchestra": "U simfonik orkestrda chaladi.",
+  "take under": "U meni o'z qanoti ostiga oldi.",
+  "trustworthy": "Unga ishonsa bo'ladi."
+ },
+ "A2": {
+  "attractiveness": "Biz jozibadorlik haqida gaplashdik.",
+  "attribute": "U bu iqtibosni Eynshteynga nisbat beradi.",
+  "audition": "Tanlov tinglovi yaxshi o'tdi.",
+  "competence": "Bizga malakali odamlar kerak.",
+  "dominant": "Qizil asosiy rang.",
+  "electoral": "Saylov kampaniyasi uzoq davom etadi.",
+  "extrovert": "Men ekstrovert emasman.",
+  "extroverted": "Akam juda kirishimli va ochiqko'ngil.",
+  "in practice": "Amalda bu ish bermadi.",
+  "masculine": "Xona erkaklarga xos ko'rinishda.",
+  "mental state": "U o'zining ruhiy holati haqida gapirdi.",
+  "minimise": "Biz xarajatlarni kamaytirmoqchimiz.",
+  "predictive": "Model bashorat qilish qobiliyatiga ega.",
+  "strongest": "Bu eng kuchli qahva.",
+  "symphony orchestra": "Simfonik orkestr juda katta.",
+  "take under": "U yangi talabalarni o'z qanoti ostiga oladi.",
+  "trustworthy": "Uning yuzi ishonch uyg'otadi."
+ },
  "B1": {
   "attractiveness": "Uning jozibadorligi martabasiga yordam berdi.",
   "attribute": "Biz jilmaygan odamlarni mehribon deb hisoblaymiz.",

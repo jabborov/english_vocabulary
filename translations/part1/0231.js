@@ -1,5 +1,43 @@
-// Part 1 topic 0231: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0231: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0231', {
+ "A1": {
+  "Cooper": "Janob Cooper mening o'qituvchim.",
+  "cracked": "Ekranim yorilgan.",
+  "gizmo": "Bu moslama shishalarni ochadi.",
+  "glue": "Menga biroz yelim kerak.",
+  "glue on": "Ko'zlarni yopishtiring.",
+  "keep quiet": "Iltimos, kutubxonada jim bo'ling.",
+  "make up one's mind": "Bir qarorga keling!",
+  "millionaire": "U millioner.",
+  "responsibly": "Iltimos, mas'uliyat bilan harakat qiling.",
+  "screw": "Men kichkina vintni yo'qotib qo'ydim.",
+  "screw on": "Qopqoqni burab yoping.",
+  "strong belief": "Men unga qattiq ishonaman.",
+  "throwaway": "Bu bir martalik stakan.",
+  "tracker": "Men treker taqib yuraman.",
+  "twisted": "Sim buralib qolgan.",
+  "unscrew": "Iltimos, qopqoqni burab oching.",
+  "valid": "Bu chipta amal qiladimi?"
+ },
+ "A2": {
+  "Cooper": "Cooper xonim universitetda ishlaydi.",
+  "cracked": "Bu piyola darz ketgan.",
+  "gizmo": "U yangi moslamalarni juda yaxshi ko'radi.",
+  "glue": "U rasmni daftariga yopishtirdi.",
+  "glue on": "U bir nechta yulduzchalarni yopishtirdi.",
+  "keep quiet": "Sovg'am haqida hech kimga aytmay tura olasizmi?",
+  "make up one's mind": "Bir qarorga kela olmayapman.",
+  "millionaire": "U millioner bo'lishni xohlaydi.",
+  "responsibly": "Mas'uliyat bilan haydang.",
+  "screw": "Javonni devorga vint bilan mahkamlang.",
+  "screw on": "Qopqoq burab yopiladi.",
+  "strong belief": "Uning e'tiqodlari mustahkam.",
+  "throwaway": "Bir martalik narsalarni sotib olmang.",
+  "tracker": "Trekerim qadamlarimni sanaydi.",
+  "twisted": "Velosipedimning g'ildiragi qiyshayib qolgan.",
+  "unscrew": "Bu shishaning qopqog'ini burab ocholmayapman.",
+  "valid": "Bu o'rinli savol."
+ },
  "B1": {
   "Cooper": "Professor Cooper eski muzlatgich va kir yuvish mashinalari haqida gapiradi.",
   "cracked": "Telefonimni tushirib yubordim, endi oynasi darz ketgan.",

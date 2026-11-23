@@ -1,5 +1,33 @@
-// Part 1 topic 0269: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0269: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0269', {
+ "A1": {
+  "blooper": "Bu kulgili xato edi.",
+  "boarding": "Men skeytbordda uchishni yaxshi ko'raman.",
+  "forum": "Men forumga qo'shildim.",
+  "know nothing": "Men hech narsa bilmayman.",
+  "playground": "Bolalar o'yin maydonchasida.",
+  "posting": "Men uning postini o'qidim.",
+  "psyche": "Bu ruhiyatga ta'sir qiladi.",
+  "public domain": "Bu hammaga ochiq mulk.",
+  "skate": "Men konkida ucha olaman.",
+  "tweeting": "U tvit yozishni yaxshi ko'radi.",
+  "unaddicted": "U qaram emas.",
+  "wordsmith": "U so'z ustasi."
+ },
+ "A2": {
+  "blooper": "Bu kulgili xato.",
+  "boarding": "Skeytbordda uchish qiziqarli.",
+  "forum": "Bu musiqa forumi.",
+  "know nothing": "U mashinalar haqida hech narsa bilmaydi.",
+  "playground": "Biz o'yin maydonchasida o'ynadik.",
+  "posting": "U yangi post joyladi.",
+  "psyche": "Inson ruhiyati murakkab.",
+  "public domain": "Bu surat hammaga ochiq mulk hisoblanadi.",
+  "skate": "Keling, bugun konkida uchamiz.",
+  "tweeting": "U hozir tvit yozyapti.",
+  "unaddicted": "Men o'yinlarga qaram emasman.",
+  "wordsmith": "U so'zning buyuk ustasi."
+ },
  "B1": {
   "blooper": "Biz kulgili xatolarga kuldik.",
   "boarding": "U skeytbord uchishni juda yaxshi ko'radi.",

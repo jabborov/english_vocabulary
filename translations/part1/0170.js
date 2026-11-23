@@ -1,5 +1,43 @@
-// Part 1 topic 0170: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0170: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0170', {
+ "A1": {
+  "database": "Bu katta ma'lumotlar bazasi.",
+  "diagram": "Diagrammaga qarang.",
+  "emigrate": "Ular Kanadaga ko'chib ketishdi.",
+  "ethnicity": "Millatingiz nima?",
+  "explicitly": "U buni ochiq-oydin aytdi.",
+  "family tree": "Bu mening shajaram.",
+  "forebear": "Ajdodlarim Ispaniyadan kelgan.",
+  "genealogist": "U genealog.",
+  "geography": "Men geografiyani yaxshi ko'raman.",
+  "glitch": "Nosozlik yuz berdi.",
+  "historical record": "Bu tarixiy yozuv.",
+  "in line": "Navbatda turing.",
+  "kit": "Men to'plam sotib oldim.",
+  "long ago": "Bu ancha oldin bo'lgan.",
+  "send off": "Xatni jo'nating.",
+  "tree diagram": "Daraxtsimon diagramma chizing.",
+  "variation": "Biroz farq bor."
+ },
+ "A2": {
+  "database": "Ismlarni ma'lumotlar bazasiga kiriting.",
+  "diagram": "Diagramma chizing.",
+  "emigrate": "Amakim chet elga ko'chib ketmoqchi.",
+  "ethnicity": "Test mening etnik kelib chiqishimni ko'rsatadi.",
+  "explicitly": "Qoidalar aniq yozilgan.",
+  "family tree": "Men maktabda shajara tuzdim.",
+  "forebear": "Uning ajdodlari baliqchi bo'lgan.",
+  "genealogist": "Genealog mening oilamni topdi.",
+  "geography": "Geografiya mening eng yaxshi fanim.",
+  "glitch": "Nosozlik tufayli telefonim ishlamay qoldi.",
+  "historical record": "Eski yozuvlar bizga ko'p narsani aytib beradi.",
+  "in line": "Natijalar mening fikrlarimga mos keladi.",
+  "kit": "Bu birinchi tibbiy yordam to'plami.",
+  "long ago": "Qadim zamonlarda odamlar g'orlarda yashagan.",
+  "send off": "Men arizamni jo'natdim.",
+  "tree diagram": "Daraxtsimon diagramma mening oilamni ko'rsatadi.",
+  "variation": "Ob-havo o'zgaruvchan."
+ },
  "B1": {
   "database": "Kompaniyaning katta DNK ma'lumotlar bazasi bor.",
   "diagram": "Diagramma mening oilamni ko'rsatadi.",

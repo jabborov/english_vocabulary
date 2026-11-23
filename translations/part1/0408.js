@@ -1,5 +1,29 @@
-// Part 1 topic 0408: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0408: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0408', {
+ "A1": {
+  "army unit": "U armiya bo'linmasida xizmat qiladi.",
+  "clean out": "Qutini tozalab, bo'shating.",
+  "contextual": "Bizga kontekstdagi ishoralar kerak.",
+  "fireplace": "Biz kamin yonida o'tirdik.",
+  "for the time being": "Hozircha shu yerda qoling.",
+  "pigeon": "Men kaptarni ko'ryapman.",
+  "recipient": "Qabul qiluvchi kim?",
+  "repeatable": "Bu sinovni takrorlash mumkin.",
+  "sender": "Jo'natuvchi kim?",
+  "unbreakable": "Bu shisha sinmaydi."
+ },
+ "A2": {
+  "army unit": "Armiya bo'linmasi joyini o'zgartirdi.",
+  "clean out": "Men mashinamni tozalab chiqdim.",
+  "contextual": "Bu kontekstga bog'liq.",
+  "fireplace": "Kamin iliq.",
+  "for the time being": "Hozircha hammasi joyida.",
+  "pigeon": "Kaptarlar shaharlarda yashaydi.",
+  "recipient": "Qabul qiluvchi xat oldi.",
+  "repeatable": "Bu takrorlanadigan jarayon.",
+  "sender": "Jo'natuvchining ismini yozing.",
+  "unbreakable": "Bu shifrni buzib bo'lmaydi."
+ },
  "B1": {
   "army unit": "Harbiy qism xabar yubordi.",
   "clean out": "Biz garajni tozalab chiqdik.",

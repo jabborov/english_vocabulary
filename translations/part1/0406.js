@@ -1,5 +1,35 @@
-// Part 1 topic 0406: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0406: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0406', {
+ "A1": {
+  "finishing": "U marra chizig'ida turibdi.",
+  "finishing school": "U odob-axloq maktabida o'qigan.",
+  "furthest": "Qaysi biri eng uzoqda?",
+  "head up": "U jamoaga rahbarlik qiladi.",
+  "headmaster": "U maktab direktori.",
+  "high society": "Ular yuqori tabaqaga mansub.",
+  "impeccable": "Uning xulq-atvori benuqson.",
+  "leaver": "U maktabni endigina bitirgan.",
+  "let down": "Meni umidsizlantirma.",
+  "place setting": "Dasturxondagi idishlar tartibiga qarang.",
+  "school year": "O'quv yili sentabrda boshlanadi.",
+  "tutor": "Repetitorim menga yordam beradi.",
+  "young lady": "Salom, xonim qiz."
+ },
+ "A2": {
+  "finishing": "So'nggi pardoz berishni unutmang.",
+  "finishing school": "Bu o'g'il bolalar uchun odob-axloq maktabi.",
+  "furthest": "U hammadan uzoqda yashaydi.",
+  "head up": "Bu loyihaga kim rahbarlik qiladi?",
+  "headmaster": "Maktab direktori qattiqqo'l.",
+  "high society": "U yuqori tabaqa davralarini yaxshi ko'radi.",
+  "impeccable": "U ingliz tilida benuqson gapiradi.",
+  "leaver": "Maktabni bitiruvchilar ko'p.",
+  "let down": "U jamoasining umidini puchga chiqardi.",
+  "place setting": "Men uchun dasturxonga idish-tovoq qo'yib qo'ying.",
+  "school year": "O'quv yilining oxiri keldi.",
+  "tutor": "U matematika repetitori.",
+  "young lady": "U endi balog'atga yetgan qiz."
+ },
  "B1": {
   "finishing": "Yakuniy bosqich oson.",
   "finishing school": "Odob maktablarida yaxshi xulq-atvor o'rgatiladi.",

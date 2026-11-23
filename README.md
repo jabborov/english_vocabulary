@@ -19,7 +19,7 @@ For each word you get:
 - 🔄 **Synonyms and opposites:** shown for adjectives, nouns, verbs, adverbs, determiners and pronouns (e.g. *cheap → expensive*, *success → failure*, *increase → decrease*, *quickly → slowly*, *many → few*). Turn them on or off with the **⇄ Synonyms** button.
 - 🇺🇿 **Uzbek translation:** every word is translated into Uzbek.
 - 📈 **CEFR levels:** example sentences from A1 to C2.
-- 🌐 **Translate:** shows the Uzbek translation of the example sentences when the **B1**, **B2**, **C1** or **C2** level is selected. Turn it on or off with the **文 Translate** button.
+- 🌐 **Translate:** shows the Uzbek translation of the example sentences when a CEFR level (**A1–C2**) is selected. Turn it on or off with the **文 Translate** button.
 - 🎲 **Random word:** practise with a random word.
 - ✅ **Progress:** mark words as memorized, weak or to learn.
 - 🌙 **Dark mode:** switch between light and dark themes.
@@ -44,7 +44,7 @@ english_vocabulary/
 ├── examples.js            # Part 2 example sentences (A1–C2)
 ├── irregular.js           # Irregular verbs: past simple and past participle forms
 ├── tr-loader.js           # Loads one topic's Uzbek translations only when needed
-├── translations/          # Uzbek translations of the B1–C2 example sentences, one file per topic
+├── translations/          # Uzbek translations of the A1–C2 example sentences, one file per topic
 │   ├── part1/             # 0001.js … 0508.js
 │   └── part2/             # 0001.js … 0080.js
 ├── synonyms.js            # Synonyms and opposites for adjectives, nouns, verbs, adverbs, determiners and pronouns

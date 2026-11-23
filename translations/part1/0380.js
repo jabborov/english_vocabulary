@@ -1,5 +1,31 @@
-// Part 1 topic 0380: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0380: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0380', {
+ "A1": {
+  "blackberry": "Men maymunjonni yaxshi ko'raman.",
+  "caution": "Ehtiyot bo'ling.",
+  "certainty": "Men buni ishonch bilan ayta olaman.",
+  "death cap": "Oq poganka zaharli qo'ziqorin.",
+  "identification": "Sizda shaxsingizni tasdiqlovchi hujjat bormi?",
+  "malign": "Uning zararli ta'siri bor.",
+  "misplace": "Kalitlarimni qayergadir qo'yib, topolmay qoldim.",
+  "positive identification": "Bizga aniq tasdiqlangan shaxsni aniqlash kerak.",
+  "scanning": "Skanerlash vaqt oladi.",
+  "thorough": "Puxta bo'ling.",
+  "wild garlic": "Bu yovvoyi sarimsoq."
+ },
+ "A2": {
+  "blackberry": "Bu maymunjon shirin.",
+  "caution": "Ehtiyotkorlik bilan haydang.",
+  "certainty": "Hech qanday aniqlik yo'q.",
+  "death cap": "Oq poganka qo'ziqorinini yemang.",
+  "identification": "O'simliklarni aniqlash qiyin.",
+  "malign": "O'sha o'simlik zararli.",
+  "misplace": "Xaritani yo'qotib qo'ymang.",
+  "positive identification": "Avval aniq tasdiqlab oling.",
+  "scanning": "Yerni sinchiklab ko'zdan kechirishda davom eting.",
+  "thorough": "U juda puxta.",
+  "wild garlic": "Yovvoyi sarimsoqning hidi o'tkir."
+ },
  "B1": {
   "blackberry": "Biz bog'da maymunjon terdik.",
   "caution": "Iltimos, bunga ehtiyotkorlik bilan munosabatda bo'ling.",

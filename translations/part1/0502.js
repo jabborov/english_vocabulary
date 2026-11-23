@@ -1,5 +1,17 @@
-// Part 1 topic 0502: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0502: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0502', {
+ "A1": {
+  "characterise": "Uni qanday ta'riflagan bo'lardingiz?",
+  "market place": "Bozor maydoni gavjum.",
+  "population growth": "Bu yerda aholi tez o'smoqda.",
+  "refrigeration": "Go'shtni sovutgichda saqlash kerak."
+ },
+ "A2": {
+  "characterise": "Mehribonlik uning o'ziga xos xususiyati.",
+  "market place": "Biz bozor maydonida uchrashdik.",
+  "population growth": "Shaharda aholi soni tez o'smoqda.",
+  "refrigeration": "Sovutish sutni sovuq saqlaydi."
+ },
  "B1": {
   "characterise": "Bu hudud issiq yozi bilan ajralib turadi.",
   "market place": "Shaharda qadimiy bozor maydoni bor.",

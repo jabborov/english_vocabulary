@@ -1,5 +1,39 @@
-// Part 1 topic 0255: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0255: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0255', {
+ "A1": {
+  "III": "Georg III qirol bo'lgan.",
+  "closet": "Palto shkafda.",
+  "descendent": "U qirolning avlodi.",
+  "digitise": "Ular eski kitoblarni raqamlashtirishadi.",
+  "distantly": "Biz uzoq qarindoshmiz.",
+  "gateway": "Darvozadan o'ting.",
+  "genealogy": "Nasl-nasabni o'rganish mening sevimli mashg'ulotim.",
+  "great grandfather": "Babamning otasi dehqon bo'lgan.",
+  "immigration": "Immigratsiya katta mavzu.",
+  "lore": "Bu oilamiz rivoyatlarining bir qismi.",
+  "mystery story": "Men sirli hikoyalarni yaxshi ko'raman.",
+  "saliva": "So'lak og'zingizda bo'ladi.",
+  "skeleton in the closet": "Har bir oilaning yashirin siri bor.",
+  "waste of money": "Bu pulni behuda sovurish edi.",
+  "working class": "Oilam ishchilar sinfiga mansub."
+ },
+ "A2": {
+  "III": "Genrix III ingliz bo'lgan.",
+  "closet": "Shkafni oching.",
+  "descendent": "U mening avlodim.",
+  "digitise": "Suratlarni raqamlashtirishimiz kerak.",
+  "distantly": "U biz bilan uzoqdan bog'liq.",
+  "gateway": "Darvoza ochiq.",
+  "genealogy": "U nasl-nasab o'rganishni yaxshi ko'radi.",
+  "great grandfather": "Babamning otasini hech qachon ko'rmaganman.",
+  "immigration": "U immigratsiya sohasida ishlaydi.",
+  "lore": "Qadimiy rivoyatlarga ko'ra, bu omad keltiradi.",
+  "mystery story": "U sirli hikoya o'qiyapti.",
+  "saliva": "Itlarning so'lagi ko'p bo'ladi.",
+  "skeleton in the closet": "Yashirin sir bormi?",
+  "waste of money": "Uni sotib olma, bu pulni behuda sovurish.",
+  "working class": "U ishchilar sinfidan."
+ },
  "B1": {
   "III": "Bu III qism.",
   "closet": "Shkafim kiyimlarga to'la.",

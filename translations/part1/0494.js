@@ -1,5 +1,37 @@
-// Part 1 topic 0494: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0494: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0494', {
+ "A1": {
+  "Celtic": "Bugun \"Seltik\" g'alaba qozondi.",
+  "clash": "To'qnashuv bo'ldi.",
+  "confrontation": "To'qnashuvdan qoching.",
+  "derby": "Bugun derbi.",
+  "direct correlation": "To'g'ridan-to'g'ri bog'liqlik bor.",
+  "domestic violence": "Oiladagi zo'ravonlik jinoyatdir.",
+  "fixture": "O'yinlar jadvalini tekshiring.",
+  "heated": "Bu qizg'in o'yin edi.",
+  "licensing": "Litsenziyalash qonunlari qat'iy.",
+  "match play": "Match o'yini yaxshi o'tdi.",
+  "midweek": "Bu hafta o'rtasidagi o'yin.",
+  "spill over": "Uni toshib ketishiga yo'l qo'ymang.",
+  "televise": "Ular buni televizorda ko'rsatishadi.",
+  "whistle": "Hakamda hushtak bor."
+ },
+ "A2": {
+  "Celtic": "U \"Seltik\"ka muxlislik qiladi.",
+  "clash": "Bu katta to'qnashuv.",
+  "confrontation": "To'qnashuv bo'ldi.",
+  "derby": "Men derbini juda yaxshi ko'raman.",
+  "direct correlation": "To'g'ridan-to'g'ri bog'liqlik bormi?",
+  "domestic violence": "Oiladagi zo'ravonlikka barham bering.",
+  "fixture": "Bu katta uchrashuv.",
+  "heated": "Ular qizg'in bahslashishdi.",
+  "licensing": "Bu litsenziyalash qoidasi.",
+  "match play": "Biz match o'yinini tomosha qildik.",
+  "midweek": "Bizda hafta o'rtasida mashg'ulot bor.",
+  "spill over": "Suv toshib chiqdi.",
+  "televise": "O'yin televizorda ko'rsatildi.",
+  "whistle": "Hushtak chaling."
+ },
  "B1": {
   "Celtic": "Seltik yashil formada o'ynaydi.",
   "clash": "To'qnashuv qisqa davom etdi.",

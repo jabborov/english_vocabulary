@@ -1,5 +1,47 @@
-// Part 1 topic 0437: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0437: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0437', {
+ "A1": {
+  "charitable": "Bu xayriya guruhi.",
+  "chase away": "It mushukni quvib yubordi.",
+  "chug": "Ular ko'chada xayriya uchun qistab pul so'rashadi.",
+  "chugging": "Ko'chada xayriya uchun qistab pul so'rash Londonda keng tarqalgan.",
+  "donor": "U xayriyachi.",
+  "fundraise": "Biz maktab uchun mablag' yig'amiz.",
+  "fundraiser": "U xayriya mablag'larini yig'uvchi.",
+  "fundraising": "Mablag' yig'ish xayriya tashkilotlariga yordam beradi.",
+  "harass": "Menga xiralik qilma!",
+  "harassing": "Menga xiralik qilishni bas qil.",
+  "marathon runner": "U marafon yuguruvchisi.",
+  "mugger": "Bosqinchi sumkamni tortib oldi.",
+  "mugging": "Kecha kechqurun talonchilik sodir bo'ldi.",
+  "part with": "Telefonimdan ajralmayman.",
+  "put under": "Menga bosim o'tkazma.",
+  "stand in": "Ular ko'chada turishibdi.",
+  "summit": "Sammit bugun bo'ladi.",
+  "unease": "Ichimda xavotir paydo bo'ldi.",
+  "unpopular": "Yangi qoida odamlarga yoqmaydi."
+ },
+ "A2": {
+  "charitable": "U juda saxiy.",
+  "chase away": "Qushlarni haydab yubor!",
+  "chug": "U ko'chada xayriya tashkiloti uchun pul so'raydi.",
+  "chugging": "Men ko'chada xayriya uchun qistab pul so'rashni yoqtirmayman.",
+  "donor": "Xayriya tashkiloti xayriyachilariga minnatdorchilik bildirdi.",
+  "fundraise": "Ular har yili mablag' yig'ishadi.",
+  "fundraiser": "Xayriya mablag'i yig'uvchi menga jilmaydi.",
+  "fundraising": "U mablag' yig'ish sohasida ishlaydi.",
+  "harass": "U qo'shnisiga tinchlik bermadi.",
+  "harassing": "Odamlarni ta'qib qilib bezovta qilish noto'g'ri.",
+  "marathon runner": "Marafonchi charchagan.",
+  "mugger": "Politsiya bosqinchini qo'lga oldi.",
+  "mugging": "Talonchilik jinoyatdir.",
+  "part with": "U pul bilan xayrlashishni yomon ko'radi.",
+  "put under": "Menga bosim o'tkazildi.",
+  "stand in": "Yo'lda turma!",
+  "summit": "Rahbarlar sammitda uchrashishdi.",
+  "unease": "Reja yuzasidan xavotir bor.",
+  "unpopular": "Maktabda uni yoqtirishmaydi."
+ },
  "B1": {
   "charitable": "Ular xayriya ishlari bilan shug'ullanishadi.",
   "chase away": "U bolalarni quvib yubordi.",

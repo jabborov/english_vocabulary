@@ -1,5 +1,31 @@
-// Part 1 topic 0309: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0309: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0309', {
+ "A1": {
+  "Finn": "U finlandiyalik.",
+  "breathe out": "Sekin nafas chiqaring.",
+  "canned food": "Bizda konserva bor.",
+  "decompress": "G'avvoslar dekompressiyadan o'tishi kerak.",
+  "decompressing": "Dekompressiya vaqt talab qiladi.",
+  "diver": "U g'avvos.",
+  "dry land": "Biz quruqlikka yetib keldik.",
+  "feat": "Bu buyuk jasorat edi.",
+  "frontier": "Okean hali o'rganilmagan chegara.",
+  "simulate": "O'yin mashina haydashni simulyatsiya qiladi.",
+  "undersea": "Bu suv osti kabeli."
+ },
+ "A2": {
+  "Finn": "Finn mening do'stim.",
+  "breathe out": "Nafas oling, so'ng nafas chiqaring.",
+  "canned food": "Konservalar uzoq vaqt saqlanadi.",
+  "decompress": "Menga dam olib, asabni tinchlantirish kerak.",
+  "decompressing": "U hozir asabiy zo'riqishdan xalos bo'lyapti.",
+  "diver": "G'avvos chuqurlikka suzib tushdi.",
+  "dry land": "Men quruqlikni afzal ko'raman.",
+  "feat": "Toqqa chiqish katta jasorat edi.",
+  "frontier": "Ular chegarani kesib o'tishdi.",
+  "simulate": "Ular ob-havoni modellashtirishadi.",
+  "undersea": "Biz suv osti o'simliklarini ko'rdik."
+ },
  "B1": {
   "Finn": "Finlandiyalik ingliz tilida yaxshi gapirdi.",
   "breathe out": "U chuqur nafas chiqardi.",

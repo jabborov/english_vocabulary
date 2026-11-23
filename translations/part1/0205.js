@@ -1,5 +1,33 @@
-// Part 1 topic 0205: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0205: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0205', {
+ "A1": {
+  "Victoria": "Victoria o'qituvchi.",
+  "bilingual": "U ikki tilni biladi.",
+  "cognitive neuroscientist": "U kognitiv neyrobiolog.",
+  "first language": "Mening ona tilim o'zbek tili.",
+  "immerse": "Ingliz tiliga sho'ng'ib keting.",
+  "learner": "Men ingliz tilini o'rganuvchiman.",
+  "logo": "Bu bizning logotipimiz.",
+  "monolingual": "U faqat bir tilni biladi.",
+  "paying back": "Men qarzni qaytaryapman.",
+  "polyglot": "U ko'p tilni biladi.",
+  "to the full": "Hayotdan to'liq bahramand bo'ling.",
+  "weekday": "Dushanba ish kuni."
+ },
+ "A2": {
+  "Victoria": "Victoria fransuzcha gapiradi.",
+  "bilingual": "Siz ikki tilni bilasizmi?",
+  "cognitive neuroscientist": "Kognitiv neyrobiolog miyani o'rganadi.",
+  "first language": "Ona tilingiz qaysi?",
+  "immerse": "U butunlay ishiga sho'ng'ib ketdi.",
+  "learner": "U tez o'rganadi.",
+  "logo": "Logotip ko'k rangda.",
+  "monolingual": "Bu bir tilli lug'at.",
+  "paying back": "U do'stiga qarzini qaytaryapti.",
+  "polyglot": "Poliglot ko'p tilda gapiradi.",
+  "to the full": "Vaqtingizdan to'liq foydalaning.",
+  "weekday": "Men ish kunlari ishlayman."
+ },
  "B1": {
   "Victoria": "Victoria ispan tilini maktabda o'rgangan.",
   "bilingual": "U ikki tilli oilada ulg'aygan.",

@@ -1,5 +1,31 @@
-// Part 1 topic 0436: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0436: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0436', {
+ "A1": {
+  "cattle": "Qoramollar dalada.",
+  "chew over": "Bu haqda yaxshilab o'ylab ko'ray.",
+  "chunk": "Men bir bo'lak non yedim.",
+  "degradation": "Tanazzul yerga zarar yetkazadi.",
+  "farmland": "Bu qishloq xo'jaligi yeri.",
+  "fertiliser": "O'g'it o'simliklarning o'sishiga yordam beradi.",
+  "geopolitical": "Bu geosiyosiy muammo.",
+  "landowner": "U yer egasi.",
+  "of import": "Bu muhim.",
+  "stark": "Farq juda keskin.",
+  "tractor": "Traktor yashil rangda."
+ },
+ "A2": {
+  "cattle": "Qoramollar o't yeydi.",
+  "chew over": "Fikringiz ustida yaxshilab o'ylab ko'rishim kerak.",
+  "chunk": "U bir bo'lak pishloq kesdi.",
+  "degradation": "Biz yerlarning yemirilishini to'xtatishimiz kerak.",
+  "farmland": "Uyim yaqinida ekin maydonlari bor.",
+  "fertiliser": "Bog'ga o'g'it soling.",
+  "geopolitical": "Geosiyosiy voqealar narxlarga ta'sir qiladi.",
+  "landowner": "Yer egasining dalalari ko'p.",
+  "of import": "Bu muhim masala.",
+  "stark": "Bu jiddiy ogohlantirish edi.",
+  "tractor": "Amakimning traktori bor."
+ },
  "B1": {
   "cattle": "Fermerning ellik bosh qoramoli bor.",
   "chew over": "Biz rejani soatlab muhokama qilib, o'ylab ko'rdik.",

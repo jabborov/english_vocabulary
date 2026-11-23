@@ -1,5 +1,29 @@
-// Part 1 topic 0178: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0178: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0178', {
+ "A1": {
+  "acceptably": "U qoniqarli darajada yaxshi natija ko'rsatdi.",
+  "all the same": "Havo sovuq edi, lekin baribir bordik.",
+  "approximation": "Bu taxminiy hisob.",
+  "ballpark": "Menga taxminiy raqamni ayting.",
+  "dehydrate": "Quyoshda suvsizlanib qolmang.",
+  "dehydration": "Suvsizlanish xavfli.",
+  "dry mouth": "Og'zim qurib qoldi.",
+  "hydration": "Organizmni suv bilan ta'minlash muhim.",
+  "scientific fact": "Bu ilmiy fakt.",
+  "water bottle": "Bu mening suv idishim."
+ },
+ "A2": {
+  "acceptably": "Ovqat yetarlicha iliq edi.",
+  "all the same": "Charchagan edim, lekin baribir maktabga bordim.",
+  "approximation": "Bu raqam taxminiy.",
+  "ballpark": "Bu taxminan to'g'rimi?",
+  "dehydrate": "Yuguruvchilar tez suvsizlanishi mumkin.",
+  "dehydration": "Issiq kunlar suvsizlanishga sabab bo'lishi mumkin.",
+  "dry mouth": "Og'iz qurishi chanqaganingizni bildiradi.",
+  "hydration": "Organizmni suv bilan yaxshi ta'minlash uchun suv iching.",
+  "scientific fact": "Suv 100 darajada qaynaydi; bu ilmiy fakt.",
+  "water bottle": "Men har tong suv idishimni to'ldiraman."
+ },
  "B1": {
   "acceptably": "U o'yinda qoniqarli o'ynadi.",
   "all the same": "U kechirim so'radi, lekin baribir jahlim chiqib turardi.",

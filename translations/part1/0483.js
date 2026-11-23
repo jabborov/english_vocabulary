@@ -1,5 +1,33 @@
-// Part 1 topic 0483: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0483: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0483', {
+ "A1": {
+  "Davy": "Deyvi mening do'stim.",
+  "costly": "Mashina qimmatga tushdi.",
+  "dainty": "Uning qo'llari nozik.",
+  "daydream": "Men ko'p xayol suraman.",
+  "daydreaming": "Xayol surishni bas qil!",
+  "dizzy": "Boshim aylanyapti.",
+  "get in touch": "Iltimos, biz bilan bog'laning.",
+  "merchandise": "Do'konga yangi mollar keldi.",
+  "merchandising": "Merchandayzing katta biznesdir.",
+  "receipt": "Mana sizning chekingiz.",
+  "research director": "U tadqiqot bo'limi direktori.",
+  "unsteady": "U oyoqda zo'rg'a turibdi."
+ },
+ "A2": {
+  "Davy": "Deyvi ko'k rangni yaxshi ko'radi.",
+  "costly": "Bu qimmatga tushadigan mashg'ulot.",
+  "dainty": "Bu nafis piyola.",
+  "daydream": "Hozir xayolga berilma.",
+  "daydreaming": "U darsda xayol surib o'tirgan edi.",
+  "dizzy": "Attraksion boshimni aylantirib yubordi.",
+  "get in touch": "Tez orada bog'lanaman.",
+  "merchandise": "Bu mollar arzon.",
+  "merchandising": "Ular merchandayzing sohasida ishlashadi.",
+  "receipt": "Chek bera olasizmi?",
+  "research director": "Tadqiqot bo'limi direktori band.",
+  "unsteady": "Stol qimirlab turibdi."
+ },
  "B1": {
   "Davy": "Deyvi o'yinchoqlar do'konida ishlaydi.",
   "costly": "Tomni ta'mirlash qimmatga tushdi.",

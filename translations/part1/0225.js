@@ -1,5 +1,35 @@
-// Part 1 topic 0225: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0225: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0225', {
+ "A1": {
+  "Benjamin": "Uning ismi Benjamin.",
+  "card game": "Keling, karta o'ynaymiz.",
+  "granny": "Men buvimni yaxshi ko'raman.",
+  "irritated": "Men asabiylashdim.",
+  "lead on": "Meni yolg'on umid bilan aldamang.",
+  "operative": "Qonun amalda.",
+  "operatively": "Reja samarali ishladi.",
+  "ostracise": "Ular uni jamoadan chetlatishdi.",
+  "parking": "Bu yerda avtoturargoh bepul.",
+  "parking space": "Mashina qo'yish uchun joy bor.",
+  "selfishly": "U xudbinlarcha harakat qildi.",
+  "so to speak": "U, ta'bir joiz bo'lsa, boshliq.",
+  "social group": "Bu mening ijtimoiy guruhim."
+ },
+ "A2": {
+  "Benjamin": "Benjamin o'qituvchi.",
+  "card game": "Poker karta o'yinidir.",
+  "granny": "Buvim tort pishiradi.",
+  "irritated": "U asabiylashgan ko'rinardi.",
+  "lead on": "U yigit uni yolg'on umid bilan aldagandek his qildi.",
+  "operative": "Mashina yana ishlayapti.",
+  "operatively": "Bu qoida amaliy jihatdan muhim.",
+  "ostracise": "U maktabda o'zini chetga surilgandek his qildi.",
+  "parking": "Mehmonxonada avtoturargoh bormi?",
+  "parking space": "Mashina qo'yish uchun joy topa olmayapman.",
+  "selfishly": "U xudbinlik qilib, barcha shirinliklarni yeb qo'ydi.",
+  "so to speak": "U, ta'bir joiz bo'lsa, mening ikkinchi onam.",
+  "social group": "Biz bir ijtimoiy guruhdamiz."
+ },
  "B1": {
   "Benjamin": "Benjamin bizga o'z tadqiqoti haqida gapirib berdi.",
   "card game": "Kechki ovqatdan keyin karta o'ynadik.",

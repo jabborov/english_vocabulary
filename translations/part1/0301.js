@@ -1,5 +1,37 @@
-// Part 1 topic 0301: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0301: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0301', {
+ "A1": {
+  "awaken": "Men erta uyg'onaman.",
+  "bodybuilder": "U bodibilder.",
+  "business enterprise": "U tadbirkorlik korxonasini ochdi.",
+  "coy": "U yoshi haqida gapirishdan tortinadi.",
+  "enterprise": "Bu kichik korxona.",
+  "granddad": "Bobom mehribon.",
+  "lotion": "Biroz losyon surting.",
+  "midnight": "Men yarim tunda uxlashga yotaman.",
+  "of age": "Har qanday yoshdagi bolalar o'ynashi mumkin.",
+  "old woman": "Kampir mening qo'shnim.",
+  "order off": "Hakam uni maydondan chetlatdi.",
+  "potion": "Jodugar sehrli ichimlik tayyorladi.",
+  "senior citizen": "U keksa fuqaro.",
+  "unfit": "Men jismonan juda zaifman."
+ },
+ "A2": {
+  "awaken": "Shovqin chaqaloqni uyg'otib yubordi.",
+  "bodybuilder": "Bodibilderning qo'llari baquvvat.",
+  "business enterprise": "Uning tadbirkorlik korxonasi kichik.",
+  "coy": "Tortinma, ayt menga!",
+  "enterprise": "U katta tashabbuskorlik ko'rsatdi.",
+  "granddad": "Men yakshanba kunlari bobomni ko'rgani boraman.",
+  "lotion": "Bu losyon quruq teri uchun.",
+  "midnight": "Ziyofat yarim tunda tugadi.",
+  "of age": "U o'tgan yili voyaga yetdi.",
+  "old woman": "Skameykada bir kampir o'tirardi.",
+  "order off": "U maydondan chetlatildi.",
+  "potion": "U sehrli ichimlikni ichdi.",
+  "senior citizen": "Keksa fuqarolar arzon chipta olishadi.",
+  "unfit": "U jismonan zaif va charchagan edi."
+ },
  "B1": {
   "awaken": "U tong otganda uyg'ondi.",
   "bodybuilder": "U yetmish yoshida bodibilder bo'ldi.",

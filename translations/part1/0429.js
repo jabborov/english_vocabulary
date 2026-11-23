@@ -1,5 +1,33 @@
-// Part 1 topic 0429: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0429: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0429', {
+ "A1": {
+  "amphora": "Bu amfora.",
+  "breakable": "Shisha sinuvchan.",
+  "cargo": "Yuk og'ir.",
+  "cargo ship": "Yuk kemasi juda katta.",
+  "commercial activity": "Do'konlar tijorat faoliyatidir.",
+  "engulf": "Suv qayiqni yutib yubordi.",
+  "pick out": "Mening uyimni ajratib ko'rsata olasizmi?",
+  "pottery": "Bu sopol buyumlar qadimiy.",
+  "send down": "Ular pastga kamera tushirishdi.",
+  "sink in": "Yangilik ongimga yetib bormadi.",
+  "two hundred": "Menda ikki yuzta marka bor.",
+  "wrecked": "Kema halokatga uchragan."
+ },
+ "A2": {
+  "amphora": "Amfora katta ko'zadir.",
+  "breakable": "Ehtiyot bo'ling, u sinadi!",
+  "cargo": "Samolyot yuk tashiydi.",
+  "cargo ship": "Yuk kemasi mashinalar tashiydi.",
+  "commercial activity": "Shaharda tijorat faoliyati jadal.",
+  "engulf": "Tutun xonani qamrab oldi.",
+  "pick out": "Olomon ichidan do'stimni ajratib topdim.",
+  "pottery": "U sopol buyumlar yasaydi.",
+  "send down": "Biz pastga arqon tushirdik.",
+  "sink in": "Buni yaxshilab anglab olishga vaqt bering.",
+  "two hundred": "Bu yerda ikki yuz kishi bor.",
+  "wrecked": "Biz sohilda halokatga uchragan qayiqni ko'rdik."
+ },
  "B1": {
   "amphora": "Rimliklar sharobni amforada saqlashgan.",
   "breakable": "Sinadigan narsalarni qog'ozga o'rang.",

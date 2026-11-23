@@ -1,5 +1,37 @@
-// Part 1 topic 0381: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0381: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0381', {
+ "A1": {
+  "clumping": "Men og'ir qadam tovushlarini eshitdim.",
+  "curly": "Uning sochi jingalak.",
+  "duplicate": "Menda kalitning nusxasi bor.",
+  "follow up": "Ertaga bu masalaga qaytaman.",
+  "follow up on": "Men bu masalani kuzatib boraman.",
+  "landline": "Sizda statsionar telefon bormi?",
+  "patiently": "Sabr bilan kuting.",
+  "sm": "Xabaringizni oldim.",
+  "smartly": "U ozoda kiyingan edi.",
+  "urgency": "Bu shoshilinch masala.",
+  "voicemail": "Ovozli pochtangizni tekshiring.",
+  "waiting": "Kutish zerikarli.",
+  "waiting list": "Men kutish ro'yxatidaman.",
+  "workmate": "U mening hamkasbim."
+ },
+ "A2": {
+  "clumping": "Gursillagan qadam tovushi meni uyg'otib yubordi.",
+  "curly": "Cho'chqaning dumi jingalak.",
+  "duplicate": "Bu nusxa.",
+  "follow up": "Bu masalani keyin surishtirdingizmi?",
+  "follow up on": "Iltimos, elektron xatimni kuzatib boring.",
+  "landline": "Menga statsionar telefonga qo'ng'iroq qiling.",
+  "patiently": "U sabr bilan o'tirdi.",
+  "sm": "Keyinroq menga xabar yuboring.",
+  "smartly": "U ozoda kiyinadi.",
+  "urgency": "U shoshilinch ohangda gapirdi.",
+  "voicemail": "Men ovozli xabar qoldirdim.",
+  "waiting": "Men kutishni yomon ko'raman.",
+  "waiting list": "Kutish ro'yxati uzun.",
+  "workmate": "Men hamkasbim bilan tushlik qildim."
+ },
  "B1": {
   "clumping": "U etiklarini taqillatib kirib keldi.",
   "curly": "Telefonning jingalak simi bor edi.",

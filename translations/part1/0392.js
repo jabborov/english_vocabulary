@@ -1,5 +1,27 @@
-// Part 1 topic 0392: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0392: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0392', {
+ "A1": {
+  "advertisement": "Men reklamani ko'rdim.",
+  "by no means": "Bu aslo oson emas.",
+  "clicking": "Men chiqillagan ovozni eshityapman.",
+  "copying": "Ko'chirish noto'g'ri.",
+  "copyright": "Mualliflik huquqi kimga tegishli?",
+  "know b": "Men bu haqda bilaman.",
+  "legal right": "Bu mening qonuniy huquqim.",
+  "piracy": "Qaroqchilik noqonuniy.",
+  "subscription": "Menda obuna bor."
+ },
+ "A2": {
+  "advertisement": "Televizorda reklama bor.",
+  "by no means": "U aslo boy emas.",
+  "clicking": "Sichqonchani chiqillatishni bas qil!",
+  "copying": "Ishimdan ko'chirishni bas qil!",
+  "copyright": "Bu qo'shiq mualliflik huquqi bilan himoyalangan.",
+  "know b": "Onam yaxshiroq biladi.",
+  "legal right": "Sizning ovoz berishga qonuniy huquqingiz bor.",
+  "piracy": "Film qaroqchiligi muammodir.",
+  "subscription": "Obuna arzon."
+ },
  "B1": {
   "advertisement": "Reklama juda kulgili edi.",
   "by no means": "Bu aslo eng yaxshi film emas.",

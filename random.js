@@ -146,7 +146,7 @@
     $('rw-uz').textContent = f.uz;
     $('rw-ex-label').textContent = f.level ? `Example · ${f.level}` : 'Example';
     $('rw-ex').textContent = f.ex;
-    // Uzbek translation (B1–C2 only). The topic's file is loaded on demand the first time.
+    // Uzbek translation (A1–C2 levels only, not the original example). The topic's file is loaded on demand the first time.
     const fillUz = data => {
       const uz = f.shownIdx >= 0 ? ((data || {})[LEVELS[f.shownIdx]] || {})[it.w] : null;
       const uzex = $('rw-uzex');

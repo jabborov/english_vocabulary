@@ -1,5 +1,37 @@
-// Part 1 topic 0029: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0029: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0029', {
+ "A1": {
+  "accidentally": "Men telefonimni tasodifan sindirib qo'ydim.",
+  "behind": "Mushuk eshik orqasida.",
+  "by the way": "Aytgancha, sumkangiz menga yoqdi.",
+  "care": "Men sizga befarq emasman.",
+  "cell phone": "Bu mening uyali telefonim.",
+  "cellular": "Bu uyali aloqa tarmog'i.",
+  "cellular phone": "Uyali telefon bu mobil telefon.",
+  "make unnecessary": "Telefonlar xaritalarni keraksiz qilib qo'yadi.",
+  "mine": "Bu telefon meniki.",
+  "okay": "Mayli, ketdik.",
+  "phone call": "Menga qo'ng'iroq bor.",
+  "ringing": "Qo'ng'iroq ovozini eshityapman.",
+  "turn off": "Televizorni o'chiring.",
+  "weird": "Bu g'alati."
+ },
+ "A2": {
+  "accidentally": "U tasodifan suratni o'chirib yubordi.",
+  "behind": "U avtobusda mening orqamda o'tirdi.",
+  "by the way": "Aytgancha, telefoningiz qayerda?",
+  "care": "Siz qoidalarga ahamiyat berasizmi?",
+  "cell phone": "Uyali telefoningiz qayerda?",
+  "cellular": "Bu yerda uyali aloqa signali bor.",
+  "cellular phone": "Bobom uni uyali telefon deb ataydi.",
+  "make unnecessary": "Elektron pochta ko'plab xatlarni keraksiz qilib qo'ydi.",
+  "mine": "Bu sumka siznikimi yoki menikimi?",
+  "okay": "Bu sizga ma'qulmi?",
+  "phone call": "U onasiga telefon qildi.",
+  "ringing": "Qo'ng'iroq ovozi meni uyg'otib yubordi.",
+  "turn off": "Iltimos, darsda telefoningizni o'chiring.",
+  "weird": "Uning qo'ng'iroq ohangi g'alati."
+ },
  "B1": {
   "accidentally": "U xabarni tasodifan boshqa odamga yuborib yubordi.",
   "behind": "Orqamdagi kimdir telefonda gaplashayotgan edi.",

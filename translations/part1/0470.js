@@ -1,5 +1,47 @@
-// Part 1 topic 0470: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0470: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0470', {
+ "A1": {
+  "beg off": "U sayohatdan uzr so'rab bosh tortdi.",
+  "brick in": "Ular derazani g'isht bilan bekitib tashlashdi.",
+  "broomstick": "Jodugarning supurgisi bor.",
+  "cottage": "Ular kichkina kottejda yashashadi.",
+  "cough up": "Pulni chiqar!",
+  "execute": "Qirol qatl etildi.",
+  "ghostly": "Men arvohnamo tovushni eshitdim.",
+  "glory": "Bog' butun ko'rkamligi bilan namoyon.",
+  "hallway": "Poyabzallaringizni dahlizda qoldiring.",
+  "maintenance": "Lift ta'mirlash uchun yopilgan.",
+  "mummified": "Bu mumiyolangan mushuk edi.",
+  "mummify": "Misrliklar jasadlarni mumiyolashgan.",
+  "persecute": "Ular ta'qib qilingan.",
+  "seal": "Qutini muhrlab qo'ying.",
+  "speculation": "Bu shunchaki taxmin.",
+  "supernatural": "Arvohlar g'ayritabiiy mavjudotlardir.",
+  "tour guide": "Gid samimiy edi.",
+  "victimise": "Uni nohaq jabrlamang.",
+  "witchcraft": "Jodugarlik sehrning bir turidir."
+ },
+ "A2": {
+  "beg off": "U kasal bo'lgani uchun uzr so'rab kelmadi.",
+  "brick in": "Eski eshik g'isht bilan bekitilgan edi.",
+  "broomstick": "U supurgida uchdi.",
+  "cottage": "Kottejning bog'i bor.",
+  "cough up": "U besh funt to'lashga majbur bo'ldi.",
+  "execute": "Ular mahbusni qatl etishdi.",
+  "ghostly": "Kechasi uy arvohlardek qo'rqinchli ko'rinardi.",
+  "glory": "Ular mamlakatlari uchun shon-sharaf qozonishdi.",
+  "hallway": "Dahliz qorong'i.",
+  "maintenance": "Mashinalarga muntazam texnik xizmat ko'rsatish kerak.",
+  "mummified": "Biz mumiyolangan jasadni ko'rdik.",
+  "mummify": "Quruq havo jasadni mumiyolashi mumkin.",
+  "persecute": "Hech kim ta'qib qilinmasligi kerak.",
+  "seal": "Eshik muhrlab qo'yilgan edi.",
+  "speculation": "Uning ishi haqida turli mish-mishlar bor.",
+  "supernatural": "Siz g'ayritabiiy narsalarga ishonasizmi?",
+  "tour guide": "Gidan so'rang.",
+  "victimise": "U ishda o'zini jabrlangandek his qildi.",
+  "witchcraft": "U jodugarlikda ayblandi."
+ },
  "B1": {
   "beg off": "Ish tufayli ziyofatga bora olmasligimni aytib, uzr so'rashga majbur bo'ldim.",
   "brick in": "Quruvchilar kaminni g'isht bilan berkitib qo'yishdi.",

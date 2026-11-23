@@ -1,5 +1,43 @@
-// Part 2 topic 0002: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0002: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0002', {
+ "A1": {
+  "addict": "U choyga mukkasidan ketgan.",
+  "antiseptic": "Bu antiseptik.",
+  "beer": "Men pivo ichmayman.",
+  "cappuccinos": "Ikkita kapuchino, iltimos.",
+  "desire": "Choy ichgim kelyapti.",
+  "dissent": "Norozilik bor.",
+  "gin": "Jin kuchli ichimlik.",
+  "industrious": "U mehnatkash.",
+  "institution": "Bu yerda choy ichish qadimiy an'anadir.",
+  "lattes": "Men latteni yaxshi ko'raman.",
+  "port": "Portveyn shirin vinodir.",
+  "ruling": "U hukmron partiyada edi.",
+  "sober": "U hushyor.",
+  "sobriety": "Hushyorlik muhim.",
+  "staggering": "Raqam hayratlanarli.",
+  "sweetened by": "Choy asal bilan shirin qilingan.",
+  "unremarkable": "Kafe hech bir jihati bilan ajralib turmaydi."
+ },
+ "A2": {
+  "addict": "Opam universitetda qahvaga qaram edi.",
+  "antiseptic": "Hamshira kesilgan joyimga antiseptik surtdi.",
+  "beer": "Kecha ishdan keyin pivo ichdik.",
+  "cappuccinos": "Biz kichik kafeda kapuchino ichdik.",
+  "desire": "Unda sayohat qilishga kuchli istak bor edi.",
+  "dissent": "Yig'ilishda biroz norozilik bo'ldi.",
+  "gin": "U jin va tonik buyurdi.",
+  "industrious": "Ishchilar juda mehnatkash edi.",
+  "institution": "Pab bu qishloqning qadimiy an'anaviy maskani.",
+  "lattes": "U har tongda ikkita latte sotib oladi.",
+  "port": "Otam Rojdestvoda portveyn ichadi.",
+  "ruling": "Hukmron oila katta uyda yashagan.",
+  "sober": "U ziyofatda hushyor qoldi.",
+  "sobriety": "Og'ir yildan so'ng u hushyor hayotni tanladi.",
+  "staggering": "Narx hayratlanarli edi.",
+  "sweetened by": "Ichimligim shakar bilan shirin qilingan edi.",
+  "unremarkable": "Shahar sokin va hech bir jihati bilan ajralib turmasdi."
+ },
  "B1": {
   "addict": "Men biroz choyga ruju qo'yganman, shuning uchun kuniga besh piyola ichaman.",
   "antiseptic": "Infeksiyaning oldini olish uchun yarani antiseptik bilan tozalash kerak.",

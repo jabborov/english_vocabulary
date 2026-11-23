@@ -1,5 +1,31 @@
-// Part 1 topic 0335: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0335: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0335', {
+ "A1": {
+  "circumnavigate": "Ular dunyoni aylanib chiqishdi.",
+  "determined": "U qat'iyatli.",
+  "exploration": "Men tadqiq qilishni yaxshi ko'raman.",
+  "piece of land": "Bu kichik bir parcha yer.",
+  "reinterpret": "Biz hikoyani qayta talqin qilishimiz mumkin.",
+  "traveller": "U sayyoh.",
+  "uncharted": "Bu dengiz xaritaga tushirilmagan.",
+  "undiscovered": "Hali kashf etilmagan joylar bor.",
+  "unexplored": "Bu yer hali o'rganilmagan.",
+  "venture": "Ular tashqariga chiqishga jur'at etishdi.",
+  "wanderlust": "Menda sayohatga ishtiyoq bor."
+ },
+ "A2": {
+  "circumnavigate": "U orolni aylanib chiqmoqchi.",
+  "determined": "U g'alaba qozonishga qat'iy ahd qilgan edi.",
+  "exploration": "Koinotni tadqiq qilish hayajonli.",
+  "piece of land": "Ular bir parcha yer sotib olishdi.",
+  "reinterpret": "U eski qo'shiqni yangicha talqin qildi.",
+  "traveller": "Sayyohning katta sumkasi bor edi.",
+  "uncharted": "Ular xaritaga tushirilmagan suvlarga suzib kirishdi.",
+  "undiscovered": "G'or yillar davomida kashf etilmagan edi.",
+  "unexplored": "Ular o'rganilmagan vodiyga kirishdi.",
+  "venture": "Sayohat xavfli tavakkalchilik edi.",
+  "wanderlust": "Uning sayohatga ishtiyoqi juda kuchli."
+ },
  "B1": {
   "circumnavigate": "U kelasi yili velosipedda dunyo bo'ylab aylanib chiqishni umid qiladi.",
   "determined": "U yomg'irga qaramay marafonni tugatishga qat'iy ahd qilgan edi.",

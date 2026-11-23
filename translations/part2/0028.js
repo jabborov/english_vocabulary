@@ -1,5 +1,45 @@
-// Part 2 topic 0028: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0028: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0028', {
+ "A1": {
+  "a bit more": "Men yana ozgina xohlayman.",
+  "a grand": "U ming funt turdi.",
+  "a sense of enjoyment": "Bu menga zavq bag'ishlaydi.",
+  "appeal": "O'yinning jozibasi bor.",
+  "autograph": "Menga dastxatingizni bera olasizmi?",
+  "beforehand": "Menga oldindan ayting.",
+  "disappoint": "Meni hafsalamni pir qilmang.",
+  "hence": "U noyob, shuning uchun qimmat.",
+  "impressive": "Bu ta'sirli.",
+  "internationally": "U xalqaro miqyosda o'ynaydi.",
+  "kept": "Men stikerni saqlab qoldim.",
+  "let you down": "Men sizni umidsizlantirmayman.",
+  "like gold dust": "Chiptalarni topish juda qiyin.",
+  "live up": "U kutilganidek chiqmadi.",
+  "obsessive": "U narsalarga haddan tashqari berilib ketadi.",
+  "onwards": "Bugundan boshlab harakat qilaman.",
+  "set you back": "Bu sizga o'n funtga tushadi.",
+  "swing": "Eshik lang ochilib ketadi."
+ },
+ "A2": {
+  "a bit more": "Yana biroz kuta olasizmi?",
+  "a grand": "U albom uchun ming funt to'ladi.",
+  "a sense of enjoyment": "Kolleksiya yig'ish bolalarga zavq bag'ishlaydi.",
+  "appeal": "Uning jozibasini tushunaman.",
+  "autograph": "O'yindan keyin men uning dastxatini oldim.",
+  "beforehand": "Albomni oldindan sotib oldim.",
+  "disappoint": "O'yin hafsalamizni pir qildi.",
+  "hence": "U kasal edi, shuning uchun kelmadi.",
+  "impressive": "Uning ta'sirli kolleksiyasi bor.",
+  "internationally": "Bu o'yin xalqaro miqyosda mashhur.",
+  "kept": "U barcha eski albomlarini saqlab qo'ydi.",
+  "let you down": "Do'stlar sizni yarim yo'lda tashlab qo'ymaydi.",
+  "like gold dust": "Bu stikerni topish juda qiyin.",
+  "live up": "Film umidlarimni oqladi.",
+  "obsessive": "U stikerlarga haddan tashqari berilib ketgan.",
+  "onwards": "Dushanbadan boshlab do'kon ochiq.",
+  "set you back": "Yangi albom sizga ancha qimmatga tushishi mumkin.",
+  "swing": "Uning kayfiyati tez o'zgarib turishi mumkin."
+ },
  "B1": {
   "a bit more": "Noyob stikerlar oddiylaridan biroz qimmatroq turadi.",
   "a grand": "Eski albom ming funtdan ham qimmatroq turadi.",

@@ -1,5 +1,41 @@
-// Part 1 topic 0168: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0168: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0168', {
+ "A1": {
+  "ambiguous": "Uning javobi noaniq edi.",
+  "babble": "Chaqaloq kun bo'yi g'o'ldiraydi.",
+  "babbling": "Chaqaloqning g'o'ldirashini eshityapman.",
+  "correctly": "Ismingizni to'g'ri yozing.",
+  "gi": "Avval \"gi\", keyin \"raffe\" deb ayting.",
+  "giraffe": "Jirafa juda baland bo'yli.",
+  "imitate": "Chaqaloqlar ota-onasiga taqlid qiladi.",
+  "infant": "Go'dak uxlayapti.",
+  "interpretation": "Bu bir talqin.",
+  "leave off": "Ismingizni tushirib qoldirmang.",
+  "meaningless": "Bu so'z ma'nosiz.",
+  "on the table": "Ovqat stol ustida.",
+  "syllable": "\"Cat\" so'zida bitta bo'g'in bor.",
+  "take for granted": "Do'stlaringizni o'z-o'zidan bor narsa deb hisoblamang.",
+  "take something for granted": "Yaxshi narsani o'z-o'zidan bor narsa deb hisoblamang.",
+  "unstressed": "Bu bo'g'in urg'usiz."
+ },
+ "A2": {
+  "ambiguous": "Bu gap ikki xil ma'noli.",
+  "babble": "Singlim \"ba-ba-ba\" deb g'o'ldiradi.",
+  "babbling": "Chaqaloqning g'o'ldirashi juda yoqimli.",
+  "correctly": "U to'g'ri javob berdi.",
+  "gi": "Chaqaloq \"gi\" ni aytmadi.",
+  "giraffe": "Biz hayvonot bog'ida jirafa ko'rdik.",
+  "imitate": "Ukam menga taqlid qiladi.",
+  "infant": "Go'dak yura olmaydi.",
+  "interpretation": "Mening talqinim boshqacha.",
+  "leave off": "U oxirgi harfni tushirib qoldirdi.",
+  "meaningless": "Tovushlar ma'nosizdek tuyuladi.",
+  "on the table": "Muhokama uchun yangi g'oya taklif qilindi.",
+  "syllable": "\"Baby\" so'zida ikkita bo'g'in bor.",
+  "take for granted": "Biz toza suvni o'z-o'zidan bor narsa deb bilamiz.",
+  "take something for granted": "Odamlar internet kabi narsalarni o'z-o'zidan bor narsa deb bilishadi.",
+  "unstressed": "Urg'usiz tovushlar past eshitiladi."
+ },
  "B1": {
   "ambiguous": "Chaqaloqning \"da\" degan so'zi ikki xil ma'noli.",
   "babble": "Chaqaloqlar xursand bo'lganda g'o'ldiraydi.",

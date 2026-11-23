@@ -1,5 +1,29 @@
-// Part 1 topic 0442: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0442: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0442', {
+ "A1": {
+  "degrading": "Bu kamsituvchi gap edi.",
+  "disdain": "U mensimaslik ko'rsatdi.",
+  "humiliating": "Bu juda sharmandali edi.",
+  "look down on": "Boshqalarni mensimaslik qilma.",
+  "palsy": "Falaj kasallikdir.",
+  "physical condition": "Uning jismoniy holati yaxshi.",
+  "retard": "Bu juda haqoratli so'z.",
+  "scorn": "U unga nafrat bilan qaradi.",
+  "tighten": "Kamaringizni tortib bog'lang.",
+  "wheelchair": "U nogironlar aravachasidan foydalanadi."
+ },
+ "A2": {
+  "degrading": "Hazil kamsituvchi edi.",
+  "disdain": "U mensimay gapirdi.",
+  "humiliating": "Sahnada yiqilib tushish sharmandali bo'ldi.",
+  "look down on": "U kambag'al odamlarni mensimaydi.",
+  "palsy": "Unda bolalar serebral falaji bor.",
+  "physical condition": "Jismoniy mashqlar jismoniy holatingizni yaxshilaydi.",
+  "retard": "Iltimos, u so'zni ishlatmang, u odamlarni ranjitadi.",
+  "scorn": "Uning ovozi nafratga to'la edi.",
+  "tighten": "Sovqotganimda mushaklarim tarang tortadi.",
+  "wheelchair": "Qo'g'irchoqning pushti nogironlar aravachasi bor."
+ },
  "B1": {
   "degrading": "Hech kim kamsituvchi muomalaga duchor bo'lmasligi kerak.",
   "disdain": "Ular kambag'al odamga mensimay qarashdi.",

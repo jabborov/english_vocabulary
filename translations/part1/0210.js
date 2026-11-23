@@ -1,5 +1,31 @@
-// Part 1 topic 0210: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0210: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0210', {
+ "A1": {
+  "alpha": "Alfa yunon harfi.",
+  "chess": "Men shaxmat o'ynayman.",
+  "chess match": "Biz shaxmat bellashuvini tomosha qildik.",
+  "chess piece": "Bu shaxmat donasi.",
+  "cutting edge": "Bu eng ilg'or texnologiya.",
+  "defeat": "Biz ularni mag'lub etdik.",
+  "realize": "Endi buni tushunib yetdim.",
+  "recognize": "Men sizni tanidim.",
+  "science fiction": "Men ilmiy fantastikani yaxshi ko'raman.",
+  "supercomputer": "Bu superkompyuter.",
+  "zero": "Ikki ayirish ikki nolga teng."
+ },
+ "A2": {
+  "alpha": "A harfi alfa so'zini bildiradi.",
+  "chess": "Shaxmat qiyin o'yin.",
+  "chess match": "U shaxmat bellashuvida g'olib chiqdi.",
+  "chess piece": "Shoh shaxmat donasidir.",
+  "cutting edge": "Ular eng ilg'or sohada ishlashadi.",
+  "defeat": "Jamoamiz mag'lub bo'ldi.",
+  "realize": "Buni payqadingizmi?",
+  "recognize": "Bu qo'shiqni taniysizmi?",
+  "science fiction": "Bu ilmiy-fantastik film.",
+  "supercomputer": "Superkompyuter juda tez ishlaydi.",
+  "zero": "Hisob nolga teng."
+ },
  "B1": {
   "alpha": "Dastur nomida \"Alpha\" so'zi bor.",
   "chess": "Shaxmat o'ynay olasanmi?",

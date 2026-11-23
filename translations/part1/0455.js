@@ -1,5 +1,31 @@
-// Part 1 topic 0455: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0455: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0455', {
+ "A1": {
+  "Denver": "Denver Amerikada joylashgan.",
+  "departure": "Biz soat oltida jo'naymiz.",
+  "expansion": "Shaharni kengaytirish kerak.",
+  "noise pollution": "Samolyotlar shovqin bilan atrof-muhitni ifloslantiradi.",
+  "piece of work": "Bu yaxshi ish.",
+  "province": "Xitoyda viloyatlar ko'p.",
+  "reclaim": "Ular dengizdan yer olishadi.",
+  "reclamation": "Yerni qayta o'zlashtirish orqali yangi yer hosil qilinadi.",
+  "runway": "Samolyot uchish-qo'nish yo'lagida turibdi.",
+  "seabed": "Baliqlar dengiz tubi yaqinida yashaydi.",
+  "transporting": "Oziq-ovqatni tashish og'ir ish."
+ },
+ "A2": {
+  "Denver": "O'tgan yili Denverga uchib bordim.",
+  "departure": "Jo'nash kechikdi.",
+  "expansion": "Do'kon kengayishni rejalashtirmoqda.",
+  "noise pollution": "Shovqin ifloslanishi bizga zarar.",
+  "piece of work": "Uning inshosi ajoyib ish.",
+  "province": "U katta viloyatda yashaydi.",
+  "reclaim": "Shahar uylar qurish uchun yerni qayta o'zlashtirdi.",
+  "reclamation": "Yerni qayta o'zlashtirish vaqt talab qiladi.",
+  "runway": "Uchish-qo'nish yo'lagi juda uzun.",
+  "seabed": "Dengiz tubi qorong'i.",
+  "transporting": "Yuk mashinalari tovarlarni tashish uchun ishlatiladi."
+ },
  "B1": {
   "Denver": "Denverda juda katta aeroport bor.",
   "departure": "Aeroportdan har kuni mingdan ortiq reys jo'naydi.",

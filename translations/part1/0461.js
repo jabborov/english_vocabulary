@@ -1,5 +1,37 @@
-// Part 1 topic 0461: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0461: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0461', {
+ "A1": {
+  "assault": "Bu hujum edi.",
+  "await": "Javobingizni kutamiz.",
+  "civilian": "U tinch aholi vakili.",
+  "cyberspace": "Biz kiber makonda uchrashamiz.",
+  "governing": "Bu hukmron partiya.",
+  "hacker": "U xaker.",
+  "in that respect": "Bu borada siz haqsiz.",
+  "information system": "Bu axborot tizimi.",
+  "registration": "Ro'yxatdan o'tish bepul.",
+  "specify": "Iltimos, sanani aniq ko'rsating.",
+  "speculate": "Taxmin qilmang.",
+  "terrorism": "Terrorizm noto'g'ri.",
+  "unofficial": "Bu norasmiy natija.",
+  "warfare": "Urush dahshatli."
+ },
+ "A2": {
+  "assault": "Armiya hujumni boshladi.",
+  "await": "Ular natijalarni kutishmoqda.",
+  "civilian": "Tinch aholi vakillari jarohat oldi.",
+  "cyberspace": "Kibermakon hamma joyda.",
+  "governing": "Boshqaruv organi bugun yig'ildi.",
+  "hacker": "Xakerlar ma'lumotlarni o'g'irlashdi.",
+  "in that respect": "U bu jihatdan aqlli.",
+  "information system": "Banklar axborot tizimlaridan foydalanadi.",
+  "registration": "Ro'yxatdan o'tish shaklini to'ldiring.",
+  "specify": "U aniq aytmadi.",
+  "speculate": "Odamlar ko'p taxmin qilishadi.",
+  "terrorism": "Politsiya terrorizmga qarshi kurashadi.",
+  "unofficial": "Bu norasmiy xabar.",
+  "warfare": "Bu zamonaviy urush."
+ },
  "B1": {
   "assault": "Veb-sayt hujumga uchradi.",
   "await": "Politsiya qo'shimcha ma'lumotlarni kutmoqda.",

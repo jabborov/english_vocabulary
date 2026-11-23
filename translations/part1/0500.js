@@ -1,5 +1,35 @@
-// Part 1 topic 0500: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0500: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0500', {
+ "A1": {
+  "crack down": "Ular jinoyatchilikka qarshi qattiq kurashadi.",
+  "crackdown": "Jinoyatchilikka qarshi keskin choralar ko'rilmoqda.",
+  "dupe": "Ular uni aldashdi.",
+  "government department": "U davlat idorasida ishlaydi.",
+  "hooked": "U o'yinlarga mukkasidan ketgan.",
+  "murky": "Suv loyqa.",
+  "postage": "Pochta xarajati qancha?",
+  "postage stamp": "Menga pochta markasi kerak.",
+  "scammer": "U firibgar.",
+  "strait": "Kema bo'g'ozdan o'tdi.",
+  "sucker": "Laqma bo'lma.",
+  "suckers": "Ular laqmalar.",
+  "tempter": "U vasvasachi."
+ },
+ "A2": {
+  "crack down": "Maktab yomon xulqqa qarshi qattiq choralar ko'radi.",
+  "crackdown": "Politsiya keskin choralar ko'rishni boshladi.",
+  "dupe": "Ularning aldashiga yo'l qo'yma.",
+  "government department": "Bu davlat idorasi katta.",
+  "hooked": "Men bu serialga mukkamdan ketganman.",
+  "murky": "Bu shubhali ish.",
+  "postage": "Pochta xarajati alohida to'lanadi.",
+  "postage stamp": "Unga pochta markasini yopishtiring.",
+  "scammer": "Firibgarlar bilan gaplashmang.",
+  "strait": "Ular og'ir ahvolda qolishgan.",
+  "sucker": "U o'zini laqmadek his qildi.",
+  "suckers": "Firibgarlar laqmalarni qidirishadi.",
+  "tempter": "Tort odamni vasvasaga soladi."
+ },
  "B1": {
   "crack down": "Politsiya tezlikni oshiruvchi haydovchilarga qarshi qattiq choralar ko'rmoqda.",
   "crackdown": "Mast holda mashina haydashga qarshi keskin choralar ko'rildi.",

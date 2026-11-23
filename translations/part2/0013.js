@@ -1,5 +1,35 @@
-// Part 2 topic 0013: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0013: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0013', {
+ "A1": {
+  "biodiversity": "O'rmonlarda biologik xilma-xillik boy.",
+  "bloom": "Atirgullar gullagan.",
+  "centigrade": "Bugun havo 30 daraja selsiy.",
+  "end up": "Oxir-oqibat biz sohilga borib qoldik.",
+  "exist": "Arvohlar mavjudmi?",
+  "extinction": "Yo'lbars yo'q bo'lib ketish arafasida.",
+  "far too long for": "Film bolalar uchun haddan tashqari uzun.",
+  "jar after jar": "U yerda ketma-ket qator-qator murabbo bankalari bor.",
+  "land use change": "Yerdan foydalanishning o'zgarishi hayvonlarga zarar yetkazadi.",
+  "rare": "Bu qush juda noyob.",
+  "rarest": "Bu bog'dagi eng noyob gul.",
+  "species": "Panda noyob tur hisoblanadi.",
+  "threaten": "Bo'ron shaharga tahdid solmoqda."
+ },
+ "A2": {
+  "biodiversity": "Biz biologik xilma-xillikni himoya qilishimiz kerak.",
+  "bloom": "Bu o'simlikning katta qizil gullari bor.",
+  "centigrade": "Suv 100 daraja selsiyda qaynaydi.",
+  "end up": "Men adashib qoldim va oxiri noto'g'ri ko'chaga chiqib qoldim.",
+  "exist": "Bu hayvon endi mavjud emas.",
+  "extinction": "Ko'plab hayvonlar yo'q bo'lib ketish xavfi ostida.",
+  "far too long for": "Bu kitob men uchun haddan tashqari uzun.",
+  "jar after jar": "U oshxonada bankalarni birin-ketin ochdi.",
+  "land use change": "Yangi uylar qurish yerdan foydalanishning o'zgarishidir.",
+  "rare": "Bu yerda qor ko'rish kamdan-kam uchraydi.",
+  "rarest": "Bu dunyodagi eng noyob qushlardan biri.",
+  "species": "Bu yerda qushlarning ko'plab turlari bor.",
+  "threaten": "Suv toshqinlari ko'plab uylarga tahdid solmoqda."
+ },
  "B1": {
   "biodiversity": "Biologik xilma-xillikning yo'qolishi dehqonlar uchun jiddiy muammo.",
   "bloom": "Bahorda bog'dagi daraxtlar to'liq gullaydi.",

@@ -1,5 +1,31 @@
-// Part 1 topic 0496: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0496: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0496', {
+ "A1": {
+  "Peter": "Piter muxbir.",
+  "analyser": "U tahlilchi.",
+  "democratisation": "Bu demokratlashtirish.",
+  "finder": "Topgan kim?",
+  "mediator": "U vositachi.",
+  "penetration": "Telefonlarning tarqalish darajasi yuqori.",
+  "redact": "Ular ismlarni o'chirib tashlashdi.",
+  "time and time again": "Men senga qayta-qayta aytdim.",
+  "trusted": "U ishonchli do'st.",
+  "upper hand": "Ularning qo'li baland.",
+  "verifier": "U tekshiruvchi."
+ },
+ "A2": {
+  "Peter": "Piter yangiliklarni yaxshi ko'radi.",
+  "analyser": "Tahlil qilish qurilmasi yangi.",
+  "democratisation": "Telefonlar demokratlashuvga olib keldi.",
+  "finder": "Topgan kishi mukofot oldi.",
+  "mediator": "Bizga vositachi kerak.",
+  "penetration": "Internetning tarqalishi o'sib bormoqda.",
+  "redact": "Fayldagi ma'lumotlar o'chirildi.",
+  "time and time again": "U qayta-qayta muvaffaqiyatsizlikka uchraydi.",
+  "trusted": "Bu ishonchli brend.",
+  "upper hand": "U ustunlikni qo'lga kiritdi.",
+  "verifier": "Tekshiruvchi uni tekshirib chiqdi."
+ },
  "B1": {
   "Peter": "Piter BBCda ishlaydi.",
   "analyser": "Analizatordan foydalaning.",

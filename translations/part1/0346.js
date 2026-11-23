@@ -1,5 +1,19 @@
-// Part 1 topic 0346: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0346: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0346', {
+ "A1": {
+  "Oscar": "Oscar ism.",
+  "optimism": "U nikbinlikka to'la.",
+  "optimist": "U nikbin.",
+  "pessimism": "Bu yerda tushkunlik kayfiyati bor.",
+  "pessimist": "U badbin."
+ },
+ "A2": {
+  "Oscar": "Oscar Wilde yozuvchi bo'lgan.",
+  "optimism": "Nikbinlik kayfiyati juda kuchli.",
+  "optimist": "U quvnoq nikbin odam.",
+  "pessimism": "Uning tushkunlikka moyilligi achinarli.",
+  "pessimist": "Bunchalik badbin bo'lma."
+ },
  "B1": {
   "Oscar": "U film uchun \"Oskar\" mukofotini qo'lga kiritdi.",
   "optimism": "Optimizm odamlarga yordam beradi.",

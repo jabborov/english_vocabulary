@@ -1,5 +1,35 @@
-// Part 1 topic 0456: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0456: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0456', {
+ "A1": {
+  "chemical substance": "Suv kimyoviy moddadir.",
+  "chromosome": "Hujayralarda xromosomalar bor.",
+  "deplete": "Suvni tugatib qo'ymang.",
+  "heavy lifting": "Eng og'ir ishni u bajardi.",
+  "lid": "Qopqoqni yoping.",
+  "natural selection": "Darvin tabiiy tanlanish haqida yozgan.",
+  "numerical": "Javobni raqamlarda yozing.",
+  "plant cell": "Bu o'simlik hujayrasi.",
+  "rhesus": "Rezus maymun turidir.",
+  "rhesus monkey": "Men rezus maymunini ko'rdim.",
+  "rot away": "Eski yog'och chirib ketdi.",
+  "sex organ": "Biologiya kitoblarida jinsiy a'zolar ko'rsatilgan.",
+  "terrify": "O'rgimchaklar meni dahshatga soladi."
+ },
+ "A2": {
+  "chemical substance": "U kimyoviy modda bilan ehtiyot bo'ling.",
+  "chromosome": "Odamlarda 46 ta xromosoma bor.",
+  "deplete": "Biz pulimizni tugatdik.",
+  "heavy lifting": "Og'ir ishlarni akam bajaradi.",
+  "lid": "Qopqoq qayerda?",
+  "natural selection": "Tabiiy tanlanish uzoq vaqt oladi.",
+  "numerical": "Ularni raqamlar tartibida joylashtiring.",
+  "plant cell": "O'simlik hujayrasi juda kichik.",
+  "rhesus": "Rezus maymunlari aqlli.",
+  "rhesus monkey": "Rezus maymuni kichik va jigarrang.",
+  "rot away": "Meva chirib ketdi.",
+  "sex organ": "Hayvonlarning jinsiy a'zolari bor.",
+  "terrify": "Bo'ron bolalarni dahshatga soldi."
+ },
  "B1": {
   "chemical substance": "Bu kimyoviy modda xavfli.",
   "chromosome": "Chaqaloqning o'g'il bo'lishini Y xromosoma belgilaydi.",

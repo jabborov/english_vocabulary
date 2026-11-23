@@ -1,5 +1,23 @@
-// Part 1 topic 0344: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0344: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0344', {
+ "A1": {
+  "body process": "Nafas olish organizm jarayonidir.",
+  "epidemiological": "Bu epidemiologik tadqiqot.",
+  "metabolise": "Organizm ovqatni o'zlashtiradi.",
+  "pauper": "U qashshoq edi.",
+  "pointed": "Qalam o'tkir.",
+  "poor person": "U kambag'al odam.",
+  "spike": "Narxlar keskin oshib ketdi."
+ },
+ "A2": {
+  "body process": "Uyqu organizmning muhim jarayonidir.",
+  "epidemiological": "Ular epidemiologik ma'lumotlardan foydalanishdi.",
+  "metabolise": "Organizmimiz shakarni tez o'zlashtiradi.",
+  "pauper": "Qirol bir gadoy bilan uchrashdi.",
+  "pointed": "Uning uchli shlyapasi bor.",
+  "poor person": "Kambag'al odamga yordam kerak.",
+  "spike": "Shakar qondagi qand miqdorini keskin oshiradi."
+ },
  "B1": {
   "body process": "Nafas olish avtomatik ravishda sodir bo'ladigan organizm jarayonidir.",
   "epidemiological": "Epidemiologik dalillar bir-biriga zid.",

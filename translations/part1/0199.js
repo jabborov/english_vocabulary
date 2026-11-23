@@ -1,5 +1,33 @@
-// Part 1 topic 0199: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0199: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0199', {
+ "A1": {
+  "Georgia": "Georgia oshpaz.",
+  "ally": "U mening ittifoqchim.",
+  "chop": "Sabzini to'g'rang.",
+  "food shop": "Oziq-ovqat xaridini men qilaman.",
+  "handed": "U chapaqay.",
+  "inequality": "Tengsizlik yomon.",
+  "mentor": "U mening ustozim.",
+  "neat": "Xonam tartibli.",
+  "participant": "U ishtirokchi.",
+  "read out": "Ro'yxatni ovoz chiqarib o'qing.",
+  "sicker": "U bugun ko'proq kasal.",
+  "younger": "Ukam mendan kichik."
+ },
+ "A2": {
+  "Georgia": "Georgia sho'rvani yaxshi ko'radi.",
+  "ally": "Bizga ittifoqchi kerak.",
+  "chop": "Men piyozni to'g'rayman.",
+  "food shop": "Oziq-ovqat do'koni yaqin.",
+  "handed": "U quruq qo'l bilan keldi.",
+  "inequality": "Bu yerda tengsizlik bor.",
+  "mentor": "Mening ustozim bor.",
+  "neat": "Uning yozuvi chiroyli va tartibli.",
+  "participant": "O'nta ishtirokchi bor.",
+  "read out": "U ismlarni ovoz chiqarib o'qidi.",
+  "sicker": "Uning ahvoli yomonlashdi.",
+  "younger": "U mendan yosh."
+ },
  "B1": {
   "Georgia": "Georgia pazandachilik darsini olib boradi.",
   "ally": "U yaxshi ittifoqchi edi.",

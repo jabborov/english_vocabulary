@@ -1,5 +1,29 @@
-// Part 1 topic 0471: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0471: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0471', {
+ "A1": {
+  "car factory": "U avtomobil zavodida ishlaydi.",
+  "creepier": "Bunisi yanada qo'rqinchliroq.",
+  "creepy": "U qo'g'irchoq qo'rqinchli.",
+  "forced": "Uning tabassumi zo'rma-zo'raki edi.",
+  "humanlike": "Robot odamga o'xshaydi.",
+  "ironing": "Men kiyim dazmollashni yomon ko'raman.",
+  "labourer": "U qora ishchi.",
+  "replica": "Bu nusxa.",
+  "science museum": "Biz fan muzeyiga bordik.",
+  "unnerving": "Sukunat odamni bezovta qilardi."
+ },
+ "A2": {
+  "car factory": "Avtomobil zavodi juda katta.",
+  "creepier": "Film yanada qo'rqinchliroq bo'lib bordi.",
+  "creepy": "Bu uy qo'rqinchli.",
+  "forced": "Bu zo'raki kulgi edi.",
+  "humanlike": "Uning yuzi odamnikiga o'xshaydi.",
+  "ironing": "U yakshanba kuni kiyim dazmollaydi.",
+  "labourer": "Ishchilar qattiq mehnat qilishadi.",
+  "replica": "Bu eski kemaning nusxasi.",
+  "science museum": "Fan muzeyi bepul.",
+  "unnerving": "Uning tikilib qarashi odamni bezovta qiladi."
+ },
  "B1": {
   "car factory": "Avtomobil zavodida mashinalarni robotlar bo'yaydi.",
   "creepier": "Eski uy kechasi yanada vahimaliroq tuyuladi.",

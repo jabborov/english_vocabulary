@@ -1,5 +1,25 @@
-// Part 1 topic 0452: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0452: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0452', {
+ "A1": {
+  "attend to": "Iltimos, mehmonlar bilan shug'ullaning.",
+  "belt": "Menda yangi kamar bor.",
+  "district": "Bu tinch tuman.",
+  "gloomy": "Bugun havo xira.",
+  "impresario": "U mashhur impresario.",
+  "pull in": "Shou olomonni o'ziga jalb qiladi.",
+  "thriving": "Bu gullab-yashnayotgan shahar.",
+  "tighten one's belt": "Biz kamarni mahkam bog'lashimiz kerak."
+ },
+ "A2": {
+  "attend to": "Shug'ullanishim kerak bo'lgan ishlarim bor.",
+  "belt": "Uning kamari jigarrang.",
+  "district": "Biz yaxshi tumanda yashaymiz.",
+  "gloomy": "U ma'yus ko'rinardi.",
+  "impresario": "Impresario ko'plab teatrlarga egalik qiladi.",
+  "pull in": "Film ko'plab tomoshabinlarni jalb qildi.",
+  "thriving": "Uning biznesi gullab-yashnamoqda.",
+  "tighten one's belt": "Zamon og'ir, biz tejamkor bo'lishimiz kerak."
+ },
  "B1": {
   "attend to": "Hamshira unga qarab, parvarish qildi.",
   "belt": "Bu jinsi shimga kamar kerak.",

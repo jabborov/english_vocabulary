@@ -1,5 +1,21 @@
-// Part 1 topic 0409: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0409: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0409', {
+ "A1": {
+  "altruistic": "U boshqalar uchun o'zini ayamaydi.",
+  "cuddle": "Meni quchoqlab qo'y.",
+  "junk food": "Zararli tez tayyor ovqat yemang.",
+  "keep one's hands off": "Qo'lingni tegizma!",
+  "nominate": "Men sizni nomzod qilib ko'rsataman.",
+  "selfless": "U fidoyi ayol."
+ },
+ "A2": {
+  "altruistic": "Bu beg'araz yaxshilik.",
+  "cuddle": "Chaqaloqni quchoqlab erkalash kerak.",
+  "junk food": "Men tez tayyor bo'ladigan ovqatlarni yaxshi ko'raman.",
+  "keep one's hands off": "Sumkamga qo'l tekkizma.",
+  "nominate": "U mukofotga nomzod qilib ko'rsatildi.",
+  "selfless": "Bu fidokorona ish edi."
+ },
  "B1": {
   "altruistic": "Uning g'arazsiz, xolis sabablari bor.",
   "cuddle": "U itini quchoqlab erkaladi.",

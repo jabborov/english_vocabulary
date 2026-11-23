@@ -1,5 +1,35 @@
-// Part 1 topic 0192: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0192: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0192', {
+ "A1": {
+  "buyer": "U xaridor.",
+  "cheer up": "Ko'nglingizni ko'taring!",
+  "cozy": "Bu xona shinam.",
+  "figuratively": "Men buni ko'chma ma'noda aytdim.",
+  "head off": "Keling, endi yo'lga chiqaylik.",
+  "humorous": "U hazilkash odam.",
+  "jumper": "Menda qizil jemper bor.",
+  "pang": "Men qattiq ochlik sanchig'ini his qildim.",
+  "regret": "Men bundan afsuslanaman.",
+  "remorse": "U pushaymon bo'ldi.",
+  "stab": "Men keskin og'riq sanchig'ini his qildim.",
+  "wardrobe": "Kiyimlarim shkafda.",
+  "weigh down": "Sumkam meni og'irlashtirib qo'yadi."
+ },
+ "A2": {
+  "buyer": "Xaridor naqd pul to'ladi.",
+  "cheer up": "Bu qo'shiq kayfiyatingizni ko'taradi.",
+  "cozy": "Men shinam adyollarni yaxshi ko'raman.",
+  "figuratively": "U so'zma-so'z emas, ko'chma ma'noda gapirayotgan edi.",
+  "head off": "Men soat sakkizda ishga jo'nayman.",
+  "humorous": "U kulgili hikoya aytib berdi.",
+  "jumper": "Jemperingni kiy. Havo sovuq.",
+  "pang": "U qayg'u sanchig'ini his qildi.",
+  "regret": "O'sha paltoni sotib olganingizdan afsuslanasizmi?",
+  "remorse": "U hech qanday pushaymonlik bildirmadi.",
+  "stab": "U to'satdan qo'rquvni his qildi.",
+  "wardrobe": "Kiyim javoni yotoqxonamda.",
+  "weigh down": "Muammolar sizni ezib qo'yishiga yo'l qo'ymang."
+ },
  "B1": {
   "buyer": "Ko'plab xaridorlar kechasi onlayn xarid qilishadi.",
   "cheer up": "Ko'nglimni ko'tarish uchun tort sotib oldim.",

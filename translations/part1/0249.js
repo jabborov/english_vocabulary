@@ -1,5 +1,37 @@
-// Part 1 topic 0249: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0249: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0249', {
+ "A1": {
+  "Korea": "Men Koreyaga borishni xohlayman.",
+  "Liza": "Liza mening dugonam.",
+  "bow down": "Ular ta'zim qilishadi.",
+  "dictate": "Buni qoidalar talab qiladi.",
+  "disrespectful": "Bu hurmatsizlik.",
+  "earlobe": "Quloq yumshog'ingizga teging.",
+  "honorific": "Koreys tilida hurmat shakllari bor.",
+  "honour": "Bu katta sharaf.",
+  "kneel": "Iltimos, tiz cho'king.",
+  "kneel down": "Iltimos, tiz cho'king.",
+  "lob": "U to'pni baland qilib oshirib otdi.",
+  "palace": "Qirol saroyda yashaydi.",
+  "tug": "Sochimdan tortma.",
+  "upfront": "Ochiqchasiga gapir."
+ },
+ "A2": {
+  "Korea": "Koreya Osiyoda joylashgan.",
+  "Liza": "Liza kechirim so'radi.",
+  "bow down": "Qirol oldida ta'zim qiling.",
+  "dictate": "Menga buyruq berma.",
+  "disrespectful": "Hurmatsizlik qilmang.",
+  "earlobe": "Quloq yumshog'im muzlab qoldi.",
+  "honorific": "Hurmat shaklidan foydalaning.",
+  "honour": "U nomusli inson.",
+  "kneel": "U cherkovda tiz cho'kadi.",
+  "kneel down": "U tiz cho'kdi.",
+  "lob": "Uni menga baland qilib oshirib ot.",
+  "palace": "Saroy katta.",
+  "tug": "U arqonni tortdi.",
+  "upfront": "U juda ochiq va to'g'ri so'z."
+ },
  "B1": {
   "Korea": "U Koreyada yashaydi.",
   "Liza": "Liza Koreyadan.",

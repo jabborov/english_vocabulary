@@ -1,5 +1,33 @@
-// Part 1 topic 0480: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0480: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0480', {
+ "A1": {
+  "bow tie": "Menga uning kapalak galstugi yoqadi.",
+  "carte blanche": "Unga to'liq erkinlik berilgan.",
+  "dinner jacket": "U smoking kiygan edi.",
+  "eavesdrop": "Gaplarni yashirincha tinglama!",
+  "fascinated": "Men hayratdaman.",
+  "franchise": "Bu katta franshiza.",
+  "pull over": "Iltimos, mashinani yo'l chetiga to'xtating.",
+  "reinvent": "U o'zini butunlay yangidan kashf etdi.",
+  "rule in": "Hozircha buni aniq deb hisoblamang.",
+  "shoelace": "Poyabzal ipingizni bog'lang.",
+  "unsurpassed": "Uning go'zalligi tengsiz.",
+  "villain": "U yovuz qahramon."
+ },
+ "A2": {
+  "bow tie": "Uning qizil kapalak galstugi bor.",
+  "carte blanche": "U menga to'liq erkinlik berdi.",
+  "dinner jacket": "Uning smokingi qora.",
+  "eavesdrop": "U ularning gapini yashirincha tingladi.",
+  "fascinated": "Film uni maftun etdi.",
+  "franchise": "Men o'sha film franshizasini juda yaxshi ko'raman.",
+  "pull over": "U mashinani yo'l chetiga to'xtatdi.",
+  "reinvent": "Ular qahramon obrazini yangicha yaratishadi.",
+  "rule in": "Ular ikkita variantni qabul qilishdi.",
+  "shoelace": "Poyabzal ipim uzilib qoldi.",
+  "unsurpassed": "Uning mahorati tengsiz.",
+  "villain": "Yovuz qahramonning mushugi bor."
+ },
  "B1": {
   "bow tie": "Kapalak bo'yinbog' taqishni bilasanmi?",
   "carte blanche": "Bizga qaror qabul qilishda to'liq erkinlik berilgan.",

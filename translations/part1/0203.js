@@ -1,5 +1,41 @@
-// Part 1 topic 0203: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0203: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0203', {
+ "A1": {
+  "accommodate": "Mehmonxona sizni joylashtira oladi.",
+  "allergen": "Chang allergendir.",
+  "allergic": "Menda mushuklarga allergiya bor.",
+  "asthma": "Unda astma bor.",
+  "burden": "Bu og'ir yuk.",
+  "codfish": "Bu treska balig'i.",
+  "hay": "Otlar pichan yeydi.",
+  "hay fever": "Menda pichan isitmasi bor.",
+  "immunotherapy": "Immunoterapiya davolash usulidir.",
+  "inconvenienced": "Menga noqulaylik tug'dirildi.",
+  "interviewer": "U intervyu oluvchi.",
+  "intolerance": "U sutni ko'tara olmaydi.",
+  "pollen": "Asalarilar gulchang tashiydi.",
+  "sure thing": "\"Menga yordam bera olasizmi?\" \"Albatta.\"",
+  "tolerance": "U og'riqqa juda chidamli.",
+  "tuna": "Men tunets yaxshi ko'raman."
+ },
+ "A2": {
+  "accommodate": "Biz ehtiyojlaringizni qondira olamiz.",
+  "allergen": "Sut allergen bo'lishi mumkin.",
+  "allergic": "Unda sutga allergiya bor.",
+  "asthma": "Astma nafas olishni qiyinlashtiradi.",
+  "burden": "Men birovga yuk bo'lishni xohlamayman.",
+  "codfish": "Biz treska balig'i va kartoshka fri yedik.",
+  "hay": "Ombor pichanga to'la.",
+  "hay fever": "Pichan isitmasi ko'zlarimni qizartiradi.",
+  "immunotherapy": "U immunoterapiya olyapti.",
+  "inconvenienced": "Mehmonlar o'zlarini noqulay his qilishdi.",
+  "interviewer": "Intervyu oluvchi menga savollar berdi.",
+  "intolerance": "Kleykovinani ko'tara olmaslik keng tarqalgan.",
+  "pollen": "Gulchang sariq rangda.",
+  "sure thing": "\"Iltimos, tuzni uzating.\" \"Albatta.\"",
+  "tolerance": "Men achchiq ovqatni yaxshi ko'tara olmayman.",
+  "tuna": "Biz tunetsli sendvich yedik."
+ },
  "B1": {
   "accommodate": "Maktablar allergiyasi bor bolalarga moslashishga harakat qiladi.",
   "allergen": "Yorliqda barcha allergenlar ko'rsatilgan.",

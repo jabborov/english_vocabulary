@@ -1,5 +1,37 @@
-// Part 1 topic 0289: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0289: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0289', {
+ "A1": {
+  "Franklin": "Franklin amerikalik bo'lgan.",
+  "civic": "Ovoz berish fuqarolik burchidir.",
+  "diplomat": "U diplomat.",
+  "fallacy": "Bu noto'g'ri fikr.",
+  "focussed": "Diqqatingizni jamlang.",
+  "knuckle": "Barmog'imning bo'g'imi og'riyapti.",
+  "knuckle down": "Endi jiddiy ishga kirish!",
+  "postmaster": "U pochta boshlig'i bo'lgan.",
+  "seem off": "Ta'til hali ancha uzoqdek tuyuladi.",
+  "slip by": "Vaqt sezdirmay o'tib ketadi.",
+  "statesman": "U davlat arbobi bo'lgan.",
+  "take five": "Keling, besh daqiqa dam olaylik.",
+  "tedious": "Bu ish zerikarli.",
+  "theorist": "U nazariyotchi."
+ },
+ "A2": {
+  "Franklin": "Franklin olim bo'lgan.",
+  "civic": "Bu jamoat markazi.",
+  "diplomat": "Diplomat Parijda yashaydi.",
+  "fallacy": "Bu keng tarqalgan xato fikr.",
+  "focussed": "U juda diqqatini jamlagan.",
+  "knuckle": "Barmoqlaringni qirsillat.",
+  "knuckle down": "Men jiddiy ishga kirishishim kerak.",
+  "postmaster": "Pochta boshlig'i bo'limni ochdi.",
+  "seem off": "Yoz hali ancha uzoqdek tuyuladi.",
+  "slip by": "Kunlar sezdirmay o'tib ketdi.",
+  "statesman": "Davlat arbobi nutq so'zladi.",
+  "take five": "Hamma besh daqiqa dam olsin.",
+  "tedious": "Film zerikarli edi.",
+  "theorist": "U musiqa nazariyotchisi."
+ },
  "B1": {
   "Franklin": "Benjamin Franklin 100 dollarlik pul birligida tasvirlangan.",
   "civic": "U fuqarolik faoliyatida qatnashadi.",

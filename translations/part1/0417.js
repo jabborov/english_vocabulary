@@ -1,5 +1,47 @@
-// Part 1 topic 0417: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0417: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0417', {
+ "A1": {
+  "Vanity Fair": "\"Vanity Fair\" kitobdir.",
+  "alphabetical": "Ismlarni alifbo tartibida joylashtiring.",
+  "blunder": "Bu katta qo'pol xato edi.",
+  "caravan": "Biz tirkama uyda yashadik.",
+  "criterion": "Mezon nima?",
+  "derivative": "Bu so'z yasama so'z.",
+  "fair use": "Bu adolatli foydalanishdir.",
+  "flash in the pan": "Qo'shiq bir martalik shov-shuv bo'lib qoldi.",
+  "foremost": "U yetakchi mutaxassis.",
+  "gauge": "O'lchamini chamalay olasizmi?",
+  "lend oneself": "Bu kitob film qilishga juda mos.",
+  "longevity": "Uzoq umr ko'rish yaxshi narsa.",
+  "mess up": "Testimni buzib qo'ydim.",
+  "mutate": "Viruslar mutatsiyaga uchraydi.",
+  "pasty": "Tushlikka pirog yedim.",
+  "poorly": "U testni yomon topshirdi.",
+  "satire": "Bu ko'rsatuv satira.",
+  "shamble": "U oyoqlarini sudrab xonaga kirdi.",
+  "shambles": "Xonam ag'dar-to'ntar."
+ },
+ "A2": {
+  "Vanity Fair": "U \"Vanity Fair\" jurnalini o'qiydi.",
+  "alphabetical": "Ro'yxat alifbo tartibida.",
+  "blunder": "Men qo'pol xatoga yo'l qo'ydim.",
+  "caravan": "Ularning katta tirkama uyi bor.",
+  "criterion": "Narx mening asosiy mezonim.",
+  "derivative": "\"Happiness\" so'zi \"happy\" so'zidan yasalgan.",
+  "fair use": "Bu adolatli foydalanishga kiradimi?",
+  "flash in the pan": "Uning muvaffaqiyati bir martalik edi.",
+  "foremost": "Xavfsizlik birinchi o'rinda.",
+  "gauge": "Uning kayfiyatini chamalash qiyin.",
+  "lend oneself": "Bu xona ziyofatlar uchun juda qulay.",
+  "longevity": "Ko'rsatuvning uzoq yashagani hammani hayratda qoldirdi.",
+  "mess up": "Xonamni ag'dar-to'ntar qilma!",
+  "mutate": "So'zning ma'nosi o'zgarib ketgan.",
+  "pasty": "Bu pirog issiq.",
+  "poorly": "Xona yomon yoritilgan edi.",
+  "satire": "Men siyosiy satirani yoqtiraman.",
+  "shamble": "Oyog'ingni sudrab yurma, to'g'ri yur!",
+  "shambles": "Ziyofat butunlay tartibsiz o'tdi."
+ },
  "B1": {
   "Vanity Fair": "\"Vanity Fair\" asarini Tekkerey yozgan.",
   "alphabetical": "Lug'atlar alifbo tartibida tuzilgan.",

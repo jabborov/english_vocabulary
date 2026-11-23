@@ -1,5 +1,41 @@
-// Part 1 topic 0176: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0176: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0176', {
+ "A1": {
+  "assure": "Sizni ishontirib aytamanki, hammasi joyida.",
+  "blush": "U tez-tez qizarib ketadi.",
+  "blushing": "Qizarish normal holat.",
+  "clinic": "Klinika bugun ochiq.",
+  "confidential": "Bu maxfiy.",
+  "diagnose": "Shifokor sizga tashxis qo'yadi.",
+  "ease": "Dori og'riqni yengillashtirdi.",
+  "intimate": "Bu shaxsiy savol.",
+  "medical examination": "Men tibbiy ko'rikdan o'tdim.",
+  "no end": "Menga bu juda yoqadi.",
+  "nonjudgmental": "U hech kimni qoralamaydi.",
+  "nonverbal": "Tabassum so'zsiz muloqotdir.",
+  "postpone": "Biz safarni keyinga qoldirdik.",
+  "sensitively": "Iltimos, ehtiyotkorlik bilan gapiring.",
+  "tone": "Menga uning ohangi yoqadi.",
+  "tone of voice": "Mehribon ovoz ohangida gapiring."
+ },
+ "A2": {
+  "assure": "Hamshira og'riq bo'lmasligiga meni ishontirdi.",
+  "blush": "O'qituvchi uning ismini aytganda, u qizarib ketdi.",
+  "blushing": "Uning qizarib ketishi hammani jilmaytirdi.",
+  "clinic": "Men ertalab klinikaga bordim.",
+  "confidential": "Iltimos, bu xatni sir saqlang.",
+  "diagnose": "Unga gripp tashxisi qo'yildi.",
+  "ease": "Iliq ichimlik tomoq og'rig'ini yengillashtirishi mumkin.",
+  "intimate": "Ular juda yaqin do'stlar.",
+  "medical examination": "Tibbiy ko'rik tez o'tdi.",
+  "no end": "Bu yangilik menga juda katta yordam berdi.",
+  "nonjudgmental": "U hech kimni qoralamasdan tingladi.",
+  "nonverbal": "Bosh irg'ash so'zsiz ishoradir.",
+  "postpone": "Yomg'ir sababli o'yin keyinga qoldirildi.",
+  "sensitively": "U muammoni nozik yondashuv bilan hal qildi.",
+  "tone": "U past ohangda gapirdi.",
+  "tone of voice": "Uning ovoz ohangi jahldor edi."
+ },
  "B1": {
   "assure": "U onasini o'zi yaxshi ekaniga ishontirdi.",
   "blush": "Odamlar men haqimda yaxshi gaplar aytganda, doim qizarib ketaman.",

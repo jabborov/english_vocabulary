@@ -1,5 +1,25 @@
-// Part 1 topic 0393: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0393: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0393', {
+ "A1": {
+  "gargle": "Sho'r suv bilan tomoq chayqang.",
+  "gargling": "Men tomoq chayqayotgan ovozni eshitdim.",
+  "monkey business": "Iltimos, hech qanday shumlik qilmang!",
+  "physical structure": "Uning jismoniy tuzilishiga qarang.",
+  "safe and sound": "Biz sog'-salomatmiz.",
+  "smacking": "Men lab chapillatganini eshitdim.",
+  "small talk": "Men bo'sh gap-so'zlarni yoqtirmayman.",
+  "vocalisation": "Bu ovoz chiqarish."
+ },
+ "A2": {
+  "gargle": "Tomog'im og'riganda tomoq chayqayman.",
+  "gargling": "Tomoq chayqash ovozi baland edi.",
+  "monkey business": "Shumlikni bas qiling.",
+  "physical structure": "Jismoniy tuzilishi oddiy.",
+  "safe and sound": "Bolalar uyga sog'-salomat yetib kelishdi.",
+  "smacking": "Maymun lablarini chapillatardi.",
+  "small talk": "Biz u-bu haqida gaplashdik.",
+  "vocalisation": "Qushlar turli xil ovozlar chiqaradi."
+ },
  "B1": {
   "gargle": "U hammomda baland ovozda g'arg'ara qildi.",
   "gargling": "G'arg'ara qilish tomoq og'rig'iga yordam beradi.",

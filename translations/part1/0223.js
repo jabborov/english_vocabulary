@@ -1,5 +1,25 @@
-// Part 1 topic 0223: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0223: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0223', {
+ "A1": {
+  "good afternoon": "Xayrli kun, janob!",
+  "impolite": "Baqirish odobsizlikdir.",
+  "nursery": "U bog'chaga boradi.",
+  "nursery school": "O'g'lim bog'chaga boradi.",
+  "offended": "Men xafa bo'ldim.",
+  "poet": "U shoir.",
+  "teethe": "Chaqaloqning tishi chiqyapti.",
+  "way out": "Chiqish qayerda?"
+ },
+ "A2": {
+  "good afternoon": "U menga \"Xayrli kun\" dedi.",
+  "impolite": "Odobsizlik qilmang.",
+  "nursery": "Chaqaloq bolalar xonasida.",
+  "nursery school": "Bolalar bog'chasi uyimizga yaqin.",
+  "offended": "U xafa bo'lganga o'xshardi.",
+  "poet": "Menga bu shoir yoqadi.",
+  "teethe": "Uning tishlari erta chiqdi.",
+  "way out": "Chiqish shu yerda."
+ },
  "B1": {
   "good afternoon": "Xayrli kun, hammaga, xush kelibsiz.",
   "impolite": "Rahmat aytmaslik odobsizlikdir.",

@@ -1,5 +1,31 @@
-// Part 1 topic 0152: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0152: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0152', {
+ "A1": {
+  "activism": "U ijtimoiy faollikka qiziqadi.",
+  "betray": "Do'stlaringizga xiyonat qilmang.",
+  "cooperation": "Hamkorligingiz uchun rahmat.",
+  "crucial": "Bu hal qiluvchi ahamiyatga ega.",
+  "die off": "O'simliklar qurib qoldi.",
+  "freak": "U sog'lom turmush tarziga berilib ketgan.",
+  "freak out": "Vahimaga tushmang!",
+  "global climate change": "Global iqlim o'zgarishi katta muammo.",
+  "likewise": "Tanishganimdan xursandman. — Men ham.",
+  "nowhere": "Men hech qayoqqa bormayman.",
+  "save up": "Men pul yig'yapman."
+ },
+ "A2": {
+  "activism": "Ijtimoiy faollik vaziyatni o'zgartirishi mumkin.",
+  "betray": "U ishonchimni oqlamadi.",
+  "cooperation": "G'alaba qozonish uchun bizga hamkorlik kerak.",
+  "crucial": "Suv hayot uchun hal qiluvchi ahamiyatga ega.",
+  "die off": "Baliqlar qirilib ketyapti.",
+  "freak": "U futbolning ashaddiy ishqibozi.",
+  "freak out": "U o'rgimchakni ko'rib, vahimaga tushdi.",
+  "global climate change": "Biz maktabda global iqlim o'zgarishi haqida o'rganamiz.",
+  "likewise": "U o'tirdi, men ham shunday qildim.",
+  "nowhere": "Mushuk hech qayerda yo'q.",
+  "save up": "U pul yig'adi."
+ },
  "B1": {
   "activism": "Uning ijtimoiy faolligi maktabda boshlangan.",
   "betray": "U o'zini eng yaqin dugonasi tomonidan xiyonat qilingandek his qildi.",

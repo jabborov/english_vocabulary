@@ -1,5 +1,33 @@
-// Part 1 topic 0403: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0403: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0403', {
+ "A1": {
+  "Detroit": "Detroit Amerikada joylashgan.",
+  "boast": "Maqtanma!",
+  "ceramic": "Bu sopol piyola.",
+  "crane": "Anavi kranga qarang!",
+  "fork": "Menga sanchqi kerak.",
+  "fork out": "Men 50 funt sarflashga majbur bo'ldim.",
+  "lease": "Ular ijara shartnomasini imzolashdi.",
+  "prosperous": "Bu farovon shahar.",
+  "rent out": "Ular xonalarni ijaraga berishadi.",
+  "shard": "Shisha siniqlaridan ehtiyot bo'ling.",
+  "tenant": "U ijarachi.",
+  "wow": "Voy! Juda baland ekan!"
+ },
+ "A2": {
+  "Detroit": "Detroitda mashinalar ishlab chiqariladi.",
+  "boast": "U mashinasi bilan maqtanadi.",
+  "ceramic": "Menga sopol likopchalar yoqadi.",
+  "crane": "Kran juda baland.",
+  "fork": "Pichoq va sanchqidan foydalaning.",
+  "fork out": "Biz yangi poyabzal uchun pul sarfladik.",
+  "lease": "Ijara shartnomasi bir yilga tuzilgan.",
+  "prosperous": "Ular farovon oila.",
+  "rent out": "U kvartirasini ijaraga beradi.",
+  "shard": "\"The Shard\" Londonda joylashgan.",
+  "tenant": "Ijarachi ijara haqini to'laydi.",
+  "wow": "Voy, bu ajoyib."
+ },
  "B1": {
   "Detroit": "Detroytda eski binolar ko'p.",
   "boast": "Shahar ko'plab baland binolari bilan faxrlanadi.",

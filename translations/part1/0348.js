@@ -1,5 +1,29 @@
-// Part 1 topic 0348: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0348: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0348', {
+ "A1": {
+  "aggression": "Tajovuzkorlik yomon.",
+  "ailment": "Bu yengil xastalik.",
+  "aphrodisiac": "Ba'zi oziq-ovqatlar shahvatni qo'zg'atuvchi deb ataladi.",
+  "clove": "Menga bir bo'lak sarimsoq kerak.",
+  "plague": "Vabo ko'plab odamlarni o'ldirgan.",
+  "robin": "Men malinovkani ko'ryapman.",
+  "rocambole": "Rokambol sarimsoqning bir turi.",
+  "scurvy": "Singa kasallikdir.",
+  "unimaginable": "Bu tasavvur qilib bo'lmaydigan narsa.",
+  "uproot": "O'simlikni ildizi bilan sug'urib tashlamang."
+ },
+ "A2": {
+  "aggression": "It tajovuzkorlik qildi.",
+  "ailment": "Uning oshqozon xastaligi bor.",
+  "aphrodisiac": "Odamlar shokoladni shahvatni qo'zg'atuvchi deyishadi.",
+  "clove": "Bir bo'lak sarimsoqni arching.",
+  "plague": "Shaharda vabo tarqalgan.",
+  "robin": "Malinovkaning ko'kragi qizil.",
+  "rocambole": "Biz rokambol yetishtiramiz.",
+  "scurvy": "Dengizchilar singa kasaliga chalinishgan.",
+  "unimaginable": "Narxi tasavvur qilib bo'lmas darajada edi.",
+  "uproot": "Shamol daraxtni ildizi bilan qo'porib tashladi."
+ },
  "B1": {
   "aggression": "U o'z tajovuzkorligini jilovlashga harakat qildi.",
   "ailment": "Sarimsoq ba'zi kasalliklarga yordam beradi.",

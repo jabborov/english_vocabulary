@@ -1,5 +1,37 @@
-// Part 1 topic 0252: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0252: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0252', {
+ "A1": {
+  "benchmark": "Bu mezon.",
+  "bluntly": "U to'g'ridan-to'g'ri gapirdi.",
+  "carriage": "Vagon to'la.",
+  "flawed": "Rejada kamchiliklar bor.",
+  "gritty": "Film juda hayotiy va shafqatsiz.",
+  "hopeless": "Men matematikadan mutlaqo nochorman.",
+  "idealised": "Bu ideallashtirilgan tasvir.",
+  "imperfect": "Bu mukammal bo'lmagan dunyo.",
+  "moody": "U bugun kayfiyatsiz.",
+  "perfection": "Hech kim mukammal emas.",
+  "public transport": "Men jamoat transportidan foydalanaman.",
+  "romanticism": "Romantizm his-tuyg'ular haqida.",
+  "smack": "Itni urma.",
+  "zeitgeist": "Bu zamonamizning ruhi."
+ },
+ "A2": {
+  "benchmark": "Test talabalar uchun o'lchov mezonidir.",
+  "bluntly": "U menga ochiqchasiga aytdi.",
+  "carriage": "Biz birinchi vagonda o'tirdik.",
+  "flawed": "Har kimning qandaydir kamchiligi bor.",
+  "gritty": "U qat'iyatli o'yinchi.",
+  "hopeless": "Vaziyat umidsiz.",
+  "idealised": "Ularning sevgi haqidagi tasavvuri ideallashtirilgan.",
+  "imperfect": "Ingliz tilim mukammal emas.",
+  "moody": "O'smirlar injiq bo'lishi mumkin.",
+  "perfection": "Tort mukammal edi.",
+  "public transport": "Bu yerda jamoat transporti arzon.",
+  "romanticism": "U romantizm davri she'rlarini yaxshi ko'radi.",
+  "smack": "U stolni shapatiladi.",
+  "zeitgeist": "Qo'shiq zamon ruhini aks ettirdi."
+ },
  "B1": {
   "benchmark": "Uning ishi boshqalar uchun andoza hisoblanadi.",
   "bluntly": "Ochig'ini aytganda, bu reja ish bermaydi.",

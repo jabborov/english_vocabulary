@@ -1,5 +1,25 @@
-// Part 1 topic 0374: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0374: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0374', {
+ "A1": {
+  "baby talk": "U o'g'li bilan chaqaloqcha tilda gaplashadi.",
+  "diaper": "Chaqaloqning tagligini almashtiring.",
+  "fasten": "Xavfsizlik kamaringizni taqing.",
+  "maternity": "U homiladorlik va tug'ish ta'tilida.",
+  "may": "Kirsam maylimi?",
+  "nanny": "Ularning enagasi bor.",
+  "newsreader": "U yangiliklar boshlovchisi.",
+  "send out": "Biz kartochkalarni jo'natdik."
+ },
+ "A2": {
+  "baby talk": "Chaqaloqcha til juda sodda.",
+  "diaper": "Tagliklar qayerda?",
+  "fasten": "Paltomning tugmasini qadab ololmayapman.",
+  "maternity": "Bu tug'ruqxona bo'limi.",
+  "may": "Keyinroq yomg'ir yog'ishi mumkin.",
+  "nanny": "Enaga chaqaloqqa kitob o'qib beradi.",
+  "newsreader": "Yangiliklar boshlovchisi jilmaydi.",
+  "send out": "Ular taklifnomalarni jo'natishdi."
+ },
  "B1": {
   "baby talk": "Buvim egizaklar bilan doim chaqaloqlarcha tilda gaplashadi.",
   "diaper": "U katta quti tagliklar sotib oldi.",

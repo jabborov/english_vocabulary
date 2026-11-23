@@ -1,5 +1,29 @@
-// Part 1 topic 0353: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0353: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0353', {
+ "A1": {
+  "barbeque": "Biz barbekyu qildik.",
+  "carol": "Keling, Rojdestvo qo'shig'ini aytaylik.",
+  "catch up": "Keling, uchrashib, gaplashib olaylik.",
+  "catch up with": "Men sen bilan ko'rishib, hol-ahvol so'rashmoqchiman.",
+  "good will": "Xayrixohlik muhim.",
+  "materially": "Ular moddiy jihatdan boy.",
+  "merry": "Rojdestvo muborak!",
+  "olden": "Bu qadim zamonlardan qolgan hikoya.",
+  "thirdly": "Birinchidan, ikkinchidan, uchinchidan.",
+  "unwrapping": "Men sovg'alarni ochishni yaxshi ko'raman."
+ },
+ "A2": {
+  "barbeque": "Barbekyu qizib turibdi.",
+  "carol": "Men bu Rojdestvo qo'shig'ini bilaman.",
+  "catch up": "Bizda gaplashib oladigan ko'p gap bor edi.",
+  "catch up with": "Keling, bugun kechqurun Sam bilan ko'rishib, gaplashaylik.",
+  "good will": "Bu xayrixohlik fasli.",
+  "materially": "Hozir hayot moddiy jihatdan yaxshiroq.",
+  "merry": "Biz vaqtni quvnoq o'tkazdik.",
+  "olden": "Qadim zamonlarda televizor bo'lmagan.",
+  "thirdly": "Uchinchidan, biz to'kin dasturxon atrofida ovqatlanamiz.",
+  "unwrapping": "Bolalar sovg'alarni ocha boshlashdi."
+ },
  "B1": {
   "barbeque": "Keling, bog'da barbekyu qilamiz.",
   "carol": "Xor Rojdestvo qo'shiqlarini kuyladi.",

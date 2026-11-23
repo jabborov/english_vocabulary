@@ -1,5 +1,21 @@
-// Part 1 topic 0363: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0363: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0363', {
+ "A1": {
+  "give out": "Kitoblarni tarqatib bering.",
+  "only if": "Faqat xohlasangiz.",
+  "pop in": "Keyinroq kirib o'ting.",
+  "rebel": "U isyonkor.",
+  "settle in": "Yangi joyga ko'nikib oldingizmi?",
+  "through and through": "U boshdan-oyoq mehribon."
+ },
+ "A2": {
+  "give out": "U qog'ozlarni tarqatdi.",
+  "only if": "Faqat ishingni tugatsang, keta olasan.",
+  "pop in": "Tushlikdan keyin kirib o'taman.",
+  "rebel": "O'smirlar ko'pincha isyon ko'tarishadi.",
+  "settle in": "U tezda ko'nikib oldi.",
+  "through and through": "U chin londonlik."
+ },
  "B1": {
   "give out": "Dushanba kunlari bepul qahva tarqatishadi.",
   "only if": "Stolingizda faqat keyin tozalab qo'ysangizgina ovqatlaning.",

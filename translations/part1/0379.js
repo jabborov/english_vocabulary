@@ -1,5 +1,25 @@
-// Part 1 topic 0379: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0379: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0379', {
+ "A1": {
+  "cameraman": "U operator.",
+  "casino": "Bu kazino.",
+  "cybernetic": "Bu kibernetik qo'l.",
+  "cyborg": "Kiborg qisman mashinadir.",
+  "hang in": "Bardosh ber!",
+  "pronunciation": "Talaffuzingizni tekshiring.",
+  "spec": "Ko'zoynagim qayerda?",
+  "wearable": "Bu ko'ylakni kiyish juda qulay."
+ },
+ "A2": {
+  "cameraman": "Operator o'yinni tasvirga oldi.",
+  "casino": "U kazinoga bordi.",
+  "cybernetic": "Filmning qahramoni kibernetik mavjudot.",
+  "cyborg": "Men filmda kiborgni ko'rdim.",
+  "hang in": "Rasm havoda osilib turganga o'xshaydi.",
+  "pronunciation": "Uning talaffuzi juda yaxshi.",
+  "spec": "Bobomga ko'zoynagi kerak.",
+  "wearable": "Aqlli soatlarni taqib yurish mumkin."
+ },
  "B1": {
   "cameraman": "Operator prezident ortidan yurdi.",
   "casino": "Kazino tun bo'yi ochiq.",

@@ -1,5 +1,39 @@
-// Part 2 topic 0015: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0015: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0015', {
+ "A1": {
+  "Anglophone": "Kanadada ingliz tilida so'zlashuvchi hududlar bor.",
+  "Gross Domestic Product (GDP)": "Bu mamlakatning yalpi ichki mahsuloti katta.",
+  "dominate": "Katta do'konlar bozorda hukmronlik qiladi.",
+  "elsewhere": "Keling, boshqa joyga boramiz.",
+  "establishment": "Bu yaxshi muassasa.",
+  "factor": "Pul muhim omil.",
+  "funding": "Maktabga ko'proq mablag' kerak.",
+  "mainland": "Biz materikka qayiqda bordik.",
+  "particularly": "Bugun ayniqsa charchaganman.",
+  "renown": "U mashhur qo'shiqchi.",
+  "represent": "Bu raqam bizning savdolarimizni ifodalaydi.",
+  "surprisingly": "Imtihon kutilmaganda oson bo'ldi.",
+  "therefore": "Yomg'ir yog'yapti. Shuning uchun biz uyda qolamiz.",
+  "top spot": "Bizning jamoamiz birinchi o'rinda.",
+  "two-and-a-half times": "Mening uyim ikki yarim baravar kattaroq."
+ },
+ "A2": {
+  "Anglophone": "Ko'plab ingliz tilida so'zlashuvchi mamlakatlar katta.",
+  "Gross Domestic Product (GDP)": "YaIM mamlakatning qanchalik boyligini ko'rsatadi.",
+  "dominate": "U doim suhbatda ustunlik qiladi.",
+  "elsewhere": "Do'kon yopiq. Boshqa joydan qidirib ko'ring.",
+  "establishment": "Bu mehmonxona mashhur muassasa.",
+  "factor": "Men uchun narx muhim omil.",
+  "funding": "Loyiha shahar hokimiyatidan mablag' oldi.",
+  "mainland": "Ular materik Gretsiyada yashaydi.",
+  "particularly": "Menga mevalar, ayniqsa olma yoqadi.",
+  "renown": "Oshpaz katta shuhratga ega.",
+  "represent": "Talabalarning yarmini ayollar tashkil qiladi.",
+  "surprisingly": "Ovqat kutilmaganda mazali chiqdi.",
+  "therefore": "U kasal edi va shuning uchun kela olmadi.",
+  "top spot": "Qo'shiq birinchi o'ringa chiqdi.",
+  "two-and-a-half times": "Bu sumka menikidan ikki yarim baravar og'irroq."
+ },
  "B1": {
   "Anglophone": "Ingliz tilida so'zlashuvchi mamlakatlardan kelgan talabalar ko'pincha boshqa tillarni o'rganishni qiyin deb bilishadi.",
   "Gross Domestic Product (GDP)": "O'tgan yili mamlakatning yalpi ichki mahsuloti (YaIM) to'rt foizga o'sdi.",

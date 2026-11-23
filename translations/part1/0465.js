@@ -1,5 +1,35 @@
-// Part 1 topic 0465: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0465: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0465', {
+ "A1": {
+  "abandoned ship": "Ular kemani tashlab ketishdi.",
+  "capsize": "Qayiq ag'darilib ketdi.",
+  "cruise": "Men dengiz sayohatini juda yaxshi ko'raman.",
+  "cruise ship": "Bu katta kruiz kemasi.",
+  "dreadful": "Ob-havo dahshatli.",
+  "heroic": "U qahramonlik ko'rsatdi.",
+  "oasis": "Biz vohani topdik.",
+  "speculating": "Taxmin qilishni bas qiling.",
+  "stay on": "Iltimos, qolib turing.",
+  "turn over": "Sahifani ag'daring.",
+  "unthinkable": "Buni tasavvur ham qilib bo'lmaydi.",
+  "utterly": "Men butunlay charchadim.",
+  "wash off": "Kirni yuvib tashlang."
+ },
+ "A2": {
+  "abandoned ship": "Bu tashlab ketilgan kema.",
+  "capsize": "Qayiqning ag'darilib ketishiga yo'l qo'yma.",
+  "cruise": "Biz dengiz sayohatiga chiqdik.",
+  "cruise ship": "Biz kruiz kemasida sayohat qildik.",
+  "dreadful": "Bu dahshatli film edi.",
+  "heroic": "Bu qahramonlik edi.",
+  "oasis": "Vohada suv bor.",
+  "speculating": "Taxminlar juda ko'p.",
+  "stay on": "U darsdan keyin maktabda qoldi.",
+  "turn over": "Mashina ag'darilib ketdi.",
+  "unthinkable": "Bu men uchun aqlga sig'maydigan narsa edi.",
+  "utterly": "U behad baxtiyor edi.",
+  "wash off": "Bo'yoq yuvilib ketdi."
+ },
  "B1": {
   "abandoned ship": "Ekipaj kechasi kemani tashlab ketdi.",
   "capsize": "Kichkina qayiq bo'ronda ag'darilib ketdi.",

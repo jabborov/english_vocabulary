@@ -1,5 +1,37 @@
-// Part 1 topic 0305: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0305: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0305', {
+ "A1": {
+  "all too": "U juda tez tugab qoldi.",
+  "closeness": "Men singlim bilan yaqinlik his qilaman.",
+  "connect up": "Kabellarni ulang.",
+  "filmmaker": "U kinorejissyor.",
+  "intimacy": "Muhabbatda yaqinlik muhim.",
+  "physiologically": "U fiziologik jihatdan sog'lom.",
+  "physiology": "U fiziologiyani o'rganadi.",
+  "portmanteau": "\"Brunch\" qo'shma-qisqartma so'z.",
+  "portmanteau word": "\"Brunch\" qo'shma-qisqartma so'zdir.",
+  "snub": "Meni mensimay qo'yma.",
+  "snubbing": "Mensimaslik qo'pollikdir.",
+  "techie": "U texnikaga qiziquvchi odam.",
+  "tip over": "Piyola ag'darilib ketdi.",
+  "word form": "Bu so'z shakli."
+ },
+ "A2": {
+  "all too": "Bu juda ham keng tarqalgan hol.",
+  "closeness": "Ularning yaqinligi o'ziga xos.",
+  "connect up": "Uy internetga ulangan.",
+  "filmmaker": "Kinorejissyor mukofot oldi.",
+  "intimacy": "Ular o'rtasidagi yaqinlik yo'qoldi.",
+  "physiologically": "Fiziologik jihatdan bu normal holat.",
+  "physiology": "Fiziologiya fandir.",
+  "portmanteau": "Bu kulgili qo'shma-qisqartma so'z.",
+  "portmanteau word": "Bu qo'shma-qisqartma so'z.",
+  "snub": "U qo'shnisini mensimadi.",
+  "snubbing": "Telefon tufayli suhbatdoshni e'tiborsiz qoldirish keng tarqalgan.",
+  "techie": "Akam haqiqiy texnika ishqibozi.",
+  "tip over": "Stulni ag'darib yuborma.",
+  "word form": "Har bir so'z shaklini o'rganing."
+ },
  "B1": {
   "all too": "Ta'til juda ham qisqa bo'ldi.",
   "closeness": "Yaqinlik vaqt talab qiladi.",

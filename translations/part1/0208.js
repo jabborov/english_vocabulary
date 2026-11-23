@@ -1,5 +1,37 @@
-// Part 1 topic 0208: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0208: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0208', {
+ "A1": {
+  "brisk": "Biz tetik qadamlar bilan sayr qildik.",
+  "buggy": "Chaqaloq aravachada.",
+  "en route": "Biz yo'l-yo'lakay to'xtadik.",
+  "enthusiast": "U sport ishqibozi.",
+  "incremental": "Bu bosqichma-bosqich o'zgarish.",
+  "jogging": "Men yugurishni yaxshi ko'raman.",
+  "lower": "Ovozingizni pasaytiring.",
+  "magic number": "Sehrli raqam qaysi?",
+  "saunter": "Ular yo'l bo'ylab sekin sayr qilib ketishdi.",
+  "saunter over": "U bamaylixotir yaqinlashib keldi.",
+  "step out": "Bir daqiqaga tashqariga chiqib kelaman.",
+  "taxi": "Keling, taksi olaylik.",
+  "vigorous": "Yugurish jadal jismoniy mashqdir.",
+  "vigorously": "U qo'limni qattiq siqib silkitdi."
+ },
+ "A2": {
+  "brisk": "U tez qadam tashlab yuradi.",
+  "buggy": "Aravachani iting.",
+  "en route": "Men ishga ketayotib yo'ldaman.",
+  "enthusiast": "U avtomobil ishqibozi.",
+  "incremental": "Asta-sekin rivojlanib boring.",
+  "jogging": "U har kuni yugurishga chiqadi.",
+  "lower": "Ular narxni tushirishdi.",
+  "magic number": "O'n sehrli raqam.",
+  "saunter": "U xonaga bamaylixotir kirib keldi.",
+  "saunter over": "U bamaylixotir yonimizga keldi.",
+  "step out": "U mashinadan tushdi.",
+  "taxi": "Iltimos, taksi chaqiring.",
+  "vigorous": "U baquvvat odam.",
+  "vigorously": "U shijoat bilan suzadi."
+ },
  "B1": {
   "brisk": "Salqin va tetiklantiruvchi tong edi.",
   "buggy": "U bolalar aravachasini yig'ib qo'ydi.",

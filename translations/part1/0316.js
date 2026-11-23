@@ -1,5 +1,39 @@
-// Part 1 topic 0316: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0316: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0316', {
+ "A1": {
+  "about turn": "Hukumat keskin burilish qildi.",
+  "accustomed": "Men bunga o'rganib qolganman.",
+  "burn off": "Jismoniy mashq yog'ni yoqib yuboradi.",
+  "central heating": "Bizda markaziy isitish bor.",
+  "chemical process": "Bu kimyoviy jarayon.",
+  "cooling system": "Mashinada sovutish tizimi bor.",
+  "couch potato": "U kun bo'yi divanda yotadigan dangasa.",
+  "environmental condition": "O'simliklarga yaxshi atrof-muhit sharoitlari kerak.",
+  "fat cell": "Yog' hujayralari yog' to'playdi.",
+  "heating": "Isitishni yoqing.",
+  "hibernate": "Ayiqlar qishki uyquga ketadi.",
+  "metabolism": "Moddalar almashinuvi bizga energiya beradi.",
+  "neglect": "Sog'lig'ingizni e'tiborsiz qoldirmang.",
+  "shiver": "Sovqotganimda titrayman.",
+  "turn in": "Men hozir yotaman."
+ },
+ "A2": {
+  "about turn": "Bu butunlay teskari burilish edi.",
+  "accustomed": "U sovuqqa o'rganib qolgan.",
+  "burn off": "Men kaloriyalarni yoqmoqchiman.",
+  "central heating": "Markaziy isitish yoqilgan.",
+  "chemical process": "Ovqat pishirish kimyoviy jarayondir.",
+  "cooling system": "Sovutish tizimi buzildi.",
+  "couch potato": "Kun bo'yi divanda yotadigan dangasa bo'lma.",
+  "environmental condition": "Atrof-muhit sharoitlari yomon.",
+  "fat cell": "Bizda ko'plab yog' hujayralari bor.",
+  "heating": "Isitish tizimi buzilgan.",
+  "hibernate": "Ba'zi hayvonlar qishki uyquga ketadi.",
+  "metabolism": "Uning moddalar almashinuvi tez.",
+  "neglect": "U bog'ini e'tiborsiz qoldirdi.",
+  "shiver": "U qorda titrab turardi.",
+  "turn in": "Uy vazifangizni topshiring."
+ },
  "B1": {
   "about turn": "U o'z rejalaridan butunlay voz kechib, keskin o'zgartirdi.",
   "accustomed": "U ishga ko'nikib qoldi.",

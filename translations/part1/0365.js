@@ -1,5 +1,21 @@
-// Part 1 topic 0365: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0365: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0365', {
+ "A1": {
+  "ground floor": "Biz birinchi qavatdamiz.",
+  "hopping": "Qush sakrab yuribdi.",
+  "locker": "Bu mening shkafcham.",
+  "loo": "Hojatxona qayerda?",
+  "photocopier": "Nusxa ko'chirish mashinasi buzilgan.",
+  "show around": "Menga atrofni ko'rsating."
+ },
+ "A2": {
+  "ground floor": "Do'kon birinchi qavatda.",
+  "hopping": "U bir oyoqda sakrayapti.",
+  "locker": "Sumkangizni shkafchaga qo'ying.",
+  "loo": "Hojatxona yuqori qavatda.",
+  "photocopier": "Bu yerdagi nusxa ko'chirish mashinasidan foydalaning.",
+  "show around": "U bizga ofisni ko'rsatib chiqdi."
+ },
  "B1": {
   "ground floor": "Majlislar xonasi birinchi qavatda.",
   "hopping": "U kun bo'yi bir ofisdan boshqasiga yugurib yurdi.",

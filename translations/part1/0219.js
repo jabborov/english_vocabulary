@@ -1,5 +1,29 @@
-// Part 1 topic 0219: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0219: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0219', {
+ "A1": {
+  "Sichuan": "Sichuan Xitoyda joylashgan.",
+  "dried": "Men quritilgan lag'mon sotib oldim.",
+  "frank": "Men bilan ochiq gaplashing.",
+  "hot water": "Menga issiq suv kerak.",
+  "hotpot": "Men xotpotni yaxshi ko'raman.",
+  "localise": "Ular taomni mahalliy didga moslashtirishadi.",
+  "manufacturing": "Ishlab chiqarish muhim.",
+  "noodle": "Men lag'monni yaxshi ko'raman.",
+  "topping": "Menga bu ustki qo'shimcha yoqadi.",
+  "trader": "U savdogar."
+ },
+ "A2": {
+  "Sichuan": "Sichuan taomlari achchiq.",
+  "dried": "Quritilgan mevalar shirin.",
+  "frank": "U juda ochiqko'ngil.",
+  "hot water": "Issiq suv qo'shing.",
+  "hotpot": "Xotpot issiq sho'rva.",
+  "localise": "Biz veb-saytni mahalliy tilga moslashtiramiz.",
+  "manufacturing": "U ishlab chiqarish sohasida ishlaydi.",
+  "noodle": "Lag'mon uzun va ingichka bo'ladi.",
+  "topping": "Ustiga qo'shimcha qo'shing.",
+  "trader": "Savdogar guruch sotadi."
+ },
  "B1": {
   "Sichuan": "Men Sichuan lag'monini juda yaxshi ko'raman.",
   "dried": "Quritilgan lag'mon tez pishadi.",

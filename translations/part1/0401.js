@@ -1,5 +1,45 @@
-// Part 1 topic 0401: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0401: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0401', {
+ "A1": {
+  "bid": "Bu yordam berishga urinish edi.",
+  "chimney": "Mo'ridan tutun chiqyapti.",
+  "cigarette": "Uning qo'lida sigaret bor.",
+  "cornerstone": "Bu poydevor tosh.",
+  "extend to": "Qoida hammaga taalluqli.",
+  "extinguish": "Olovni o'chiring.",
+  "half dollar": "Bu yarim dollar turadi.",
+  "hard surface": "Bu qattiq sirt.",
+  "kiosk": "Men kioskdan ichimlik sotib oldim.",
+  "lit": "Sigaret yoqilgan.",
+  "parliament": "Parlament qonunlar chiqaradi.",
+  "puff": "U bir tortdi.",
+  "push on": "Keling, davom etaylik.",
+  "railway station": "Temir yo'l vokzali katta.",
+  "smoker": "U chekadi.",
+  "stub": "Polda sigaret qoldig'i bor.",
+  "stub out": "Sigaretingizni o'chiring.",
+  "town hall": "Bu shahar hokimiyati binosi."
+ },
+ "A2": {
+  "bid": "U g'alaba qozonishga urindi.",
+  "chimney": "Uyning baland mo'risi bor.",
+  "cigarette": "U sigaret sotib olmaydi.",
+  "cornerstone": "Ishonch do'stlikning poydevoridir.",
+  "extend to": "Bu kafelarga ham taalluqlimi?",
+  "extinguish": "U sigaretini o'chirdi.",
+  "half dollar": "Bu atigi yarim dollar.",
+  "hard surface": "Qattiq sirt ustida turing.",
+  "kiosk": "Kioskda gazetalar sotiladi.",
+  "lit": "U gugurt yoqdi.",
+  "parliament": "U parlamentda ishlaydi.",
+  "puff": "Faqat bir tortaman!",
+  "push on": "Ular rejani davom ettirishdi.",
+  "railway station": "Meni temir yo'l vokzalida kutib oling.",
+  "smoker": "Dadam chekmaydi.",
+  "stub": "Sigaret qoldiqlaringizni yig'ishtirib oling.",
+  "stub out": "U sigaretni bosib o'chirdi.",
+  "town hall": "Shahar hokimiyati binosi eski."
+ },
  "B1": {
   "bid": "Bu qonun hayotlarni saqlab qolishga urinishdir.",
   "chimney": "U mo'ridek tutun chiqarib chekadi.",

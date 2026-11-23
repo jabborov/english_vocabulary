@@ -1,5 +1,27 @@
-// Part 1 topic 0304: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0304: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0304', {
+ "A1": {
+  "by nature": "U tabiatan mehribon.",
+  "eerie": "Bu vahimali tovush edi.",
+  "eerily": "Atrof g'alati darajada jimjit edi.",
+  "fertilised": "Bu urug'langan tuxum.",
+  "fraternal": "Ular ikki tuxumli egizaklar.",
+  "milestone": "Yurish katta bosqich hisoblanadi.",
+  "plain sailing": "Imtihon juda oson o'tdi.",
+  "psychic": "U o'zini ruhiy kuchga ega deb o'ylaydi.",
+  "sailing": "Men yelkanli qayiqda suzishni yaxshi ko'raman."
+ },
+ "A2": {
+  "by nature": "U tabiatan kamgap.",
+  "eerie": "Kechasi o'rmon vahimali.",
+  "eerily": "Ular g'alati darajada bir-biriga o'xshaydi.",
+  "fertilised": "Tuxum urug'lantirilgan edi.",
+  "fraternal": "Ikki tuxumli egizaklar o'g'il va qiz bo'lishi mumkin.",
+  "milestone": "Uning birinchi so'zi muhim bosqich bo'ldi.",
+  "plain sailing": "Hayot har doim ham silliq kechavermaydi.",
+  "psychic": "U folbinning oldiga bordi.",
+  "sailing": "Biz yelkanli qayiqda suzgani bordik."
+ },
  "B1": {
   "by nature": "Men tabiatan dangasa emasman.",
   "eerie": "U vahimali sukunatni his qildi.",

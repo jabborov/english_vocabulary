@@ -1,5 +1,41 @@
-// Part 1 topic 0497: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0497: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0497', {
+ "A1": {
+  "artery": "Bu arteriya.",
+  "defective": "O'yinchoq nuqsonli.",
+  "dos": "Nima qilish va nima qilmaslik kerakligini o'qing.",
+  "down the stairs": "Zinadan pastga tushing.",
+  "fall down": "Yiqilib tushma!",
+  "faulty": "Chiroq nosoz.",
+  "freeway": "Avtomagistral gavjum.",
+  "genetic code": "Hammamizda genetik kod bor.",
+  "great grandparent": "Men katta bobo-buvilarimni hech ko'rmaganman.",
+  "radial": "Bu bilak suyagi.",
+  "radial artery": "Bilak arteriyasi qo'lingizda joylashgan.",
+  "rapid eye movement": "Biz tush ko'rishni tez ko'z harakati bosqichida ko'ramiz.",
+  "sever": "Pichoq arqonni kesib yuborishi mumkin.",
+  "sleepwalk": "Siz uyquda yurasizmi?",
+  "sleepwalker": "U uyqusida yuradi.",
+  "sleepwalking": "Uyquda yurish g'alati."
+ },
+ "A2": {
+  "artery": "Arteriyalar qon tashiydi.",
+  "defective": "Biz nuqsonli telefonni qaytarib yubordik.",
+  "dos": "Mana sport zalida nima qilish va nima qilmaslik kerakligi.",
+  "down the stairs": "Mushuk zinadan pastga yugurib tushdi.",
+  "fall down": "Chaqaloq maysaga yiqilib tushdi.",
+  "faulty": "Yangi choynagim nosoz.",
+  "freeway": "Biz avtomagistralda haydadik.",
+  "genetic code": "Genetik kodimiz ota-onamizdan keladi.",
+  "great grandparent": "Bu katta bobomning surati.",
+  "radial": "Bilak tomiri urishi bilakda seziladi.",
+  "radial artery": "Bilak arteriyasini bilagingizda his qilishingiz mumkin.",
+  "rapid eye movement": "Tez ko'z harakati uyquning bir bosqichidir.",
+  "sever": "U ipni qaychi bilan kesib tashladi.",
+  "sleepwalk": "O'g'lim ba'zan uyquda yuradi.",
+  "sleepwalker": "Uyquda yuruvchi eshikni ochdi.",
+  "sleepwalking": "Akamda uyquda yurish muammosi bor."
+ },
  "B1": {
   "artery": "Arteriyaning tiqilib qolishi yurak xurujiga olib kelishi mumkin.",
   "defective": "Kompaniya minglab nosoz avtomobillarni qaytarib oldi.",

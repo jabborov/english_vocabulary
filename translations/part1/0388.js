@@ -1,5 +1,43 @@
-// Part 1 topic 0388: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0388: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0388', {
+ "A1": {
+  "EU": "Fransiya Yevropa Ittifoqiga kiradi.",
+  "applause": "Gulduros qarsaklar yangradi.",
+  "drummer": "U barabanchi.",
+  "gay": "Musiqa quvnoq va yorqin edi.",
+  "gutsiness": "Menga uning dadilligi yoqadi.",
+  "gutsy": "U jasur.",
+  "interval": "Keling, tanaffusda ovqatlanaylik.",
+  "ovation": "U olqishlarga sazovor bo'ldi.",
+  "punter": "Tomoshabinlarga bu yoqdi.",
+  "scold": "Bolani urishma.",
+  "stage door": "Sahna orqasidagi eshik oldida kuting.",
+  "standing": "Bu tik turgan olomon edi.",
+  "standing ovation": "Ularni o'rnidan turib olqishlashdi.",
+  "straight off": "Buni darhol qiling.",
+  "tell off": "Onam meni koyidi.",
+  "unsettling": "Shovqin bezovta qiladi.",
+  "up the stairs": "Zinadan yuqoriga chiqing."
+ },
+ "A2": {
+  "EU": "Yevropa Ittifoqiga ko'plab davlatlar kiradi.",
+  "applause": "Qo'shiqchi ko'p olqish oldi.",
+  "drummer": "Barabanchi juda baland chaladi.",
+  "gay": "Ularning ziyofati quvnoq o'tdi.",
+  "gutsiness": "Uning dadilligi g'alaba qozonishiga yordam berdi.",
+  "gutsy": "Bu jasoratli qaror edi.",
+  "interval": "Tanaffus o'n besh daqiqa.",
+  "ovation": "Gulduros olqishlar yangradi.",
+  "punter": "Mijozlar juda ko'p edi.",
+  "scold": "U o'g'lini urishdi.",
+  "stage door": "Sahna eshigi orqa tomonda.",
+  "standing": "Biz tik turib tomosha qilish uchun chipta oldik.",
+  "standing ovation": "Qo'shiqchini o'rnidan turib olqishlashdi.",
+  "straight off": "Men buni darhol angladim.",
+  "tell off": "O'qituvchi uni koyidi.",
+  "unsettling": "Bu kishini bezovta qiladigan film edi.",
+  "up the stairs": "Mening xonam yuqori qavatda."
+ },
  "B1": {
   "EU": "Yevropa Ittifoqi shovqin haqida yangi qoidalar qabul qildi.",
   "applause": "Qarsaklar besh daqiqa davom etdi.",

@@ -1,5 +1,21 @@
-// Part 1 topic 0343: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0343: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0343', {
+ "A1": {
+  "Gary": "Gary mening do'stim.",
+  "edge in": "Men bir og'iz ham gap qo'sha olmadim.",
+  "esteem": "Uning o'ziga bo'lgan hurmati past.",
+  "photography": "Men fotografiyani yaxshi ko'raman.",
+  "si": "\"Si\" \"ha\" degani.",
+  "survive on": "Biz non va choy bilan kun ko'ramiz."
+ },
+ "A2": {
+  "Gary": "Gary tillarni yaxshi ko'radi.",
+  "edge in": "U gapga aralashishga urindi.",
+  "esteem": "Biz uni juda hurmat qilamiz.",
+  "photography": "U fotografiyani o'rganadi.",
+  "si": "U jilmayib \"si\" dedi.",
+  "survive on": "U kichik maosh bilan kun ko'radi."
+ },
  "B1": {
   "Gary": "Geri italyan tilini o'rganmoqda.",
   "edge in": "U suhbatga asta-sekin qo'shildi.",

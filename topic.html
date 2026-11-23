@@ -297,31 +297,46 @@
     return (set && set[LEVELS.indexOf(level)]) || item.ex;
   }
 
-  // Uzbek translations of this topic's B1, B2, C1 and C2 example sentences: level -> word -> Uzbek sentence.
+  // Uzbek translations of this topic's A1–C2 example sentences: level -> word -> Uzbek sentence.
   // Loaded from translations/part<P>/<topic>.js after the first render (see the end of this script).
   let topicUz = {};
   function translateHTML(item){
-    // Shown only while a translated level (B1, B2, C1 or C2) is selected.
+    // Shown only while a CEFR level (A1–C2) is selected, not for the original example.
     const uz = (topicUz[level] || {})[item.w], set = examples[item.w];
     if(!uz || !set || exampleFor(item) !== set[LEVELS.indexOf(level)]) return '';
     return `<div class="entry-uzex"><div class="uz"><i class="lbl">UZ</i>${uz}</div></div>`;
   }
 
-  // Runs change() (which may make the entries taller or shorter) without moving what the reader is looking at:
-  // the first word card visible below the sticky top bar stays at exactly the same place on the screen.
+  // Runs change() (which may make the entries taller or shorter) without moving what the reader is looking at.
+  // The word card in the middle of the screen (below the sticky top bar) stays at exactly the same place.
+  // If the page becomes too short to keep that position, extra space is added at the bottom instead of
+  // letting the browser pull the page up.
+  let keepPad = 0;
   function keepPosition(change){
-    const navH = document.querySelector('nav').getBoundingClientRect().bottom;
+    const navB = document.querySelector('nav').getBoundingClientRect().bottom;
+    const mid = navB + (window.innerHeight - navB) / 2;
     const cards = entriesEl.querySelectorAll('.entry');
     let index = -1, before = 0;
     for(let i = 0; i < cards.length; i++){
       const r = cards[i].getBoundingClientRect();
-      if(r.bottom > navH){ index = i; before = r.top; break; }
+      if(r.bottom > mid){ index = i; before = r.top; break; }
     }
-    const y = window.scrollY;
+    // Below the last card (topic list, footer) nothing changes size, so keep the end of the cards in place instead.
+    const endBefore = entriesEl.getBoundingClientRect().bottom;
     change();
+    // Remove space added by an earlier call, then work out where the page has to be.
+    // Positions are measured from the top of the page, because the browser may already have
+    // pulled the page up (if it got shorter) before this point.
+    if(keepPad){ document.body.style.paddingBottom = ''; keepPad = 0; }
     const card = index >= 0 ? entriesEl.querySelectorAll('.entry')[index] : null;
-    if(card) window.scrollTo(0, y + card.getBoundingClientRect().top - before);
-    else window.scrollTo(0, y);
+    const target = card ? window.scrollY + card.getBoundingClientRect().top - before
+                        : window.scrollY + entriesEl.getBoundingClientRect().bottom - endBefore;
+    const missing = Math.ceil(target + window.innerHeight - document.documentElement.scrollHeight);
+    if(missing > 0){
+      keepPad = missing;
+      document.body.style.paddingBottom = (parseFloat(getComputedStyle(document.body).paddingBottom) + missing) + 'px';
+    }
+    window.scrollTo(0, target);
   }
 
   const levelBar = document.getElementById('level-bar');

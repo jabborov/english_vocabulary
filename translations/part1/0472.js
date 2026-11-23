@@ -1,5 +1,19 @@
-// Part 1 topic 0472: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0472: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0472', {
+ "A1": {
+  "flick": "Kalitni bosing.",
+  "market town": "Men bozorli shaharchada yashayman.",
+  "max out": "U kartasidagi limitni to'liq ishlatib yubordi.",
+  "second person": "\"You\" ikkinchi shaxs.",
+  "spend up": "Ta'tilda pulimizni sovurib yubordik."
+ },
+ "A2": {
+  "flick": "U jurnalni varaqlab chiqdi.",
+  "market town": "Bozorli shaharcha sokin.",
+  "max out": "Kredit kartangizni limitigacha ishlatib yubormang.",
+  "second person": "Buni ikkinchi shaxsda yozing.",
+  "spend up": "Ular dam olish kunlari pulni ayamay sarflashni yaxshi ko'rishadi."
+ },
  "B1": {
   "flick": "U telefonidagi suratlarni varaqlab chiqdi.",
   "market town": "Bizning bozorli shaharchamizda har seshanba bozor bo'ladi.",

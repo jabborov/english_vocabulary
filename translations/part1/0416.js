@@ -1,5 +1,25 @@
-// Part 1 topic 0416: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0416: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0416', {
+ "A1": {
+  "Atlantis": "Atlantida afsonadir.",
+  "Maria": "Mariya olima.",
+  "copy over": "So'zlarni ko'chirib yozing.",
+  "map maker": "U xarita tuzuvchi.",
+  "nautical": "Bu dengiz xaritasi.",
+  "navigator": "U navigator.",
+  "selection": "Bizda kitoblarning katta tanlovi bor.",
+  "spokesman": "U matbuot kotibi."
+ },
+ "A2": {
+  "Atlantis": "Atlantida orol bo'lgan.",
+  "Maria": "Mariya kemada sayohatga chiqdi.",
+  "copy over": "Men qaydlarimni ko'chirib yozdim.",
+  "map maker": "Xarita tuzuvchi yangi xarita chizdi.",
+  "nautical": "U dengizchilikka oid narsalarni yaxshi ko'radi.",
+  "navigator": "Navigator xaritani o'qidi.",
+  "selection": "Tanlovingizni qiling.",
+  "spokesman": "Matbuot kotibi jurnalistlar bilan gaplashdi."
+ },
  "B1": {
   "Atlantis": "Ko'p odamlar Atlantidani izlashgan.",
   "Maria": "Mariya faqat dengizni ko'rib hayron qoldi.",

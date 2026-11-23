@@ -1,5 +1,19 @@
-// Part 1 topic 0484: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0484: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0484', {
+ "A1": {
+  "antique": "Bu stul antiqa buyum.",
+  "centenarian": "Buvim yuz yoshdan oshgan.",
+  "congratulatory": "Bu tabrik xabari edi.",
+  "great grandmother": "U mening katta buvim.",
+  "lengthened": "Kunlar uzaydi."
+ },
+ "A2": {
+  "antique": "U antiqa buyumlar sotadi.",
+  "centenarian": "U yuz yoshdan oshgan odam bilan uchrashdi.",
+  "congratulatory": "U tabrik xatini yubordi.",
+  "great grandmother": "Katta buvim keksa.",
+  "lengthened": "U uzaytirilgan yubka kiygan edi."
+ },
  "B1": {
   "antique": "Bu vaza nodir antiqa buyum.",
   "centenarian": "Yuz yoshli qariya hali ham har kuni piyoda yuradi.",

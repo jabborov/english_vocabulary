@@ -1,5 +1,19 @@
-// Part 1 topic 0373: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0373: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0373', {
+ "A1": {
+  "angriest": "Otam eng ko'p jahli chiqqan kishi edi.",
+  "curse": "So'kinma!",
+  "mist": "Tepalikda tuman bor.",
+  "paced": "U xonada u yoqdan-bu yoqqa yurdi.",
+  "shove": "Meni itarma!"
+ },
+ "A2": {
+  "angriest": "O'sha kuni eng ko'p jahlim chiqqan edi.",
+  "curse": "U boshini urib olganda so'kindi.",
+  "mist": "Bugun ertalab tuman juda quyuq edi.",
+  "paced": "U u yoqdan-bu yoqqa yurib turdi.",
+  "shove": "U eshikni itarib ochdi."
+ },
  "B1": {
   "angriest": "U och qolganda eng jahldor bo'ladi.",
   "curse": "U uyga qaytguncha tirbandlikni la'natlab bordi.",

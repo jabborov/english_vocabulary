@@ -1,5 +1,39 @@
-// Part 1 topic 0447: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0447: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0447', {
+ "A1": {
+  "at the most": "Bu ko'pi bilan o'n dollar turadi.",
+  "caesarean": "U kesarcha kesish yo'li bilan tug'di.",
+  "caesarean section": "Unga kesarcha kesish operatsiyasi qilindi.",
+  "epicentre": "Bu epitsentr.",
+  "gland": "Bizda ko'plab bezlar bor.",
+  "malnutrition": "To'yib ovqatlanmaslik katta muammo.",
+  "mammary": "\"Mammary\" ko'krakka oid degan ma'noni bildiradi.",
+  "mammary gland": "Sutemizuvchilarda sut bezlari bor.",
+  "motherhood": "Onalik katta o'zgarishdir.",
+  "stunt": "Yomon ovqat o'sishni to'xtatib qo'yishi mumkin.",
+  "stunting": "O'sishdan orqada qolish yomon ovqatlanishdan kelib chiqadi.",
+  "take into account": "Ob-havoni hisobga oling.",
+  "underweight": "Chaqaloqning vazni yetarli emas.",
+  "vicious cycle": "Bu berk aylana.",
+  "weaken": "Kasallik tanani zaiflashtiradi."
+ },
+ "A2": {
+  "at the most": "Ko'pi bilan besh daqiqada kelaman.",
+  "caesarean": "Shifokor kesarcha kesish operatsiyasini qildi.",
+  "caesarean section": "Kesarcha kesish bu operatsiya.",
+  "epicentre": "Shahar epitsentrda edi.",
+  "gland": "Bezlarim shishib ketgan.",
+  "malnutrition": "Ko'plab bolalar to'yib ovqatlanmaslikdan aziyat chekadi.",
+  "mammary": "Sut bezi to'qimasi sut ishlab chiqaradi.",
+  "mammary gland": "Sut bezi sut ishlab chiqaradi.",
+  "motherhood": "U onalikdan zavq oladi.",
+  "stunt": "Chekish o'sishni sekinlashtirishi mumkin.",
+  "stunting": "O'sishdan orqada qolish ko'plab bolalarga ta'sir qiladi.",
+  "take into account": "Biz uning yoshini hisobga olishimiz kerak.",
+  "underweight": "Uning vazni biroz yetishmaydi.",
+  "vicious cycle": "Biz berk aylanada qolib ketdik.",
+  "weaken": "Ochlik uni holdan toydirdi."
+ },
  "B1": {
   "at the most": "U yerda ko'pi bilan yigirma kishi bor edi.",
   "caesarean": "Chaqaloq kesarcha yo'li bilan tug'ildimi?",

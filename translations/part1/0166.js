@@ -1,5 +1,31 @@
-// Part 1 topic 0166: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0166: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0166', {
+ "A1": {
+  "Mediterranean": "Men O'rta yer dengizi taomlarini yaxshi ko'raman.",
+  "communal": "Bizda umumiy oshxona bor.",
+  "head over": "Keling, bog'ga boraylik.",
+  "lady": "O'sha ayol mening o'qituvchim.",
+  "old age": "Buvim keksalikda baxtli.",
+  "outdoor": "Men ochiq havodagi o'yinlarni yaxshi ko'raman.",
+  "ripe": "Bu banan pishgan.",
+  "spite": "Yomg'irga qaramay, u tashqariga chiqdi.",
+  "statistic": "Bu qiziqarli statistik ma'lumot.",
+  "wrinkle": "Bobomning yuzida ajinlar bor.",
+  "youthful": "Xolam yosh ko'rinadi."
+ },
+ "A2": {
+  "Mediterranean": "Gretsiya O'rta yer dengizi mamlakati.",
+  "communal": "Talabalar umumiy bog'dan birga foydalanishadi.",
+  "head over": "Keyinroq sizning uyingizga boramiz.",
+  "lady": "Qo'shni uyda keksa bir ayol yashaydi.",
+  "old age": "Keksalik hayotning yaxshi davri bo'lishi mumkin.",
+  "outdoor": "Biz ochiq havoda tushlik qildik.",
+  "ripe": "Olmalar pishmasdan turib ularni yemang.",
+  "spite": "Charchaganiga qaramay, u ishini tugatdi.",
+  "statistic": "O'qituvchi bizga uyqu haqidagi statistik ma'lumotni ko'rsatdi.",
+  "wrinkle": "Quyosh teringizda ajin paydo qilishi mumkin.",
+  "youthful": "Uning tabassumi yoshlarnikidek."
+ },
  "B1": {
   "Mediterranean": "O'rta yer dengizi parhezida baliq va sabzavotlar ko'p bo'ladi.",
   "communal": "Qishloqda odamlar ko'pincha birgalikda ovqatlanishadi.",

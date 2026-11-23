@@ -1,5 +1,29 @@
-// Part 2 topic 0041: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0041: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0041', {
+ "A1": {
+  "boast": "U ko'p maqtanadi.",
+  "chime": "Bu mening fikrimga mos keladi.",
+  "clue": "Menga bir ishora bering.",
+  "concede": "U xato qilganini tan oldi.",
+  "environmentally-aware": "U atrof-muhitga e'tiborli.",
+  "gimmick": "Bu shunchaki e'tibor tortish uchun hiyla.",
+  "heightened": "Men kuchaygan qo'rquvni his qildim.",
+  "pastime": "Kitob o'qish mening sevimli mashg'ulotim.",
+  "pedalling away": "U pedallarni tinmay aylantiryapti.",
+  "publicity stunt": "Bu reklama uchun qilingan nayrang."
+ },
+ "A2": {
+  "boast": "U yangi mashinasi bilan maqtandi.",
+  "chime": "Uning hikoyasi menikiga mos keladi.",
+  "clue": "Kalitlarim qayerdaligini umuman bilmayman.",
+  "concede": "U imtihon qiyin bo'lganini tan oldi.",
+  "environmentally-aware": "Atrof-muhitga e'tiborli odamlar ko'p narsani qayta ishlashga topshiradi.",
+  "gimmick": "Bepul o'yinchoq ko'proq yorma sotish uchun hiyla.",
+  "heightened": "Aeroportda xavfsizlik choralari kuchaytirilgan.",
+  "pastime": "Baliq ovlash shahrimizda mashhur mashg'ulot.",
+  "pedalling away": "Bolalar bog'da pedallarni tinmay aylantirishardi.",
+  "publicity stunt": "Bepul muzqaymoq reklama uchun qilingan nayrang edi."
+ },
  "B1": {
   "boast": "Shaharcha go'zal qadimiy qal'a bilan faxrlanadi.",
   "chime": "Reja ko'pchilik odamlarning xohishiga mos keladi.",

@@ -1,5 +1,31 @@
-// Part 1 topic 0297: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0297: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0297', {
+ "A1": {
+  "cassava": "Kassava ildizmevadir.",
+  "clarity": "Uning ovozining tiniqligi menga yoqadi.",
+  "confectionery": "Men qandolat mahsulotlarini yaxshi ko'raman.",
+  "eat on": "Men avtobusda ovqatlanaman.",
+  "foggy": "Bugun tuman.",
+  "indulge": "Ba'zan o'zimni muzqaymoq bilan erkalayman.",
+  "nibble on": "Sichqon pishloqni kemirdi.",
+  "package": "Posilkani oching.",
+  "popcorn": "Men popkornni juda yaxshi ko'raman.",
+  "snack food": "Chipslar yengil gazakdir.",
+  "snack on": "Men gazak sifatida olma yeyman."
+ },
+ "A2": {
+  "cassava": "Men kassava chipslarini tatib ko'rdim.",
+  "clarity": "Bunga ko'proq aniqlik kerak.",
+  "confectionery": "Shokolad qandolat mahsulotidir.",
+  "eat on": "Yo'l-yo'lakay ovqatlanma.",
+  "foggy": "Miyam xuddi tuman bosgandek.",
+  "indulge": "Keling, bugun o'zimizni erkalaylik.",
+  "nibble on": "Men pechenyeni kemirib yedim.",
+  "package": "Posilka kichkina.",
+  "popcorn": "Popkorn xohlaysanmi?",
+  "snack food": "Men yengil gazaklar sotib olmayman.",
+  "snack on": "U gazak sifatida yong'oq yeydi."
+ },
  "B1": {
   "cassava": "Kassava issiq mamlakatlarda o'sadi.",
   "clarity": "Rasm juda tiniq.",

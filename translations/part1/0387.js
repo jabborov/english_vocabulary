@@ -1,5 +1,23 @@
-// Part 1 topic 0387: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0387: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0387', {
+ "A1": {
+  "Christmas": "Rojdestvo bilan!",
+  "cognitive neuroscience": "U kognitiv nevrologiyani o'rganadi.",
+  "conversational": "Uning ingliz tili so'zlashuv darajasida.",
+  "factual": "Hisobot faktlarga asoslangan.",
+  "queue up": "Biz avtobus uchun navbatga turamiz.",
+  "tint": "Oynada ko'k tus bor.",
+  "wait on": "U oilaga xizmat qiladi."
+ },
+ "A2": {
+  "Christmas": "Biz Rojdestvoda kurka go'shti yeymiz.",
+  "cognitive neuroscience": "Kognitiv nevrologiya miyani o'rganadi.",
+  "conversational": "Uning gapirish ohangi suhbatga yaqin.",
+  "factual": "Iltimos, menga faktlarga asoslangan ma'lumot bering.",
+  "queue up": "Odamlar do'konda navbatga turishadi.",
+  "tint": "Uning sochida qizg'ish tus bor.",
+  "wait on": "U kafeda ofitsiant bo'lib ishlagan."
+ },
  "B1": {
   "Christmas": "Rojdestvoga nima sovg'a oldingiz?",
   "cognitive neuroscience": "U kognitiv neyrologiya professori.",

@@ -1,5 +1,27 @@
-// Part 1 topic 0473: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0473: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0473', {
+ "A1": {
+  "credible": "Uning hikoyasi ishonarli.",
+  "dean": "U dekan.",
+  "endorse": "U bir atirni reklama qiladi.",
+  "imitating": "U otasiga taqlid qilyapti.",
+  "inclined": "Men rozi bo'lishga moyilman.",
+  "shopping basket": "Xarid savatini oling.",
+  "sportswear": "Men sport kiyimlarini yoqtiraman.",
+  "touchscreen": "Telefonimning sensorli ekrani bor.",
+  "unsure": "Men ishonchim komil emas."
+ },
+ "A2": {
+  "credible": "U ishonchli inson.",
+  "dean": "Dekan nutq so'zladi.",
+  "endorse": "U o'sha brendni reklama qiladi.",
+  "imitating": "Menga taqlid qilishni bas qil!",
+  "inclined": "U kechikishga moyil.",
+  "shopping basket": "Xarid savatim to'la.",
+  "sportswear": "U sport kiyimlari sotadi.",
+  "touchscreen": "Sensorli ekranning shu yeriga tegining.",
+  "unsure": "U nima deyishini bilmay qoldi."
+ },
  "B1": {
   "credible": "Reklama unchalik ishonarli emas edi.",
   "dean": "Men kollej dekani bilan gaplashdim.",

@@ -1,5 +1,41 @@
-// Part 1 topic 0458: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0458: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0458', {
+ "A1": {
+  "bricks and mortar": "Uy g'isht va qorishmadan iborat.",
+  "dingy": "Xona xira va iflos.",
+  "every bit": "U har jihatdan undan qolishmaydigan darajada aqlli.",
+  "find fault": "Doim aybdor qidiravermang.",
+  "first moment": "Birinchi lahzadanoq yoqib qoldi.",
+  "mortar": "Qorishma g'ishtlarni ushlab turadi.",
+  "pack up": "Sumkangizni yig'ishtiring.",
+  "quirkiness": "Menga uning g'alatiligi yoqadi.",
+  "rabbit warren": "Quyonlar quyon inlarida yashaydi.",
+  "staircase": "Zinadan yuqoriga chiqing.",
+  "undignified": "Bu nomunosib xatti-harakat edi.",
+  "upheaval": "Ko'chib o'tish katta ag'dar-to'ntar.",
+  "warren": "Quyonlar inga yugurib kirishdi.",
+  "wear out": "Poyabzallar eskiradi.",
+  "worn": "Gilam eskirgan.",
+  "worn out": "Poyabzallarim eskirib ketgan."
+ },
+ "A2": {
+  "bricks and mortar": "Bu shunchaki g'isht va devor, xolos.",
+  "dingy": "Bu xira va iflos mehmonxona edi.",
+  "every bit": "Bu har jihatdan xuddi shunchalik yaxshi edi.",
+  "find fault": "U hamma narsadan ayb topadi.",
+  "first moment": "Bu shouning birinchi lahzasi edi.",
+  "mortar": "Qorishma ho'l.",
+  "pack up": "Biz narsalarimizni yig'ishtirib ketdik.",
+  "quirkiness": "Uyning o'ziga xos g'alatiligi bor.",
+  "rabbit warren": "Eski maktab xuddi labirintga o'xshaydi.",
+  "staircase": "Zinapoya juda uzun.",
+  "undignified": "U noqulay holatda yiqildi.",
+  "upheaval": "Bu katta ag'dar-to'ntar edi.",
+  "warren": "Dalada quyon inlari bor.",
+  "wear out": "Jinsi shimim eskirib ketdi.",
+  "worn": "Uning paltosi eskirgan ko'rinardi.",
+  "worn out": "Bugun juda charchadim."
+ },
  "B1": {
   "bricks and mortar": "Uy – shunchaki g'isht va devor emas.",
   "dingy": "Ular kichkina, qorong'i va xira ofisda ishlashardi.",

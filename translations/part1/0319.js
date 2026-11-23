@@ -1,5 +1,35 @@
-// Part 1 topic 0319: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0319: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0319', {
+ "A1": {
+  "Campion": "Campion familiya.",
+  "Nancy": "Nancy mening dugonam.",
+  "adaptable": "U moslashuvchan.",
+  "astrologer": "U munajjim.",
+  "astrology": "Men astrologiyani yaxshi ko'raman.",
+  "come to light": "Haqiqat oshkor bo'ldi.",
+  "distant": "Yulduzlar uzoqda.",
+  "domesticate": "Odamlar hayvonlarni xonakilashtiradi.",
+  "generalise": "Umumlashtirmang.",
+  "horoscope": "Men munajjimlar bashoratimni o'qidim.",
+  "indication": "Hech qanday belgi yo'q.",
+  "observant": "U juda kuzatuvchan.",
+  "star sign": "Sizning burjingiz qanday?"
+ },
+ "A2": {
+  "Campion": "Janob Campion mutaxassis.",
+  "Nancy": "Bu Nancy.",
+  "adaptable": "Bolalar juda moslashuvchan bo'ladi.",
+  "astrologer": "Munajjim yulduzlarga qarab fol ochadi.",
+  "astrology": "Astrologiya juda qadimiy.",
+  "come to light": "Yangi faktlar oshkor bo'ldi.",
+  "distant": "Bu uzoq o'tmishdagi xotira edi.",
+  "domesticate": "Itlar ancha oldin xonakilashtirilgan.",
+  "generalise": "Umumlashtirish noto'g'ri.",
+  "horoscope": "Munajjimlar bashoratiga ko'ra, menga omad kulib boqadi.",
+  "indication": "Bu yaxshi belgi.",
+  "observant": "Yo'lda ziyrak bo'ling.",
+  "star sign": "Mening burjim Arslon."
+ },
  "B1": {
   "Campion": "Campion yulduzlar haqida yozadi.",
   "Nancy": "Nancy munajjimlikni yaxshi ko'radi.",

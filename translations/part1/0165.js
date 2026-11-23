@@ -1,5 +1,37 @@
-// Part 1 topic 0165: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0165: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0165', {
+ "A1": {
+  "bandy around": "Odamlar bu so'zni ko'p ishlatishadi.",
+  "category": "Bir toifani tanlang.",
+  "drum": "Men baraban chalaman.",
+  "finance minister": "U moliya vaziri.",
+  "harmonious": "Ular ahil oila.",
+  "little sister": "Bu mening singlim.",
+  "march": "Askarlar saf tortib yurishadi.",
+  "on the spot": "U o'sha zahoti pul to'ladi.",
+  "peacemaker": "U yarashtiruvchi.",
+  "read along": "Men bilan birga o'qing.",
+  "reunite": "Oila yana birlashdi.",
+  "sibling": "Mening ikkita aka-ukam bor.",
+  "sisterhood": "Bu opa-singillik.",
+  "spoiled": "U erka bola."
+ },
+ "A2": {
+  "bandy around": "Uning ismi tilga olinib turdi.",
+  "category": "Bu yangi toifa.",
+  "drum": "Baraban ovozi baland.",
+  "finance minister": "Moliya vaziri televizorda nutq so'zladi.",
+  "harmonious": "Ularning xonadoni ahil.",
+  "little sister": "Singlim besh yoshda.",
+  "march": "Orkestr yo'l bo'ylab saf tortib yurdi.",
+  "on the spot": "U ishga darhol qabul qilindi.",
+  "peacemaker": "Oyim oilamizda yarashtiruvchi.",
+  "read along": "Bolalar o'qituvchi bilan birga o'qishadi.",
+  "reunite": "Opa-singillar yana birga bo'lishdi.",
+  "sibling": "Aka-uka yoki opa-singillaringiz bormi?",
+  "sisterhood": "Bizni opa-singillik rishtalari bog'lab turadi.",
+  "spoiled": "Erkalik qilma!"
+ },
  "B1": {
   "bandy around": "Bu g'oya tez-tez tilga olinadi.",
   "category": "Kitoblarni toifalarga ajrating.",

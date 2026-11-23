@@ -1,5 +1,33 @@
-// Part 1 topic 0489: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0489: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0489', {
+ "A1": {
+  "alteration": "O'zgartirish kiriting.",
+  "coalition": "Bu koalitsiya.",
+  "correlation": "O'zaro bog'liqlik bor.",
+  "fairer": "Uni adolatliroq qiling.",
+  "get ahead": "Men muvaffaqiyatga erishmoqchiman.",
+  "hinge": "Bu sizga bog'liq.",
+  "lower class": "U quyi tabaqada o'sgan.",
+  "mobility": "Harakatchanlik muhim.",
+  "occupation": "Kasbingiz nima?",
+  "parental": "Ota-onaning yordami yaxshi.",
+  "take hold of": "Qo'limdan ushlang.",
+  "transition": "O'tish tez kechdi."
+ },
+ "A2": {
+  "alteration": "Rejaga o'zgartirish kiritildi.",
+  "coalition": "Koalitsiya g'alaba qozondi.",
+  "correlation": "Bog'liqlik kuchsiz.",
+  "fairer": "Bu adolatliroq.",
+  "get ahead": "U muvaffaqiyatga erishish uchun qattiq mehnat qildi.",
+  "hinge": "Hammasi testga bog'liq.",
+  "lower class": "Ular quyi tabaqaga mansub.",
+  "mobility": "Bu yerda ijtimoiy harakatchanlik past.",
+  "occupation": "Uning kasbi o'qituvchi.",
+  "parental": "Buning uchun ota-ona ruxsati kerak.",
+  "take hold of": "U arqonni ushlab oldi.",
+  "transition": "Bu o'tish davri."
+ },
  "B1": {
   "alteration": "Ko'ylakni biroz o'zgartirish kerak.",
   "coalition": "Ikki partiya koalitsiya tuzdi.",

@@ -1,5 +1,47 @@
-// Part 1 topic 0262: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0262: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0262', {
+ "A1": {
+  "adjust": "Moslashishim uchun vaqt kerak.",
+  "against the clock": "Biz vaqt bilan poyga qilib ishlayapmiz.",
+  "caffeine": "Qahvada kofein bor.",
+  "circadian": "Bu sutkalik sikl.",
+  "circadian rhythm": "Hammamizning sutkalik ritmimiz bor.",
+  "endogenous": "Bu ichki ritm.",
+  "forth": "U u yoqdan bu yoqqa yurdi.",
+  "jet lag": "Vaqt mintaqasi o'zgarganidan holsizlanib qoldim.",
+  "lag": "Qisqa kechikish bo'ldi.",
+  "modulate": "Yorug'lik uyquni boshqarishi mumkin.",
+  "move back and forth": "Arg'imchoq oldinga va orqaga tebranadi.",
+  "night shift": "U tungi smenada ishlaydi.",
+  "oscillate": "Ventilyator u yoqdan bu yoqqa buriladi.",
+  "predictable": "Filmning oxirini oldindan bilsa bo'lardi.",
+  "range in": "Bolalarning yoshi turlicha.",
+  "short sleep": "Men qisqa uxladim.",
+  "time of day": "Hozir kunning qaysi vaqti?",
+  "time zone": "London boshqa vaqt mintaqasida joylashgan.",
+  "timing": "Vaqt aynan to'g'ri tanlangan edi."
+ },
+ "A2": {
+  "adjust": "Ko'zlaringiz qorong'ilikka moslashadi.",
+  "against the clock": "Bu vaqt bilan poyga edi.",
+  "caffeine": "Kechasi kofeinli ichimlik ichmayman.",
+  "circadian": "Bizda sutkalik soat bor.",
+  "circadian rhythm": "Sutkalik ritmingiz qachon uxlashni aytadi.",
+  "endogenous": "Tana ichki kimyoviy moddalar ishlab chiqaradi.",
+  "forth": "U oldinga yurdi.",
+  "jet lag": "Vaqt mintaqasining o'zgarishi meni charchatadi.",
+  "lag": "U boshqalardan ortda qoladi.",
+  "modulate": "Miya his-tuyg'ularimizni boshqaradi.",
+  "move back and forth": "Chaqaloq kursida oldinga va orqaga tebranadi.",
+  "night shift": "Tungi smena kechki soat 10 da boshlanadi.",
+  "oscillate": "Raqamlar goh ko'tarilib, goh tushib turadi.",
+  "predictable": "Mening kunim juda bir xil, oldindan ma'lum.",
+  "range in": "Qutilar turli o'lchamda.",
+  "short sleep": "Qisqa uyqu menga yordam beradi.",
+  "time of day": "Ertalab men uchun kunning eng yaxshi vaqti.",
+  "time zone": "Biz uchta vaqt mintaqasini kesib o'tdik.",
+  "timing": "Vaqtni to'g'ri tanlash muhim."
+ },
  "B1": {
   "adjust": "Tanam yangi vaqt tartibiga moslashdi.",
   "against the clock": "Ular ishni tugatish uchun vaqt bilan poyga qilib ishlashdi.",

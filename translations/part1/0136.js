@@ -1,5 +1,37 @@
-// Part 1 topic 0136: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0136: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0136', {
+ "A1": {
+  "choke": "U finalda hayajondan bo'shashib qoldi.",
+  "elite": "Ular elita.",
+  "flip side": "Buning teskari tomoni ham bor.",
+  "football season": "Futbol mavsumi tez orada boshlanadi.",
+  "league": "Ular futbol ligasida o'ynashadi.",
+  "merit": "U o'z xizmatlari tufayli g'alaba qozondi.",
+  "relegate": "Ular bizni quyi ligaga tushirishi mumkin.",
+  "relegate down": "Jamoa quyi ligaga tushirildi.",
+  "relegation": "Quyi ligaga tushish muxlislar uchun juda achinarli.",
+  "superstar": "U futbol superyulduzi.",
+  "top dog": "Ular yetakchi.",
+  "underdog": "Bizning jamoa zaif tomon hisoblanadi.",
+  "underperform": "Jamoa kutilganidan yomon o'ynadi.",
+  "victory": "Biz katta g'alaba qozondik."
+ },
+ "A2": {
+  "choke": "Hozir hayajondan bo'shashib qolma!",
+  "elite": "Buni faqat elita sotib ola oladi.",
+  "flip side": "Shon-shuhratning teskari tomoni ham bor.",
+  "football season": "Men futbol mavsumida har bir o'yinni tomosha qilaman.",
+  "league": "Bizning jamoa liganing yetakchisi.",
+  "merit": "Har bir g'oyaning o'z afzalligi bor.",
+  "relegate": "Jamoa o'tgan yili quyi ligaga tushirildi.",
+  "relegate down": "Yomon jamoalar quyi ligaga tushiriladi.",
+  "relegation": "Jamoa quyi ligaga tushish arafasida.",
+  "superstar": "U superyulduz bo'lishni xohlaydi.",
+  "top dog": "U yetakchi bo'lishni xohlaydi.",
+  "underdog": "Hamma zaif tomonni yoqlaydi.",
+  "underperform": "Ba'zi o'yinchilar o'z darajasidan past o'ynaydi.",
+  "victory": "Muxlislar g'alabadan keyin qo'shiq kuylashdi."
+ },
  "B1": {
   "choke": "Yulduz o'yinchi so'nggi daqiqada hayajondan sarosimaga tushib qoldi.",
   "elite": "Eng nufuzli klublarda pul eng ko'p.",

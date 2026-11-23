@@ -1,5 +1,41 @@
-// Part 1 topic 0317: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0317: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0317', {
+ "A1": {
+  "Arabic": "Men arab tilini o'rganyapman.",
+  "Ramadan": "Ramazon muqaddas oy.",
+  "better": "Bugun o'zimni yaxshiroq his qilyapman.",
+  "dawn": "Biz tong otganda turdik.",
+  "donation": "Men xayriya qildim.",
+  "fasting": "Ro'za tutish qiyin.",
+  "holy": "Bu muqaddas joy.",
+  "holy place": "Bu muqaddas qadamjo.",
+  "mosque": "Bu masjid.",
+  "pilgrimage": "U ziyoratga bordi.",
+  "privately": "Biz yolg'iz holda gaplashdik.",
+  "religious ceremony": "Bu diniy marosim.",
+  "research center": "Bu tadqiqot markazi.",
+  "slaughter": "Ular qo'y so'yishadi.",
+  "temple": "Bu ibodatxona.",
+  "worship": "Ular Xudoga ibodat qilishadi."
+ },
+ "A2": {
+  "Arabic": "Arab tilida o'ngdan chapga yoziladi.",
+  "Ramadan": "Ramazon tez orada boshlanadi.",
+  "better": "Bu yaxshiroq g'oya.",
+  "dawn": "Tong juda erta otadi.",
+  "donation": "Xayriyangiz uchun rahmat.",
+  "fasting": "Ramazon ro'za oyidir.",
+  "holy": "Ramazon muqaddas oy.",
+  "holy place": "Quddusda ko'plab muqaddas joylar bor.",
+  "mosque": "U masjidga boradi.",
+  "pilgrimage": "Makka ziyoratgohdir.",
+  "privately": "U yolg'izlikda ibodat qiladi.",
+  "religious ceremony": "Biz diniy marosimga bordik.",
+  "research center": "U tadqiqot markazida ishlaydi.",
+  "slaughter": "Hayvonlar go'sht uchun so'yiladi.",
+  "temple": "Biz qadimiy ibodatxonani ziyorat qildik.",
+  "worship": "Bu ibodat joyi."
+ },
  "B1": {
   "Arabic": "U arab tilida gapiradi.",
   "Ramadan": "Biz Ramazon oyida ro'za tutamiz.",

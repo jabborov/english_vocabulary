@@ -1,5 +1,23 @@
-// Part 1 topic 0359: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0359: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0359', {
+ "A1": {
+  "face to face": "Keling, yuzma-yuz gaplashaylik.",
+  "lately": "Keyingi paytlarda charchayapman.",
+  "pull through": "U tuzalib ketadi.",
+  "stunning": "Manzara ajoyib.",
+  "sum up": "Keling, xulosa qilay.",
+  "time off": "Menga dam olish kerak.",
+  "work time": "Hozir ish vaqti."
+ },
+ "A2": {
+  "face to face": "Biz yuzma-yuz uchrashdik.",
+  "lately": "Yaqinda Tomni ko'rdingizmi?",
+  "pull through": "Chaqaloq tuzalib ketdi.",
+  "stunning": "U ajoyib ko'rinadi.",
+  "sum up": "Hikoyani qisqacha bayon qila olasizmi?",
+  "time off": "Avgustda uning ta'tili bor.",
+  "work time": "Ish vaqtida o'yin o'ynamang."
+ },
  "B1": {
   "face to face": "Men yuzma-yuz uchrashuvlarni afzal ko'raman.",
   "lately": "Oxirgi paytlarda nima bilan shug'ullanyapsiz?",

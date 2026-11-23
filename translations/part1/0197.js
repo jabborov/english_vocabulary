@@ -1,5 +1,35 @@
-// Part 1 topic 0197: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0197: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0197', {
+ "A1": {
+  "apprehension": "Men xavotir his qilyapman.",
+  "brown rice": "Men qo'ng'ir guruch yeyman.",
+  "cm": "Uning uzunligi 10 sm.",
+  "dry out": "U qurib qolsin.",
+  "drying": "Quritish vaqt oladi.",
+  "extensively": "U ko'p sayohat qiladi.",
+  "in condition": "Velosiped yaxshi holatda.",
+  "measurable": "Buni o'lchash mumkin.",
+  "paddy": "Bu sholipoya.",
+  "pipe": "Quvur uzun.",
+  "plan of action": "Bizga harakat rejasi kerak.",
+  "tangible": "Natija aniq ko'rinadi.",
+  "water level": "Suv sathini tekshiring."
+ },
+ "A2": {
+  "apprehension": "U biroz xavotirda edi.",
+  "brown rice": "Qo'ng'ir guruch foydali.",
+  "cm": "Quvur 30 sm.",
+  "dry out": "Yer qurib qoladi.",
+  "drying": "Quritish sekin kechmoqda.",
+  "extensively": "U juda ko'p kitob o'qigan.",
+  "in condition": "Maydonni yaxshi holatda saqlang.",
+  "measurable": "O'zgarishni o'lchash mumkin.",
+  "paddy": "Sholipoya nam.",
+  "pipe": "Suv quvur orqali o'tadi.",
+  "plan of action": "Harakat rejasi qanday?",
+  "tangible": "Bizga aniq, amaliy yordam kerak.",
+  "water level": "Suv sathi past."
+ },
  "B1": {
   "apprehension": "Uning ovozida xavotir sezilardi.",
   "brown rice": "Qo'ng'ir guruch pishishi uchun ko'proq vaqt ketadi.",

@@ -1,5 +1,25 @@
-// Part 1 topic 0356: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0356: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0356', {
+ "A1": {
+  "freshen": "Xonani shamollating.",
+  "freshen up": "Men yuvinib, o'zimni tartibga keltirishim kerak.",
+  "hang around": "Bu yerda bekordan-bekorga aylanib yurma.",
+  "lateness": "Kechikkanim uchun uzr.",
+  "panicky": "Men vahimaga tushyapman.",
+  "punctual": "Iltimos, o'z vaqtida keling.",
+  "punctuality": "Vaqtga rioya qilish muhim.",
+  "standstill": "Transport harakati butunlay to'xtab qolgan."
+ },
+ "A2": {
+  "freshen": "Yomg'ir havoni tozaladi.",
+  "freshen up": "Avval yuvinib, o'zimni tartibga keltirib olay.",
+  "hang around": "Biz bir muddat aylanib yurdik.",
+  "lateness": "Kechikish muammodir.",
+  "panicky": "U biroz vahimaga tushgan edi.",
+  "punctual": "U hech qachon o'z vaqtida kelmaydi.",
+  "punctuality": "Boshlig'im vaqtga rioya qilishni yoqtiradi.",
+  "standstill": "Hammasi to'xtab qoldi."
+ },
  "B1": {
   "freshen": "U pardozini yangiladi.",
   "freshen up": "Uzoq yo'ldan keyin u yuvinib, o'zini tartibga keltirgani ketdi.",

@@ -1,5 +1,41 @@
-// Part 1 topic 0143: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0143: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0143', {
+ "A1": {
+  "burdensome": "Bu ish og'ir yuk.",
+  "cinnamon": "Men dolchinni yaxshi ko'raman.",
+  "energise": "Musiqa menga quvvat beradi.",
+  "give away": "Uni sotib qo'ymang!",
+  "grave": "Bu qabr.",
+  "intuition": "Ichki sezgingizga ishoning.",
+  "luck through": "U imtihondan omadi tufayli o'tdi.",
+  "marriage proposal": "U turmush qurishni taklif qildi.",
+  "nutmeg": "Menda biroz muskat yong'og'i bor.",
+  "proposal": "Mening bir taklifim bor.",
+  "soft drink": "Men alkogolsiz ichimlik xohlayman.",
+  "spill the beans": "Sirni oshkor qilib qo'ymang!",
+  "troublesome": "Bu mashaqqatli ish.",
+  "unknown": "Javob noma'lum.",
+  "unwrap": "Sovg'aning o'ramini oching.",
+  "vibe": "Menga bu yerdagi muhit yoqadi."
+ },
+ "A2": {
+  "burdensome": "Qoidalar og'ir yuk bo'lib tushadi.",
+  "cinnamon": "Dolchin yoqimli hid taratadi.",
+  "energise": "Qahva unga quvvat beradi.",
+  "give away": "Yuz ifodasi uni sotib qo'ydi.",
+  "grave": "Biz qabrga gul qo'ydik.",
+  "intuition": "Uning ichki sezgisi kuchli.",
+  "luck through": "Men buni omadim tufayli uddaladim.",
+  "marriage proposal": "U turmush qurish taklifiga rozi bo'ldi.",
+  "nutmeg": "Muskat yong'og'i ziravor.",
+  "proposal": "U uning taklifini qabul qildi.",
+  "soft drink": "Kola alkogolsiz ichimlik.",
+  "spill the beans": "Sirni kim oshkor qildi?",
+  "troublesome": "Belim tez-tez bezovta qiladi.",
+  "unknown": "U noma'lum qo'shiqchi.",
+  "unwrap": "U shokoladning o'ramini ochdi.",
+  "vibe": "Kafening muhiti yoqimli."
+ },
  "B1": {
   "burdensome": "Sir saqlash og'ir yuk bo'lishi mumkin.",
   "cinnamon": "U tortga dolchin qo'shdi.",

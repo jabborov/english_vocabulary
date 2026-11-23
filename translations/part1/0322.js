@@ -1,5 +1,29 @@
-// Part 1 topic 0322: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0322: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0322', {
+ "A1": {
+  "cheek": "U yuzimdan o'pdi.",
+  "deflate": "Shinaning havosi chiqib ketadi.",
+  "deflated": "To'pning havosi chiqib ketgan.",
+  "km": "Maktabgacha 5 km.",
+  "likeable": "U juda yoqimtoy.",
+  "pedal off": "U pedal bosib jo'nab ketdi.",
+  "rider": "U yaxshi chavandoz.",
+  "sideburn": "Uning chakka soqoli uzun.",
+  "stamina": "Uzoqqa yugurish uchun chidamlilik kerak.",
+  "wipe off": "Suvni artib tashlang."
+ },
+ "A2": {
+  "cheek": "Uning yuzlari qizil.",
+  "deflate": "To'pning havosini chiqarma.",
+  "deflated": "Imtihondan keyin ruhim tushib ketdi.",
+  "km": "Bugun biz 10 km yurdik.",
+  "likeable": "U yoqimtoy bola.",
+  "pedal off": "U pedal aylantirib maktabga jo'nadi.",
+  "rider": "Chavandoz velosipedidan yiqilib tushdi.",
+  "sideburn": "Dadamning chakka soqoli oqargan.",
+  "stamina": "Uning chidamliligi juda yuqori.",
+  "wipe off": "U kirni artib tashladi."
+ },
  "B1": {
   "cheek": "Sovuq shamoldan yonoqlarim og'ridi.",
   "deflate": "Qizning gapi uning shashtini qaytardi.",

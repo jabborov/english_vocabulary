@@ -1,5 +1,33 @@
-// Part 1 topic 0214: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0214: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0214', {
+ "A1": {
+  "contest": "U natijaga e'tiroz bildirdi.",
+  "expressive": "Uning yuzi ifodali.",
+  "expressively": "U ifodali kuylaydi.",
+  "fall out": "Biz urishib qoldik.",
+  "gesticulate": "U gapirganda qo'l harakatlari qiladi.",
+  "in agreement": "Biz fikrdoshmiz.",
+  "let it go": "Unut buni.",
+  "misperceive": "Men uning yuz ifodasini noto'g'ri tushundim.",
+  "misunderstand": "Men sizni noto'g'ri tushundim.",
+  "nod": "U boshini qimirlatadi.",
+  "pa": "Dadam baland bo'yli.",
+  "roll down": "Oynani tushiring."
+ },
+ "A2": {
+  "contest": "U qarorga e'tiroz bildirdi.",
+  "expressive": "U his-tuyg'ularini juda ifodali bildiradi.",
+  "expressively": "U ifodali gapiradi.",
+  "fall out": "Men do'stim bilan urishib qoldim.",
+  "gesticulate": "U haydovchiga qo'l ishoralari qildi.",
+  "in agreement": "U rozilik bildirib bosh irg'adi.",
+  "let it go": "Shunchaki unutib yubor.",
+  "misperceive": "U belgini noto'g'ri tushundi.",
+  "misunderstand": "Meni noto'g'ri tushunmang.",
+  "nod": "U bosh irg'adi.",
+  "pa": "Dadam ishda.",
+  "roll down": "U mashina oynasini tushirdi."
+ },
  "B1": {
   "contest": "Ular kim haq ekani ustida tortishishdi.",
   "expressive": "U gapirganda qo'llari juda ifodali harakatlanadi.",

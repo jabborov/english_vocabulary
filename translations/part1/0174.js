@@ -1,5 +1,35 @@
-// Part 1 topic 0174: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0174: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0174', {
+ "A1": {
+  "agent": "U agent.",
+  "aggravate": "Uning jahlini chiqarmang.",
+  "as a matter of fact": "Aslida, men roziman.",
+  "calm down": "Iltimos, tinchlaning.",
+  "displace": "Robotlar ishchilarning o'rnini egallaydi.",
+  "empathetic": "U hamdard inson.",
+  "filler": "\"Um\" to'ldiruvchi so'zdir.",
+  "frustrate": "Bu meni asabiylashtiradi.",
+  "pacify": "U chaqaloqni tinchlantirdi.",
+  "phone up": "Keyinroq menga qo'ng'iroq qiling.",
+  "queue": "Uzun navbat bor.",
+  "uncertainty": "Noaniqlik bor.",
+  "yelling": "Baqirishni bas qiling!"
+ },
+ "A2": {
+  "agent": "Agent bilan gaplashing.",
+  "aggravate": "Shovqin jahlimni chiqaradi.",
+  "as a matter of fact": "Aslida, men u yerda edim.",
+  "calm down": "U tinchlandi.",
+  "displace": "Urush ko'plab odamlarni yashash joyidan ayirdi.",
+  "empathetic": "U hamdardlik bilan jilmaydi.",
+  "filler": "U ko'plab to'ldiruvchi so'zlarni ishlatadi.",
+  "frustrate": "Kutish uning jig'iga tegdi.",
+  "pacify": "U meni tinchlantirishga harakat qildi.",
+  "phone up": "Men oyimga qo'ng'iroq qildim.",
+  "queue": "Biz navbatda kutdik.",
+  "uncertainty": "Men noaniqlikni his qilyapman.",
+  "yelling": "Men baqiriqni eshitdim."
+ },
  "B1": {
   "agent": "Operator yordam berdi.",
   "aggravate": "Bu muammoni yanada chuqurlashtirdi.",

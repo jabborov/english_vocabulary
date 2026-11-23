@@ -1,5 +1,37 @@
-// Part 1 topic 0250: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0250: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0250', {
+ "A1": {
+  "binging": "Me'yoridan ortiq yeb-ichish yomon.",
+  "equitable": "Bu adolatli.",
+  "exit": "Chiqish qayerda?",
+  "expectancy": "Hamma nimanidir kutib turardi.",
+  "high life": "U dabdabali hayotni yaxshi ko'radi.",
+  "impartial": "Xolis bo'ling.",
+  "industrialise": "Mamlakatlar sanoatlashadi.",
+  "life expectancy": "O'rtacha umr ko'rish davomiyligi oshib bormoqda.",
+  "moderately": "Me'yorida ovqatlaning.",
+  "motto": "Sizning shioringiz nima?",
+  "orange juice": "Men apelsin sharbatini ichaman.",
+  "path of least resistance": "Eng oson yo'lni tanlang.",
+  "swear": "Qasamyod qilaman, bu rost.",
+  "thoroughly": "Bu menga juda-juda yoqdi."
+ },
+ "A2": {
+  "binging": "Me'yoridan ortiq yeyishni bas qil.",
+  "equitable": "Biz adolatli qoidalarni xohlaymiz.",
+  "exit": "Chiqish u yerda.",
+  "expectancy": "Umr ko'rish davomiyligi uzoq.",
+  "high life": "Ular dabdabali hayot kechirishadi.",
+  "impartial": "Sudya xolis.",
+  "industrialise": "Shahar sanoatlasha boshladi.",
+  "life expectancy": "Bu yerda o'rtacha umr ko'rish davomiyligi qancha?",
+  "moderately": "Havo o'rtacha issiq.",
+  "motto": "Bizning shiorimiz \"Mehribon bo'l\".",
+  "orange juice": "Apelsin sharbati shirin.",
+  "path of least resistance": "Bu eng oson yo'l.",
+  "swear": "So'kinmang.",
+  "thoroughly": "Uni yaxshilab yuving."
+ },
  "B1": {
   "binging": "Shirinliklarni haddan tashqari ko'p yeyish sog'liqqa zarar.",
   "equitable": "Kelishuv adolatli edi.",

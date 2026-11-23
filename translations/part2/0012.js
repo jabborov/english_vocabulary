@@ -1,5 +1,27 @@
-// Part 2 topic 0012: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0012: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0012', {
+ "A1": {
+  "alerting": "Signal bizni ogohlantiryapti.",
+  "concern": "Mening bir xavotirim bor.",
+  "controversial": "Bu munozarali film.",
+  "glance": "U soatga bir qarab qo'ydi.",
+  "intention": "Mening borish niyatim yo'q.",
+  "jaywalking": "Yo'lni noto'g'ri joydan kesib o'tish xavfli.",
+  "make eye contact": "Gapirganda ko'zga qarang.",
+  "oncoming": "Qarshidan kelayotgan mashinaga qarang.",
+  "proceed": "Iltimos, 5-chiqish eshigiga o'ting."
+ },
+ "A2": {
+  "alerting": "Belgi haydovchilarni xavf haqida ogohlantirmoqda.",
+  "concern": "Mening asosiy tashvishim pul.",
+  "controversial": "Yangi qoida juda munozarali.",
+  "glance": "U menga bir qarab qo'ydi va jilmaydi.",
+  "intention": "Uning niyati sizga yordam berish edi.",
+  "jaywalking": "Ba'zi mamlakatlarda yo'lni noto'g'ri joydan kesib o'tganingiz uchun jarima to'laysiz.",
+  "make eye contact": "U uyatchan edi va ko'zga qaramadi.",
+  "oncoming": "Qarshidan kelayotgan transportdan ehtiyot bo'ling.",
+  "proceed": "Tekshiruvdan keyin oldinga o'tishingiz mumkin."
+ },
  "B1": {
   "alerting": "Ilova poyezd kechikkanda foydalanuvchilarni ogohlantirib ishlaydi.",
   "concern": "Shahardagi havo ifloslanishi haqida xavotir ortib bormoqda.",

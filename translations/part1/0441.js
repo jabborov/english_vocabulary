@@ -1,5 +1,45 @@
-// Part 1 topic 0441: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0441: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0441', {
+ "A1": {
+  "Croatia": "Xorvatiya Yevropada joylashgan.",
+  "adjacent": "Uylarimiz yonma-yon.",
+  "biosphere": "Biosfera hayot mavjud bo'lgan qatlamdir.",
+  "black stork": "Qora laylak qushdir.",
+  "devoid": "Xonada hech qanday mebel yo'q edi.",
+  "drop in": "Sotuvlar pasaydi.",
+  "eagle": "Anavi burgutga qarang!",
+  "floodplain": "Daryo bo'yidagi toshqin tekisligi juda tekis.",
+  "ground water": "Yer osti suvi yer ostida bo'ladi.",
+  "groyne": "To'g'on qirg'oqni himoya qiluvchi past devordir.",
+  "internationally": "U xalqaro miqyosda tanilgan.",
+  "riverbank": "Biz daryo qirg'og'ida o'tirdik.",
+  "riverbed": "Daryo o'zani quruq.",
+  "shipping": "Bu yerda yuk tashish muhim.",
+  "stork": "Laylakning oyoqlari uzun.",
+  "unaltered": "Eski uy o'zgarmagan.",
+  "waterway": "Kanal suv yo'lidir.",
+  "willow": "Tol daraxtdir."
+ },
+ "A2": {
+  "Croatia": "O'tgan yozda Xorvatiyaga bordim.",
+  "adjacent": "Bog' maktabga tutash.",
+  "biosphere": "O'simliklar va hayvonlar biosferada yashaydi.",
+  "black stork": "Qora laylakning oyoqlari qizil.",
+  "devoid": "Shaharda birorta ham odam yo'q edi.",
+  "drop in": "Biz haroratning pasayishini kuzatdik.",
+  "eagle": "Burgut juda baland ucha oladi.",
+  "floodplain": "Qushlar toshqin tekisligida yashaydi.",
+  "ground water": "Biz quduqlardan yer osti suvini ichamiz.",
+  "groyne": "To'g'on daryo ichiga cho'zilgan.",
+  "internationally": "Film xalqaro miqyosda namoyish etildi.",
+  "riverbank": "Daryo qirg'og'i loyqa.",
+  "riverbed": "Daryo tubida toshlar bor.",
+  "shipping": "Daryo yuk tashish uchun ishlatiladi.",
+  "stork": "Laylak katta oq qushdir.",
+  "unaltered": "Reja o'zgarishsiz qoldi.",
+  "waterway": "Qayiqlar suv yo'lidan foydalanadi.",
+  "willow": "Tol suv yaqinida o'sadi."
+ },
  "B1": {
   "Croatia": "Xorvatiyaning qirg'oqlari juda go'zal.",
   "adjacent": "Daryoga tutash dalalar juda nam.",

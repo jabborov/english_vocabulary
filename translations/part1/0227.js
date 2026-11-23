@@ -1,5 +1,41 @@
-// Part 1 topic 0227: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0227: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0227', {
+ "A1": {
+  "beak": "Qushning sariq tumshug'i bor.",
+  "capability": "Unda bunday imkoniyat bor.",
+  "in no time": "Men tezda qaytaman.",
+  "kg": "Uning og'irligi 2 kg.",
+  "kitty": "Pishak, bu yoqqa kel!",
+  "landmark": "Minora diqqatga sazovor joy.",
+  "lost": "Itim yo'qolib qoldi.",
+  "magnet": "Bu magnit.",
+  "magnetic force": "Magnit kuchi kuchli.",
+  "rectangle": "To'rtburchak chizing.",
+  "signpost": "Yo'l ko'rsatkichiga qarang.",
+  "steel": "Bu qoshiq po'latdan.",
+  "systematic": "Tizimli bo'ling.",
+  "systematically": "Tizimli ravishda ishlang.",
+  "territorial": "Mushuklar o'z hududini qo'riqlaydi.",
+  "territory": "Bu mening hududim."
+ },
+ "A2": {
+  "beak": "Qush tumshug'ini ochadi.",
+  "capability": "Robotlarning imkoniyatlari ko'p.",
+  "in no time": "U juda tez tugatdi.",
+  "kg": "Mushugim 4 kg keladi.",
+  "kitty": "Mushukcha juda yoqimtoy.",
+  "landmark": "Katta mo'ljal nuqtasini qidiring.",
+  "lost": "Biz shaharda adashib qoldik.",
+  "magnet": "Magnit muzlatkichga yopishadi.",
+  "magnetic force": "Magnit magnit kuchidan foydalanadi.",
+  "rectangle": "Eshik to'g'ri to'rtburchak shaklida.",
+  "signpost": "Yo'l ko'rsatkichida London deb yozilgan.",
+  "steel": "Ko'prik po'latdan qurilgan.",
+  "systematic": "Uning tizimli usuli bor.",
+  "systematically": "U har bir xonani tizimli ravishda tekshirdi.",
+  "territorial": "Itim o'z hududini qattiq qo'riqlaydi.",
+  "territory": "Mushuk o'z hududini qo'riqlaydi."
+ },
  "B1": {
   "beak": "To'tining egilgan tumshug'i bor.",
   "capability": "U bu ishni bajarish qobiliyatiga ega.",

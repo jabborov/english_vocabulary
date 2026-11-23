@@ -1,5 +1,41 @@
-// Part 1 topic 0306: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0306: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0306', {
+ "A1": {
+  "antidepressant": "U antidepressant ichadi.",
+  "antidepressant drug": "Bu antidepressant dori.",
+  "beaker": "Menzurkani suv bilan to'ldiring.",
+  "cl": "Bir stakanga 25 sl sig'adi.",
+  "cut in": "Gapingizni bo'lganim uchun kechirasiz.",
+  "expel": "O'pka havoni chiqarib yuboradi.",
+  "gardening": "Men bog'dorchilikni yaxshi ko'raman.",
+  "green fingers": "Uning qo'li gul.",
+  "hm": "Hm, bilmayman.",
+  "ingest": "Buni yutmang.",
+  "inject": "Hamshira dorini ukol qildi.",
+  "opt": "Men choyni tanladim.",
+  "placebo": "Bu platsebo edi.",
+  "rodent": "Sichqon kemiruvchi hayvon.",
+  "sunshine": "Men quyosh nurini yaxshi ko'raman.",
+  "undecided": "Men hali qaror qilmadim."
+ },
+ "A2": {
+  "antidepressant": "Antidepressantlar ba'zi odamlarga yordam beradi.",
+  "antidepressant drug": "Shifokor unga antidepressant dori berdi.",
+  "beaker": "Menzurka shishadan yasalgan.",
+  "cl": "Bu shisha 33 sl.",
+  "cut in": "U tezda gapga aralashdi.",
+  "expel": "U nafas chiqardi.",
+  "gardening": "Bog'dorchilik tinchlantiradi.",
+  "green fingers": "Mening qo'lim gul emas.",
+  "hm": "Hm, bir o'ylab ko'ray.",
+  "ingest": "Hayvonlar ovqatni yutadi.",
+  "inject": "Ular sichqonga ukol qilishdi.",
+  "opt": "U qolishni tanladi.",
+  "placebo": "U platsebo ichdi.",
+  "rodent": "Kalamushlar kemiruvchilardir.",
+  "sunshine": "Biz quyosh nurida o'tirdik.",
+  "undecided": "U hali ham ikkilanib turibdi."
+ },
  "B1": {
   "antidepressant": "Bog'dorchilik antidepressant vazifasini bajaradimi?",
   "antidepressant drug": "U antidepressant dori ichadi.",

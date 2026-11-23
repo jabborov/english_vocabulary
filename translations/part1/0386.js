@@ -1,5 +1,35 @@
-// Part 1 topic 0386: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0386: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0386', {
+ "A1": {
+  "affluent": "Ular badavlat hududda yashashadi.",
+  "ambitious": "U juda shuhratparast.",
+  "cleverer": "U mendan aqlliroq.",
+  "deprive": "Chaqaloqni uyqudan mahrum qilmang.",
+  "get down": "Bu seni tushkunlikka solmasin.",
+  "go to sleep": "Endi uxla.",
+  "hit the sack": "Charchadim. Borib yotaman.",
+  "lacking": "Nimadir yetishmayapti.",
+  "pinball": "Men pinbol o'ynashni yaxshi ko'raman.",
+  "siesta": "Men tushki uyquni yaxshi ko'raman.",
+  "simplify": "Iltimos, buni soddalashtiring.",
+  "take account": "Ob-havoni hisobga oling.",
+  "tetchy": "Bugun jizzakiman."
+ },
+ "A2": {
+  "affluent": "Bu badavlat shaharcha.",
+  "ambitious": "Uning rejalari katta va shijoatli.",
+  "cleverer": "Opam matematikada aqlliroq.",
+  "deprive": "Shovqin meni uyqudan mahrum qildi.",
+  "get down": "Yomg'ir kayfiyatimni tushiradi.",
+  "go to sleep": "Men soat o'nda uxlayman.",
+  "hit the sack": "Keling, bugun erta yotaylik.",
+  "lacking": "Pul yetishmayapti.",
+  "pinball": "Kafeda pinbol avtomati bor.",
+  "siesta": "U har kuni tushki uyqu qiladi.",
+  "simplify": "O'qituvchi darsni soddalashtirdi.",
+  "take account": "Biz uning yoshini hisobga olishimiz kerak.",
+  "tetchy": "U charchaganda jizzaki bo'lib qoladi."
+ },
  "B1": {
   "affluent": "Badavlat oilalar xususiy repetitorlarga pul to'lay oladi.",
   "ambitious": "Shuhratparast talabalar ko'pincha juda qattiq ishlaydi.",

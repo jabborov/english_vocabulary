@@ -1,5 +1,29 @@
-// Part 1 topic 0228: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0228: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0228', {
+ "A1": {
+  "bookshop": "Men kitob do'koniga bordim.",
+  "coaching": "U murabbiylik qiladi.",
+  "dwindle": "Pul kamayib ketdi.",
+  "get even": "Men undan o'ch olaman.",
+  "go far": "Siz katta yutuqlarga erishasiz.",
+  "influential": "U nufuzli odam.",
+  "resistant": "U o'zgarishlarga qarshilik qiladi.",
+  "rid of": "O'sha eski qutidan qutuling.",
+  "tidy up": "Xonangizni yig'ishtiring.",
+  "tidying": "Men yig'ishtirishni yoqtirmayman."
+ },
+ "A2": {
+  "bookshop": "Kitob do'koni kichkina.",
+  "coaching": "U tennis bo'yicha murabbiy bilan shug'ullanadi.",
+  "dwindle": "Ovqatimiz kamayib bormoqda.",
+  "get even": "O'ch olishga urinmang.",
+  "go far": "U aqlli; katta yutuqlarga erishadi.",
+  "influential": "U nufuzli yozuvchi.",
+  "resistant": "Bu soat suv o'tkazmaydi.",
+  "rid of": "Bu shamollashdan qutulishni xohlayman.",
+  "tidy up": "Keling, yig'ishtiraylik.",
+  "tidying": "Yig'ishtirish vaqt oladi."
+ },
  "B1": {
   "bookshop": "Bu kitob do'konida eski kitoblar sotiladi.",
   "coaching": "Jamoaga yaxshiroq murabbiylik kerak.",

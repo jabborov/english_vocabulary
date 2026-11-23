@@ -1,5 +1,43 @@
-// Part 1 topic 0128: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0128: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0128', {
+ "A1": {
+  "align": "Devordagi rasmlarni bir tekisda joylashtiring.",
+  "any longer": "Men endi kuta olmayman.",
+  "business editor": "U biznes muharriri.",
+  "coordination": "Bu o'yin yaxshi muvofiqlashtirishni talab qiladi.",
+  "crop up": "Muammolar doim kutilmaganda chiqib qoladi.",
+  "disruption": "Poyezdlar qatnovida uzilishlar bo'ldi.",
+  "foresee": "Men hech qanday muammoni oldindan ko'ra olmayapman.",
+  "leisure": "Mening bo'sh vaqtim yo'q.",
+  "miracle": "Bu mo'jiza!",
+  "nightmarish": "Bu dahshatli kun edi.",
+  "old fashioned": "Mening telefonim eskicha.",
+  "prediction": "Bashoratim to'g'ri chiqdi.",
+  "reduction": "Narx pasaydi.",
+  "social scientist": "U ijtimoiy fanlar olimi.",
+  "track record": "Uning ish tajribasi yaxshi.",
+  "unexpectedly": "U kutilmaganda keldi.",
+  "whopping": "Bu juda katta tort-ku!"
+ },
+ "A2": {
+  "align": "Bizning g'oyalarimiz bir-biriga mos.",
+  "any longer": "U endi bu yerda yashamaydi.",
+  "business editor": "Biznes muharriri pul haqida yozadi.",
+  "coordination": "Jamoada harakatlarni muvofiqlashtirish muhim.",
+  "crop up": "Ishda kutilmagan narsa chiqib qoldi.",
+  "disruption": "Bo'ron uzilishlarga sabab bo'ldi.",
+  "foresee": "Bo'ronni hech kim oldindan ko'ra olmadi.",
+  "leisure": "U bo'sh vaqtida kitob o'qiydi.",
+  "miracle": "U omon qoldi, bu mo'jiza edi.",
+  "nightmarish": "Tirbandlik dahshatli edi.",
+  "old fashioned": "U eskicha kiyim kiyadi.",
+  "prediction": "Sizning bashoratingiz qanday?",
+  "reduction": "Biz ish soatlarini qisqartirishni xohlaymiz.",
+  "social scientist": "Ijtimoiy fanlar olimlari odamlarni o'rganadi.",
+  "track record": "Kompaniyaning faoliyat tarixi yomon.",
+  "unexpectedly": "Kutilmaganda yomg'ir yog'di.",
+  "whopping": "U juda katta narx to'ladi."
+ },
  "B1": {
   "align": "Matnni chap tomonga tekislang.",
   "any longer": "U endi u yerda ishlamaydi.",

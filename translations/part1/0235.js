@@ -1,5 +1,41 @@
-// Part 1 topic 0235: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0235: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0235', {
+ "A1": {
+  "abandon": "Itingizni tashlab ketmang.",
+  "animal product": "Sut hayvon mahsulotidir.",
+  "arid": "Cho'l qurg'oqchil.",
+  "asset": "Mashinam mening boyligim.",
+  "consideration": "E'tiboringiz uchun rahmat.",
+  "cruelty": "Shafqatsizlik yomon narsa.",
+  "digestion": "Kletchatka hazm qilishga yordam beradi.",
+  "farm animal": "Sigir uy hayvonidir.",
+  "healthcare": "Sog'liqni saqlash muhim.",
+  "leather": "Bu sumka charmdan.",
+  "nomadic": "Ular ko'chmanchi xalq.",
+  "practicable": "Bu reja amalga oshirsa bo'ladiganmi?",
+  "productivity": "Bizga ko'proq unumdorlik kerak.",
+  "rear": "Ular tovuq boqishadi.",
+  "red meat": "Mol go'shti qizil go'shtdir.",
+  "wrap up": "Keling, yakunlaymiz."
+ },
+ "A2": {
+  "abandon": "Ular mashinani tashlab ketishdi.",
+  "animal product": "Tuxum hayvon mahsulotidir.",
+  "arid": "Bu qurg'oqchil yer.",
+  "asset": "U jamoa uchun qimmatli a'zo.",
+  "consideration": "Narx ham hisobga olinadigan omil.",
+  "cruelty": "Shafqatsizlikni to'xtating!",
+  "digestion": "Mening hazm qilishim yaxshi.",
+  "farm animal": "Cho'chqalar uy hayvonlaridir.",
+  "healthcare": "Bizda bepul tibbiy xizmat bor.",
+  "leather": "Mening charm tuflilarim bor.",
+  "nomadic": "Ko'chmanchi xalqlar ko'p ko'chib yurishadi.",
+  "practicable": "Buni amalga oshirib bo'lmaydi.",
+  "productivity": "Unumdorlik oshdi.",
+  "rear": "U qo'y boqadi.",
+  "red meat": "Men qizil go'sht yemayman.",
+  "wrap up": "Biz yig'ilishni yakunladik."
+ },
  "B1": {
   "abandon": "U o'z rejasidan voz kechdi.",
   "animal product": "Veganlar barcha hayvon mahsulotlaridan voz kechishadi.",

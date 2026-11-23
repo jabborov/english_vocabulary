@@ -1,5 +1,33 @@
-// Part 1 topic 0111: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0111: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0111', {
+ "A1": {
+  "Oxford": "Oksford Angliyada joylashgan.",
+  "best man": "U mening kuyov jo'ram.",
+  "core": "Olma o'zagi shu yerda.",
+  "drift away": "Do'stlar bir-biridan uzoqlashib ketishi mumkin.",
+  "edged": "Pichoqning tig'i o'tkir.",
+  "favourable": "Ob-havo qulay.",
+  "generous": "U juda saxiy.",
+  "loneliness": "Yolg'izlik qayg'uli.",
+  "outgo": "Bizning xarajatimiz katta.",
+  "outgoing": "U juda dilkash.",
+  "reassure": "Onam meni tinchlantirdi.",
+  "sword": "Ritsarning qilichi bor."
+ },
+ "A2": {
+  "Oxford": "Amakimning o'g'li Oksfordda o'qiydi.",
+  "best man": "Akam mening kuyov jo'ram edi.",
+  "core": "Ishonch do'stlikning asosi.",
+  "drift away": "Maktabdan keyin biz bir-birimizdan uzoqlashib ketdik.",
+  "edged": "Bu chetlari oltin hoshiyali likopcha.",
+  "favourable": "U yaxshi taassurot qoldirdi.",
+  "generous": "U saxiylik bilan sovg'a berdi.",
+  "loneliness": "U kechasi yolg'izlikni his qildi.",
+  "outgo": "Daromad va xarajat bir-biriga mos kelishi kerak.",
+  "outgoing": "Dadam dilkash odam.",
+  "reassure": "Shifokor bolani tinchlantirdi.",
+  "sword": "U katta qilich ushlab turardi."
+ },
  "B1": {
   "Oxford": "Oksford qadimiy universiteti bilan mashhur.",
   "best man": "Kuyovning eng yaqin do'sti kulgili nutq so'zladi.",

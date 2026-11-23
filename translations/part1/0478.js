@@ -1,5 +1,23 @@
-// Part 1 topic 0478: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0478: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0478', {
+ "A1": {
+  "academically": "U o'qishda yaxshi natijalarga erishadi.",
+  "aimlessly": "U maqsadsiz kezib yurdi.",
+  "disadvantaged": "Ular imkoniyati cheklangan bolalar.",
+  "fidgety": "Bola joyida tinch o'tirolmaydi.",
+  "nervously": "U asabiy jilmaydi.",
+  "outwardly": "Tashqaridan u xotirjam edi.",
+  "school system": "Maktab tizimi o'zgarmoqda."
+ },
+ "A2": {
+  "academically": "U o'qishda kuchli.",
+  "aimlessly": "Ular maqsadsiz kezib yurishdi.",
+  "disadvantaged": "U kam ta'minlangan oilalarga yordam beradi.",
+  "fidgety": "Joyimda tinch o'tirolmayapman.",
+  "nervously": "U asabiy kuldi.",
+  "outwardly": "U tashqaridan baxtli ko'rinardi.",
+  "school system": "Menga maktab tizimimiz yoqadi."
+ },
  "B1": {
   "academically": "Maktabda ta'lim darajasi yaxshi.",
   "aimlessly": "U kunni maqsadsiz o'tkazdi.",

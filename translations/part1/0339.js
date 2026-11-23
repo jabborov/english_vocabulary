@@ -1,5 +1,43 @@
-// Part 1 topic 0339: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0339: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0339', {
+ "A1": {
+  "affirm": "U o'z sevgisini tasdiqladi.",
+  "astrophysicist": "U astrofizik.",
+  "blink of an eye": "Bu ko'z ochib-yumguncha sodir bo'ldi.",
+  "consensus": "Biz kelishuvga erishdik.",
+  "contradict": "Menga qarshi gapirma.",
+  "drop down": "To'p pastga tushib ketdi.",
+  "fossilised": "Bu toshga aylangan chig'anoq.",
+  "fraction": "Men tortning kichik bir qismini yedim.",
+  "geological time": "Geologik vaqt juda uzun.",
+  "geology": "Men geologiyani o'rganaman.",
+  "jaw": "Jag'ingizni oching.",
+  "objection": "Mening hech qanday e'tirozim yo'q.",
+  "prehistoric": "Dinozavrlar tarixdan oldingi davr hayvonlari edi.",
+  "push back": "Ular uchrashuvni keyinga surishdi.",
+  "scientific method": "Maktabda ilmiy usulni o'rganamiz.",
+  "technologically": "Telefon texnologik jihatdan yangi.",
+  "vanish": "Mushuk g'oyib bo'ldi."
+ },
+ "A2": {
+  "affirm": "U bu haqiqat ekanini tasdiqladi.",
+  "astrophysicist": "Astrofizik yulduzlarni o'rganadi.",
+  "blink of an eye": "Ta'til ko'z ochib-yumguncha tugadi.",
+  "consensus": "Kelishuv yo'q.",
+  "contradict": "Ikki hikoya bir-biriga zid.",
+  "drop down": "Barg yerga tushdi.",
+  "fossilised": "Ular toshga aylangan barglarni topishdi.",
+  "fraction": "Yarim kasr sondir.",
+  "geological time": "Tog'lar geologik vaqt davomida shakllanadi.",
+  "geology": "Geologiya tog' jinslarini o'rganadi.",
+  "jaw": "U jag'ini lat yedirdi.",
+  "objection": "Kimningdir e'tirozi bormi?",
+  "prehistoric": "Bu tarixdan oldingi davr g'ori.",
+  "push back": "Biz sanani keyinga surdik.",
+  "scientific method": "Ilmiy usulda tajribalardan foydalaniladi.",
+  "technologically": "Bu mamlakat texnologik jihatdan rivojlangan.",
+  "vanish": "Kalitlarim g'oyib bo'ldi."
+ },
  "B1": {
   "affirm": "Vazir reja amalga oshirilishini tasdiqladi.",
   "astrophysicist": "Astrofizik maktabimizda qora tuynuklar haqida ma'ruza qildi.",

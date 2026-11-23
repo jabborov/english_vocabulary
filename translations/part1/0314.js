@@ -1,5 +1,33 @@
-// Part 1 topic 0314: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0314: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0314', {
+ "A1": {
+  "dazzle": "Chiroqlar ko'zimni qamashtirdi.",
+  "gimmick": "Bu shunchaki nayrang.",
+  "handsome": "U kelishgan.",
+  "hunk": "U kelishgan va baquvvat yigit.",
+  "obese": "U semizlikdan aziyat chekadi.",
+  "padded": "Bu paxtali kurtka.",
+  "pectoral": "Uning ko'krak mushaklari katta.",
+  "pectoral muscle": "Bu ko'krak mushagi.",
+  "physique": "Uning qomati baquvvat.",
+  "shortcut": "Bu qisqa yo'l.",
+  "shortcuts": "Men bir nechta qisqa yo'llarni bilaman.",
+  "vanity": "Bu manmanlik."
+ },
+ "A2": {
+  "dazzle": "U tomoshabinlarni lol qoldirdi.",
+  "gimmick": "O'yinchoq shunchaki xaridorni aldash uchun o'ylab topilgan narsa.",
+  "handsome": "Qanday kelishgan bola!",
+  "hunk": "U katta bir burda non yedi.",
+  "obese": "Ba'zi bolalar semizlikdan aziyat chekadi.",
+  "padded": "Stulning o'rindig'i yumshoq qoplangan.",
+  "pectoral": "Ko'krak mushaklaringizni mashq qildiring.",
+  "pectoral muscle": "Yerdan ko'tarilish mashqlari ko'krak mushaklarini ishlatadi.",
+  "physique": "Uning qomati xipcha.",
+  "shortcut": "Keling, qisqa yo'ldan boraylik.",
+  "shortcuts": "Oson yo'llar yo'q.",
+  "vanity": "Uning manmanligi muammo."
+ },
  "B1": {
   "dazzle": "U do'stlarini lol qoldirmoqchi.",
   "gimmick": "Bu reklama shunchaki e'tibor tortish uchun qilingan hiyla.",

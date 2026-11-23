@@ -1,5 +1,29 @@
-// Part 1 topic 0142: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0142: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0142', {
+ "A1": {
+  "broth": "Men tovuq sho'rvasini yaxshi ko'raman.",
+  "find on": "Uni stol ustidan topishingiz mumkin.",
+  "flavours": "Men shirin ta'mlarni yaxshi ko'raman.",
+  "grapefruit": "Men greypfrutni yaxshi ko'raman.",
+  "grill": "Men baliqni grilda pishiraman.",
+  "inflammation": "Tizzamda yallig'lanish bor.",
+  "receptor": "Tilda retseptorlar bor.",
+  "shame": "Qanday achinarli!",
+  "undesirable": "Bu istalmagan holat.",
+  "unwanted": "Bu keraksiz sovg'a."
+ },
+ "A2": {
+  "broth": "Bulyon issiq.",
+  "find on": "Men olmalarni o'sha daraxtdan topaman.",
+  "flavours": "Muzqaymoqning ko'p ta'mlari bor.",
+  "grapefruit": "Greypfrut sariq meva.",
+  "grill": "Yozda biz go'shtni grilda pishiramiz.",
+  "inflammation": "Muz yallig'lanishga yordam berishi mumkin.",
+  "receptor": "Retseptorlar ta'm bilishimizga yordam beradi.",
+  "shame": "Kela olmasligingiz afsus.",
+  "undesirable": "Hid yoqimsiz.",
+  "unwanted": "Men keraksiz elektron xatlarni o'chirib tashladim."
+ },
  "B1": {
   "broth": "Onam sabzavotli sho'rva qiladi.",
   "find on": "Retseptorlar tilda joylashgan.",

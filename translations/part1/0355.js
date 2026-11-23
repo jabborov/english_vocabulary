@@ -1,5 +1,27 @@
-// Part 1 topic 0355: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0355: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0355', {
+ "A1": {
+  "final decision": "Bu mening yakuniy qarorim.",
+  "new line": "Bizga yangi liniya kerak.",
+  "overcrowd": "Xonani odamga to'ldirib yubormang.",
+  "overcrowding": "Avtobusda odam haddan tashqari ko'p.",
+  "rail line": "Bu yangi temir yo'l liniyasi.",
+  "railway": "Men temir yo'l yaqinida yashayman.",
+  "railway system": "Temir yo'l tizimi eski.",
+  "sedate": "Poyezd sokin va sekin yurdi.",
+  "whisk": "Tuxumlarni ko'pirtiring."
+ },
+ "A2": {
+  "final decision": "Yakuniy qarorni kim qabul qiladi?",
+  "new line": "Yangi liniya kelasi yil ochiladi.",
+  "overcrowd": "Juda ko'p odam poyezdni haddan tashqari to'ldirib yuboradi.",
+  "overcrowding": "Odam ko'pligi sayohatni qiyinlashtiradi.",
+  "rail line": "Temir yo'l liniyasi sohilga boradi.",
+  "railway": "Temir yo'l vokzali gavjum.",
+  "railway system": "Temir yo'l tizimimizga mablag' kerak.",
+  "sedate": "Biz shoshilmasdan, sokin yurdik.",
+  "whisk": "Mashina bizni tezda olib ketdi."
+ },
  "B1": {
   "final decision": "Yakuniy qaror dushanba kuni qabul qilinadi.",
   "new line": "Yangi liniya juda tez bo'ladi.",

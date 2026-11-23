@@ -1,5 +1,33 @@
-// Part 1 topic 0325: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0325: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0325', {
+ "A1": {
+  "ECT": "EKT davolash usulidir.",
+  "causing": "Yomg'ir muammolarga sabab bo'lyapti.",
+  "delete": "Elektron xatni o'chiring.",
+  "electroconvulsive therapy": "U elektr tutqanoq terapiyasi deb ataladi.",
+  "last resort": "Bu so'nggi chora.",
+  "picture card": "Rasmli kartochkaga qarang.",
+  "pulse": "Shifokor tomir urishimni tekshirdi.",
+  "reactivate": "Hisobingizni qayta faollashtiring.",
+  "resort": "Biz plyajdagi kurortga bordik.",
+  "strapped": "Sumka tasma bilan mahkamlangan.",
+  "terrified": "Men o'rgimchaklardan juda qo'rqaman.",
+  "unaffected": "Sovuq unga ta'sir qilmadi."
+ },
+ "A2": {
+  "ECT": "Shifokorlar EKTdan foydalanadi.",
+  "causing": "U muammo tug'dirmoqda.",
+  "delete": "Men suratni o'chirib tashladim.",
+  "electroconvulsive therapy": "Elektr tutqanoq terapiyasi tibbiy davolash usulidir.",
+  "last resort": "Biz buni so'nggi chora sifatida sinab ko'rdik.",
+  "picture card": "Bola rasmli kartochkalarni saraladi.",
+  "pulse": "Tomir urishim tez.",
+  "reactivate": "U signalizatsiyani qayta yoqdi.",
+  "resort": "Bu bizning yagona chorasiz edi.",
+  "strapped": "U o'rindiqqa kamar bilan mahkamlangan edi.",
+  "terrified": "U dahshatga tushdi.",
+  "unaffected": "Shahar zarar ko'rmadi."
+ },
  "B1": {
   "ECT": "EKT ba'zi bemorlarga yordam berishi mumkin.",
   "causing": "Stress uning bosh og'rig'iga sabab bo'lmoqda.",

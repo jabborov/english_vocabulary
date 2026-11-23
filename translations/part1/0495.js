@@ -1,5 +1,35 @@
-// Part 1 topic 0495: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0495: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0495', {
+ "A1": {
+  "air pump": "Menga havo nasosi kerak.",
+  "cardiologist": "U kardiolog.",
+  "compressed": "U siqilgan havo bilan ishlaydi.",
+  "liver": "Jigar a'zodir.",
+  "mechanical device": "Bu mexanik qurilma.",
+  "organ donor": "A'zo donori bo'ling.",
+  "pastor": "U pastor.",
+  "pressurised": "U bosim ostida.",
+  "rucksack": "Menda ryukzak bor.",
+  "spiritually": "U ruhan kuchli.",
+  "syndrome": "Bu sindrom.",
+  "transplant": "Unga a'zo ko'chirib o'tkazildi.",
+  "valve": "Bu klapan."
+ },
+ "A2": {
+  "air pump": "Havo nasosidan foydalaning.",
+  "cardiologist": "Men kardiolog qabulida bo'ldim.",
+  "compressed": "Fayl siqilgan.",
+  "liver": "Jigarim sog'lom.",
+  "mechanical device": "Bu mexanik qurilma kichkina.",
+  "organ donor": "U a'zo donori.",
+  "pastor": "Pastor ibodat qilmoqda.",
+  "pressurised": "Kabinada bosim saqlanadi.",
+  "rucksack": "Uning ryukzagi qizil.",
+  "spiritually": "U ma'naviy jihatdan o'sdi.",
+  "syndrome": "Unda bir sindrom bor.",
+  "transplant": "Unga a'zo ko'chirib o'tkazish kerak.",
+  "valve": "Klapan buzilgan."
+ },
  "B1": {
   "air pump": "Havo nasosi shovqinli.",
   "cardiologist": "Kardiolog mehribon.",

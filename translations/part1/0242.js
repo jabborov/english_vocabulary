@@ -1,5 +1,39 @@
-// Part 1 topic 0242: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0242: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0242', {
+ "A1": {
+  "Graham": "Graham mening do'stim.",
+  "additive": "Bu ovqatda qo'shimchalar bor.",
+  "banger": "Men sosiskalarni juda yaxshi ko'raman.",
+  "barbecue": "Biz barbekyu qildik.",
+  "brunch": "Keling, kechki nonushta qilaylik.",
+  "curious": "Men qiziquvchanman.",
+  "fermentation": "Non uchun achish jarayoni kerak.",
+  "flavouring": "Bunda limon ta'mlagichi bor.",
+  "improve over": "Vaqt o'tishi bilan u yaxshilandi.",
+  "instinctive": "Bu instinktiv edi.",
+  "logically": "Mantiqan fikr yuriting.",
+  "mash": "Men kartoshka pyuresini yaxshi ko'raman.",
+  "pork sausage": "Men cho'chqa go'shtidan qilingan kolbasa yemayman.",
+  "soy": "Men soya sutini ichaman.",
+  "veggie": "Men vegetarian taomni yaxshi ko'raman."
+ },
+ "A2": {
+  "Graham": "Graham ovqatni yaxshi ko'radi.",
+  "additive": "Men qo'shimchalardan qochaman.",
+  "banger": "Kechki ovqatga sosiska yedik.",
+  "barbecue": "Dadam barbekyuda ovqat pishiradi.",
+  "brunch": "Kechki nonushta soat o'n birda.",
+  "curious": "Mushuklar qiziquvchan bo'ladi.",
+  "fermentation": "Achish natijasida yogurt hosil bo'ladi.",
+  "flavouring": "Men ta'mlagichlarni yoqtirmayman.",
+  "improve over": "Ingliz tilim yil davomida yaxshilandi.",
+  "instinctive": "Qo'rquv instinktiv tuyg'u.",
+  "logically": "U mantiqli gapirdi.",
+  "mash": "Kartoshka pyuresi yumshoq.",
+  "pork sausage": "Bu cho'chqa go'shtidan qilingan kolbasa.",
+  "soy": "Soya o'simlikdir.",
+  "veggie": "U vegetarian."
+ },
  "B1": {
   "Graham": "Graham vegetarian kolbasani tatib ko'rdi.",
   "additive": "Qo'shimchalar oziq-ovqatni uzoqroq saqlaydi.",

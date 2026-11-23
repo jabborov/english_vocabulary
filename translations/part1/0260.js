@@ -1,5 +1,33 @@
-// Part 1 topic 0260: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0260: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0260', {
+ "A1": {
+  "allow for": "Tirbandlikni hisobga oling.",
+  "easier": "Bu osonroq.",
+  "illustrate": "Misol bilan tushuntirib beray.",
+  "inner resource": "Uning ichki kuch-quvvati bor.",
+  "internally": "U ichida kuldi.",
+  "lie with": "Tanlov sizga bog'liq.",
+  "overpower": "Hid meni bosib ketdi.",
+  "pairing": "Bu yaxshi juftlik.",
+  "recharge": "Telefoningizni zaryadlang.",
+  "regain": "U sog'lig'ini tikladi.",
+  "speak out": "Ochiq gapiring!",
+  "stay in": "Bugun kechqurun uyda qolishni xohlayman."
+ },
+ "A2": {
+  "allow for": "Kechikishlarni hisobga olishimiz kerak.",
+  "easier": "Matematika men uchun osonroq.",
+  "illustrate": "Rasmlar hikoyani tasvirlab beradi.",
+  "inner resource": "Ichki kuch-quvvatingizdan foydalaning.",
+  "internally": "U ichida jilmaydi.",
+  "lie with": "Muammo tizimda.",
+  "overpower": "U o'g'rini yengib, bo'ysundirdi.",
+  "pairing": "Bu taomlar uyg'unligi yoqimli.",
+  "recharge": "Men kuch to'plashim kerak.",
+  "regain": "U kuchini qayta tikladi.",
+  "speak out": "U muammo haqida ochiq gapirdi.",
+  "stay in": "Biz uyda qolib, televizor ko'rdik."
+ },
  "B1": {
   "allow for": "Biroz qo'shimcha vaqtni hisobga oling.",
   "easier": "Ikkinchi test osonroq edi.",

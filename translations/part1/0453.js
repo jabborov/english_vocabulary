@@ -1,5 +1,23 @@
-// Part 1 topic 0453: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0453: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0453', {
+ "A1": {
+  "counterintuitive": "Bu aqlga zid tuyuladi.",
+  "dweller": "Shahar aholisi doim band.",
+  "flower bed": "Gulzorga qarang!",
+  "installation": "Bu badiiy instalyatsiya.",
+  "overhead": "Tepadan bir qush uchib o'tdi.",
+  "sand": "Qum issiq.",
+  "sound recording": "Ushbu ovoz yozuvini tinglang."
+ },
+ "A2": {
+  "counterintuitive": "Bu aqlga zid tuyuladigan g'oya.",
+  "dweller": "U shahar aholisi.",
+  "flower bed": "Gulzor chiroyli.",
+  "installation": "Instalyatsiya menga yoqdi.",
+  "overhead": "Tepaga qarang!",
+  "sand": "Bolalar qumda o'ynashadi.",
+  "sound recording": "Bu eski ovoz yozuvi."
+ },
  "B1": {
   "counterintuitive": "Natija kutilganiga teskari bo'lib chiqdi.",
   "dweller": "G'or aholisi qadim zamonlarda yashagan.",

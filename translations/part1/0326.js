@@ -1,5 +1,41 @@
-// Part 1 topic 0326: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0326: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0326', {
+ "A1": {
+  "authorise": "Bunga kim ruxsat berdi?",
+  "authorised": "U rasmiy diler.",
+  "behalf": "Men uning nomidan gapiraman.",
+  "box office": "Kassaga boring.",
+  "cheapskate": "U xasis.",
+  "face value": "Uning nominal qiymati qancha?",
+  "inflate": "Sharni shishiring.",
+  "inflated": "Narxlar sun'iy oshirilgan.",
+  "legitimately": "Uni qonuniy yo'l bilan sotib oling.",
+  "opera house": "Opera teatri katta.",
+  "reputable": "Obro'li do'kondan foydalaning.",
+  "resell": "U eski telefonlarni qayta sotadi.",
+  "restricted": "Bu hududga kirish cheklangan.",
+  "sell out": "Chiptalar sotilib tugadi.",
+  "ticket tout": "U chipta chayqovchisi.",
+  "tout": "Chayqovchida chiptalar bor edi."
+ },
+ "A2": {
+  "authorise": "Boshliq bunga ruxsat berdi.",
+  "authorised": "Bu rasmiy vakolatli do'kon.",
+  "behalf": "U onasining nomidan keldi.",
+  "box office": "Kassa ochiq.",
+  "cheapskate": "Xasislik qilma.",
+  "face value": "Men nominal narxini to'ladim.",
+  "inflate": "U shinani damladi.",
+  "inflated": "Shar shishirilgan.",
+  "legitimately": "U ishga qonuniy yo'l bilan kirdi.",
+  "opera house": "Biz opera teatriga bordik.",
+  "reputable": "U obro'li savdogar.",
+  "resell": "Chiptamni qayta sotsam bo'ladimi?",
+  "restricted": "Ko'rinishim cheklangan edi.",
+  "sell out": "Do'konda non tugab qoldi.",
+  "ticket tout": "Chipta chayqovchilari chipta sotishadi.",
+  "tout": "Tashqarida chayqovchi turardi."
+ },
  "B1": {
   "authorise": "Bank to'lovga ruxsat berdi.",
   "authorised": "Faqat ruxsat berilgan shaxslargina kira oladi.",

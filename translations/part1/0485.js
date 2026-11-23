@@ -1,5 +1,35 @@
-// Part 1 topic 0485: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0485: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0485', {
+ "A1": {
+  "Holly": "Xolli futbolni yaxshi ko'radi.",
+  "athleticism": "U ajoyib jismoniy tayyorgarlikka ega.",
+  "brain stem": "Miya ustuni boshda joylashgan.",
+  "brainwave": "Miyamga ajoyib fikr keldi!",
+  "cognition": "Kognitsiya fikrlash degani.",
+  "detecting": "Xavfni aniqlash muhim.",
+  "expertise": "Uning tajribasi katta.",
+  "football player": "U futbolchi.",
+  "free kick": "Bu jarima zarbasi.",
+  "margin": "Ular katta farq bilan g'alaba qozonishdi.",
+  "push forward": "Oldinga intiling!",
+  "rotate": "G'ildirak aylanadi.",
+  "stillness": "Menga sokinlik yoqadi."
+ },
+ "A2": {
+  "Holly": "Xolli olima.",
+  "athleticism": "Uning jismoniy tayyorgarligi hayratlanarli.",
+  "brain stem": "Miya ustuni nafas olishimizga yordam beradi.",
+  "brainwave": "Uning kutilmagan zo'r fikri muammoni hal qildi.",
+  "cognition": "Uyqu bilish faoliyatiga yordam beradi.",
+  "detecting": "Itlar hidlarni sezishda usta.",
+  "expertise": "Bizga sizning bilimingiz va tajribangiz kerak.",
+  "football player": "U futbolchi bo'lishni xohlaydi.",
+  "free kick": "U jarima zarbasini tepdi.",
+  "margin": "Farq kichik edi.",
+  "push forward": "Ular birgalikda oldinga intilishdi.",
+  "rotate": "Rasmni aylantiring.",
+  "stillness": "Tunning sokinligi yoqimli edi."
+ },
  "B1": {
   "Holly": "Xolli o'yinni tomosha qildi.",
   "athleticism": "Futbol jismoniy chaqqonlikni talab qiladi.",

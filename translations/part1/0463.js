@@ -1,5 +1,17 @@
-// Part 1 topic 0463: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0463: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0463', {
+ "A1": {
+  "Caroline": "Karolina olima.",
+  "habitability": "Yashashga yaroqlilik joyda yashash mumkinligini bildiradi.",
+  "light year": "Yorug'lik yili masofa birligidir.",
+  "rocky": "Sohil toshloq."
+ },
+ "A2": {
+  "Caroline": "Karolina yulduzlarni yaxshi ko'radi.",
+  "habitability": "Biz yashashga yaroqlilikni o'rganamiz.",
+  "light year": "Yulduz o'n yorug'lik yili uzoqlikda.",
+  "rocky": "Bu toshloq yo'l."
+ },
  "B1": {
   "Caroline": "Karolin yangi sayyoralar haqida gapirdi.",
   "habitability": "Suv yashash uchun yaroqlilik nuqtai nazaridan muhim.",

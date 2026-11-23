@@ -1,5 +1,29 @@
-// Part 1 topic 0481: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0481: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0481', {
+ "A1": {
+  "airfare": "Aviachipta narxi baland.",
+  "azure": "Dengiz zangori rangda.",
+  "boon": "Bu haqiqiy ne'mat.",
+  "budget for": "Oziq-ovqat uchun mablag' ajrating.",
+  "computer mouse": "Kompyuter sichqonchasini suring.",
+  "fare": "Yo'l haqi qancha?",
+  "hotel room": "Mehmonxona xonamiz katta.",
+  "office staff": "Ofis xodimlari band.",
+  "press on": "Keling, davom etaylik.",
+  "pricing": "Narxlar adolatli."
+ },
+ "A2": {
+  "airfare": "Men aviachipta pulini to'ladim.",
+  "azure": "Zangori osmonga qarang.",
+  "boon": "Mashina katta ne'mat.",
+  "budget for": "Biz sayohat uchun mablag' rejalashtirdik.",
+  "computer mouse": "Kompyuter sichqonchasi buzilgan.",
+  "fare": "Avtobus yo'l haqi ikki funt.",
+  "hotel room": "Men mehmonxonadan xona band qildim.",
+  "office staff": "Bizda o'nta ofis xodimi bor.",
+  "press on": "Yomg'irga qaramay, yo'limizda davom etdik.",
+  "pricing": "Narx belgilanishini tushunmayapman."
+ },
  "B1": {
   "airfare": "Yozda aviachiptalar narxi oshadi.",
   "azure": "Biz zangori suvda suzdik.",

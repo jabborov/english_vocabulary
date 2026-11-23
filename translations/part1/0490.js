@@ -1,5 +1,23 @@
-// Part 1 topic 0490: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0490: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0490', {
+ "A1": {
+  "Egypt": "Misrda havo issiq.",
+  "eagerness": "Men uning ishtiyoqini ko'rdim.",
+  "generosity": "Saxiyligingiz uchun rahmat.",
+  "philanthropic": "Bu xayriya ishi.",
+  "philanthropist": "U xayriyachi.",
+  "philanthropy": "Xayriya odamlarga yordam beradi.",
+  "wealthy man": "U badavlat odam."
+ },
+ "A2": {
+  "Egypt": "Men Misrga bordim.",
+  "eagerness": "Uning ishtiyoqi yoqimli.",
+  "generosity": "Uning saxiyligi cheksiz.",
+  "philanthropic": "Uning xayriya maqsadlari bor.",
+  "philanthropist": "Xayriyachi boy.",
+  "philanthropy": "U xayriya ishlarini yaxshi ko'radi.",
+  "wealthy man": "Bu yerda badavlat odam yashaydi."
+ },
  "B1": {
   "Egypt": "Misrda piramidalar bor.",
   "eagerness": "U katta ishtiyoq ko'rsatdi.",

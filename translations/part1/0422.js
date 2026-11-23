@@ -1,5 +1,21 @@
-// Part 1 topic 0422: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0422: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0422', {
+ "A1": {
+  "audio recording": "Audioyozuvni tinglang.",
+  "machine translation": "Bu mashina tarjimasi.",
+  "real time": "Bu real vaqtda sodir bo'ladi.",
+  "slight": "Men biroz shamollaganman.",
+  "talk into": "Mikrofonga gapiring.",
+  "time machine": "Menga vaqt mashinasi kerak."
+ },
+ "A2": {
+  "audio recording": "Men audioyozuv qildim.",
+  "machine translation": "Mashina tarjimasi tez.",
+  "real time": "O'yinni real vaqtda tomosha qiling.",
+  "slight": "Kichik muammo bor.",
+  "talk into": "U telefonga gapirdi.",
+  "time machine": "Filmda u vaqt mashinasi yasadi."
+ },
  "B1": {
   "audio recording": "Audio yozuv juda aniq.",
   "machine translation": "Mashina tarjimasi har doim ham to'g'ri bo'lavermaydi.",

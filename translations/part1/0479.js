@@ -1,5 +1,15 @@
-// Part 1 topic 0479: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0479: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0479', {
+ "A1": {
+  "Dubai": "Dubayda havo issiq.",
+  "Meredith": "Meredithning velosipedi bor.",
+  "rest area": "Keling, dam olish maskanida to'xtaylik."
+ },
+ "A2": {
+  "Dubai": "Men Dubayga bordim.",
+  "Meredith": "Meredith velosipedda yurishni yaxshi ko'radi.",
+  "rest area": "Dam olish maskanida hojatxonalar bor."
+ },
  "B1": {
   "Dubai": "Dubayda baland binolar bor.",
   "Meredith": "Meredit ishga velosipedda boradi.",

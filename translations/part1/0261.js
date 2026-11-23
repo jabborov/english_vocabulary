@@ -1,5 +1,39 @@
-// Part 1 topic 0261: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0261: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0261', {
+ "A1": {
+  "cube": "Bu kub.",
+  "fabricate": "Hikoya to'qib chiqarmang.",
+  "fad": "Bu shunchaki o'tkinchi moda.",
+  "hopper": "Mening apelsin rangli sakrovchi to'pim bor edi.",
+  "insecure": "U o'ziga ishonmaydi.",
+  "join in": "Men ham qo'shilsam bo'ladimi?",
+  "loom": "U rezinkali to'quv dastgohida bilakuzuklar yasaydi.",
+  "mentality": "Bu g'alati tafakkur tarzi.",
+  "of all time": "Bu barcha zamonlardagi eng yaxshi o'yinchog'im.",
+  "participate": "Men ishtirok etishni xohlayman.",
+  "patch": "Bir parcha maysazor bor.",
+  "ponytail": "Uning sochi ot dumi qilib bog'langan.",
+  "rubber": "To'p rezinadan qilingan.",
+  "rubber band": "Menga rezinka kerak.",
+  "see through": "Hiylangni sezib turibman."
+ },
+ "A2": {
+  "cube": "Kubikni yig'a olasanmi?",
+  "fabricate": "U bahona to'qib chiqardi.",
+  "fad": "Bu o'yin o'tgan yili o'tkinchi moda edi.",
+  "hopper": "U o'zining sakrovchi to'pida sakradi.",
+  "insecure": "U maktabda uyatchan va o'ziga ishonmaydigan edi.",
+  "join in": "Kel, o'yinga qo'shil.",
+  "loom": "Singlimning bir quti rezinkalari bor.",
+  "mentality": "Ularda g'olib tafakkuri bor.",
+  "of all time": "U barcha zamonlarning eng yaxshi o'yinchisi.",
+  "participate": "Barcha bolalar o'yinda ishtirok etadi.",
+  "patch": "U Cabbage Patch qo'g'irchog'ini xohlardi.",
+  "ponytail": "Sochingni ot dumi qilib bog'la.",
+  "rubber": "Bu etiklar rezinadan.",
+  "rubber band": "Kartalarni rezinka bilan bog'lab qo'y.",
+  "see through": "U uning yolg'onlarini fahmlab qoldi."
+ },
  "B1": {
   "cube": "U Rubik kubigini bir daqiqada yig'a oladi.",
   "fabricate": "Zavod plastik o'yinchoqlar ishlab chiqaradi.",

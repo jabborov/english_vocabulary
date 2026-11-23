@@ -1,5 +1,33 @@
-// Part 1 topic 0367: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0367: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0367', {
+ "A1": {
+  "Bruno": "Bruno mening do'stim.",
+  "bulletin": "Axborotnomani o'qing.",
+  "celebratory": "Bu bayram kuni edi.",
+  "improved": "Ingliz tilim yaxshilangan.",
+  "liberty": "Biz erkinlikni sevamiz.",
+  "mechanical engineering": "U mashinasozlikni o'rganadi.",
+  "morale": "Ruhiy holat yuqori.",
+  "news bulletin": "Yangiliklar xabarini tinglang.",
+  "radio news": "Men radio yangiliklarini tinglayman.",
+  "radio signal": "Radio signali zaif.",
+  "smatter": "\"Smatter\" eski so'z.",
+  "smattering": "Men fransuz tilini ozgina bilaman."
+ },
+ "A2": {
+  "Bruno": "Bruno radio tinglaydi.",
+  "bulletin": "Maktab axborotnoma yuboradi.",
+  "celebratory": "Bizda bayram torti bor edi.",
+  "improved": "Bu takomillashtirilgan versiya.",
+  "liberty": "Erkinlik muhim.",
+  "mechanical engineering": "Mashinasozlik qiyin.",
+  "morale": "Yaxshi yangiliklar ruhiyatni ko'taradi.",
+  "news bulletin": "Yangiliklar soat oltida.",
+  "radio news": "Bobom radio yangiliklarini yaxshi ko'rardi.",
+  "radio signal": "Radio signali yo'qoldi.",
+  "smatter": "Biz \"smatter\" so'zini kamdan-kam ishlatamiz.",
+  "smattering": "U ingliz tilini ozgina biladi."
+ },
  "B1": {
   "Bruno": "Bruno ingliz tilini maktabda o'rgangan.",
   "bulletin": "Tushda yangiliklar xabari berildi.",

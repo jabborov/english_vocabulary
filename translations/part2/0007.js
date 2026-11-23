@@ -1,5 +1,45 @@
-// Part 2 topic 0007: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0007: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0007', {
+ "A1": {
+  "accessible": "Klinikaga borish oson.",
+  "admit": "Men buni tan olaman.",
+  "angina": "Uning stenokardiyasi bor.",
+  "aware": "Men xabardorman.",
+  "burden": "Bu og'ir yuk.",
+  "charity": "U xayriya tashkilotida ishlaydi.",
+  "commit": "Men rejaga sodiq qolishga majburiyat olaman.",
+  "fuss": "Shov-shuv ko'tarmang.",
+  "lifestyle choices": "Bular turmush tarziga oid tanlovlar.",
+  "nuisance": "U bezovta qiluvchi odam.",
+  "so forth": "Olma, banan va hokazo.",
+  "stuck": "Men qotib qoldim.",
+  "supposedly": "Go'yoki u kasal.",
+  "tablet": "Bitta tabletka iching.",
+  "ten-fold": "U o'n barobar o'sdi.",
+  "to draw any attention": "Men hech qanday e'tibor tortishni istamayman.",
+  "to use up": "Sutni tugatib qo'ymang.",
+  "vulnerability": "Zaiflik oddiy holat."
+ },
+ "A2": {
+  "accessible": "Binoga avtobusda borish mumkin edi.",
+  "admit": "U xato qilganini tan oldi.",
+  "angina": "Bobomda stenokardiya bor edi.",
+  "aware": "U muammodan xabardor edi.",
+  "burden": "U o'zini oilasiga og'irlik qilayotgandek his qildi.",
+  "charity": "Biz xayriya tashkilotiga pul berdik.",
+  "commit": "U har kuni yugurishga o'zini majbur qildi.",
+  "fuss": "U sovuq ovqat uchun shov-shuv ko'tardi.",
+  "lifestyle choices": "U turmush tarzi borasida noto'g'ri tanlovlar qildi.",
+  "nuisance": "Shovqin rosa bezovta qildi.",
+  "so forth": "Biz non, sut va hokazolarni sotib oldik.",
+  "stuck": "Biz bir soat tirbandlikda qolib ketdik.",
+  "supposedly": "Aytishlaricha, bu choy foydali.",
+  "tablet": "Boshim og'rigani uchun tabletka ichdim.",
+  "ten-fold": "Narx o'n barobar oshdi.",
+  "to draw any attention": "U yo'talayotganiga hech kimning e'tiborini tortmaslikka harakat qildi.",
+  "to use up": "Biz barcha qog'ozni ishlatib tugatdik.",
+  "vulnerability": "U do'stiga o'zining zaif tomonini ko'rsatdi."
+ },
  "B1": {
   "accessible": "Sog'liq haqidagi ma'lumotlar hamma uchun ochiq bo'lishi kerak.",
   "admit": "Ba'zi erkaklar uchun o'zini yomon his qilayotganini tan olish qiyin.",

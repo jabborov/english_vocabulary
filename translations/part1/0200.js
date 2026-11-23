@@ -1,5 +1,45 @@
-// Part 1 topic 0200: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0200: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0200', {
+ "A1": {
+  "London": "Men Londonda yashayman.",
+  "congest": "Mashinalar yo'lni tiqilinch qiladi.",
+  "congestion": "Tirbandlik bor.",
+  "council": "Kengash shu yerda.",
+  "diesel": "Mashina dizel yoqilg'isida yuradi.",
+  "emptier": "Avtobus bo'shroq.",
+  "get around": "Siz qanday qatnaysiz?",
+  "knock down": "Uni mashina urib yiqitdi.",
+  "miles per hour": "U soatiga o'n mil tezlikda yuradi.",
+  "motorise": "Ular velosipedlarga motor o'rnatishadi.",
+  "mph": "Tezlik soatiga 30 mil.",
+  "on the road": "Biz yo'ldamiz.",
+  "pedestrian": "Men piyodaman.",
+  "planner": "U rejalashtiruvchi.",
+  "travel along": "Mashinalar yo'l bo'ylab harakatlanadi.",
+  "travel by": "Men avtobusda yuraman.",
+  "uninteresting": "Film qiziq emas.",
+  "walk around": "Keling, aylanib yuraylik."
+ },
+ "A2": {
+  "London": "London katta.",
+  "congest": "Transport shaharni tiqilinch qiladi.",
+  "congestion": "Bugun tirbandlik kuchli.",
+  "council": "Kengash bugun yig'iladi.",
+  "diesel": "Dizel yoqilg'isi arzon.",
+  "emptier": "Ko'cha hozir bo'shroq.",
+  "get around": "Men velosipedda qatnayman.",
+  "knock down": "Ular uyni buzib tashlashdi.",
+  "miles per hour": "Tezlik chegarasi soatiga 30 mil.",
+  "motorise": "Armiya yuk mashinalarini motorlashtirdi.",
+  "mph": "Soatiga 20 mil tezlikda haydang.",
+  "on the road": "Yo'lda mashinalar ko'p.",
+  "pedestrian": "Bu yerdan piyodalar yuradi.",
+  "planner": "Rejalashtiruvchi xarita tuzdi.",
+  "travel along": "Biz daryo bo'ylab sayohat qilamiz.",
+  "travel by": "Biz poyezdda sayohat qilamiz.",
+  "uninteresting": "Bu ko'cha qiziq emas.",
+  "walk around": "Biz bog' bo'ylab aylanib yurdik."
+ },
  "B1": {
   "London": "O'tgan yili Londonga bordik.",
   "congest": "Yo'llar tirband.",

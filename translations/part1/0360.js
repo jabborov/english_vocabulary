@@ -1,5 +1,29 @@
-// Part 1 topic 0360: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0360: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0360', {
+ "A1": {
+  "chapter": "Birinchi bobni o'qing.",
+  "credit crunch": "Kredit inqirozi bo'lgan.",
+  "every last": "Men oxirgi luqmasigacha yedim.",
+  "industrialisation": "Sanoatlashtirish katta o'zgarish bo'lgan.",
+  "privileged": "U juda imtiyozli.",
+  "spare": "Sizda ortiqcha ruchka bormi?",
+  "train ticket": "Menda poyezd chiptasi bor.",
+  "upbringing": "U baxtli muhitda tarbiyalangan.",
+  "upgrading": "Yangilash qimmatga tushadi.",
+  "upper class": "U yuqori tabaqadan."
+ },
+ "A2": {
+  "chapter": "Bu kitobda o'nta bob bor.",
+  "credit crunch": "Kredit inqirozi ko'p odamlarga zarar yetkazdi.",
+  "every last": "U oxirgi tiyinigacha sarfladi.",
+  "industrialisation": "Sanoatlashtirish davrida ko'plab zavodlar qurildi.",
+  "privileged": "Ular imtiyozli hayot kechirishgan.",
+  "spare": "Bo'sh vaqtim yo'q.",
+  "train ticket": "Poyezd chiptalari qimmat.",
+  "upbringing": "Mening tarbiyam oddiy bo'lgan.",
+  "upgrading": "Telefonimni yangilashni o'ylayapman.",
+  "upper class": "Ular yuqori tabaqa vakillaridek yashashadi."
+ },
  "B1": {
   "chapter": "Londonga ko'chib o'tish hayotimda yangi bobni ochdi.",
   "credit crunch": "U kredit inqirozidan keyin ishidan ayrildi.",

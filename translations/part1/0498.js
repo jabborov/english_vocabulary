@@ -1,5 +1,41 @@
-// Part 1 topic 0498: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0498: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0498', {
+ "A1": {
+  "banal": "Film siyqa edi.",
+  "do out": "U buni sevgi tufayli qildi.",
+  "engaged": "Ular unashtirilgan.",
+  "excerpt": "Bu parchani o'qing.",
+  "hold dear": "Men oilamni juda qadrlayman.",
+  "letter writer": "U xat yozishga usta.",
+  "mail": "Bugun xat bormi?",
+  "personal relationship": "Ularning shaxsiy munosabatlari yaxshi.",
+  "postal": "Pochta manzilingizni shu yerga yozing.",
+  "postal service": "Bugun pochta xizmati sekin ishlayapti.",
+  "separation": "Ayriliq og'ir kechdi.",
+  "shy person": "U uyatchan odam.",
+  "sweetheart": "U uning sevgilisi.",
+  "tearful": "Uning ko'zlari yoshga to'lgan edi.",
+  "troop": "Askarlar shu yerda.",
+  "unsatisfactory": "Javob qoniqarsiz."
+ },
+ "A2": {
+  "banal": "U siyqa narsalar yozdi.",
+  "do out": "U mehribonlik tufayli yordam berdi.",
+  "engaged": "Singlim Tomga unashtirilgan.",
+  "excerpt": "U kitobdan parcha o'qidi.",
+  "hold dear": "Bu xatlar men uchun juda qadrli.",
+  "letter writer": "Buvim ko'p xat yozardi.",
+  "mail": "Pochta soat to'qqizda keladi.",
+  "personal relationship": "Bu shaxsiy munosabat.",
+  "postal": "Pochtachi keldi.",
+  "postal service": "Pochta xizmati xatlarimizni olib keladi.",
+  "separation": "Ular ayriliq paytida xat yozishishdi.",
+  "shy person": "Uyatchan odam ko'p gapirmaydi.",
+  "sweetheart": "Xayrli tun, jonim.",
+  "tearful": "Bu ko'z yoshli xayrlashuv edi.",
+  "troop": "Askarlar uydan xatlar olishdi.",
+  "unsatisfactory": "Uning ishi qoniqarsiz edi."
+ },
  "B1": {
   "banal": "Suhbat odobli, ammo siyqa edi.",
   "do out": "Men buni odatga ko'ra qildim.",

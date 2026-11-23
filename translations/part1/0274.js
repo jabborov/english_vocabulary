@@ -1,5 +1,41 @@
-// Part 1 topic 0274: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0274: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0274', {
+ "A1": {
+  "Caucasian": "U oq tanli.",
+  "actress": "U aktrisa.",
+  "auburn": "Uning sochi to'q malla rangda.",
+  "bushy": "Mushukning dumi paxmoq.",
+  "complexion": "Uning yuzi rangpar.",
+  "ethnically": "Sinfdagilar turli millatlardan.",
+  "evident": "Uning charchagani yaqqol ko'rinib turardi.",
+  "formative": "Bolalik shaxs shakllanadigan davr.",
+  "glad": "Sizni ko'rganimdan xursandman.",
+  "melting": "Qor eriyapti.",
+  "melting pot": "London turli madaniyatlar qorishgan shahar.",
+  "playwright": "Shekspir dramaturg bo'lgan.",
+  "rose": "Bu atirgul qizil.",
+  "shared": "Bizning umumiy xonamiz bor.",
+  "skinned": "U qora tanli.",
+  "soap opera": "Oyim teleserial tomosha qiladi."
+ },
+ "A2": {
+  "Caucasian": "Anketada oq tanli ekanligingiz so'raladi.",
+  "actress": "Aktrisa juda mashhur.",
+  "auburn": "Uning sochi to'q malla rangda.",
+  "bushy": "Uning qoshlari qalin.",
+  "complexion": "Uning yuzi qoramtir.",
+  "ethnically": "Shahar aholisi millatlar jihatidan xilma-xil.",
+  "evident": "Uning quvonchi yaqqol ko'rinib turardi.",
+  "formative": "U shakllanish yillarini chet elda o'tkazgan.",
+  "glad": "U kelganingizdan xursand.",
+  "melting": "Erib borayotgan muzqaymoqqa qara.",
+  "melting pot": "Bu shahar madaniyatlar qorishgan joy.",
+  "playwright": "Dramaturg yangi pyesa yozdi.",
+  "rose": "U unga atirgul sovg'a qildi.",
+  "shared": "Bu umumiy oshxona.",
+  "skinned": "Uning terisi oppoq.",
+  "soap opera": "Teleserial har kuni efirga uzatiladi."
+ },
  "B1": {
   "Caucasian": "Aktyor oq tanli va ko'k ko'zli.",
   "actress": "Aktrisa filmda o'qituvchi rolini o'ynaydi.",

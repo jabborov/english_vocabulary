@@ -1,5 +1,27 @@
-// Part 1 topic 0418: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0418: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0418', {
+ "A1": {
+  "Greek": "U yunon tilida gapiradi.",
+  "anaesthetic": "Menga og'riqsizlantiruvchi dori berishdi.",
+  "anyhow": "Nima bo'lganda ham, men ketishim kerak.",
+  "chew off": "It tugmani g'ajib uzib oldi.",
+  "limb": "Qo'l tananing a'zosidir.",
+  "medical procedure": "Bu tibbiy muolaja.",
+  "pain threshold": "Uning og'riqqa chidamlilik chegarasi yuqori.",
+  "plaster": "Menga yopishqoq plastir kerak.",
+  "slap": "Uni shapaloqlama!"
+ },
+ "A2": {
+  "Greek": "Men yunon taomlarini juda yaxshi ko'raman.",
+  "anaesthetic": "Og'riqsizlantiruvchi dori tez ta'sir qildi.",
+  "anyhow": "Baribir boraman.",
+  "chew off": "U tirnog'ini tishlab uzib oldi.",
+  "limb": "Qo'l-oyoqlarim charchaganini his qilyapman.",
+  "medical procedure": "Tibbiy muolaja bir soat davom etdi.",
+  "pain threshold": "Mening og'riqqa chidamim past.",
+  "plaster": "Kesilgan joyga plastir yopishtiring.",
+  "slap": "U stolni shapatiladi."
+ },
  "B1": {
   "Greek": "Ko'plab inglizcha so'zlar yunon tilidan kelgan.",
   "anaesthetic": "Og'riqsizlantiruvchi dori bilan hech qanday og'riq sezmaysiz.",

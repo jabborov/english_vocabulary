@@ -1,5 +1,19 @@
-// Part 1 topic 0378: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0378: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0378', {
+ "A1": {
+  "cappuccino": "Bitta kapuchino, iltimos.",
+  "civet": "Sivetta yovvoyi hayvon.",
+  "coffee can": "Bu qahva bankasi.",
+  "latte": "Bitta latte, iltimos.",
+  "suspend": "Birov uchun oldindan qahva to'lab qo'ysam bo'ladimi?"
+ },
+ "A2": {
+  "cappuccino": "Kapuchinom juda issiq.",
+  "civet": "Sivetta Osiyoda yashaydi.",
+  "coffee can": "Qahva bankasi bo'sh.",
+  "latte": "Menga issiq latte yoqadi.",
+  "suspend": "O'yin to'xtatib qo'yildi."
+ },
  "B1": {
   "cappuccino": "U tushlikdan keyin doim kapuchino buyuradi.",
   "civet": "Sivetta biroz mushukka o'xshaydi.",

@@ -1,5 +1,27 @@
-// Part 1 topic 0488: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0488: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0488', {
+ "A1": {
+  "MP": "U parlament a'zosi.",
+  "bogus": "Bu yolg'on.",
+  "clergy": "Ruhoniylar ibodat qilishadi.",
+  "gang": "To'da qochib ketdi.",
+  "licence": "Mening haydovchilik guvohnomam bor.",
+  "loophole": "Qonunda bo'shliq bor.",
+  "phoney": "Bu qalbaki.",
+  "sham": "Bu soxta narsa edi.",
+  "vicar": "Ruhoniy mehribon."
+ },
+ "A2": {
+  "MP": "Parlament a'zoingizga xat yozing.",
+  "bogus": "U qalbaki chipta ko'rsatdi.",
+  "clergy": "U ruhoniylar safiga kiradi.",
+  "gang": "U to'dada bo'lgan.",
+  "licence": "Guvohnomangizni ko'rsating.",
+  "loophole": "Ular qonundagi bo'shliqni topishdi.",
+  "phoney": "Uning tabassumi soxta.",
+  "sham": "Nikoh soxta edi.",
+  "vicar": "Ruhoniyimiz yangi."
+ },
  "B1": {
   "MP": "Parlament a'zosi nutq so'zladi.",
   "bogus": "Bu da'vo yolg'on edi.",

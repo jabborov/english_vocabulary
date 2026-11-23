@@ -1,5 +1,35 @@
-// Part 1 topic 0224: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0224: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0224', {
+ "A1": {
+  "Norman": "Uning ismi Norman.",
+  "couch": "Divanga o'tiring.",
+  "daytime": "Men kunduzi ishlayman.",
+  "functioning": "Mashina yaxshi ishlayapti.",
+  "homework": "Menda uy vazifasi bor.",
+  "interrupt": "Gapimni bo'lmang.",
+  "marked": "Sezilarli o'zgarish bor.",
+  "medication": "Dorilaringizni iching.",
+  "neurologist": "U nevrolog.",
+  "psycho": "\"Psixo\" demang.",
+  "psychoanalysis": "Freyd psixoanalizni yaratgan.",
+  "psychoanalytic": "Bu psixoanalitik g'oya.",
+  "upsetting": "Yangilik xafa qiladigan edi."
+ },
+ "A2": {
+  "Norman": "Norman shifokor.",
+  "couch": "Divan yumshoq.",
+  "daytime": "Kunduzi havo iliq.",
+  "functioning": "Uyqu miyaning ishlashiga yordam beradi.",
+  "homework": "Uy vazifangizni bajaring.",
+  "interrupt": "Gapingizni bo'lganim uchun uzr.",
+  "marked": "Uning talaffuzida sezilarli urg'u bor.",
+  "medication": "U dori ichib yuribdi.",
+  "neurologist": "Men nevrologga uchradim.",
+  "psycho": "\"Psixo\" degan so'z qo'pol.",
+  "psychoanalysis": "U psixoanalizni o'rganyapti.",
+  "psychoanalytic": "U psixoanalitik nazariyani o'rgangan.",
+  "upsetting": "Bu xafa qiladigan kun bo'ldi."
+ },
  "B1": {
   "Norman": "Norman o'z hayoti haqida gapirib berdi.",
   "couch": "U divanda uxlab qoldi.",

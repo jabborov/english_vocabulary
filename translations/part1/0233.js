@@ -1,5 +1,33 @@
-// Part 1 topic 0233: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0233: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0233', {
+ "A1": {
+  "Dane": "U daniyalik.",
+  "Nordic": "Norvegiya Shimoliy Yevropa davlatidir.",
+  "cosiness": "Men uyning shinamligini yaxshi ko'raman.",
+  "fooling": "Ahmoqona o'yinlarni bas qil!",
+  "freezing": "Bugun qattiq sovuq!",
+  "inoculation": "Bolalarga emlash kerak.",
+  "keeper": "U hayvonot bog'ining qarovchisi.",
+  "loanword": "\"Café\" o'zlashma so'zdir.",
+  "rank": "U sinfda birinchi o'rinda turadi.",
+  "sexy": "Bu juda jozibali mashina.",
+  "synonym": "\"Big\" so'zi \"large\" so'zining sinonimi.",
+  "tuck up": "To'shakka yotib, ko'rpaga o'ran."
+ },
+ "A2": {
+  "Dane": "Do'stim daniyalik.",
+  "Nordic": "Men Shimoliy Yevropa taomlarini yaxshi ko'raman.",
+  "cosiness": "Shamlar shinamlik bag'ishlaydi.",
+  "fooling": "Meni laqillatyapsanmi?",
+  "freezing": "Qo'llarim muzlab ketyapti.",
+  "inoculation": "Emlash og'riqli bo'lmadi.",
+  "keeper": "Bu suratni saqlab qo'yish kerak.",
+  "loanword": "Ingliz tilida o'zlashma so'zlar ko'p.",
+  "rank": "Bularni birdan beshgacha tartiblab chiqing.",
+  "sexy": "Bu unchalik qiziqarli mavzu emas.",
+  "synonym": "Sinonim toping.",
+  "tuck up": "Oyim meni ko'rpaga o'rab yotqizib qo'ydi."
+ },
  "B1": {
   "Dane": "Ko'plab daniyaliklar velosiped haydaydi.",
   "Nordic": "Shimoliy Yevropa qishlari uzoq va qorong'i bo'ladi.",

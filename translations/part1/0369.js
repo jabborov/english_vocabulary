@@ -1,5 +1,21 @@
-// Part 1 topic 0369: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0369: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0369', {
+ "A1": {
+  "ask away": "So'rayvering!",
+  "come over": "Bu yoqqa keling.",
+  "keep down": "Ovozingizni pasaytiring!",
+  "ooh": "Voy, zo'r!",
+  "pm": "Soat kunduzi 3.",
+  "radiant": "Siz porloq ko'rinyapsiz."
+ },
+ "A2": {
+  "ask away": "Ha, so'rayvering.",
+  "come over": "Biznikiga kela olasizmi?",
+  "keep down": "Iltimos, shovqin qilmang.",
+  "ooh": "Voy, qanday yoqimli.",
+  "pm": "Uchrashuv kunduzi soat 2 da.",
+  "radiant": "Uning tabassumi nur sochardi."
+ },
  "B1": {
   "ask away": "Albatta, so'rayvering.",
   "come over": "Iltimos, stolimga keling.",

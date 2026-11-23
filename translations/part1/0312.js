@@ -1,5 +1,39 @@
-// Part 1 topic 0312: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0312: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0312', {
+ "A1": {
+  "Ebola": "Ebola xavfli kasallik.",
+  "Walter": "Walter shifokor.",
+  "confidentiality": "Maxfiylik muhim.",
+  "consent": "U o'z roziligini berdi.",
+  "dignity": "Odamlarga qadr-qimmat bilan munosabatda bo'ling.",
+  "dilemma": "Men qiyin vaziyatdaman.",
+  "for anything": "Men buni hech narsa evaziga qilmasdim.",
+  "informed consent": "Bemorlar ongli roziligini beradi.",
+  "involvement": "Ishtirokingiz uchun rahmat.",
+  "liable": "Zarar uchun siz javobgarsiz.",
+  "mortality rate": "O'lim darajasi yuqori.",
+  "preservation": "Eski binolarni saqlab qolish muhim.",
+  "risky": "Bu xavfli.",
+  "sue": "U ularni sudga bermoqchi.",
+  "waiver": "Iltimos, voz kechish hujjatini imzolang."
+ },
+ "A2": {
+  "Ebola": "Ebola virus tufayli kelib chiqadi.",
+  "Walter": "Bu Walter.",
+  "confidentiality": "Shifokorlar maxfiylikni saqlaydi.",
+  "consent": "U sinovdan o'tishga rozi bo'ldi.",
+  "dignity": "U o'z qadr-qimmatini saqlab qoldi.",
+  "dilemma": "Bu qiyin muammoli tanlov.",
+  "for anything": "Qila oladigan har qanday yordamingiz uchun rahmat.",
+  "informed consent": "Sizga ongli rozilik kerak.",
+  "involvement": "Uning ishtiroki muhim edi.",
+  "liable": "U unutib qo'yishga moyil.",
+  "mortality rate": "O'lim darajasi pasaydi.",
+  "preservation": "Oziq-ovqatni konservalash uning buzilishini to'xtatadi.",
+  "risky": "Bu xavfli reja.",
+  "sue": "U kompaniyani sudga berdi.",
+  "waiver": "Men voz kechish hujjatini imzoladim."
+ },
  "B1": {
   "Ebola": "Shifokorlar Ebolani to'xtatish uchun qattiq mehnat qilishdi.",
   "Walter": "Walter Ebola haqida gapiradi.",

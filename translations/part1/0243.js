@@ -1,5 +1,43 @@
-// Part 1 topic 0243: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0243: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0243', {
+ "A1": {
+  "balancing": "Muvozanatni saqlash qiyin.",
+  "bind": "Men qiyin ahvolda qoldim.",
+  "bow": "Uning kamon va o'qi bor.",
+  "dissatisfied": "Men norozi.",
+  "entrepreneur": "U tadbirkor.",
+  "entrepreneurial": "U tadbirkorlik ruhiga ega.",
+  "have in mind": "Xayolingda nima bor?",
+  "murderer": "U qotil.",
+  "ne": "Bu yerda \"ne\" qisqartma.",
+  "ninja": "U ninja filmlarini yaxshi ko'radi.",
+  "oh": "Oh, salom!",
+  "once more": "Yana bir marta ayting.",
+  "peasant": "U dehqon edi.",
+  "popularise": "U qo'shiqni mashhur qildi.",
+  "portfolio": "Bu mening portfoliom.",
+  "serial murderer": "Bu ketma-ket qotillik qilgan jinoyatchi haqidagi film.",
+  "wise to": "Men uning hiylalarini bilaman."
+ },
+ "A2": {
+  "balancing": "Bu muvozanatni saqlash san'ati.",
+  "bind": "Bu haqiqiy boshog'riq.",
+  "bow": "Bu kamon.",
+  "dissatisfied": "U ovqatdan norozi edi.",
+  "entrepreneur": "U tadbirkor bo'lishni xohlaydi.",
+  "entrepreneurial": "Uning tadbirkorlik g'oyalari bor.",
+  "have in mind": "Xayolimda bir reja bor.",
+  "murderer": "Politsiya qotilni topdi.",
+  "ne": "\"Ne'er\" \"hech qachon\" degan ma'noni bildiradi.",
+  "ninja": "Ninja chaqqon bo'ladi.",
+  "oh": "Voy, yo'q!",
+  "once more": "Yana bir marta urinib ko'ring.",
+  "peasant": "Dehqonlar oziq-ovqat yetishtirishgan.",
+  "popularise": "Televizor bu o'yinni ommalashtirdi.",
+  "portfolio": "U o'z portfoliosini ko'rsatdi.",
+  "serial murderer": "Politsiya ketma-ket qotillik qilgan jinoyatchini qo'lga oldi.",
+  "wise to": "U buni sezib qolgan."
+ },
  "B1": {
   "balancing": "Ish va oilani muvozanatda ushlab turish qiyin.",
   "bind": "U biroz qiyin ahvolda qolgan edi.",

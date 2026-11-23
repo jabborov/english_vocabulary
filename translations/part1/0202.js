@@ -1,5 +1,25 @@
-// Part 1 topic 0202: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0202: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0202', {
+ "A1": {
+  "classify": "Biz hayvonlarni turkumlarga ajratamiz.",
+  "demonise": "Uni yomon qilib ko'rsatmang.",
+  "fruit drink": "Menga bu meva ichimligi yoqadi.",
+  "nephew": "Bu mening jiyanim.",
+  "opponent": "U mening raqibim.",
+  "processed": "Bu qayta ishlangan oziq-ovqat.",
+  "teaspoonful": "Bir choy qoshiq tuz qo'shing.",
+  "tub": "Bu bir quti muzqaymoq."
+ },
+ "A2": {
+  "classify": "Kitoblar mavzu bo'yicha tasniflanadi.",
+  "demonise": "Odamlar fastfudni yomonlashadi.",
+  "fruit drink": "Menga meva ichimligi bersangiz, iltimos.",
+  "nephew": "Jiyanim besh yoshda.",
+  "opponent": "U shaxmatda raqibini yutdi.",
+  "processed": "Qayta ishlangan go'sht unchalik foydali emas.",
+  "teaspoonful": "Men choyimga bir choy qoshiq shakar soldim.",
+  "tub": "Men bir quti yogurt yedim."
+ },
  "B1": {
   "classify": "Bu o'simlikni qanday tasniflaysiz?",
   "demonise": "Gazetalar yangi qonunni yovuzlik timsoli qilib ko'rsatdi.",

@@ -1,5 +1,35 @@
-// Part 1 topic 0446: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0446: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0446', {
+ "A1": {
+  "black bear": "Qora ayiq katta.",
+  "jaywalk": "Yo'lni noto'g'ri joydan kesib o'tmang.",
+  "jaywalking": "Yo'lni noto'g'ri joydan kesib o'tish xavfli.",
+  "lumber": "Ayiq lapanglab yuradi.",
+  "lumber down": "Ayiq tepalikdan og'ir-og'ir tushib keldi.",
+  "monument": "Bu mashhur yodgorlik.",
+  "pavement": "Piyodalar yo'lagidan yuring.",
+  "plunge": "U hovuzga sho'ng'idi.",
+  "police department": "U politsiya departamentida ishlaydi.",
+  "sidewalk": "Trotuardan chiqmang.",
+  "sinkhole": "Yo'lda o'pirilish bor.",
+  "suit of armour": "Ritsar sovut kiyib olgan edi.",
+  "wander down": "Keling, yo'l bo'ylab sayr qilib boraylik."
+ },
+ "A2": {
+  "black bear": "Biz o'rmonda qora ayiqni ko'rdik.",
+  "jaywalk": "U har kuni yo'lni noto'g'ri joydan kesib o'tadi.",
+  "jaywalking": "U yo'lni noto'g'ri joydan kesib o'tgani uchun jarima oldi.",
+  "lumber": "Eski avtobus tepalikka zo'rg'a ko'tarildi.",
+  "lumber down": "Fil yo'l bo'ylab og'ir-og'ir yurib bordi.",
+  "monument": "Biz qadimiy yodgorlikni ziyorat qildik.",
+  "pavement": "Piyodalar yo'lagi ho'l.",
+  "plunge": "Mashina daryoga qulab tushdi.",
+  "police department": "Politsiya departamentiga qo'ng'iroq qiling.",
+  "sidewalk": "Trotuar juda gavjum.",
+  "sinkhole": "O'pirilish juda chuqur.",
+  "suit of armour": "Muzeyda ritsar sovuti bor.",
+  "wander down": "U ko'cha bo'ylab sayr qilib bordi."
+ },
  "B1": {
   "black bear": "Qora ayiqlar Shimoliy Amerikada yashaydi.",
   "jaywalk": "Bu yerda yo'lni qoidabuzarlik bilan kesib o'tish xavfli.",

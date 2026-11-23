@@ -1,5 +1,29 @@
-// Part 1 topic 0172: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0172: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0172', {
+ "A1": {
+  "babysitting": "U bola qarovchilik qiladi.",
+  "clique": "Ular yopiq guruh.",
+  "gate": "Darvozani yoping.",
+  "glamorous": "U juda jozibali.",
+  "glamour": "U hashamatni yaxshi ko'radi.",
+  "high school": "Men o'rta maktabda o'qiyman.",
+  "out of play": "To'p o'yindan tashqarida.",
+  "shortened": "\"Mum\" qisqartirilgan so'z.",
+  "unfriendly": "U do'stona emas.",
+  "yoga": "Men yoga bilan shug'ullanaman."
+ },
+ "A2": {
+  "babysitting": "Men bolalarga qarashni yaxshi ko'raman.",
+  "clique": "Men o'sha yopiq guruhga kirmayman.",
+  "gate": "Men darvoza oldida kutaman.",
+  "glamorous": "Bu dabdabali ziyofat.",
+  "glamour": "Gollivud hashamat va jozibaga to'la.",
+  "high school": "Mening o'rta maktabim katta.",
+  "out of play": "To'p o'yindan chiqib ketdi.",
+  "shortened": "U qisqartirilgan ismdan foydalanadi.",
+  "unfriendly": "It do'stona ko'rinmaydi.",
+  "yoga": "Yoga tinchlantiradi."
+ },
  "B1": {
   "babysitting": "Bola qarash talabalar uchun yaxshi ish.",
   "clique": "Maktabda bir yopiq guruh bor.",

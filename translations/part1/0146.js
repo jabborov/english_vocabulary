@@ -1,5 +1,47 @@
-// Part 1 topic 0146: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0146: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0146', {
+ "A1": {
+  "boot": "Bular mening yangi etiklarim.",
+  "disappointed": "Men hafsalam pir bo'ldi.",
+  "get dressed": "Iltimos, kiyining.",
+  "glove": "Menda ko'k qo'lqop bor.",
+  "grown": "U voyaga yetgan erkak.",
+  "little girl": "Kichkina qiz xursand.",
+  "look down": "Oyoqlaringizga qarang.",
+  "mitt": "Qo'lqoplaringizni kiying.",
+  "out loud": "So'zni ovoz chiqarib o'qing.",
+  "outburst": "Jahlim chiqib ketgani uchun afsuslandim.",
+  "putting": "Men sumkamni shu yerga qo'yyapman.",
+  "resemble": "Siz onangizga o'xshaysiz.",
+  "squish": "Tortni ezib qo'ymang!",
+  "talk out": "Keling, buni gaplashib hal qilaylik.",
+  "tantrum": "Bola do'konda injiqlik qildi.",
+  "toddle": "Chaqaloq endi tetapoya yura oladi.",
+  "toddler": "Kichkintoy to'p bilan o'ynayapti.",
+  "two": "O'g'lim ikki yoshda.",
+  "uncontrolled": "It nazoratsiz edi."
+ },
+ "A2": {
+  "boot": "Etiklaringizni kiying, yomg'ir yog'yapti.",
+  "disappointed": "U imtihon natijasidan hafsalasi pir bo'ldi.",
+  "get dressed": "Men soat yettida kiyinaman.",
+  "glove": "Qo'lqoplaringizni kiying, havo sovuq.",
+  "grown": "Uning bolalari hammasi katta bo'lib qolgan.",
+  "little girl": "Bog'da kichkina qiz o'ynayotgan edi.",
+  "look down": "U pastga qaradi va tanga ko'rdi.",
+  "mitt": "Uning qish uchun qizil qo'lqoplari bor.",
+  "out loud": "U hazilga ovoz chiqarib kuldi.",
+  "outburst": "Bolaning baqirib-chaqirishi juda baland edi.",
+  "putting": "U paltosini kiyyapti.",
+  "resemble": "Ikki opa-singil bir-biriga o'xshaydi.",
+  "squish": "U nonni ezib, sharcha qildi.",
+  "talk out": "Ular muammoni birgalikda gaplashib hal qilishdi.",
+  "tantrum": "Ukam charchaganda injiqlik qiladi.",
+  "toddle": "U dadasini ko'rish uchun eshik tomon tetapoya yurdi.",
+  "toddler": "Opamning kichkintoyi va yangi tug'ilgan chaqalog'i bor.",
+  "two": "Uning ikkita akasi bor.",
+  "uncontrolled": "Uning yig'isi to'xtamasdi."
+ },
  "B1": {
   "boot": "U oyog'ini etikka sig'dira olmadi.",
   "disappointed": "Yomg'ir yog'gani uchun bolalarning hafsalasi pir bo'ldi.",

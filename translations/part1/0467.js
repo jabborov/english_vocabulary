@@ -1,5 +1,23 @@
-// Part 1 topic 0467: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0467: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0467', {
+ "A1": {
+  "befriend": "U men bilan do'stlashdi.",
+  "orphan": "Bola yetim.",
+  "parentless": "Bola ota-onasiz.",
+  "posterity": "Buni kelajak avlodlar uchun saqlang.",
+  "registry": "Bu ro'yxatga olish idorasi.",
+  "securing": "Uyni muhofaza qilish muhim.",
+  "terrifying": "Film juda qo'rqinchli edi."
+ },
+ "A2": {
+  "befriend": "U yangi talabalar bilan do'stlashadi.",
+  "orphan": "U yetim edi.",
+  "parentless": "U ota-onasiz o'sgan.",
+  "posterity": "Buni kelajak avlodlar uchun saqlang.",
+  "registry": "Ro'yxatni tekshiring.",
+  "securing": "Ish topish qiyin.",
+  "terrifying": "Bu dahshatli hikoya."
+ },
  "B1": {
   "befriend": "Bola it bilan do'stlashadi.",
   "orphan": "Yetim filmning egasi yo'q.",

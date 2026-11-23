@@ -1,5 +1,43 @@
-// Part 1 topic 0491: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0491: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0491', {
+ "A1": {
+  "canal": "Kanalga qarang.",
+  "chemist": "U kimyogar.",
+  "chronological": "Ularni xronologik tartibda joylashtiring.",
+  "classical mythology": "Menga antik mifologiya yoqadi.",
+  "contraption": "U qanaqa moslama?",
+  "cornucopia": "Bu o'yinchoqlar xazinasi.",
+  "hot air": "Bu shunchaki quruq gap.",
+  "potter": "U kulol.",
+  "reassemble": "O'yinchoqni qaytadan yig'ing.",
+  "reassembled": "U qaytadan yig'ilgan.",
+  "rounded": "U har tomonlama yetuk.",
+  "steam engine": "Bu bug' mashinasi.",
+  "treasure trove": "Bu haqiqiy xazina.",
+  "trove": "Bu o'yinchoqlar xazinasi.",
+  "undisturbed": "Xonaga hech kim tegmagan edi.",
+  "unparalleled": "Bunga teng keladigani yo'q.",
+  "workshop": "Bu mening ustaxonam."
+ },
+ "A2": {
+  "canal": "Qayiq kanalda.",
+  "chemist": "Kimyogar laboratoriyada ishlaydi.",
+  "chronological": "Bu xronologik ro'yxat.",
+  "classical mythology": "Zevs antik mifologiya qahramoni.",
+  "contraption": "U bir moslama yasadi.",
+  "cornucopia": "Bozor to'kin-sochinlik maskani.",
+  "hot air": "Bularning hammasi quruq gap edi.",
+  "potter": "Kulol kosa yasadi.",
+  "reassemble": "U velosipedni qaytadan yig'di.",
+  "reassembled": "Qaytadan yig'ilgan o'yinchoq ishlaydi.",
+  "rounded": "U har tomonlama yetuk talaba.",
+  "steam engine": "Bug' mashinasi eski.",
+  "treasure trove": "Chordoq haqiqiy xazina bo'lib chiqdi.",
+  "trove": "Ular xazina topishdi.",
+  "undisturbed": "U hech narsa bezovta qilmay uxladi.",
+  "unparalleled": "Uning mahoratiga teng keladigani yo'q.",
+  "workshop": "U ustaxonada ishlaydi."
+ },
  "B1": {
   "canal": "Biz kanal bo'ylab sayr qildik.",
   "chemist": "Amakim kimyogar.",

@@ -1,5 +1,23 @@
-// Part 1 topic 0183: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0183: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0183', {
+ "A1": {
+  "determination": "Uning qat'iyati juda kuchli.",
+  "edit": "Iltimos, inshoimni tahrirlang.",
+  "frosty": "Ayozli tong edi.",
+  "go wrong": "Nimadir noto'g'ri ketdi.",
+  "milkshake": "Men milkshake xohlayman.",
+  "presenting": "Men taqdimot qilishni yaxshi ko'raman.",
+  "reception": "Bizni iliq kutib olishdi."
+ },
+ "A2": {
+  "determination": "Qat'iyat bilan g'alaba qozonishingiz mumkin.",
+  "edit": "U videolarni tahrirlaydi.",
+  "frosty": "U menga sovuq nigoh tashladi.",
+  "go wrong": "Nima noto'g'ri ketdi?",
+  "milkshake": "Bu milkshake sovuq.",
+  "presenting": "U ko'rsatuvni olib borishni juda yaxshi ko'radi.",
+  "reception": "Film yaxshi kutib olindi."
+ },
  "B1": {
   "determination": "Qat'iyati unga muvaffaqiyatga erishishda yordam berdi.",
   "edit": "U maqolani chop etilishidan oldin tahrir qildi.",

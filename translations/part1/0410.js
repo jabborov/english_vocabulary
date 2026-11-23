@@ -1,5 +1,21 @@
-// Part 1 topic 0410: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0410: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0410', {
+ "A1": {
+  "glum": "U ma'yus ko'rinadi.",
+  "happiest": "Bu mening eng baxtli kunim.",
+  "hectic": "Kunim juda tig'iz o'tdi.",
+  "materialistic": "U moddiyatparast odam.",
+  "rewarding": "Ishim menga qoniqish bag'ishlaydi.",
+  "wiser": "U endi dono bo'lib qoldi."
+ },
+ "A2": {
+  "glum": "Ma'yus bo'lma.",
+  "happiest": "U uyda o'zini eng baxtli his qiladi.",
+  "hectic": "Bu juda tig'iz hafta.",
+  "materialistic": "Bunchalik moddiyatparast bo'lma.",
+  "rewarding": "Bu sermazmun va qoniqarli kun bo'ldi.",
+  "wiser": "Keksalar ko'pincha donoroq bo'lishadi."
+ },
  "B1": {
   "glum": "Testdan keyin u tushkun kayfiyatda edi.",
   "happiest": "U bolaligida eng baxtli bo'lgan.",

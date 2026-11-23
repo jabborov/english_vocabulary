@@ -1,5 +1,43 @@
-// Part 2 topic 0033: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0033: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0033', {
+ "A1": {
+  "amaxophobia": "Amaksofobiya mashinalardan qo'rqishdir.",
+  "approach": "Menga uning yondashuvi yoqadi.",
+  "autophobia": "Autofobiya bu qo'rquv turi.",
+  "carnophobia": "Karnofobiya go'shtdan qo'rqishdir.",
+  "cutthroat": "Bu shafqatsiz o'yin.",
+  "drive off": "U mashinasini haydab ketib qoldi.",
+  "either": "Men ham mashina hayday olmayman.",
+  "go through": "Men har kuni yozuvlarimni ko'rib chiqaman.",
+  "heard of": "Men u haqida eshitganman.",
+  "learn off": "Men onamdan o'rganaman.",
+  "manoeuvre": "Mashinani to'xtash joyiga qo'yish qiyin harakat.",
+  "owning": "Mashinaga ega bo'lish qimmatga tushadi.",
+  "rely on": "Men onamga tayanaman.",
+  "service-orientated": "Bu do'kon xizmat ko'rsatishga yo'naltirilgan.",
+  "slump": "Savdoda keskin pasayish bor.",
+  "take me back": "Bu qo'shiq meni o'tmishga qaytaradi.",
+  "wind down": "Ishdan keyin men dam olib, bo'shashaman."
+ },
+ "A2": {
+  "amaxophobia": "Dugonamda amaksofobiya bor, shuning uchun u hech qachon mashina haydamaydi.",
+  "approach": "Uning o'qitishga yondashuvi juda vazmin.",
+  "autophobia": "Autofobiyasi bor odamlar yolg'iz qolishni yoqtirmaydi.",
+  "carnophobia": "Unda karnofobiya bor, shuning uchun u faqat sabzavot yeydi.",
+  "cutthroat": "Taksi biznesida raqobat juda shafqatsiz.",
+  "drive off": "U mashinaga o'tirdi-da, haydab ketdi.",
+  "either": "Uning ham mashinasi yo'q.",
+  "go through": "U o'tgan yili og'ir davrni boshidan kechirdi.",
+  "heard of": "Bu haydovchilik maktabi haqida eshitganmisiz?",
+  "learn off": "U ovqat pishirishni buvisidan o'rgandi.",
+  "manoeuvre": "Mashinani to'xtash joyiga qo'yishni dadam bilan mashq qildim.",
+  "owning": "U yaxshi velosipedga ega bo'lishni yoqtiradi.",
+  "rely on": "Maktabga borish uchun avtobusga tayanamiz.",
+  "service-orientated": "Bizga xizmat ko'rsatishga ko'proq yo'naltirilgan jamoa kerak.",
+  "slump": "Bu yil avtomobil savdosi keskin pasaydi.",
+  "take me back": "Bu suratlar meni bolaligimga qaytaradi.",
+  "wind down": "U musiqa tinglab dam olishni yaxshi ko'radi."
+ },
  "B1": {
   "amaxophobia": "Amaksofobiya odamlarning haydovchilik guvohnomasi olishiga to'sqinlik qilishi mumkin.",
   "approach": "Instruktorimning do'stona yondashuvi menga xotirjam bo'lishga yordam berdi.",

@@ -1,5 +1,23 @@
-// Part 1 topic 0431: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0431: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0431', {
+ "A1": {
+  "defeatist": "Bunchalik tushkunlikka berilma!",
+  "mental exhaustion": "U ruhan butunlay holdan toygan.",
+  "overloaded": "Bugun o'zimni ortiqcha yuklangandek his qilyapman.",
+  "overwhelmed": "Men o'zimni juda ezilgandek his qilyapman.",
+  "restful": "Bog' kishiga orom beradi.",
+  "sharpen": "Uyqu fikringizni o'tkirlashtirishi mumkin.",
+  "take a breath": "Nafas oling va bo'shashing."
+ },
+ "A2": {
+  "defeatist": "Bu tushkunlikka berilgan munosabat.",
+  "mental exhaustion": "Haddan ortiq ish ruhiy holsizlikka olib keladi.",
+  "overloaded": "O'qituvchining ishi boshidan oshib ketgan.",
+  "overwhelmed": "Ish uni butunlay ezib qo'ydi.",
+  "restful": "Biz orombaxsh ta'tilni o'tkazdik.",
+  "sharpen": "Qahva diqqatimni o'tkirlashtiradi.",
+  "take a breath": "U chuqur nafas oldi."
+ },
  "B1": {
   "defeatist": "U imtihonlari haqida umidsiz ohangda gapirdi.",
   "mental exhaustion": "Aqliy charchoq fikrlashni qiyinlashtiradi.",

@@ -1,5 +1,45 @@
-// Part 1 topic 0493: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0493: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0493', {
+ "A1": {
+  "Antony": "Antonining mashinasi bor.",
+  "GPS": "Telefonimda GPS bor.",
+  "accidental": "Bu tasodifiy edi.",
+  "alarmingly": "U xavotirli darajada tez.",
+  "archway": "Ravoq ostidan o'ting.",
+  "drive down": "Ko'cha bo'ylab haydang.",
+  "high ground": "Uy tepalikda joylashgan.",
+  "inland": "Biz ichkari hududga qarab yurdik.",
+  "jammed": "Eshik tiqilib qolgan.",
+  "mayhem": "Bu to's-to'polon edi.",
+  "positioning": "Joylashuvni aniqlash muhim.",
+  "reliant": "Men telefonimga qaramman.",
+  "reverse on": "U orqaga yurib yo'lga chiqdi.",
+  "sat": "Menda sun'iy yo'ldosh navigatori bor.",
+  "shortening": "Yo'lning qisqartirilishi yordam berdi.",
+  "steep": "Tepalik tik.",
+  "subtly": "U sezilar-sezilmas jilmaydi.",
+  "transmitter": "Bu uzatgich."
+ },
+ "A2": {
+  "Antony": "Antoni ko'p mashina haydaydi.",
+  "GPS": "GPSni yoqing.",
+  "accidental": "Bu tasodifiy yong'in edi.",
+  "alarmingly": "Narxlar xavotirli darajada oshdi.",
+  "archway": "Ravoq qadimiy.",
+  "drive down": "Biz tepalikdan pastga haydab tushdik.",
+  "high ground": "Balandlikka chiqing.",
+  "inland": "Ular ichki hududda yashashadi.",
+  "jammed": "Mashina tiqilib qolgan edi.",
+  "mayhem": "Bolalar to's-to'polon qilishdi.",
+  "positioning": "Joylashuv noto'g'ri.",
+  "reliant": "U mashinasiga qaram.",
+  "reverse on": "Maysa ustida orqaga haydamang.",
+  "sat": "Sun'iy yo'ldosh navigatori yangi.",
+  "shortening": "Biz navbatning qisqarishini xohlaymiz.",
+  "steep": "Bu tik yo'l.",
+  "subtly": "U buni sezdirmay o'zgartirdi.",
+  "transmitter": "Uzatgich buzilgan."
+ },
  "B1": {
   "Antony": "Antoni sun'iy yo'ldosh navigatoridan foydalanadi.",
   "GPS": "GPS noto'g'ri ko'rsatyapti.",

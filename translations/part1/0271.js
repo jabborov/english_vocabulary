@@ -1,5 +1,33 @@
-// Part 1 topic 0271: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0271: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0271', {
+ "A1": {
+  "chronicle": "Kitob urush solnomasidir.",
+  "column": "U har haftalik ustun maqola yozadi.",
+  "decease": "\"Decease\" so'zi o'lim degan ma'noni bildiradi.",
+  "deceased": "Uning ota-onasi vafot etgan.",
+  "dedicated": "U fidoyi o'qituvchi.",
+  "good story": "Bu yaxshi hikoya.",
+  "impartially": "O'qituvchi testlarni xolis baholaydi.",
+  "journalism": "U jurnalistikani o'qimoqchi.",
+  "rant": "U futbol haqida jahl bilan uzundan-uzoq gapirishni yaxshi ko'radi.",
+  "submit": "Uy vazifangizni juma kuni topshiring.",
+  "targeted": "Telefonimda menga mo'ljallangan reklamalarni ko'raman.",
+  "unobjective": "Bu hisobot xolis emas."
+ },
+ "A2": {
+  "chronicle": "U sayohatlarini kundalikka yozib bordi.",
+  "column": "Menga sport ruknini o'qish yoqadi.",
+  "decease": "Bu o'lim degan so'zning rasmiy shakli.",
+  "deceased": "Marhum o'qituvchi bo'lgan.",
+  "dedicated": "U sadoqatli muxlis.",
+  "good story": "Menga yaxshi bir hikoya aytib ber.",
+  "impartially": "Sudyalar xolis ish tutishlari shart.",
+  "journalism": "Jurnalistika qiziqarli kasb.",
+  "rant": "U avtobus haqida jahl bilan uzundan-uzoq gapirdi.",
+  "submit": "U suratini gazetaga yubordi.",
+  "targeted": "Bu aniq auditoriyaga mo'ljallangan xabar.",
+  "unobjective": "Uning qarashi xolis emas."
+ },
  "B1": {
   "chronicle": "Mahalliy gazetalar tug'ilish, to'y va o'lim haqidagi xabarlarni qayd etib boradi.",
   "column": "Uning ruknida pul borasida maslahatlar beriladi.",

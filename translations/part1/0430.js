@@ -1,5 +1,27 @@
-// Part 1 topic 0430: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0430: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0430', {
+ "A1": {
+  "accustom": "Men sovuqqa ko'nikishim kerak.",
+  "differ": "Bizning fikrlarimiz farq qiladi.",
+  "herder": "Cho'ponning qo'ylari ko'p.",
+  "low temperature": "Muz past haroratda hosil bo'ladi.",
+  "place of birth": "Tug'ilgan joyingizni shu yerga yozing.",
+  "reindeer": "Shimol bug'usining katta shoxlari bor.",
+  "shaky": "Oyoqlarim qaltirayapti.",
+  "subjectively": "Subyektiv jihatdan o'zimni yaxshi his qilyapman.",
+  "wrapped up": "Issiq kiyinib yuring. Havo sovuq!"
+ },
+ "A2": {
+  "accustom": "Ko'zlarimiz qorong'ilikka o'rganib qoldi.",
+  "differ": "Ikki mashina rangi bilan farq qiladi.",
+  "herder": "Cho'pon hayvonlarga qaraydi.",
+  "low temperature": "Sutni past haroratda saqlang.",
+  "place of birth": "Mening tug'ilgan joyim Toshkent.",
+  "reindeer": "Shimol bug'ulari sovuq joylarda yashaydi.",
+  "shaky": "Uning ovozi titrardi.",
+  "subjectively": "U rasmga subyektiv baho berdi.",
+  "wrapped up": "Chaqaloq issiq qilib o'rab qo'yilgan."
+ },
  "B1": {
   "accustom": "U yangi ishiga ko'nikishga harakat qildi.",
   "differ": "Odamlar nimani yeyishni yoqtirishi bo'yicha bir-biridan farq qiladi.",

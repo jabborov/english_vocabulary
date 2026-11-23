@@ -1,5 +1,27 @@
-// Part 1 topic 0468: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0468: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0468', {
+ "A1": {
+  "cognisant": "U bundan xabardor.",
+  "emailing": "Elektron pochta orqali yozish tez.",
+  "embedding": "Rasmni joylashtirish oson.",
+  "implanting": "G'oyalarni singdirish qiyin.",
+  "keeping": "Qayd yuritish yordam beradi.",
+  "lazily": "U erinib o'tirdi.",
+  "managing": "Vaqtni boshqarish qiyin.",
+  "messaging": "Menga xabar yozishish yoqadi.",
+  "spam": "Menga ko'p spam keladi."
+ },
+ "A2": {
+  "cognisant": "Qoidalardan xabardor bo'ling.",
+  "emailing": "Men soatlab elektron xat yozaman.",
+  "embedding": "Videolarni joylashtirish vaqt oladi.",
+  "implanting": "Chip o'rnatish yangilik.",
+  "keeping": "Elektron xatlarni saqlab qo'yish foydali.",
+  "lazily": "Mushuk erinib harakatlandi.",
+  "managing": "Pulni boshqarish muhim.",
+  "messaging": "Xabar almashish tez.",
+  "spam": "Spamni o'chirib tashlang."
+ },
  "B1": {
   "cognisant": "U muammodan xabardor edi.",
   "emailing": "Elektron xat yozish ishimning bir qismi.",

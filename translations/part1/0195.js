@@ -1,5 +1,43 @@
-// Part 1 topic 0195: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0195: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0195', {
+ "A1": {
+  "Bhutan": "Butan kichik davlat.",
+  "at any cost": "Biz har qanday holatda ham g'alaba qozonishimiz kerak.",
+  "brain drain": "Kadrlar chet elga oqib ketmoqda.",
+  "briefly": "U qisqacha gapirdi.",
+  "centre stage": "U diqqat markazida.",
+  "colonised": "Bu yer mustamlaka qilingan.",
+  "economic growth": "Bizga iqtisodiy o'sish kerak.",
+  "educated": "U juda bilimli.",
+  "hemisphere": "Biz shimoliy yarimsharda yashaymiz.",
+  "intact": "Quti butun.",
+  "interactive": "Bu interaktiv o'yin.",
+  "modernise": "Biz modernizatsiya qilishimiz kerak.",
+  "spiritual": "U ma'naviyatli inson.",
+  "tho": "Lekin bu yoqimli.",
+  "undamaged": "Mashina shikastlanmagan.",
+  "unspoiled": "Plyaj o'z tabiiy holicha saqlangan.",
+  "vibrant": "Shahar hayotga to'la."
+ },
+ "A2": {
+  "Bhutan": "Butan Osiyoda joylashgan.",
+  "at any cost": "U har qanday yo'l bilan pul topmoqchi.",
+  "brain drain": "Iqtidorli kadrlarning chet elga ketishi muammo.",
+  "briefly": "U do'konga qisqa muddatga kirib o'tdi.",
+  "centre stage": "Qo'shiqchi sahnaning markazida turdi.",
+  "colonised": "Ko'plab mamlakatlar mustamlakaga aylantirilgan.",
+  "economic growth": "Iqtisodiy o'sish sekin edi.",
+  "educated": "U bilimli odam.",
+  "hemisphere": "Avstraliya janubiy yarimsharda joylashgan.",
+  "intact": "Eski uy hali ham butun saqlangan.",
+  "interactive": "Dars interaktiv o'tdi.",
+  "modernise": "Ular eski maktabni zamonaviylashtirishdi.",
+  "spiritual": "Bu muqaddas joy.",
+  "tho": "Qimmat bo'lsa ham, menga yoqadi.",
+  "undamaged": "Uy shikastlanmadi.",
+  "unspoiled": "Biz tabiati buzilmagan qishloqqa bordik.",
+  "vibrant": "U yorqin rangli ko'ylak kiygan edi."
+ },
  "B1": {
   "Bhutan": "Butanda tog'lar ko'p.",
   "at any cost": "Ular o'rmonni har qanday holatda ham himoya qilishadi.",

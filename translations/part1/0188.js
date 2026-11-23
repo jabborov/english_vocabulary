@@ -1,5 +1,33 @@
-// Part 1 topic 0188: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0188: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0188', {
+ "A1": {
+  "candidate": "U nomzod.",
+  "convincing": "U ishonarli gapiradi.",
+  "dressed": "Men kiyinib bo'ldim.",
+  "ho": "Xo-xo-xo!",
+  "jolly": "Qorbobo xushchaqchaq.",
+  "misjudge": "Men u haqda noto'g'ri fikrda bo'lganman.",
+  "portray": "U Qorbobo rolini ijro etadi.",
+  "reach down": "Engashib, uni olib qo'ying.",
+  "recreate": "Keling, bu suratni qayta yarataylik.",
+  "second thought": "O'ylab ko'rsam, qolaman.",
+  "smiley": "U juda ko'p jilmayadi.",
+  "spirt": "Yangi yil ruhini his eting!"
+ },
+ "A2": {
+  "candidate": "Beshta nomzod bor.",
+  "convincing": "Bu ishonarli hikoya edi.",
+  "dressed": "U qizil kiyingan.",
+  "ho": "Qorbobo \"Xo-xo-xo!\" deydi.",
+  "jolly": "Uning yuzi xushchaqchaq.",
+  "misjudge": "Odamlar haqida noto'g'ri xulosa chiqarmang.",
+  "portray": "U filmda qirolicha rolini ijro etadi.",
+  "reach down": "U o'yinchoqni olish uchun engashdi.",
+  "recreate": "Ular eski uyni qayta tiklashdi.",
+  "second thought": "Men ikkilanib qoldim.",
+  "smiley": "Uning yuzi doim jilmayib turadi.",
+  "spirt": "Unda Yangi yil kayfiyati bor."
+ },
  "B1": {
   "candidate": "U bu ish uchun munosib nomzod.",
   "convincing": "U ishonarli javob berdi.",

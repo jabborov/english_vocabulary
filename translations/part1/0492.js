@@ -1,5 +1,25 @@
-// Part 1 topic 0492: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0492: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0492', {
+ "A1": {
+  "alertness": "Qahva hushyorlikka yordam beradi.",
+  "massacre": "Bu qirg'in edi.",
+  "observable": "Buni kuzatish mumkin.",
+  "phenomenally": "U g'oyat ajoyib.",
+  "recovery": "Sizga tezroq tuzalib ketishingizni tilayman.",
+  "sleep with": "Men ayiqcha o'yinchoq bilan uxlayman.",
+  "traumatise": "Film menga ruhiy jarohat yetkazdi.",
+  "war zone": "Bu urush hududi."
+ },
+ "A2": {
+  "alertness": "Uning hushyorligi yaxshi edi.",
+  "massacre": "Qirg'in dahshatli edi.",
+  "observable": "Sezilarli o'zgarish bor edi.",
+  "phenomenally": "Bu aql bovar qilmas darajada tez edi.",
+  "recovery": "Uning tuzalishi sekin kechdi.",
+  "sleep with": "U chiroqni yoqib uxlaydi.",
+  "traumatise": "Urush bolalarga ruhiy jarohat yetkazadi.",
+  "war zone": "Ular urush hududini tark etishdi."
+ },
  "B1": {
   "alertness": "Mashina haydashda hushyorlik muhim.",
   "massacre": "Ular qirg'inni xotirlashadi.",

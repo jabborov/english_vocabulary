@@ -1,5 +1,33 @@
-// Part 1 topic 0308: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0308: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0308', {
+ "A1": {
+  "dwarf": "Minora cherkovni juda kichik qilib ko'rsatadi.",
+  "ground level": "Do'kon birinchi qavatda.",
+  "halt": "Avtobus to'xtadi.",
+  "incoming": "Kiruvchi qo'ng'iroqqa javob bering.",
+  "irreverent": "Uning uslubi beparvo va hurmatsiz.",
+  "irreverently": "U hurmatsizlarcha gapirdi.",
+  "modest": "Bu kamtarona uy.",
+  "nonetheless": "Qiyin edi. Shunga qaramay, men buni uddaladim.",
+  "obstruct": "Eshikni to'smang.",
+  "respectful": "Hurmatli bo'l.",
+  "thoughtlessly": "U o'ylamasdan harakat qildi.",
+  "throw up": "Ular shoshilinch devor tikladilar."
+ },
+ "A2": {
+  "dwarf": "Katta daraxtlar yonida uy juda kichik ko'rinadi.",
+  "ground level": "Unga yer sathidan qarang.",
+  "halt": "Ish to'xtab qoldi.",
+  "incoming": "Kiruvchi xatlarni tekshiring.",
+  "irreverent": "Bu odob doirasidan chiqqan hazil edi.",
+  "irreverently": "Ular hurmatsizlarcha kulishdi.",
+  "modest": "U kamtarona hayot kechiradi.",
+  "nonetheless": "U charchagan, lekin shunga qaramay xursand edi.",
+  "obstruct": "Daraxt manzarani to'sib qo'yadi.",
+  "respectful": "U o'qituvchisiga hurmat bilan munosabatda bo'ladi.",
+  "thoughtlessly": "U o'ylamasdan gapirdi.",
+  "throw up": "U kechki ovqatdan keyin qusib yubordi."
+ },
  "B1": {
   "dwarf": "Kema yonida qayiqlar juda kichkina ko'rinardi.",
   "ground level": "Eshik yer sathida joylashgan.",

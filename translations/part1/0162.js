@@ -1,5 +1,41 @@
-// Part 1 topic 0162: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0162: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0162', {
+ "A1": {
+  "cool off": "Keling, salqinlab olaylik.",
+  "counsellor": "U maslahatchi.",
+  "divorce": "Ular ajrashishdi.",
+  "divorce lawyer": "U ajrashish bo'yicha advokat.",
+  "enforce": "Politsiya qonun ijrosini ta'minlaydi.",
+  "intervene": "O'qituvchi aralashdi.",
+  "invariably": "U doimo kechikadi.",
+  "lawyer": "Onam advokat.",
+  "marina": "Qayiqlar marinada turibdi.",
+  "married": "Siz uylanganmisiz?",
+  "married couple": "Ular er-xotin.",
+  "reverse": "Vaqtni orqaga qaytarib bo'lmaydi.",
+  "satisfactory": "Ish qoniqarli.",
+  "take care": "O'zingizni ehtiyot qiling!",
+  "trapped": "Mushuk qamalib qolgan.",
+  "unresolvable": "Muammoni hal qilib bo'lmaydi."
+ },
+ "A2": {
+  "cool off": "Tashqariga chiqib, biroz soviging.",
+  "counsellor": "Men psixolog-maslahatchi bilan gaplashdim.",
+  "divorce": "Ota-onam ajrashgan.",
+  "divorce lawyer": "U ajrashish bo'yicha advokatga qo'ng'iroq qildi.",
+  "enforce": "Ular qoidalarga rioya qilinishini ta'minlashadi.",
+  "intervene": "Ularning janjaliga aralashmang.",
+  "invariably": "U har doim mehribon.",
+  "lawyer": "Bizga advokat kerak.",
+  "marina": "Biz marina yonidan yurib o'tdik.",
+  "married": "Opam turmushga chiqqan.",
+  "married couple": "Qo'shni uyda er-xotin yashaydi.",
+  "reverse": "Ular qarorni bekor qilishdi.",
+  "satisfactory": "Uning javobi qoniqarli edi.",
+  "take care": "Singlingizga g'amxo'rlik qiling.",
+  "trapped": "Uyda o'zimni qafasdagidek his qilyapman.",
+  "unresolvable": "Ularning janjali hal qilib bo'lmaydigan edi."
+ },
  "B1": {
   "cool off": "Janjaldan keyin unga hovuridan tushish uchun vaqt kerak edi.",
   "counsellor": "Maslahatchi odamlarning muammolarini tinglaydi.",

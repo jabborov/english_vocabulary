@@ -1,5 +1,31 @@
-// Part 1 topic 0277: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0277: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0277', {
+ "A1": {
+  "adhere": "Qoidalarga rioya qiling.",
+  "bravado": "Bu shunchaki kerilish.",
+  "do one's best": "Men doim qo'limdan kelganini qilaman.",
+  "hold down": "Tugmani bosib turing.",
+  "marker": "Marker ruchkadan foydalaning.",
+  "masculinity": "Erkaklik nima?",
+  "misshapen": "Olmaning shakli buzilgan.",
+  "rigid": "Qoidalar qat'iy.",
+  "twenty": "Men yigirma yoshdaman.",
+  "unknowingly": "U buni bilmagan holda qildi.",
+  "unnatural": "Bu g'ayritabiiy."
+ },
+ "A2": {
+  "adhere": "Iltimos, rejaga amal qiling.",
+  "bravado": "U kerilib, o'zini mard qilib ko'rsatib gapirdi.",
+  "do one's best": "Shunchaki qo'lingdan kelganini qil.",
+  "hold down": "U bitta ishda uzoq ushlanib turolmaydi.",
+  "marker": "Bu yoshning belgisi.",
+  "masculinity": "Erkaklik turlicha ma'noni anglatadi.",
+  "misshapen": "Qutining shakli buzilgan edi.",
+  "rigid": "Bu plastik qattiq va egilmaydi.",
+  "twenty": "Yigirma nafar o'quvchi bor.",
+  "unknowingly": "U bilmasdan ruchkamni olib qo'ydi.",
+  "unnatural": "Rang g'ayritabiiy ko'rinadi."
+ },
  "B1": {
   "adhere": "U qat'iy parhezga rioya qiladi.",
   "bravado": "Uning o'zini dadil ko'rsatishi qo'rquvini yashirib turardi.",

@@ -1,5 +1,23 @@
-// Part 1 topic 0399: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0399: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0399', {
+ "A1": {
+  "hyperbole": "Bu mubolag'a.",
+  "mare": "Bugun dahshatli kun bo'ldi.",
+  "miff": "Uning jahli chiqdi.",
+  "misunderstood": "Meni noto'g'ri tushunishdi.",
+  "overthrow": "Ular qirolni taxtdan ag'darishdi.",
+  "quarrel": "Ular janjallashib qolishdi.",
+  "sardonic": "Uning kinoyali tabassumi bor."
+ },
+ "A2": {
+  "hyperbole": "U mubolag'a qilishni yaxshi ko'radi.",
+  "mare": "Tirbandlik dahshatli edi.",
+  "miff": "Men biroz xafa bo'ldim.",
+  "misunderstood": "U o'zini tushunilmagandek his qiladi.",
+  "overthrow": "Armiya prezidentni hokimiyatdan ag'dardi.",
+  "quarrel": "Bizda kichik janjal bo'ldi.",
+  "sardonic": "Uning ovozi kinoyali eshitildi."
+ },
  "B1": {
   "hyperbole": "\"Ochlikdan o'lyapman\" degan gap ko'pincha shunchaki mubolag'a.",
   "mare": "Aeroportda boshimga kulfat tushdi - sumkam yo'qolib qoldi.",

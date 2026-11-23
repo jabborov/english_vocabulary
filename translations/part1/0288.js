@@ -1,5 +1,41 @@
-// Part 1 topic 0288: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0288: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0288', {
+ "A1": {
+  "big bucks": "U katta pul topadi.",
+  "blindness": "Ko'rlik ayanchli holat.",
+  "blood sugar": "Qondagi qand miqdorini tekshiring.",
+  "breast feeding": "Ko'krak suti bilan emizish tabiiy.",
+  "can": "Menga bir banka kola kerak.",
+  "continuum": "Bu uzluksiz ketma-ketlikning bir qismi.",
+  "diabetic": "U qandli diabet bilan og'rigan.",
+  "feeding": "Ovqatlantirish vaqti bo'ldi.",
+  "heart attack": "U yurak xurujini boshdan kechirdi.",
+  "herbal": "Bu o'simliklardan tayyorlangan dori.",
+  "herbal tea": "Men o'tlardan tayyorlangan choy ichaman.",
+  "hydrate": "Sportdan keyin suv iching.",
+  "joint": "Tizza bo'g'imim og'riyapti.",
+  "kidney failure": "Buyrak yetishmovchiligi jiddiy kasallik.",
+  "physical exercise": "Jismoniy mashqlar foydali.",
+  "run around": "Bolalar u yoqdan bu yoqqa yugurishni yaxshi ko'rishadi."
+ },
+ "A2": {
+  "big bucks": "U mashina katta pul turadi.",
+  "blindness": "Ko'rlik kasallik tufayli kelib chiqishi mumkin.",
+  "blood sugar": "Qonimdagi qand miqdori yuqori.",
+  "breast feeding": "U ko'krak suti bilan emizyapti.",
+  "can": "Bankani oching.",
+  "continuum": "Sog'liq uzluksiz o'zgarib turadigan holatdir.",
+  "diabetic": "Bu qandli diabet bilan og'riganlar uchun ovqat.",
+  "feeding": "Chaqaloqni ovqatlantirish kerak.",
+  "heart attack": "Yurak xuruji xavfli.",
+  "herbal": "Men o'simliklardan tayyorlangan ichimliklarni yaxshi ko'raman.",
+  "herbal tea": "Bu o'tlardan tayyorlangan choy yoqimli.",
+  "hydrate": "Organizmni suv bilan ta'minlash uchun suv iching.",
+  "joint": "Tirsak bo'g'imdir.",
+  "kidney failure": "Uning buyrak yetishmovchiligi bor.",
+  "physical exercise": "Men jismoniy mashqlar bilan shug'ullanaman.",
+  "run around": "It bog'da u yoqdan bu yoqqa yuguradi."
+ },
  "B1": {
   "big bucks": "Gazli ichimlik ishlab chiqaruvchi kompaniyalar katta pul ishlashadi.",
   "blindness": "Qandli diabet davolanmasa, ko'rlikka olib kelishi mumkin.",

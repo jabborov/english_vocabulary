@@ -1,5 +1,35 @@
-// Part 1 topic 0460: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0460: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0460', {
+ "A1": {
+  "Glenn": "Glenn astronavt edi.",
+  "VIP": "U juda muhim shaxs.",
+  "back and forth": "U u yoqdan bu yoqqa yurdi.",
+  "circle round": "Qushlar aylanib uchmoqda.",
+  "fiftieth": "Bugun uning ellik yoshga to'lgan kuni.",
+  "known": "U taniqli.",
+  "mouthful": "Bu so'zni talaffuz qilish qiyin.",
+  "publicise": "Ular shouni keng targ'ib qilishdi.",
+  "space age": "Biz koinot asrida yashayapmiz.",
+  "sprightly": "Bobom tetik va g'ayratli.",
+  "spring chicken": "Men endi yosh emasman.",
+  "supremacy": "Ular ustunlikka intilishgan.",
+  "touch on": "U mavzuga qisqacha to'xtalib o'tdi."
+ },
+ "A2": {
+  "Glenn": "Glenn 1962-yilda parvoz qilgan.",
+  "VIP": "Muhim mehmonlar oldinda o'tirishdi.",
+  "back and forth": "It u yoqdan bu yoqqa yugurdi.",
+  "circle round": "Samolyot aylanib uchdi.",
+  "fiftieth": "Bu ellikinchi marta!",
+  "known": "Bu ma'lum fakt.",
+  "mouthful": "Uning ismini aytish qiyin.",
+  "publicise": "Biz tadbirni keng targ'ib qilishimiz kerak.",
+  "space age": "Koinot asri ancha oldin boshlangan.",
+  "sprightly": "U tetik keksa ayol.",
+  "spring chicken": "Buvim endi yosh emas.",
+  "supremacy": "Bu ustunlik uchun kurash edi.",
+  "touch on": "U o'tmishiga qisqacha to'xtaldi."
+ },
  "B1": {
   "Glenn": "Glenn Yer atrofini uch marta aylanib chiqdi.",
   "VIP": "Yuqori martabali mehmonlar uchun maxsus xona bor.",

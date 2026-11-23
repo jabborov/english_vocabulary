@@ -1,5 +1,23 @@
-// Part 1 topic 0507: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0507: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0507', {
+ "A1": {
+  "contestant": "U tanlov ishtirokchisi.",
+  "divorced": "Ota-onam ajrashgan.",
+  "engagement ring": "Unashtiruv uzugimga qarang!",
+  "pawn": "Piyodani yuring.",
+  "read about": "Men bu haqda o'qidim.",
+  "spare time": "Bo'sh vaqtimda kitob o'qiyman.",
+  "wary": "Mushuk ehtiyotkor."
+ },
+ "A2": {
+  "contestant": "Ishtirokchi tez javob berdi.",
+  "divorced": "U ajrashgan.",
+  "engagement ring": "Bu unashtiruv uzugi.",
+  "pawn": "Piyoda shaxmat donasidir.",
+  "read about": "U itlar haqida o'qidi.",
+  "spare time": "Bo'sh vaqtim ko'p emas.",
+  "wary": "Notanish odamlardan ehtiyot bo'ling."
+ },
  "B1": {
   "contestant": "Shouda o'nta ishtirokchi bor.",
   "divorced": "Ular o'tgan yili ajrashishdi.",

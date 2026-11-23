@@ -1,5 +1,47 @@
-// Part 1 topic 0247: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0247: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0247', {
+ "A1": {
+  "Vietnamese": "Men Vyetnam taomlarini yaxshi ko'raman.",
+  "banter": "Biz bir-birimiz bilan hazillashib turamiz.",
+  "bin": "Uni axlat qutisiga tashla.",
+  "break in": "O'g'rilar uyga bostirib kirishdi.",
+  "ditch": "O'sha eski sumkani tashlab yubor.",
+  "functional": "Bu amaliy va qulay.",
+  "get along": "Biz yaxshi chiqishamiz.",
+  "get the picture": "Tushundingmi?",
+  "goalie": "U bizning darvozabonimiz.",
+  "goalkeeper": "U darvozabon.",
+  "makeshift": "Bu vaqtincha yasalgan stol.",
+  "metaphorical": "Bu majoziy ma'noda.",
+  "polo": "Polo sport turidir.",
+  "polo shirt": "Men polo futbolka kiyaman.",
+  "run over": "Yig'ilish belgilangan vaqtdan cho'zilib ketdi.",
+  "team spirit": "Bizda jamoaviy ruh bor.",
+  "timeless": "Bu eskirmas qo'shiq.",
+  "utilitarian": "Xona faqat amaliy maqsadga mo'ljallangan.",
+  "yesterday": "Kecha band edim."
+ },
+ "A2": {
+  "Vietnamese": "Bu Vyetnam kafesi.",
+  "banter": "Ularning bir-biri bilan hazillashishi menga yoqadi.",
+  "bin": "Axlat qutisi to'la.",
+  "break in": "Kecha kechasi kimdir uyga bostirib kirdi.",
+  "ditch": "U mashinasini tashlab ketdi.",
+  "functional": "Dizayn amaliy va qulay.",
+  "get along": "Sizlar yaxshi chiqishasizlarmi?",
+  "get the picture": "Tushundim.",
+  "goalie": "Darvozabon sakradi.",
+  "goalkeeper": "Darvozabon to'pni ushlab oldi.",
+  "makeshift": "Biz vaqtincha to'shak yasadik.",
+  "metaphorical": "U majoziy tildan foydalandi.",
+  "polo": "Ular polo o'ynashadi.",
+  "polo shirt": "Uning polo futbolkasi ko'k rangda.",
+  "run over": "Mushukni bosib ketma!",
+  "team spirit": "Jamoaviy ruh yaxshi.",
+  "timeless": "Uning uslubi hech qachon eskirmaydi.",
+  "utilitarian": "Bu oddiy, amaliy sumka.",
+  "yesterday": "Kecha dushanba edi."
+ },
  "B1": {
   "Vietnamese": "U vyetnam tilida gaplashadi.",
   "banter": "Bu shunchaki hazil-mutoyiba edi.",

@@ -1,5 +1,45 @@
-// Part 1 topic 0237: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0237: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0237', {
+ "A1": {
+  "at first sight": "Bu birinchi ko'rishdayoq sevgi edi.",
+  "done for": "Ishim tamom!",
+  "flowing": "Daryo oqyapti.",
+  "helpless": "Chaqaloq ojiz bo'ladi.",
+  "misunderstanding": "Bu tushunmovchilik edi.",
+  "naked eye": "Uni oddiy ko'z bilan ko'rib bo'lmaydi.",
+  "nappy": "Taglikni almashtiring.",
+  "newborn": "Uning yangi tug'ilgan chaqalog'i bor.",
+  "newborn baby": "Yangi tug'ilgan chaqaloqqa qarang!",
+  "on purpose": "Buni ataylab qildingmi?",
+  "one hundred": "Menda yuzta stiker bor.",
+  "overused": "Bu so'z haddan tashqari ko'p ishlatiladi.",
+  "purposeful": "U juda maqsadli inson.",
+  "sleepless": "Kechasi uyqusiz o'tdi.",
+  "smoothly": "Hammasi silliq o'tdi.",
+  "starting": "Men maktabga borishni boshlayapman.",
+  "unoriginal": "Bu g'oya o'ziga xos emas.",
+  "write about": "Men o'z kunim haqida yozaman."
+ },
+ "A2": {
+  "at first sight": "Bir qarashda bu oson ko'rinadi.",
+  "done for": "Ishimiz tamom!",
+  "flowing": "Uning uzun, to'lqinsimon sochlari bor.",
+  "helpless": "O'zimni ojiz his qildim.",
+  "misunderstanding": "Tushunmovchilik uchun uzr.",
+  "naked eye": "Yulduzlarni oddiy ko'z bilan ko'rsa bo'ladi.",
+  "nappy": "Chaqaloqqa yangi taglik kerak.",
+  "newborn": "Yangi tug'ilgan chaqaloq kichkina.",
+  "newborn baby": "Yangi tug'ilgan chaqaloq uxlayapti.",
+  "on purpose": "U buni ataylab qildi.",
+  "one hundred": "Yuz kishi keldi.",
+  "overused": "Bu siyqasi chiqqan hazil.",
+  "purposeful": "U qat'iyat bilan yurib kirdi.",
+  "sleepless": "Bizning uyqusiz tunlarimiz bo'ldi.",
+  "smoothly": "Mashina ravon yuradi.",
+  "starting": "Bu start chizig'i.",
+  "unoriginal": "Qo'shiq o'ziga xos emas.",
+  "write about": "U hayvonlar haqida yozadi."
+ },
  "B1": {
   "at first sight": "Bir qarashda egizaklar bir xil ko'rinadi.",
   "done for": "Ishdan keyin holdan toygandek bo'ldim.",

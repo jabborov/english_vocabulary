@@ -1,5 +1,27 @@
-// Part 1 topic 0290: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0290: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0290', {
+ "A1": {
+  "Jay": "Uning ismi Jay.",
+  "Lego": "Men Legoni yaxshi ko'raman.",
+  "brick": "Bu o'yinchoq g'isht.",
+  "collecting": "Men kolleksiya yig'ishni yaxshi ko'raman.",
+  "cuddly": "Bu yumshoqqina, quchoqlagudek ayiqcha.",
+  "market price": "Bozor narxi qancha?",
+  "pillar": "Uyning katta ustunlari bor.",
+  "plush": "Bu yumshoq o'yinchoq.",
+  "secondary": "Bu o'rta maktab."
+ },
+ "A2": {
+  "Jay": "Jay o'yinchoqlarni yaxshi ko'radi.",
+  "Lego": "O'g'lim Lego bilan o'ynaydi.",
+  "brick": "Uy g'ishtdan qurilgan.",
+  "collecting": "Marka yig'ish qiziqarli.",
+  "cuddly": "Mushugim quchoqlagim keladigan darajada yumshoq.",
+  "market price": "Bozor narxi ko'tarildi.",
+  "pillar": "Ustun tomni ushlab turadi.",
+  "plush": "Men yumshoq o'yinchoq hayvonlarni yaxshi ko'raman.",
+  "secondary": "Narx ikkinchi darajali masala."
+ },
  "B1": {
   "Jay": "Jay Lego to'plamlarini yig'adi.",
   "Lego": "Biz Lego'dan kema yasadik.",

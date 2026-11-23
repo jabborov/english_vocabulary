@@ -1,5 +1,31 @@
-// Part 1 topic 0141: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0141: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0141', {
+ "A1": {
+  "comforting": "Issiq sho'rva ko'ngilga taskin beradi.",
+  "culture shock": "Men madaniy shokni boshdan kechirdim.",
+  "demarcation": "Chegara chizig'i bor.",
+  "dinner table": "Biz kechki ovqat stoli atrofida o'tiramiz.",
+  "get together": "Keling, bugun kechqurun yig'ilaylik.",
+  "mixed bag": "Ob-havo har xil: goh yaxshi, goh yomon.",
+  "overwhelmingly": "Javob asosan \"ha\" bo'ldi.",
+  "prominent": "U taniqli shifokor.",
+  "psychotherapist": "U psixoterapevt.",
+  "storyteller": "Buvim ertakchi.",
+  "uncertain": "Men ishonchim komil emas."
+ },
+ "A2": {
+  "comforting": "Uning ovozi taskin beradi.",
+  "culture shock": "Madaniy shok tez-tez uchraydi.",
+  "demarcation": "Chegara aniq.",
+  "dinner table": "Oilam har kuni kechqurun kechki ovqat stolida ovqatlanadi.",
+  "get together": "Biz juma kunlari yig'ilamiz.",
+  "mixed bag": "Filmlar har xil edi: yaxshisi ham, yomoni ham bor.",
+  "overwhelmingly": "Odamlarga ovqat deyarli bir ovozdan yoqdi.",
+  "prominent": "Belgi ko'zga tashlanadigan joyda.",
+  "psychotherapist": "U har hafta psixoterapevtga boradi.",
+  "storyteller": "U yaxshi hikoyachi.",
+  "uncertain": "Ob-havo noaniq."
+ },
  "B1": {
   "comforting": "Yana uyda bo'lish ko'ngilga taskin berardi.",
   "culture shock": "U yangi mamlakatida madaniy shokni boshdan kechirdi.",

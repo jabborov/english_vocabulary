@@ -1,5 +1,29 @@
-// Part 1 topic 0298: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0298: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0298', {
+ "A1": {
+  "bookcase": "Kitob javoni to'la.",
+  "existentialism": "Ekzistensializm falsafiy oqimdir.",
+  "materialism": "Moddiyatparastlik muammodir.",
+  "metaphysics": "Metafizika falsafaning bir qismi.",
+  "out of hand": "Ziyofat nazoratdan chiqib ketdi.",
+  "overlook": "Buni e'tibordan chetda qoldirmang.",
+  "peel": "Bananning po'stini arching.",
+  "peeler": "Bu po'st archish uchun pichoq.",
+  "schoolboy": "U maktab o'quvchisi.",
+  "sentimental": "Bu surat qadrdon xotiralarni uyg'otadi."
+ },
+ "A2": {
+  "bookcase": "Kitobni kitob javoniga qo'y.",
+  "existentialism": "U ekzistensializm haqida o'qiyapti.",
+  "materialism": "U moddiyatparastlikni yomon ko'radi.",
+  "metaphysics": "U metafizikani o'rganadi.",
+  "out of hand": "Vaziyat nazoratdan chiqib ketdi.",
+  "overlook": "Xonamizdan dengiz manzarasi ko'rinadi.",
+  "peel": "Men apelsin po'stini archidim.",
+  "peeler": "Menga po'st archish pichog'i kerak.",
+  "schoolboy": "Maktab o'quvchisi kechikdi.",
+  "sentimental": "U juda hissiyotli."
+ },
  "B1": {
   "bookcase": "Bizga yangi kitob javoni kerak.",
   "existentialism": "Sartr ekzistensializm haqida yozgan.",

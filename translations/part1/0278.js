@@ -1,5 +1,39 @@
-// Part 1 topic 0278: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0278: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0278', {
+ "A1": {
+  "Owen": "Do'stimning ismi Owen.",
+  "banking": "U bank sohasida ishlaydi.",
+  "banking system": "Bank tizimi muhim.",
+  "desalination": "Chuchuklashtirish suvdan tuzni ajratib oladi.",
+  "harvesting": "Hosil yig'ish og'ir mehnat.",
+  "homegrown": "Bular uyda yetishtirilgan pomidorlar.",
+  "ice cap": "Muz qoplami juda katta.",
+  "logistic": "Bu logistik muammo.",
+  "mitigate": "Daraxtlar issiqni yumshatadi.",
+  "mitigation": "Oqibatlarni yumshatish muhim.",
+  "rainwater": "Yomg'ir suvi tekin.",
+  "seawater": "Dengiz suvi sho'r.",
+  "unseasonably": "Bugun mavsumga xos bo'lmagan darajada iliq.",
+  "usable": "Bu suvdan foydalansa bo'ladi.",
+  "warm up": "Xona tez orada isiydi."
+ },
+ "A2": {
+  "Owen": "Owen o'qituvchi.",
+  "banking": "Onlayn bank xizmatlaridan foydalanish oson.",
+  "banking system": "Har bir mamlakatda bank tizimi bor.",
+  "desalination": "Bu suvni chuchuklashtirish zavodi.",
+  "harvesting": "Hosil yig'ish kuzda boshlanadi.",
+  "homegrown": "Men uyda yetishtirilgan mahsulotlarni yaxshi ko'raman.",
+  "ice cap": "Muz qoplamlari qutblarda joylashgan.",
+  "logistic": "Bizda logistik muammolar bor.",
+  "mitigate": "Biz zararni kamaytirishimiz kerak.",
+  "mitigation": "Bizga iqlim o'zgarishini yumshatish choralari kerak.",
+  "rainwater": "Biz yomg'ir suvini yig'amiz.",
+  "seawater": "Dengiz suvini ichmang.",
+  "unseasonably": "Ob-havo mavsumga xos bo'lmagan darajada sovuq.",
+  "usable": "Eski velosipeddan hali ham foydalansa bo'ladi.",
+  "warm up": "Keling, olov yonida isinaylik."
+ },
  "B1": {
   "Owen": "Owen ob-havo haqida gapirdi.",
   "banking": "Bank ishi katta soha hisoblanadi.",

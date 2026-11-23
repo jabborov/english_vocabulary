@@ -1,5 +1,35 @@
-// Part 1 topic 0439: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0439: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0439', {
+ "A1": {
+  "comprehensive": "Bu to'liq ro'yxat.",
+  "defence system": "Shaharda mudofaa tizimi bor.",
+  "deployment": "Joylashtirish bugun boshlanadi.",
+  "devise": "U o'yin o'ylab topdi.",
+  "high explosive": "Bu kuchli portlovchi modda.",
+  "high profile": "Bu shov-shuvli tadbir.",
+  "imposition": "Bu ortiqcha yuk.",
+  "injured": "U jarohatlangan.",
+  "layered": "Bu qatlamli tort.",
+  "plotter": "Fitnachilar qo'lga olindi.",
+  "salvo": "Kema zalp berdi.",
+  "spinal": "Uning umurtqa pog'onasi jarohatlangan.",
+  "suspense": "Filmda keskin hayajon juda ko'p."
+ },
+ "A2": {
+  "comprehensive": "Bizga keng qamrovli reja kerak.",
+  "defence system": "Bu yangi mudofaa tizimi.",
+  "deployment": "Askarlar joylashtirildi.",
+  "devise": "Biz yangi reja ishlab chiqdik.",
+  "high explosive": "Kuchli portlovchi modda xavfli.",
+  "high profile": "Uning ishi obro'li va ko'zga ko'ringan.",
+  "imposition": "Umid qilamanki, bu sizga og'irlik qilmaydi.",
+  "injured": "Jarohatlangan odam kasalxonaga bordi.",
+  "layered": "U qavat-qavat kiyim kiygan edi.",
+  "plotter": "U fitnachilardan biri edi.",
+  "salvo": "Biz qurollarning zalpini eshitdik.",
+  "spinal": "Orqa miya muhim.",
+  "suspense": "Meni intizorlikda qoldirma!"
+ },
  "B1": {
   "comprehensive": "Bu kitob juda keng qamrovli.",
   "defence system": "Mudofaa tizimi osmonni himoya qiladi.",

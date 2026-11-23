@@ -1,5 +1,17 @@
-// Part 1 topic 0347: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0347: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0347', {
+ "A1": {
+  "accountant": "U buxgalter.",
+  "bb": "\"bb\" nimani anglatadi?",
+  "call back": "Iltimos, qayta qo'ng'iroq qiling.",
+  "golden rule": "Bu oltin qoida."
+ },
+ "A2": {
+  "accountant": "Buxgalter pulni tekshiradi.",
+  "bb": "U oxirida \"bb\" deb yozdi.",
+  "call back": "Tez orada qayta qo'ng'iroq qilaman.",
+  "golden rule": "Oltin qoidani yodda tuting."
+ },
  "B1": {
   "accountant": "Hisobchimiz juda band.",
   "bb": "Men \"bb\" nimani anglatishini tushunmayman.",

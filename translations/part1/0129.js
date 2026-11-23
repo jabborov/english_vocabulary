@@ -1,5 +1,45 @@
-// Part 1 topic 0129: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0129: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0129', {
+ "A1": {
+  "apartment": "Men kvartirada yashayman.",
+  "crave": "Men shokoladni juda xohlayapman.",
+  "disconnected": "Men o'zimni boshqalardan uzilib qolgandek his qilyapman.",
+  "epidemic": "Gripp epidemiyasi bor.",
+  "exclude": "Uni chetlatmang.",
+  "free time": "Bugun bo'sh vaqtim bor.",
+  "grandma": "Men buvimni juda yaxshi ko'raman.",
+  "hometown": "Bu mening tug'ilgan shahrim.",
+  "intensely": "Havo juda qattiq issiq edi.",
+  "keep to oneself": "U odamlarga qo'shilmaydi.",
+  "leave out": "Meni chetda qoldirmang!",
+  "leisure time": "Bo'sh vaqtimda kitob o'qiyman.",
+  "reach out": "Do'stlaringiz bilan bog'laning.",
+  "sometime": "Qachondir menga qo'ng'iroq qiling.",
+  "spark": "Olovdan uchqun chiqdi.",
+  "together with": "Do'stingiz bilan birga keling.",
+  "tragic": "Bu fojiali hikoya.",
+  "unconnected": "Ikki voqea bir-biriga bog'liq emas."
+ },
+ "A2": {
+  "apartment": "Kvartira kichkina.",
+  "crave": "U e'tiborga tashna.",
+  "disconnected": "Telefon o'chirib qo'yilgan edi.",
+  "epidemic": "Epidemiya tez tarqaldi.",
+  "exclude": "Ular uni o'yindan chetlatishdi.",
+  "free time": "Bo'sh vaqtingizda nima qilasiz?",
+  "grandma": "Buvim mazali sho'rva pishiradi.",
+  "hometown": "U tug'ilgan shahriga qaytdi.",
+  "intensely": "U o'zini juda qattiq g'amgin his qildi.",
+  "keep to oneself": "U odamlarga qo'shilmay, yolg'iz yurishni yaxshi ko'radi.",
+  "leave out": "U o'zini chetda qolgandek his qildi.",
+  "leisure time": "Hozir bizning bo'sh vaqtimiz ko'proq.",
+  "reach out": "U menga yordam qo'lini cho'zdi.",
+  "sometime": "Keling, qachondir uchrashaylik.",
+  "spark": "Uning hazili kulgiga sabab bo'ldi.",
+  "together with": "Men singlim bilan birga yashayman.",
+  "tragic": "Fojiali baxtsiz hodisa yuz berdi.",
+  "unconnected": "Men o'zimni hamma narsadan uzilib qolgandek his qilyapman."
+ },
  "B1": {
   "apartment": "Ularning kvartirasida ikkita yotoqxona bor.",
   "crave": "Bolalar mehrga tashna bo'ladi.",

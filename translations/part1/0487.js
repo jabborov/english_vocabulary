@@ -1,5 +1,47 @@
-// Part 1 topic 0487: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0487: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0487', {
+ "A1": {
+  "abolish": "Ular buni bekor qilmoqchi.",
+  "answerable": "Siz menga hisob berasiz.",
+  "axe": "Bu bolta.",
+  "bank holiday": "Dushanba bayram dam olish kuni.",
+  "behead": "Ular qirolning boshini kesishdi.",
+  "bloody": "Bu qonli urush edi.",
+  "build around": "Reja siz atrofingizda qurilgan.",
+  "commoner": "U oddiy fuqaro.",
+  "executioner": "U jallod edi.",
+  "gruesome": "Bu dahshatli edi.",
+  "hover": "Qush havoda muallaq turdi.",
+  "in the meantime": "Hozircha shu yerda kutib turing.",
+  "monarchism": "Bu yerda monarxiya tarafdorligi ommabop.",
+  "monarchist": "U monarxiya tarafdori.",
+  "opinion poll": "Biz jamoatchilik so'rovini o'tkazdik.",
+  "put to death": "U qatl etildi.",
+  "read up": "Bu haqda o'qib o'rganing.",
+  "republic": "Fransiya respublikadir.",
+  "scrapping": "Bekor qilinish to'satdan bo'ldi."
+ },
+ "A2": {
+  "abolish": "Qonun bekor qilindi.",
+  "answerable": "U xo'jayin oldida javobgar.",
+  "axe": "Uning boltasi bor.",
+  "bank holiday": "Men bayram dam olish kunlarini juda yaxshi ko'raman.",
+  "behead": "Uning boshi kesildi.",
+  "bloody": "Jang qonli bo'ldi.",
+  "build around": "Jamoamiz uning atrofida qurilgan.",
+  "commoner": "U oddiy fuqaroga turmushga chiqdi.",
+  "executioner": "Jallodda bolta bor edi.",
+  "gruesome": "Film dahshatli edi.",
+  "hover": "Narxlar o'n funt atrofida tebranib turadi.",
+  "in the meantime": "Shu orada qahva ichib turing.",
+  "monarchism": "U monarxiyaga ishonadi.",
+  "monarchist": "U monarxiya tarafdori emas.",
+  "opinion poll": "Jamoatchilik so'rovi yangi.",
+  "put to death": "Qirol qatl etildi.",
+  "read up": "Testdan oldin mavzuni o'qib chiqdim.",
+  "republic": "Biz respublikada yashaymiz.",
+  "scrapping": "Ular soliqning bekor qilinishini xohlashadi."
+ },
  "B1": {
   "abolish": "Qullik ancha oldin bekor qilingan.",
   "answerable": "Rahbarlar javobgar bo'lishi kerak.",

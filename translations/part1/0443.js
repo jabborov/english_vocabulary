@@ -1,5 +1,15 @@
-// Part 1 topic 0443: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0443: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0443', {
+ "A1": {
+  "Europe": "Fransiya Yevropada joylashgan.",
+  "oil industry": "U neft sanoatida ishlaydi.",
+  "telecommunication": "Telefonlar telekommunikatsiyaning bir qismidir."
+ },
+ "A2": {
+  "Europe": "Men Yevropa bo'ylab sayohat qilmoqchiman.",
+  "oil industry": "Bu yerda neft sanoati katta.",
+  "telecommunication": "U telekommunikatsiya sohasida ishlaydi."
+ },
  "B1": {
   "Europe": "Yevropa Afrikadan ko'p mahsulot sotib oladi.",
   "oil industry": "Neft sanoati mamlakatga daromad keltiradi.",

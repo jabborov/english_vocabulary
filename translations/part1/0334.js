@@ -1,5 +1,43 @@
-// Part 1 topic 0334: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0334: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0334', {
+ "A1": {
+  "Irishman": "U irlandiyalik erkak.",
+  "NHS": "NHS bepul.",
+  "Scott": "Scott olim.",
+  "aisle": "Sut beshinchi qatorda.",
+  "bodybuilding": "U bodibilding bilan shug'ullanishni yaxshi ko'radi.",
+  "breakfast food": "Tuxum nonushta uchun yaxshi taom.",
+  "chickpea": "Men no'xatni yaxshi ko'raman.",
+  "fixate": "Bir narsaga mahliyo bo'lib qolmang.",
+  "fortify": "Bu sut vitaminlar bilan boyitilgan.",
+  "gluten": "Nonda kleykovina bor.",
+  "lentil": "Men yasmiq sho'rvasini yaxshi ko'raman.",
+  "obsession": "U futbolga mukkasidan ketgan.",
+  "optimise": "Men vaqtimni maqbul tarzda tashkil qilmoqchiman.",
+  "overestimate": "O'zingizni ortiqcha baholamang.",
+  "powder": "Bu quruq sut kukuni.",
+  "spoonful": "Bir qoshiq iching.",
+  "wheat flour": "Tort uchun bug'doy uni kerak."
+ },
+ "A2": {
+  "Irishman": "Irlandiyalik London shahrida yashaydi.",
+  "NHS": "Mening shifokorim NHSda ishlaydi.",
+  "Scott": "Scott nonushtada tuxum yeydi.",
+  "aisle": "Qator bo'ylab yurib, chapga buriling.",
+  "bodybuilding": "Bodibilding ko'p mashg'ulot talab qiladi.",
+  "breakfast food": "Yorma nonushta uchun mashhur taom.",
+  "chickpea": "Humus no'xatdan tayyorlanadi.",
+  "fixate": "U doim vazni haqida o'ylaydi.",
+  "fortify": "Nonni vitaminlar bilan boyitishadi.",
+  "gluten": "Bu tortda kleykovina yo'q.",
+  "lentil": "Yasmiq mayda va yumaloq.",
+  "obsession": "Uning parhezlarga mukkasidan ketgani meni xavotirga soladi.",
+  "optimise": "Biz rejani takomillashtirishimiz kerak.",
+  "overestimate": "Men bunga ketadigan vaqtni ortiqcha baholabman.",
+  "powder": "Kukunni suv bilan aralashtiring.",
+  "spoonful": "U bir qoshiq asal yedi.",
+  "wheat flour": "Bu non bug'doy unidan tayyorlangan."
+ },
  "B1": {
   "Irishman": "Irlandiyalik u og'irlik ko'tarishni o'n to'qqiz yoshida boshlaganini aytdi.",
   "NHS": "Sog'lom ovqatlanish bo'yicha maslahatlarni NHS veb-saytidan topishingiz mumkin.",

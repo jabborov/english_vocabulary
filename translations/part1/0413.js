@@ -1,5 +1,29 @@
-// Part 1 topic 0413: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0413: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0413', {
+ "A1": {
+  "Silvia": "Silvia suzuvchi.",
+  "ballet dancer": "Singlim balet raqqosasi.",
+  "duet": "Ular duet kuylashdi.",
+  "effortless": "U buni juda oson qilayotgandek ko'rsatadi.",
+  "geographically": "Ikki shahar geografik jihatdan bir-biriga yaqin.",
+  "guidance": "Menga sizning yo'l-yo'riqlaringiz kerak.",
+  "outward": "U tashqaridan xotirjam ko'rinadi, lekin bu zohiriy xotirjamlik uning hayajonini yashiradi.",
+  "relaxing": "Vanna tanani bo'shashtiradi.",
+  "respite": "Yomg'irdan biroz tin oldik.",
+  "solo": "U yakkaxon qo'shiq kuyladi."
+ },
+ "A2": {
+  "Silvia": "Silvia har tongda suzadi.",
+  "ballet dancer": "Balet raqqosasi juda nafis edi.",
+  "duet": "Biz pianinoda duet chaldik.",
+  "effortless": "U zo'r bermay yengil suzadi.",
+  "geographically": "Geografik jihatdan orol Osiyoning bir qismidir.",
+  "guidance": "Yo'l-yo'riqlaringiz uchun rahmat.",
+  "outward": "Uning sirtdagi tabassumi samimiy emas edi.",
+  "relaxing": "Dam olish kunlarini maroqli o'tkazdik.",
+  "respite": "Ta'til yoqimli hordiq bo'ldi.",
+  "solo": "U gitarada yakkaxon ijro etdi."
+ },
  "B1": {
   "Silvia": "Silviya jamoa qanday qilib birgalikda mashg'ulot qilishini tushuntirdi.",
   "ballet dancer": "U suzishni boshlashdan oldin balet raqqosasi sifatida tayyorgarlik ko'rgan.",

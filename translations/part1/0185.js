@@ -1,5 +1,29 @@
-// Part 1 topic 0185: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0185: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0185', {
+ "A1": {
+  "Bailey": "Bailey gitara chaladi.",
+  "Elvis": "Men Elvisni yaxshi ko'raman.",
+  "bunch": "Menda bir dasta gul bor.",
+  "busk": "Men ko'chada pul uchun kuylayman.",
+  "busker": "Ko'cha qo'shiqchisi yaxshi kuylaydi.",
+  "busking": "Ko'chada qo'shiq aytish qiziqarli.",
+  "gig": "Men konsertga bordim.",
+  "sing along": "Keling, birga kuylaylik!",
+  "wall": "Devor oq.",
+  "wing": "Qushning ikkita qanoti bor."
+ },
+ "A2": {
+  "Bailey": "Bailey musiqachi.",
+  "Elvis": "Elvis qo'shiqchi bo'lgan.",
+  "bunch": "Ular yoqimli bir guruh odamlar.",
+  "busk": "U shanba kunlari ko'chada pul uchun chaladi.",
+  "busker": "Men ko'cha musiqachisiga tanga berdim.",
+  "busking": "U ko'chada pul uchun chalishni yaxshi ko'radi.",
+  "gig": "Konsert ajoyib bo'ldi.",
+  "sing along": "Hamma birga kuyladi.",
+  "wall": "Devorda rasm bor.",
+  "wing": "U sahna ortida kutib turdi."
+ },
  "B1": {
   "Bailey": "Beyli shahar markazida qo'shiq kuyladi.",
   "Elvis": "Dadam Elvisning qo'shiqlarini juda yaxshi ko'radi.",

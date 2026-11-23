@@ -1,5 +1,17 @@
-// Part 1 topic 0371: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0371: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0371', {
+ "A1": {
+  "allow in": "Ular itlarni ichkariga kiritishadi.",
+  "permanently": "Do'kon butunlay yopilgan.",
+  "remittance": "U uyiga pul o'tkazmasi yuboradi.",
+  "send back": "Iltimos, anketani qaytarib yuboring."
+ },
+ "A2": {
+  "allow in": "Klub bizni ichkariga kiritmadi.",
+  "permanently": "U Ispaniyaga butunlay ko'chib ketdi.",
+  "remittance": "Uning yuborgan pul o'tkazmasi oilasiga yordam beradi.",
+  "send back": "Poyabzallar juda kichik bo'lgani uchun ularni qaytarib yubordim."
+ },
  "B1": {
   "allow in": "Ba'zi mamlakatlar boshqalarga qaraganda ko'proq ishchilarni qabul qiladi.",
   "permanently": "U chet elda doimiy yashashni xohlamaydi.",

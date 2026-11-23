@@ -1,5 +1,37 @@
-// Part 1 topic 0397: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0397: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0397', {
+ "A1": {
+  "auditory": "Bu eshitiladigan signal.",
+  "blub": "Yig'lashni bas qil!",
+  "catharsis": "Yig'lash ruhiy poklanishdir.",
+  "daddy": "Dadam qayerda?",
+  "exile": "U surgunda yashaydi.",
+  "instantaneously": "Bu bir zumda sodir bo'ldi.",
+  "misty": "Bugun tumanli.",
+  "regrettable": "Bu afsuslanarli.",
+  "run down": "Uning yuzidan ko'z yoshlari oqdi.",
+  "sob": "Chaqaloq ho'ngrab yig'layapti.",
+  "sob story": "Bu achinish uyg'otish uchun aytilgan hikoya.",
+  "spilt": "Choyimni to'kib yubordim.",
+  "tearjerker": "Bu ko'z yoshi to'kdiradigan film.",
+  "weepy": "Bu ko'z yoshi to'kdiradigan film."
+ },
+ "A2": {
+  "auditory": "Bizda eshitish tizimi bor.",
+  "blub": "U go'dakdek ho'ngrab yig'ladi.",
+  "catharsis": "San'at ruhiy poklanish bag'ishlashi mumkin.",
+  "daddy": "Dadam baland bo'yli.",
+  "exile": "U surgunga ketdi.",
+  "instantaneously": "Chiroq bir zumda yondi.",
+  "misty": "Uning ko'zlari namlangan edi.",
+  "regrettable": "Bu afsuslanarli xato edi.",
+  "run down": "Derazadan suv oqib tushdi.",
+  "sob": "U tun bo'yi ho'ngrab yig'ladi.",
+  "sob story": "Menga achinish uyg'otadigan hikoyalar aytma.",
+  "spilt": "U sutni to'kib yubordi.",
+  "tearjerker": "Men o'sha ko'z yoshi to'kdiradigan filmni ko'rib yig'ladim.",
+  "weepy": "Menga yaxshi ko'z yoshi to'kdiradigan film yoqadi."
+ },
  "B1": {
   "auditory": "Filmda tovush effektlaridan foydalanilgan.",
   "blub": "Film oxirida yig'lab yubordim.",

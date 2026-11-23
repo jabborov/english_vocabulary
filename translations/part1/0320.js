@@ -1,5 +1,35 @@
-// Part 1 topic 0320: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0320: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0320', {
+ "A1": {
+  "Robert": "Robert o'qituvchi.",
+  "analyst": "U tahlilchi.",
+  "centavos": "Bu ellik sentavo turadi.",
+  "coconut water": "Men kokos suvini yaxshi ko'raman.",
+  "crossroad": "Chorrahada to'xtang.",
+  "flow in": "Pul kirib keladi.",
+  "footing": "Men muvozanatimni yo'qotdim.",
+  "guarani": "Paragvayda guarani ishlatiladi.",
+  "paper money": "Bu qog'oz pul.",
+  "peso": "Bu o'n peso turadi.",
+  "piece of paper": "Menga bir varaq qog'oz bering.",
+  "reis": "Reis eski pul birligi.",
+  "tax system": "Soliq tizimi murakkab."
+ },
+ "A2": {
+  "Robert": "Bu Robert.",
+  "analyst": "Tahlilchi ma'lumotlarni o'rganadi.",
+  "centavos": "Menda bir necha sentavo bor.",
+  "coconut water": "Kokos suvi sovuq.",
+  "crossroad": "Biz yo'l ayrilishidamiz.",
+  "flow in": "Suv ichkariga oqib kiradi.",
+  "footing": "Kompaniya mustahkam asosga ega.",
+  "guarani": "Bu ming guarani turadi.",
+  "paper money": "Menda qog'oz pul bor.",
+  "peso": "Meksikada peso ishlatiladi.",
+  "piece of paper": "Buni bir varaq qog'ozga yozing.",
+  "reis": "Bu ming reis turgan.",
+  "tax system": "Bizga adolatli soliq tizimi kerak."
+ },
  "B1": {
   "Robert": "Robert Braziliya haqida gapiradi.",
   "analyst": "Tahlilchilar o'sish kutishmoqda.",

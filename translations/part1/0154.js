@@ -1,5 +1,35 @@
-// Part 1 topic 0154: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0154: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0154', {
+ "A1": {
+  "bestseller": "Bu kitob bestseller.",
+  "cocoa": "Men kakao ichaman.",
+  "cocoa bean": "Bu kakao loviyasi.",
+  "confectionary": "Men qandolat mahsulotlarini juda yaxshi ko'raman.",
+  "eater": "U ko'p yeydigan odam.",
+  "flop": "Film muvaffaqiyatsiz chiqdi.",
+  "fudge": "Men iris konfetini yaxshi ko'raman.",
+  "marshmallow": "Men zefirni yaxshi ko'raman.",
+  "pillow": "Mening yumshoq yostig'im bor.",
+  "proud of": "Men siz bilan faxrlanaman.",
+  "snicker": "Piq-piq kulmang!",
+  "turn around": "Iltimos, orqaga o'giriling.",
+  "unsuccessful": "Reja muvaffaqiyatsiz bo'ldi."
+ },
+ "A2": {
+  "bestseller": "Qaysi shirinligingiz eng ko'p sotiladi?",
+  "cocoa": "Kakao jigarrang.",
+  "cocoa bean": "Shokolad kakao loviyasidan olinadi.",
+  "confectionary": "Bu do'kon qandolat mahsulotlari sotadi.",
+  "eater": "U sekin ovqatlanadi.",
+  "flop": "Ziyofat muvaffaqiyatsiz chiqdi.",
+  "fudge": "Iris konfeti shirin.",
+  "marshmallow": "Bu zefir pushti rangda.",
+  "pillow": "Boshingizni yostiqqa qo'ying.",
+  "proud of": "U o'z ishidan faxrlanadi.",
+  "snicker": "Bolalar piq-piq kulishdi.",
+  "turn around": "U orqasiga o'girilib, jilmaydi.",
+  "unsuccessful": "U muvaffaqiyatga erisha olmadi."
+ },
  "B1": {
   "bestseller": "Shokoladli fadj ularning eng ko'p sotiladigan mahsuloti.",
   "cocoa": "Tortga ozroq kakao qo'shing.",

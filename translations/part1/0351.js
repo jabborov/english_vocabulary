@@ -1,5 +1,35 @@
-// Part 1 topic 0351: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0351: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0351', {
+ "A1": {
+  "aftercare": "Do'konning sotuvdan keyingi xizmati yaxshi.",
+  "bargain hunter": "Xolam arzon narsalar ovchisi.",
+  "catalogue": "Bu katalogga qarang.",
+  "discount": "Chegirma bormi?",
+  "festive": "Dekabrda shahar bayramona ko'rinadi.",
+  "good deal": "Bu foydali kelishuv!",
+  "newsagent": "Gazeta do'koni bankning yonida.",
+  "reassurance": "Unga biroz dalda kerak.",
+  "see in": "Vitrinada chiroyli palto ko'ryapman.",
+  "shop around": "Men turli do'konlarda narxlarni solishtirib xarid qilishni yaxshi ko'raman.",
+  "showroom": "Ko'rgazma zali katta va yorug'.",
+  "tn": "\"tn\" nimani anglatadi?",
+  "voucher": "Menda bu do'kon uchun vaucher bor."
+ },
+ "A2": {
+  "aftercare": "Sotuvdan keyingi xizmat bir yil davomida bepul.",
+  "bargain hunter": "Arzon narsa ovchilari chegirmali savdolarni yaxshi ko'rishadi.",
+  "catalogue": "Katalogda ko'plab rasmlar bor.",
+  "discount": "Do'kon menga chegirma berdi.",
+  "festive": "Biz uy uchun bayramona chiroqlar sotib oldik.",
+  "good deal": "Biz internetda foydali taklif topdik.",
+  "newsagent": "U sut va gazeta olish uchun matbuot do'koniga boradi.",
+  "reassurance": "Uning so'zlari menga dalda berdi.",
+  "see in": "Bu telefonning nimasi sizga yoqadi?",
+  "shop around": "Yaxshi narx topish uchun turli do'konlarni aylanib chiqing.",
+  "showroom": "Ko'rgazma zalida o'nta mashina bor.",
+  "tn": "Ro'yxatda \"tn\" ni ko'rdim.",
+  "voucher": "U tug'ilgan kuniga sovg'a vaucherini oldi."
+ },
  "B1": {
   "aftercare": "Televizorni sotuvdan keyingi xizmat ko'rsatish uchun shu yerdan sotib oldim.",
   "bargain hunter": "Arzon narsa izlovchilar erta tongda yetib kelishdi.",

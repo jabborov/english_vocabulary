@@ -1,5 +1,37 @@
-// Part 1 topic 0506: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0506: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0506', {
+ "A1": {
+  "Fahrenheit": "Havo 80 daraja Farengeyt.",
+  "back out": "Endi aynib qolma!",
+  "beyond doubt": "Bunga shubha yo'q.",
+  "blue sky": "Moviy osmonga qarang!",
+  "cloudless": "Osmon bulutsiz.",
+  "conditional": "Taklif shartli.",
+  "greenhouse effect": "Issiqxona effekti nima?",
+  "head in": "Biz to'g'ri yo'nalishda ketyapmiz.",
+  "life support": "U sun'iy hayot ta'minoti apparatiga ulangan.",
+  "out of whack": "Soatim buzilib qolgan.",
+  "solar energy": "Quyosh energiyasi quyoshdan olinadi.",
+  "support system": "Do'stlar qo'llab-quvvatlash tizimidir.",
+  "swelter": "Biz quyoshda issiqdan qiynaldik.",
+  "trajectory": "To'pning uchish traektoriyasiga qarang."
+ },
+ "A2": {
+  "Fahrenheit": "AQShda Farengeyt shkalasi ishlatiladi.",
+  "back out": "U sayohatdan voz kechdi.",
+  "beyond doubt": "Uning iste'dodi shubhasiz.",
+  "blue sky": "Bugun osmon moviy.",
+  "cloudless": "Bulutsiz kun edi.",
+  "conditional": "Bu shartli javob.",
+  "greenhouse effect": "Issiqxona effekti Yerni isitadi.",
+  "head in": "Keling, shu tomonga yo'l olaylik.",
+  "life support": "Bu apparat hayotni ta'minlab turadi.",
+  "out of whack": "Belim ishdan chiqqan.",
+  "solar energy": "Biz uyda quyosh energiyasidan foydalanamiz.",
+  "support system": "Bizga qo'llab-quvvatlash tizimi kerak.",
+  "swelter": "Shahar jaziramadan qovrilmoqda.",
+  "trajectory": "Raketaning traektoriyasi mukammal edi."
+ },
  "B1": {
   "Fahrenheit": "Suv 212 daraja Farengeytda qaynaydi.",
   "back out": "U oxirgi daqiqada voz kechdi.",

@@ -1,5 +1,47 @@
-// Part 1 topic 0201: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0201: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0201', {
+ "A1": {
+  "affect up": "Sovuq havo sog'lig'ingizga ta'sir qilishi mumkin.",
+  "back up": "Meni qo'llab-quvvatlay olasizmi?",
+  "boo": "U meni qo'rqitish uchun \"Bo!\" deb qichqirdi.",
+  "cold water": "Men sovuq suv ichaman.",
+  "common cold": "Menda oddiy shamollash bor.",
+  "cortisol": "Kortizol gormondir.",
+  "cough": "U yo'talyapti.",
+  "dampen": "Yomg'ir kunning kayfiyatini tushirdi.",
+  "echinacea": "Bu exinatseya.",
+  "in good order": "Velosipedim yaxshi holatda.",
+  "infect": "Mikroblar sizni yuqtirishi mumkin.",
+  "presume": "Charchagan bo'lsangiz kerak deb o'ylayman.",
+  "prone": "U tez-tez shamollaydi.",
+  "rotten": "Bugun o'zimni juda yomon his qilyapman.",
+  "saline": "Fiziologik eritma tuzli suvdir.",
+  "snuffle": "Chaqaloq burnini pishillatyapti.",
+  "squirt": "Suvni sepib yuboring.",
+  "squirt up": "Uni burningizga sepib yuboring.",
+  "unwell": "Bugun mazam yo'q."
+ },
+ "A2": {
+  "affect up": "Uyqu o'zingizni qanday his qilishingizga ta'sir qiladi.",
+  "back up": "Do'stim mening gapimni tasdiqladi.",
+  "boo": "Muxlislar hakamni hushtak chalib so'kishdi.",
+  "cold water": "Ko'ldagi sovuq suv odamni seskantirib yubordi.",
+  "common cold": "Qishda oddiy shamollash juda keng tarqalgan.",
+  "cortisol": "Stress kortizol miqdorini oshiradi.",
+  "cough": "Chaqaloq tun bo'yi yo'taldi.",
+  "dampen": "Yomon yangilik kayfiyatimizni tushirdi.",
+  "echinacea": "Exinatseyaning binafsharang gullari bor.",
+  "in good order": "Uy yaxshi holatda.",
+  "infect": "Do'stlaringizga yuqtirmang, uyda qoling.",
+  "presume": "Menimcha, u uyda.",
+  "prone": "O'g'lim tez-tez boshi og'riydigan bola.",
+  "rotten": "Bu olma chirigan.",
+  "saline": "Burningiz uchun tuzli suv spreyidan foydalaning.",
+  "snuffle": "U shamollagan edi va kun bo'yi burnini pishillatdi.",
+  "squirt": "U menga suv to'pponchasidan suv sepdi.",
+  "squirt up": "U suvni havoga sachratib yubordi.",
+  "unwell": "Oyimning mazasi yo'q."
+ },
  "B1": {
   "affect up": "Nima yeyishingiz kuchingizga ta'sir qilishi mumkin.",
   "back up": "Dalillar uning aytganlarini tasdiqlaydi.",

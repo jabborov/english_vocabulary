@@ -1,5 +1,45 @@
-// Part 2 topic 0043: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0043: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0043', {
+ "A1": {
+  "acrobatics": "Menga akrobatika yoqadi.",
+  "crazy": "Bu aqlsizlik.",
+  "dense": "Shahar aholisi zich.",
+  "free running": "Menga erkin yugurish yoqadi.",
+  "get convinced": "Men ishonch hosil qildim.",
+  "gymnastics": "Menga gimnastika yoqadi.",
+  "he's less concerned about being sponsored": "Uning homiy topish bilan ko'p ishi yo'q. U shunchaki maza qiladi.",
+  "hooked": "Men bunga mukkasidan ketganman.",
+  "insane": "Bu aqldan ozganlik!",
+  "mad": "Siz telbasiz!",
+  "oppose": "Onam bunga qarshi.",
+  "parkour": "Men parkur videolarini tomosha qilaman.",
+  "pure": "Bu sof zavq.",
+  "ridiculous": "Bu kulgili va bema'ni.",
+  "skateboarder": "U skeytbordchi.",
+  "stunts": "U xavfli tryuklar bajaradi.",
+  "take up": "Men biror sport turi bilan shug'ullana boshlamoqchiman.",
+  "twist": "U aylanib sakradi."
+ },
+ "A2": {
+  "acrobatics": "Sirkda ajoyib akrobatik chiqishlar bo'ldi.",
+  "crazy": "Bu aqldan ozgan sakrash edi.",
+  "dense": "O'rmon qalin va qorong'i edi.",
+  "free running": "Erkin yugurish qiziqarli.",
+  "get convinced": "Uni buni sinab ko'rishga ko'ndirishdi.",
+  "gymnastics": "U darsdan keyin gimnastika bilan shug'ullanadi.",
+  "he's less concerned about being sponsored": "Uning uchun homiy topishdan ko'ra maza qilish muhimroq.",
+  "hooked": "U parkurga mukkasidan ketgan.",
+  "insane": "Uning sakrashi aqlbovar qilmas edi.",
+  "mad": "Bu g'oya telbalik.",
+  "oppose": "Ota-onam rejamga qarshi chiqishdi.",
+  "parkour": "Akam bog'da parkur bilan shug'ullanadi.",
+  "pure": "Bu toza suv.",
+  "ridiculous": "Uning g'oyasi kulgili va bema'ni edi.",
+  "skateboarder": "Skeytbordchi taxtasidan yiqilib tushdi.",
+  "stunts": "Filmdagi tryuklar ajoyib edi.",
+  "take up": "U o'tgan yili yugurish bilan shug'ullana boshladi.",
+  "twist": "U aylanib sakradi."
+ },
  "B1": {
   "acrobatics": "Erkin yugurish ko'pincha salto kabi akrobatik harakatlarni o'z ichiga oladi.",
   "crazy": "Onam parkurni jinnilik deb hisoblaydi.",

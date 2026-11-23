@@ -1,5 +1,47 @@
-// Part 1 topic 0313: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0313: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0313', {
+ "A1": {
+  "Missy": "Missy mening dugonam.",
+  "Tiffany": "Tiffany o'qituvchi.",
+  "automated": "Zavod avtomatlashtirilgan.",
+  "cast": "Filmning aktyorlar tarkibi ajoyib.",
+  "cast on": "O'nta ilmoq tering.",
+  "continuous": "Shovqin uzluksiz edi.",
+  "downtime": "Menga biroz dam olish vaqti kerak.",
+  "dramatic performance": "Biz dramatik spektaklni tomosha qildik.",
+  "fighter pilot": "U qiruvchi samolyot uchuvchisi.",
+  "fixed": "Stol polga mahkamlangan.",
+  "heading": "Sarlavha yozing.",
+  "penguin": "Men pingvinlarni yaxshi ko'raman.",
+  "restless": "Bolalar bezovta.",
+  "spur": "Bu ko'proq ishlashga turtki bo'ldi.",
+  "spur on": "Uning so'zlari meni ruhlantirdi.",
+  "stave": "Musiqa nota chiziqlariga yoziladi.",
+  "stave off": "Ochlikni bosish uchun biror narsa yeng.",
+  "up in the air": "Reja hali noaniq.",
+  "yawn": "Charchaganimda esnayman."
+ },
+ "A2": {
+  "Missy": "Bu Missy.",
+  "Tiffany": "Bu Tiffany.",
+  "automated": "Bizda avtomatlashtirilgan tizim bor.",
+  "cast": "U daryoga tosh otdi.",
+  "cast on": "Men ilmoq terishni o'rgandim.",
+  "continuous": "Kun bo'yi to'xtovsiz yomg'ir yog'di.",
+  "downtime": "Dam olish kunlari mening hordiq chiqarish vaqtim.",
+  "dramatic performance": "Dramatik spektakl uzoq davom etdi.",
+  "fighter pilot": "U qiruvchi samolyot uchuvchisi bo'lishni xohlaydi.",
+  "fixed": "Narx qat'iy belgilangan.",
+  "heading": "Sarlavha katta harflarda yozilgan.",
+  "penguin": "Pingvin suza oladi.",
+  "restless": "Bugun o'zimni bezovta his qilyapman.",
+  "spur": "Mukofot uni mashq qilishga undadi.",
+  "spur on": "Olomon uni ruhlantirib turdi.",
+  "stave": "U yog'och tayoq ushlab turardi.",
+  "stave off": "Musiqa zerikishning oldini oladi.",
+  "up in the air": "Ta'tilimiz hali ham noaniq.",
+  "yawn": "U darsda esnadi."
+ },
  "B1": {
   "Missy": "Missy to'qishni yaxshi ko'radi.",
   "Tiffany": "Tiffany zerikish haqida gapiradi.",

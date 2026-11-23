@@ -1,5 +1,17 @@
-// Part 1 topic 0407: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0407: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0407', {
+ "A1": {
+  "Mars": "Mars qizil rangda.",
+  "diameter": "Diametrni o'lchang.",
+  "settle on": "Biz bir nomga to'xtaldik.",
+  "viewing": "Bu tomosha qilish uchun qulay."
+ },
+ "A2": {
+  "Mars": "Biz Marsda yashay olamizmi?",
+  "diameter": "Diametri o'n santimetr.",
+  "settle on": "Sanani tanlab qo'ydingizmi?",
+  "viewing": "Televizor tomosha qilish keng tarqalgan."
+ },
  "B1": {
   "Mars": "Mars Yerdan uzoqda.",
   "diameter": "Aylananing diametri qancha?",

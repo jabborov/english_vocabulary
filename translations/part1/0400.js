@@ -1,5 +1,19 @@
-// Part 1 topic 0400: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0400: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0400', {
+ "A1": {
+  "assessment": "Bugun bizda baholash bor.",
+  "evaluation": "Men o'z baholashimni oldim.",
+  "han": "Han talaba.",
+  "joiner": "U duradgor.",
+  "modifier": "\"Very\" aniqlovchi so'zdir."
+ },
+ "A2": {
+  "assessment": "O'qituvchi baholash o'tkazdi.",
+  "evaluation": "Baholash natijasi yaxshi bo'ldi.",
+  "han": "Han biroz inglizcha gapiradi.",
+  "joiner": "Duradgor yangi eshik yasadi.",
+  "modifier": "Aniqlovchi so'zni toping."
+ },
  "B1": {
   "assessment": "Baholash uning kuchli va zaif tomonlarini ko'rsatdi.",
   "evaluation": "Baholanishdan qo'rqish ba'zi odamlarni jim qilib qo'yadi.",

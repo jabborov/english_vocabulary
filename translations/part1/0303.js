@@ -1,5 +1,41 @@
-// Part 1 topic 0303: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0303: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0303', {
+ "A1": {
+  "at rest": "Mashina tinch holatda.",
+  "attentional": "Bu diqqatga oid vazifa.",
+  "bilingualism": "Ikki tillilik foydali.",
+  "brain cell": "Miyada ko'plab miya hujayralari bor.",
+  "brainpower": "Bu boshqotirma aql kuchini talab qiladi.",
+  "chocolate cake": "Men shokoladli tortni yaxshi ko'raman.",
+  "coke": "Menga bitta kola bera olasizmi?",
+  "crossword": "Men krossvord yechaman.",
+  "crossword puzzle": "Men krossvordlarni yaxshi ko'raman.",
+  "language lesson": "Bugun mening til darsim bor.",
+  "left hand": "Uni chap qo'lingda ushla.",
+  "memorize": "Bu so'zlarni yodlang.",
+  "problem solving": "Muammolarni hal qilish muhim.",
+  "rest stop": "Biz dam olish joyida to'xtadik.",
+  "right hand": "Men o'ng qo'lim bilan yozaman.",
+  "utilize": "Vaqtingizdan yaxshi foydalaning."
+ },
+ "A2": {
+  "at rest": "Tinch holatdagi yurak urish tezligim past.",
+  "attentional": "U diqqatni jamlash ko'nikmalarini sinaydi.",
+  "bilingualism": "O'zbekistonda ikki tillilik keng tarqalgan.",
+  "brain cell": "Spirtli ichimlik miya hujayralarini o'ldirishi mumkin.",
+  "brainpower": "Uyqu aqliy quvvatingizga yordam beradi.",
+  "chocolate cake": "U shokoladli tort pishirdi.",
+  "coke": "U kola ichdi.",
+  "crossword": "Krossvord o'ninchi sahifada.",
+  "crossword puzzle": "Bu krossvord qiyin.",
+  "language lesson": "Uning til darsi dushanba kuni.",
+  "left hand": "Chap qo'lim sovqotgan.",
+  "memorize": "Men she'rni yodladim.",
+  "problem solving": "Bu o'yin muammolarni hal qilishga yordam beradi.",
+  "rest stop": "Dam olish joyida hojatxonalar bor.",
+  "right hand": "O'ng qo'lingizni ko'taring.",
+  "utilize": "Ular quyosh energiyasidan foydalanishadi."
+ },
  "B1": {
   "at rest": "Qo'lingizni harakatsiz tuting.",
   "attentional": "Diqqatni boshqarish muhim.",

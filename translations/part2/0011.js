@@ -1,5 +1,41 @@
-// Part 2 topic 0011: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0011: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0011', {
+ "A1": {
+  "No way!": "Bo'lishi mumkin emas! Sizga ishonmayman!",
+  "Spaniards": "Ispanlar Ispaniyada yashaydi.",
+  "best-loved": "Bu mening eng sevimli kitobim.",
+  "bite size chunks": "Ovqatni bir tishlam bo'laklarda yeng.",
+  "carried it around on holiday": "Menda kichkina sumka bor edi. Ta'tilda uni hamma joyga olib yurdim.",
+  "certainly": "Men albatta kelaman.",
+  "classic novel": "Bu klassik roman.",
+  "even though": "Paltom bo'lsa ham, sovqotyapman.",
+  "extremely pleased": "Yangi telefonimdan juda mamnunman.",
+  "manner": "U samimiy tarzda gapiradi.",
+  "novel": "Men roman o'qiyapman.",
+  "passage": "Iltimos, bu parchani o'qing.",
+  "passionate": "U futbolga juda ishqiboz.",
+  "servant": "Xizmatkor uyni tozalaydi.",
+  "sound bite culture": "Biz qisqa iboralar madaniyatida yashaymiz.",
+  "way back": "Men u bilan ancha oldin, 2010-yilda tanishganman."
+ },
+ "A2": {
+  "No way!": "Kitobni bir kunda tugatdingizmi? Bo'lishi mumkin emas!",
+  "Spaniards": "Ko'plab ispanlar kechki ovqatni kechqurun kech yeydi.",
+  "best-loved": "Bu mening mamlakatimdagi eng sevimli qo'shiqlardan biri.",
+  "bite size chunks": "Men yangi so'zlarni kichik-kichik bo'laklarda o'rganaman.",
+  "carried it around on holiday": "U yangi shlyapasini juda yaxshi ko'rardi va ta'tilda uni hamma joyga olib yurdi.",
+  "certainly": "U, shubhasiz, sinfdagi eng yaxshi o'quvchi.",
+  "classic novel": "O'qituvchim menga o'qish uchun klassik roman berdi.",
+  "even though": "U kasal bo'lsa ham, ishga bordi.",
+  "extremely pleased": "Ota-onam natijalarimdan juda mamnun bo'lishdi.",
+  "manner": "U muloyim tarzda javob berdi.",
+  "novel": "Singlim har oy yangi roman o'qiydi.",
+  "passage": "O'qituvchi bizdan kitobdan bir parcha o'qishni so'radi.",
+  "passionate": "O'qituvchim kitoblarga juda ishqiboz.",
+  "servant": "Boy oilaning uchta xizmatkori bor edi.",
+  "sound bite culture": "Qisqa iboralar madaniyatida odamlar qisqa yangiliklarni o'qiydi.",
+  "way back": "Ancha oldin, men bolaligimda mobil telefonlar yo'q edi."
+ },
  "B1": {
   "No way!": "Aslo! Bunday yomg'irda tashqariga chiqmayman.",
   "Spaniards": "Ispanlar o'z yozuvchi va rassomlari bilan juda faxrlanishadi.",

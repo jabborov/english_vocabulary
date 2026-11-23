@@ -1,5 +1,31 @@
-// Part 1 topic 0318: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0318: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0318', {
+ "A1": {
+  "aback": "Men taajjublanib qoldim.",
+  "brighten": "Osmon yorishadi.",
+  "brighten up": "Gullar xonani yorqinlashtiradi.",
+  "garbage": "Axlatni chiqarib tashla.",
+  "grace": "U nafosat bilan raqsga tushadi.",
+  "independently": "U mustaqil yashaydi.",
+  "inquisitive": "Bolalar qiziquvchan bo'ladi.",
+  "sassy": "U tili o'tkir va dadil qiz.",
+  "take aback": "Men hayratda qoldim.",
+  "unexciting": "Bu zerikarli.",
+  "uninhabited": "Orolda hech kim yashamaydi."
+ },
+ "A2": {
+  "aback": "U ancha taajjublanib qoldi.",
+  "brighten": "Uning yuzi yorishdi.",
+  "brighten up": "Uning tabassumi kunimni yoritib yubordi.",
+  "garbage": "Axlatdan badbo'y hid kelyapti.",
+  "grace": "Uning harakatlari juda nafis.",
+  "independently": "U mustaqil ishlaydi.",
+  "inquisitive": "U juda qiziquvchan.",
+  "sassy": "Bu surbetlarcha javob edi.",
+  "take aback": "U yangilikdan hayratda qoldi.",
+  "unexciting": "Film zerikarli edi.",
+  "uninhabited": "Bu odam yashamaydigan uy."
+ },
  "B1": {
   "aback": "U esankirab qolganga o'xshardi.",
   "brighten": "Musiqa kayfiyatimni ko'taradi.",

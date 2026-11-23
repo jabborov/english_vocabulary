@@ -1,5 +1,43 @@
-// Part 1 topic 0281: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0281: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0281', {
+ "A1": {
+  "aversion": "Men o'rgimchaklarni jinim suymaydi.",
+  "chore": "Men uy yumushlarimni shanba kuni qilaman.",
+  "depart": "Poyezd soat oltida jo'naydi.",
+  "distribution": "Oziq-ovqat adolatli taqsimlandi.",
+  "early on": "Men buni boshidanoq bilgandim.",
+  "housework": "Men har kuni uy ishlarini qilaman.",
+  "indefinitely": "Do'kon muddatsiz yopilgan.",
+  "laundry": "Dushanba kuni kir yuvaman.",
+  "leaky": "Tom chakka o'tkazadi.",
+  "pinafore": "Qizcha sarafan kiygan.",
+  "pinny": "Uning qizil fartugi bor.",
+  "prospect": "Yomg'ir yog'ishi ehtimoli menga yoqmaydi.",
+  "sb": "\"Sb\" \"kimdir\" degan ma'noni bildiradi.",
+  "secretary": "Xolam kotiba.",
+  "threshold": "Eshik ostonasida to'xtang.",
+  "unfamiliar with": "Men bu shaharni yaxshi bilmayman.",
+  "untidiness": "Men tartibsizlikni yoqtirmayman."
+ },
+ "A2": {
+  "aversion": "U tozalashni jini suymaydi.",
+  "chore": "Akam uy yumushlariga yordam beradi.",
+  "depart": "Biz ertalab erta yo'lga chiqamiz.",
+  "distribution": "Ish qanday taqsimlanganiga qarang.",
+  "early on": "Dastlab biz kichkina kvartirada yashardik.",
+  "housework": "Oyim ko'p uy ishlarini qiladi.",
+  "indefinitely": "U bu yerda muddatsiz qolishi mumkin.",
+  "laundry": "Kir kiyimlaringni savatga sol.",
+  "leaky": "Shishamdan suv oqyapti.",
+  "pinafore": "U fartugini orqasidan bog'ladi.",
+  "pinny": "Ovqat pishirishdan oldin fartugingni taq.",
+  "prospect": "Ta'til ehtimoli meni xursand qiladi.",
+  "sb": "Lug'atlarda \"somebody\" o'rniga \"sb\" deb yoziladi.",
+  "secretary": "Kotiba telefonga javob berdi.",
+  "threshold": "U uni ko'tarib ostonadan olib o'tdi.",
+  "unfamiliar with": "U kir yuvish mashinasini yaxshi bilmaydi.",
+  "untidiness": "Uning xonasidagi tartibsizlik dahshatli."
+ },
  "B1": {
   "aversion": "Ko'plab o'smirlar xonasini yig'ishtirishni mutlaqo yoqtirmaydi.",
   "chore": "Dazmol qilish zerikarli yumush, lekin kimdir buni bajarishi kerak.",

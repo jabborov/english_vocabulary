@@ -1,5 +1,27 @@
-// Part 1 topic 0230: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0230: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0230', {
+ "A1": {
+  "Brad": "Uning ismi Brad.",
+  "LA": "Men Los-Anjelesda yashayman.",
+  "heal": "Kesilgan joy bitib ketadi.",
+  "hurdle": "Bu katta to'siq.",
+  "knit": "Buvim to'qiydi.",
+  "lining": "Paltoning qizil astari bor.",
+  "plaza": "Biz maydonda uchrashdik.",
+  "resilient": "U qiyinchiliklarga bardoshli.",
+  "silver lining": "Har bir yomonlikning yaxshi tomoni bor."
+ },
+ "A2": {
+  "Brad": "Brad Kaliforniyada yashaydi.",
+  "LA": "Los-Anjeles Kaliforniyada joylashgan.",
+  "heal": "Vaqt hamma yarani davolaydi.",
+  "hurdle": "Biz to'siqdan o'tdik.",
+  "knit": "U sharf to'qiydi.",
+  "lining": "Astar yumshoq.",
+  "plaza": "Maydon katta.",
+  "resilient": "Bolalar ko'pincha qiyinchiliklarga bardoshli bo'ladi.",
+  "silver lining": "Buning yaxshi tomoni bormi?"
+ },
  "B1": {
   "Brad": "Brad yong'inda uyidan ayrildi.",
   "LA": "Biz LAga uchib bordik.",

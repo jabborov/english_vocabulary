@@ -1,5 +1,33 @@
-// Part 1 topic 0395: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0395: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0395', {
+ "A1": {
+  "auto": "Keling, avtorikshaga chiqaylik.",
+  "bumper": "Bamper singan.",
+  "bumper car": "Men to'qnashadigan mashinachalarni yaxshi ko'raman.",
+  "get behind": "Rulga o'tiring.",
+  "gridlock": "Shaharda tirbandlik bor.",
+  "guzzling": "Bu yoqilg'ini juda ko'p yeydigan mashina.",
+  "maelstrom": "Bu girdob edi.",
+  "motor": "Motor buzilgan.",
+  "motor vehicle": "Avtomobil motorli transport vositasidir.",
+  "motorbike": "Mening mototsiklim bor.",
+  "potent": "Bu kuchli ichimlik.",
+  "rickshaw": "Biz rikshaga chiqdik."
+ },
+ "A2": {
+  "auto": "Avtoriksha yashil rangda.",
+  "bumper": "Uning mashinasida yangi bamper bor.",
+  "bumper car": "Biz to'qnashadigan mashinachalarda uchdik.",
+  "get behind": "U rulga o'tirdi.",
+  "gridlock": "Biz tirbandlikda qolib ketdik.",
+  "guzzling": "Katta mashinalar ko'p yoqilg'i yeydi.",
+  "maelstrom": "Ko'cha qaynab turgan girdobga o'xshardi.",
+  "motor": "Bu qayiqning motori bor.",
+  "motor vehicle": "Uning motorli transport vositasi bor.",
+  "motorbike": "U mototsikl haydaydi.",
+  "potent": "Bu kuchli ta'sirga ega dori.",
+  "rickshaw": "Riksha tez yuradi."
+ },
  "B1": {
   "auto": "U Dehlida avtorikshada ishlaydi.",
   "bumper": "Mashinalar bir-biriga tiqilib turardi.",

@@ -1,5 +1,45 @@
-// Part 2 topic 0009: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0009: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0009', {
+ "A1": {
+  "break across": "Yeng bilak ustida burmalanadi.",
+  "cleavage": "Ko'krak oralig'i tananing bir qismidir.",
+  "colonial": "Bu mustamlaka davri uslubidagi uy.",
+  "dinner jacket": "Uning kechki ziyofat kostyumi bor.",
+  "dress up": "Men chiroyli kiyinishni yaxshi ko'raman.",
+  "flats": "Men poshnasiz tufli kiyaman.",
+  "gone are the flashy": "Yaltiroq poyabzallar zamoni o'tdi.",
+  "high heel": "Bu baland poshnali tufli.",
+  "marching order": "U ishdan haydaldi.",
+  "palm": "Bu mening kaftim.",
+  "provocative": "Bu ko'ylak juda ochiq-sochiq.",
+  "revealing": "Bu kofta juda ochiq.",
+  "scent": "Menga bu hid yoqadi.",
+  "sharp aroma": "Uning o'tkir hidi bor.",
+  "smart casual": "Oddiy, lekin ozoda kiyining.",
+  "subdued": "Ranglar xira va bosiq.",
+  "suit sleeves": "Kostyumimning yenglari uzun.",
+  "wardrobe": "Mening kiyim javonim katta."
+ },
+ "A2": {
+  "break across": "Shimning pochasi poyabzali ustida burmalanib turardi.",
+  "cleavage": "Ko'ylak ko'krak oralig'ini biroz ochib turardi.",
+  "colonial": "Biz mustamlaka davridan qolgan eski binoni ziyorat qildik.",
+  "dinner jacket": "U bazmga kechki ziyofat kostyumida keldi.",
+  "dress up": "Biz to'yga chiroyli kiyinib bordik.",
+  "flats": "U kecha yangi poshnasiz tufli sotib oldi.",
+  "gone are the flashy": "O'tmishdagi yaltiroq ranglar zamoni o'tdi.",
+  "high heel": "Bazmda uning baland poshnasi sinib qoldi.",
+  "marching order": "Yangi rahbar uni ishdan bo'shatdi.",
+  "palm": "Uning kaftida tanga bor edi.",
+  "provocative": "U juda ochiq-sochiq kiyim kiygan edi.",
+  "revealing": "U ochiq-sochiq ko'ylakni xohlamadi.",
+  "scent": "Gullarning shirin hidi bor edi.",
+  "sharp aroma": "Pishloqdan o'tkir hid kelardi.",
+  "smart casual": "Kiyinish talabi oddiy, lekin ozoda uslub edi.",
+  "subdued": "U bosiq kulrang kostyum kiygan edi.",
+  "suit sleeves": "U kostyumining yenglarini to'g'riladi.",
+  "wardrobe": "Kiyimlarimni kiyim javoniga qo'ydim."
+ },
  "B1": {
   "break across": "Yaxshi pidjakning yengi bilakka kelib tegishi kerak.",
   "cleavage": "Ba'zi kiyinish qoidalarida ko'krak o'yig'i yopiq bo'lishi kerakligi aytilgan.",

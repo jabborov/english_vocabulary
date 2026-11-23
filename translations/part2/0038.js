@@ -1,5 +1,39 @@
-// Part 2 topic 0038: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0038: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0038', {
+ "A1": {
+  "aspiration": "Mening bir intilishim bor.",
+  "blockbusters": "Menga mashhur blokbaster filmlar yoqadi.",
+  "er": "Hmm, bilmayman.",
+  "frankly": "Ochig'ini aytsam, bilmayman.",
+  "iconic symbol": "Bu mashhur ramz.",
+  "influence": "Filmlarning ta'siri bor.",
+  "involvement": "Ishtirokingiz uchun rahmat.",
+  "nearly": "Soat deyarli o'n bo'ldi.",
+  "pilgrimage": "Bu ziyorat.",
+  "possibly": "Bu, ehtimol, rost.",
+  "put up": "Rasmni osib qo'ying.",
+  "scrubby": "Tepalik butazor bilan qoplangan.",
+  "tinsel town": "Gollivud Amerikada joylashgan.",
+  "whatever": "Nima xohlasangiz, o'shani yeng.",
+  "witness": "Siz buning guvohi bo'ldingizmi?"
+ },
+ "A2": {
+  "aspiration": "Uning orzusi aktyor bo'lish.",
+  "blockbusters": "Bu dam olish kunlari ikkita mashhur blokbaster tomosha qildik.",
+  "er": "U, hmm, juda katta.",
+  "frankly": "Ochig'ini aytsam, film zerikarli edi.",
+  "iconic symbol": "Eyfel minorasi Parijning mashhur ramzi.",
+  "influence": "Otam menga katta ta'sir ko'rsatgan.",
+  "involvement": "Uning filmdagi ishtiroki kichik edi.",
+  "nearly": "Men avtobusga kechikib qolishimga oz qoldi.",
+  "pilgrimage": "Ular muqaddas shaharga ziyoratga borishdi.",
+  "possibly": "U, ehtimol, bu yerdagi eng yaxshi aktyor.",
+  "put up": "Ular bog'ga yangi belgi o'rnatishdi.",
+  "scrubby": "Biz butazor so'qmoqdan yuqoriga chiqdik.",
+  "tinsel town": "U Gollivudda yashashni xohlaydi.",
+  "whatever": "Qaysi filmni xohlasangiz, o'shani ko'rishingiz mumkin.",
+  "witness": "U baxtsiz hodisaning guvohi bo'ldi."
+ },
  "B1": {
   "aspiration": "Ko'p yoshlar Gollivudga katta orzu-intilishlar bilan kelishadi.",
   "blockbusters": "Yoz eng ko'p blokbasterlar chiqadigan vaqt.",

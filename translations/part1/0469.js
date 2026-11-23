@@ -1,5 +1,15 @@
-// Part 1 topic 0469: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0469: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0469', {
+ "A1": {
+  "Disneyland": "Biz Disneylendga bordik.",
+  "go off": "Budilnigim soat yettida jiringlaydi.",
+  "wed": "Ular iyunda turmush qurishadi."
+ },
+ "A2": {
+  "Disneyland": "Bolalar Disneylendni juda yaxshi ko'rishadi.",
+  "go off": "Ziyofat yaxshi o'tdi.",
+  "wed": "Ikki yulduz turmush qurmoqchi."
+ },
  "B1": {
   "Disneyland": "U Parijdagi Disneylendga sayohat uchun pul yig'di.",
   "go off": "Dars paytida yong'in signali chalinib ketdi.",

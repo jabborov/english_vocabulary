@@ -1,5 +1,43 @@
-// Part 2 topic 0040: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0040: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0040', {
+ "A1": {
+  "appraise": "Ishingizni baholang.",
+  "cab": "Keling, taksiga o'tiramiz.",
+  "counter": "Jismoniy mashqlar stressga qarshi kurashishi mumkin.",
+  "discovery": "Bu katta kashfiyot edi.",
+  "failure": "Muvaffaqiyatsizlik yomon narsa emas.",
+  "fear": "Men itlardan qo'rqaman.",
+  "interaction": "Bizga darsdagi o'zaro muloqot yoqadi.",
+  "it came easier": "Avvaliga qiyin edi, keyin osonroq bo'ldi.",
+  "judge": "Odamlarni hukm qilmang.",
+  "nap": "Chaqaloq biroz uxlab oladi.",
+  "perfectionism": "Mukammallikka intilish qiyin.",
+  "refusing": "U ovqat yeyishdan bosh tortyapti.",
+  "silly": "Bu kulgili shlyapa.",
+  "socially anxious": "U odamlar orasida xavotirlanadi.",
+  "spiking": "Narxlar keskin ko'tarilmoqda.",
+  "try it out": "Mana yangi o'yin. Sinab ko'ring!",
+  "walk up": "Eshik oldiga yurib boring."
+ },
+ "A2": {
+  "appraise": "O'qituvchi inshoalarimizni baholaydi.",
+  "cab": "Vokzalga borish uchun taksi chaqirdim.",
+  "counter": "Suv issiqqa qarshi kurashishga yordam beradi.",
+  "discovery": "Bu kashfiyot uni xursand qildi.",
+  "failure": "Reja muvaffaqiyatsiz chiqdi.",
+  "fear": "U qo'rquvdan titrardi.",
+  "interaction": "O'yinda o'zaro muloqot ko'p.",
+  "it came easier": "Bir necha kundan keyin bu osonroq bo'ldi.",
+  "judge": "Odamlar sizga kiyimingizga qarab baho beradi.",
+  "nap": "Tushlikdan keyin biroz mizg'ib oldim.",
+  "perfectionism": "Mukammallikka intilishi uni sekinlashtiradi.",
+  "refusing": "U yordamimdan qayta-qayta bosh tortdi.",
+  "silly": "Bema'nilik qilmang!",
+  "socially anxious": "U bazmlarda odamlar orasida xavotirga tushadi.",
+  "spiking": "Yurak urishim keskin tezlashyapti.",
+  "try it out": "Men velosiped sotib oldim va uni sinab ko'rmoqchiman.",
+  "walk up": "U o'qituvchining oldiga yurib bordi."
+ },
  "B1": {
   "appraise": "Harakat qilishdan oldin vaziyatni baholash muhim.",
   "cab": "U haydovchidan taksini o'zi haydasa bo'ladimi, deb so'radi.",

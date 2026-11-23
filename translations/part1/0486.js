@@ -1,5 +1,41 @@
-// Part 1 topic 0486: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0486: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0486', {
+ "A1": {
+  "Islamic": "Bu islom san'ati.",
+  "charter": "Bu qadimiy yorliq.",
+  "cut into": "Tortni kesing.",
+  "cylinder": "Bu silindr.",
+  "cylindrical": "U silindrsimon.",
+  "decree": "Qirol farmon chiqardi.",
+  "decreed": "Bu qirol farmoni bilan belgilangan.",
+  "dictator": "U diktator edi.",
+  "engrave": "Ismingizni o'yib yozing.",
+  "enslave": "Odamlarni qul qilmang.",
+  "graphite": "Qalamlarda grafit bor.",
+  "inscribe": "Ular ismlarni o'yib yozishadi.",
+  "inscription": "Yozuvni o'qing.",
+  "politically": "Bu siyosiy jihatdan qiyin.",
+  "tyrannical": "U zolim qirol edi.",
+  "tyranny": "Ular zulmdan nafratlanishgan."
+ },
+ "A2": {
+  "Islamic": "U islom tarixini o'rganadi.",
+  "charter": "Qirol yorliqni imzoladi.",
+  "cut into": "U yog'ochni kesdi.",
+  "cylinder": "Silindr uzun.",
+  "cylindrical": "Banka silindrsimon.",
+  "decree": "Bu qirollik farmoni.",
+  "decreed": "Farmon bilan e'lon qilingan bayram boshlandi.",
+  "dictator": "Diktator shafqatsiz edi.",
+  "engrave": "U uzukka naqsh o'ydi.",
+  "enslave": "Ular asirlarni qul qilishdi.",
+  "graphite": "Grafit qora rangda.",
+  "inscribe": "U toshga yozuv o'ydi.",
+  "inscription": "Yozuv qadimiy.",
+  "politically": "U siyosiy jihatdan faol.",
+  "tyrannical": "Uning zolim xo'jayini bor edi.",
+  "tyranny": "Zulm shafqatsizdir."
+ },
  "B1": {
   "Islamic": "Muzeyda islomiy buyumlar bor.",
   "charter": "Xartiya odamlarga huquqlar berdi.",

@@ -1,5 +1,47 @@
-// Part 1 topic 0148: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0148: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0148', {
+ "A1": {
+  "additionally": "Bundan tashqari, u arzon.",
+  "al": "Sun'iy intellekt kompyuter dasturidir.",
+  "antibiotic": "Shifokor menga antibiotik berdi.",
+  "aspirin": "Men aspirin ichdim.",
+  "ensure": "Iltimos, eshik yopiq ekanligiga ishonch hosil qiling.",
+  "guinea": "Gineya eski tanga.",
+  "guinea pig": "Mening dengiz cho'chqacham bor.",
+  "ineffective": "Bu dori samarasiz.",
+  "limitation": "Har bir rejaning cheklovlari bor.",
+  "mouse": "Sichqon kichkina.",
+  "precision": "Bu aniqlikni talab qiladi.",
+  "rat": "Men kalamushni ko'rdim.",
+  "step forward": "Bu oldinga qo'yilgan qadam.",
+  "testing": "Sinovdan o'tkazish muhim.",
+  "toxicology": "U toksikologiyani o'rganadi.",
+  "vice versa": "Men unga yordam beraman, u ham menga.",
+  "wade": "Biz dengizda suv kechib yurdik.",
+  "wade through": "Men bu qog'ozlarni zo'rg'a ko'rib chiqishim kerak.",
+  "welfare": "Biz hayvonlar farovonligi haqida qayg'uramiz."
+ },
+ "A2": {
+  "additionally": "Bundan tashqari, mehmonxonada basseyn bor.",
+  "al": "Sun'iy intellekt shifokorlarga yordam berishi mumkin.",
+  "antibiotic": "Bu antibiotikni kuniga ikki mahal iching.",
+  "aspirin": "Aspirin bosh og'rig'iga yordam beradi.",
+  "ensure": "Biz ovqat yangi bo'lishini ta'minlaymiz.",
+  "guinea": "\"Guinea\" so'zi \"guinea pig\", ya'ni dengiz cho'chqasi iborasida uchraydi.",
+  "guinea pig": "Mening dengiz cho'chqam sabzi yeydi.",
+  "ineffective": "Reja samarasiz bo'ldi.",
+  "limitation": "Men o'z imkoniyatlarim chegarasini bilaman.",
+  "mouse": "Sichqon stol tagiga yugurib kirdi.",
+  "precision": "U aniqlik bilan ishlaydi.",
+  "rat": "Kalamushlarning dumi uzun.",
+  "step forward": "Bu oldinga qo'yilgan yaxshi qadam.",
+  "testing": "Sinovlar ikki hafta davom etdi.",
+  "toxicology": "Toksikologiya zaharlar haqidagi fan.",
+  "vice versa": "U meni yaxshi ko'radi, men ham uni.",
+  "wade": "Bolalar suvga kechib kirishdi.",
+  "wade through": "U uzun hisobotni zo'rg'a o'qib chiqdi.",
+  "welfare": "Bolalarning farovonligi muhim."
+ },
  "B1": {
   "additionally": "Bundan tashqari, talabalar insho yozishlari shart.",
   "al": "Olimlar yangi dorilarni o'rganish uchun sun'iy intellektdan foydalanishadi.",

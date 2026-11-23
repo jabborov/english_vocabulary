@@ -1,5 +1,43 @@
-// Part 1 topic 0321: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0321: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0321', {
+ "A1": {
+  "accusation": "Bu yolg'on ayblov.",
+  "antiquity": "Bu vaza qadimiy buyum.",
+  "bottleneck": "Yo'lda tirbandlik bor.",
+  "buying": "Bu yerda oziq-ovqat sotib olish oson.",
+  "country of origin": "Kelib chiqqan mamlakatini tekshiring.",
+  "expansive": "Bog' juda keng.",
+  "fine arts": "U tasviriy san'atni o'rganadi.",
+  "illegally": "U mashinani noqonuniy joyga qo'ydi.",
+  "in store": "Sizni bir syurpriz kutmoqda.",
+  "intermediary": "U vositachi.",
+  "judicious": "U oqilona fikrlaydigan odam.",
+  "knowingly": "U buni bila turib qildi.",
+  "loot": "O'g'rilar do'konni talon-taroj qilishdi.",
+  "modern era": "Biz zamonaviy davrda yashaymiz.",
+  "necklace": "Mening qizil marjonim bor.",
+  "repatriation": "Ular vatanga qaytarishni xohlashadi.",
+  "rocking horse": "O'g'limning tebranadigan o'yinchoq oti bor."
+ },
+ "A2": {
+  "accusation": "U ayblovdan g'azablandi.",
+  "antiquity": "Muzeyda Misrdan keltirilgan qadimiy buyumlar namoyish etiladi.",
+  "bottleneck": "Transport yo'l torayadigan joyda to'xtab qoladi.",
+  "buying": "U eski kitoblar sotib olishni yaxshi ko'radi.",
+  "country of origin": "Yorliqda kelib chiqqan mamlakat ko'rsatilgan.",
+  "expansive": "Ularning keng bog'i bor.",
+  "fine arts": "U tasviriy san'atni yaxshi ko'radi.",
+  "illegally": "Ular mamlakatga noqonuniy kirishdi.",
+  "in store": "Ertaga bizni nima kutayotganini bilmaymiz.",
+  "intermediary": "Biz vositachi orqali gaplashdik.",
+  "judicious": "Bu oqilona tanlov edi.",
+  "knowingly": "U qoidani bila turib buzdi.",
+  "loot": "Askarlar o'ljani olib ketishdi.",
+  "modern era": "Telefonlar zamonaviy davrning bir qismi.",
+  "necklace": "U oltin marjon taqadi.",
+  "repatriation": "Muzey vatanga qaytarish haqida gapirdi.",
+  "rocking horse": "Eski tebranadigan o'yinchoq ot chordoqda turibdi."
+ },
  "B1": {
   "accusation": "Savdogar o'g'irlangan san'at asarlarini sotishda ayblandi.",
   "antiquity": "Urush paytida bu joydan ko'plab qadimiy buyumlar olib ketilgan.",

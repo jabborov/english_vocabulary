@@ -1,5 +1,45 @@
-// Part 2 topic 0008: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0008: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0008', {
+ "A1": {
+  "affect": "Bu menga ta'sir qiladi.",
+  "afterwards": "Keyinroq biz ovqatlandik.",
+  "detached": "Men o'zimni befarq va uzilgandek his qilyapman.",
+  "furry": "Mushuk serjun.",
+  "guinea pig": "Mening dengiz cho'chqachasim bor.",
+  "help us out with": "Bunda bizga yordam bera olasizmi?",
+  "isolate": "O'zingizni boshqalardan ajratib qo'ymang.",
+  "literally": "Men tom ma'noda yugurdim.",
+  "long-term effects": "Biz uzoq muddatli ta'sirlarni bilmaymiz.",
+  "media blackout": "Men axborotdan butunlay uzilishni xohlayman.",
+  "mental well-being": "Ruhiy salomatlik muhim.",
+  "permanent": "Bu doimiy.",
+  "reminder": "Bu eslatma.",
+  "seem": "Siz xursand ko'rinasiz.",
+  "short-eared rabbit": "Bu kalta quloqli quyon.",
+  "unplugged": "Bugun men internetdan uzilganman.",
+  "waking hours": "Men uyg'oq vaqtimning ko'p qismida ishlayman.",
+  "withdrawal symptoms": "Unda abstinensiya alomatlari bor."
+ },
+ "A2": {
+  "affect": "Yomg'ir rejalarimizga ta'sir qildi.",
+  "afterwards": "Keyin biz kafega bordik.",
+  "detached": "U do'stlaridan uzoqlashib qolganini his qildi.",
+  "furry": "Uning kichkina, momiq o'yinchog'i bor edi.",
+  "guinea pig": "Yangi o'yin men ustimda sinab ko'rildi.",
+  "help us out with": "Ko'chishda qo'shnimiz bizga yordam berdi.",
+  "isolate": "Kasallik uni do'stlaridan ajratib qo'ydi.",
+  "literally": "Kecha tunda tom ma'noda uxlamadim.",
+  "long-term effects": "Shifokorlar dorining uzoq muddatli ta'sirini o'rganishdi.",
+  "media blackout": "U bir hafta davomida axborot vositalaridan butunlay uzildi.",
+  "mental well-being": "Piyoda yurish ruhiy salomatligimga yordam beradi.",
+  "permanent": "U doimiy ishga joylashdi.",
+  "reminder": "Menga qabulim haqida eslatma keldi.",
+  "seem": "Imtihon oson tuyuldi.",
+  "short-eared rabbit": "Biz dalada kalta quloqli quyonni ko'rdik.",
+  "unplugged": "Ta'tilda biz internet va gadjetlardan uzilgan edik.",
+  "waking hours": "U uyg'oq vaqtini kompyuter oldida o'tkazardi.",
+  "withdrawal symptoms": "Qahvani tashlagandan keyin unda abstinensiya alomatlari paydo bo'ldi."
+ },
  "B1": {
   "affect": "Kechasi kech telefon ishlatish uyqungizga ta'sir qilishi mumkin.",
   "afterwards": "Keyin u o'zini ancha yaxshi his qildi.",

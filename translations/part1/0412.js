@@ -1,5 +1,31 @@
-// Part 1 topic 0412: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0412: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0412', {
+ "A1": {
+  "December": "Tug'ilgan kunim dekabrda.",
+  "end on": "Film g'amgin ohangda tugaydi.",
+  "equator": "Ekvatorda havo issiq.",
+  "equinox": "Bugun tengkunlik.",
+  "glut": "Olma haddan tashqari ko'p.",
+  "midwinter": "Qish o'rtasida havo sovuq bo'ladi.",
+  "nigh": "Oxirat yaqin!",
+  "noon": "Tush paytida uchrashaylik.",
+  "solstice": "Quyosh turishi qachon?",
+  "spawn": "Undan film paydo bo'ldi.",
+  "winter solstice": "Bugun qishki quyosh turishi kuni."
+ },
+ "A2": {
+  "December": "Dekabrda havo sovuq.",
+  "end on": "Kurs juma kuni tugaydi.",
+  "equator": "Keniya ekvatorda joylashgan.",
+  "equinox": "Tengkunlik martda bo'ladi.",
+  "glut": "Bu kitoblar haddan tashqari ko'p.",
+  "midwinter": "Biz qish o'rtasida uchrashamiz.",
+  "nigh": "Qish yaqinlashib qoldi.",
+  "noon": "Hozir tush payti.",
+  "solstice": "Quyosh turishi iyunda bo'ladi.",
+  "spawn": "Bu g'oya ko'plab kitoblarning paydo bo'lishiga sabab bo'ldi.",
+  "winter solstice": "Qishki quyosh turishi dekabrda bo'ladi."
+ },
  "B1": {
   "December": "Dekabr - yilning oxirgi oyi.",
   "end on": "Taqvim o'sha kunda tugaydi.",

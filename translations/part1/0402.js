@@ -1,5 +1,13 @@
-// Part 1 topic 0402: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0402: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0402', {
+ "A1": {
+  "apocalypse": "Qiyomat yaqinlashyaptimi?",
+  "societal": "Bu ijtimoiy muammo."
+ },
+ "A2": {
+  "apocalypse": "Bu oxirzamon haqidagi film.",
+  "societal": "Ijtimoiy o'zgarishlar bor."
+ },
  "B1": {
   "apocalypse": "Ular oxirzamon uchun bunker qurishdi.",
   "societal": "Qashshoqlik ijtimoiy muammodir."

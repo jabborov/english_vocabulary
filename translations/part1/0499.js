@@ -1,5 +1,31 @@
-// Part 1 topic 0499: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0499: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0499', {
+ "A1": {
+  "Taiwan": "Tayvan oroldir.",
+  "banquet": "Biz ziyofatga bordik.",
+  "boycott": "Ular do'konni boykot qilishadi.",
+  "chop off": "Uchini kesib tashlang.",
+  "hammerhead": "Bu bolg'abosh akula.",
+  "hammerhead shark": "Bolg'abosh akulaga qarang!",
+  "lunar calendar": "Bu oy taqvimi.",
+  "must": "Qishda palto shart.",
+  "throw back": "Baliqni qaytarib suvga tashlang.",
+  "toss": "To'pni menga otib yubor.",
+  "whale shark": "Kitsimon akula juda katta."
+ },
+ "A2": {
+  "Taiwan": "Men Tayvanga borishni xohlayman.",
+  "banquet": "Ziyofat juda katta edi.",
+  "boycott": "Biz o'sha brendni boykot qilamiz.",
+  "chop off": "U shoxni kesib tashladi.",
+  "hammerhead": "Bolg'abosh akula yonimizdan suzib o'tdi.",
+  "hammerhead shark": "Bolg'abosh akulaning boshi yassi.",
+  "lunar calendar": "Oy taqvimi oyning harakatiga asoslanadi.",
+  "must": "Bu filmni albatta ko'rish kerak.",
+  "throw back": "U kichik baliqni qaytarib suvga tashladi.",
+  "toss": "U qog'ozni chelakka otib yubordi.",
+  "whale shark": "Biz kitsimon akulani ko'rdik."
+ },
  "B1": {
   "Taiwan": "Tayvan Xitoyga yaqin joylashgan.",
   "banquet": "To'ydan keyin ziyofat bo'ldi.",

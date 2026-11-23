@@ -1,5 +1,35 @@
-// Part 1 topic 0147: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0147: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0147', {
+ "A1": {
+  "bamboo": "Pandalar bambuk yeydi.",
+  "broadly": "Men umuman olganda roziman.",
+  "call the shots": "Bu yerda kim hal qiladi?",
+  "community service": "Biz jamoat ishlarida qatnashamiz.",
+  "positively": "Ijobiy fikrlang!",
+  "private school": "U xususiy maktabda o'qiydi.",
+  "purchase": "Chiptalarni shu yerdan sotib olishingiz mumkin.",
+  "radical": "Bu radikal g'oya.",
+  "real world": "Maktab haqiqiy hayot emas.",
+  "school day": "Maktab kuni soat to'qqizda boshlanadi.",
+  "shop at": "Biz o'sha supermarketdan xarid qilamiz.",
+  "shot": "U o'q ovozini eshitdi.",
+  "untypical": "Bu odatiy emas."
+ },
+ "A2": {
+  "bamboo": "Bu stul bambukdan yasalgan.",
+  "broadly": "Reja umuman olganda yaxshi.",
+  "call the shots": "Uyda hamma narsani onam hal qiladi.",
+  "community service": "U bog'da jamoat ishlarini bajardi.",
+  "positively": "U maktabi haqida ijobiy fikr bildirdi.",
+  "private school": "Xususiy maktablar qimmat.",
+  "purchase": "U yangi telefon sotib oldi.",
+  "radical": "Ular tub o'zgarishlar qilishdi.",
+  "real world": "Men haqiqiy hayotda ish qilishni xohlayman.",
+  "school day": "Dushanba uzun o'quv kuni.",
+  "shop at": "Men kichik do'konlardan xarid qilishni yaxshi ko'raman.",
+  "shot": "Bir urinib ko'ring!",
+  "untypical": "Bu odatiy bo'lmagan kun edi."
+ },
  "B1": {
   "bamboo": "Sinfxonalarning devorlari bambukdan.",
   "broadly": "Umuman olganda, natijalar ijobiy bo'ldi.",

@@ -1,5 +1,41 @@
-// Part 1 topic 0414: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0414: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0414', {
+ "A1": {
+  "Beijing": "Pekin Xitoyda joylashgan.",
+  "Jan": "Janning yangi velosipedi bor.",
+  "abreast": "Biz ikki kishi yonma-yon yurdik.",
+  "battalion": "Batalyon qadam tashlab ketdi.",
+  "comedy": "Biz televizorda komediya ko'rdik.",
+  "drove": "Odamlar to'da-to'da bo'lib kelishdi.",
+  "dusk": "G'ira-shirada havo soviydi.",
+  "gladiator": "Gladiator Rimda jang qilgan.",
+  "go to war": "Ikki davlat urushga kirishdi.",
+  "idiot": "Ahmoq bo'lma!",
+  "military unit": "U harbiy bo'linmaga qo'shildi.",
+  "mode": "Velosiped transport turlaridan biri.",
+  "motorist": "Haydovchi svetoforda to'xtadi.",
+  "racing": "U avtopoygani yaxshi ko'radi.",
+  "spoke": "G'ildirakning kegaylari ko'p.",
+  "stretchy": "Bu ko'ylak cho'ziluvchan."
+ },
+ "A2": {
+  "Beijing": "O'tgan yili Pekinga bordim.",
+  "Jan": "Jan ishga velosipedda boradi.",
+  "abreast": "Qizlar uchtasi yonma-yon ot minib borishdi.",
+  "battalion": "U askarlar batalyonida edi.",
+  "comedy": "Men komediya filmlarini yaxshi ko'raman.",
+  "drove": "Sayyohlar to'da-to'da bo'lib tashrif buyurishadi.",
+  "dusk": "Biz g'ira-shirada uyga qaytdik.",
+  "gladiator": "Film bir gladiator haqida.",
+  "go to war": "Hech kim urushga kirishni xohlamaydi.",
+  "idiot": "O'zimni ahmoqdek his qildim.",
+  "military unit": "Harbiy bo'linma qadam tashlab o'tib ketdi.",
+  "mode": "Siz qaysi transport turidan foydalanasiz?",
+  "motorist": "Mashinamiz buzilib qolganda bir haydovchi bizga yordam berdi.",
+  "racing": "Biz televizorda poygani tomosha qildik.",
+  "spoke": "Bitta kegay singan.",
+  "stretchy": "Men cho'ziluvchan shimlarni yoqtiraman."
+ },
  "B1": {
   "Beijing": "Ilgari Pekinda mashinalardan ko'ra velosipedlar ko'p edi.",
   "Jan": "Yanning aytishicha, yo'llar xavfli.",

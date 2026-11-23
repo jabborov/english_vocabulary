@@ -1,5 +1,29 @@
-// Part 1 topic 0445: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0445: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0445', {
+ "A1": {
+  "activation": "Faollashtirish tez amalga oshadi.",
+  "alphabet": "Men alifboni bilaman.",
+  "circuit": "Elektr zanjiri uzilgan.",
+  "connectivity": "Bu yerda aloqa yaxshi.",
+  "cord": "Ipni torting.",
+  "intricate": "Naqsh juda murakkab.",
+  "letter of the alphabet": "A alifbodagi harfdir.",
+  "symbolic": "Kabutar ramziy ma'noga ega.",
+  "visual area": "Bu ko'rish sohasi.",
+  "vocal cord": "Ovoz paychalari gapirishga yordam beradi."
+ },
+ "A2": {
+  "activation": "Faollashtirish uchun tugmani bosing.",
+  "alphabet": "Keling, alifbo qo'shig'ini kuylaylik.",
+  "circuit": "Bu elektr zanjiri.",
+  "connectivity": "Wi-Fi aloqasi yomon.",
+  "cord": "Sumkaning bog'ichi uzun.",
+  "intricate": "Uning dizayni murakkab.",
+  "letter of the alphabet": "Ingliz tilida alifboda 26 ta harf bor.",
+  "symbolic": "Buning ramziy ma'nosi bor.",
+  "visual area": "Ko'rish sohasi bizga ko'rishga yordam beradi.",
+  "vocal cord": "Qo'shiqchilar ovoz paychalarini asraydi."
+ },
  "B1": {
   "activation": "Biz miyada faollashuvni ko'rdik.",
   "alphabet": "O'zbek tili lotin alifbosidan foydalanadi.",

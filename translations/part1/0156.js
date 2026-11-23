@@ -1,5 +1,23 @@
-// Part 1 topic 0156: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0156: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0156', {
+ "A1": {
+  "alienate": "Do'stlaringizni o'zingizdan uzoqlashtirmang.",
+  "at the end of the day": "Oxir-oqibat men baxtliman.",
+  "even so": "Havo sovuq edi. Shunday bo'lsa ham, biz tashqariga chiqdik.",
+  "hook": "Paltongizni ilgakka iling.",
+  "hook on": "U o'yinlarga mukkasidan ketgan.",
+  "spring up": "Shaharda yangi do'konlar paydo bo'ldi.",
+  "start up": "U klub ochdi."
+ },
+ "A2": {
+  "alienate": "Yomon xabarlar odamlarni begonalashtirishi mumkin.",
+  "at the end of the day": "Nima bo'lganda ham, u mening do'stim.",
+  "even so": "U charchagan edi. Shunday bo'lsa ham, uy vazifasini tugatdi.",
+  "hook": "U qarmoq bilan baliq tutdi.",
+  "hook on": "U bu shouga mukkasidan ketdi.",
+  "spring up": "Bahorda gullar unib chiqadi.",
+  "start up": "Ular kichik do'kon ochishdi."
+ },
  "B1": {
   "alienate": "Uning qo'pol so'zlari sinfdoshlarini undan uzoqlashtirdi.",
   "at the end of the day": "Oxir-oqibat, bu sizning tanlovingiz.",

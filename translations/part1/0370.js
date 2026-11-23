@@ -1,5 +1,17 @@
-// Part 1 topic 0370: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0370: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0370', {
+ "A1": {
+  "corridor": "Yo'lak bo'ylab yuring.",
+  "diary": "Mening kundaligim bor.",
+  "in person": "Men shaxsan kelaman.",
+  "notch": "Bu eng yuqori darajada."
+ },
+ "A2": {
+  "corridor": "Yo'lak uzun.",
+  "diary": "Buni kundaligingizga yozib qo'ying.",
+  "in person": "U shaxsan keldi.",
+  "notch": "Uni bir pog'ona balandlating."
+ },
  "B1": {
   "corridor": "Uning ofisi yo'lakning oxirida.",
   "diary": "Kundaligimni tekshirib ko'ray.",

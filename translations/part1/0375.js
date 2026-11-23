@@ -1,5 +1,37 @@
-// Part 1 topic 0375: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0375: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0375', {
+ "A1": {
+  "brushing": "Ot tarashni yaxshi ko'radi.",
+  "cerebral palsy": "Uning bolalar serebral falaji bor.",
+  "equine": "U ot sportlarini yaxshi ko'radi.",
+  "gentleness": "Menga uning muloyimligi yoqadi.",
+  "grooming": "Hayvonni parvarish qilish qiziqarli.",
+  "heart rate": "Yurak urish tezligingizni tekshiring.",
+  "majestic": "Tog'lar viqorli ko'rinadi.",
+  "make over": "Ular xonani yangitdan bezashdi.",
+  "pony": "Men poni xohlayman!",
+  "reliance": "Shakarga qaramligingizni kamaytiring.",
+  "riding horse": "Bu minish uchun ot.",
+  "umbrella": "Soyabon oling.",
+  "unanswered": "Xatim javobsiz qoldi.",
+  "work through": "Keling, buni bosqichma-bosqich hal qilaylik."
+ },
+ "A2": {
+  "brushing": "Tarash o'n daqiqa vaqt oladi.",
+  "cerebral palsy": "Bolalar serebral falaji harakatga ta'sir qiladi.",
+  "equine": "U otlarni davolovchi veterinar.",
+  "gentleness": "U katta muloyimlik ko'rsatdi.",
+  "grooming": "Otni tozalab parvarishlash kerak.",
+  "heart rate": "Yurak urish tezligim yuqori.",
+  "majestic": "Qanday viqorli ot!",
+  "make over": "U eski ko'ylagini qayta tikib, yangiladi.",
+  "pony": "Poni jigarrang.",
+  "reliance": "Mashinalarga qaramligimiz muammodir.",
+  "riding horse": "Uning minish uchun oti bor.",
+  "umbrella": "Soyabonim qizil.",
+  "unanswered": "Savol javobsiz qoldi.",
+  "work through": "U qo'rquvini asta-sekin yengib o'tdi."
+ },
  "B1": {
   "brushing": "Tishlarni tozalash muhim.",
   "cerebral palsy": "Amakivachcham bolalar serebral falaji bilan tug'ilgan.",

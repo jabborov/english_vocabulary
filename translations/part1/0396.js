@@ -1,5 +1,45 @@
-// Part 1 topic 0396: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0396: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0396', {
+ "A1": {
+  "Thailand": "Tailand Osiyoda joylashgan.",
+  "arrest": "Politsiya uni hibsga oldi.",
+  "confiscate": "O'qituvchi telefonimni musodara qildi.",
+  "convict": "Sud uni aybdor deb topdi.",
+  "delegate": "U delegat.",
+  "dodo": "Dodo qushi qirilib ketgan.",
+  "enforcement": "Bizga qonunni yaxshiroq ijro etish kerak.",
+  "intercept": "Ular kemani to'xtatib qolishdi.",
+  "ivory": "Fil suyagi oq rangda.",
+  "license": "Ular do'konga litsenziya berishadi.",
+  "mastermind": "U bu ishning bosh tashkilotchisi.",
+  "poacher": "Brakoner qochib ketdi.",
+  "poaching": "Brakonerlik jinoyatdir.",
+  "seize": "Ular sumkani tortib olishdi.",
+  "seizure": "Bu yirik musodara edi.",
+  "sign in": "Iltimos, shu yerda ro'yxatdan o'ting.",
+  "transit": "Posilka yo'lda.",
+  "tusk": "Filning qoziq tishlari katta."
+ },
+ "A2": {
+  "Thailand": "Men Tailandga bordim.",
+  "arrest": "U kecha hibsga olindi.",
+  "confiscate": "Politsiya fil suyagini musodara qildi.",
+  "convict": "U o'g'irlikda aybdor deb topildi.",
+  "delegate": "Delegatlar yetib kelishdi.",
+  "dodo": "Dodo qushi ucha olmagan.",
+  "enforcement": "Qonun ijrosi zaif.",
+  "intercept": "Politsiya mashinani to'xtatib qoldi.",
+  "ivory": "Fil suyagi sotib olmang.",
+  "license": "Uning haydovchilik guvohnomasi bor.",
+  "mastermind": "Bosh tashkilotchi kim?",
+  "poacher": "Brakonerlar hayvonlarni o'ldiradi.",
+  "poaching": "Brakonerlik ko'plab hayvonlarni nobud qiladi.",
+  "seize": "Politsiya giyohvand moddalarni tortib oldi.",
+  "seizure": "Politsiya musodara o'tkazdi.",
+  "sign in": "Tashrif buyuruvchilar ro'yxatdan o'tishi shart.",
+  "transit": "Bu tranzit davlat.",
+  "tusk": "Qoziq tishlar fil suyagidan iborat."
+ },
  "B1": {
   "Thailand": "Tailandda fillar bor.",
   "arrest": "Ular brakonerlarni hibsga olishdi.",

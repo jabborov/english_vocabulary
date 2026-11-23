@@ -1,5 +1,25 @@
-// Part 1 topic 0236: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0236: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0236', {
+ "A1": {
+  "contexts": "So'zlar turli kontekstlarda keladi.",
+  "distracted": "Fikrim chalg'igan.",
+  "fallen": "Barglar to'kilib bo'lgan.",
+  "fishy": "Bundan baliq hidi kelyapti.",
+  "highlight down": "So'zlarni belgilab qo'ying.",
+  "lecturer": "U o'qituvchi, ma'ruzachi.",
+  "mere": "Bu bor-yo'g'i bir funt turadi.",
+  "reportedly": "Aytishlaricha, u kasal."
+ },
+ "A2": {
+  "contexts": "So'zlarni kontekstda o'rganing.",
+  "distracted": "Chalg'ima!",
+  "fallen": "Narxlar tushdi.",
+  "fishy": "Bu yerda nimadir shubhali.",
+  "highlight down": "U asosiy fikrni belgilab qo'ydi.",
+  "lecturer": "Mening o'qituvchim mehribon.",
+  "mere": "U hali yosh bola edi.",
+  "reportedly": "Aytishlaricha, u juda boy."
+ },
  "B1": {
   "contexts": "So'z turli kontekstlarda o'zgaradi.",
   "distracted": "Shovqin uning diqqatini chalg'itdi.",

@@ -1,5 +1,29 @@
-// Part 1 topic 0207: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0207: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0207', {
+ "A1": {
+  "detective": "U detektiv.",
+  "fictional": "Bu to'qima hikoya.",
+  "fingerprint": "Barmoq izimga qarang.",
+  "footwear": "Biz poyabzal sotamiz.",
+  "forensic": "U sud-tibbiyot ekspertizasi mutaxassisi.",
+  "in evidence": "Politsiya xodimlari ko'zga tashlanib turardi.",
+  "investigation": "Tergov olib borilmoqda.",
+  "murder mystery": "Men qotillik haqidagi detektiv asarlarni yaxshi ko'raman.",
+  "police work": "Politsiya ishi og'ir.",
+  "renaissance": "Bu qayta tiklanish davri."
+ },
+ "A2": {
+  "detective": "Detektiv savollar berdi.",
+  "fictional": "U to'qima qahramon.",
+  "fingerprint": "Ular uning barmoq izlarini olishdi.",
+  "footwear": "Sifatli poyabzal kiying.",
+  "forensic": "Ular sud-tibbiy tekshiruvlar o'tkazishdi.",
+  "in evidence": "Hamma joyda gullar ko'zga tashlanardi.",
+  "investigation": "Tergov yakunlandi.",
+  "murder mystery": "Bu kitob qotillik haqidagi detektiv asar.",
+  "police work": "U politsiya ishini juda yaxshi ko'radi.",
+  "renaissance": "Jaz musiqasi qayta jonlanmoqda."
+ },
  "B1": {
   "detective": "Men detektiv hikoyalarni juda yaxshi ko'raman.",
   "fictional": "Kitobdagi shahar to'qima.",

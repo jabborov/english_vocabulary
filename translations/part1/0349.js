@@ -1,5 +1,45 @@
-// Part 1 topic 0349: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0349: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0349', {
+ "A1": {
+  "Anna": "Anna o'qituvchi.",
+  "architect": "U me'mor.",
+  "at first glance": "Bir qarashda bu oson ko'rinadi.",
+  "barefoot": "U yalangoyoq.",
+  "build dens": "Biz kulbachalar quramiz.",
+  "building material": "Yog'och qurilish materialidir.",
+  "by far": "Bu boshqalaridan ancha yaxshi.",
+  "cop": "U politsiyachi.",
+  "crooked": "Chiziq egri.",
+  "hide in": "Qutiga yashirin.",
+  "in play": "To'p o'yinda.",
+  "junkyard": "Bu eski-tuskilar maydoni.",
+  "pallet": "Bu yog'och taglik.",
+  "plank": "Bu taxta.",
+  "resiliency": "Bardoshlilik muhim.",
+  "skipping rope": "Mening arg'amchim bor.",
+  "throw down": "To'pni pastga tashla.",
+  "turret": "Qasrning minorachasi bor."
+ },
+ "A2": {
+  "Anna": "Anna bolalarni yaxshi ko'radi.",
+  "architect": "Me'mor uy chizdi.",
+  "at first glance": "Bir qarashda u charchagan ko'rinadi.",
+  "barefoot": "U yalangoyoq yuradi.",
+  "build dens": "Bolalar kulbachalar qurishni yaxshi ko'radi.",
+  "building material": "Bizga qurilish materiali kerak.",
+  "by far": "U boshqalardan ancha baland.",
+  "cop": "Politsiyachi bizga yordam berdi.",
+  "crooked": "Rasm qiyshiq osilgan.",
+  "hide in": "Mushuk shkafga yashirinadi.",
+  "in play": "Bolalar o'yin orqali o'rganadi.",
+  "junkyard": "Eski-tuskilar maydonida eski mashinalar bor.",
+  "pallet": "Yog'och taglik og'ir.",
+  "plank": "Taxta uzun.",
+  "resiliency": "U juda bardoshli.",
+  "skipping rope": "U arg'amchida sakraydi.",
+  "throw down": "U sumkasini yerga tashladi.",
+  "turret": "Biz minorachani ko'rdik."
+ },
  "B1": {
   "Anna": "Anna o'yin maydonchasida ishlaydi.",
   "architect": "U me'mor bo'lishni xohlaydi.",

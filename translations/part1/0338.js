@@ -1,5 +1,31 @@
-// Part 1 topic 0338: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0338: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0338', {
+ "A1": {
+  "cereal box": "Yorma qutisi bo'sh.",
+  "coffee mug": "Bu mening qahva krujkam.",
+  "consolation": "Bu qandaydir tasalli.",
+  "fortnight": "Ikki haftadan keyin ko'rishamiz.",
+  "guru": "U fitnes bo'yicha ustoz.",
+  "lure": "Pishloq sichqonni jalb qiladi.",
+  "mug": "Mening ko'k krujkam bor.",
+  "pay out": "Bank pulni to'lab berdi.",
+  "racehorse": "Anavi poyga oti.",
+  "speedboat": "Tezyurar qayiq tez suzadi.",
+  "winning": "Bu g'olib jamoa."
+ },
+ "A2": {
+  "cereal box": "Yorma qutisida o'yinchoq bor.",
+  "coffee mug": "Men qahva krujkasida choy ichaman.",
+  "consolation": "U tasalli sovrinini oldi.",
+  "fortnight": "Biz ikki haftaga ketdik.",
+  "guru": "U moliya bo'yicha ustoz.",
+  "lure": "Ular xaridorlarni past narxlar bilan jalb qilishadi.",
+  "mug": "Menga bir krujka choy bera olasizmi?",
+  "pay out": "Ular juma kunlari pul to'laydi.",
+  "racehorse": "Poyga oti juda tez yuguradi.",
+  "speedboat": "Biz tezyurar qayiqda sayr qildik.",
+  "winning": "U g'alaba keltirgan golni urdi."
+ },
  "B1": {
   "cereal box": "Ukam don mahsuloti qutisining orqasidagi o'yinni qirqib oldi.",
   "coffee mug": "Mening sevimli qahva krujkamda mushuk surati bor.",

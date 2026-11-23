@@ -1,5 +1,25 @@
-// Part 1 topic 0420: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0420: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0420', {
+ "A1": {
+  "CV": "Mana mening rezyumem.",
+  "botanical": "Biz botanika bog'iga bordik.",
+  "catapult": "Shou uni birdaniga shuhratga olib chiqdi.",
+  "covet": "U uning mashinasiga havas qilib, unga ega bo'lishni istaydi.",
+  "curriculum vitae": "Tarjimai holingizni yozing.",
+  "dreaming": "Xayol surishni bas qilib, ishga kirish!",
+  "outstanding": "Taom a'lo darajada edi.",
+  "signature": "Sizning o'ziga xos taomingiz nima?"
+ },
+ "A2": {
+  "CV": "Iltimos, rezyumeingizni yuboring.",
+  "botanical": "U botanik rasmlarni yaxshi ko'radi.",
+  "catapult": "Bitta qo'shiq uni birdaniga cho'qqiga olib chiqdi.",
+  "covet": "Hamma o'sha mukofotni qo'lga kiritishni istaydi.",
+  "curriculum vitae": "Uning tarjimai holi ikki sahifadan iborat.",
+  "dreaming": "Men ta'til haqida orzu qilishni yaxshi ko'raman.",
+  "outstanding": "U ajoyib oshpaz.",
+  "signature": "Bu sho'rva uning o'ziga xos taomi."
+ },
  "B1": {
   "CV": "O'tgan hafta rezyumeimni yangiladim.",
   "botanical": "Taom o'simlik gullari bilan bezatilgan edi.",

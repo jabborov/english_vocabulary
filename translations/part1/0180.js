@@ -1,5 +1,39 @@
-// Part 1 topic 0180: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0180: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0180', {
+ "A1": {
+  "Australia": "Avstraliya juda katta.",
+  "abstain": "Men shakardan voz kechaman.",
+  "booze": "Men uchun ichkilik kerak emas.",
+  "boozing": "U ichkilikbozlikni tashladi.",
+  "boozy": "Bu ichkilikka to'la ziyofat edi.",
+  "computer system": "Kompyuter tizimi ishlamayapti.",
+  "crack on": "Keling, ishni davom ettiraylik.",
+  "crutch": "U qo'ltiqtayoq bilan yuradi.",
+  "drunk": "U mast edi.",
+  "glitter": "Otkritkada yaltiroq bezaklar bor.",
+  "shed": "Daraxtlar barglarini to'kadi.",
+  "sobriety": "Hushyorlik sog'liq uchun foydali.",
+  "spot on": "Ana shunisi to'ppa-to'g'ri!",
+  "teetotal": "Men umuman spirtli ichimlik ichmayman.",
+  "willpower": "Sizga iroda kuchi kerak."
+ },
+ "A2": {
+  "Australia": "Men Avstraliyaga borishni xohlayman.",
+  "abstain": "U go'sht yeyishdan tiyildi.",
+  "booze": "Ular ziyofat uchun ichkilik sotib olishdi.",
+  "boozing": "Ichkilikbozlik sizga zarar.",
+  "boozy": "Biz ichkilik bilan tushlik qildik.",
+  "computer system": "Bizda yangi kompyuter tizimi bor.",
+  "crack on": "Biz ishimizni davom ettirishimiz kerak.",
+  "crutch": "U oyog'ini sindirib, qo'ltiqtayoqdan foydalandi.",
+  "drunk": "Mast bo'lganingizda mashina haydamang.",
+  "glitter": "Bolalar yaltiroq bezaklarni yaxshi ko'radi.",
+  "shed": "Men biroz vazn tashlamoqchiman.",
+  "sobriety": "U hushyor hayot tarzini tanladi.",
+  "spot on": "Taxminingiz mutlaqo to'g'ri chiqdi.",
+  "teetotal": "Dadam umuman ichkilik ichmaydi.",
+  "willpower": "Mening iroda kuchim unchalik kuchli emas."
+ },
  "B1": {
   "Australia": "Kenguru Avstraliyada yashaydi.",
   "abstain": "U qahva ichishdan o'zini tiyadi.",

@@ -1,5 +1,43 @@
-// Part 1 topic 0426: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0426: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0426', {
+ "A1": {
+  "Parmesan": "Men Parmezanni yaxshi ko'raman.",
+  "black pepper": "Men qora murchni yaxshi ko'raman.",
+  "catalyst": "Bu turtki bo'ldi.",
+  "crush": "Sarimsoqni ezing.",
+  "curiously": "U unga qiziqsinib qaradi.",
+  "exclamation mark": "Undov belgisini qo'ying.",
+  "fruity": "Bu ichimlik mevali ta'mga ega.",
+  "grow over": "O'simliklar devorni qoplab o'sdi.",
+  "harden": "Loy qotib qoladi.",
+  "peppercorn": "Bu murch donasi.",
+  "reacquaint": "Keling, qaytadan tanishib olaylik.",
+  "sprinkling": "Bir chimdim tuz qo'shing.",
+  "tasting": "Biz ta'tib ko'rish tadbirida qatnashdik.",
+  "thrill": "Bu juda hayajonli edi.",
+  "vine": "Tok novdasi yashil.",
+  "white pepper": "Bu oq murch.",
+  "woody": "Undan yog'och hidi keladi."
+ },
+ "A2": {
+  "Parmesan": "Biroz Parmezan qo'shing.",
+  "black pepper": "Qora murch qo'shing.",
+  "catalyst": "U o'zgarishlarga turtki bo'ldi.",
+  "crush": "U bankani ezib yubordi.",
+  "curiously": "Qizig'i shundaki, u javob bermadi.",
+  "exclamation mark": "Bu yerga undov belgisini qo'ying!",
+  "fruity": "Vinoning mevali ta'mi bor.",
+  "grow over": "Yo'lakni o't bosib ketdi.",
+  "harden": "Shokoladni qotishga qo'ying.",
+  "peppercorn": "Murch donalari mayda.",
+  "reacquaint": "Men shahar bilan qaytadan tanishib chiqdim.",
+  "sprinkling": "Biroz qor uchqunlagan edi.",
+  "tasting": "Men vino ta'tib ko'rish tadbiriga bordim.",
+  "thrill": "Qanday hayajonli!",
+  "vine": "Uzum tokda o'sadi.",
+  "white pepper": "Oq murch achchiq.",
+  "woody": "Choyda yog'och ta'mi bor."
+ },
  "B1": {
   "Parmesan": "Parmezan italyan pishlog'idir.",
   "black pepper": "Qora murch mashhur ziravor.",

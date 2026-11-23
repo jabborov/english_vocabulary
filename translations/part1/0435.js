@@ -1,5 +1,21 @@
-// Part 1 topic 0435: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0435: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0435', {
+ "A1": {
+  "carbonate": "Biz suvni gazlaymiz.",
+  "carbonated water": "Men gazlangan suv ichaman.",
+  "dye": "Bu bo'yoq qizil.",
+  "emulsifier": "Buning tarkibida emulgator bor.",
+  "heated up": "Men isitilgan sho'rva ichdim.",
+  "sliced": "Men to'g'ralgan nonni yaxshi ko'raman."
+ },
+ "A2": {
+  "carbonate": "Bu mashina ichimliklarni gazlay oladi.",
+  "carbonated water": "Gazlangan suvda pufakchalar bo'ladi.",
+  "dye": "Konfetlar tarkibida bo'yoq bor.",
+  "emulsifier": "Emulgator yog' bilan suvni aralashtiradi.",
+  "heated up": "Pitsa isitildi.",
+  "sliced": "Biroz to'g'ralgan pishloq sotib oling."
+ },
  "B1": {
   "carbonate": "Sharbatni ko'pikli qilish uchun uni gazlashadi.",
   "carbonated water": "Kola asosan gazlangan suv va shakardan iborat.",

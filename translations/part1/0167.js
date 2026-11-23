@@ -1,5 +1,15 @@
-// Part 1 topic 0167: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0167: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0167', {
+ "A1": {
+  "commitment": "Nikoh katta majburiyatdir.",
+  "pt": "Bu hikoyaning 1-qismi.",
+  "signing": "Imzolash besh daqiqa davom etdi."
+ },
+ "A2": {
+  "commitment": "Uy hayvoni uzoq muddatli majburiyatdir.",
+  "pt": "Iltimos, 2-qismni uyda o'qing.",
+  "signing": "Biz hujjatlarning imzolanishini kuzatdik."
+ },
  "B1": {
   "commitment": "Ular turmush qurib, bir-biriga sadoqatini ko'rsatishdi.",
   "pt": "U kafeda yarim stavkada ishlaydi.",

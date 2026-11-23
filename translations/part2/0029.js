@@ -1,5 +1,45 @@
-// Part 2 topic 0029: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0029: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0029', {
+ "A1": {
+  "affect": "Yomg'ir kayfiyatimga ta'sir qilishi mumkin.",
+  "anxious": "Men xavotirdaman.",
+  "certainly": "Men albatta kelaman.",
+  "essentially": "Bu aslida bir xil.",
+  "establish": "Ular maktab tashkil qilmoqchi.",
+  "gadget": "Bu yangi qurilma.",
+  "loan": "Menga qarz kerak.",
+  "mid-life": "Dadam o'rta yoshda.",
+  "owe": "Men sizdan besh funt qarzman.",
+  "qualified": "U malakali o'qituvchi.",
+  "quarter-life": "U yigirma yoshlar o'rtasida.",
+  "recapture": "Men o'sha baxtli kunni qayta his qilmoqchiman.",
+  "recession": "Hozir iqtisodiy tanazzul.",
+  "run over": "Keling, rejani ko'zdan kechirib chiqamiz.",
+  "status conscious": "U o'z mavqeiga juda katta e'tibor beradi.",
+  "subject": "Matematika mening sevimli fanim.",
+  "take out": "Men kredit olaman.",
+  "unaffordable": "Bu mashinani sotib olishga qurbim yetmaydi."
+ },
+ "A2": {
+  "affect": "Stress uyqungizga ta'sir qiladi.",
+  "anxious": "U imtihon haqida xavotirda edi.",
+  "certainly": "Bugun havo haqiqatan ham sovuq.",
+  "essentially": "Bu ikki ish aslida o'xshash.",
+  "establish": "Bu do'konni bobom ochgan.",
+  "gadget": "U oshxona jihozlarini juda yaxshi ko'radi.",
+  "loan": "U bankdan kredit oldi.",
+  "mid-life": "U o'rta yoshida tezyurar mashina sotib oldi.",
+  "owe": "Sizga qancha qarzman?",
+  "qualified": "U bu ish uchun yetarli malakaga ega.",
+  "quarter-life": "U o'zini yigirma yoshlar inqirozida deb o'ylaydi.",
+  "recapture": "U yoshligini qaytarishga harakat qildi.",
+  "recession": "Iqtisodiy tanazzul davrida ko'p odamlar ishsiz qoldi.",
+  "run over": "Yig'ilish o'n daqiqaga cho'zilib ketdi.",
+  "status conscious": "O'z mavqeiga e'tiborli odamlar qimmat mashinalarni yoqtiradi.",
+  "subject": "Keling, mavzuni o'zgartiraylik.",
+  "take out": "Ular mashina uchun sug'urta rasmiylashtirishdi.",
+  "unaffordable": "Bu yerdagi uylarni sotib olishga qurb yetmaydi."
+ },
  "B1": {
   "affect": "Yangi qoidalar universitetning barcha talabalariga ta'sir qiladi.",
   "anxious": "U birinchi ish suhbatidan oldin xavotirlandi.",

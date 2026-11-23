@@ -1,5 +1,23 @@
-// Part 1 topic 0345: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0345: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0345', {
+ "A1": {
+  "adolescence": "O'smirlik qiyin davr.",
+  "aspiration": "Uning katta orzu-intilishlari bor.",
+  "juvenile": "U voyaga yetmagan.",
+  "magazine article": "Men jurnaldagi maqolani o'qidim.",
+  "maturity": "U yetuklik namoyon qiladi.",
+  "mollycoddle": "Uni haddan tashqari erkalatma.",
+  "strike out": "U mustaqil yo'l tutmoqchi."
+ },
+ "A2": {
+  "adolescence": "Uning o'smirlik yillari baxtli o'tgan.",
+  "aspiration": "Uning orzusi shifokor bo'lish.",
+  "juvenile": "Bu hazil bolalarcha.",
+  "magazine article": "Jurnaldagi maqola uzun edi.",
+  "maturity": "U yoshiga nisbatan juda yetuk.",
+  "mollycoddle": "U o'g'lini haddan tashqari erkalaydi.",
+  "strike out": "U mustaqil yo'lga chiqdi."
+ },
  "B1": {
   "adolescence": "O'smirlik taxminan o'n ikki yoshda boshlanadi.",
   "aspiration": "Biz yoshlarning intilishlarini qo'llab-quvvatlashimiz kerak.",

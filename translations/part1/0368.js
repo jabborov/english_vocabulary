@@ -1,5 +1,45 @@
-// Part 1 topic 0368: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0368: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0368', {
+ "A1": {
+  "Mitchell": "Mitchell chipsni yaxshi ko'radi.",
+  "broken in": "Chips ikkiga bo'linib ketgan.",
+  "chipotle": "Chipotle achchiq.",
+  "corn chip": "Men makkajo'xori chipsini yaxshi ko'raman.",
+  "dependent": "U qaram.",
+  "dependent on": "Chaqaloqlar ota-onalariga qaram.",
+  "guacamole": "Men gvakamoleni juda yaxshi ko'raman.",
+  "mashed": "Men kartoshka pyuresini yaxshi ko'raman.",
+  "parcel": "Men posilka oldim.",
+  "paste": "Uni aralashtirib, pasta holiga keltiring.",
+  "potato chip": "Men kartoshka chipsini yaxshi ko'raman.",
+  "rely upon": "Menga ishonishingiz mumkin.",
+  "salsa": "Bu salsa sousi.",
+  "snowball": "Muammo qor ko'chkisidek kattalashib ketdi.",
+  "sour cream": "Men smetanani yaxshi ko'raman.",
+  "tortilla": "Men tortilya yedim.",
+  "tortilla chip": "Menga tortilya chipsi kerak.",
+  "vendor": "Sotuvchi ovqat sotadi."
+ },
+ "A2": {
+  "Mitchell": "Mitchell yozuvchi.",
+  "broken in": "Pechenye ikkiga bo'lingan edi.",
+  "chipotle": "Men chipotle ta'mli chipsni tatib ko'rdim.",
+  "corn chip": "Makkajo'xori chipslari qarsillaydi.",
+  "dependent": "Bolalar qaram bo'ladi.",
+  "dependent on": "Narx o'lchamga bog'liq.",
+  "guacamole": "Gvakamole yashil rangda.",
+  "mashed": "Bananlar ezilgan.",
+  "parcel": "Posilka og'ir.",
+  "paste": "Tomat pastasi qizil.",
+  "potato chip": "Bu kartoshka chipsi paketi katta.",
+  "rely upon": "Biz ob-havoga tayanamiz.",
+  "salsa": "Salsa sousi achchiq.",
+  "snowball": "Savdo qor ko'chkisidek o'sa boshladi.",
+  "sour cream": "Smetana oq rangda.",
+  "tortilla": "Tortilya yassi.",
+  "tortilla chip": "Tortilya chipslari mazali.",
+  "vendor": "Men chipsni sotuvchidan sotib oldim."
+ },
  "B1": {
   "Mitchell": "Mitchell gazaklar haqida gapirdi.",
   "broken in": "Chipslarim maydalanib, ushoq bo'lib qolgan edi.",

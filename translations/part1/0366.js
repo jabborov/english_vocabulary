@@ -1,5 +1,21 @@
-// Part 1 topic 0366: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0366: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0366', {
+ "A1": {
+  "breathless": "Nafasim qisyapti.",
+  "expat": "U chet elda yashovchi muhojir.",
+  "homesick": "Men uyimni sog'indim.",
+  "homesickness": "Men vatanni sog'inyapman.",
+  "new town": "Men yangi shaharchada yashayman.",
+  "panic attack": "Unda vahima xuruji bo'ldi."
+ },
+ "A2": {
+  "breathless": "U yugurgandan keyin nafasi qisib qoldi.",
+  "expat": "Bu yerda chet ellik muhojirlar ko'p.",
+  "homesick": "U lagerda uyini sog'indi.",
+  "homesickness": "Uyni sog'inish uni g'amgin qildi.",
+  "new town": "Yangi shaharcha katta.",
+  "panic attack": "Vahima xuruji qo'rqinchli."
+ },
  "B1": {
   "breathless": "U nafasi qisib, qo'rqib ketdi.",
   "expat": "U Ispaniyada yashovchi britaniyalik muhojir.",

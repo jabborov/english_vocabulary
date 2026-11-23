@@ -1,5 +1,29 @@
-// Part 1 topic 0226: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0226: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0226', {
+ "A1": {
+  "canteen": "Biz oshxonada ovqatlanamiz.",
+  "garment": "Bu kiyim yangi.",
+  "haircut": "Men soch oldirishim kerak.",
+  "illusion": "Bu xayoliy tasavvur.",
+  "invisibility": "Men ko'rinmas bo'lishni xohlayman.",
+  "magic spell": "Jodugar sehr qildi.",
+  "mismatch": "Nomuvofiqlik bor.",
+  "monk": "U rohib.",
+  "observational": "Bu kuzatuvga asoslangan tadqiqot.",
+  "question time": "Endi savol-javob vaqti."
+ },
+ "A2": {
+  "canteen": "Oshxonada odam ko'p.",
+  "garment": "Kiyimni sovuq suvda yuving.",
+  "haircut": "Soch turmagingiz menga yoqdi!",
+  "illusion": "Sehrgar ko'z bo'yamachilik qildi.",
+  "invisibility": "Ko'rinmaslik g'ayritabiiy qobiliyatdir.",
+  "magic spell": "Bu sehrli afsun edi.",
+  "mismatch": "Ranglar bir-biriga mos kelmaydi.",
+  "monk": "Rohib tinch hayot kechiradi.",
+  "observational": "U kuzatuvga asoslangan tadqiqot o'tkazdi.",
+  "question time": "Savol-javob vaqtida men bir narsa so'radim."
+ },
  "B1": {
   "canteen": "Maktab oshxonasida issiq tushlik beriladi.",
   "garment": "U uzun libos kiygan edi.",

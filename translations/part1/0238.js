@@ -1,5 +1,33 @@
-// Part 1 topic 0238: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0238: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0238', {
+ "A1": {
+  "Russian": "U rus.",
+  "abundance": "Ovqat mo'l-ko'l.",
+  "bulk": "Biz guruchni ulgurji olamiz.",
+  "colloquial": "Bu so'zlashuv tilidagi so'z.",
+  "communism": "Kommunizm siyosiy g'oyadir.",
+  "contributor": "U hissa qo'shuvchi muallif.",
+  "end of the world": "Bu dunyoning oxiri emas.",
+  "go past": "Avtobus o'tib ketdi.",
+  "leftover": "Men qolgan ovqatni yedim.",
+  "spring to mind": "Hech narsa xayolimga kelmayapti.",
+  "terribly": "Juda-juda afsusdaman.",
+  "unhygienic": "Bu oshxona gigiyenaga zid."
+ },
+ "A2": {
+  "Russian": "Men rus tilini o'rganyapman.",
+  "abundance": "Bizda meva mo'l-ko'l.",
+  "bulk": "Ulgurji olsa arzonroq.",
+  "colloquial": "\"Mate\" so'zi so'zlashuv tiliga xos.",
+  "communism": "Mamlakatda kommunizm bo'lgan.",
+  "contributor": "U katta hissa qo'shgan.",
+  "end of the world": "Yig'lama, bu dunyoning oxiri emas.",
+  "go past": "Vaqt tez o'tadi.",
+  "leftover": "Qolgan pitsani muzlatgichga qo'y.",
+  "spring to mind": "Xayolimga bitta ism keldi.",
+  "terribly": "Havo juda issiq.",
+  "unhygienic": "Bu gigiyenaga zid!"
+ },
  "B1": {
   "Russian": "Biz rus taomlarini yedik.",
   "abundance": "Bog'da gullar juda mo'l.",

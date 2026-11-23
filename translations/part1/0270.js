@@ -1,5 +1,17 @@
-// Part 1 topic 0270: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0270: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0270', {
+ "A1": {
+  "feasibility": "Biz amalga oshirish mumkinligini tekshirdik.",
+  "size of it": "Gap shunda.",
+  "underestimate": "Uni yerga urmang, kuchini past baholamang.",
+  "unfeasible": "Rejani amalga oshirib bo'lmaydi."
+ },
+ "A2": {
+  "feasibility": "Bu rejani amalga oshirish qanchalik mumkin?",
+  "size of it": "Taxminan shunday.",
+  "underestimate": "Men narxni past baholabman.",
+  "unfeasible": "Hozir buni amalga oshirib bo'lmaydi."
+ },
  "B1": {
   "feasibility": "Ular loyihaning amalga oshirilishi mumkinligini o'rganishdi.",
   "size of it": "\"Yutqazdikmi?\" \"Taxminan shunday.\"",

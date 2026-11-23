@@ -1,5 +1,33 @@
-// Part 1 topic 0283: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0283: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0283', {
+ "A1": {
+  "Indonesia": "Indoneziya Osiyoda joylashgan.",
+  "accomplishment": "Bu katta yutuq.",
+  "appreciative": "U juda qadrlaydigan inson.",
+  "buzzword": "\"Flourishing\" urfdagi so'z.",
+  "cohesion": "Jamoa yaxshi jipslashgan.",
+  "flourish": "O'simliklar quyoshda yaxshi o'sadi.",
+  "flourishing": "Ravnaq topish biz uchun foydali.",
+  "help oneself": "Tortdan olavering.",
+  "nugget": "Men tovuq naggetslarini yedim.",
+  "savour": "Ovqatingizdan rohatlanib, ta'mini his qiling.",
+  "thankful": "Men minnatdorman.",
+  "time out": "Menga biroz tanaffus kerak."
+ },
+ "A2": {
+  "Indonesia": "Indoneziyada ko'plab orollar bor.",
+  "accomplishment": "Poygani tugatish katta yutuq edi.",
+  "appreciative": "Rahmat, men juda minnatdorman.",
+  "buzzword": "Bu so'z yangi urfga kirgan ibora.",
+  "cohesion": "Bizga ko'proq jipslik kerak.",
+  "flourish": "Uning biznesi gullab-yashnamoqda.",
+  "flourishing": "Biz insonning ravnaq topishini o'rgandik.",
+  "help oneself": "Iltimos, ichimliklardan olaveringlar.",
+  "nugget": "U oltin yombichasini topdi.",
+  "savour": "Ertalabki qahvamdan rohatlanib ichaman.",
+  "thankful": "Biz ovqat uchun shukrona aytamiz.",
+  "time out": "Biroz tanaffus qiling."
+ },
  "B1": {
   "Indonesia": "Do'stim Indoneziyadan.",
   "accomplishment": "Til o'rganish katta yutuqdir.",

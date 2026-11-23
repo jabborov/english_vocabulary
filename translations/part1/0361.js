@@ -1,5 +1,23 @@
-// Part 1 topic 0361: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0361: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0361', {
+ "A1": {
+  "branch out": "U faoliyatini kengaytirmoqchi.",
+  "gaming": "Men kompyuter o'yinlarini yaxshi ko'raman.",
+  "narrative": "Bu yoqimli hikoya, qisqa rivoya.",
+  "rejection": "Rad etilish og'riqli.",
+  "repulse": "Hid menda jirkanish uyg'otdi.",
+  "understand out": "Iltimos, tushuning.",
+  "uninterested": "Unga qiziq emas."
+ },
+ "A2": {
+  "branch out": "Do'kon faoliyatini kengaytirib, qahva ham sota boshladi.",
+  "gaming": "U dam olish kunlarini do'stlari bilan kompyuter o'yinlari o'ynab o'tkazadi.",
+  "narrative": "Kitobning hikoya qilinishi sodda.",
+  "rejection": "Uning ishga arizasi rad etildi.",
+  "repulse": "Uning qo'pol so'zlari hammani jirkantirdi.",
+  "understand out": "Qisqa videolarni kontekstdan tashqarida ham tushunish oson.",
+  "uninterested": "U filmga befarq ko'rinardi."
+ },
  "B1": {
   "branch out": "Yillar davomida o'yin videolari qilganidan keyin u yangiliklar sohasiga ham o'tdi.",
   "gaming": "Video o'yinlar o'smirlar orasida mashhur mashg'ulot.",

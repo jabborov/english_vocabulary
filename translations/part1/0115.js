@@ -1,5 +1,45 @@
-// Part 1 topic 0115: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0115: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0115', {
+ "A1": {
+  "arrival": "Biz uning kelishini kutdik.",
+  "bioluminescent": "Bu qo'ziqorin o'zidan nur taratadi.",
+  "chamomile": "Men moychechak choyini yaxshi ko'raman.",
+  "clinical trial": "Bu klinik sinov.",
+  "confusion": "Chalkashlik yuz berdi.",
+  "distrust": "Men ishonchsizlik his qilyapman.",
+  "functionality": "Telefonning funksionalligi yaxshi.",
+  "hairy": "It juni ko'p.",
+  "holistic": "Bu yaxlit yondashuv.",
+  "knowledge base": "Bizning katta bilimlar bazamiz bor.",
+  "label": "Yorliqni o'qing.",
+  "legally": "Bunga qonuniy ruxsat bormi?",
+  "medicinal": "Bu dorivor o'simlik.",
+  "overblown": "Hikoya bo'rttirib yuborilgan.",
+  "property": "Suvning ko'p xususiyatlari bor.",
+  "put out": "Ular yangi kitob chiqarishdi.",
+  "rediscover": "Men eski o'yinchog'imni qayta kashf etdim.",
+  "zoo": "Biz hayvonot bog'iga bordik."
+ },
+ "A2": {
+  "arrival": "Yetib kelish vaqti soat olti.",
+  "bioluminescent": "Ba'zi baliqlar o'zidan nur taratadi.",
+  "chamomile": "Moychechak yoqimli hid taratadi.",
+  "clinical trial": "U klinik sinovda qatnashdi.",
+  "confusion": "Chalkashlik uchun uzr.",
+  "distrust": "O'zaro ishonchsizlik bor.",
+  "functionality": "Menga uning funksionalligi yoqadi.",
+  "hairy": "Uning qo'llari tukli.",
+  "holistic": "U muqobil tibbiyotni yaxshi ko'radi.",
+  "knowledge base": "Bilimlar bazangizni kengaytiring.",
+  "label": "Yorliq qizil.",
+  "legally": "Qonunan u voyaga yetgan.",
+  "medicinal": "Bu choy shifobaxsh.",
+  "overblown": "Uning qo'rquvlari bo'rttirilgan.",
+  "property": "Bu o'simlikning o'ziga xos xususiyatlari bor.",
+  "put out": "U qo'shiq chiqardi.",
+  "rediscover": "U rassomlikni qayta kashf etdi.",
+  "zoo": "Hayvonot bog'ida sherlar bor."
+ },
  "B1": {
   "arrival": "Uning kelishi kutilmagan bo'ldi.",
   "bioluminescent": "Biolyuminessent narsalar yog'du sochadi.",

@@ -1,5 +1,29 @@
-// Part 1 topic 0209: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0209: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0209', {
+ "A1": {
+  "great white shark": "Bu katta oq akula.",
+  "migratory": "Bular ko'chmanchi qushlar.",
+  "ocean floor": "Okean tubiga qarang.",
+  "rephrase": "Iltimos, buni boshqacha qilib ayting.",
+  "sea turtle": "Dengiz toshbaqasiga qarang.",
+  "seagrass": "Bu dengiz o'ti.",
+  "sequester": "Daraxtlar uglerodni o'zida yutadi.",
+  "swathe": "Katta bir parcha yer.",
+  "turtle": "Men toshbaqani ko'ryapman.",
+  "weapon": "To'pponcha quroldir."
+ },
+ "A2": {
+  "great white shark": "Katta oq akula juda yirik bo'ladi.",
+  "migratory": "Kitlar ko'chib yuruvchi hayvonlardir.",
+  "ocean floor": "Baliqlar okean tubiga yaqin suzadi.",
+  "rephrase": "Savolni boshqacha qilib bera olasizmi?",
+  "sea turtle": "Dengiz toshbaqalari sekin suzadi.",
+  "seagrass": "Dengiz o'ti dengizda o'sadi.",
+  "sequester": "O'simliklar karbonat angidridni o'ziga yutadi.",
+  "swathe": "O'rmonning katta-katta qismlari kesib tashlandi.",
+  "turtle": "Toshbaqaning qattiq kosasi bor.",
+  "weapon": "Bilim quroldir."
+ },
  "B1": {
   "great white shark": "Katta oq akulalar dengizda yashaydi.",
   "migratory": "Qaldirg'ochlar ko'chmanchi qushlardir.",

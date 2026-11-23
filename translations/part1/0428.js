@@ -1,5 +1,37 @@
-// Part 1 topic 0428: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0428: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0428', {
+ "A1": {
+  "IMF": "XVF mamlakatlarga yordam beradi.",
+  "allocate": "Biz tushlik uchun vaqt ajratamiz.",
+  "bribery": "Poraxo'rlik noto'g'ri.",
+  "eligible": "Siz ovoz berish huquqiga egasiz.",
+  "financial support": "Ularga moliyaviy yordam kerak.",
+  "fraud": "Firibgarlik jinoyatdir.",
+  "health care": "Sog'liqni saqlash muhim.",
+  "monetary fund": "Valyuta jamg'armasi qarz beradi.",
+  "mountainous": "Bu mamlakat tog'li.",
+  "pioneering": "Bu kashfiyotchi g'oya edi.",
+  "poverty line": "Ular qashshoqlik chegarasidan pastda yashashadi.",
+  "subsidy": "Fermerlar subsidiya olishadi.",
+  "terrain": "Bu yer toshloq.",
+  "undertaking": "Bu katta ish."
+ },
+ "A2": {
+  "IMF": "XVF xalqaro tashkilotdir.",
+  "allocate": "Har bir talabaga bittadan parta ajratilgan.",
+  "bribery": "U poraxo'rlik uchun hibsga olindi.",
+  "eligible": "Siz mukofot olish huquqiga egamisiz?",
+  "financial support": "Ota-onasi unga moliyaviy yordam beradi.",
+  "fraud": "U firibgarlik uchun qamoqqa tushdi.",
+  "health care": "Bizga yaxshiroq sog'liqni saqlash tizimi kerak.",
+  "monetary fund": "Mamlakatlar valyuta jamg'armasidan yordam so'rashi mumkin.",
+  "mountainous": "Biz tog'li hududdan o'tdik.",
+  "pioneering": "U tibbiyotda kashshoflik ishini qildi.",
+  "poverty line": "Ko'plab oilalar qashshoqlik chegarasiga yaqin.",
+  "subsidy": "Avtobus chiptalari uchun subsidiya bor.",
+  "terrain": "Bu mashina notekis joylar uchun yaxshi.",
+  "undertaking": "Yo'lni qurish katta ish bo'ldi."
+ },
  "B1": {
   "IMF": "XVJning ta'kidlashicha, iqtisodiyot o'smoqda.",
   "allocate": "Maktab yangi kitoblar uchun mablag' ajratdi.",

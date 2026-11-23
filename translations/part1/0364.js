@@ -1,5 +1,25 @@
-// Part 1 topic 0364: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0364: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0364', {
+ "A1": {
+  "abdication": "Taxtdan voz kechish katta yangilik bo'ldi.",
+  "dory": "Dori baliq turi.",
+  "hand over": "Kalitlarni topshiring.",
+  "heartfelt": "Rahmat, chin yurakdan minnatdorman.",
+  "hereditary": "Bu meros bo'lib o'tadigan unvon.",
+  "professional football": "U professional futbol o'ynagan.",
+  "regular payment": "Men muntazam to'lov olaman.",
+  "sportsman": "U sportchi."
+ },
+ "A2": {
+  "abdication": "Taxtdan voz kechish mamlakatni larzaga soldi.",
+  "dory": "Kechki ovqatga dori balig'i yedik.",
+  "hand over": "U ishini topshirdi.",
+  "heartfelt": "U samimiy xat yozdi.",
+  "hereditary": "Bu kasallik irsiy.",
+  "professional football": "Professional futbol katta biznesdir.",
+  "regular payment": "Ijara haqi muntazam to'lovdir.",
+  "sportsman": "Amakim yaxshi sportchi bo'lgan."
+ },
  "B1": {
   "abdication": "Qirolichaning taxtdan voz kechishi hammani hayratda qoldirdi.",
   "dory": "Dori hamma narsani unutib qo'yadigan baliq.",

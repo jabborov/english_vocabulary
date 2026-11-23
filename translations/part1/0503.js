@@ -1,5 +1,27 @@
-// Part 1 topic 0503: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0503: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0503', {
+ "A1": {
+  "ask in": "Uni ichkariga taklif qiling.",
+  "debunk": "Keling, bu afsonani fosh qilaylik.",
+  "engender": "Mehribonlik ishonch tug'diradi.",
+  "genius": "U daho.",
+  "hum": "U xirgoyi qilishni yaxshi ko'radi.",
+  "incapable": "U yolg'on gapirishga qodir emas.",
+  "musicality": "Uning musiqiy iqtidori zo'r.",
+  "musically": "U musiqaga iqtidorli.",
+  "placing": "Siz nechanchi o'rinni egalladingiz?"
+ },
+ "A2": {
+  "ask in": "U meni ichkariga taklif qildi.",
+  "debunk": "Olimlar bu hikoyaning yolg'onligini fosh qilishdi.",
+  "engender": "Yaxshi o'qituvchilar qiziqish uyg'otadi.",
+  "genius": "U matematika dahosi.",
+  "hum": "Bu qo'shiqni xirgoyi qila olasizmi?",
+  "incapable": "Men rasm chizishga qodir emasman.",
+  "musicality": "Biz musiqiy qobiliyatimizni sinab ko'rdik.",
+  "musically": "U musiqiy his bilan chaladi.",
+  "placing": "U uchinchi o'rinni egalladi."
+ },
  "B1": {
   "ask in": "Nega do'stingni ichkariga taklif qilmaysan?",
   "debunk": "Maqola parhez haqidagi keng tarqalgan afsonalarni fosh qiladi.",

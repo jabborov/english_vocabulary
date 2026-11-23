@@ -1,5 +1,15 @@
-// Part 1 topic 0354: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0354: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0354', {
+ "A1": {
+  "knock over": "Piyolani ag'darib yuborma.",
+  "panic": "Vahima qilma!",
+  "socialising": "Men odamlar bilan muloqot qilishni yaxshi ko'raman."
+ },
+ "A2": {
+  "knock over": "It guldonni ag'darib yubordi.",
+  "panic": "Men vahimaga tusha boshladim.",
+  "socialising": "Ishdan keyin odamlar bilan hordiq chiqarish qiziqarli."
+ },
  "B1": {
   "knock over": "U ziyofatda ichimligini ag'darib yubordi.",
   "panic": "U uning ismini unutib qo'yganida vahimaga tushdi.",

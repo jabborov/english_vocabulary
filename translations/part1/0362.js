@@ -1,5 +1,25 @@
-// Part 1 topic 0362: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0362: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0362', {
+ "A1": {
+  "city centre": "Men shahar markazida ishlayman.",
+  "dangerously": "U mashinani xavfli haydaydi.",
+  "fluorescent": "Uning yaltiroq rangli kurtkasi bor.",
+  "fold up": "Xaritani buklang.",
+  "folding": "Mening yig'ma stulim bor.",
+  "insurance": "Sug'urtangiz bormi?",
+  "insurance company": "Sug'urta kompaniyasiga qo'ng'iroq qiling.",
+  "peace of mind": "Men xotirjamlikni xohlayman."
+ },
+ "A2": {
+  "city centre": "Bugun shahar markazi gavjum.",
+  "dangerously": "Mashina xavfli darajada yaqin keldi.",
+  "fluorescent": "Nimcha yorqin sariq rangda.",
+  "fold up": "Stol oson yig'iladi.",
+  "folding": "Uning yig'ma velosipedi kichkina.",
+  "insurance": "Velosiped sug'urtasi qimmat emas.",
+  "insurance company": "Sug'urta kompaniyasi menga xat yubordi.",
+  "peace of mind": "Yaxshi qulf menga xotirjamlik beradi."
+ },
  "B1": {
   "city centre": "Shahar markazida mashinalar ko'p.",
   "dangerously": "Xavfli tarzda velosiped haydash boshqalarni ham xavf ostiga qo'yadi.",

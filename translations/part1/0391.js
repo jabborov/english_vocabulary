@@ -1,5 +1,19 @@
-// Part 1 topic 0391: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0391: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0391', {
+ "A1": {
+  "acceptance": "Men qabul qilinishga umid qilaman.",
+  "divided": "Oila ikkiga bo'lingan.",
+  "motivational": "Bu ruhlantiruvchi nutq edi.",
+  "political scientist": "U siyosatshunos.",
+  "respectfully": "Hurmat bilan gapiring."
+ },
+ "A2": {
+  "acceptance": "U do'stlari tomonidan tan olinishni xohlaydi.",
+  "divided": "Fikrlar ikkiga bo'lingan.",
+  "motivational": "U ruhlantiruvchi kitoblar o'qiydi.",
+  "political scientist": "Siyosatshunos kitob yozdi.",
+  "respectfully": "U hurmat bilan tingladi."
+ },
  "B1": {
   "acceptance": "Uning g'oyasi keng e'tirof etildi.",
   "divided": "Sinf bu masala bo'yicha ikkiga bo'lindi.",

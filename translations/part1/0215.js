@@ -1,5 +1,43 @@
-// Part 1 topic 0215: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0215: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0215', {
+ "A1": {
+  "Greece": "Gretsiya Yevropada joylashgan.",
+  "absolute": "Bu mutlaq bema'nilik!",
+  "coconut": "Men kokosni yaxshi ko'raman.",
+  "coconut oil": "Menda kokos yog'i bor.",
+  "cooking oil": "Menga ovqat pishiriladigan yog' kerak.",
+  "creamy": "Sho'rva quyuq va qaymoqsimon.",
+  "frying": "Yog'da qovurish tez.",
+  "hogwash": "Bu bema'ni gap!",
+  "knock out": "U raqibini nokautga uchratdi.",
+  "polyunsaturated": "Bu yog' ko'p to'yinmagan.",
+  "roasting": "Qovurish bir soat vaqt oladi.",
+  "sesame oil": "Men kunjut yog'ini yaxshi ko'raman.",
+  "spend on": "Men pulimni ovqatga sarflayman.",
+  "spending money": "Menda biroz cho'ntak puli bor.",
+  "sunflower": "Kungaboqar sariq.",
+  "sunflower oil": "Men kungaboqar yog'idan foydalanaman.",
+  "wok": "Menda vok tovasi bor."
+ },
+ "A2": {
+  "Greece": "O'tgan yozda Gretsiyaga bordim.",
+  "absolute": "Men unga to'liq ishonaman.",
+  "coconut": "Kokos qattiq.",
+  "coconut oil": "Kokos yog'idan shirin hid keladi.",
+  "cooking oil": "Ovqat pishiriladigan yog' oshxonada.",
+  "creamy": "Men qaymoqli muzqaymoqni yaxshi ko'raman.",
+  "frying": "Yog'da qovurish ovqatni qarsildoq qiladi.",
+  "hogwash": "U bema'ni gaplarni gapiradi.",
+  "knock out": "Bu yog' boshqalaridan ancha ustun.",
+  "polyunsaturated": "Ko'p to'yinmagan yog'lar baliqda bo'ladi.",
+  "roasting": "Men kartoshka qovurishni yaxshi ko'raman.",
+  "sesame oil": "Kunjut yog'ining hidi yoqimli.",
+  "spend on": "Kiyimga qancha pul sarflaysiz?",
+  "spending money": "Oyim menga cho'ntak puli berdi.",
+  "sunflower": "Kungaboqarlar juda baland bo'ladi.",
+  "sunflower oil": "Kungaboqar yog'i sariq rangda.",
+  "wok": "Lag'monni vok tovasida pishiring."
+ },
  "B1": {
   "Greece": "Gretsiyada odamlar ko'p zaytun moyi ishlatishadi.",
   "absolute": "Bu borada mutlaq qoida yo'q.",

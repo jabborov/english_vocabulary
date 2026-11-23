@@ -1,5 +1,39 @@
-// Part 1 topic 0299: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0299: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0299', {
+ "A1": {
+  "beetroot": "Lavlagi qizil rangda.",
+  "breast cancer": "U ko'krak saratoniga chalingan edi.",
+  "criticize": "Meni tanqid qilmang.",
+  "guideline": "Ko'rsatmalarga amal qiling.",
+  "hair of the dog": "U xumorini bosish uchun yana ichmoqchi.",
+  "hangover": "Boshim mastlikdan keyin og'riyapti.",
+  "hydrated": "Organizmingizni suvsiz qoldirmang.",
+  "marvellous": "Qanday ajoyib kun!",
+  "purification": "Suvni tozalash muhim.",
+  "smoothy": "Men smuzi xohlayman.",
+  "swiftly": "U chaqqon yugurdi.",
+  "tipple": "Qanday ichimlikni xush ko'rasiz?",
+  "turmeric": "Zarchava sariq rangda.",
+  "watching": "Men qushlarni kuzatishni yaxshi ko'raman.",
+  "wedding party": "Biz to'y bazmiga bordik."
+ },
+ "A2": {
+  "beetroot": "Men lavlagini yaxshi ko'raman.",
+  "breast cancer": "Ko'krak saratoni keng tarqalgan.",
+  "criticize": "U ishimni tanqid qildi.",
+  "guideline": "Avval ko'rsatmani o'qing.",
+  "hair of the dog": "Xumorini bosish uchun yana ichish yordam bermaydi.",
+  "hangover": "Uning mastlikdan keyingi holati og'ir edi.",
+  "hydrated": "Organizmimda suv yetarli ekanini his qilyapman.",
+  "marvellous": "Ovqat ajoyib edi.",
+  "purification": "Bu tozalash tizimi.",
+  "smoothy": "Bu smuzi mazali.",
+  "swiftly": "Mashina tez harakatlandi.",
+  "tipple": "Uning sevimli ichimligi vino.",
+  "turmeric": "Ozgina zarchava qo'shing.",
+  "watching": "Televizor ko'rish qiziqarli.",
+  "wedding party": "To'y bazmi qiziqarli o'tdi."
+ },
  "B1": {
   "beetroot": "Biz lavlagi salatini yedik.",
   "breast cancer": "Shifokorlar ko'krak saratoniga tekshirishadi.",

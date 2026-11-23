@@ -1,5 +1,35 @@
-// Part 1 topic 0464: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0464: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0464', {
+ "A1": {
+  "Douglas": "Duglas bu ism.",
+  "balaclava": "Menda yuzni yopuvchi jun niqob bor.",
+  "emperor penguin": "Men imperator pingvinini ko'rdim.",
+  "endeavour": "Bu katta intilish edi.",
+  "epic": "Bu ulkan sayohat edi.",
+  "flask": "Menda bir termos choy bor.",
+  "gallant": "U jasur va olijanob inson edi.",
+  "hardship": "Hayot mashaqqatlarga to'la edi.",
+  "hood": "Kapyushoningni kiy.",
+  "thermal": "Men issiq saqlovchi paypoq kiyaman.",
+  "to the south": "Shahar janub tomonda joylashgan.",
+  "woollen": "Menda jun shapka bor.",
+  "wore": "U shlyapa kiygan edi."
+ },
+ "A2": {
+  "Douglas": "Duglas Antarktikaga bordi.",
+  "balaclava": "Uning yuzni yopuvchi niqobi qora.",
+  "emperor penguin": "Imperator pingvinlari katta.",
+  "endeavour": "Intilishingizda omad tilayman.",
+  "epic": "Ular ulkan sayohatni boshdan kechirishdi.",
+  "flask": "Termos issiq.",
+  "gallant": "Bu mardonavor urinish edi.",
+  "hardship": "Ular mashaqqatlarga duch kelishdi.",
+  "hood": "Paltomning kapyushoni bor.",
+  "thermal": "Uning issiq saqlovchi ichki kiyimi bor.",
+  "to the south": "Biz janubga qarab yo'l oldik.",
+  "woollen": "Uning sharfi jundan.",
+  "wore": "U palto kiygan edi."
+ },
  "B1": {
   "Douglas": "Duglas tadqiqotchi-sayyoh edi.",
   "balaclava": "U qorda balaklava kiygan edi.",

@@ -1,5 +1,41 @@
-// Part 1 topic 0377: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0377: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0377', {
+ "A1": {
+  "birdsong": "Men qushlarning sayrashini yaxshi ko'raman.",
+  "blackbird": "Men qoraqushni ko'ryapman.",
+  "chirp": "Qushlar chug'urlaydi.",
+  "chorus": "Naqoratni tinglang.",
+  "cognitively": "Uning aqliy qobiliyati sog'lom.",
+  "high pitch": "Bu baland tovush.",
+  "nightjar": "Echkiemar qush tunda uchadi.",
+  "radio station": "Bu qaysi radiostansiya?",
+  "scavenger": "Qarg'a o'laksaxo'r qushdir.",
+  "screech": "Men chiyillagan ovoz eshitdim.",
+  "springtime": "Men bahor faslini yaxshi ko'raman.",
+  "sunrise": "Biz quyosh chiqqanda turdik.",
+  "trill": "Anavi sayrashni tinglang.",
+  "warbler": "Sayroqi qush kichik bo'ladi.",
+  "whitethroat": "Bu kulrang sayroqi qush.",
+  "wood warbler": "Bu o'rmon qushi, yashil sayroqi."
+ },
+ "A2": {
+  "birdsong": "Biz qushlarning sayrashini eshitdik.",
+  "blackbird": "Qoraqush sayrayapti.",
+  "chirp": "Qush bolasi chirqilladi.",
+  "chorus": "Qushlar jo'r bo'lib sayrashdi.",
+  "cognitively": "Qarg'alar aqliy jihatdan zukko.",
+  "high pitch": "Hushtakning ovozi baland va ingichka.",
+  "nightjar": "Echkiemar qushning ovozini eshitganmisiz?",
+  "radio station": "Menga bu radiostansiya yoqadi.",
+  "scavenger": "Chag'alaylar ham o'laksaxo'r qushlardir.",
+  "screech": "Boyo'g'li chiyillab qichqirdi.",
+  "springtime": "Gullar bahorda o'sadi.",
+  "sunrise": "Quyosh chiqishi go'zal edi.",
+  "trill": "Qush sayrab yubordi.",
+  "warbler": "Sayroqi qush yaxshi sayraydi.",
+  "whitethroat": "Kulrang sayroqining tomog'i oq.",
+  "wood warbler": "Yashil sayroqi kichik qush."
+ },
  "B1": {
   "birdsong": "Bugun ertalab qushlar sayrashidan uyg'onib ketdim.",
   "blackbird": "Bog'imizda bir qoraqush yashaydi.",

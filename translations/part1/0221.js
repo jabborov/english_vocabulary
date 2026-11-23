@@ -1,5 +1,47 @@
-// Part 1 topic 0221: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0221: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0221', {
+ "A1": {
+  "amusing": "Film kulgili edi.",
+  "animation": "Men animatsiyani yaxshi ko'raman.",
+  "arousal": "Qo'rquv qo'zg'alishga sabab bo'ladi.",
+  "arouse": "Shovqin itni bezovta qildi.",
+  "bad temper": "Uning kayfiyati yomon.",
+  "contagious": "Uning tabassumi yuqumli.",
+  "contentment": "U mamnunlik his qildi.",
+  "deepen": "Daryo bu yerda chuqurlashadi.",
+  "fire up": "Kompyuterni yoqing.",
+  "funny story": "Menga kulgili hikoya aytib bering.",
+  "grumpy": "Mushugim jahldor ko'rinadi.",
+  "high and low": "Kalitlarimni hamma joydan qidirdim.",
+  "hilarious": "Film juda kulgili.",
+  "in a similar way": "Mushuklar va itlar xuddi shunday tarzda o'ynashadi.",
+  "meme": "Bu mem kulgili.",
+  "nasty": "Bu hid jirkanch.",
+  "purr": "Mushuk xurillaydi.",
+  "rich man": "U boy odam.",
+  "sharing": "Baham ko'rish yaxshi."
+ },
+ "A2": {
+  "amusing": "Bu it haqidagi kulgili video edi.",
+  "animation": "Bu qisqa animatsiya.",
+  "arousal": "Hayajonli videolar qo'zg'alishni kuchaytiradi.",
+  "arouse": "Hikoya qiziqishimni uyg'otdi.",
+  "bad temper": "U charchaganda jahli tez chiqadi.",
+  "contagious": "Shamollash yuqumli.",
+  "contentment": "Mushuk mamnunlikdan xurilladi.",
+  "deepen": "Ularning do'stligi vaqt o'tishi bilan chuqurlashdi.",
+  "fire up": "Musiqa bizni ruhlantirib yubordi.",
+  "funny story": "Bobom ko'plab kulgili hikoyalarni biladi.",
+  "grumpy": "Dadam ertalab jahldor bo'ladi.",
+  "high and low": "Biz mushukni hamma joydan qidirdik.",
+  "hilarious": "U hazil juda kulgili edi!",
+  "in a similar way": "U onasiga o'xshab gapiradi.",
+  "meme": "Akam menga har kuni memlar yuboradi.",
+  "nasty": "U yomon gap aytdi.",
+  "purr": "Mushugimni silasam, u xurillaydi.",
+  "rich man": "Boy odamning katta uyi bor.",
+  "sharing": "Telefonda video ulashish oson."
+ },
  "B1": {
   "amusing": "Uning hazillarini ancha kulgili deb bilaman.",
   "animation": "U kollejda animatsiyani o'rganadi.",

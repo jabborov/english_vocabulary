@@ -1,5 +1,37 @@
-// Part 1 topic 0158: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0158: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0158', {
+ "A1": {
+  "adjustment": "Men bir tuzatish kiritdim.",
+  "by trial and error": "Men sinov va xatolar orqali o'rgandim.",
+  "comfort zone": "Qulaylik zonangizdan chiqing.",
+  "dietitian": "U dietolog.",
+  "in for": "Bizni yomg'ir kutmoqda.",
+  "integral": "Ovqat hayotning ajralmas qismidir.",
+  "replacement": "Menga almashtiradigan narsa kerak.",
+  "scone": "Men skonlarni yaxshi ko'raman.",
+  "sunny": "Bugun havo quyoshli.",
+  "to be sure": "To'g'ri, bu qiyin edi.",
+  "toad": "Qurbaqa baqaga o'xshaydi.",
+  "trial and error": "Men sinov va xatolar orqali o'rganaman.",
+  "tweak": "Retseptni biroz o'zgartiring.",
+  "well out": "Men o'z hududimdan ancha uzoqda edim."
+ },
+ "A2": {
+  "adjustment": "Bunga kichik tuzatish kerak.",
+  "by trial and error": "U buni sinov va xatolar orqali tuzatdi.",
+  "comfort zone": "Bu mening qulaylik zonam.",
+  "dietitian": "Dietolog menga maslahat berdi.",
+  "in for": "Sizni ajoyib narsa kutmoqda.",
+  "integral": "Musiqa ziyofatning ajralmas qismidir.",
+  "replacement": "Bu almashtiriladigan ehtiyot qism.",
+  "scone": "Choy bilan skon yeng.",
+  "sunny": "Men quyoshli kunlarni yaxshi ko'raman.",
+  "to be sure": "To'g'ri, u qo'lidan kelganicha harakat qildi.",
+  "toad": "Men bog'da qurbaqa ko'rdim.",
+  "trial and error": "Bu sinov va xatolarni talab qildi.",
+  "tweak": "Men rejamni biroz o'zgartirdim.",
+  "well out": "U o'z imkoniyatidan ancha yuqori ishga qo'l urgan."
+ },
  "B1": {
   "adjustment": "Uy ko'chirish moslashishni talab qiladi.",
   "by trial and error": "Biz yo'lni sinov va xatolar orqali topdik.",

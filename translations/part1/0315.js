@@ -1,5 +1,33 @@
-// Part 1 topic 0315: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0315: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0315', {
+ "A1": {
+  "GM": "Bu GM oziq-ovqat.",
+  "antioxidant": "Mevalarda antioksidantlar bor.",
+  "commercially": "U tijorat maqsadida sotiladi.",
+  "cranberry": "Men klyukva sharbatini yaxshi ko'raman.",
+  "decaying": "Meva chiriyapti.",
+  "ketchup": "Men ketchupni yaxshi ko'raman.",
+  "pigment": "O'simliklarda pigment bor.",
+  "rape": "Raps sariq gullaydi.",
+  "reasonably": "Bu ancha arzon.",
+  "ripen": "Meva tez orada pishadi.",
+  "ripening": "Pishish vaqt talab qiladi.",
+  "supportive": "Ota-onam meni qo'llab-quvvatlaydi."
+ },
+ "A2": {
+  "GM": "Ba'zi odamlar GM oziq-ovqatni yemaydi.",
+  "antioxidant": "Antioksidantlar siz uchun foydali.",
+  "commercially": "Mahsulot savdoda mavjud.",
+  "cranberry": "Klyukva qizil rangda.",
+  "decaying": "Chiriyotgan barglar bor.",
+  "ketchup": "Iltimos, ketchupni uzatib yuboring.",
+  "pigment": "Bu pigment binafsha rangda.",
+  "rape": "Raps dalalari sariq rangda.",
+  "reasonably": "Ovqat ancha yaxshi edi.",
+  "ripen": "Bananlar tez pishadi.",
+  "ripening": "Quyosh pishishga yordam beradi.",
+  "supportive": "U har doim qo'llab-quvvatlaydi."
+ },
  "B1": {
   "GM": "GM ekinlar tez o'sadi.",
   "antioxidant": "Ko'katlarda antioksidantlar bor.",

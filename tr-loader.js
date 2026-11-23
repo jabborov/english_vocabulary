@@ -1,5 +1,5 @@
 // Loads the Uzbek translations of the example sentences one topic at a time.
-// Each file translations/part<P>/<topic>.js calls VOCAB_TR_STORE(part, topic, {B1:{word:uz}, B2:…, C1:…, C2:…}).
+// Each file translations/part<P>/<topic>.js calls VOCAB_TR_STORE(part, topic, {A1:{word:uz}, A2:…, B1:…, B2:…, C1:…, C2:…}).
 // A <script> tag is used instead of fetch() so the pages also work when opened from disk (file://).
 (function(){
   const cache = {}, waiting = {};

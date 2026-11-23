@@ -1,5 +1,29 @@
-// Part 1 topic 0398: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0398: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0398', {
+ "A1": {
+  "Morse": "Siz Morze alifbosini bilasizmi?",
+  "discourse": "Muloqot muhim.",
+  "embody": "U mehribonlikning timsoli.",
+  "false belief": "Bu noto'g'ri e'tiqod.",
+  "gravitate": "Bolalar shirinliklarga intiladi.",
+  "hub": "Bu markaz.",
+  "misconception": "Bu noto'g'ri tushuncha.",
+  "semaphore": "Bu semafor signallari.",
+  "tap out": "Ritmni chertib chaling.",
+  "telegraph wire": "Telegraf simiga qarang."
+ },
+ "A2": {
+  "Morse": "U Morze alifbosida xabar yubordi.",
+  "discourse": "Bu jamoatchilik muhokamasini o'zgartirdi.",
+  "embody": "U jamoa ruhini o'zida mujassam etgan.",
+  "false belief": "Uning e'tiqodi noto'g'ri.",
+  "gravitate": "Odamlar unga intiladi.",
+  "hub": "Shahar transport markazidir.",
+  "misconception": "Bu keng tarqalgan noto'g'ri tushuncha.",
+  "semaphore": "U semafor signallarini biladi.",
+  "tap out": "U xabarni chertib yozdi.",
+  "telegraph wire": "Qushlar telegraf simida o'tirishadi."
+ },
  "B1": {
   "Morse": "Morze alifbosi nuqta va chiziqlardan iborat.",
   "discourse": "Kitob siyosiy nutq haqida.",

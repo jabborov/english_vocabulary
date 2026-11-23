@@ -1,5 +1,35 @@
-// Part 1 topic 0273: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0273: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0273', {
+ "A1": {
+  "Sweden": "Shvetsiya Yevropada joylashgan.",
+  "companionship": "Sening hamrohliging menga yoqadi.",
+  "enriching": "Sayohat insonni boyitadi.",
+  "highschool": "Akam o'rta maktabda o'qiydi.",
+  "inherit": "Uning ko'zlari onasinikiga tortgan.",
+  "intrigue up": "Hikoya meni qiziqtirib qo'ydi.",
+  "intriguing": "Bu qiziqarli g'oya.",
+  "lonelier": "Kechalari o'zimni yanada yolg'izroq his qilaman.",
+  "norm": "Bu yerda bu odatiy hol.",
+  "occupancy": "Bu xona bir kishi yashashi uchun.",
+  "pit": "It chuqur qazidi.",
+  "put up with": "Men bu shovqinga chiday olmayman.",
+  "sociologist": "U sotsiolog."
+ },
+ "A2": {
+  "Sweden": "Stokgolm Shvetsiyada joylashgan.",
+  "companionship": "Itlar bizga hamroh bo'lishadi.",
+  "enriching": "Kitob o'qish insonni boyitadigan mashg'ulot.",
+  "highschool": "U o'tgan yili o'rta maktabni tugatdi.",
+  "inherit": "U xolasidan uy meros qilib oldi.",
+  "intrigue up": "Uning g'oyasi bizni qiziqtirib qo'ydi.",
+  "intriguing": "Kitobning nomi qiziqtiradigan.",
+  "lonelier": "Shahar qishloqqa qaraganda yolg'izroq joy.",
+  "norm": "O'tmishda katta oilalar odatiy hol edi.",
+  "occupancy": "Mehmonxona deyarli to'la band.",
+  "pit": "Bog'da chuqur o'ra bor.",
+  "put up with": "U akasiga toqat qiladi.",
+  "sociologist": "Sotsiolog oilalarni o'rganadi."
+ },
  "B1": {
   "Sweden": "Shvetsiyada ko'p odamlar yolg'iz yashaydi.",
   "companionship": "U yolg'iz qolmaslik uchun singlisinikiga ko'chib o'tdi.",

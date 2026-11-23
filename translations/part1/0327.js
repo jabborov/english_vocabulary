@@ -1,5 +1,33 @@
-// Part 1 topic 0327: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0327: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0327', {
+ "A1": {
+  "discreet": "U kamgap va ehtiyotkor odam.",
+  "flatten": "Qog'ozni tekislang.",
+  "flattening": "Uslublar bir xillashib bormoqda.",
+  "full of life": "Shahar hayotga to'la.",
+  "funky": "Bu qo'shiq jo'shqin.",
+  "globalisation": "Globallashuv dunyoni o'zgartiradi.",
+  "groove": "Menga bu ritm yoqadi.",
+  "musical style": "Jaz musiqiy uslubdir.",
+  "samba": "Men sambani yaxshi ko'raman.",
+  "simplifying": "Soddalashtirish foydali.",
+  "smoother": "Bu yo'l tekisroq.",
+  "understated": "Uning ko'ylagi sodda va bezaksiz."
+ },
+ "A2": {
+  "discreet": "Musiqa bilinar-bilinmas chalinadi.",
+  "flatten": "Shamol o'tlarni yerga yotqizib qo'ydi.",
+  "flattening": "Bir xillashib ketish uni xavotirga soladi.",
+  "full of life": "U doim hayotga to'la.",
+  "funky": "Menga fank musiqasi yoqadi.",
+  "globalisation": "Biz globallashuv haqida gaplashdik.",
+  "groove": "Bu qo'shiqning ritmi yaxshi.",
+  "musical style": "Menga bu musiqiy uslub yoqadi.",
+  "samba": "Ular samba raqsini ijro etishadi.",
+  "simplifying": "Bizga biroz soddalashtirish kerak.",
+  "smoother": "Uning ovozi endi mayinroq.",
+  "understated": "Menga vazmin va sokin musiqa yoqadi."
+ },
  "B1": {
   "discreet": "Iltimos, ehtiyotkor va kamgap bo'ling.",
   "flatten": "Pop musiqa mahalliy uslublarni bir xillashtirib yuborishi mumkin.",

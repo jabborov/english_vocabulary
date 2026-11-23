@@ -1,5 +1,25 @@
-// Part 1 topic 0423: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0423: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0423', {
+ "A1": {
+  "accepted": "Bu umume'tirof etilgan g'oya.",
+  "drug user": "U giyohvand bo'lgan.",
+  "formulate": "Biz reja tuzib chiqishimiz kerak.",
+  "gambling": "Qimor o'yini yomon odat.",
+  "jail": "U qamoqxonada.",
+  "par": "U eng yaxshilari bilan bir darajada.",
+  "penalty": "Jazo jarimadan iborat.",
+  "swearing": "Iltimos, so'kinmang!"
+ },
+ "A2": {
+  "accepted": "Bu umume'tirof etilgan usul.",
+  "drug user": "Giyohvandlarga yordam kerak.",
+  "formulate": "U yangi g'oyani ishlab chiqdi.",
+  "gambling": "U qimor o'ynab pul yutqazdi.",
+  "jail": "U qamoqqa tushdi.",
+  "par": "Uning ishi meniki bilan bir darajada.",
+  "penalty": "Kechikkanlik uchun jazo bor.",
+  "swearing": "Men so'kinishni yoqtirmayman."
+ },
  "B1": {
   "accepted": "Hozir chekish jamiyatda kamroq qabul qilinadi.",
   "drug user": "Klinika giyohvand moddalar iste'molchilariga yordam beradi.",

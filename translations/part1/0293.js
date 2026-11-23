@@ -1,5 +1,41 @@
-// Part 1 topic 0293: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0293: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0293', {
+ "A1": {
+  "abundant": "Bu yerda suv mo'l.",
+  "arithmetic": "Men arifmetikani yaxshi ko'raman.",
+  "barman": "Barmen xushmuomala.",
+  "calculus": "Matematik tahlil qiyin.",
+  "cash register": "Bu kassa apparati.",
+  "coincidence": "Qanday tasodif!",
+  "computerize": "Biz ofisimizni kompyuterlashtirdik.",
+  "drawback": "Rejaning bitta kamchiligi bor.",
+  "fortunate": "Men juda omadliman.",
+  "haired": "U qora sochli qiz.",
+  "junior": "U yosh shifokor.",
+  "junior high": "Ukam o'rta maktabning quyi sinflarida o'qiydi.",
+  "networking": "Aloqalar o'rnatish muhim.",
+  "trigonometry": "Trigonometriya qiyin.",
+  "whatsoever": "Mutlaqo tasavvurim yo'q.",
+  "wholesaler": "Ulgurji savdogar oziq-ovqat sotadi."
+ },
+ "A2": {
+  "abundant": "Oziq-ovqat mo'l-ko'l.",
+  "arithmetic": "Arifmetika uning uchun oson.",
+  "barman": "U barmen bo'lib ishlaydi.",
+  "calculus": "U matematik tahlilni o'rganyapti.",
+  "cash register": "Pul kassa apparatida.",
+  "coincidence": "Bu shunchaki tasodif edi.",
+  "computerize": "Do'kon endi kompyuterlashtirilgan.",
+  "drawback": "Kamchiliklari nimada?",
+  "fortunate": "G'alaba qozonganimiz omadimiz edi.",
+  "haired": "Uning uzun junli iti bor.",
+  "junior": "Uning ishi quyi lavozimda.",
+  "junior high": "U o'rta maktabning quyi sinflarida o'qiydi.",
+  "networking": "Men tanishuv va aloqalar o'rnatish tadbiriga bordim.",
+  "trigonometry": "Biz maktabda trigonometriyani o'rganamiz.",
+  "whatsoever": "Hech qanday muammo yo'q.",
+  "wholesaler": "Biz ulgurji sotuvchidan xarid qilamiz."
+ },
  "B1": {
   "abundant": "Mamlakat tabiiy resurslarga boy.",
   "arithmetic": "Biz boshlang'ich maktabda arifmetikani o'rganamiz.",

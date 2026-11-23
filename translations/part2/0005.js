@@ -1,5 +1,37 @@
-// Part 2 topic 0005: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0005: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0005', {
+ "A1": {
+  "apparently": "Aftidan, u charchagan.",
+  "conduct": "Ular sinov o'tkazishadi.",
+  "division of labour": "Mehnat taqsimoti mavjud.",
+  "fair share": "O'z ulushingizni bajaring.",
+  "household chores": "Men uy yumushlarini bajaraman.",
+  "once again": "U yana kechikdi.",
+  "pulling their weight": "Ular o'z zimmasidagi ishni bajarishmoqda.",
+  "reasonable amount": "Bu maqbul miqdor.",
+  "scrubbing the toilet": "Men unitazni ishqalab yuvishni yomon ko'raman.",
+  "stereotypically": "Bu stereotipga ko'ra erkaklarga xos.",
+  "sweep": "Men polni supuraman.",
+  "take a breather": "Keling, biroz nafas rostlaylik.",
+  "to nag less": "Men kamroq javrashni xohlayman.",
+  "worksheet": "Bu ish varag'i."
+ },
+ "A2": {
+  "apparently": "Aytishlaricha, u butun uyni tozalab chiqibdi.",
+  "conduct": "Biz maktabda so'rovnoma o'tkazdik.",
+  "division of labour": "Ota-onam o'rtasida aniq mehnat taqsimoti bor edi.",
+  "fair share": "U ovqat pishirishda o'z ulushini bajardi.",
+  "household chores": "O'tgan dam olish kunlari uy yumushlarini bo'lishib bajardik.",
+  "once again": "Yana bir bor idishlarni men yuvdim.",
+  "pulling their weight": "U uyda o'z zimmasidagi ishni bajarmayotgan edi.",
+  "reasonable amount": "Bugun yetarlicha ish qildim.",
+  "scrubbing the toilet": "U shanba kuni unitazni ishqalab yuvayotgan edi.",
+  "stereotypically": "Stereotipga ko'ra, ovqat pishirish ayollarning ishi hisoblangan.",
+  "sweep": "U bugun ertalab oshxonani supurdi.",
+  "take a breather": "Tozalashdan so'ng biroz nafas rostladik.",
+  "to nag less": "Onam kamroq javrashga va'da berdi.",
+  "worksheet": "O'qituvchi bizga ish varag'ini berdi."
+ },
  "B1": {
   "apparently": "Aytishlaricha, erkaklar uy ishlarini aslida qilganidan ko'proq qilaman deb o'ylashar ekan.",
   "conduct": "Olimlar savollarga javob topish uchun tadqiqot o'tkazishadi.",

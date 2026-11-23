@@ -1,5 +1,31 @@
-// Part 1 topic 0440: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0440: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0440', {
+ "A1": {
+  "calcium": "Sutda kalsiy bor.",
+  "covered": "Mashina qor bilan qoplangan.",
+  "fish and chips": "Men qovurilgan baliq va kartoshkani yaxshi ko'raman.",
+  "laden": "Daraxt olmaga to'la.",
+  "nutritionally": "Bu ozuqaviy jihatdan foydali.",
+  "red pepper": "Men qizil qalampirni yaxshi ko'raman.",
+  "saturate": "Yomg'ir yerni suvga to'yintirdi.",
+  "smother": "Uni sousga ko'mib yuborma.",
+  "sodium": "Tuz tarkibida natriy bor.",
+  "tomato sauce": "Men pomidor sousini yaxshi ko'raman.",
+  "zinc": "Rux metalldir."
+ },
+ "A2": {
+  "calcium": "Kalsiy tishlar uchun foydali.",
+  "covered": "Qo'llarim bo'yoqqa belangan.",
+  "fish and chips": "Juma kuni qovurilgan baliq va kartoshka yedik.",
+  "laden": "Stol ovqatga to'la edi.",
+  "nutritionally": "Bu taom ozuqaviy jihatdan kambag'al.",
+  "red pepper": "Qizil qalampirni to'g'rang.",
+  "saturate": "Sochiq suvga to'yingan.",
+  "smother": "U kartoshkasini ketchupga ko'mib yubordi.",
+  "sodium": "Natriyni kamroq iste'mol qiling.",
+  "tomato sauce": "Pitsada pomidor sousi bor.",
+  "zinc": "Tanamizga rux kerak."
+ },
  "B1": {
   "calcium": "Bolalarga suyaklari mustahkam bo'lishi uchun kalsiy kerak.",
   "covered": "Tort shokolad bilan qoplangan.",

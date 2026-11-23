@@ -1,5 +1,37 @@
-// Part 1 topic 0476: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0476: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0476', {
+ "A1": {
+  "bloke": "U yaxshi yigit.",
+  "blonde": "Uning sochlari sariq.",
+  "cabin": "Bu bizning kayutamiz.",
+  "categorise": "Bu so'zlarni toifalarga ajrating.",
+  "crossing": "Kechuv juda notinch o'tdi.",
+  "levelling": "Bizga biroz tenglashtirish kerak.",
+  "persecution": "Ular ta'qibdan qochishdi.",
+  "shady": "Keling, soyaroq joyda o'tiraylik.",
+  "starboard": "O'ng bortga qarang.",
+  "stylish": "U juda zamonaviy kiyinadi.",
+  "toff": "U zodagon kibrli odam.",
+  "unrepresentative": "Guruh umumiy holatni aks ettirmasdi.",
+  "viewpoint": "Bu sizning nuqtai nazaringiz.",
+  "working person": "U mehnatkash odam."
+ },
+ "A2": {
+  "bloke": "Anavi yigit kim?",
+  "blonde": "Uning sochi sariq.",
+  "cabin": "Kayuta kichkina.",
+  "categorise": "Biz kitoblarni mavzusi bo'yicha toifalarga ajratamiz.",
+  "crossing": "Bu qisqa kechuv.",
+  "levelling": "Tenglashtirish hammaga yordam beradi.",
+  "persecution": "Ta'qib qilish noto'g'ri.",
+  "shady": "Bog' soya-salqin.",
+  "starboard": "Kayuta o'ng bortda joylashgan.",
+  "stylish": "Bu zamonaviy palto.",
+  "toff": "Uni zodagon kibrli deb atashdi.",
+  "unrepresentative": "Bu misol umumiy holatni aks ettirmaydi.",
+  "viewpoint": "Nuqtai nazaringizni tushunaman.",
+  "working person": "Har bir ishlaydigan odam soliq to'laydi."
+ },
  "B1": {
   "bloke": "Qandaydir bir yigit mendan yo'l so'radi.",
   "blonde": "Uning sarg'ish sochi uzun.",

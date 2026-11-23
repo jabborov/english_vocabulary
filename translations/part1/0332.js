@@ -1,5 +1,25 @@
-// Part 1 topic 0332: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0332: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0332', {
+ "A1": {
+  "audio frequency": "Itlar kengroq tovush chastotasi diapazonini eshitadi.",
+  "bandwidth": "Internetimizning o'tkazish qobiliyati past.",
+  "closed": "Do'kon yopiq.",
+  "collaboration": "Ishda hamkorlik muhim.",
+  "industrialist": "U boy sanoatchi edi.",
+  "on paper": "Qog'ozda reja yaxshi.",
+  "take root": "O'simlik tezda ildiz otdi.",
+  "white noise": "Oq shovqin uxlashimga yordam beradi."
+ },
+ "A2": {
+  "audio frequency": "Bu tovushning chastotasi past.",
+  "bandwidth": "Video qo'ng'iroqlar uchun katta o'tkazish qobiliyati kerak.",
+  "closed": "Iltimos, derazani yopiq tuting.",
+  "collaboration": "Loyiha ikki jamoaning hamkorligi edi.",
+  "industrialist": "Sanoatchi katta zavod qurdi.",
+  "on paper": "Qog'ozda u bu ishga juda mos ko'rinadi.",
+  "take root": "Yangi odatlar ildiz otishi uchun vaqt kerak.",
+  "white noise": "Ventilyator o'ziga xos oq shovqin chiqaradi."
+ },
  "B1": {
   "audio frequency": "Har bir musiqiy notaning o'z tovush chastotasi bor.",
   "bandwidth": "Hamma video tomosha qilayotgani uchun tarmoq o'tkazuvchanligi yetmadi.",

@@ -1,5 +1,47 @@
-// Part 1 topic 0241: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0241: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0241', {
+ "A1": {
+  "alveolus": "Alveola juda kichik.",
+  "cope": "Men eplay olaman.",
+  "cope with": "Men buni uddalay olaman.",
+  "defence mechanism": "Bu himoya mexanizmi.",
+  "fabulous": "Ovqat ajoyib.",
+  "frustrated": "Hafsalam pir bo'lgan.",
+  "frustrating": "Bu asabga tegadi.",
+  "password": "Parolingiz qanday?",
+  "reflex": "Ko'z qisish refleksdir.",
+  "relief": "Qanday yengil tortdim!",
+  "relieve": "Bu og'riqni yengillashtiradi.",
+  "reset": "Iltimos, soatni qayta sozlang.",
+  "resetting": "Soatni qayta sozlash oson.",
+  "resign": "U ishdan iste'foga chiqdi.",
+  "resignation": "U taqdirga tan berib xo'rsindi.",
+  "sac": "Xalta kichik qopchaga o'xshaydi.",
+  "sighing": "Xo'rsinish odatiy holat.",
+  "unconsciously": "Men buni ongsiz ravishda qildim.",
+  "voluntarily": "U ixtiyoriy ravishda keldi."
+ },
+ "A2": {
+  "alveolus": "O'pkada ko'plab alveolalar bor.",
+  "cope": "U yolg'iz o'zi eplay olmaydi.",
+  "cope with": "U ko'p narsaga bardosh beradi.",
+  "defence mechanism": "Kulish himoya mexanizmi bo'lishi mumkin.",
+  "fabulous": "Ajoyib ko'rinyapsiz!",
+  "frustrated": "Uning hafsalasi pir bo'lgan edi.",
+  "frustrating": "Tirbandlik asabga tegadi.",
+  "password": "Parolimni unutib qo'ydim.",
+  "reflex": "Aksirish refleksdir.",
+  "relief": "Yengil tortdim.",
+  "relieve": "Choy bosh og'rig'imni qoldiradi.",
+  "reset": "Telefonimni qayta sozladim.",
+  "resetting": "Telefonni qayta sozlash kerak.",
+  "resign": "U o'tgan hafta iste'foga chiqdi.",
+  "resignation": "U taqdirga tan berib bosh irg'adi.",
+  "sac": "O'pkada mitti xaltachalar bor.",
+  "sighing": "Uning xo'rsinayotganini eshitdim.",
+  "unconsciously": "U beixtiyor jilmaydi.",
+  "voluntarily": "U o'z ixtiyori bilan ketdi."
+ },
  "B1": {
   "alveolus": "Nafas olganimizda har bir alveola havo bilan to'ladi.",
   "cope": "Qanday bardosh beryapsiz?",

@@ -1,5 +1,31 @@
-// Part 1 topic 0466: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0466: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0466', {
+ "A1": {
+  "Kat": "Ket mening dugonam.",
+  "alliteration": "Menga alliteratsiya yoqadi.",
+  "assonance": "Assonans tovushlar takroriga oid.",
+  "blue murder": "Chaqaloq dod solib chinqirdi.",
+  "come in handy": "Bu asqotib qoladi.",
+  "dearly": "Men seni juda qattiq sevaman.",
+  "impenetrable": "She'rni tushunib bo'lmaydi.",
+  "precipitation": "Yomg'ir yog'ingarchilikdir.",
+  "research project": "Menda tadqiqot loyihasi bor.",
+  "simile": "Bu o'xshatish.",
+  "string of words": "Bu so'zlar qatori."
+ },
+ "A2": {
+  "Kat": "Ket she'rlarni yaxshi ko'radi.",
+  "alliteration": "\"Peter Piper\" iborasida alliteratsiya ishlatilgan.",
+  "assonance": "Bu she'rda assonansdan foydalanilgan.",
+  "blue murder": "U baqirib-chaqirib dod soldi.",
+  "come in handy": "Fonar asqotib qoladi.",
+  "dearly": "U uni juda qattiq sevadi.",
+  "impenetrable": "Uning yozganlarini tushunib bo'lmaydi.",
+  "precipitation": "Yog'ingarchilik bo'ladi.",
+  "research project": "Bizning tadqiqot loyihamiz yangi.",
+  "simile": "\"Muzdek sovuq\" o'xshatishdir.",
+  "string of words": "U bir qator so'zlarni aytdi."
+ },
  "B1": {
   "Kat": "Kat darsda she'r o'qidi.",
   "alliteration": "Alliteratsiya boshlang'ich tovushlarning takrorlanishidir.",

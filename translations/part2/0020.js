@@ -1,5 +1,39 @@
-// Part 2 topic 0020: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0020: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0020', {
+ "A1": {
+  "adulthood": "Voyaga yetish hayotning yangi bosqichidir.",
+  "boomerang": "Bu bumerang.",
+  "boomerang generation": "U bumerang avlodiga mansub.",
+  "booming": "Biznes gullab-yashnamoqda.",
+  "defer": "Biz yig'ilishni keyinga qoldiramiz.",
+  "flat-share": "Men boshqalar bilan birga ijaraga olingan kvartirada yashayman.",
+  "privacy": "Menga biroz yolg'izlik kerak.",
+  "regiment": "Bobom polkda xizmat qilgan.",
+  "regimented": "Maktabda tartib juda qattiq.",
+  "relieve": "Bu dori og'riqni yengillashtiradi.",
+  "sling out": "Eski poyabzallarni chiqarib tashlang.",
+  "take on": "Men bu ishni o'z zimmamga ola olaman.",
+  "til": "Men kelgunimcha kuting.",
+  "vary": "Narxlar har xil.",
+  "willing": "Men yordam berishga tayyorman."
+ },
+ "A2": {
+  "adulthood": "U o'n sakkiz yoshida voyaga yetdi.",
+  "boomerang": "U bumerangni otdi.",
+  "boomerang generation": "Bumerang avlodi ota-onasining uyida yashaydi.",
+  "booming": "Bu jadal rivojlanayotgan shahar.",
+  "defer": "U o'qishini bir yilga qoldirdi.",
+  "flat-share": "U Londonda boshqalar bilan birga ijaraga olinadigan kvartira topdi.",
+  "privacy": "Bu yerda shaxsiy hayot uchun joy yo'q.",
+  "regiment": "Polk shahar bo'ylab saf tortib o'tdi.",
+  "regimented": "Uning kuni qat'iy tartibga solingan.",
+  "relieve": "Sayr qilish stressni yengillashtirishi mumkin.",
+  "sling out": "Ular singan stulni chiqarib tashlashdi.",
+  "take on": "U o'z zimmasiga juda ko'p ish oldi.",
+  "til": "Qo'ng'iroq qilmaguningizcha shu yerda kutaman.",
+  "vary": "Ob-havo har kuni o'zgarib turadi.",
+  "willing": "Kutishga tayyormisiz?"
+ },
  "B1": {
   "adulthood": "Bolalikdagi ba'zi odatlar kattalik davrida ham davom etadi.",
   "boomerang": "Bumerang uning qo'liga qaytib keldi.",

@@ -1,5 +1,45 @@
-// Part 1 topic 0454: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0454: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0454', {
+ "A1": {
+  "VI": "VI olti degan ma'noni bildiradi.",
+  "XIV": "XIV o'n to'rt degan ma'noni bildiradi.",
+  "ascend": "Biz tepalikka ko'tarildik.",
+  "bearer": "U tobut ko'taruvchilardan biri edi.",
+  "dignitary": "Ko'plab yuqori martabali mehmonlar keldi.",
+  "eccentric": "U biroz g'alati odam.",
+  "endear": "Uning tabassumi uni odamlarga yoqimli qiladi.",
+  "mat": "Oyoqlaringizni gilamchaga arting.",
+  "monarchs": "Monarxlar qirol va qirolichalardir.",
+  "monocle": "U monokl taqib yurardi.",
+  "mourn": "Ular otalari uchun motam tutishmoqda.",
+  "mourning": "Mamlakat motam tutmoqda.",
+  "one at a time": "Birma-bir kiring.",
+  "pall": "Tobut yopinchig'i qora rangda.",
+  "riot": "Tartibsizlik ko'tarildi.",
+  "rule over": "Qirol bu yurtni boshqaradi.",
+  "spread over": "Shahar tepalik bo'ylab yoyilgan.",
+  "weave": "U to'qiy oladi."
+ },
+ "A2": {
+  "VI": "Qirol Jorj VI britaniyalik edi.",
+  "XIV": "Lyudovik XIV fransuz qiroli bo'lgan.",
+  "ascend": "Samolyot tez ko'tarildi.",
+  "bearer": "Tobut ko'taruvchilar sekin yurishdi.",
+  "dignitary": "Yuqori martabali mehmon nutq so'zladi.",
+  "eccentric": "Uning kiyimlari g'alati.",
+  "endear": "U o'zini bolalarga yaxshi ko'rsatdi.",
+  "mat": "Gilamcha eshik yonida.",
+  "monarchs": "Bugungi kunda monarxlar kam.",
+  "monocle": "Monokl bir ko'z uchun mo'ljallangan.",
+  "mourn": "Biz uning uchun qayg'uramiz.",
+  "mourning": "Odamlar motam belgisi sifatida qora kiyishdi.",
+  "one at a time": "Iltimos, navbat bilan gapiring.",
+  "pall": "Tobut yopinchiq bilan yopilgan edi.",
+  "riot": "Politsiya tartibsizlikni to'xtatdi.",
+  "rule over": "U katta mamlakatni boshqargan.",
+  "spread over": "Ish bir haftaga taqsimlangan.",
+  "weave": "Ular savat to'qishadi."
+ },
  "B1": {
   "VI": "VI – Rim raqami.",
   "XIV": "XIV – Rim raqami.",

@@ -1,5 +1,25 @@
-// Part 1 topic 0482: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0482: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0482', {
+ "A1": {
+  "confidential information": "Maxfiy ma'lumotlarni xavfsiz saqlang.",
+  "hotbed": "Bu jinoyat o'chog'i.",
+  "internet site": "Bu yaxshi internet sayt.",
+  "keep one's eyes open": "Ko'zingizni katta oching!",
+  "log off": "Iltimos, tizimdan chiqing.",
+  "lucrative": "Bu daromadli ish.",
+  "pop music": "Men pop musiqani yaxshi ko'raman.",
+  "security intelligence": "U xavfsizlik razvedkasida ishlaydi."
+ },
+ "A2": {
+  "confidential information": "Bu maxfiy ma'lumot.",
+  "hotbed": "Shahar iste'dodlar beshigi.",
+  "internet site": "Internet saytimizga tashrif buyuring.",
+  "keep one's eyes open": "Ko'zimni katta ochib yuraman.",
+  "log off": "Men tizimdan chiqdim.",
+  "lucrative": "Biznes daromadli.",
+  "pop music": "U pop musiqa kuylaydi.",
+  "security intelligence": "Biz xavfsizlik razvedkasi hisobotini o'qidik."
+ },
  "B1": {
   "confidential information": "Maxfiy ma'lumotlarni internetga joylamang.",
   "hotbed": "Bu sayt soxta yangiliklar o'chog'i.",

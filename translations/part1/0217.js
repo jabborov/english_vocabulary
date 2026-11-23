@@ -1,5 +1,37 @@
-// Part 1 topic 0217: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0217: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0217', {
+ "A1": {
+  "Pink Lady": "Men Pink Lady olmalarini yaxshi ko'raman.",
+  "backpack": "Bu mening ryukzagim.",
+  "beetle": "Qo'ng'iz qora.",
+  "celery": "Men seldereyni yoqtirmayman.",
+  "cricket": "Chirildoq hasharotdir.",
+  "crunch down": "U sabzini qarsillatib tishladi.",
+  "freshness": "Menga mevaning yangiligi yoqadi.",
+  "grasshopper": "Chigirtka sakraydi.",
+  "grind": "Qahvani maydalang.",
+  "locust": "Chigirtka hasharotdir.",
+  "scrambled": "Men quymoq xohlayman.",
+  "scrambled eggs": "Men quymoqni yaxshi ko'raman.",
+  "termite": "Termitlar yog'och yeydi.",
+  "ton": "U juda og'ir."
+ },
+ "A2": {
+  "Pink Lady": "Pink Lady olmasi pushti va shirin.",
+  "backpack": "Ryukzagim og'ir.",
+  "beetle": "Men qo'ng'iz ko'rdim.",
+  "celery": "Selderey yashil rangda.",
+  "cricket": "Chirildoqlar kechasi shovqin qiladi.",
+  "crunch down": "U pechenyeni qarsillatib tishladi.",
+  "freshness": "Nonning yangiligini tekshiring.",
+  "grasshopper": "Chigirtkalar yashil rangda.",
+  "grind": "Biz qalampirni maydalaymiz.",
+  "locust": "Chigirtkalar ekinlarni yeb qo'yadi.",
+  "scrambled": "Tuxumlarim quymoq qilib pishirilgan.",
+  "scrambled eggs": "Nonushtaga quymoq yeymiz.",
+  "termite": "Termitlar katta guruh bo'lib yashaydi.",
+  "ton": "Menda juda ko'p uy vazifasi bor."
+ },
  "B1": {
   "Pink Lady": "Pink Lady olmalari juda qarsildoq bo'ladi.",
   "backpack": "Ryukzagimga bitta olma solib qo'ydim.",

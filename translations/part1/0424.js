@@ -1,5 +1,35 @@
-// Part 1 topic 0424: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0424: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0424', {
+ "A1": {
+  "abstract art": "Bu abstrakt san'at.",
+  "civil war": "Fuqarolar urushi bo'lgan edi.",
+  "commentator": "U sharhlovchi.",
+  "deface": "Kitobni chizib buzma!",
+  "depict": "Rasmda mushuk tasvirlangan.",
+  "masterpiece": "Bu durdona asar.",
+  "mural": "Devoriy suratga qarang.",
+  "scrawl": "U ismini chala-chulpa yozib qo'ydi.",
+  "sombre": "Ranglar xira va g'amgin.",
+  "surrealist": "Bu syurrealistik rasm.",
+  "urinal": "Bu pissuar.",
+  "vandalism": "Bu vandalizm.",
+  "write over": "Rasmim ustidan yozma."
+ },
+ "A2": {
+  "abstract art": "Men abstrakt san'atni yoqtiraman.",
+  "civil war": "Fuqarolar urushi yillar davom etdi.",
+  "commentator": "Sharhlovchi televizorda gapirdi.",
+  "deface": "Ular devorni bo'yab buzishdi.",
+  "depict": "Bu rasmda dengiz tasvirlangan.",
+  "masterpiece": "Rasm durdona asardir.",
+  "mural": "Devoriy surat katta.",
+  "scrawl": "U shoshib-pishib xat yozib qoldirdi.",
+  "sombre": "Uning yuzi g'amgin edi.",
+  "surrealist": "U syurrealistik san'atni yoqtiradi.",
+  "urinal": "Pissuar devorga o'rnatilgan.",
+  "vandalism": "Vandalizm jinoyatdir.",
+  "write over": "U eski so'zlar ustidan yozdi."
+ },
  "B1": {
   "abstract art": "Abstrakt san'atda shakl va ranglardan foydalaniladi.",
   "civil war": "Fuqarolar urushida ko'plab odamlar halok bo'ldi.",

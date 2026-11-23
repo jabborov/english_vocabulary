@@ -1,5 +1,31 @@
-// Part 1 topic 0501: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0501: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0501', {
+ "A1": {
+  "battle out": "Ular oxirigacha kurashishadi.",
+  "bus fare": "Avtobus yo'l haqi ikki funt.",
+  "consecutively": "U ketma-ket ikki marta g'alaba qozondi.",
+  "divisive": "Bu bahsli mavzu.",
+  "dope": "Otlarga doping bermang.",
+  "growth hormone": "O'sish gormoni bolalarning o'sishiga yordam beradi.",
+  "normalise": "Yomon odatlarni odatiy holga aylantirmang.",
+  "sports editor": "U sport bo'limi muharriri.",
+  "sports fan": "U sport ishqibozi.",
+  "steroid": "Bu steroid.",
+  "supervision": "Bolalarga nazorat kerak."
+ },
+ "A2": {
+  "battle out": "Bugun ikki jamoa oxirigacha kurashadi.",
+  "bus fare": "Men avtobus yo'l haqini to'ladim.",
+  "consecutively": "Besh kun ketma-ket yomg'ir yog'di.",
+  "divisive": "Reja jamiyatni ikkiga bo'ladi.",
+  "dope": "Ular otga doping berishdi.",
+  "growth hormone": "Tanamiz o'sish gormonini ishlab chiqaradi.",
+  "normalise": "Ular buni odatiy holga aylantirmoqchi.",
+  "sports editor": "Sport bo'limi muharriri futbol haqida yozadi.",
+  "sports fan": "Dadam ashaddiy sport ishqibozi.",
+  "steroid": "Steroidlar dori vositalaridir.",
+  "supervision": "U nazorat ostida ishlaydi."
+ },
  "B1": {
   "battle out": "O'yinchilar oxirigacha astoydil kurashishdi.",
   "bus fare": "Bu yil avtobus yo'l haqi oshdi.",

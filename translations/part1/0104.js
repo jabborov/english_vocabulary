@@ -1,5 +1,47 @@
-// Part 1 topic 0104: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0104: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0104', {
+ "A1": {
+  "apologise": "Uzr so'rayman.",
+  "apology": "Iltimos, uzrimni qabul qiling.",
+  "caveat": "Bitta shart bor.",
+  "draw a line": "Keling, bunga nuqta qo'yaylik.",
+  "famous person": "U mashhur inson.",
+  "faux": "Bu sun'iy mo'yna.",
+  "faux pas": "Bu noo'rin xatti-harakat edi.",
+  "four times": "Men sizga to'rt marta qo'ng'iroq qildim.",
+  "fresh start": "Men hayotni yangidan boshlashni xohlayman.",
+  "mock": "Meni masxara qilmang.",
+  "pas": "\"Pas\" fransuzcha so'z.",
+  "public figure": "U jamoat arbobi.",
+  "reparation": "Ular tovon puli talab qilishdi.",
+  "scandal": "Katta janjal bo'ldi.",
+  "six times": "Men uni olti marta o'qidim.",
+  "socially": "U ijtimoiy jihatdan faol.",
+  "sociolinguistic": "Bu sotsiolingvistik tadqiqot.",
+  "sympathise": "Men sizga hamdardman.",
+  "the right way": "Buni to'g'ri yo'l bilan qiling."
+ },
+ "A2": {
+  "apologise": "Iltimos, singlingdan uzr so'ra.",
+  "apology": "U uzr so'radi.",
+  "caveat": "U bir izoh-shart qo'shib qo'ydi.",
+  "draw a line": "Biz chegara qo'yishimiz kerak.",
+  "famous person": "Men mashhur inson bilan uchrashdim.",
+  "faux": "Uning sun'iy charmdan sumkasi bor.",
+  "faux pas": "U noo'rin xatti-harakat qilib qo'ydi.",
+  "four times": "Biz to'rt marta uchrashdik.",
+  "fresh start": "Keling, hammasini yangidan boshlaylik.",
+  "mock": "Ular uning shlyapasini masxara qilishdi.",
+  "pas": "\"Pas\" qadam degani.",
+  "public figure": "U jamoat arbobiga aylandi.",
+  "reparation": "U tovon to'lashni taklif qildi.",
+  "scandal": "Janjal yangiliklarda yoritildi.",
+  "six times": "Telefon olti marta jiringladi.",
+  "socially": "U odamlar orasida uyatchan.",
+  "sociolinguistic": "U sotsiolingvistik mavzularni yaxshi ko'radi.",
+  "sympathise": "Biz unga hamdardmiz.",
+  "the right way": "Bu to'g'ri yo'l."
+ },
  "B1": {
   "apologise": "U xato uchun uzr so'radi.",
   "apology": "Men kechirim so'rashlarini kutyapman.",

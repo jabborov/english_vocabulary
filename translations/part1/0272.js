@@ -1,5 +1,47 @@
-// Part 1 topic 0272: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0272: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0272', {
+ "A1": {
+  "aesthetically": "Xona estetik jihatdan chiroyli.",
+  "aid": "Unga yordam kerak.",
+  "approachable": "O'qituvchim bilan bemalol gaplashsa bo'ladi.",
+  "bolt out": "Mushuk eshikdan otilib chiqib ketdi.",
+  "circulate": "Qon tana bo'ylab aylanadi.",
+  "compatibility": "Ular bir-biriga juda mos.",
+  "conceive": "U homilador bo'lishni xohlaydi.",
+  "correlate": "Bu ikki narsa o'zaro bog'liq.",
+  "curve": "Egri chiziq chizing.",
+  "curvy": "Yo'l egri-bugri.",
+  "fecundity": "Serpushtlik farzand ko'ra olish degan ma'noni anglatadi.",
+  "good health": "Sog'lig'im yaxshi.",
+  "hourglass": "Bu eski qum soati.",
+  "indicator": "Tabassum baxtning belgisidir.",
+  "irresistible": "Bu tortga qarshilik qilib bo'lmaydi.",
+  "oestrogen": "Estrogen gormondir.",
+  "ratio": "Nisbat ikkiga bir.",
+  "sniff out": "It ovqatni hidlab topdi.",
+  "universally": "Uni hamma yaxshi ko'radi."
+ },
+ "A2": {
+  "aesthetically": "Dizayn estetik jihatdan yoqimli.",
+  "aid": "Jismoniy mashqlar uyquga yordam beradi.",
+  "approachable": "U samimiy va muloqotga ochiq ko'rinadi.",
+  "bolt out": "U uydan otilib chiqib ketdi.",
+  "circulate": "Yangiliklar internetda tez tarqaladi.",
+  "compatibility": "Sevgida bir-biriga mos kelish muhim.",
+  "conceive": "Ular o'tgan yili ilk farzandlarini kutishni boshlashdi.",
+  "correlate": "Bo'y va vazn o'zaro bog'liq.",
+  "curve": "Yo'lda keskin burilish bor.",
+  "curvy": "Uning qomati kelishgan.",
+  "fecundity": "Quyonlar serpushtligi bilan mashhur.",
+  "good health": "Meva sog'liq uchun foydali.",
+  "hourglass": "Qum soatida qum pastga oqadi.",
+  "indicator": "Narx sifat ko'rsatkichi emas.",
+  "irresistible": "Kuchukchaga qarab befarq qolib bo'lmaydi.",
+  "oestrogen": "Ayollarda erkaklarga qaraganda estrogen ko'proq.",
+  "ratio": "O'g'il bolalar va qiz bolalar nisbati qanday?",
+  "sniff out": "U arzon narsani hidini olib topa oladi.",
+  "universally": "Musiqani hamma yaxshi ko'radi."
+ },
  "B1": {
   "aesthetically": "Simmetrik yuzlar ko'pincha estetik jihatdan yoqimli hisoblanadi.",
   "aid": "Yaxshi muloqot munosabatlarga yordam beradi.",

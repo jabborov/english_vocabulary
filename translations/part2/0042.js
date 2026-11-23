@@ -1,5 +1,33 @@
-// Part 2 topic 0042: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0042: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0042', {
+ "A1": {
+  "Yiddish": "U idish tilida gapiradi.",
+  "articulate": "U fikrini aniq va ravon ifodalaydi.",
+  "charmer": "U odamlarni o'ziga rom qiladi.",
+  "establishment": "U hukmron tuzumga qarshi.",
+  "likeable": "U yoqimtoy odam.",
+  "lively": "Bazm qizg'in o'tdi.",
+  "lover": "Men musiqa ixlosmandiman.",
+  "pistol": "Bu o'yinchoq to'pponcha.",
+  "punk": "Menga pank yoqadi.",
+  "spiel": "Men uning uzundan-uzoq gaplarini eshitdim.",
+  "spieler": "U gapga usta, ko'p gapiradigan odam.",
+  "stage name": "Bu uning sahnaviy taxallusi."
+ },
+ "A2": {
+  "Yiddish": "Buvim idish tilida gapiradi.",
+  "articulate": "U fikrini aniq ifodalaydigan bola.",
+  "charmer": "Bobom odamlarni o'ziga rom qiladigan inson edi.",
+  "establishment": "Hukmron doiralar pankni yoqtirmasdi.",
+  "likeable": "Yangi o'qituvchimiz juda yoqimtoy.",
+  "lively": "U quvnoq va sho'x qizcha.",
+  "lover": "U mushuklarni juda yaxshi ko'radi.",
+  "pistol": "Politsiyachining to'pponchasi bor edi.",
+  "punk": "Amakim 1970-yillarda pank bo'lgan.",
+  "spiel": "Sotuvchi bizga uzundan-uzoq gap sotdi.",
+  "spieler": "Gapdon kun bo'yi gapirdi.",
+  "stage name": "Uning sahnaviy taxallusi qisqa va oson."
+ },
  "B1": {
   "Yiddish": "Ba'zi inglizcha so'zlar idish tilidan kelib chiqqan.",
   "articulate": "U savolga aniq va ravon javob berdi.",

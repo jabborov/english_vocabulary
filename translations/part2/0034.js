@@ -1,5 +1,37 @@
-// Part 2 topic 0034: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0034: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0034', {
+ "A1": {
+  "aim": "Mening maqsadim ingliz tilini o'rganish.",
+  "evidence": "Bizga dalil kerak.",
+  "explicit": "Qoidalar aniq-ravshan.",
+  "fictional": "Bu hikoya to'qima.",
+  "immersion": "Til muhitiga sho'ng'ish o'rganishga yordam beradi.",
+  "implicit": "Ba'zi o'rganish yashirin tarzda sodir bo'ladi.",
+  "indeed": "Ha, albatta.",
+  "keep up": "Yaxshi ishni davom ettiring!",
+  "key finding": "Bu asosiy xulosa.",
+  "mimic": "Chaqaloqlar ota-onalariga taqlid qiladi.",
+  "one particular": "Menga bitta alohida qo'shiq yoqadi.",
+  "promising": "Natijalar umidli.",
+  "realistically": "Real qarasak, bu qiyin.",
+  "tend": "Men odatda kech uxlayman."
+ },
+ "A2": {
+  "aim": "Uning maqsadi fransuz tilida yaxshi gapirish.",
+  "evidence": "Buning biror dalili bormi?",
+  "explicit": "O'qituvchi aniq ko'rsatmalar berdi.",
+  "fictional": "U to'qima qahramon.",
+  "immersion": "Men ispan tilini til muhitiga sho'ng'ib o'rgandim.",
+  "implicit": "Bolalar ongsiz ravishda o'rganadi.",
+  "indeed": "Bu haqiqatan ham juda yaxshi kun bo'ldi.",
+  "keep up": "Men ingliz tilimni saqlab qolmoqchiman.",
+  "key finding": "Tadqiqotda bitta asosiy xulosa bor edi.",
+  "mimic": "U o'qituvchisining ovoziga taqlid qila oladi.",
+  "one particular": "Bitta alohida so'z qiyin edi.",
+  "promising": "U istiqbolli talaba.",
+  "realistically": "Real qarasak, bugun tugata olmaymiz.",
+  "tend": "Biz odatda uyda ovqatlanamiz."
+ },
  "B1": {
   "aim": "Bu ilovaning maqsadi kuniga o'nta so'z o'rganishingizga yordam berishdir.",
   "evidence": "Ilovalar odamlarga so'z boyligini o'rganishda yordam berishi haqida ba'zi dalillar bor.",

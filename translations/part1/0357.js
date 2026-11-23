@@ -1,5 +1,37 @@
-// Part 1 topic 0357: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0357: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0357', {
+ "A1": {
+  "Rupert": "Bu Rupert.",
+  "Samuel": "Uning ismi Samuel.",
+  "across": "Yo'lni kesib o'ting.",
+  "burp": "Chaqaloq kekirdi.",
+  "chewing": "Chaynash shovqinli.",
+  "clink": "Keling, qadahlarni urishtiraylik.",
+  "cutlery": "Qoshiq-sanchqilar qayerda?",
+  "drinking glass": "Bu ichimlik stakani.",
+  "glass in": "Uning qo'lida stakan bor edi.",
+  "lap": "Mushuk tizzamda.",
+  "make peace": "Keling, yarashaylik.",
+  "napkin": "Mana salfetka.",
+  "picky": "U tanlab ovqat yeydi.",
+  "slop": "Suvni to'kib yuborma."
+ },
+ "A2": {
+  "Rupert": "Rupert kechki ziyofatlarni yaxshi ko'radi.",
+  "Samuel": "Samuel mazali ovqatni yaxshi ko'rardi.",
+  "across": "U mening qarshimda o'tirdi.",
+  "burp": "Stol atrofida kekirma!",
+  "chewing": "Bunchalik baland ovozda chaynashni bas qil.",
+  "clink": "Men qadahlarning jaranglaganini eshitdim.",
+  "cutlery": "Qoshiq-sanchqilar tortmada.",
+  "drinking glass": "Ichimlik stakani sindi.",
+  "glass in": "U qo'lida stakan bilan kirib keldi.",
+  "lap": "Qo'llaringizni tizzangizga qo'ying.",
+  "make peace": "Ular kechki ovqatda yarashishdi.",
+  "napkin": "Menga salfetka kerak.",
+  "picky": "Bunchalik tanlovchan bo'lma!",
+  "slop": "Sho'rva stolga to'kilib ketdi."
+ },
  "B1": {
   "Rupert": "Rupert odob-axloq qoidalari haqida ko'p narsa biladi.",
   "Samuel": "Semyuel kundaligida taomlar haqida yozgan.",

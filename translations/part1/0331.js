@@ -1,5 +1,33 @@
-// Part 1 topic 0331: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0331: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0331', {
+ "A1": {
+  "accountable": "Siyosatchilar hisobdor bo'lishi kerak.",
+  "active citizen": "U faol fuqaro.",
+  "assembly": "Har kuni ertalab bizda umumiy yig'ilish bo'ladi.",
+  "break water": "Qayiqlar to'lqinqaytargich ortida xavfsiz.",
+  "citizenship": "Uning fuqaroligi bor.",
+  "curriculum": "Matematika o'quv dasturiga kiritilgan.",
+  "erosion": "Dengiz qoyalarning yemirilishiga sabab bo'ladi.",
+  "law of the land": "Biz mamlakat qonunlariga amal qilishimiz kerak.",
+  "pin": "Menga to'g'nog'ich kerak.",
+  "pin down": "Muammoni aniq belgilay olmayapman.",
+  "political party": "Sizga qaysi siyosiy partiya yoqadi?",
+  "weakening": "Bo'ronning susayishi yaxshi xabar bo'ldi."
+ },
+ "A2": {
+  "accountable": "Bu xato uchun kim javobgar?",
+  "active citizen": "Faol fuqarolar qo'shnilariga yordam beradi.",
+  "assembly": "Direktor umumiy yig'ilishda nutq so'zladi.",
+  "break water": "Biz to'lqinqaytargich bo'ylab sayr qildik.",
+  "citizenship": "U Britaniya fuqaroligiga ega.",
+  "curriculum": "Maktabning o'quv dasturi keng qamrovli.",
+  "erosion": "Shamol va yomg'ir tuproq eroziyasiga sabab bo'ladi.",
+  "law of the land": "Mamlakat qonuniga ko'ra, soliq to'lashingiz shart.",
+  "pin": "U qog'ozni mahkamlash uchun to'g'nog'ichdan foydalandi.",
+  "pin down": "Sababni aniq belgilash qiyin.",
+  "political party": "U universitetda siyosiy partiyaga a'zo bo'ldi.",
+  "weakening": "Valyuta kursi zaiflashdi."
+ },
  "B1": {
   "accountable": "Menejer loyiha muvaffaqiyatsiz bo'lsa, javobgarlikni o'z zimmasiga olishini aytdi.",
   "active citizen": "Buvim har hafta kutubxonada yordam beradigan faol fuqaro.",

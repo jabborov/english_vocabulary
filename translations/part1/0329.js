@@ -1,5 +1,25 @@
-// Part 1 topic 0329: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0329: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0329', {
+ "A1": {
+  "Luke": "Luke mening do'stim.",
+  "cramp": "Oyog'im tortishib qoldi.",
+  "economic condition": "Iqtisodiy sharoit yomon.",
+  "hitch": "Kichik bir to'siq bor.",
+  "incentive": "Hech qanday rag'bat yo'q.",
+  "independence": "Men mustaqillikni xohlayman.",
+  "reside": "Ular Londonda istiqomat qilishadi.",
+  "virtue": "Sabr fazilatdir."
+ },
+ "A2": {
+  "Luke": "Luke uyda yashaydi.",
+  "cramp": "Oyog'im tortishib qoldi.",
+  "economic condition": "Iqtisodiy ahvol o'zgarmoqda.",
+  "hitch": "Rejada bir to'siq bor.",
+  "incentive": "Pul rag'batlantiruvchi omildir.",
+  "independence": "Mustaqillik muhim.",
+  "reside": "U onasi bilan birga istiqomat qiladi.",
+  "virtue": "Halollik fazilatdir."
+ },
  "B1": {
   "Luke": "Luk 28 yoshda.",
   "cramp": "Uyda yashash erkinligimni cheklaydi.",

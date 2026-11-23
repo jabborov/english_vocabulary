@@ -1,5 +1,25 @@
-// Part 1 topic 0310: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0310: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0310', {
+ "A1": {
+  "bookworm": "U kitobxon.",
+  "compass": "Biz kompasdan foydalandik.",
+  "dyslexia": "Uning disleksiyasi bor.",
+  "novelist": "U romannavis.",
+  "novella": "Bu qisqa qissa.",
+  "recherche": "Fransuz tilida \"recherche\" \"izlanish\" degani.",
+  "remembrance": "Bu xotira kuni.",
+  "school teacher": "U maktab o'qituvchisi."
+ },
+ "A2": {
+  "bookworm": "O'g'lim kitobxon.",
+  "compass": "Kompas shimolni ko'rsatadi.",
+  "dyslexia": "Disleksiya o'qishni qiyinlashtiradi.",
+  "novelist": "U yozuvchi bo'lishni xohlaydi.",
+  "novella": "Men qissa o'qidim.",
+  "recherche": "U \"Yo'qotilgan vaqt izidan\" asarini o'qidi.",
+  "remembrance": "Biz xotira uchun daraxt ekdik.",
+  "school teacher": "Maktab o'qituvchim mehribon edi."
+ },
  "B1": {
   "bookworm": "Maktabda men kitobxon edim.",
   "compass": "Uning axloqiy yo'l-yo'riqlari mustahkam.",

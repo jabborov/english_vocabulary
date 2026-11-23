@@ -1,5 +1,35 @@
-// Part 1 topic 0264: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0264: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0264', {
+ "A1": {
+  "beekeeper": "U asalarichi.",
+  "bumblebee": "Anavi tukli arini qara!",
+  "cling on": "Mahkam yopishib turing!",
+  "flap": "Qushlar qanotlarini qoqadi.",
+  "fore": "Bu birinchi o'ringa chiqdi.",
+  "grateful": "Men minnatdorman.",
+  "gratitude": "Men minnatdorlik his qilyapman.",
+  "lavender": "Lavandaning hidi yoqimli.",
+  "oblivious": "U hech narsadan bexabar edi.",
+  "pest": "Pashshalar zararkunanda hasharotdir.",
+  "pollination": "Asalarilar changlanishga yordam beradi.",
+  "question mark": "Bu yerga so'roq belgisini qo'ying.",
+  "unmindful": "U xavfga e'tibor bermaydi."
+ },
+ "A2": {
+  "beekeeper": "Asalarichining asalarilari ko'p.",
+  "bumblebee": "Tukli ari katta va paxmoq.",
+  "cling on": "Bola onasiga mahkam yopishib oldi.",
+  "flap": "Bayroq shamolda hilpiraydi.",
+  "fore": "Yangi g'oyalar birinchi o'ringa chiqdi.",
+  "grateful": "Rahmat, sizdan juda minnatdorman.",
+  "gratitude": "U o'z minnatdorligini bildirdi.",
+  "lavender": "Asalarilar lavandani yaxshi ko'radi.",
+  "oblivious": "U shovqinni payqamadi ham.",
+  "pest": "Kalamushlar zararkunandalardir.",
+  "pollination": "Changlanish meva hosil bo'lishiga yordam beradi.",
+  "question mark": "So'roq gap so'roq belgisi bilan tugaydi.",
+  "unmindful": "Boshqalarni e'tibordan chetda qoldirmang."
+ },
  "B1": {
   "beekeeper": "Asalarichi asal yig'adi.",
   "bumblebee": "Tukli arilar bog'dagi gullarni yaxshi ko'radi.",

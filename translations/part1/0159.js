@@ -1,5 +1,47 @@
-// Part 1 topic 0159: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0159: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0159', {
+ "A1": {
+  "ancestry": "Mening ajdodlarim o'zbek.",
+  "ask around": "Yordam so'rab atrofdagilardan surishtiring.",
+  "biased": "Sudya xolis emas edi.",
+  "blind person": "U ko'zi ojiz odam.",
+  "broad": "Daryo keng.",
+  "bud": "O'simlikda kurtak bor.",
+  "chastise": "Uni koyimang.",
+  "confine": "Itni qamab qo'ymang.",
+  "control condition": "Bu nazorat sharti.",
+  "extent": "Men ma'lum darajada qo'shilaman.",
+  "horizon": "Quyosh ufqda turibdi.",
+  "only when": "Faqat qorningiz ochganda ovqatlaning.",
+  "pointless": "Bu befoyda.",
+  "prawn": "Men krevetkalarni yaxshi ko'raman.",
+  "render": "Yangilik uni jim qilib qo'ydi.",
+  "sphere": "To'p sharsimon jismdir.",
+  "subjective": "Ta'm subyektivdir.",
+  "taste bud": "Biz ta'm sezgi so'rg'ichlari bilan ta'm bilamiz.",
+  "waste of time": "Bu vaqtni behuda sarflash."
+ },
+ "A2": {
+  "ancestry": "U o'z ajdodlarini o'rganadi.",
+  "ask around": "Men maktabda atrofdagilardan surishtirdim.",
+  "biased": "Bir tomonlama bo'lmang.",
+  "blind person": "Ko'zi ojiz odam hassadan foydalanadi.",
+  "broad": "Uning yelkalari keng.",
+  "bud": "Atirgul g'unchasiga qarang.",
+  "chastise": "O'qituvchi bolani koyidi.",
+  "confine": "Uni faqat shu xonada saqlang.",
+  "control condition": "Bir guruh nazorat sharoitida edi.",
+  "extent": "Biz uning ko'lamini bilmaymiz.",
+  "horizon": "Ufqda kemani ko'ra olaman.",
+  "only when": "Faqat sizdan so'ralganda gapiring.",
+  "pointless": "Yig'lashdan foyda yo'q.",
+  "prawn": "Krevetka pushti rangda.",
+  "render": "Yomg'ir yo'lni xavfli qilib qo'ydi.",
+  "sphere": "Yer shar shaklida.",
+  "subjective": "Bu subyektiv qarash.",
+  "taste bud": "Ta'm sezgi so'rg'ichlari tilda joylashgan.",
+  "waste of time": "Bu o'yin vaqtni behuda sarflash."
+ },
  "B1": {
   "ancestry": "Uning ajdodlari italiyalik.",
   "ask around": "U yaxshi kafe haqida tanishlaridan so'rab-surishtirdi.",

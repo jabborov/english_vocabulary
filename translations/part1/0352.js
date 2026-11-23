@@ -1,5 +1,29 @@
-// Part 1 topic 0352: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0352: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0352', {
+ "A1": {
+  "administration": "Men ma'muriy ishlarni yoqtirmayman.",
+  "administrator": "U ma'mur.",
+  "all important": "Bu eng muhim kun.",
+  "conductor": "Dirijyorning tayoqchasi bor.",
+  "hierarchy": "Kompaniyada ierarxiya bor.",
+  "look up to": "Men otamga havas qilaman.",
+  "managerial": "Uning ishi boshqaruvga oid.",
+  "rota": "Navbatchilik jadvaliga qarang.",
+  "sir": "Xo'p, janob.",
+  "technician": "Texnik telefonimni tuzatdi."
+ },
+ "A2": {
+  "administration": "U ma'muriy bo'limda ishlaydi.",
+  "administrator": "Ma'mur elektron xatlarga javob beradi.",
+  "all important": "Eng muhim imtihon ertaga.",
+  "conductor": "Orkestr dirijyorga qarab turadi.",
+  "hierarchy": "Boshliq ierarxiyaning eng yuqorisida turadi.",
+  "look up to": "Bolalar o'qituvchilariga havas qilishadi.",
+  "managerial": "U rahbarlik lavozimini xohlaydi.",
+  "rota": "Mening ismim navbatchilik jadvalida bor.",
+  "sir": "Xayrli tong, janob.",
+  "technician": "U laboratoriya texnigi."
+ },
  "B1": {
   "administration": "Haddan tashqari ko'p ma'muriy ishlar ishni zerikarli qiladi.",
   "administrator": "Maktabga yangi ma'mur kerak.",

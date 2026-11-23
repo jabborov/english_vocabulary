@@ -1,5 +1,41 @@
-// Part 1 topic 0427: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0427: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0427', {
+ "A1": {
+  "angle": "Unga shu burchakdan qarang.",
+  "consumer goods": "Televizorlar iste'mol tovarlaridir.",
+  "cooker": "Plita issiq.",
+  "cooking utensil": "Qoshiq oshxona anjomidir.",
+  "dusty": "Eski kitob changga to'lgan.",
+  "dwelling": "Turar joy bu uydir.",
+  "glimpse": "Men dengizni bir lahza ko'rib qoldim.",
+  "make way": "Iltimos, shifokorga yo'l bering.",
+  "rural area": "Buvim qishloq joyda yashaydi.",
+  "slipper": "Shippaklarim qayerda?",
+  "snapshot": "Bu itimning surati.",
+  "tear down": "Ular eski devorni buzib tashlashadi.",
+  "tower block": "Biz ko'p qavatli uyda yashaymiz.",
+  "treasured": "Bu mening eng qadrli o'yinchog'im.",
+  "urbanised": "Bu hudud juda urbanizatsiyalashgan.",
+  "utensil": "Bu idish sho'rva uchun."
+ },
+ "A2": {
+  "angle": "Boshqa burchakdan urinib ko'ring.",
+  "consumer goods": "Do'konlar iste'mol tovarlarini sotadi.",
+  "cooker": "Bizda yangi gaz plitasi bor.",
+  "cooking utensil": "Oshxona anjomlarini tortmaga solib qo'ying.",
+  "dusty": "Xona chang va qorong'i edi.",
+  "dwelling": "Bu eski turar joy juda kichkina.",
+  "glimpse": "Biz yulduzni bir lahza ko'rib qoldik.",
+  "make way": "Yo'l bering! Men o'tyapman.",
+  "rural area": "Qishloq joylari sokin bo'ladi.",
+  "slipper": "Men uyda shippak kiyaman.",
+  "snapshot": "U tezda bir surat olib qo'ydi.",
+  "tear down": "O'sha afishani yirtib tashlama!",
+  "tower block": "Ko'p qavatli uy yigirma qavatdan iborat.",
+  "treasured": "Uning qadrli uzugi buvisining sovg'asi edi.",
+  "urbanised": "Sohil endi urbanizatsiyalashgan.",
+  "utensil": "Kechki ovqatdan keyin idish-tovoqlarni yuving."
+ },
  "B1": {
   "angle": "Hikoya bolaning nuqtai nazaridan hikoya qilinadi.",
   "consumer goods": "Bu yil iste'mol tovarlarining narxi oshdi.",

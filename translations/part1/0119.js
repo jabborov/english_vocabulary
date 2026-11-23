@@ -1,5 +1,37 @@
-// Part 1 topic 0119: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0119: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0119', {
+ "A1": {
+  "addictive": "Bu o'yin odamni o'ziga qaram qiladi.",
+  "adolescent": "U o'smir.",
+  "adulthood": "U voyaga yetdi.",
+  "chronic": "Uning surunkali kasalligi bor.",
+  "eating disorder": "Unda ovqatlanish buzilishi bor edi.",
+  "gamble": "U qimor o'ynashni yaxshi ko'radi.",
+  "navigate": "Xarita yordamida yo'l topa olasizmi?",
+  "onus": "Mas'uliyat sizning zimmangizda.",
+  "prioritise": "Uy vazifangizni birinchi o'ringa qo'ying.",
+  "revenue": "Kompaniyaning daromadi ko'p.",
+  "teen": "O'g'lim o'smir.",
+  "time period": "Bu qisqa vaqt davri edi.",
+  "user": "Men yangi foydalanuvchiman.",
+  "young girl": "U yosh qiz."
+ },
+ "A2": {
+  "addictive": "Shakar qaramlikka olib kelishi mumkin.",
+  "adolescent": "O'smirlar tez o'sadi.",
+  "adulthood": "Voyaga yetish 18 yoshdan boshlanadi.",
+  "chronic": "Uning surunkali bel og'rig'i bor.",
+  "eating disorder": "Ovqatlanish buzilishlari jiddiy.",
+  "gamble": "Pulingizni qimorga tikmang.",
+  "navigate": "Biz shahar bo'ylab yo'l topib yurdik.",
+  "onus": "Mas'uliyat ota-onalar zimmasida.",
+  "prioritise": "Biz xavfsizlikni birinchi o'ringa qo'yishimiz kerak.",
+  "revenue": "Bu yil daromad oshdi.",
+  "teen": "O'smirlar musiqani yaxshi ko'radi.",
+  "time period": "Vaqt davrini tanlang.",
+  "user": "Ilovaning foydalanuvchilari ko'p.",
+  "young girl": "Yosh qiz jilmaydi."
+ },
  "B1": {
   "addictive": "Ijtimoiy tarmoqlar juda qaram qilib qo'yadi.",
   "adolescent": "Ko'plab o'smirlar ijtimoiy tarmoqlardan foydalanadi.",

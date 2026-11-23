@@ -1,5 +1,25 @@
-// Part 1 topic 0421: Uzbek translations of the B1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0421: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0421', {
+ "A1": {
+  "burrow": "Quyonlar yerda in qazishadi.",
+  "earwig": "Qulqoqkirar hasharotdir.",
+  "film industry": "U kino sanoatida ishlaydi.",
+  "jig": "Keling, jiga raqsini tushaylik.",
+  "musical phrase": "Bu musiqiy jumlani kuylang.",
+  "seventeenth": "Bugun o'n yettinchi may.",
+  "uninvited": "U chaqirilmagan mehmon edi.",
+  "worm": "Olmada qurt bor."
+ },
+ "A2": {
+  "burrow": "Sichqon barglar ostiga kirib ketdi.",
+  "earwig": "Men bog'da qulqoqkirar topdim.",
+  "film industry": "Kino sanoati katta.",
+  "jig": "Skripkachi jiga kuyini chaldi.",
+  "musical phrase": "Bu qisqa musiqiy jumla.",
+  "seventeenth": "U poygada o'n yettinchi bo'ldi.",
+  "uninvited": "Chaqirilmagan mushuk ichkariga kirdi.",
+  "worm": "Qushlar qurt yeydi."
+ },
  "B1": {
   "burrow": "Chuvalchanglar tuproqqa chuqur kirib boradi.",
   "earwig": "Qisqichdumlar tosh ostida yashaydi.",
