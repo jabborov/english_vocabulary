@@ -7,6 +7,12 @@
   const KEY = 'vocab-today';
   const LEVELS = ['A1','A2','B1','B2','C1','C2'];
   const GROUPS = { A: ['A1','A2'], B: ['B1','B2'], C: ['C1','C2'] };
+  // Saved level groups -> list in A, B, C order. Older saves were one group ("B") or one level ("B2").
+  function savedGroups(v){
+    if(!Array.isArray(v)) v = [v];
+    const on = v.filter(x => typeof x === 'string').map(x => LEVELS.includes(x) ? x[0] : x);
+    return Object.keys(GROUPS).filter(g => on.includes(g));
+  }
 
   function getList(){
     try{ const v = JSON.parse(localStorage.getItem(KEY)); return Array.isArray(v) ? v.filter(x => typeof x === 'string') : []; }
@@ -43,12 +49,15 @@
     padding:18px 22px 14px; border-bottom:1px solid var(--line); }
   .td-title{ font-family:'Space Grotesk',sans-serif; font-size:22px; font-weight:600; margin:0; }
   .td-title .td-n{ font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:400; color:var(--muted); margin-left:8px; }
-  .td-tools{ display:flex; align-items:center; gap:8px; }
+  .td-tools{ display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .td-btn, .td-lv{ white-space:nowrap; }
   .td-btn{ font-family:'JetBrains Mono',monospace; font-size:12.5px; color:var(--accent); background:none;
     border:1px solid var(--accent); border-radius:6px; padding:5px 12px; cursor:pointer; }
   .td-btn:hover{ background:var(--accent-dim); }
   .td-btn:disabled{ opacity:.4; cursor:default; background:none; }
-  .td-close{ background:none; border:1px solid var(--line); border-radius:6px; color:var(--muted);
+  .td-card{ position:relative; }
+  .td-head{ padding-right:64px; }                 /* room for the × in the corner */
+  .td-close{ position:absolute; top:16px; right:18px; background:none; border:1px solid var(--line); border-radius:6px; color:var(--muted);
     width:30px; height:30px; cursor:pointer; font-size:16px; line-height:1; }
   .td-close:hover{ color:var(--text); border-color:var(--text); }
   .td-share{ padding:12px 22px; border-bottom:1px solid var(--line); font-size:13px; color:var(--muted); }
@@ -82,7 +91,28 @@
   .td-uzex{ display:none; margin-top:3px; font-size:14px; }
   [data-translate="on"] .td-uzex{ display:block; }
   .td-uzex .lbl{ color:var(--accent); border:1px solid var(--accent-dim); }
-  .td-src{ font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--muted); margin-top:8px; }
+  .td-src{ font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--muted); }
+  /* Level groups A / B / C (same setting as the topic pages; any combination) */
+  .td-levels{ display:flex; gap:4px; margin-right:4px; }
+  .td-lv{ font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--muted); background:none;
+    border:1px solid var(--line); border-radius:6px; min-width:30px; height:28px; padding:0 8px; cursor:pointer; }
+  .td-lv:hover{ color:var(--text); border-color:var(--text); }
+  .td-lv.active{ color:var(--accent); border-color:var(--accent); background:var(--accent-dim); }
+  /* Learning status (same as the topic pages) */
+  .td-card{ --td-ok:#6CC08B; --td-weak:#E5766B; }
+  [data-theme="light"] .td-card{ --td-ok:#2F7D4F; --td-weak:#B2402F; }
+  .td-actions{ display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; margin-top:10px; }
+  .td-status{ display:flex; flex-wrap:wrap; gap:6px; }
+  .td-st{ font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--muted); background:none;
+    border:1px solid var(--line); border-radius:999px; padding:3px 9px; cursor:pointer; }
+  .td-st:hover{ color:var(--text); border-color:var(--text); }
+  .td-st.active[data-status="memorized"]{ color:var(--td-ok); border-color:var(--td-ok); }
+  .td-st.active[data-status="weak"]{ color:var(--td-weak); border-color:var(--td-weak); }
+  .td-st.active[data-status="learn"]{ color:var(--accent); border-color:var(--accent); }
+  .td-item.is-memorized, .td-item.is-weak, .td-item.is-learn{ padding-left:12px; border-left:3px solid; }
+  .td-item.is-memorized{ border-left-color:var(--td-ok); }
+  .td-item.is-weak{ border-left-color:var(--td-weak); }
+  .td-item.is-learn{ border-left-color:var(--accent); }
   @media print{ .td-backdrop{ display:none !important; } }`;
   document.head.appendChild(style);
 
@@ -94,6 +124,7 @@
       <div class="td-head">
         <h2 class="td-title" id="td-title">★ Today<span class="td-n" id="td-n"></span></h2>
         <div class="td-tools">
+          <div class="td-levels" id="td-levels" role="group" aria-label="Example sentence CEFR level"></div>
           <button class="td-btn" type="button" id="td-copy" title="Copy a link that opens this list on another device">⧉ Copy URL</button>
           <button class="td-btn" type="button" id="td-clear" title="Remove all words from the Today list">Clear</button>
           <button class="td-close" type="button" id="td-close" aria-label="Close">×</button>
@@ -109,13 +140,51 @@
   const $ = id => backdrop.querySelector('#' + id);
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;' }[c]));
 
-  // Example sentences in the saved level group (A = A1 + A2, …), otherwise the original example.
+  // ----- Level groups A / B / C: saved in "vocab-level", shared with the topic pages and the Random box -----
+  function getGroups(){
+    let saved = null;
+    try{ saved = JSON.parse(localStorage.getItem('vocab-level')); }catch(err){}
+    return savedGroups(saved);
+  }
+  Object.keys(GROUPS).forEach(g => {
+    const b = document.createElement('button');
+    b.type = 'button'; b.className = 'td-lv'; b.dataset.level = g; b.textContent = g;
+    b.title = `Show ${GROUPS[g].join(' and ')} example sentences (can be combined; turn all off for the original)`;
+    $('td-levels').appendChild(b);
+  });
+  function syncLevels(){
+    const on = getGroups();
+    $('td-levels').querySelectorAll('.td-lv').forEach(b => {
+      const a = on.includes(b.dataset.level);
+      b.classList.toggle('active', a);
+      b.setAttribute('aria-pressed', a ? 'true' : 'false');
+    });
+  }
+
+  // ----- Learning status: saved in "vocab-status" (word id -> status), shared with the topic pages -----
+  const STATUSES = [
+    { key: 'memorized', label: 'Memorized' },
+    { key: 'weak',      label: 'Weak' },
+    { key: 'learn',     label: 'Need to Learn' }
+  ];
+  function getStatusMap(){
+    try{ const v = JSON.parse(localStorage.getItem('vocab-status')); return (v && typeof v === 'object' && !Array.isArray(v)) ? v : {}; }
+    catch(e){ return {}; }
+  }
+  function applyStatus(div, status){
+    STATUSES.forEach(s => div.classList.toggle(`is-${s.key}`, s.key === status));
+    div.querySelectorAll('.td-st').forEach(b => {
+      const on = b.dataset.status === status;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+  }
+
+  // Example sentences of the saved level groups (A = A1 + A2, …, any combination), otherwise the original example.
   function examplesOf(e){
-    let level = null;
-    try{ level = JSON.parse(localStorage.getItem('vocab-level')); }catch(err){}
-    if(LEVELS.includes(level)) level = level[0];
+    const levels = getGroups().flatMap(g => GROUPS[g]);   // e.g. A + C -> A1, A2, C1, C2
     const set = (e.examples[e.topicKey] || {})[e.item.w];
-    const list = (GROUPS[level] && set) ? GROUPS[level].map(lv => ({ lv, en: set[LEVELS.indexOf(lv)] })).filter(x => x.en) : [];
+    const list = set ? levels.map(lv => ({ lv, en: set[LEVELS.indexOf(lv)] })).filter(x => x.en) : [];
     return list.length ? list : [{ lv: null, en: e.item.ex }];
   }
 
@@ -147,7 +216,12 @@
       ${it.tr ? `<div class="td-en">${it.def}</div>` : ''}
       <div class="td-uz">${it.tr || it.def}</div>
       ${exs}
-      <div class="td-src">Part ${e.part} · ${e.topicKey} · ${e.topicTitle}</div>
+      <div class="td-actions">
+        <div class="td-status" role="group" aria-label="Learning status">
+          ${STATUSES.map(s => `<button type="button" class="td-st" data-status="${s.key}" aria-pressed="false">${s.label}</button>`).join('')}
+        </div>
+        <div class="td-src">Part ${e.part} · ${e.topicKey} · ${e.topicTitle}</div>
+      </div>
     </div>`;
   }
 
@@ -157,6 +231,20 @@
     $('td-copy').disabled = $('td-clear').disabled = !list.length;
     $('td-list').innerHTML = list.length ? list.map(itemHTML).join('')
       : '<div class="td-empty">No words yet. Open a topic and press <b>☆ Today</b> on a word to add it here.</div>';
+    const statusMap = getStatusMap();
+    $('td-list').querySelectorAll('.td-item').forEach(div => applyStatus(div, statusMap[div.dataset.id] || null));
+    syncLevels();
+  }
+
+  // Re-render without moving the list: the word in the middle of the list area stays in the same place.
+  function renderKeepPosition(){
+    const box = $('td-list'), r = box.getBoundingClientRect(), mid = r.top + r.height / 2;
+    const items = [...box.querySelectorAll('.td-item')];
+    const i = items.findIndex(it => it.getBoundingClientRect().bottom > mid);
+    const before = i >= 0 ? items[i].getBoundingClientRect().top : 0;
+    render();
+    const after = i >= 0 ? box.querySelectorAll('.td-item')[i] : null;
+    if(after) box.scrollTop += after.getBoundingClientRect().top - before;
   }
 
   // Load the Uzbek translations of the listed words' topics, then show them.
@@ -166,7 +254,7 @@
     known(getList()).forEach(id => { const e = byId[id]; topics[e.part + '/' + e.topicKey] = e; });
     Object.values(topics).forEach(e => {
       if(!window.getTopicTranslations(e.part, e.topicKey))
-        window.loadTopicTranslations(e.part, e.topicKey).then(() => { if(backdrop.classList.contains('open')) render(); });
+        window.loadTopicTranslations(e.part, e.topicKey).then(() => { if(backdrop.classList.contains('open')) renderKeepPosition(); });
     });
   }
 
@@ -216,6 +304,26 @@
   backdrop.addEventListener('click', e => { if(e.target === backdrop) close(); });
   document.addEventListener('keydown', e => { if(e.key === 'Escape' && backdrop.classList.contains('open')) close(); });
 
+  // A / B / C: turn a level group on or off (any combination)
+  $('td-levels').addEventListener('click', e => {
+    const b = e.target.closest('.td-lv');
+    if(!b) return;
+    const g = b.dataset.level, on = getGroups();
+    const next = Object.keys(GROUPS).filter(x => x === g ? !on.includes(x) : on.includes(x));
+    try{ localStorage.setItem('vocab-level', JSON.stringify(next)); }catch(err){}
+    renderKeepPosition();
+  });
+  // Memorized / Weak / Need to Learn: click again to clear
+  $('td-list').addEventListener('click', e => {
+    const b = e.target.closest('.td-st');
+    if(!b) return;
+    const div = b.closest('.td-item'), id = div.dataset.id, map = getStatusMap();
+    const next = map[id] === b.dataset.status ? null : b.dataset.status;
+    if(next) map[id] = next; else delete map[id];
+    try{ localStorage.setItem('vocab-status', JSON.stringify(map)); }catch(err){}
+    applyStatus(div, next);
+  });
+
   $('td-list').addEventListener('click', e => {
     const b = e.target.closest('.td-remove');
     if(!b) return;
@@ -240,7 +348,10 @@
   });
 
   // Keep the count right when the list changes in another tab or when coming back from a topic page.
-  window.addEventListener('storage', e => { if(e.key === KEY){ updateCount(); if(backdrop.classList.contains('open')) render(); } });
+  window.addEventListener('storage', e => {
+    if(e.key === KEY) updateCount();
+    if([KEY, 'vocab-level', 'vocab-status'].includes(e.key) && backdrop.classList.contains('open')) renderKeepPosition();
+  });
   window.addEventListener('pageshow', updateCount);
 
   // ----- Opened from a shared link: ?today=id~id~… -----

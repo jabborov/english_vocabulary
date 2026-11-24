@@ -156,7 +156,7 @@
   .entry-ex{ font-size: 14px; color: var(--muted); font-style: italic; }
   .entry-ex::before{ content: "“"; }
   .entry-ex::after{ content: "”"; }
-  /* Level group (A = A1 + A2, …): each sentence has its level tag, the quotes go around the sentence only. */
+  /* Level groups (A = A1 + A2, …, any combination): each sentence has its level tag, the quotes go around the sentence only. */
   .entry-ex.has-lv::before, .entry-ex.has-lv::after{ content: none; }
   .entry-ex .ex-t::before{ content: "“"; }
   .entry-ex .ex-t::after{ content: "”"; }
@@ -299,15 +299,21 @@
   // The buttons are level groups: A shows the A1 and A2 sentences, B shows B1 + B2, C shows C1 + C2.
   const GROUPS = { A: ['A1','A2'], B: ['B1','B2'], C: ['C1','C2'] };
   const examples = ((part === '1' ? window.VOCAB_EXAMPLES_PART1 : window.VOCAB_EXAMPLES) || {})[topicKey] || {};
-  let level = loadJSON('vocab-level', null);
-  if(LEVELS.includes(level)) level = level[0]; // a level saved before the merge (e.g. "B2") -> its group ("B")
-  if(!GROUPS[level]) level = null; // null = original example from data.js
+  // Any combination of groups can be on (e.g. A + C).
+  // Saved level groups -> list in A, B, C order. Older saves were one group ("B") or one level ("B2").
+  function savedGroups(v){
+    if(!Array.isArray(v)) v = [v];
+    const on = v.filter(x => typeof x === 'string').map(x => LEVELS.includes(x) ? x[0] : x);
+    return Object.keys(GROUPS).filter(g => on.includes(g));
+  }
+  let groups = savedGroups(loadJSON('vocab-level', null)); // [] = original example from data.js
+  const shownLevels = () => groups.flatMap(g => GROUPS[g]);  // e.g. A + C -> A1, A2, C1, C2
 
   // The example sentences shown for a word: [{lv, en}] (lv = null for the original example).
   function examplesFor(item){
     const set = examples[item.w];
-    if(level && set){
-      const list = GROUPS[level].map(lv => ({ lv, en: set[LEVELS.indexOf(lv)] })).filter(x => x.en);
+    if(groups.length && set){
+      const list = shownLevels().map(lv => ({ lv, en: set[LEVELS.indexOf(lv)] })).filter(x => x.en);
       if(list.length) return list;
     }
     return [{ lv: null, en: item.ex }];
@@ -365,12 +371,12 @@
     b.className = 'pill level-btn';
     b.dataset.level = lv;
     b.textContent = lv;
-    b.title = `Show ${GROUPS[lv].join(' and ')} example sentences (click again for the original)`;
+    b.title = `Show ${GROUPS[lv].join(' and ')} example sentences (can be combined with the other buttons; turn all off for the original)`;
     levelBar.appendChild(b);
   });
   function syncLevelButtons(){
     levelBar.querySelectorAll('.level-btn').forEach(b => {
-      const on = b.dataset.level === level;
+      const on = groups.includes(b.dataset.level);
       b.classList.toggle('active', on);
       b.setAttribute('aria-pressed', on ? 'true' : 'false');
     });
@@ -378,8 +384,9 @@
   levelBar.addEventListener('click', e => {
     const b = e.target.closest('.level-btn');
     if(!b) return;
-    level = (level === b.dataset.level) ? null : b.dataset.level;
-    saveJSON('vocab-level', level);
+    const g = b.dataset.level;
+    groups = Object.keys(GROUPS).filter(x => x === g ? !groups.includes(x) : groups.includes(x));
+    saveJSON('vocab-level', groups);
     syncLevelButtons();
     keepPosition(() => render(searchEl.value));
   });
@@ -499,7 +506,7 @@
         entriesEl.appendChild(div);
       });
     }
-    countEl.textContent = `${filtered.length} of ${data.words.length} words` + (level ? ` · ${GROUPS[level].join(' + ')} examples` : '');
+    countEl.textContent = `${filtered.length} of ${data.words.length} words` + (groups.length ? ` · ${shownLevels().join(' + ')} examples` : '');
   }
 
   searchEl.addEventListener('input', e => render(e.target.value));

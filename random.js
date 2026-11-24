@@ -10,6 +10,12 @@
   const LEVELS = ['A1','A2','B1','B2','C1','C2'];
   // The level buttons are groups: A = A1 + A2, B = B1 + B2, C = C1 + C2.
   const GROUPS = { A: ['A1','A2'], B: ['B1','B2'], C: ['C1','C2'] };
+  // Saved level groups -> list in A, B, C order. Older saves were one group ("B") or one level ("B2").
+  function savedGroups(v){
+    if(!Array.isArray(v)) v = [v];
+    const on = v.filter(x => typeof x === 'string').map(x => LEVELS.includes(x) ? x[0] : x);
+    return Object.keys(GROUPS).filter(g => on.includes(g));
+  }
 
   // Flatten every topic of both parts into one pool: [{ part, examples, topicKey, topicTitle, item }]
   const pool = [];
@@ -22,18 +28,18 @@
   // Topics 0007+ store the English meaning in `def` and Uzbek in `tr`.
   function fields(entry){
     const it = entry.item;
-    let level = null;
-    try{ level = JSON.parse(localStorage.getItem('vocab-level')); }catch(e){}
-    if(LEVELS.includes(level)) level = level[0]; // a level saved before the merge (e.g. "B2") -> its group ("B")
+    let saved = null;
+    try{ saved = JSON.parse(localStorage.getItem('vocab-level')); }catch(e){}
+    const levels = savedGroups(saved).flatMap(g => GROUPS[g]);   // e.g. A + C -> A1, A2, C1, C2
     const set = (entry.examples[entry.topicKey] || {})[it.w];
     // The sentences shown: [{lv, en}] (lv = null for the original example).
-    let exs = (GROUPS[level] && set) ? GROUPS[level].map(lv => ({ lv, en: set[LEVELS.indexOf(lv)] })).filter(x => x.en) : [];
+    let exs = set ? levels.map(lv => ({ lv, en: set[LEVELS.indexOf(lv)] })).filter(x => x.en) : [];
     const grouped = exs.length > 0;
     if(!grouped) exs = [{ lv: null, en: it.ex }];
     return {
       en: it.tr ? it.def : null,
       uz: it.tr || it.def,
-      exs, level: grouped ? GROUPS[level].join(' + ') : null
+      exs, level: grouped ? levels.join(' + ') : null
     };
   }
 

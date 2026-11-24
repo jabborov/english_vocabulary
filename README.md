@@ -18,8 +18,8 @@ For each word you get:
 - 🔁 **Irregular verbs:** past simple and past participle forms (e.g. *go → went → gone*).
 - 🔄 **Synonyms and opposites:** shown for adjectives, nouns, verbs, adverbs, determiners and pronouns (e.g. *cheap → expensive*, *success → failure*, *increase → decrease*, *quickly → slowly*, *many → few*). Turn them on or off with the **⇄ Synonyms** button.
 - 🇺🇿 **Uzbek translation:** every word is translated into Uzbek.
-- 📈 **CEFR levels:** the **A**, **B** and **C** buttons show the example sentences of both levels in the group (A1 + A2, B1 + B2, C1 + C2).
-- 🌐 **Translate:** shows the Uzbek translation of the example sentences when a CEFR level group (**A**, **B** or **C**) is selected. Turn it on or off with the **文 Translate** button.
+- 📈 **CEFR levels:** the **A**, **B** and **C** buttons show the example sentences of both levels in the group (A1 + A2, B1 + B2, C1 + C2). They can be combined: **A** and **C** together show A1, A2, C1 and C2.
+- 🌐 **Translate:** shows the Uzbek translation of the example sentences when one or more CEFR level groups (**A**, **B**, **C**) are selected. Turn it on or off with the **文 Translate** button.
 - ★ **Today:** press **☆ Today** on a word card to add it to today's review list. The **★ Today** button on the main page shows the list, with **Clear** (remove all words) and **Copy URL** (a link that opens the same list on another device).
 - 🎲 **Random word:** practise with a random word.
 - ✅ **Progress:** mark words as memorized, weak or to learn.
