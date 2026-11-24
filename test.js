@@ -65,6 +65,12 @@ async function load(url, setup){
     assert.strictEqual(entries[0].querySelectorAll('.last-btn').length, 1);
     assert.ok(entries[0].querySelector('.dict-link').href.startsWith('https://www.oxfordlearnersdictionaries.com/search/english/?q='));
     assert.strictEqual(entries[0].querySelector('.entry-ex').textContent, topic.words[0].ex, name);
+    // sequence number in the top-right corner: 1…n in topic order, one per card, hidden from screen readers
+    const nos = [...entries].map(e => e.querySelectorAll('.entry-no'));
+    assert.ok(nos.every(n => n.length === 1), name + ': one number per card');
+    assert.deepStrictEqual(nos.map(n => n[0].textContent), topic.words.map((x, i) => String(i + 1)), name);
+    assert.strictEqual(entries[0].firstElementChild.className, 'entry-no');
+    assert.strictEqual(entries[0].querySelector('.entry-no').getAttribute('aria-hidden'), 'true');
   }
   // Part 1 examples follow the level buttons too
   w = await load('topic.html?topic=0001&part=1');
@@ -149,6 +155,17 @@ async function load(url, setup){
   const s = w.document.getElementById('search'); s.value = 'cramped'; s.dispatchEvent(new w.Event('input'));
   assert.strictEqual(w.document.querySelectorAll('.entry').length, 1);
   assert.deepStrictEqual(exTexts(card()), w.VOCAB_EXAMPLES['0004']['cramped'].slice(0, 2));
+  // the sequence number is the word's position in the topic, kept while searching
+  { const pos = w.VOCAB_DATA['0004'].words.findIndex(x => x.w === 'cramped') + 1;
+    assert.ok(pos > 1, 'cramped is not the first word, so a renumbered list would show 1');
+    assert.strictEqual(card().querySelector('.entry-no').textContent, String(pos));
+    s.value = 'train'; s.dispatchEvent(new w.Event('input'));             // two matches (words 6 and 10): each keeps its own number
+    const shown = [...w.document.querySelectorAll('.entry')];
+    assert.deepStrictEqual(shown.map(c => c.querySelector('.entry-no').textContent), ['6', '10']);
+    const words = w.VOCAB_DATA['0004'].words;
+    for (const c of shown)
+      assert.strictEqual(c.querySelector('.entry-no').textContent, String(words.findIndex(x => '0004|' + x.w === c.dataset.id) + 1));
+    s.value = 'cramped'; s.dispatchEvent(new w.Event('input')); }
 
   // learning status: set, persist, survive search re-render, switch, clear
   let e = w.document.querySelector('.entry');

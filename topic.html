@@ -141,10 +141,14 @@
   #count{ font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--muted); margin-bottom: 18px; }
 
   .entry{
+    position: relative;
     border: 1px solid var(--line); border-radius: 10px;
     padding: 20px 22px; margin-bottom: 12px;
   }
-  .entry-top{ display:flex; align-items:baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; }
+  .entry-top{ display:flex; align-items:baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; padding-right: 28px; }
+  /* Sequence number: the word's position in the topic, small and faint in the top-right corner */
+  .entry-no{ position: absolute; top: 9px; right: 12px; font-family:'JetBrains Mono',monospace;
+    font-size: 10.5px; line-height: 1; color: var(--muted); opacity: .5; pointer-events: none; user-select: none; }
   .entry-word{ font-family:'Space Grotesk',sans-serif; font-size: 19px; font-weight: 600; }
   .entry-pos{ font-family:'JetBrains Mono',monospace; font-size: 12px; color: var(--accent); border:1px solid var(--accent-dim); border-radius:4px; padding: 2px 8px; }
   .entry-ipa{ font-family:'JetBrains Mono',monospace; font-size: 13px; color: var(--muted); }
@@ -524,10 +528,12 @@
     } else {
       noResultsEl.style.display = 'none';
       filtered.forEach(item => {
+        const no = data.words.indexOf(item) + 1;   // position in the topic (kept while searching)
         const div = document.createElement('div');
         div.className = 'entry';
         div.dataset.id = statusId(item);
         div.innerHTML = `
+          <span class="entry-no" aria-hidden="true">${no}</span>
           <div class="entry-top">
             <span class="entry-word">${item.w}</span>
             <span class="entry-pos mono">${item.p}</span>
