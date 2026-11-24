@@ -173,6 +173,8 @@
   .status-btn.active[data-status="memorized"]{ color: var(--ok); border-color: var(--ok); }
   .status-btn.active[data-status="weak"]{ color: var(--weak); border-color: var(--weak); }
   .status-btn.active[data-status="learn"]{ color: var(--accent); border-color: var(--accent); }
+  /* Today: picks the word for daily review (separate from the learning status). */
+  .today-btn.active{ color: var(--accent); border-color: var(--accent); background: var(--accent-dim); }
   .entry.is-memorized{ border-left: 3px solid var(--ok); }
   .entry.is-weak{ border-left: 3px solid var(--weak); }
   .entry.is-learn{ border-left: 3px solid var(--accent); }
@@ -402,6 +404,34 @@
     });
   }
 
+  // ----- Today: words picked for daily review (list shown on the main page, see today.js) -----
+  let todayList = loadJSON('vocab-today', []);
+  if(!Array.isArray(todayList)) todayList = [];
+  function applyToday(div){
+    const on = todayList.includes(div.dataset.id), b = div.querySelector('.today-btn');
+    b.classList.toggle('active', on);
+    b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    b.textContent = on ? '★ Today' : '☆ Today';
+  }
+  entriesEl.addEventListener('click', e => {
+    const b = e.target.closest('.today-btn');
+    if(!b) return;
+    const div = b.closest('.entry'), id = div.dataset.id;
+    todayList = loadJSON('vocab-today', []);            // may have changed in another tab
+    if(!Array.isArray(todayList)) todayList = [];
+    todayList = todayList.includes(id) ? todayList.filter(x => x !== id) : todayList.concat(id);
+    saveJSON('vocab-today', todayList);
+    applyToday(div);
+  });
+  // The list may have been changed on the main page (Clear, Remove) — refresh when coming back to this page.
+  function refreshToday(){
+    todayList = loadJSON('vocab-today', []);
+    if(!Array.isArray(todayList)) todayList = [];
+    entriesEl.querySelectorAll('.entry').forEach(applyToday);
+  }
+  window.addEventListener('pageshow', refreshToday);
+  window.addEventListener('storage', e => { if(e.key === 'vocab-today') refreshToday(); });
+
   entriesEl.addEventListener('click', e => {
     const b = e.target.closest('.status-btn');
     if(!b) return;
@@ -459,11 +489,13 @@
           <div class="entry-actions">
             <div class="status-group" role="group" aria-label="Learning status">
               ${STATUSES.map(s => `<button type="button" class="pill status-btn" data-status="${s.key}">${s.label}</button>`).join('')}
+              <button type="button" class="pill today-btn" aria-pressed="false" title="Add this word to today's review list (shown on the main page)">☆ Today</button>
             </div>
             <a class="dict-link" href="${oxfordUrl(item.w)}" target="_blank" rel="noopener">Oxford ↗</a>
           </div>
         `;
         applyStatus(div, statusMap[div.dataset.id] || null);
+        applyToday(div);
         entriesEl.appendChild(div);
       });
     }

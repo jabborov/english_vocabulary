@@ -20,6 +20,7 @@ For each word you get:
 - 🇺🇿 **Uzbek translation:** every word is translated into Uzbek.
 - 📈 **CEFR levels:** the **A**, **B** and **C** buttons show the example sentences of both levels in the group (A1 + A2, B1 + B2, C1 + C2).
 - 🌐 **Translate:** shows the Uzbek translation of the example sentences when a CEFR level group (**A**, **B** or **C**) is selected. Turn it on or off with the **文 Translate** button.
+- ★ **Today:** press **☆ Today** on a word card to add it to today's review list. The **★ Today** button on the main page shows the list, with **Clear** (remove all words) and **Copy URL** (a link that opens the same list on another device).
 - 🎲 **Random word:** practise with a random word.
 - ✅ **Progress:** mark words as memorized, weak or to learn.
 - 🌙 **Dark mode:** switch between light and dark themes.
@@ -49,6 +50,7 @@ english_vocabulary/
 │   └── part2/             # 0001.js … 0080.js
 ├── synonyms.js            # Synonyms and opposites for adjectives, nouns, verbs, adverbs, determiners and pronouns
 ├── random.js              # Random word feature
+├── today.js               # Today review list (main page), Clear and Copy URL
 ├── scroll.js              # ↑ / ↓ buttons to jump to the top or bottom of a page
 ├── test.js                # Page tests (Node.js + jsdom)
 └── README.md              # This file
