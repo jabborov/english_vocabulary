@@ -21,6 +21,7 @@ For each word you get:
 - 📈 **CEFR levels:** the **A**, **B** and **C** buttons show the example sentences of both levels in the group (A1 + A2, B1 + B2, C1 + C2). They can be combined: **A** and **C** together show A1, A2, C1 and C2.
 - 🌐 **Translate:** shows the Uzbek translation of the example sentences when one or more CEFR level groups (**A**, **B**, **C**) are selected. Turn it on or off with the **文 Translate** button.
 - ★ **Today:** press **☆ Today** on a word card to add it to today's review list. The **★ Today** button on the main page shows the list, with **Clear** (remove all words) and **Copy URL** (a link that opens the same list on another device).
+- ⤓ **Last word:** the most recently added word (the last word of the last Part 2 topic) is marked **⤓ Last word** in its topic. The **⤓ Last word** button on the main page opens that topic and scrolls to the word.
 - 🎲 **Random word:** practise with a random word.
 - ✅ **Progress:** mark words as memorized, weak or to learn.
 - 🌙 **Dark mode:** switch between light and dark themes.
@@ -51,6 +52,7 @@ english_vocabulary/
 ├── synonyms.js            # Synonyms and opposites for adjectives, nouns, verbs, adverbs, determiners and pronouns
 ├── random.js              # Random word feature
 ├── today.js               # Today review list (main page), Clear and Copy URL
+├── last-word.js           # Last word: most recently added word (button + mark)
 ├── scroll.js              # ↑ / ↓ buttons to jump to the top or bottom of a page
 ├── test.js                # Page tests (Node.js + jsdom)
 └── README.md              # This file

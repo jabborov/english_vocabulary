@@ -412,5 +412,73 @@ async function load(url, setup){
   w.document.querySelector('.today-btn').click();
   assert.deepStrictEqual(today(), [w.document.querySelector('.entry').dataset.id]);
 
+  // ---- Last word: the last word of the last Part 2 topic (data.js) ----
+  store['vocab-level'] = '[]';
+  w = await load('index.html');
+  { const keys = Object.keys(w.VOCAB_DATA), lastKey = keys[keys.length - 1], t = w.VOCAB_DATA[lastKey];
+    const lastW = t.words[t.words.length - 1].w, L = w.VocabLast;
+    assert.strictEqual(L.part, '2');
+    assert.strictEqual(L.topicKey, lastKey);
+    assert.strictEqual(L.w, lastW);
+    assert.strictEqual(L.title, t.title);
+    assert.strictEqual(L.url, `topic.html?topic=${lastKey}&word=${encodeURIComponent(lastW)}`);
+    const btn = w.document.getElementById('last-word');
+    assert.ok(btn, 'Last word button on the main page');
+    assert.strictEqual(btn.textContent, '⤓ Last word');
+    assert.strictEqual(btn.closest('.hero-actions'), w.document.getElementById('today-open').closest('.hero-actions'));
+    assert.strictEqual(btn.previousElementSibling, w.document.getElementById('today-open'), 'right after Today');
+    assert.strictEqual(btn.title, `Most recently added word: "${lastW}" (Part 2 · ${lastKey} · ${t.title})`);
+
+    // the button's link: the topic with every word, the last word marked and picked out
+    let t2 = await load(L.url);
+    let d2 = t2.document;
+    const lastId = `${lastKey}|${lastW}`;
+    const marked = () => [...d2.querySelectorAll('.entry-last')].map(m => m.closest('.entry').dataset.id);
+    assert.strictEqual(d2.querySelectorAll('.entry').length, t.words.length, 'whole topic shown, not filtered');
+    assert.strictEqual(d2.getElementById('search').value, '');
+    assert.deepStrictEqual(marked(), [lastId]);
+    assert.strictEqual(d2.querySelector('.entry-last').textContent, '⤓ Last word');
+    assert.deepStrictEqual([...d2.querySelectorAll('.entry.is-target')].map(e => e.dataset.id), [lastId]);
+    // still marked and picked out after a redraw (e.g. a level button)
+    d2.querySelector('.level-btn[data-level="A"]').click();
+    assert.deepStrictEqual(marked(), [lastId]);
+    assert.deepStrictEqual([...d2.querySelectorAll('.entry.is-target')].map(e => e.dataset.id), [lastId]);
+    d2.querySelector('.level-btn[data-level="A"]').click();
+
+    // the mark is there however the topic is opened; ?word= picks out any word of the topic
+    t2 = await load(`topic.html?topic=${lastKey}`); d2 = t2.document;
+    assert.deepStrictEqual(marked(), [lastId]);
+    assert.strictEqual(d2.querySelectorAll('.entry.is-target').length, 0);
+    const other = t.words[0].w;
+    t2 = await load(`topic.html?topic=${lastKey}&word=${encodeURIComponent(other)}`); d2 = t2.document;
+    assert.deepStrictEqual([...d2.querySelectorAll('.entry.is-target')].map(e => e.dataset.id), [`${lastKey}|${other}`]);
+    assert.deepStrictEqual(marked(), [lastId]);
+    t2 = await load(`topic.html?topic=${lastKey}&word=no-such-word`); d2 = t2.document;   // unknown word: nothing breaks
+    assert.strictEqual(d2.querySelectorAll('.entry.is-target').length, 0);
+    assert.strictEqual(d2.querySelectorAll('.entry').length, t.words.length);
+    // other topics, and the same topic number in Part 1, have no mark
+    t2 = await load(`topic.html?topic=${keys[0]}`); d2 = t2.document;
+    assert.strictEqual(marked().length, 0);
+    t2 = await load(`topic.html?topic=${lastKey}&part=1`); d2 = t2.document;
+    assert.strictEqual(marked().length, 0);
+  }
+  // follows new words automatically: a word added to the end of data.js becomes the last word
+  { const add = win => {
+      let v;
+      Object.defineProperty(win, 'VOCAB_DATA', { configurable: true, get: () => v, set: x => {
+        const keys = Object.keys(x);
+        x[keys[keys.length - 1]].words.push({ w: 'test new word', p: 'noun', ipa: '/test/', def: 'a word added for the test', tr: 'test', ex: 'This is a test.' });
+        v = x;
+      } });
+    };
+    w = await load('index.html', add);
+    const keys = Object.keys(w.VOCAB_DATA), lastKey = keys[keys.length - 1];
+    assert.strictEqual(w.VocabLast.w, 'test new word');
+    assert.strictEqual(w.VocabLast.url, `topic.html?topic=${lastKey}&word=test%20new%20word`);
+    const t2 = await load(w.VocabLast.url, add);
+    assert.deepStrictEqual([...t2.document.querySelectorAll('.entry-last')].map(m => m.closest('.entry').dataset.id), [`${lastKey}|test new word`]);
+    assert.ok(t2.document.querySelector('.entry.is-target .entry-last'));
+  }
+
   console.log('ALL TESTS PASSED');
 })().catch(e => { console.error('FAIL', e.message); process.exit(1); });

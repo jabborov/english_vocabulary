@@ -178,6 +178,11 @@
   .entry.is-memorized{ border-left: 3px solid var(--ok); }
   .entry.is-weak{ border-left: 3px solid var(--weak); }
   .entry.is-learn{ border-left: 3px solid var(--accent); }
+  /* Last word: the most recently added word (last-word.js) */
+  .entry-last{ font-family:'JetBrains Mono',monospace; font-size: 11px; color: var(--accent);
+    border: 1px dashed var(--accent); border-radius: 4px; padding: 1px 7px; white-space: nowrap; }
+  @keyframes entry-flash{ from{ box-shadow: 0 0 0 3px var(--accent); } to{ box-shadow: 0 0 0 3px transparent; } }
+  .entry.is-target{ animation: entry-flash 2.4s ease-out; }
   .dict-link{ font-family:'JetBrains Mono',monospace; font-size: 12px; color: var(--muted); }
   .dict-link:hover{ color: var(--accent); }
 
@@ -264,6 +269,7 @@
 <script src="tr-loader.js"></script>
 <script src="random.js"></script>
 <script src="scroll.js"></script>
+<script src="last-word.js"></script>
 <script>
   const params = new URLSearchParams(window.location.search);
   // Part 1 topics live in data_part1.js / examples_part1.js; Part 2 in data.js / examples.js.
@@ -467,6 +473,12 @@
     return `<span class="entry-forms entry-related">${parts.join(' · ')}</span>`;
   }
 
+  // The most recently added word (last word of the last Part 2 topic) gets a "Last word" mark.
+  const isLastWord = item => !!window.VocabLast && window.VocabLast.part === part &&
+    window.VocabLast.topicKey === topicKey && window.VocabLast.w === item.w;
+
+  let targetId = params.get('word') ? statusId({ w: params.get('word') }) : null;
+
   function render(filter){
     const q = (filter || '').trim().toLowerCase();
     const filtered = data.words.filter(item =>
@@ -488,6 +500,7 @@
             <span class="entry-word">${item.w}</span>
             <span class="entry-pos mono">${item.p}</span>
             <span class="entry-ipa">${item.ipa}</span>
+            ${isLastWord(item) ? '<span class="entry-last" title="The most recently added word">⤓ Last word</span>' : ''}
             ${formsHTML(item)}${relatedHTML(item)}
           </div>
           <div class="entry-def">${item.def}</div>
@@ -502,6 +515,7 @@
           </div>
         `;
         applyStatus(div, statusMap[div.dataset.id] || null);
+        if(div.dataset.id === targetId) div.classList.add('is-target');
         applyToday(div);
         entriesEl.appendChild(div);
       });
@@ -512,6 +526,25 @@
   searchEl.addEventListener('input', e => render(e.target.value));
   searchEl.value = params.get('q') || '';
   render(searchEl.value);
+
+  // Opened with ?word=<word> (e.g. from the main page's "Last word" button): scroll to that word and flash it.
+  if(targetId){
+    const wanted = targetId;
+    // Centre the word again once fonts and the rest of the page have loaded (they can change the card heights),
+    // unless the reader has started scrolling by then.
+    let userMoved = false;
+    const stop = () => { userMoved = true; };
+    ['wheel', 'touchstart', 'keydown', 'mousedown'].forEach(ev => window.addEventListener(ev, stop, { once: true, passive: true }));
+    const centre = () => {
+      if(userMoved) return;
+      const el = [...entriesEl.querySelectorAll('.entry')].find(e => e.dataset.id === wanted);
+      if(el && el.scrollIntoView) el.scrollIntoView({ block: 'center' });
+    };
+    centre();
+    if(document.fonts && document.fonts.ready) document.fonts.ready.then(centre);
+    window.addEventListener('load', () => { centre(); setTimeout(centre, 300); });
+    setTimeout(() => { targetId = null; }, 2500);   // the flash is kept if the cards are redrawn meanwhile
+  }
 
   // Load only this topic's translations, then render again so they appear.
   if(window.loadTopicTranslations){
