@@ -78,6 +78,7 @@
   .rw-ex .rw-t::before{ content:"\\201C"; } .rw-ex .rw-t::after{ content:"\\201D"; }
   .rw-ex.has-lv::before, .rw-ex.has-lv::after{ content:none; }
   .rw-ex.has-lv ~ .rw-ex.has-lv{ margin-top:6px; }
+  .rw-ex.has-lv ~ .rw-ex.has-lv.ex-grp{ margin-top:14px; }   /* new level group (A → B, B → C) */
   .rw-uzex{ display:none; margin-top:4px; font-size:14.5px; }
   [data-translate="on"] .rw-uzex.has{ display:block; }
   .rw-uzex .lbl{ font-family:'JetBrains Mono',monospace; font-style:normal; font-size:11px; color:var(--accent);
@@ -141,8 +142,8 @@
     const vf = window.verbForms ? window.verbForms(it) : null;
     const rel = window.adjRelated ? window.adjRelated(it) : null;
     const relParts = rel ? [
-      rel.syn.length ? `<i class="lbl">Synonyms:</i> <b>${rel.syn.join(', ')}</b>` : '',
-      rel.ant.length ? `<i class="lbl">Opposites:</i> <b>${rel.ant.join(', ')}</b>` : ''
+      rel.syn.length ? `<i class="lbl">Synonyms:</i> <b>${window.VocabInfo ? window.VocabInfo.list(rel.syn, it) : rel.syn.join(', ')}</b>` : '',
+      rel.ant.length ? `<i class="lbl">Opposites:</i> <b>${window.VocabInfo ? window.VocabInfo.list(rel.ant, it) : rel.ant.join(', ')}</b>` : ''
     ].filter(Boolean) : [];
     $('rw-forms').innerHTML = vf ? `<i class="lbl">Past:</i> <b>${vf.past}</b> · <i class="lbl">Past participle:</i> <b>${vf.participle}</b>` : '';
     $('rw-related').innerHTML = relParts.join(' · ');
@@ -164,9 +165,10 @@
     const fillEx = data => {
       const box = $('rw-ex');
       box.innerHTML = '';
-      f.exs.forEach(x => {
+      f.exs.forEach((x, i) => {
         const ex = document.createElement('div');
-        ex.className = x.lv ? 'rw-ex has-lv' : 'rw-ex';
+        const grp = i > 0 && f.exs[i - 1].lv && x.lv && f.exs[i - 1].lv[0] !== x.lv[0];   // first sentence of a new group
+        ex.className = x.lv ? 'rw-ex has-lv' + (grp ? ' ex-grp' : '') : 'rw-ex';
         if(x.lv){
           const lv = document.createElement('i'); lv.className = 'rw-lv'; lv.textContent = x.lv;
           const t = document.createElement('span'); t.className = 'rw-t'; t.textContent = x.en;

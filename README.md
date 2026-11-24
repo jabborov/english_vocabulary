@@ -21,6 +21,7 @@ For each word you get:
 - 📈 **CEFR levels:** the **A**, **B** and **C** buttons show the example sentences of both levels in the group (A1 + A2, B1 + B2, C1 + C2). They can be combined: **A** and **C** together show A1, A2, C1 and C2.
 - 🌐 **Translate:** shows the Uzbek translation of the example sentences when one or more CEFR level groups (**A**, **B**, **C**) are selected. Turn it on or off with the **文 Translate** button.
 - ★ **Today:** press **☆ Today** on a word card to add it to today's review list. The **★ Today** button on the main page shows the list, with **Clear** (remove all words) and **Copy URL** (a link that opens the same list on another device).
+- 🔎 **Synonym details:** synonyms and opposites that are themselves words in Part 1 or Part 2 have a dotted underline. Clicking one opens a popup with all the word's synonyms and opposites that have an entry, each with its Uzbek translation and English explanation (the clicked word is highlighted).
 - ⤓ **Last word:** press **⤓ Last word** on a word card to mark that word (e.g. where you stopped). Only one word is marked; marking another word moves the mark, and pressing it again on the marked word removes it. The mark is saved in the browser. The **⤓ Last word** button on the main page opens that topic and scrolls to the word.
 - 🎲 **Random word:** practise with a random word.
 - ✅ **Progress:** mark words as memorized, weak or to learn.
@@ -52,6 +53,7 @@ english_vocabulary/
 ├── synonyms.js            # Synonyms and opposites for adjectives, nouns, verbs, adverbs, determiners and pronouns
 ├── random.js              # Random word feature
 ├── today.js               # Today review list (main page), Clear and Copy URL
+├── word-info.js           # Synonym/opposite details popup (dotted underline links)
 ├── last-word.js           # Last word: the word you marked (saved; main page button opens it)
 ├── scroll.js              # ↑ / ↓ buttons to jump to the top or bottom of a page
 ├── test.js                # Page tests (Node.js + jsdom)

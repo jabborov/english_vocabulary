@@ -543,5 +543,197 @@ async function load(url, setup){
   }
   delete store['vocab-last'];
 
+  // ---- Synonym / opposite details popup (word-info.js) ----
+  store['vocab-related'] = 'on'; store['vocab-today'] = JSON.stringify(['0004|get around', '0004|unreliable']);
+  w = await load('topic.html?topic=0004');
+  { const d = w.document;
+    // independent lookup: lower-case word -> entries from Part 1 and Part 2
+    const idx = {};
+    [['1', w.VOCAB_DATA_PART1], ['2', w.VOCAB_DATA]].forEach(([part, D]) => Object.keys(D).forEach(k => D[k].words.forEach(it =>
+      (idx[it.w.toLowerCase()] = idx[it.w.toLowerCase()] || []).push({ part, k, title: D[k].title, it }))));
+    const known = x => !!idx[x.toLowerCase()];
+    // every card: exactly the synonyms/opposites with an entry are links, the others plain text, same order
+    let links = 0, plain = 0;
+    for (const c of d.querySelectorAll('.entry')) {
+      const item = w.VOCAB_DATA['0004'].words.find(x => '0004|' + x.w === c.dataset.id), rel = w.adjRelated(item);
+      const r = c.querySelector('.entry-related');
+      if (!rel) { assert.ok(!r); continue; }
+      const bs = [...r.querySelectorAll('b')];
+      const lists = [rel.syn, rel.ant].filter(l => l.length);
+      assert.strictEqual(bs.length, lists.length);
+      lists.forEach((l, i) => {
+        assert.strictEqual(bs[i].textContent, l.join(', '), 'text unchanged');
+        const ls = [...bs[i].querySelectorAll('.wi-link')];
+        assert.deepStrictEqual(ls.map(b => b.textContent), l.filter(known));
+        ls.forEach(b => {
+          assert.strictEqual(b.tagName, 'BUTTON');
+          assert.strictEqual(b.dataset.of, item.w);
+          assert.strictEqual(b.dataset.ofp, item.p);
+        });
+        links += ls.length; plain += l.length - ls.length;
+      });
+    }
+    assert.ok(links > 0 && plain > 0, `links ${links}, plain ${plain}`);
+
+    // click "move around" on the "get around" card
+    const ga = [...d.querySelectorAll('.entry')].find(e => e.dataset.id === '0004|get around');
+    const gaRel = w.adjRelated(w.VOCAB_DATA['0004'].words.find(x => x.w === 'get around'));
+    const pop = d.querySelector('.wi-backdrop');
+    assert.ok(!pop.classList.contains('open'));
+    const link = [...ga.querySelectorAll('.wi-link')].find(b => b.textContent === 'move around');
+    assert.ok(link, '"move around" is a link');
+    link.click();
+    assert.ok(pop.classList.contains('open'));
+    assert.strictEqual(d.getElementById('wi-title').textContent, 'get around');
+    const secs = [...pop.querySelectorAll('.wi-sec')].map(x => x.textContent);
+    assert.deepStrictEqual(secs, [gaRel.syn.some(known) && 'Synonyms', gaRel.ant.some(known) && 'Opposites'].filter(Boolean));
+    assert.deepStrictEqual([...pop.querySelectorAll('.wi-word')].map(x => x.dataset.w), gaRel.syn.filter(known).concat(gaRel.ant.filter(known)));
+    assert.deepStrictEqual([...pop.querySelectorAll('.wi-current')].map(x => x.dataset.w), ['move around']);
+    // each word: its distinct meanings (Part 1 + Part 2) with UZ translation, EN explanation and source
+    for (const row of pop.querySelectorAll('.wi-word')) {
+      const word = row.dataset.w;
+      assert.strictEqual(row.querySelector('.wi-w').textContent, word);
+      const want = [], seen = new Set();
+      for (const e of idx[word.toLowerCase()]) {
+        const tr = e.it.tr || e.it.def, def = e.it.tr ? e.it.def : '', key = [e.it.p, def, tr].join('|');
+        if (seen.has(key)) { want.find(m => m.key === key).n++; continue; }
+        seen.add(key); want.push({ key, p: e.it.p, tr, def, e, n: 1 });
+      }
+      const ms = [...row.querySelectorAll('.wi-m')];
+      assert.strictEqual(ms.length, want.length, word);
+      ms.forEach((m, i) => {
+        const x = want[i];
+        assert.strictEqual(m.querySelector('.wi-pos').textContent, x.p);
+        assert.strictEqual(m.querySelector('.wi-tr').textContent, x.tr);
+        assert.strictEqual(m.querySelector('.wi-def') ? m.querySelector('.wi-def').textContent : '', x.def);
+        const a = m.querySelector('.wi-src a');
+        assert.strictEqual(a.getAttribute('href'), `topic.html?topic=${x.e.k}${x.e.part === '1' ? '&part=1' : ''}&word=${encodeURIComponent(x.e.it.w)}`);
+        assert.strictEqual(a.textContent, `Part ${x.e.part} · ${x.e.k} · ${x.e.title} ↗`);
+        assert.strictEqual(m.querySelector('.wi-src span') ? m.querySelector('.wi-src span').textContent : '',
+          x.n > 1 ? `+${x.n - 1} more topic${x.n - 1 === 1 ? '' : 's'}` : '');
+      });
+    }
+    const missing = gaRel.syn.concat(gaRel.ant).filter(x => !known(x));
+    assert.strictEqual(pop.querySelector('.wi-none') ? pop.querySelector('.wi-none').textContent : '',
+      missing.length ? 'Not in Part 1 or Part 2 yet: ' + missing.join(', ') : '');
+    // close: ×, click outside, Escape
+    d.getElementById('wi-close').click();
+    assert.ok(!pop.classList.contains('open'));
+    link.click(); pop.click();
+    assert.ok(!pop.classList.contains('open'));
+    link.click(); d.dispatchEvent(new w.KeyboardEvent('keydown', { key: 'Escape', bubbles: true }));
+    assert.ok(!pop.classList.contains('open'));
+    // clicking a word does not change anything else on the card
+    assert.strictEqual(store['vocab-last'], undefined);
+    assert.deepStrictEqual(JSON.parse(store['vocab-today']), ['0004|get around', '0004|unreliable']);
+    // a card with opposites: the clicked opposite is highlighted in the Opposites section
+    const withAnt = [...d.querySelectorAll('.entry')].find(e => [...e.querySelectorAll('.entry-related b')].length === 2 && e.querySelectorAll('.entry-related b')[1].querySelector('.wi-link'));
+    if (withAnt) {
+      const ab = withAnt.querySelectorAll('.entry-related b')[1].querySelector('.wi-link');
+      ab.click();
+      const cur = pop.querySelector('.wi-current');
+      assert.strictEqual(cur.dataset.w, ab.textContent);
+      let sec = cur.previousElementSibling; while (sec && !sec.classList.contains('wi-sec')) sec = sec.previousElementSibling;
+      assert.strictEqual(sec.textContent, 'Opposites');
+      d.getElementById('wi-close').click();
+    }
+  }
+  // Over the Today window and the Random box: Escape / click outside close only the popup
+  w = await load('index.html');
+  { const d = w.document, pop = d.querySelector('.wi-backdrop'), td = d.querySelector('.td-backdrop'), rw = d.querySelector('.rw-backdrop');
+    d.getElementById('today-open').click();
+    const tl = d.querySelector('.td-list .wi-link');
+    assert.ok(tl, 'links in the Today window');
+    tl.click();
+    assert.ok(pop.classList.contains('open') && td.classList.contains('open'));
+    assert.strictEqual(d.getElementById('wi-title').textContent, w.VOCAB_DATA['0004'].words.find(x => '0004|' + x.w === tl.closest('.td-item').dataset.id).w);
+    pop.click();
+    assert.ok(!pop.classList.contains('open') && td.classList.contains('open'));
+    tl.click();
+    d.activeElement.dispatchEvent(new w.KeyboardEvent('keydown', { key: 'Escape', bubbles: true }));
+    assert.ok(!pop.classList.contains('open') && td.classList.contains('open'), 'Escape closes only the popup');
+    d.activeElement.dispatchEvent(new w.KeyboardEvent('keydown', { key: 'Escape', bubbles: true }));
+    assert.ok(!td.classList.contains('open'), 'second Escape closes Today');
+    let n = 0; do { w.VocabRandom.show(); n++; } while (!d.querySelector('#rw-related .wi-link') && n < 500);
+    const rl = d.querySelector('#rw-related .wi-link');
+    assert.ok(rl, 'a random word with a clickable synonym/opposite');
+    rl.click();
+    assert.ok(pop.classList.contains('open') && rw.classList.contains('open'));
+    assert.strictEqual(d.getElementById('wi-title').textContent, d.getElementById('rw-word').textContent);
+    assert.deepStrictEqual([...pop.querySelectorAll('.wi-current')].map(x => x.dataset.w), [rl.textContent]);
+    d.activeElement.dispatchEvent(new w.KeyboardEvent('keydown', { key: 'Escape', bubbles: true }));
+    assert.ok(!pop.classList.contains('open') && rw.classList.contains('open'), 'Escape closes only the popup');
+    w.VocabRandom.close();
+  }
+  store['vocab-today'] = '[]';
+
+  // ---- Extra space where a new level group starts (A → B, B → C): class "ex-grp" on that sentence ----
+  { // expected: the levels shown, and which of them start a new group (not the first one)
+    const combos = [
+      [['A', 'B', 'C'], ['B1', 'C1']], [['A', 'C'], ['C1']], [['A', 'B'], ['B1']], [['B', 'C'], ['C1']],
+      [['A'], []], [['B'], []], [['C'], []], [[], []]];
+    const lvOf = (el, sel) => [...el.querySelectorAll(sel)].map(e => e.textContent);
+    const cssText = d => [...d.querySelectorAll('style')].map(x => x.textContent).join('\n').replace(/\s+/g, ' ');
+    // topic page: every card, every combination (buttons clicked, not just saved)
+    store['vocab-level'] = '[]';
+    w = await load('topic.html?topic=0004');
+    assert.match(cssText(w.document), /\.entry-ex\.has-lv ~ \.entry-ex\.has-lv\.ex-grp\{ margin-top: 14px; \}/);
+    assert.match(cssText(w.document), /\.entry-ex\.has-lv ~ \.entry-ex\.has-lv\{ margin-top: 6px; \}/);   // within a group: unchanged
+    const btn = g => w.document.querySelector(`.level-btn[data-level="${g}"]`);
+    let on = [];
+    for (const [groups, starts] of combos) {
+      for (const g of ['A', 'B', 'C']) if (on.includes(g) !== groups.includes(g)) btn(g).click();
+      on = groups;
+      assert.strictEqual(store['vocab-level'], JSON.stringify(groups));
+      const levels = groups.flatMap(g => [g + '1', g + '2']);
+      for (const c of w.document.querySelectorAll('.entry')) {
+        const name = groups.join('+') + ' ' + c.dataset.id;
+        const exs = [...c.querySelectorAll('.entry-ex')];
+        if (!groups.length) { assert.strictEqual(c.querySelectorAll('.ex-grp').length, 0, name); continue; }
+        assert.deepStrictEqual(exs.map(e => e.querySelector('.ex-lv').textContent), levels, name);
+        assert.deepStrictEqual(exs.filter(e => e.classList.contains('ex-grp')).map(e => e.querySelector('.ex-lv').textContent), starts, name);
+        assert.strictEqual(c.querySelectorAll('.ex-grp').length, starts.length, name);   // only on sentences, never on Uzbek lines
+      }
+    }
+    // the original example (all off) and a single group never get the extra space; neither does the first sentence
+    btn('A').click(); btn('B').click(); btn('C').click();
+    for (const c of w.document.querySelectorAll('.entry'))
+      assert.ok(!c.querySelector('.entry-ex').classList.contains('ex-grp'));
+    btn('A').click(); btn('B').click(); btn('C').click();
+    assert.strictEqual(store['vocab-level'], '[]');
+
+    // Random box: same rule for the saved groups
+    for (const [groups, starts] of combos) {
+      store['vocab-level'] = JSON.stringify(groups);
+      w = await load('index.html');
+      if (groups === combos[0][0]) {
+        assert.match(cssText(w.document), /\.rw-ex\.has-lv ~ \.rw-ex\.has-lv\.ex-grp\{ margin-top:14px; \}/);
+        assert.match(cssText(w.document), /\.td-list \.td-ex\.ex-grp\{ margin-top:13px; \}/);
+      }
+      w.VocabRandom.show();
+      const box = w.document.getElementById('rw-ex');
+      assert.deepStrictEqual(lvOf(box, '.rw-lv'), groups.flatMap(g => [g + '1', g + '2']), 'random ' + groups.join('+'));
+      assert.deepStrictEqual([...box.querySelectorAll('.ex-grp')].map(e => e.querySelector('.rw-lv').textContent), starts, 'random ' + groups.join('+'));
+      w.VocabRandom.close();
+    }
+
+    // Today window: its A / B / C buttons
+    store['vocab-level'] = '[]'; store['vocab-today'] = JSON.stringify(['0004|get around', '0004|unreliable']);
+    w = await load('index.html');
+    w.document.getElementById('today-open').click();
+    const tdBtn = g => w.document.querySelector(`.td-lv[data-level="${g}"]`);
+    on = [];
+    for (const [groups, starts] of combos) {
+      for (const g of ['A', 'B', 'C']) if (on.includes(g) !== groups.includes(g)) tdBtn(g).click();
+      on = groups;
+      for (const it of w.document.querySelectorAll('.td-item')) {
+        const name = 'today ' + groups.join('+') + ' ' + it.dataset.id;
+        assert.deepStrictEqual(lvOf(it, '.td-ex .lv'), groups.flatMap(g => [g + '1', g + '2']), name);
+        assert.deepStrictEqual([...it.querySelectorAll('.ex-grp')].map(e => e.querySelector('.lv').textContent), starts, name);
+      }
+    }
+    store['vocab-today'] = '[]';
+  }
+
   console.log('ALL TESTS PASSED');
 })().catch(e => { console.error('FAIL', e.message); process.exit(1); });

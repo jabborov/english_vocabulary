@@ -84,6 +84,7 @@
   .td-uz{ font-size:14px; color:var(--accent); margin-bottom:6px; }
   .td-ex{ font-size:14px; color:var(--muted); font-style:italic; }
   .td-ex + .td-ex, .td-uzex + .td-ex{ margin-top:5px; }
+  .td-list .td-ex.ex-grp{ margin-top:13px; }   /* new level group (A → B, B → C) */
   .td-ex .t::before{ content:"\\201C"; } .td-ex .t::after{ content:"\\201D"; }
   .td-ex .lv, .td-uzex .lbl{ font-family:'JetBrains Mono',monospace; font-style:normal; font-size:11px;
     border-radius:4px; padding:0 5px; margin-right:6px; }
@@ -193,14 +194,15 @@
     const vf = window.verbForms ? window.verbForms(it) : null;
     const rel = window.adjRelated ? window.adjRelated(it) : null;
     const relParts = rel ? [
-      rel.syn.length ? `<i class="lbl">Synonyms:</i> <b>${rel.syn.join(', ')}</b>` : '',
-      rel.ant.length ? `<i class="lbl">Opposites:</i> <b>${rel.ant.join(', ')}</b>` : ''
+      rel.syn.length ? `<i class="lbl">Synonyms:</i> <b>${window.VocabInfo ? window.VocabInfo.list(rel.syn, it) : rel.syn.join(', ')}</b>` : '',
+      rel.ant.length ? `<i class="lbl">Opposites:</i> <b>${window.VocabInfo ? window.VocabInfo.list(rel.ant, it) : rel.ant.join(', ')}</b>` : ''
     ].filter(Boolean) : [];
     const uzAll = window.getTopicTranslations ? (window.getTopicTranslations(e.part, e.topicKey) || {}) : {};
-    const exs = examplesOf(e).map(x => {
+    const exs = examplesOf(e).map((x, i, all) => {
       if(!x.lv) return `<div class="td-ex">${x.en}</div>`;
       const uz = (uzAll[x.lv] || {})[it.w];
-      return `<div class="td-ex"><i class="lv">${x.lv}</i><span class="t">${x.en}</span></div>` +
+      const grp = i > 0 && all[i - 1].lv && all[i - 1].lv[0] !== x.lv[0] ? ' ex-grp' : '';   // first sentence of a new group
+      return `<div class="td-ex${grp}"><i class="lv">${x.lv}</i><span class="t">${x.en}</span></div>` +
         (uz ? `<div class="td-uzex"><i class="lbl">UZ</i>${uz}</div>` : '');
     }).join('');
     const href = `topic.html?topic=${e.topicKey}${e.part === '1' ? '&part=1' : ''}&q=${encodeURIComponent(it.w)}`;

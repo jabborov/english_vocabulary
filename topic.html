@@ -167,6 +167,8 @@
   .entry-ex .ex-lv{ font-family:'JetBrains Mono',monospace; font-style: normal; font-size: 11px; color: var(--muted);
     border: 1px solid var(--line); border-radius: 4px; padding: 0 5px; margin-right: 6px; }
   .entry-ex.has-lv ~ .entry-ex.has-lv{ margin-top: 6px; }
+  /* A little more space where a new level group starts (A → B, B → C) */
+  .entry-ex.has-lv ~ .entry-ex.has-lv.ex-grp{ margin-top: 14px; }
 
   .entry-actions{
     display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap: 10px;
@@ -271,6 +273,7 @@
 <script src="examples_part1.js"></script>
 <script src="irregular.js"></script>
 <script src="synonyms.js"></script>
+<script src="word-info.js"></script>
 <script src="tr-loader.js"></script>
 <script src="random.js"></script>
 <script src="scroll.js"></script>
@@ -335,10 +338,11 @@
   let topicUz = {};
   // Each level sentence followed by its Uzbek translation (shown only while Translate is on).
   function exampleHTML(item){
-    return examplesFor(item).map(x => {
+    return examplesFor(item).map((x, i, all) => {
       if(!x.lv) return `<div class="entry-ex">${x.en}</div>`;
       const uz = (topicUz[x.lv] || {})[item.w];
-      return `<div class="entry-ex has-lv"><i class="ex-lv">${x.lv}</i><span class="ex-t">${x.en}</span></div>` +
+      const grp = i > 0 && all[i - 1].lv && all[i - 1].lv[0] !== x.lv[0] ? ' ex-grp' : '';   // first sentence of a new group
+      return `<div class="entry-ex has-lv${grp}"><i class="ex-lv">${x.lv}</i><span class="ex-t">${x.en}</span></div>` +
         (uz ? `<div class="entry-uzex"><div class="uz"><i class="lbl">UZ</i>${uz}</div></div>` : '');
     }).join('');
   }
@@ -504,8 +508,8 @@
     const r = window.adjRelated ? window.adjRelated(item) : null;
     if(!r) return '';
     const parts = [];
-    if(r.syn.length) parts.push(`<i class="lbl">Synonyms:</i> <b>${r.syn.join(', ')}</b>`);
-    if(r.ant.length) parts.push(`<i class="lbl">Opposites:</i> <b>${r.ant.join(', ')}</b>`);
+    if(r.syn.length) parts.push(`<i class="lbl">Synonyms:</i> <b>${window.VocabInfo ? window.VocabInfo.list(r.syn, item) : r.syn.join(', ')}</b>`);
+    if(r.ant.length) parts.push(`<i class="lbl">Opposites:</i> <b>${window.VocabInfo ? window.VocabInfo.list(r.ant, item) : r.ant.join(', ')}</b>`);
     return `<span class="entry-forms entry-related">${parts.join(' · ')}</span>`;
   }
 
