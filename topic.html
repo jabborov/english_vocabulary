@@ -156,6 +156,13 @@
   .entry-ex{ font-size: 14px; color: var(--muted); font-style: italic; }
   .entry-ex::before{ content: "“"; }
   .entry-ex::after{ content: "”"; }
+  /* Level group (A = A1 + A2, …): each sentence has its level tag, the quotes go around the sentence only. */
+  .entry-ex.has-lv::before, .entry-ex.has-lv::after{ content: none; }
+  .entry-ex .ex-t::before{ content: "“"; }
+  .entry-ex .ex-t::after{ content: "”"; }
+  .entry-ex .ex-lv{ font-family:'JetBrains Mono',monospace; font-style: normal; font-size: 11px; color: var(--muted);
+    border: 1px solid var(--line); border-radius: 4px; padding: 0 5px; margin-right: 6px; }
+  .entry-ex.has-lv ~ .entry-ex.has-lv{ margin-top: 6px; }
 
   .entry-actions{
     display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap: 10px;
@@ -211,7 +218,7 @@
       <div class="level-bar" id="level-bar" role="group" aria-label="Example sentence CEFR level" title="Example sentence level"></div>
       <button class="random-btn" type="button" data-random-word title="Show a random word from all topics">↻ Random</button>
       <button class="random-btn related-btn" id="related-toggle" type="button" aria-pressed="true" title="Show or hide synonyms and opposites">⇄ Synonyms</button>
-      <button class="random-btn translate-btn" id="translate-toggle" type="button" aria-pressed="false" title="Show or hide the Uzbek translation of the B1 example sentence">文 Translate</button>
+      <button class="random-btn translate-btn" id="translate-toggle" type="button" aria-pressed="false" title="Show or hide the Uzbek translation of the example sentences">文 Translate</button>
       <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light and dark mode" type="button">
         <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8Z"/></svg>
         <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
@@ -287,24 +294,34 @@
 
   // ----- CEFR level for example sentences -----
   const LEVELS = ['A1','A2','B1','B2','C1','C2'];
+  // The buttons are level groups: A shows the A1 and A2 sentences, B shows B1 + B2, C shows C1 + C2.
+  const GROUPS = { A: ['A1','A2'], B: ['B1','B2'], C: ['C1','C2'] };
   const examples = ((part === '1' ? window.VOCAB_EXAMPLES_PART1 : window.VOCAB_EXAMPLES) || {})[topicKey] || {};
   let level = loadJSON('vocab-level', null);
-  if(!LEVELS.includes(level)) level = null; // null = original example from data.js
+  if(LEVELS.includes(level)) level = level[0]; // a level saved before the merge (e.g. "B2") -> its group ("B")
+  if(!GROUPS[level]) level = null; // null = original example from data.js
 
-  function exampleFor(item){
-    if(!level) return item.ex;
+  // The example sentences shown for a word: [{lv, en}] (lv = null for the original example).
+  function examplesFor(item){
     const set = examples[item.w];
-    return (set && set[LEVELS.indexOf(level)]) || item.ex;
+    if(level && set){
+      const list = GROUPS[level].map(lv => ({ lv, en: set[LEVELS.indexOf(lv)] })).filter(x => x.en);
+      if(list.length) return list;
+    }
+    return [{ lv: null, en: item.ex }];
   }
 
   // Uzbek translations of this topic's A1–C2 example sentences: level -> word -> Uzbek sentence.
   // Loaded from translations/part<P>/<topic>.js after the first render (see the end of this script).
   let topicUz = {};
-  function translateHTML(item){
-    // Shown only while a CEFR level (A1–C2) is selected, not for the original example.
-    const uz = (topicUz[level] || {})[item.w], set = examples[item.w];
-    if(!uz || !set || exampleFor(item) !== set[LEVELS.indexOf(level)]) return '';
-    return `<div class="entry-uzex"><div class="uz"><i class="lbl">UZ</i>${uz}</div></div>`;
+  // Each level sentence followed by its Uzbek translation (shown only while Translate is on).
+  function exampleHTML(item){
+    return examplesFor(item).map(x => {
+      if(!x.lv) return `<div class="entry-ex">${x.en}</div>`;
+      const uz = (topicUz[x.lv] || {})[item.w];
+      return `<div class="entry-ex has-lv"><i class="ex-lv">${x.lv}</i><span class="ex-t">${x.en}</span></div>` +
+        (uz ? `<div class="entry-uzex"><div class="uz"><i class="lbl">UZ</i>${uz}</div></div>` : '');
+    }).join('');
   }
 
   // Runs change() (which may make the entries taller or shorter) without moving what the reader is looking at.
@@ -340,13 +357,13 @@
   }
 
   const levelBar = document.getElementById('level-bar');
-  LEVELS.forEach(lv => {
+  Object.keys(GROUPS).forEach(lv => {
     const b = document.createElement('button');
     b.type = 'button';
     b.className = 'pill level-btn';
     b.dataset.level = lv;
     b.textContent = lv;
-    b.title = `Show ${lv}-level example sentences (click again for the original)`;
+    b.title = `Show ${GROUPS[lv].join(' and ')} example sentences (click again for the original)`;
     levelBar.appendChild(b);
   });
   function syncLevelButtons(){
@@ -438,8 +455,7 @@
           </div>
           <div class="entry-def">${item.def}</div>
           ${item.tr ? `<div class="entry-tr">${item.tr}</div>` : ''}
-          <div class="entry-ex">${exampleFor(item)}</div>
-          ${translateHTML(item)}
+          ${exampleHTML(item)}
           <div class="entry-actions">
             <div class="status-group" role="group" aria-label="Learning status">
               ${STATUSES.map(s => `<button type="button" class="pill status-btn" data-status="${s.key}">${s.label}</button>`).join('')}
@@ -451,7 +467,7 @@
         entriesEl.appendChild(div);
       });
     }
-    countEl.textContent = `${filtered.length} of ${data.words.length} words` + (level ? ` · ${level} examples` : '');
+    countEl.textContent = `${filtered.length} of ${data.words.length} words` + (level ? ` · ${GROUPS[level].join(' + ')} examples` : '');
   }
 
   searchEl.addEventListener('input', e => render(e.target.value));

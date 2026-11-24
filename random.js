@@ -8,6 +8,8 @@
     { part: '2', data: window.VOCAB_DATA || {}, examples: window.VOCAB_EXAMPLES || {} }
   ];
   const LEVELS = ['A1','A2','B1','B2','C1','C2'];
+  // The level buttons are groups: A = A1 + A2, B = B1 + B2, C = C1 + C2.
+  const GROUPS = { A: ['A1','A2'], B: ['B1','B2'], C: ['C1','C2'] };
 
   // Flatten every topic of both parts into one pool: [{ part, examples, topicKey, topicTitle, item }]
   const pool = [];
@@ -22,15 +24,16 @@
     const it = entry.item;
     let level = null;
     try{ level = JSON.parse(localStorage.getItem('vocab-level')); }catch(e){}
+    if(LEVELS.includes(level)) level = level[0]; // a level saved before the merge (e.g. "B2") -> its group ("B")
     const set = (entry.examples[entry.topicKey] || {})[it.w];
-    const idx = LEVELS.indexOf(level);
-    const ex = (idx >= 0 && set && set[idx]) || it.ex;
+    // The sentences shown: [{lv, en}] (lv = null for the original example).
+    let exs = (GROUPS[level] && set) ? GROUPS[level].map(lv => ({ lv, en: set[LEVELS.indexOf(lv)] })).filter(x => x.en) : [];
+    const grouped = exs.length > 0;
+    if(!grouped) exs = [{ lv: null, en: it.ex }];
     return {
-      // Index of the level whose example is on screen (-1 = original example); used for the Uzbek translation.
-      shownIdx: (idx >= 0 && set && ex === set[idx]) ? idx : -1,
       en: it.tr ? it.def : null,
       uz: it.tr || it.def,
-      ex, level: (idx >= 0 && set && set[idx]) ? level : null
+      exs, level: grouped ? GROUPS[level].join(' + ') : null
     };
   }
 
@@ -64,6 +67,11 @@
   .rw-uz{ font-size:15px; color:var(--accent); }
   .rw-ex{ font-size:14.5px; color:var(--muted); font-style:italic; }
   .rw-ex::before{ content:"\\201C"; } .rw-ex::after{ content:"\\201D"; }
+  .rw-ex .rw-lv{ font-family:'JetBrains Mono',monospace; font-style:normal; font-size:11px; color:var(--muted);
+    border:1px solid var(--line); border-radius:4px; padding:0 5px; margin-right:6px; }
+  .rw-ex .rw-t::before{ content:"\\201C"; } .rw-ex .rw-t::after{ content:"\\201D"; }
+  .rw-ex.has-lv::before, .rw-ex.has-lv::after{ content:none; }
+  .rw-ex.has-lv ~ .rw-ex.has-lv{ margin-top:6px; }
   .rw-uzex{ display:none; margin-top:4px; font-size:14.5px; }
   [data-translate="on"] .rw-uzex.has{ display:block; }
   .rw-uzex .lbl{ font-family:'JetBrains Mono',monospace; font-style:normal; font-size:11px; color:var(--accent);
@@ -100,7 +108,7 @@
       </div>
       <div class="rw-row"><div class="rw-label">English meaning</div><div id="rw-en"></div></div>
       <div class="rw-row"><div class="rw-label">Uzbek translation</div><div class="rw-uz" id="rw-uz"></div></div>
-      <div class="rw-row"><div class="rw-label" id="rw-ex-label">Example</div><div class="rw-ex" id="rw-ex"></div><div class="rw-uzex" id="rw-uzex"></div></div>
+      <div class="rw-row"><div class="rw-label" id="rw-ex-label">Example</div><div id="rw-ex"></div></div>
       <div class="rw-actions">
         <button class="rw-btn" type="button" id="rw-next">↻ Another random word</button>
         <a class="rw-oxford" id="rw-oxford" target="_blank" rel="noopener">Oxford ↗</a>
@@ -145,23 +153,33 @@
     }
     $('rw-uz').textContent = f.uz;
     $('rw-ex-label').textContent = f.level ? `Example · ${f.level}` : 'Example';
-    $('rw-ex').textContent = f.ex;
-    // Uzbek translation (A1–C2 levels only, not the original example). The topic's file is loaded on demand the first time.
-    const fillUz = data => {
-      const uz = f.shownIdx >= 0 ? ((data || {})[LEVELS[f.shownIdx]] || {})[it.w] : null;
-      const uzex = $('rw-uzex');
-      uzex.className = uz ? 'rw-uzex has' : 'rw-uzex';
-      uzex.innerHTML = '';
-      if(uz){
-        const u = document.createElement('div');
-        u.innerHTML = '<i class="lbl">UZ</i>'; u.appendChild(document.createTextNode(uz));
-        uzex.appendChild(u);
-      }
+    // Each sentence, followed by its Uzbek translation (level sentences only, not the original example).
+    // The topic's translation file is loaded on demand the first time.
+    const fillEx = data => {
+      const box = $('rw-ex');
+      box.innerHTML = '';
+      f.exs.forEach(x => {
+        const ex = document.createElement('div');
+        ex.className = x.lv ? 'rw-ex has-lv' : 'rw-ex';
+        if(x.lv){
+          const lv = document.createElement('i'); lv.className = 'rw-lv'; lv.textContent = x.lv;
+          const t = document.createElement('span'); t.className = 'rw-t'; t.textContent = x.en;
+          ex.append(lv, t);
+        } else ex.textContent = x.en;
+        box.appendChild(ex);
+        const uz = x.lv ? ((data || {})[x.lv] || {})[it.w] : null;
+        if(uz){
+          const u = document.createElement('div');
+          u.className = 'rw-uzex has';
+          u.innerHTML = '<i class="lbl">UZ</i>'; u.appendChild(document.createTextNode(uz));
+          box.appendChild(u);
+        }
+      });
     };
     const cached = window.getTopicTranslations ? window.getTopicTranslations(entry.part, entry.topicKey) : null;
-    fillUz(cached);
-    if(!cached && f.shownIdx >= 0 && window.loadTopicTranslations){
-      window.loadTopicTranslations(entry.part, entry.topicKey).then(d => { if(lastIndex === i) fillUz(d); });
+    fillEx(cached);
+    if(!cached && f.level && window.loadTopicTranslations){
+      window.loadTopicTranslations(entry.part, entry.topicKey).then(d => { if(lastIndex === i) fillEx(d); });
     }
     $('rw-oxford').href = oxfordUrl(it.w);
 
