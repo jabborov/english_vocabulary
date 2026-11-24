@@ -175,6 +175,7 @@
   .status-btn.active[data-status="learn"]{ color: var(--accent); border-color: var(--accent); }
   /* Today: picks the word for daily review (separate from the learning status). */
   .today-btn.active{ color: var(--accent); border-color: var(--accent); background: var(--accent-dim); }
+  .last-btn.active{ color: var(--accent); border-color: var(--accent); background: var(--accent-dim); }
   .entry.is-memorized{ border-left: 3px solid var(--ok); }
   .entry.is-weak{ border-left: 3px solid var(--weak); }
   .entry.is-learn{ border-left: 3px solid var(--accent); }
@@ -445,6 +446,37 @@
   window.addEventListener('pageshow', refreshToday);
   window.addEventListener('storage', e => { if(e.key === 'vocab-today') refreshToday(); });
 
+  // ----- Last word: one word marked by you (button on each card; the main page's Last word button opens it) -----
+  function applyLast(div){
+    const on = div.dataset.id === lastId, b = div.querySelector('.last-btn');
+    b.classList.toggle('active', on);
+    b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    const top = div.querySelector('.entry-top');
+    let mark = top.querySelector('.entry-last');
+    if(on && !mark){
+      mark = document.createElement('span');
+      mark.className = 'entry-last';
+      mark.title = 'Your Last word (opened by the Last word button on the main page)';
+      mark.textContent = '⤓ Last word';
+      top.querySelector('.entry-ipa').after(mark);
+    } else if(!on && mark) mark.remove();
+  }
+  function refreshLast(){
+    const L = window.VocabLast && window.VocabLast.get();
+    lastId = L ? L.id : null;
+    entriesEl.querySelectorAll('.entry').forEach(applyLast);
+  }
+  entriesEl.addEventListener('click', e => {
+    const b = e.target.closest('.last-btn');
+    if(!b || !window.VocabLast) return;
+    const id = b.closest('.entry').dataset.id;
+    const current = window.VocabLast.get();
+    window.VocabLast.set(current && current.id === id ? null : id);   // click the marked word again to remove the mark
+    keepPosition(refreshLast);                                         // the mark moves without moving the page
+  });
+  window.addEventListener('pageshow', refreshLast);
+  window.addEventListener('storage', e => { if(e.key === 'vocab-last') refreshLast(); });
+
   entriesEl.addEventListener('click', e => {
     const b = e.target.closest('.status-btn');
     if(!b) return;
@@ -473,9 +505,9 @@
     return `<span class="entry-forms entry-related">${parts.join(' · ')}</span>`;
   }
 
-  // The most recently added word (last word of the last Part 2 topic) gets a "Last word" mark.
-  const isLastWord = item => !!window.VocabLast && window.VocabLast.part === part &&
-    window.VocabLast.topicKey === topicKey && window.VocabLast.w === item.w;
+  // Last word: the word you marked with "⤓ Last word" (saved by last-word.js in "vocab-last").
+  let lastId = (window.VocabLast && window.VocabLast.get()) ? window.VocabLast.get().id : null;
+  const isLastWord = item => statusId(item) === lastId;
 
   let targetId = params.get('word') ? statusId({ w: params.get('word') }) : null;
 
@@ -500,7 +532,7 @@
             <span class="entry-word">${item.w}</span>
             <span class="entry-pos mono">${item.p}</span>
             <span class="entry-ipa">${item.ipa}</span>
-            ${isLastWord(item) ? '<span class="entry-last" title="The most recently added word">⤓ Last word</span>' : ''}
+            ${isLastWord(item) ? '<span class="entry-last" title="Your Last word (opened by the Last word button on the main page)">⤓ Last word</span>' : ''}
             ${formsHTML(item)}${relatedHTML(item)}
           </div>
           <div class="entry-def">${item.def}</div>
@@ -510,6 +542,7 @@
             <div class="status-group" role="group" aria-label="Learning status">
               ${STATUSES.map(s => `<button type="button" class="pill status-btn" data-status="${s.key}">${s.label}</button>`).join('')}
               <button type="button" class="pill today-btn" aria-pressed="false" title="Add this word to today's review list (shown on the main page)">☆ Today</button>
+              <button type="button" class="pill last-btn" aria-pressed="false" title="Mark this word as your Last word (the Last word button on the main page opens it)">⤓ Last word</button>
             </div>
             <a class="dict-link" href="${oxfordUrl(item.w)}" target="_blank" rel="noopener">Oxford ↗</a>
           </div>
@@ -517,6 +550,7 @@
         applyStatus(div, statusMap[div.dataset.id] || null);
         if(div.dataset.id === targetId) div.classList.add('is-target');
         applyToday(div);
+        applyLast(div);
         entriesEl.appendChild(div);
       });
     }

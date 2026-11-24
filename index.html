@@ -93,6 +93,7 @@
   }
   .part-btn:hover{ border-color: var(--accent); color: var(--accent); }
   .part-btn.active{ border-color: var(--accent); background: var(--accent); color: var(--bg); }
+  .part-btn:disabled{ opacity: .45; cursor: default; border-color: var(--line); color: var(--muted); }
   /* Synonyms on by default; the off state comes from <html data-related="off">, set before first paint. */
   .related-btn{ border-color: var(--accent); color: var(--accent); }
   [data-related="off"] .related-btn{ border-color: var(--line); color: var(--muted); }
