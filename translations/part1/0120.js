@@ -3,8 +3,6 @@ VOCAB_TR_STORE('1', '0120', {
  "A1": {
   "America": "Men Amerikaga borishni xohlayman.",
   "East Side": "Men East Side'da yashayman.",
-  "Hugo": "Hugo mening akam.",
-  "Veronica": "Veronica mening do'stim.",
   "ciao": "Chao! Keyinroq ko'rishamiz.",
   "fifth": "Bu mening bu yerdagi beshinchi kunim.",
   "freshly": "Non yangi pishirilgan.",
@@ -31,8 +29,6 @@ VOCAB_TR_STORE('1', '0120', {
  "A2": {
   "America": "Amerika katta.",
   "East Side": "East Side gavjum.",
-  "Hugo": "Hugo pishloqni yaxshi ko'radi.",
-  "Veronica": "Veronica pitsani yaxshi ko'radi.",
   "ciao": "U \"chao\" dedi-yu, ketdi.",
   "fifth": "U poygada beshinchi bo'ldi.",
   "freshly": "Men yangi damlangan qahvani yaxshi ko'raman.",
@@ -59,8 +55,6 @@ VOCAB_TR_STORE('1', '0120', {
  "B1": {
   "America": "Ular Amerikaga ko'chib o'tishdi.",
   "East Side": "Ular Ist-Saydga ko'chib o'tishdi.",
-  "Hugo": "Hyugo do'konda ishlaydi.",
-  "Veronica": "Veronika Nyu-Yorkda yashaydi.",
   "ciao": "Chao, do'stim!",
   "fifth": "Bu ko'chadagi beshinchi do'kon.",
   "freshly": "Pishloq yangi tayyorlangan.",
@@ -87,8 +81,6 @@ VOCAB_TR_STORE('1', '0120', {
  "B2": {
   "America": "Amerikadagi italiyaliklar italyan taomlarining o'ziga xos variantini yaratishdi.",
   "East Side": "Italiyalik muhojirlar Lower East Side'dagi ijara uylarida tiqilib yashashardi.",
-  "Hugo": "Hugo uning oilasi Nyu-Yorkda to'rt avloddan beri yashab kelayotganini aytdi.",
-  "Veronica": "Veronica mahalla italiyalik oilalarga to'la bo'lgan paytlarni eslaydi.",
   "ciao": "Little Italyda hali ham ko'chada odamlarning \"ciao\" deyishini eshitasiz.",
   "fifth": "Do'konni hozir oilaning beshinchi avlodi boshqaradi.",
   "freshly": "Ko'chadan yangi yopilgan nonning hidi kelib turadi.",
@@ -115,8 +107,6 @@ VOCAB_TR_STORE('1', '0120', {
  "C1": {
   "America": "Amerika imkoniyatlar bilan birga italyan muhojirlariga nisbatan xurofotni ham taqdim etdi.",
   "East Side": "East Sideda hayot og'ir edi, oilalar kichkina kvartiralarda birga yashashardi.",
-  "Hugo": "Hugo Little Italy yillar davomida qanday kichrayib qolganini tasvirlab berdi.",
-  "Veronica": "Veronica oilalar shahar chetiga ko'chib ketgani sari hudud qanday o'zgarganini tushuntirib berdi.",
   "ciao": "Boshlovchilar ko'rsatuvni quvnoq \"ciao\" so'zi bilan yakunlashdi.",
   "fifth": "So'nggi o'n yil ichida mahalladagi restoranlarning beshdan bir qismi yopildi.",
   "freshly": "Mijozlar har kuni ertalab yangi tayyorlangan mozzarella uchun navbatga turishadi.",
@@ -143,8 +133,6 @@ VOCAB_TR_STORE('1', '0120', {
  "C2": {
   "America": "Kichik Italiya tarixi Amerikaga immigratsiya tarixining eng namunaviy boblaridan biridir.",
   "East Side": "Lower East Side ko'plab muhojir jamoalari yangi o'zlikni shakllantirgan qozon bo'lgan.",
-  "Hugo": "Hugoning hikoyasi ko'plab avlodlar his qiladigan g'urur va sog'inch aralashmasini aks ettiradi.",
-  "Veronica": "Veronikaning xotiralari mahalla o'zgarishiga shaxsiy nigoh bilan qarash imkonini beradi.",
   "ciao": "Hozir butun dunyoda qo'llaniladigan \"ciao\" so'zi aslida \"quliningizman\" ma'nosidagi Venetsiya iborasidan kelib chiqqan.",
   "fifth": "Beshinchi avlod bo'lish ham g'urur, ham kutilmalar yukini olib keladi.",
   "freshly": "Yangi tayyorlangan taom muhojirlar jamoasining uy tuyg'usida markaziy o'rin tutgan.",
@@ -171,8 +159,6 @@ VOCAB_TR_STORE('1', '0120', {
  "EX": {
   "America": "Ko'plab italyanlar yaxshiroq hayot uchun Amerikaga ko'chib ketishgan.",
   "East Side": "Ko'plab muhojirlar Quyi Ist-Sayd mavzesida yashagan.",
-  "Hugo": "Hyugo oilasining tarixi haqida gapirib berdi.",
-  "Veronica": "Veronika Kichik Italiyada o'sib-ulg'aygan.",
   "ciao": "Do'kon egasi har bir xaridorga \"chao\" deydi.",
   "fifth": "U oilasida do'konni boshqarayotgan beshinchi avlod vakili.",
   "freshly": "Do'konda yangi tayyorlangan pishloq sotiladi.",

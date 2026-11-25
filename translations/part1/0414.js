@@ -2,7 +2,6 @@
 VOCAB_TR_STORE('1', '0414', {
  "A1": {
   "Beijing": "Pekin Xitoyda joylashgan.",
-  "Jan": "Janning yangi velosipedi bor.",
   "abreast": "Biz ikki kishi yonma-yon yurdik.",
   "battalion": "Batalyon qadam tashlab ketdi.",
   "comedy": "Biz televizorda komediya ko'rdik.",
@@ -20,7 +19,6 @@ VOCAB_TR_STORE('1', '0414', {
  },
  "A2": {
   "Beijing": "O'tgan yili Pekinga bordim.",
-  "Jan": "Jan ishga velosipedda boradi.",
   "abreast": "Qizlar uchtasi yonma-yon ot minib borishdi.",
   "battalion": "U askarlar batalyonida edi.",
   "comedy": "Men komediya filmlarini yaxshi ko'raman.",
@@ -38,7 +36,6 @@ VOCAB_TR_STORE('1', '0414', {
  },
  "B1": {
   "Beijing": "Ilgari Pekinda mashinalardan ko'ra velosipedlar ko'p edi.",
-  "Jan": "Yanning aytishicha, yo'llar xavfli.",
   "abreast": "Velosipedchilar yonma-yon ikki qator bo'lib yurganda haydovchilarning jahli chiqadi.",
   "battalion": "Stansiyaga bir to'da sayyohlar yetib keldi.",
   "comedy": "Vaziyatda kulgili jihatlar ko'p edi.",
@@ -56,7 +53,6 @@ VOCAB_TR_STORE('1', '0414', {
  },
  "B2": {
   "Beijing": "Beijing ko'chalari endi velosipedlar emas, avtomobillar bilan to'la.",
-  "Jan": "Jan haydovchilar va velosipedchilar bir-birini ko'proq hurmat qilishi kerak deb hisoblaydi.",
   "abreast": "Qoidalarga ko'ra, ko'pchilik yo'llarda velosipedchilar yonma-yon ikki qator bo'lib yurishi mumkin.",
   "battalion": "Har tongda butun bir batalyon ishga qatnovchilar shaharga velosipedda kirib keladi.",
   "comedy": "Teleserial-komediya velosipedchilar va haydovchilar o'rtasidagi urushni masxara qiladi.",
@@ -74,7 +70,6 @@ VOCAB_TR_STORE('1', '0414', {
  },
  "C1": {
   "Beijing": "Pekin yaqinda velosipedlarni o'z yo'llariga qaytarishga harakat qildi.",
-  "Jan": "Yan yuk mashinasi bilan qo'rqinchli tarzda to'qnashib ketishiga oz qolganini hikoya qildi.",
   "abreast": "Yonma-yon yurish aslida avtomobillarning siqilib o'tib ketishiga yo'l qo'ymay, velosipedchilarni xavfsizroq qilishi mumkin.",
   "battalion": "Yig'ilishda kengash g'azablangan haydovchilarning butun bir batalyoniga duch keldi.",
   "comedy": "Bahsda qandaydir kulgili jihat bor edi, ammo u yomon tugashi ham mumkin edi.",
@@ -92,7 +87,6 @@ VOCAB_TR_STORE('1', '0414', {
  },
  "C2": {
   "Beijing": "Pekinning velosipedlar shahridan tirbandlikka botgan avtomobillar shahriga aylanishi ko'pincha ibratli misol sifatida keltiriladi.",
-  "Jan": "Yanning tajribasi odatiy ishga qatnash qanchalik tez to'qnashuvga aylanishi mumkinligini ko'rsatadi.",
   "abreast": "Velosipedchilar yonma-yon yurishi kerakmi, degan savol kutilmaganda keskin bahs mavzusiga aylandi.",
   "battalion": "Tig'iz soatda velosipedchilarning butun boshli batalonlari yo'lning har bir qarichi uchun avtobuslar bilan itarishib-turtishadi.",
   "comedy": "Sketch ishga qatnashdagi kundalik ziddiyatlardan qora komediya uchun material topdi.",
@@ -110,7 +104,6 @@ VOCAB_TR_STORE('1', '0414', {
  },
  "EX": {
   "Beijing": "Pekin bir paytlar millionlab velosipedlari bilan mashhur edi.",
-  "Jan": "Jan ob-havo qanday bo'lishidan qat'i nazar, har kuni ishga velosipedda boradi.",
   "abreast": "Velosipedchilar ba'zan ikki qator yonma-yon haydashadi.",
   "battalion": "Har kuni ertalab ko'prik ustidan butun bir batalyon velosipedchilar o'tib borardi.",
   "comedy": "Velosipedchi va haydovchi o'rtasidagi janjal komediyadagi sahnaga o'xshardi.",

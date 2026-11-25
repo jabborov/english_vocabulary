@@ -1,7 +1,6 @@
 // Part 1 topic 0036: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0036', {
  "A1": {
-  "Christopher": "Kristofer o'rmonda yashaydi.",
   "advise": "Menga maslahat bera olasizmi?",
   "alarm": "Signal juda baland.",
   "alarm clock": "Budilnigim baland jiringlaydi.",
@@ -56,7 +55,6 @@ VOCAB_TR_STORE('1', '0036', {
   "wise": "Buvim dono."
  },
  "A2": {
-  "Christopher": "Kristofer uning ismi.",
   "advise": "Shifokor dam olishni maslahat berdi.",
   "alarm": "Signalni o'chiring!",
   "alarm clock": "Budilnikni soat yettiga qo'ydim.",
@@ -111,7 +109,6 @@ VOCAB_TR_STORE('1', '0036', {
   "wise": "U dono odam."
  },
  "B1": {
-  "Christopher": "Kristofer yigirma yoshida uyini tark etdi.",
   "advise": "U menga kitobni o'qishni maslahat berdi.",
   "alarm": "Budilnigim har kuni soat oltida jiringlaydi.",
   "alarm clock": "Bugun ertalab budilnigim jiringlamadi.",
@@ -166,7 +163,6 @@ VOCAB_TR_STORE('1', '0036', {
   "wise": "Uyda qolish oqilona qaror edi."
  },
  "B2": {
-  "Christopher": "Kristofer yigirma yetti yil davomida Meyn o'rmonlarida yolg'iz yashagan.",
   "advise": "Odamlar zohidlar ularga hayotiy muammolar bo'yicha maslahat bera oladi deb ishonishgan.",
   "alarm": "Yong'in signali jiringladi va hamma binodan chiqib ketdi.",
   "alarm clock": "Qishda u muzlab qolmaslik uchun o'zini uyg'otishga budilnikdan foydalanardi.",
@@ -221,7 +217,6 @@ VOCAB_TR_STORE('1', '0036', {
   "wise": "Ko'plab hikoyalarda zohid maslahat beradigan dono inson sifatida tasvirlanadi."
  },
  "C1": {
-  "Christopher": "Kristofer yaqin atrofdagi dam olish kulbalaridan oziq-ovqat va jihozlarni o'g'irlab, omon qoldi.",
   "advise": "Cho'ldagi rohiblardan ko'pincha sayohatchilar va ziyoratchilarga maslahat berish so'ralardi.",
   "alarm": "U sovuq xavfli darajaga yetmasdan turib, o'rnidan turib harakatlanish uchun signal qo'yardi.",
   "alarm clock": "U budilnik yordamida tungi soat 2:30 da uyg'onar va isinish uchun aylanib yurardi.",
@@ -276,7 +271,6 @@ VOCAB_TR_STORE('1', '0036', {
   "wise": "Odamlar ilgari dono zohidlardan maslahat so'rash uchun uzoq yo'l bosib kelishardi."
  },
  "C2": {
-  "Christopher": "Christopherning hikoyasi aynan u o'z tanlovini deyarli tushuntirmagani uchun odamlarni maftun etadi.",
   "advise": "G'alati bo'lsa-da, dunyodan uzlatga chekingan odamlarning oldiga unga maslahat berishlari uchun doimiy ravishda kelishgan.",
   "alarm": "O'sha chuqur sukunatda budilnikning chiyillagan ovozi deyarli bema'ni darajada bezovta qiluvchi bo'lib eshitilgan bo'lsa kerak.",
   "alarm clock": "Aftidan, jamiyatni butunlay rad etgan odam ham budilnik zulmiga tayanib yashagan.",
@@ -331,7 +325,6 @@ VOCAB_TR_STORE('1', '0036', {
   "wise": "Dono zohid obrazi ko'pchilik yolg'iz hayotlarning haqiqatidan ko'ra afsona va adabiyotga ko'proq qarzdor."
  },
  "EX": {
-  "Christopher": "Kristofer Naytni ko'pincha so'nggi haqiqiy zohid deb atashadi.",
   "advise": "O'tmishda odamlar maslahat olish uchun zohidlar huzuriga borishgan.",
   "alarm": "Budilnik tungi soat ikki yarimda jiringladi.",
   "alarm clock": "Eng sovuq kechalarda erta uyg'onish uchun budilnikni qo'yib qo'yardi.",

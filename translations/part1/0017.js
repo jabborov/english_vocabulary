@@ -2,7 +2,6 @@
 VOCAB_TR_STORE('1', '0017', {
  "A1": {
   "Mr": "Salom, janob Brown.",
-  "Stephen": "Stephen shu yerda.",
   "abdicate": "Qirol taxtdan voz kechdi.",
   "agreement": "Bizda kelishuv bor.",
   "aim": "Maqsadingiz nima?",
@@ -85,7 +84,6 @@ VOCAB_TR_STORE('1', '0017', {
  },
  "A2": {
   "Mr": "Janob Smith mening o'qituvchim.",
-  "Stephen": "Stephen tarixni yaxshi ko'radi.",
   "abdicate": "U taxtdan voz kechmoqchi edi.",
   "agreement": "Ular kelishuvni imzolashdi.",
   "aim": "Maqsadim g'alaba qozonish.",
@@ -168,7 +166,6 @@ VOCAB_TR_STORE('1', '0017', {
  },
  "B1": {
   "Mr": "Janob Kemeron muxbirlar bilan gaplashdi.",
-  "Stephen": "Stephen qirollik oilasi haqida gapirdi.",
   "abdicate": "Qirol uylanishi uchun taxtdan voz kechishga qaror qildi.",
   "agreement": "Rahbarlar kelishuvga erishishdi.",
   "aim": "O'zgarishning maqsadi tenglikdir.",
@@ -251,7 +248,6 @@ VOCAB_TR_STORE('1', '0017', {
  },
  "B2": {
   "Mr": "Janob Cameron eski qoidalar eskirganini aytdi.",
-  "Stephen": "Stephen eski qoidalar nega adolatsiz deb hisoblanganini tushuntirdi.",
   "abdicate": "Taxtdan voz kechgan monarx o'zi va merosxo'rlari uchun taxtdan voz kechgan bo'ladi.",
   "agreement": "Kelishuv o'g'illarning qizlardan ustunligi haqidagi qoidaga barham beradi.",
   "aim": "Asosiy maqsad qizlarga nisbatan kamsitishni tugatish edi.",
@@ -334,7 +330,6 @@ VOCAB_TR_STORE('1', '0017', {
  },
  "C1": {
   "Mr": "Janob Kemeron kelishuvni tarixiy qadam deb ta'rifladi.",
-  "Stephen": "Stiven yetakchilar kelishuvining siyosiy oqibatlarini tahlil qildi.",
   "abdicate": "Eduard VIII sevgan ayolidan voz kechish o'rniga taxtdan voz kechishni tanladi.",
   "agreement": "Kelishuv har bir qirollikdan o'z qonunini qabul qilishni talab qildi.",
   "aim": "E'lon qilingan maqsad monarxiyani zamonaviy davrga moslashtirish edi.",
@@ -417,7 +412,6 @@ VOCAB_TR_STORE('1', '0017', {
  },
  "C2": {
   "Mr": "Janob Kemeronning so'zlari islohotni zamonaviy qadriyatlarga allaqachon kechikkan moslashuv sifatida taqdim etdi.",
-  "Stephen": "Stephen islohot monarxiya imijini qanday o'zgartirishi mumkinligi haqida chuqur mulohazali baho berdi.",
   "abdicate": "Taxtdan voz kechish nafaqat hokimiyatdan, balki tug'ilgandan berilgan o'ziga xoslikdan ham voz kechish demakdir.",
   "agreement": "Kelishuv, garchi ko'lami jihatidan kamtarona bo'lsa-da, katta ramziy ahamiyatga ega edi.",
   "aim": "E'lon qilingan maqsadiga qaramay, tanqidchilar islohot yetarlicha chuqur bo'ldimi, deb o'ylashdi.",
@@ -500,7 +494,6 @@ VOCAB_TR_STORE('1', '0017', {
  },
  "EX": {
   "Mr": "Janob Kemeron kelishuvni olqishladi.",
-  "Stephen": "Stiven taxt vorisligi qoidalari qanday o'zgarganini tushuntiradi.",
   "abdicate": "Eduard VIII 1936-yilda taxtdan voz kechishga qaror qildi.",
   "agreement": "Yetakchilar qoidalarni o'zgartirish bo'yicha kelishuvga erishishdi.",
   "aim": "Maqsad – qoidalarni adolatliroq qilish.",

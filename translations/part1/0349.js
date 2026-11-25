@@ -1,7 +1,6 @@
 // Part 1 topic 0349: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0349', {
  "A1": {
-  "Anna": "Anna o'qituvchi.",
   "architect": "U me'mor.",
   "at first glance": "Bir qarashda bu oson ko'rinadi.",
   "barefoot": "U yalangoyoq.",
@@ -21,7 +20,6 @@ VOCAB_TR_STORE('1', '0349', {
   "turret": "Qasrning minorachasi bor."
  },
  "A2": {
-  "Anna": "Anna bolalarni yaxshi ko'radi.",
   "architect": "Me'mor uy chizdi.",
   "at first glance": "Bir qarashda u charchagan ko'rinadi.",
   "barefoot": "U yalangoyoq yuradi.",
@@ -41,7 +39,6 @@ VOCAB_TR_STORE('1', '0349', {
   "turret": "Biz minorachani ko'rdik."
  },
  "B1": {
-  "Anna": "Anna o'yin maydonchasida ishlaydi.",
   "architect": "U me'mor bo'lishni xohlaydi.",
   "at first glance": "Bir qarashda uy bo'sh ko'rindi.",
   "barefoot": "Bolalar yalangoyoq yugurishdi.",
@@ -61,7 +58,6 @@ VOCAB_TR_STORE('1', '0349', {
   "turret": "Minora juda baland."
  },
  "B2": {
-  "Anna": "Anna bolalarga ko'proq erkin o'yin kerak deb hisoblaydi.",
   "architect": "Bolalar me'mor rolini o'ynab, o'z kulbalarini rejalashtirishdi.",
   "at first glance": "Bir qarashda o'yin maydonchasi xavfli ko'rinadi.",
   "barefoot": "Bolalar bog'da yalangoyoq yugurishni yaxshi ko'radi.",
@@ -81,7 +77,6 @@ VOCAB_TR_STORE('1', '0349', {
   "turret": "Bolalar qutilardan minorali qal'a qurishdi."
  },
  "C1": {
-  "Anna": "Anna xavfli o'yinlar o'ziga ishonchni qanday shakllantirishini tushuntiradi.",
   "architect": "O'yin maydonchasini me'mor juda ko'p ochiq joy qoldirib loyihalashtirdi.",
   "at first glance": "Bir qarashda bu shunchaki bir uyum keraksiz narsa, ammo bolalar uni juda yoqtiradi.",
   "barefoot": "Ba'zi maktablar bolalarga yerni his qilishi uchun yalangoyoq o'ynashga ruxsat beradi.",
@@ -101,7 +96,6 @@ VOCAB_TR_STORE('1', '0349', {
   "turret": "Minorachaning tepasidan ular butun o'yin maydonchasini ko'ra olishardi."
  },
  "C2": {
-  "Anna": "Annaning ta'kidlashicha, kattalar ko'pincha bolalarni xavfni o'zlari boshqarish imkoniyatidan mahrum qiladi.",
   "architect": "Erkin o'yinda bolalar o'z tajribalarining me'morlariga aylanadi.",
   "at first glance": "Bir qarashda maydon tartibsizdek ko'rinadi, ammo u malakali o'yin xodimlari tomonidan sinchkovlik bilan nazorat qilinadi.",
   "barefoot": "Notekis yerda yalangoyoq yugurish bolalarga muvozanat va tana sezgisini rivojlantirishga yordam beradi.",
@@ -121,7 +115,6 @@ VOCAB_TR_STORE('1', '0349', {
   "turret": "Kartondan yasalgan minora liqillashi mumkin, ammo u tasavvur va muhandislikning yutug'idir."
  },
  "EX": {
-  "Anna": "Annaning aytishicha, o'yin bolalarga chidamli bo'lishga yordam beradi.",
   "architect": "Bolalar o'z o'yin maydonchalarining me'mori bo'lishdi.",
   "at first glance": "Bir qarashda o'yin maydonchasi axlatxonaga o'xshaydi.",
   "barefoot": "Bolalar o'tlar ustida yalangoyoq yugurishdi.",

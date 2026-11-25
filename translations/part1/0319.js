@@ -1,8 +1,6 @@
 // Part 1 topic 0319: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0319', {
  "A1": {
-  "Campion": "Campion familiya.",
-  "Nancy": "Nancy mening dugonam.",
   "adaptable": "U moslashuvchan.",
   "astrologer": "U munajjim.",
   "astrology": "Men astrologiyani yaxshi ko'raman.",
@@ -16,8 +14,6 @@ VOCAB_TR_STORE('1', '0319', {
   "star sign": "Sizning burjingiz qanday?"
  },
  "A2": {
-  "Campion": "Janob Campion mutaxassis.",
-  "Nancy": "Bu Nancy.",
   "adaptable": "Bolalar juda moslashuvchan bo'ladi.",
   "astrologer": "Munajjim yulduzlarga qarab fol ochadi.",
   "astrology": "Astrologiya juda qadimiy.",
@@ -31,8 +27,6 @@ VOCAB_TR_STORE('1', '0319', {
   "star sign": "Mening burjim Arslon."
  },
  "B1": {
-  "Campion": "Campion yulduzlar haqida yozadi.",
-  "Nancy": "Nancy munajjimlikni yaxshi ko'radi.",
   "adaptable": "Bu asbobni turli maqsadlarga moslashtirish mumkin.",
   "astrologer": "Men munajjim bilan gaplashdim.",
   "astrology": "Ko'plab olimlar munajjimlikning ilmiy asosi yo'q, deyishadi.",
@@ -46,8 +40,6 @@ VOCAB_TR_STORE('1', '0319', {
   "star sign": "Uning burji Baliq."
  },
  "B2": {
-  "Campion": "Kempion nega shuncha ko'p odam munajjimlar bashoratini o'qishini tushuntirdi.",
-  "Nancy": "Nensi burjlar uning fe'l-atvorini yaxshi tasvirlaydi deb hisoblaydi.",
   "adaptable": "Munajjimlar bashoratiga ko'ra, men moslashuvchan va qiziquvchanman.",
   "astrologer": "Munajjimlar sayyoralar shaxsiyatimizga ta'sir qiladi deb hisoblaydi.",
   "astrology": "Munajjimlik astronomiya bilan bir narsa emas.",
@@ -61,8 +53,6 @@ VOCAB_TR_STORE('1', '0319', {
   "star sign": "Ba'zi odamlar do'stlarini burjiga qarab tanlaydi."
  },
  "C1": {
-  "Campion": "Kempionning so'zlariga ko'ra, munajjimlikning juda uzoq tarixi bor.",
-  "Nancy": "Nensi har kuni munajjimlar bashoratini o'qishini tan oldi.",
   "adaptable": "Ish beruvchilar o'zgarishlarga moslasha oladigan xodimlarni qadrlashadi.",
   "astrologer": "Qadimgi shohlar urushga kirishdan oldin munajjimlar bilan maslahatlashishgan.",
   "astrology": "Munajjimlik yoshlar orasida yana ommalashib ketdi.",
@@ -76,8 +66,6 @@ VOCAB_TR_STORE('1', '0319', {
   "star sign": "Munajjimlarga ko'ra, burjingiz xarakteringizga ta'sir qiladi."
  },
  "C2": {
-  "Campion": "Campionning ta'kidlashicha, munajjimlik ilmiy savolga emas, balki insonning ma'noga bo'lgan ehtiyojiga javob beradi.",
-  "Nancy": "Nancyning munajjimlikka bo'lgan ishtiyoqi hamkasbining shubhaga moyilligidan keskin farq qilardi.",
   "adaptable": "Moslashuvchanlik munajjimlar bashoratida bir nechta burjga — va deyarli hammaga — xos deb ko'rsatiladigan xususiyatdir.",
   "astrologer": "Munajjimlar o'z kasblari bashorat qiluvchi fan emas, balki ramzlar tili ekanini ta'kidlaydi.",
   "astrology": "Ilmiy asosga ega bo'lmasa-da, munajjimlik butun dunyoda millionlab muxlislarni jalb qilishda davom etmoqda.",
@@ -91,8 +79,6 @@ VOCAB_TR_STORE('1', '0319', {
   "star sign": "Burjlar xarakter yoki taqdirga ta'sir qilishi haqida hech qanday ilmiy dalil yo'q."
  },
  "EX": {
-  "Campion": "Campion munajjimlik tarixini o'rgangan.",
-  "Nancy": "Nancy har kuni ertalab munajjimlar bashoratini o'qiydi.",
   "adaptable": "Egizaklar burjidagilar moslashuvchan bo'lishi kerak, deyishadi.",
   "astrologer": "Gazetadagi munajjimlar bashoratini munajjim yozadi.",
   "astrology": "Siz munajjimlikka ishonasizmi?",

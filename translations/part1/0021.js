@@ -1,7 +1,6 @@
 // Part 1 topic 0021: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0021', {
  "A1": {
-  "Sam": "Sam mening do'stim.",
   "academic": "U olima.",
   "active": "Buvim juda faol.",
   "actor": "U aktyor.",
@@ -73,7 +72,6 @@ VOCAB_TR_STORE('1', '0021', {
   "yummy": "Tort mazali."
  },
  "A2": {
-  "Sam": "Sam odamlarga yordam berishni yaxshi ko'radi.",
   "academic": "U universitet olimi.",
   "active": "Har kuni faol bo'ling.",
   "actor": "Aktyor mashhur.",
@@ -145,7 +143,6 @@ VOCAB_TR_STORE('1', '0021', {
   "yummy": "Bu sho'rva mazali!"
  },
  "B1": {
-  "Sam": "Sam bizga mehribonlik haqidagi tadqiqot haqida gapirib berdi.",
   "academic": "Bir olim mehribonlik haqida kitob yozdi.",
   "active": "U mahalliy xayriya tashkilotida faol ishtirok etadi.",
   "actor": "Sevimli aktyorim muxlislariga juda mehribon.",
@@ -217,7 +214,6 @@ VOCAB_TR_STORE('1', '0021', {
   "yummy": "U mazali pechenye pishirdi."
  },
  "B2": {
-  "Sam": "Sam yaxshilik qilish uni qilgan odamni ham baxtliroq qilishi mumkinligini tushuntirdi.",
   "academic": "Bir nechta olimlar odamlar nega notanishlarga yordam berishni tanlashini o'rganishgan.",
   "active": "Faol ko'ngillilar odatda farovonligi yuqoriroq ekanini aytishadi.",
   "actor": "Aktyorning aytishicha, suratga olish maydonchasida mehribon bo'lish suratga olishni ancha osonlashtirgan.",
@@ -289,7 +285,6 @@ VOCAB_TR_STORE('1', '0021', {
   "yummy": "Mehribonlik ko'rsatish sizga xuddi mazali narsa yegandek tuyg'u beradi."
  },
  "C1": {
-  "Sam": "Sam mehribonlik bo'yicha tadqiqotlar ko'pchilik o'ylaganidan ancha ishonchli ekanini ta'kidladi.",
   "academic": "Tadqiqot muallifi bo'lgan olim eksperimental psixologiya bo'yicha katta ilmiy xodimdir.",
   "active": "Tadqiqot berish paytida miyaning mukofot sohalari faolroq bo'lishini aniqladi.",
   "actor": "Bir nechta taniqli aktyorlar o'z sohasida mehribonlik muhimligi haqida ochiq gapirishgan.",
@@ -361,7 +356,6 @@ VOCAB_TR_STORE('1', '0021', {
   "yummy": "Tadqiqotchilar mehribonlikning iliq hissini mazali narsa yeyishdan olinadigan lazzatga qiyosladi."
  },
  "C2": {
-  "Sam": "Samning savoli masalaning mohiyatiga borib taqaldi: mehribonlik shunchaki yoqimlimi yoki isbotlanadigan darajada foydalimi?",
   "academic": "Akademiklar mehribonlik asosan o'rganiladimi yoki tug'ma bo'ladimi, degan masalada hanuz ikkiga bo'lingan.",
   "active": "Mehribonlikka faol sadoqat yaxshi niyatdan ko'proq narsani talab qiladi; u doimiy sa'y-harakatni taqozo etadi.",
   "actor": "Aktyorning yosh hamkasblariga saxovatli munosabati bilan tanilgani uning muvaffaqiyatiga zarracha xalal bermadi.",
@@ -433,7 +427,6 @@ VOCAB_TR_STORE('1', '0021', {
   "yummy": "Mehribonlikni mazali shirinlikka qiyoslash o'rinli: ikkalasi ham bir xil zavq zanjirlarini faollashtiradi."
  },
  "EX": {
-  "Sam": "Sem mehribonlik biz uchun foydali ekanini fan isbotlay oladimi, deb so'radi.",
   "academic": "Oksforddagi bir olim mehribonlik ilmini o'rganadi.",
   "active": "Mehribon odamlar ko'pincha o'z jamoalarida faol bo'lishadi.",
   "actor": "Aktyor mehribonlik uning faoliyatiga qanday yordam bergani haqida gapirdi.",

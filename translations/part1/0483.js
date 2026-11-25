@@ -1,7 +1,6 @@
 // Part 1 topic 0483: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0483', {
  "A1": {
-  "Davy": "Deyvi mening do'stim.",
   "costly": "Mashina qimmatga tushdi.",
   "dainty": "Uning qo'llari nozik.",
   "daydream": "Men ko'p xayol suraman.",
@@ -15,7 +14,6 @@ VOCAB_TR_STORE('1', '0483', {
   "unsteady": "U oyoqda zo'rg'a turibdi."
  },
  "A2": {
-  "Davy": "Deyvi ko'k rangni yaxshi ko'radi.",
   "costly": "Bu qimmatga tushadigan mashg'ulot.",
   "dainty": "Bu nafis piyola.",
   "daydream": "Hozir xayolga berilma.",
@@ -29,7 +27,6 @@ VOCAB_TR_STORE('1', '0483', {
   "unsteady": "Stol qimirlab turibdi."
  },
  "B1": {
-  "Davy": "Deyvi o'yinchoqlar do'konida ishlaydi.",
   "costly": "Tomni ta'mirlash qimmatga tushdi.",
   "dainty": "Tort kichkina va nafis edi.",
   "daydream": "U dengiz haqida xayol surishni yaxshi ko'radi.",
@@ -43,7 +40,6 @@ VOCAB_TR_STORE('1', '0483', {
   "unsteady": "Attraksiondan keyin u o'zini gandiraklayotgandek his qildi."
  },
  "B2": {
-  "Davy": "Davy bizga pushti kiyimlar tarixi haqida gapirib berdi.",
   "costly": "Bunday xato kompaniyaga qimmatga tushishi mumkin.",
   "dainty": "Qizning ko'ylagida nafis mayda gullar bor edi.",
   "daydream": "Dars zerikarli bo'lsa, o'quvchilar ko'pincha xayolga beriladi.",
@@ -57,7 +53,6 @@ VOCAB_TR_STORE('1', '0483', {
   "unsteady": "Eski narvon biroz omonatdek ko'rindi."
  },
  "C1": {
-  "Davy": "Deyvi fikricha, bolalar uchun ranglar bo'yicha qoidalar nisbatan yaqinda paydo bo'lgan.",
   "costly": "Jinsga mo'ljallangan mahsulotlar o'g'il va qiz farzandli oilalar uchun qimmatga tushishi mumkin.",
   "dainty": "Qizlar uchun mahsulotlar ko'pincha nafis va chiroyli ko'rinadigan qilib ishlab chiqiladi.",
   "daydream": "Ko'plab kattalar hali ham hech qachon erisha olmagan kasblari haqida xayol surishadi.",
@@ -71,7 +66,6 @@ VOCAB_TR_STORE('1', '0483', {
   "unsteady": "Operatsiyadan keyin u bir necha kun oyoqda gandiraklab yurdi."
  },
  "C2": {
-  "Davy": "Deyvi ranglarga bo'lgan afzalliklarimizni tabiat emas, balki marketing tushuntiradi, deb ta'kidladi.",
   "costly": "Qaror ham moliyaviy, ham obro' jihatdan qimmatga tushgan xato bo'lib chiqdi.",
   "dainty": "Qizlar nozik, o'g'il bolalar esa chayir bo'lishi kerak, degan g'oya hozir keng shubha ostiga olinmoqda.",
   "daydream": "Xayol suradigan bolalar albatta e'tiborsiz bo'lavermaydi; ular shunchaki ijodiy fikrlayotgan bo'lishi mumkin.",
@@ -85,7 +79,6 @@ VOCAB_TR_STORE('1', '0483', {
   "unsteady": "Nima bo'lganini tushuntirishga urinarkan, uning ovozi titrab turardi."
  },
  "EX": {
-  "Davy": "Deyvi do'konlar qaysi ranglardan foydalanishni qanday hal qilishini tushuntirib berdi.",
   "costly": "Har bir bola uchun alohida pushti va ko'k o'yinchoqlar sotib olish ota-onalarga qimmatga tushishi mumkin.",
   "dainty": "Qo'g'irchoq nafis pushti tufli kiygan edi.",
   "daydream": "U pushti ko'ylakdagi malika bo'lishni orzu qilib xayol surardi.",

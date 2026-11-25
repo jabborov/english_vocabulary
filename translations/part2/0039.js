@@ -1,7 +1,6 @@
 // Part 2 topic 0039: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0039', {
  "A1": {
-  "Callum": "Kallum mening do'stim.",
   "I kind of persuaded you": "Men sizni kelishga qandaydir ko'ndirdim.",
   "ape": "Odamsimon maymunning dumi yo'q.",
   "biologically": "O'rmon biologik jihatdan boy.",
@@ -19,7 +18,6 @@ VOCAB_TR_STORE('2', '0039', {
   "tend to hear": "Biz odatda ertalab qushlarning ovozini eshitamiz."
  },
  "A2": {
-  "Callum": "Kallum hayvonlarni yaxshi ko'radi.",
   "I kind of persuaded you": "Siz borishni xohlamagan edingiz, lekin men sizni qandaydir ko'ndirdim.",
   "ape": "Gorilla va shimpanzelar odamsimon maymunlardir.",
   "biologically": "Bu ikki hayvon biologik jihatdan o'xshash.",
@@ -37,7 +35,6 @@ VOCAB_TR_STORE('2', '0039', {
   "tend to hear": "Kechasi odatda hasharotlarning ovozi eshitiladi."
  },
  "B1": {
-  "Callum": "Callum film suratga olish uchun tropik o'rmonga bordi.",
   "I kind of persuaded you": "Avvaliga yo'q dedingiz, lekin men sizni qandaydir ko'ndirdim, shunday emasmi?",
   "ape": "Odamsimon maymunlar juda aqlli va oddiy asboblardan foydalana oladi.",
   "biologically": "Tropik o'rmonlar juda ko'p turlarga ega bo'lgani uchun biologik jihatdan muhim.",
@@ -55,7 +52,6 @@ VOCAB_TR_STORE('2', '0039', {
   "tend to hear": "Shaharda qushlardan ko'ra ko'proq mashinalar ovozini eshitasiz."
  },
  "B2": {
-  "Callum": "Callum noyob hayvonlarni kuzatib, bir necha hafta jangalda o'tkazdi.",
   "I kind of persuaded you": "Seni sayohatga qo'shilishga qandaydir ko'ndirdim, endi esa kelganingdan xursandsan.",
   "ape": "Orangutanlar kabi odamsimon maymunlarga o'rmondagi uylarining vayron qilinishi xavf solmoqda.",
   "biologically": "Bu mintaqa sayyoradagi biologik jihatdan eng xilma-xil joylardan biridir.",
@@ -73,7 +69,6 @@ VOCAB_TR_STORE('2', '0039', {
   "tend to hear": "Qalin o'rmonda hayvonlarni ko'rishdan ancha oldin ularning ovozini eshitasiz."
  },
  "C1": {
-  "Callum": "Kallumning hasharotlarga bo'lgan ishtiyoqi hatto ekipajning eng jirkanuvchan a'zolarini ham o'ziga rom qildi.",
   "I kind of persuaded you": "Sen ikkilanayotganding, lekin men seni o'rmon sen tasavvur qilganchalik qo'rqinchli bo'lmasligiga qandaydir ko'ndirdim.",
   "ape": "Odamsimon maymunlarning xulq-atvorini o'rganish inson aqlining evolyutsiyasi haqida qimmatli tushuncha beradi.",
   "biologically": "Biologik nuqtai nazardan, o'rmon soyaboni o'rmon tagidan deyarli butunlay ajralgan alohida olamdir.",
@@ -91,7 +86,6 @@ VOCAB_TR_STORE('2', '0039', {
   "tend to hear": "Tadqiqotchilar odatda bevosita kuzata oladigan turlardan ancha ko'proq turlarning ovozini eshitadilar."
  },
  "C2": {
-  "Callum": "Kallumning ekspeditsiya haqidagi hikoyasi hayvonlarning o'zi haqida bo'lgani kabi dala ishlarining sabr-toqati haqida hamdir.",
   "I kind of persuaded you": "Men seni qandaydir ko'ndirdim, garchi sen boshidanoq \"ha\" deyish uchun bahona qidirib yurgan bo'lsang kerak, deb o'ylayman.",
   "ape": "Bir paytlar mutlaq deb hisoblangan odamsimon maymun va inson o'rtasidagi chegara qurol ishlatish va madaniyatga oid tadqiqotlar tufayli tobora xiralashmoqda.",
   "biologically": "Tropik o'rmon biologik jihatdan shu qadar murakkabki, olimlar qancha tur hali kashf etilmaganini faqat taxmin qila oladi.",
@@ -109,7 +103,6 @@ VOCAB_TR_STORE('2', '0039', {
   "tend to hear": "Tashrif buyuruvchilar odatda faqat eng baland ovozlarni eshitadi va o'rmonni to'ldirib turgan nozikroq tovushlardan bexabar qoladi."
  },
  "EX": {
-  "Callum": "Kallum suratga olish guruhini noyob hayvonlarni izlash uchun tropik o'rmonning ichkarisiga olib bordi.",
   "I kind of persuaded you": "Avvaliga kelishni istamagan eding, lekin men seni qandaydir ko'ndirdim, to'g'rimi?",
   "ape": "Orangutanlar Osiyo tropik o'rmonlarida uchraydigan yagona yirik odamsimon maymundir.",
   "biologically": "Tropik o'rmonlar Yer yuzidagi biologik jihatdan eng boy joylardan biridir.",

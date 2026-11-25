@@ -1,7 +1,6 @@
 // Part 1 topic 0069: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0069', {
  "A1": {
-  "Rosa": "Roza tarjimon.",
   "Scotch": "Men shotlandcha tuxum yedim.",
   "admire": "Men o'qituvchimga qoyil qolaman.",
   "black pudding": "Bu qonli kolbasa.",
@@ -51,7 +50,6 @@ VOCAB_TR_STORE('1', '0069', {
   "wrap": "Sovg'ani o'rang."
  },
  "A2": {
-  "Rosa": "Roza ovqat pishirishni yaxshi ko'radi.",
   "Scotch": "Shotlandcha tuxumlar piknik uchun juda mos.",
   "admire": "Biz uning ishiga qoyil qolamiz.",
   "black pudding": "U qonli kolbasani yaxshi ko'radi.",
@@ -101,7 +99,6 @@ VOCAB_TR_STORE('1', '0069', {
   "wrap": "U nonni o'rab qo'ydi."
  },
  "B1": {
-  "Rosa": "Rosa Britaniya oshpazlik kitobini tarjima qildi.",
   "Scotch": "Shotlandcha tuxumning ichida tuxum bo'ladi.",
   "admire": "Men yaxshi ovqat pishira oladigan odamlarga qoyil qolaman.",
   "black pudding": "Qonli kolbasa to'kin Britaniya nonushtasining bir qismi.",
@@ -151,7 +148,6 @@ VOCAB_TR_STORE('1', '0069', {
   "wrap": "U sendvichlarni qog'ozga o'radi."
  },
  "B2": {
-  "Rosa": "Rosa notanish masalliqlar bilan qanday ish ko'rishini tushuntirdi.",
   "Scotch": "Shotlandcha tuxum Britaniyada piknikda yeyiladigan mashhur taom.",
   "admire": "Ko'plab odamlar fransuz oshxonasiga qoyil qolishadi.",
   "black pudding": "Qora kolbasa cho'chqa qonidan tayyorlanadi.",
@@ -201,7 +197,6 @@ VOCAB_TR_STORE('1', '0069', {
   "wrap": "Har bir tuxumni non ushog'iga belashdan oldin ehtiyotkorlik bilan o'rang."
  },
  "C1": {
-  "Rosa": "Rosaning fikricha, oziq-ovqat tarjimoni retseptlarni o'zi pishirib ko'rishi kerak.",
   "Scotch": "Nomiga qaramay, Scotch tuxumi umuman Shotlandiyadan chiqmagan bo'lishi mumkin.",
   "admire": "U retseptning o'ziga xos ta'mini yetkaza oladigan tarjimonlarga qoyil qoladi.",
   "black pudding": "Qora pudingni xorijlik mehmonlarga tushuntirish ularning ishtahasini bo'g'ib qo'yishi mumkin.",
@@ -251,7 +246,6 @@ VOCAB_TR_STORE('1', '0069', {
   "wrap": "Qovurish paytida yorilib ketmasligi uchun go'shtni mahkam o'rash kerak."
  },
  "C2": {
-  "Rosa": "Rosaning yondashuvi asl nusxaga sodiqlikni o'quvchi uchun amaliylik bilan muvozanatlashtiradi.",
   "Scotch": "Shotlandcha tuxumning noma'lum kelib chiqishi taom nomlari qanchalik chalg'ituvchi bo'lishi mumkinligini ko'rsatadi.",
   "admire": "U xorijiy taomlarni uy oshpazlari uchun tushunarli qilish mahorati uchun keng e'tirof etilgan.",
   "black pudding": "\"Qora puding\" nomiga qaramay, na qora, na shirinlik ma'nosidagi puding hisoblanadi.",
@@ -301,7 +295,6 @@ VOCAB_TR_STORE('1', '0069', {
   "wrap": "Taomni xamir yoki go'shtga o'rash butun dunyo oshxonalarida uchraydigan usuldir."
  },
  "EX": {
-  "Rosa": "Rosa retseptlarni ispan tiliga tarjima qiladi.",
   "Scotch": "Shotlandcha tuxum kolbasa qiymasi va non ushog'iga o'raladi.",
   "admire": "Ko'p mamlakatlar taomlarini pishira oladigan oshpazlarga qoyil qolaman.",
   "black pudding": "To'liq ingliz nonushtasiga ko'pincha qonli kolbasa ham kiradi.",

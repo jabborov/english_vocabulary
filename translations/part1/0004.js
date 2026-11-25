@@ -1,7 +1,6 @@
 // Part 1 topic 0004: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0004', {
  "A1": {
-  "David": "Devid mening do'stim.",
   "aeroplane": "Men samolyotni ko'ryapman.",
   "all": "Barcha o'rindiqlar qizil.",
   "already": "Menda allaqachon chipta bor.",
@@ -135,7 +134,6 @@ VOCAB_TR_STORE('1', '0004', {
   "whole": "Men tortni butunlay yeb qo'ydim."
  },
  "A2": {
-  "David": "Devid teatrni yaxshi ko'radi.",
   "aeroplane": "Samolyot katta.",
   "all": "Barcha do'stlarim spektakllarni yaxshi ko'radi.",
   "already": "Ko'rsatuv allaqachon boshlandi.",
@@ -269,7 +267,6 @@ VOCAB_TR_STORE('1', '0004', {
   "whole": "Biz butun ko'rsatuv davomida qoldik."
  },
  "B1": {
-  "David": "Devid eski o'rindiqlar juda kichik ekanini aytdi.",
   "aeroplane": "Samolyot o'rindiqlari kichik.",
   "all": "Barcha eski o'rindiqlar almashtiriladi.",
   "already": "Ular allaqachon yangi o'rindiqlar o'rnatishdi.",
@@ -403,7 +400,6 @@ VOCAB_TR_STORE('1', '0004', {
   "whole": "Butun tomoshabinlar o'rindiqlarida qimirlab o'tirishardi."
  },
  "B2": {
-  "David": "Devid ko'p yillardan beri o'rindiqlar dizaynini o'rganib keladi.",
   "aeroplane": "Samolyot o'rindiqlari singari teatr o'rindiqlari ham bir-biriga zich joylashtirilgan.",
   "all": "Hamma teatrlar ham o'rindiqlarini almashtirishga qurbi yetavermaydi.",
   "already": "Bir nechta teatr yangi dizaynni allaqachon sinab ko'rdi.",
@@ -537,7 +533,6 @@ VOCAB_TR_STORE('1', '0004', {
   "whole": "Bu yil butun teatr ta'mirlanmoqda."
  },
  "C1": {
-  "David": "Davidning aytishicha, o'rindiqning qiyaligi tanani bukchayishga majbur qiladi.",
   "aeroplane": "Tor qatorlar uzoq masofaga uchadigan samolyotning ekonom salonini eslatadi.",
   "all": "Barcha dalillar qulaylik odamlarning tomoshadan qanchalik zavq olishiga ta'sir qilishini ko'rsatadi.",
   "already": "Yangi o'rindiqlar allaqachon Londondagi ikkita zalga o'rnatilgan.",
@@ -671,7 +666,6 @@ VOCAB_TR_STORE('1', '0004', {
   "whole": "Noqulaylik teatrda o'tkazilgan kechaning butun taassurotini buzishi mumkin."
  },
  "C2": {
-  "David": "Davidning tahlili o'rindiq burchagi va umurtqa pog'onasi holati o'rtasidagi nozik o'zaro ta'sirga e'tibor qaratdi.",
   "aeroplane": "Teatr ham, samolyot kabi, joydan kamdan-kam hollarda shaxs qulayligi foydasiga bo'ladigan tarzda daromad oladi.",
   "all": "Hamma narsani hisobga olganda, o'rindiqlarni modernizatsiya qilish foydasidagi dalillar juda kuchli ko'rinadi.",
   "already": "Dizayn allaqachon poytaxtdan ancha uzoqdagi teatrlarning ham qiziqishini uyg'otdi.",
@@ -805,7 +799,6 @@ VOCAB_TR_STORE('1', '0004', {
   "whole": "Tarixiy teatrlarni modernizatsiya qilishning butun ishi qulaylikni haqiqiylik bilan uyg'unlashtirishga bog'liq."
  },
  "EX": {
-  "David": "Devid o'rindiq shakli belingizga qanday ta'sir qilishini tushuntirib berdi.",
   "aeroplane": "Teatr o'rindiqlari samolyot o'rindiqlariga o'xshaydi – joy hech qachon yetmaydi.",
   "all": "Ular teatrdagi barcha o'rindiqlarni almashtirishmoqda.",
   "already": "Ba'zi teatrlar o'rindiqlarini allaqachon almashtirgan.",

@@ -1,7 +1,6 @@
 // Part 1 topic 0367: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0367', {
  "A1": {
-  "Bruno": "Bruno mening do'stim.",
   "bulletin": "Axborotnomani o'qing.",
   "celebratory": "Bu bayram kuni edi.",
   "improved": "Ingliz tilim yaxshilangan.",
@@ -15,7 +14,6 @@ VOCAB_TR_STORE('1', '0367', {
   "smattering": "Men fransuz tilini ozgina bilaman."
  },
  "A2": {
-  "Bruno": "Bruno radio tinglaydi.",
   "bulletin": "Maktab axborotnoma yuboradi.",
   "celebratory": "Bizda bayram torti bor edi.",
   "improved": "Bu takomillashtirilgan versiya.",
@@ -29,7 +27,6 @@ VOCAB_TR_STORE('1', '0367', {
   "smattering": "U ingliz tilini ozgina biladi."
  },
  "B1": {
-  "Bruno": "Bruno ingliz tilini maktabda o'rgangan.",
   "bulletin": "Tushda yangiliklar xabari berildi.",
   "celebratory": "Ular bayram munosabati bilan ovqatlanishga borishdi.",
   "improved": "U tinglash ko'nikmalari yaxshilanganini ko'rsatdi.",
@@ -43,7 +40,6 @@ VOCAB_TR_STORE('1', '0367', {
   "smattering": "U ispan tilida ozgina gapira oladi."
  },
  "B2": {
-  "Bruno": "Bruno dasturga ingliz tili darslari haqida xat yozdi.",
   "bulletin": "Ob-havo axboroti bo'ronlar haqida ogohlantirdi.",
   "celebratory": "Jamoa tinglovchilarga bayramona xabar yo'lladi.",
   "improved": "Takomillashtirilgan veb-sayt o'qishni osonlashtiradi.",
@@ -57,7 +53,6 @@ VOCAB_TR_STORE('1', '0367', {
   "smattering": "Ingliz tilini biroz bilgani bilan u chet elda ish topdi."
  },
  "C1": {
-  "Bruno": "Brunoning aytishicha, radio eshittirishlari uning hayotini o'zgartirgan.",
   "bulletin": "Urush davridagi axborot xabarlari Yevropa bo'ylab tinglovchilarga shoshilinch yangiliklarni yetkazdi.",
   "celebratory": "Yubiley kuni studiyada bayramona kayfiyat hukm surardi.",
   "improved": "Takomillashgan texnologiya tufayli darslar endi o'quvchilarga telefonlari orqali yetib boradi.",
@@ -71,7 +66,6 @@ VOCAB_TR_STORE('1', '0367', {
   "smattering": "Mahalliy tilni ozgina bilish sayohatni ancha osonlashtirishi mumkin."
  },
  "C2": {
-  "Bruno": "Brunoning hikoyasi radio orqali o'tilgan ingliz tili darslari qanday qilib keyingi o'qish va martabaga eshik ochganini ko'rsatadi.",
   "bulletin": "BBC yangiliklar dasturlari Britaniyadan ancha tashqarida ham ishonch qozongan aniqlik bo'yicha obro' orttirdi.",
   "celebratory": "Bayramona eshittirish butun dunyo bo'ylab ingliz tilini o'qitishning yetmish yilini sarhisob qildi.",
   "improved": "Onlayn materiallardan yaxshilangan foydalanish imkoniyati dunyo bo'ylab odamlarning ingliz tilini qanday o'rganishini tubdan o'zgartirdi.",
@@ -85,7 +79,6 @@ VOCAB_TR_STORE('1', '0367', {
   "smattering": "U ingliz tilini arzimas darajada, chala-chulpa bilib kelgan edi, ammo bir necha yil ichida erkin gapiradigan bo'ldi."
  },
  "EX": {
-  "Bruno": "Bruno ingliz tilini bolaligida radio orqali o'rgana boshlagan.",
   "bulletin": "Radiostansiya favqulodda xabarni efirga uzatdi.",
   "celebratory": "Bu bizning 70 yilligimizga bag'ishlangan bayram dasturidir.",
   "improved": "Yaxshilangan ingliz tili unga yaxshiroq ish topishga yordam berdi.",

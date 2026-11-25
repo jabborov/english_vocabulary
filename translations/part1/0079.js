@@ -1,7 +1,6 @@
 // Part 1 topic 0079: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0079', {
  "A1": {
-  "Adam": "Adam xonanda.",
   "affectionate": "Mushugim erkatoy.",
   "alcohol": "Men spirtli ichimlik ichmayman.",
   "be full": "Stakan to'la.",
@@ -37,7 +36,6 @@ VOCAB_TR_STORE('1', '0079', {
   "tune": "Men bu kuyni bilaman."
  },
  "A2": {
-  "Adam": "Adam gitara chaladi.",
   "affectionate": "U yigitni mehr bilan quchoqladi.",
   "alcohol": "Spirtli ichimlik sog'liq uchun zararli.",
   "be full": "Xona odamlarga to'la.",
@@ -73,7 +71,6 @@ VOCAB_TR_STORE('1', '0079', {
   "tune": "U bir kuyni xirgoyi qildi."
  },
  "B1": {
-  "Adam": "Adam boshqa odamlar uchun qo'shiq yozadi.",
   "affectionate": "U mehribon ota.",
   "alcohol": "Bazmda spirtli ichimlik yo'q edi.",
   "be full": "Qo'shiq muhabbatga to'la.",
@@ -109,7 +106,6 @@ VOCAB_TR_STORE('1', '0079', {
   "tune": "Bu yoqimli kuy."
  },
  "B2": {
-  "Adam": "Adamning aytishicha, kuy so'zlardan muhimroq.",
   "affectionate": "Unda onasi kuylagan qo'shiqlar haqida iliq xotiralar saqlanib qolgan.",
   "alcohol": "Ba'zi musiqachilar spirtli ichimlik ijod qilishga yordam berishini aytishadi.",
   "be full": "Hit-paradlar tez yodda qoladigan qo'shiqlarga to'la.",
@@ -145,7 +141,6 @@ VOCAB_TR_STORE('1', '0079', {
   "tune": "Kuy shunchalik oddiy ediki, uni hamma eslab qoldi."
  },
  "C1": {
-  "Adam": "Adamning fikricha, ajoyib qo'shiqqa kuchli naqorat kerak.",
   "affectionate": "Film 1970-yillar estradasiga mehr bilan nazar tashlaydi.",
   "alcohol": "Haddan tashqari ko'p spirtli ichimlik kasbni barbod qilishi mumkin.",
   "be full": "Uning qo'shiq so'zlari ona shahriga ishoralar bilan to'la.",
@@ -181,7 +176,6 @@ VOCAB_TR_STORE('1', '0079', {
   "tune": "Esda qoladigan kuy aqlli so'zlardan ko'ra muhimroq."
  },
  "C2": {
-  "Adam": "Adamning fikricha, qo'shiq yozish ilhom bo'lganidek hunar hamdir.",
   "affectionate": "Uning guruhga bag'ishlagan mehrli ehtiromida hech qanday kinoya yo'q edi.",
   "alcohol": "Alkogol va ijodkorlik o'rtasidagi romantik bog'liqlik asosan afsonadir.",
   "be full": "Eng yaxshi qo'shiqlar ularni haqqoniy his qildiradigan mayda tafsilotlarga to'la bo'ladi.",
@@ -217,7 +211,6 @@ VOCAB_TR_STORE('1', '0079', {
   "tune": "Buyuk kuylar ko'pincha muqarrardek, go'yo azaldan mavjud bo'lgandek tuyuladi."
  },
  "EX": {
-  "Adam": "Adam xit qo'shiqni qanday yozishini tushuntirib berdi.",
   "affectionate": "U eski qo'shiqlar haqida mehr bilan gapirdi.",
   "alcohol": "Ko'plab rok yulduzlari spirtli ichimliklar bilan muammoga duch kelgan.",
   "be full": "Qo'shiq baxtli xotiralarga to'la.",

@@ -6799,14 +6799,6 @@ window.VOCAB_EXAMPLES = {
       "Species that evolved in isolation are often particularly vulnerable to sudden environmental change.",
       "The rainforest has evolved into a web of interdependence so intricate that the loss of one species can reverberate throughout."
     ],
-    "Callum": [
-      "Callum is my friend.",
-      "Callum likes animals.",
-      "Callum went to the rainforest to make a film.",
-      "Callum spent several weeks in the jungle tracking rare animals.",
-      "Callum's enthusiasm for creepy-crawlies won over even the most squeamish members of the crew.",
-      "Callum's account of the expedition is as much about the patience of fieldwork as it is about the animals themselves."
-    ],
     "creepy-crawlies": [
       "I don't like creepy-crawlies.",
       "There are lots of creepy-crawlies in the garden.",
@@ -12299,14 +12291,6 @@ window.VOCAB_EXAMPLES = {
       "It used to take ages to upload a single song.",
       "The ease with which anyone can upload content has turned us all into potential publishers."
     ],
-    "Rebecca": [
-      "Rebecca is here.",
-      "Rebecca works with computers.",
-      "Rebecca talked about the last ten years.",
-      "Rebecca described how quickly people started uploading photos.",
-      "According to Rebecca, the biggest change has been in how we keep in touch.",
-      "Rebecca's observation that the decade had been defined by sharing rather than owning was particularly sharp."
-    ],
     "download": [
       "Download the app.",
       "I downloaded a song.",
@@ -13893,14 +13877,6 @@ window.VOCAB_EXAMPLES = {
       "The letter of congratulation was kept inside her diary for years.",
       "Her diary records not only the congratulations she received but also her private doubts."
     ],
-    "Anne": [
-      "Anne is a girl's name.",
-      "Anne wrote a diary.",
-      "Anne Frank lived in Amsterdam.",
-      "Anne received her diary as a present on her thirteenth birthday.",
-      "Anne's diary has been translated into more than seventy languages.",
-      "Anne Frank's diary remains one of the most powerful personal accounts of the Second World War."
-    ],
     "approximately": [
       "It's approximately ten.",
       "It costs approximately £5.",
@@ -15462,14 +15438,6 @@ window.VOCAB_EXAMPLES = {
       "In the past, the gold price was fixed by a small group of banks.",
       "Governments once fixed the value of their currencies to gold.",
       "The so-called London gold fix was modernised after accusations that the price was being manipulated."
-    ],
-    "Catherine": [
-      "Catherine is my friend.",
-      "Hello, Catherine!",
-      "Catherine works for a bank.",
-      "Catherine told us that gold prices rise in a crisis.",
-      "According to Catherine, gold appeals to people who distrust paper money.",
-      "Catherine's analysis suggested that gold's value lies as much in psychology as in economics."
     ],
     "fabricate": [
       "He fabricated a story.",

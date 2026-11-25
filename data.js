@@ -1110,7 +1110,6 @@ window.VOCAB_DATA = {
       {w:"remarkable",p:"adjective",ipa:"/rɪˈmɑːkəbl/",def:"unusual or surprising in a way that causes people to take notice",tr:"ajoyib / e'tiborga molik",ex:"The rainforest has a remarkable variety of plants and animals."},
       {w:"canopy",p:"noun",ipa:"/ˈkænəpi/",def:"a layer of something that spreads over an area like a roof, especially branches and leaves that form a roof in a forest",tr:"o'rmon soyaboni (daraxtlarning yuqori qavati)",ex:"Most of the animals live high up in the canopy, far above the forest floor."},
       {w:"evolve",p:"verb",ipa:"/iˈvɒlv/",def:"(of plants, animals, etc.) to develop over time, often many generations, into forms that are better adapted to survive changes in their environment",tr:"evolyutsiyalashmoq / rivojlanmoq",ex:"Many rainforest animals have evolved to live their whole lives in the trees."},
-      {w:"Callum",p:"proper noun",ipa:"/ˈkæləm/",def:"a male first name, popular in Scotland",tr:"Kallum (erkak ismi)",ex:"Callum took the film crew deep into the rainforest to look for rare animals."},
       {w:"creepy-crawlies",p:"noun",ipa:"/ˌkriːpi ˈkrɔːliz/",def:"(informal) insects, spiders, etc. when you think of them as unpleasant or frightening",tr:"o'rmalovchi hasharotlar",ex:"The forest floor is full of creepy-crawlies such as ants, beetles and spiders."},
       {w:"stick",p:"noun",ipa:"/stɪk/",def:"a thin piece of wood that has fallen or been broken from a tree",tr:"cho'p / tayoq",ex:"What looked like a stick turned out to be a stick insect."},
       {w:"fascinating",p:"adjective",ipa:"/ˈfæsɪneɪtɪŋ/",def:"extremely interesting and attractive",tr:"juda qiziqarli / maftunkor",ex:"Watching the animals in the canopy was a fascinating experience."},
@@ -1919,7 +1918,6 @@ window.VOCAB_DATA = {
       {w:"vice",p:"prefix",ipa:"/vaɪs/",def:"(in titles) next in rank to and able to act for somebody, as in vice president or vice-captain",tr:"vitse- / o'rinbosar",ex:"The 'vice' in 'vice president' means the person is second in rank."},
       {w:"president",p:"noun",ipa:"/ˈprezɪdənt/",def:"the person in charge of some organizations, clubs, colleges or companies; the leader of a republic",tr:"prezident / rahbar",ex:"The company's president announced a new service."},
       {w:"upload",p:"verb",ipa:"/ˌʌpˈləʊd/",def:"to move data to a website or a larger computer system from a smaller one",tr:"yuklamoq (internetga)",ex:"Millions of people upload photos every day."},
-      {w:"Rebecca",p:"noun",ipa:"/rɪˈbekə/",def:"a female first name; (here) a technology expert who speaks in the programme",tr:"Rebekka (ism)",ex:"Rebecca explained how social networking had changed people's lives."},
       {w:"download",p:"verb",ipa:"/ˌdaʊnˈləʊd/",def:"to move data from the internet or a larger computer onto your computer or phone",tr:"yuklab olmoq",ex:"People now download music instead of buying CDs."},
       {w:"service",p:"noun",ipa:"/ˈsɜːvɪs/",def:"a system that provides something that the public needs; an online facility",tr:"xizmat",ex:"Many online services are free to use."},
       {w:"more or less",p:"phrase",ipa:"/ˌmɔːr ɔː ˈles/",def:"almost; approximately",tr:"taxminan / deyarli",ex:"Everyone I know has a mobile phone, more or less."},
@@ -2152,7 +2150,6 @@ window.VOCAB_DATA = {
       {w:"relate",p:"verb",ipa:"/rɪˈleɪt/",def:"to be able to understand and feel sympathy for somebody or something",tr:"o'zini tushunmoq / hamdard bo'lmoq",ex:"Many teenagers can relate to Anne Frank's diary."},
       {w:"chore",p:"noun",ipa:"/tʃɔː(r)/",def:"a task that you do regularly, especially an ordinary or boring one",tr:"uy yumushi / zerikarli ish",ex:"For some people, writing a diary feels like a chore."},
       {w:"congratulation",p:"noun",ipa:"/kənˌɡrætʃuˈleɪʃn/",def:"(usually congratulations) words that you say to somebody to show you are happy about their success",tr:"tabrik",ex:"Congratulations on finishing your first diary!"},
-      {w:"Anne",p:"noun",ipa:"/æn/",def:"a female first name; here Anne Frank, the Jewish girl whose diary, written while hiding from the Nazis, became world-famous",tr:"Anna (ism); bu yerda Anna Frank",ex:"Anne Frank wrote her diary in Amsterdam."},
       {w:"approximately",p:"adverb",ipa:"/əˈprɒksɪmətli/",def:"used to show that something is almost, but not completely, accurate or correct",tr:"taxminan",ex:"Anne Frank's family hid for approximately two years."}
     ]
   },
@@ -2382,7 +2379,6 @@ window.VOCAB_DATA = {
       {w:"fall in",p:"phrase",ipa:"/ˈfɔːl ɪn/",def:"(a fall in something) a decrease in the amount, value or level of something; (of a roof) to collapse",tr:"pasayish / qulab tushmoq",ex:"A fall in the value of the pound pushed up the price of gold."},
       {w:"pound",p:"noun",ipa:"/paʊnd/",def:"the unit of money in the UK",tr:"funt sterling",ex:"The value of the pound fell against the dollar."},
       {w:"fix",p:"verb",ipa:"/fɪks/",def:"to decide on an amount, a price, etc. that will not change",tr:"belgilamoq / qat'iylashtirmoq",ex:"The price of gold is fixed twice a day in London."},
-      {w:"Catherine",p:"noun",ipa:"/ˈkæθrɪn/",def:"a female first name; (here) a person interviewed in the programme",tr:"Ketrin (ayol ismi)",ex:"Catherine explained why gold keeps its value."},
       {w:"fabricate",p:"verb",ipa:"/ˈfæbrɪkeɪt/",def:"to invent false information in order to trick people; to make or produce goods",tr:"o'ylab topmoq / ishlab chiqarmoq",ex:"Unlike paper money, gold can't simply be fabricated by governments."},
       {w:"out of thin air",p:"idiom",ipa:"/ˌaʊt əv ˌθɪn ˈeə(r)/",def:"from nowhere or from nothing",tr:"yo'qdan",ex:"Banks can create money out of thin air, but not gold."},
       {w:"alchemy",p:"noun",ipa:"/ˈælkəmi/",def:"a form of chemistry studied in the Middle Ages, which tried to change ordinary metals into gold",tr:"alkimyo",ex:"Alchemy was the old dream of turning metal into gold."},

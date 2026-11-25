@@ -1,7 +1,6 @@
 // Part 1 topic 0320: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0320', {
  "A1": {
-  "Robert": "Robert o'qituvchi.",
   "analyst": "U tahlilchi.",
   "centavos": "Bu ellik sentavo turadi.",
   "coconut water": "Men kokos suvini yaxshi ko'raman.",
@@ -16,7 +15,6 @@ VOCAB_TR_STORE('1', '0320', {
   "tax system": "Soliq tizimi murakkab."
  },
  "A2": {
-  "Robert": "Bu Robert.",
   "analyst": "Tahlilchi ma'lumotlarni o'rganadi.",
   "centavos": "Menda bir necha sentavo bor.",
   "coconut water": "Kokos suvi sovuq.",
@@ -31,7 +29,6 @@ VOCAB_TR_STORE('1', '0320', {
   "tax system": "Bizga adolatli soliq tizimi kerak."
  },
  "B1": {
-  "Robert": "Robert Braziliya haqida gapiradi.",
   "analyst": "Tahlilchilar o'sish kutishmoqda.",
   "centavos": "Bir realda yuz sentavo bor.",
   "coconut water": "U kokos suvi ichadi.",
@@ -46,7 +43,6 @@ VOCAB_TR_STORE('1', '0320', {
   "tax system": "Har bir mamlakatning soliq tizimi bor."
  },
  "B2": {
-  "Robert": "Robert yuqori inflyatsiya muammolarini tasvirlab berdi.",
   "analyst": "Moliyaviy tahlilchilar Braziliyani diqqat bilan kuzatmoqda.",
   "centavos": "Braziliyadagi mayda tangalar bir necha sentavo turadi.",
   "coconut water": "Kokos suvi Braziliyada juda mashhur.",
@@ -61,7 +57,6 @@ VOCAB_TR_STORE('1', '0320', {
   "tax system": "Ko'plab korxonalar soliq tizimidan shikoyat qiladi."
  },
  "C1": {
-  "Robert": "Robertning aytishicha, Braziliya valyutasi ko'p marta o'zgargan.",
   "analyst": "Ko'pchilik tahlilchilar inflyatsiya pasayishini bashorat qilishmoqda.",
   "centavos": "Bir paytlar bir chashka qahva bor-yo'g'i bir necha sentavo turardi.",
   "coconut water": "Plyajdagi kokos suvining narxi inflyatsiya qanchalik oshganini ko'rsatadi.",
@@ -76,7 +71,6 @@ VOCAB_TR_STORE('1', '0320', {
   "tax system": "Soliq tizimini isloh qilish hukumat uchun katta sinovdir."
  },
  "C2": {
-  "Robert": "Robert barqaror valyuta sog'lom iqtisodiyotning poydevori ekanini ta'kidladi.",
   "analyst": "Tahlilchilar tiklanish barqaror bo'la oladimi-yo'qmi, degan masalada hamon ikkiga bo'lingan.",
   "centavos": "Yillar davom etgan inflyatsiyadan so'ng bir necha sentavo qiymatidagi tangalar deyarli yaroqsiz bo'lib qoldi.",
   "coconut water": "Bir paytlar plyajdagi arzon ichimlik bo'lgan kokos suvi endi butun dunyoga sog'lomlashtiruvchi mahsulot sifatida eksport qilinmoqda.",
@@ -91,7 +85,6 @@ VOCAB_TR_STORE('1', '0320', {
   "tax system": "Iqtisodchilarning ta'kidlashicha, Braziliyaning murakkab soliq tizimi investitsiyalarni susaytiradi."
  },
  "EX": {
-  "Robert": "Robert Braziliya iqtisodiyoti qanday o'zgarganini tushuntirib berdi.",
   "analyst": "Tahlilchilar Braziliya iqtisodiyoti kelasi yili o'sadi, deb hisoblashadi.",
   "centavos": "Braziliya realida yuz sentavo bor.",
   "coconut water": "Braziliyada odamlar sohilda kokos suvi ichishadi.",

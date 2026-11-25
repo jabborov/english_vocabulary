@@ -1,7 +1,6 @@
 // Part 2 topic 0057: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0057', {
  "A1": {
-  "Rebecca": "Rebecca shu yerda.",
   "able": "Men suza olaman.",
   "afterwards": "Biz keyin ovqatlandik.",
   "arrive at": "Biz bekatga yetib keldik.",
@@ -34,7 +33,6 @@ VOCAB_TR_STORE('2', '0057', {
   "vice president": "U vitse-prezident."
  },
  "A2": {
-  "Rebecca": "Rebecca kompyuterlar bilan ishlaydi.",
   "able": "U yordam bera oladi.",
   "afterwards": "Keyin oldimga keling.",
   "arrive at": "Ular bir qarorga kelishdi.",
@@ -67,7 +65,6 @@ VOCAB_TR_STORE('2', '0057', {
   "vice president": "Vitse-prezident nutq so'zladi."
  },
  "B1": {
-  "Rebecca": "Rebekka so'nggi o'n yil haqida gapirdi.",
   "able": "Biz videoni onlayn ko'ra oldik.",
   "afterwards": "U ko'p o'tmay ketib qoldi.",
   "arrive at": "Bu raqamga qanday kelib chiqdingiz?",
@@ -100,7 +97,6 @@ VOCAB_TR_STORE('2', '0057', {
   "vice president": "U kompaniyaning vitse-prezidenti bo'ldi."
  },
  "B2": {
-  "Rebecca": "Rebecca odamlar qanchalik tez suratlar yuklay boshlaganini tasvirlab berdi.",
   "able": "Internet tufayli men uydan turib ishlay olaman.",
   "afterwards": "U telefonni sotib oldi va ko'p o'tmay bundan afsuslandi.",
   "arrive at": "Uzoq muhokamadan keyin jamoa yechimga kelishdi.",
@@ -133,7 +129,6 @@ VOCAB_TR_STORE('2', '0057', {
   "vice president": "Kompaniya vitse-prezidenti uning xizmatlari qanday rivojlanganini tushuntirib berdi."
  },
  "C1": {
-  "Rebecca": "Rebekkaning fikricha, eng katta o'zgarish aloqani saqlash usulimizda bo'ldi.",
   "able": "Kam odam narsalar qanchalik tez o'zgarishini tasavvur qila olgan.",
   "afterwards": "Bazmda suratlar olindi va darhol keyin internetga joylandi.",
   "arrive at": "Bu nuqtaga qanday yetib kelganimizni aniq aytish qiyin.",
@@ -166,7 +161,6 @@ VOCAB_TR_STORE('2', '0057', {
   "vice president": "Mahsulot dizayni bo'yicha vitse-prezident sifatida u ilovaning ishga tushirilishini boshqargan."
  },
  "C2": {
-  "Rebecca": "Rebeccaning o'n yillik egalik qilish bilan emas, baham ko'rish bilan belgilangan, degan kuzatuvi ayniqsa o'tkir edi.",
   "able": "Deyarli har qanday faktni soniyalarda topa olish nimani eslab qolishga harakat qilishimizni sezilmas tarzda o'zgartirdi.",
   "afterwards": "O'sha paytda o'tkinchi moda bo'lib tuyulgan narsa keyingi yillarda o'n yillikning asosiy belgisiga aylandi.",
   "arrive at": "Tarixchilar jamiyat qanday qilib deyarli doimiy aloqa holatiga kelganini muhokama qilishadi.",
@@ -199,7 +193,6 @@ VOCAB_TR_STORE('2', '0057', {
   "vice president": "Vitse-prezidentning so'zlari soha qanday o'zgarganiga ichkaridan kamdan-kam uchraydigan nazar tashlash imkonini berdi."
  },
  "EX": {
-  "Rebecca": "Rebekka ijtimoiy tarmoqlar odamlar hayotini qanday o'zgartirganini tushuntirib berdi.",
   "able": "Endi biz dunyoning istalgan joyidagi do'stlar bilan gaplasha olamiz.",
   "afterwards": "Biz videoni ko'rdik va keyin u haqda gaplashdik.",
   "arrive at": "Qanday qilib har kimda telefon bor dunyoga kelib qoldik?",

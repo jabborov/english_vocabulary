@@ -1,7 +1,6 @@
 // Part 1 topic 0475: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0475', {
  "A1": {
-  "Jerry": "Jerri mening do'stim.",
   "announcer": "Diktor baland ovozda gapirdi.",
   "fly up": "Qush yuqoriga uchib ketdi.",
   "herald": "Qo'ng'iroq boshlanishdan darak beradi.",
@@ -14,7 +13,6 @@ VOCAB_TR_STORE('1', '0475', {
   "space shuttle": "Men kosmik kemani ko'rdim."
  },
  "A2": {
-  "Jerry": "Jerri raketalarni yaxshi ko'radi.",
   "announcer": "U radio diktori.",
   "fly up": "Shar osmonga uchib ketdi.",
   "herald": "Bahor iliq kunlardan darak beradi.",
@@ -27,7 +25,6 @@ VOCAB_TR_STORE('1', '0475', {
   "space shuttle": "Kosmik kema uchib ketdi."
  },
  "B1": {
-  "Jerry": "Jerri uchirilishni televizorda tomosha qildi.",
   "announcer": "Diktor yangiliklarni o'qidi.",
   "fly up": "Gulxandan uchqunlar yuqoriga uchdi.",
   "herald": "Yangi telefon o'zgarishlardan darak beradi.",
@@ -40,7 +37,6 @@ VOCAB_TR_STORE('1', '0475', {
   "space shuttle": "Kosmik kema eson-omon qo'ndi."
  },
  "B2": {
-  "Jerry": "Jerry bizga NASAda ishlash qanday bo'lganini aytib berdi.",
   "announcer": "Uchirilish suxandoni shattlning yerdagi so'nggi lahzalarini ta'riflab berdi.",
   "fly up": "Bir necha soniya ichida shattl yuqoriga uchib ko'zdan g'oyib bo'ldi.",
   "herald": "Uchirilish koinotni tadqiq etishning yangi davridan darak berdi.",
@@ -53,7 +49,6 @@ VOCAB_TR_STORE('1', '0475', {
   "space shuttle": "Kosmik kemadan qayta-qayta foydalanish mumkin edi."
  },
  "C1": {
-  "Jerry": "Jerri uchun oxirgi uchirilish juda hayajonli kun bo'ldi.",
   "announcer": "Bekat diktori yo'lovchilarga poyezd kechikayotganini e'lon qildi.",
   "fly up": "Raketa dvigatellari ishga tushganda chang ko'tarilib ketdi.",
   "herald": "Ko'pchilik shattl dasturining yakunlanishi xususiy kosmik sayohatlar davri boshlanishidan darak beradi, deb hisoblaydi.",
@@ -66,7 +61,6 @@ VOCAB_TR_STORE('1', '0475', {
   "space shuttle": "Beshta kosmik kema jami 135 ta missiyani amalga oshirdi."
  },
  "C2": {
-  "Jerry": "Jerri shattlni hozirgacha yaratilgan eng murakkab mashina, uning yakunini esa juda qayg'uli voqea deb ta'rifladi.",
   "announcer": "Diktorning xotirjam ovozi olomon orasidagi hayajonli manzaralarga zid edi.",
   "fly up": "Shattl atmosfera orqali yuqoriga uchib ko'tarilarkan, soatiga minglab mil tezlikka erishdi.",
   "herald": "So'nggi qo'nish nafaqat yakunni, balki kosmik parvozlarda yangi tijorat davrining boshlanishini ham darak berdi.",
@@ -79,7 +73,6 @@ VOCAB_TR_STORE('1', '0475', {
   "space shuttle": "Kosmik kema \"Shattl\" ajoyib mashina edi, ammo uning qimmatligi va xavfsizlik ko'rsatkichlari uni oqlashni qiyinlashtirdi."
  },
  "EX": {
-  "Jerry": "Jerri shattl dasturida yigirma yil ishlagan.",
   "announcer": "Diktor uchirishgacha bo'lgan soniyalarni teskari sanadi.",
   "fly up": "Shattl bulutlar orasiga ko'tarilib uchib ketdi.",
   "herald": "So'nggi parvoz bir davrning tugashidan darak berdi.",

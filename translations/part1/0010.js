@@ -1,8 +1,6 @@
 // Part 1 topic 0010: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0010', {
  "A1": {
-  "Mary": "Meri mening dugonam.",
-  "Tom": "Tom mening akam.",
   "absurd": "Bu bema'nilik.",
   "adapt": "Hayvonlar moslashadi.",
   "air": "Qushlar havoda uchadi.",
@@ -94,8 +92,6 @@ VOCAB_TR_STORE('1', '0010', {
   "work in": "Men maktabda ishlayman."
  },
  "A2": {
-  "Mary": "Meri o'qituvchi.",
-  "Tom": "Tom maktabni yaxshi ko'radi.",
   "absurd": "Qanday bema'ni g'oya!",
   "adapt": "U yangi maktabiga moslashdi.",
   "air": "Samolyot havoga ko'tarildi.",
@@ -187,8 +183,6 @@ VOCAB_TR_STORE('1', '0010', {
   "work in": "U bankda ishlaydi."
  },
  "B1": {
-  "Mary": "Meri askarlar yaxshi o'qituvchi bo'la oladi deb hisoblaydi.",
-  "Tom": "Tom intizom muhim deb hisoblaydi.",
   "absurd": "O'qituvchilikni oson deb o'ylash bema'nilik.",
   "adapt": "Yangi ishga moslashish uchun vaqt kerak.",
   "air": "Askarlarni havo yoki dengiz orqali ko'chirish mumkin.",
@@ -280,8 +274,6 @@ VOCAB_TR_STORE('1', '0010', {
   "work in": "Akam shahardagi bankda ishlaydi."
  },
  "B2": {
-  "Mary": "Mary bunga qo'shilmay, o'qituvchilik maxsus tayyorgarlikni talab qiladi, dedi.",
-  "Tom": "Tom askarlar o'quvchilarning darsdan qochishini to'xtatishga yordam berishi mumkin, deb ta'kidladi.",
   "absurd": "Tanqidchilar bu g'oyani bema'ni va xavfli deb atashdi.",
   "adapt": "Sobiq askarlar o'z uslublarini bolalarga moslashtirishlari kerak.",
   "air": "Mamlakat chegaralarini himoya qilishda havo kuchlariga tayanadi.",
@@ -373,8 +365,6 @@ VOCAB_TR_STORE('1', '0010', {
   "work in": "Ko'plab sobiq askarlar maktablarda ishlashni xohlashadi."
  },
  "C1": {
-  "Mary": "Meri intizomning o'zi o'qishni kafolatlamasligini ta'kidladi.",
-  "Tom": "Tom qisqa kurs malakali o'qituvchilarni tayyorlay olishiga shubha bilan qarashda davom etdi.",
   "absurd": "Odamlar malaka olishdan oldin dars bera olishi bema'nilikdek tuyuladi.",
   "adapt": "Fuqarolik madaniyatiga tez moslashadiganlar odatda eng yaxshi o'qituvchilarga aylanishadi.",
   "air": "Mojaroning dastlabki bosqichlarida havo hududi ustidan nazorat hal qiluvchi ahamiyatga ega bo'ldi.",
@@ -466,8 +456,6 @@ VOCAB_TR_STORE('1', '0010', {
   "work in": "O'qituvchilik sohasida ishlaydigan odamlar ko'pincha bu ish kutganlaridan ko'ra mashaqqatliroq ekanini aytishadi."
  },
  "C2": {
-  "Mary": "Merining e'tirozi ohista bildirilgan bo'lsa-da, bahsning qoq markaziga borib tegdi.",
-  "Tom": "Tomning fikri garchi bahsga undovchi tarzda aytilgan bo'lsa-da, olgan javobidan ko'ra jiddiyroq javobga loyiq edi.",
   "absurd": "Qattiqqo'l serjant usullari ta'limni o'zgartiradi degan da'vo ko'pchilik mutaxassislarga ochig'ini aytganda, aql bovar qilmas darajada bema'ni tuyuladi.",
   "adapt": "Biror alohida ko'nikma emas, balki moslasha olish qobiliyati yangi xodim olib keladigan eng qimmatli fazilat bo'lishi mumkin.",
   "air": "Bir paytlar yangilik bo'lgan havo hukmronligi zamonaviy harbiy doktrinaning ajralmas ustuniga aylandi.",
@@ -559,8 +547,6 @@ VOCAB_TR_STORE('1', '0010', {
   "work in": "Ta'lim sohasida o'nlab yillar ishlaganlar ko'pincha har bir yangi tashabbusga ehtiyotkorlik bilan qaraydigan bo'lib qoladi."
  },
  "EX": {
-  "Mary": "Meri bu g'oyani bema'ni deb hisoblaydi.",
-  "Tom": "Tomning aytishicha, darsni tashlab ketish qonunni buzishdir.",
   "absurd": "Kasaba uyushmalari bu rejani bema'nilik deb atadi.",
   "adapt": "Askarlar sinfxonadagi hayotga moslashishlari kerak.",
   "air": "Uchuvchilar havoda jang qilishga o'rgatilgan.",

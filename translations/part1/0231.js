@@ -1,7 +1,6 @@
 // Part 1 topic 0231: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0231', {
  "A1": {
-  "Cooper": "Janob Cooper mening o'qituvchim.",
   "cracked": "Ekranim yorilgan.",
   "gizmo": "Bu moslama shishalarni ochadi.",
   "glue": "Menga biroz yelim kerak.",
@@ -20,7 +19,6 @@ VOCAB_TR_STORE('1', '0231', {
   "valid": "Bu chipta amal qiladimi?"
  },
  "A2": {
-  "Cooper": "Cooper xonim universitetda ishlaydi.",
   "cracked": "Bu piyola darz ketgan.",
   "gizmo": "U yangi moslamalarni juda yaxshi ko'radi.",
   "glue": "U rasmni daftariga yopishtirdi.",
@@ -39,7 +37,6 @@ VOCAB_TR_STORE('1', '0231', {
   "valid": "Bu o'rinli savol."
  },
  "B1": {
-  "Cooper": "Professor Cooper eski muzlatgich va kir yuvish mashinalari haqida gapiradi.",
   "cracked": "Telefonimni tushirib yubordim, endi oynasi darz ketgan.",
   "gizmo": "Bu kichkina moslama telefoningizni juda tez quvvatlaydi.",
   "glue": "Bu telefonning qismlari elim bilan yopishtirilgan.",
@@ -58,7 +55,6 @@ VOCAB_TR_STORE('1', '0231', {
   "valid": "Pasportim yana besh yil amal qiladi."
  },
  "B2": {
-  "Cooper": "Kuperning so'zlariga ko'ra, ko'plab mahsulotlar endi avvalgidan kamroq xizmat qiladi.",
   "cracked": "Darz ketgan ekranni ta'mirlash kutilmaganda qimmatga tushishi mumkin.",
   "gizmo": "Ko'plab zamonaviy gadjetlar bir-ikki yildan keyin ishlamay qoladi.",
   "glue": "Batareya joyiga yopishtirilgani uchun uni almashtirish juda qiyin.",
@@ -77,7 +73,6 @@ VOCAB_TR_STORE('1', '0231', {
   "valid": "Mahsulotlar juda tez buzilib qolganda xaridorlarning shikoyat qilishga asosli sababi bor."
  },
  "C1": {
-  "Cooper": "Kuperning fikricha, iste'molchilar uzoqroq xizmat qiladigan tovarlarni talab qilishlari kerak.",
   "cracked": "Ko'pchilik rasmiy ta'mirlash uchun pul to'lagandan ko'ra yorilgan ekran bilan yuraverishadi.",
   "gizmo": "Ishlab chiqaruvchilar ta'mirlash deyarli imkonsiz bo'lgan yaltiroq yangi qurilmachalarni chiqarishda davom etishmoqda.",
   "glue": "Vintlar o'rniga yelim ishlatish qurilmalarni yupqaroq qiladi, ammo ta'mirlashni ancha qiyinlashtiradi.",
@@ -96,7 +91,6 @@ VOCAB_TR_STORE('1', '0231', {
   "valid": "Ishlab chiqaruvchilar yupqaroq dizayn ta'mirlash qiyinligi evaziga asosli murosa ekanini ta'kidlashadi."
  },
  "C2": {
-  "Cooper": "Kuperning tadqiqoti shuni ko'rsatadiki, mahsulotlarning xizmat muddati qisqarishi texnik bo'lgani kabi madaniy muammo hamdir.",
   "cracked": "Yorilgan ekranlarning hamma joyda uchrashi qurilmalarimiz qanchalik mo'rt va ta'mirlash qimmat bo'lib qolganini ko'p narsani aytadi.",
   "gizmo": "Eng so'nggi gadjetga bo'lgan ishtiyoqimiz bemalol ishlatsa bo'ladigan qurilmalar muntazam ravishda tashlab yuboriladigan madaniyatni oziqlantiradi.",
   "glue": "Vintlardan yelimga o'tish uzoq xizmat qilishdan ko'ra nafislikni ustun qo'yadigan dizayn falsafasini aks ettiradi.",
@@ -115,7 +109,6 @@ VOCAB_TR_STORE('1', '0231', {
   "valid": "Rejalashtirilgan eskirish asosli biznes strategiyasimi yoki aldov shaklimi, bu hamon qizg'in muhokama qilinmoqda."
  },
  "EX": {
-  "Cooper": "Professor Kuper maishiy mahsulotlar qancha muddat xizmat qilishini o'rgangan.",
   "cracked": "Ko'p odamlar ekrani yorilgan telefonlardan foydalanishda davom etishadi.",
   "gizmo": "Oshxonadagi tortmam hech qachon ishlatmaydigan moslamalarga to'la.",
   "glue": "Batareya yopishtirib qo'yilgan, shuning uchun uni osonlikcha almashtira olmaysiz.",

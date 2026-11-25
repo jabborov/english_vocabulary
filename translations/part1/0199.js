@@ -1,7 +1,6 @@
 // Part 1 topic 0199: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0199', {
  "A1": {
-  "Georgia": "Georgia oshpaz.",
   "ally": "U mening ittifoqchim.",
   "chop": "Sabzini to'g'rang.",
   "food shop": "Oziq-ovqat xaridini men qilaman.",
@@ -15,7 +14,6 @@ VOCAB_TR_STORE('1', '0199', {
   "younger": "Ukam mendan kichik."
  },
  "A2": {
-  "Georgia": "Georgia sho'rvani yaxshi ko'radi.",
   "ally": "Bizga ittifoqchi kerak.",
   "chop": "Men piyozni to'g'rayman.",
   "food shop": "Oziq-ovqat do'koni yaqin.",
@@ -29,7 +27,6 @@ VOCAB_TR_STORE('1', '0199', {
   "younger": "U mendan yosh."
  },
  "B1": {
-  "Georgia": "Georgia pazandachilik darsini olib boradi.",
   "ally": "U yaxshi ittifoqchi edi.",
   "chop": "U sabzavotlarni to'g'radi.",
   "food shop": "Shanba kuni katta oziq-ovqat xaridini qilamiz.",
@@ -43,7 +40,6 @@ VOCAB_TR_STORE('1', '0199', {
   "younger": "U endi yoshroq ko'rinadi."
  },
  "B2": {
-  "Georgia": "Jorjiyaning aytishicha, uyda ovqat pishirish oilalarga pul tejaydi.",
   "ally": "Murabbiy to'g'riroq ovqatlanishga harakat qilayotgan oila uchun haqiqiy ittifoqchi bo'lishi mumkin.",
   "chop": "Avval piyozni to'g'rab, uni sekin olovda qovuring.",
   "food shop": "Haftalik oziq-ovqat xaridi narxi ancha oshib ketdi.",
@@ -57,7 +53,6 @@ VOCAB_TR_STORE('1', '0199', {
   "younger": "O'rtacha hisobda kambag'alroq hududlardagi odamlar yoshroq vafot etadi."
  },
  "C1": {
-  "Georgia": "Jorjiyaning so'zlariga ko'ra, ko'pchilik oshxonada shunchaki o'ziga ishonmaydi.",
   "ally": "Supermarketlar noto'g'ri ovqatlanishga qarshi kurashda ittifoqchi bo'lishi mumkin.",
   "chop": "Sabzavotlarni tez to'g'rashni o'rganish ovqat pishirishni ancha osonlashtiradi.",
   "food shop": "Ovqatlanishni oldindan rejalashtirish oziq-ovqat xaridingizni ancha arzonlashtirishi mumkin.",
@@ -71,7 +66,6 @@ VOCAB_TR_STORE('1', '0199', {
   "younger": "Yoshroq odamlar arzon, qayta ishlangan ovqatlarni iste'mol qilishga ko'proq moyil."
  },
  "C2": {
-  "Georgia": "Georgiyaning ishi amaliy yordam oziq-ovqatdagi tengsizlikni qanday kamaytirishi mumkinligini ko'rsatadi.",
   "ally": "Kam ta'minlangan oilalar sog'lom ovqatlanishlari uchun nasihatlarga emas, ittifoqchilarga muhtoj.",
   "chop": "Ko'plab ishtirokchilarga sabzavotlarni xavfsiz to'g'rashni hech qachon o'rgatishmagan edi.",
   "food shop": "Kam ta'minlangan oilalar uchun haftalik oziq-ovqat xaridi narx va to'yimlilik o'rtasida og'ir tanlovlarni talab qiladi.",
@@ -85,7 +79,6 @@ VOCAB_TR_STORE('1', '0199', {
   "younger": "Kambag'allarning yoshroq vafot etishi sog'liqdagi tengsizlikning eng yaqqol ko'rsatkichlaridan biridir."
  },
  "EX": {
-  "Georgia": "Jorjiya pazandalik kursi qanday ishlashini tushuntirdi.",
   "ally": "Yaxshi murabbiy oshxonada ishonchli hamrohdir.",
   "chop": "Piyozni mayda qilib to'g'rang.",
   "food shop": "Haftalik oziq-ovqat xaridi ko'plab oilalar uchun qimmatga tushadi.",

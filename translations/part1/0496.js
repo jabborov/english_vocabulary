@@ -1,7 +1,6 @@
 // Part 1 topic 0496: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0496', {
  "A1": {
-  "Peter": "Piter muxbir.",
   "analyser": "U tahlilchi.",
   "democratisation": "Bu demokratlashtirish.",
   "finder": "Topgan kim?",
@@ -14,7 +13,6 @@ VOCAB_TR_STORE('1', '0496', {
   "verifier": "U tekshiruvchi."
  },
  "A2": {
-  "Peter": "Piter yangiliklarni yaxshi ko'radi.",
   "analyser": "Tahlil qilish qurilmasi yangi.",
   "democratisation": "Telefonlar demokratlashuvga olib keldi.",
   "finder": "Topgan kishi mukofot oldi.",
@@ -27,7 +25,6 @@ VOCAB_TR_STORE('1', '0496', {
   "verifier": "Tekshiruvchi uni tekshirib chiqdi."
  },
  "B1": {
-  "Peter": "Piter BBCda ishlaydi.",
   "analyser": "Analizatordan foydalaning.",
   "democratisation": "Demokratlashtirish vaqt talab qiladi.",
   "finder": "U narsalarni yaxshi topadi.",
@@ -40,7 +37,6 @@ VOCAB_TR_STORE('1', '0496', {
   "verifier": "Bizga tekshiruvchi kerak."
  },
  "B2": {
-  "Peter": "Peter bizga ular suratlarni qanday tekshirishlarini aytib berdi.",
   "analyser": "Tahlilchi dastur suratning qayerda olinganini tekshiradi.",
   "democratisation": "OAVning demokratlashuvi har kimga yangilik e'lon qilish imkonini beradi.",
   "finder": "Yo'qolgan itni topgan kishiga minnatdorchilik bildirildi.",
@@ -53,7 +49,6 @@ VOCAB_TR_STORE('1', '0496', {
   "verifier": "Tekshiruvchi videoning haqiqiyligini tasdiqladi."
  },
  "C1": {
-  "Peter": "Piterning so'zlariga ko'ra, ijtimoiy tarmoqlar jurnalistikani o'zgartirib yubordi.",
   "analyser": "Jurnalistlar yangilik to'plovchidan ko'ra ko'proq yangiliklar tahlilchisiga aylanishgan.",
   "democratisation": "Arzon kameralar fotografiyani hamma uchun ommabop qildi.",
   "finder": "Muxbirlar eng yaxshi guvoh videolarini topuvchilar vazifasini bajaradi.",
@@ -66,7 +61,6 @@ VOCAB_TR_STORE('1', '0496', {
   "verifier": "Tekshiruvchilar ob-havo va soyalar kabi belgilarni izlashadi."
  },
  "C2": {
-  "Peter": "Piterning ta'kidlashicha, faktlarni tekshirish uchun professional jurnalistlar hali ham zarur.",
   "analyser": "Dasturiy tahlilchilar tasvir tahrirlangan-tahrirlanmaganini aniqlay oladi.",
   "democratisation": "Tanqidchilar yangiliklarning demokratlashuvi noto'g'ri ma'lumotlarni ham tarqatayotganidan ogohlantirmoqda.",
   "finder": "Raqamli asrda jurnalist ma'lumotni topuvchi va saralovchi hisoblanadi.",
@@ -79,7 +73,6 @@ VOCAB_TR_STORE('1', '0496', {
   "verifier": "Professional tekshiruvchilar endi har bir yirik tahririyatning muhim qismiga aylangan."
  },
  "EX": {
-  "Peter": "Piter axborot tashkilotlari aholidan kelgan videolarni qanday tekshirishini tushuntirib berdi.",
   "analyser": "Endi jurnalistning vazifasi — axborot tahlilchisi bo'lish.",
   "democratisation": "Internet yangiliklarning demokratlashuviga olib keldi.",
   "finder": "Endi jurnalistlar jamoatchilik allaqachon tarqatgan voqealarni topuvchilardir.",

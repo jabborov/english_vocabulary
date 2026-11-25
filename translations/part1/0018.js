@@ -1,7 +1,6 @@
 // Part 1 topic 0018: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0018', {
  "A1": {
-  "Christian": "Christian shu yerda.",
   "any": "Sizda umuman pul bormi?",
   "begin": "Boshlaylik.",
   "bigoted": "Bu mutaassiblik.",
@@ -67,7 +66,6 @@ VOCAB_TR_STORE('1', '0018', {
   "unsound": "Bu g'oya asossiz."
  },
  "A2": {
-  "Christian": "Christian muxbir.",
   "any": "Mening umuman vaqtim yo'q.",
   "begin": "Dars soat to'qqizda boshlanadi.",
   "bigoted": "U mutaassib odam.",
@@ -133,7 +131,6 @@ VOCAB_TR_STORE('1', '0018', {
   "unsound": "Bu reja puxta emas."
  },
  "B1": {
-  "Christian": "Christian noqulay gap haqida gapirdi.",
   "any": "Biror yangilik eshitdingizmi?",
   "begin": "Ko'rsatuv tez orada boshlanadi.",
   "bigoted": "U uning qarashlarini mutaassib deb hisobladi.",
@@ -199,7 +196,6 @@ VOCAB_TR_STORE('1', '0018', {
   "unsound": "Uning dalili asossiz edi."
  },
  "B2": {
-  "Christian": "Christian mikrofon suhbatni qanday yozib olganini tushuntirdi.",
   "any": "Jurnalistlar dastlab izohlarning birortasini ham e'lon qilishmadi.",
   "begin": "U bombardimon besh daqiqadan keyin boshlanishini aytib hazillashdi.",
   "bigoted": "Bosh vazir saylovchini mutaassib deb atadi.",
@@ -265,7 +261,6 @@ VOCAB_TR_STORE('1', '0018', {
   "unsound": "Tanqidchilarning aytishicha, shaxsiy gaplarni e'lon qilish axloqan noto'g'ri edi."
  },
  "C1": {
-  "Christian": "Kristian tasodifan eshitilgan izohlarni e'lon qilishning axloqiy jihatlarini muhokama qildi.",
   "any": "U birorta mikrofon yoqilganini anglaganiga hech qanday ishora bermadi.",
   "begin": "\"Besh daqiqadan so'ng bombardimonni boshlaymiz\" degan hazil xato tufayli efirga uzatildi.",
   "bigoted": "Saylovchini mutaassib deb atash jamoatchilikning g'azabini qo'zg'atdi.",
@@ -331,7 +326,6 @@ VOCAB_TR_STORE('1', '0018', {
   "unsound": "Ba'zi muharrirlar bu qarorni axloqan asossiz deb tanqid qilishdi."
  },
  "C2": {
-  "Christian": "Christian voqeaning diplomatik oqibatlari haqida mulohazali bayon taqdim etdi.",
   "any": "U yerda bo'lgan muxbirlardan deyarli hech biri bu so'zlarni darhol e'lon qilishni tanlamadi.",
   "begin": "Amaldagi prezident aytgan \"Besh daqiqadan so'ng bombardimonni boshlaymiz\" hazilichalik vahima uyg'otgan hazillar kam.",
   "bigoted": "Uning go'yoki maxfiy bo'lgan mashinasida aytilgan \"mutaassib\" so'zi saylov kampaniyasining ramziga aylandi.",
@@ -397,7 +391,6 @@ VOCAB_TR_STORE('1', '0018', {
   "unsound": "Suhbatni e'lon qilish etik jihatdan noto'g'ri bo'lganmi, degan masala jurnalistlar orasida hanuz bahsli."
  },
  "EX": {
-  "Christian": "Kristian bizga mashhur bir noo'rin gap haqida gapirib berdi.",
   "any": "U hech kim eshitayotganini o'ylamagan edi.",
   "begin": "\"Besh daqiqadan so'ng bombardimonni boshlaymiz\", deb hazillashdi u.",
   "bigoted": "U bir saylovchini \"mutaassib ayol\" deb atadi.",

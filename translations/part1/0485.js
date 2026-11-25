@@ -1,7 +1,6 @@
 // Part 1 topic 0485: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0485', {
  "A1": {
-  "Holly": "Xolli futbolni yaxshi ko'radi.",
   "athleticism": "U ajoyib jismoniy tayyorgarlikka ega.",
   "brain stem": "Miya ustuni boshda joylashgan.",
   "brainwave": "Miyamga ajoyib fikr keldi!",
@@ -16,7 +15,6 @@ VOCAB_TR_STORE('1', '0485', {
   "stillness": "Menga sokinlik yoqadi."
  },
  "A2": {
-  "Holly": "Xolli olima.",
   "athleticism": "Uning jismoniy tayyorgarligi hayratlanarli.",
   "brain stem": "Miya ustuni nafas olishimizga yordam beradi.",
   "brainwave": "Uning kutilmagan zo'r fikri muammoni hal qildi.",
@@ -31,7 +29,6 @@ VOCAB_TR_STORE('1', '0485', {
   "stillness": "Tunning sokinligi yoqimli edi."
  },
  "B1": {
-  "Holly": "Xolli o'yinni tomosha qildi.",
   "athleticism": "Futbol jismoniy chaqqonlikni talab qiladi.",
   "brain stem": "Miya ustuni miyani orqa miya bilan bog'laydi.",
   "brainwave": "Apparat miya to'lqinlarini ko'rsatadi.",
@@ -46,7 +43,6 @@ VOCAB_TR_STORE('1', '0485', {
   "stillness": "Xonada sukunat hukm surardi."
  },
  "B2": {
-  "Holly": "Holly bizga miya tomografiyasi haqida gapirib berdi.",
   "athleticism": "Yosh o'yinchi o'zining jismoniy chaqqonligi bilan hammani hayratda qoldirdi.",
   "brain stem": "Miya ustuniga shikast yetishi juda jiddiy bo'lishi mumkin.",
   "brainwave": "Tadqiqotchilar o'yinchilar video lavhalarni tomosha qilayotganda miya to'lqinlarini o'lchashdi.",
@@ -61,7 +57,6 @@ VOCAB_TR_STORE('1', '0485', {
   "stillness": "Ko'lning sokinligi go'zal edi."
  },
  "C1": {
-  "Holly": "Xollining aytishicha, futbolchilar ko'pchilik odamlardan tezroq fikrlashadi.",
   "athleticism": "Buyuk futbolchi bo'lish uchun faqat jismoniy chaqqonlik yetarli emas.",
   "brain stem": "Miya ustuni yurak urishi va boshqa avtomatik jarayonlarni boshqaradi.",
   "brainwave": "Miya to'lqinlaridagi o'zgarishlar o'yinchilar qanchalik tez javob qaytarganini ko'rsatdi.",
@@ -76,7 +71,6 @@ VOCAB_TR_STORE('1', '0485', {
   "stillness": "Darvozabonning qimirlamay turishi penalti tepuvchini sarosimaga soldi."
  },
  "C2": {
-  "Holly": "Xolli futbol intellektini boshqa har qanday ko'nikma kabi mashq qilish mumkin, deb taxmin qildi.",
   "athleticism": "Sharhlovchilar ko'pincha jismoniy chaqqonlikni maqtab, ajoyib uzatma ortidagi kognitiv ko'nikmalarni e'tibordan chetda qoldiradi.",
   "brain stem": "Signallar miyaning yuqori qismlariga yetib borishdan oldin miya ustuni orqali o'tadi.",
   "brainwave": "Kutilmaganda xayoliga kelgan yorqin fikr bilan murabbiy taktikani o'zgartirdi va o'yinda g'alaba qozondi.",
@@ -91,7 +85,6 @@ VOCAB_TR_STORE('1', '0485', {
   "stillness": "Jarima zarbasi oldidagi sukunatda butun stadion nafasini ichiga yutdi."
  },
  "EX": {
-  "Holly": "Holli tadqiqot o'yinchilar miyasi haqida nimalarni ko'rsatganini tushuntirdi.",
   "athleticism": "Yetakchi futbolchilarga jismoniy chaqqonlik kerak, lekin tez fikrlash ham zarur.",
   "brain stem": "Miya ustuni nafas olish kabi asosiy funksiyalarni boshqaradi.",
   "brainwave": "Olimlar sinov paytida o'yinchilarning miya to'lqinlarini qayd etishdi.",

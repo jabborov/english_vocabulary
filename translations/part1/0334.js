@@ -3,7 +3,6 @@ VOCAB_TR_STORE('1', '0334', {
  "A1": {
   "Irishman": "U irlandiyalik erkak.",
   "NHS": "NHS bepul.",
-  "Scott": "Scott olim.",
   "aisle": "Sut beshinchi qatorda.",
   "bodybuilding": "U bodibilding bilan shug'ullanishni yaxshi ko'radi.",
   "breakfast food": "Tuxum nonushta uchun yaxshi taom.",
@@ -22,7 +21,6 @@ VOCAB_TR_STORE('1', '0334', {
  "A2": {
   "Irishman": "Irlandiyalik London shahrida yashaydi.",
   "NHS": "Mening shifokorim NHSda ishlaydi.",
-  "Scott": "Scott nonushtada tuxum yeydi.",
   "aisle": "Qator bo'ylab yurib, chapga buriling.",
   "bodybuilding": "Bodibilding ko'p mashg'ulot talab qiladi.",
   "breakfast food": "Yorma nonushta uchun mashhur taom.",
@@ -41,7 +39,6 @@ VOCAB_TR_STORE('1', '0334', {
  "B1": {
   "Irishman": "Irlandiyalik u og'irlik ko'tarishni o'n to'qqiz yoshida boshlaganini aytdi.",
   "NHS": "Sog'lom ovqatlanish bo'yicha maslahatlarni NHS veb-saytidan topishingiz mumkin.",
-  "Scott": "Skottning aytishicha, ko'pchiligimiz kerakligidan ko'ra ko'proq oqsil iste'mol qilamiz.",
   "aisle": "Guruchni topa olmadim, shuning uchun u qaysi qatorda ekanini so'radim.",
   "bodybuilding": "U sport zaliga yozilgandan keyin bodibildingga qiziqib qoldi.",
   "breakfast food": "Qishda bo'tqa mening eng sevimli nonushta taomim.",
@@ -60,7 +57,6 @@ VOCAB_TR_STORE('1', '0334', {
  "B2": {
   "Irishman": "Bir irlandiyalik o'zining yuqori oqsilli parhezini tushuntirib berdi.",
   "NHS": "NHS ma'lumotiga ko'ra, aksariyat kattalar yetarlicha oqsil iste'mol qiladi.",
-  "Scott": "Skottning so'zlariga ko'ra, ko'pchilik allaqachon yetarlicha oqsil oladi.",
   "aisle": "Ba'zi do'konlarda oqsilli batonchiklar butun bir qatorni egallaydi.",
   "bodybuilding": "Bodibilding bilan shug'ullanadigan odamlar ko'p oqsil iste'mol qiladi.",
   "breakfast food": "Hozir ba'zi nonushta mahsulotlariga qo'shimcha oqsil qo'shiladi.",
@@ -79,7 +75,6 @@ VOCAB_TR_STORE('1', '0334', {
  "C1": {
   "Irishman": "Irlandiyalik yigit bodibilding uning ovqatlanish odatlarini qanday o'zgartirganini so'zlab berdi.",
   "NHS": "NHS tavsiyalariga ko'ra, tana vaznining har bir kilogrammiga taxminan 0,75 g oqsil kerak.",
-  "Scott": "Skottning ta'kidlashicha, oqsilli qo'shimchalar ko'pchiligimizga kerak emas.",
   "aisle": "Xaridorlar do'kon qatorlari bo'ylab aylanib, yorliqlardagi oqsil miqdorini solishtirishadi.",
   "bodybuilding": "Bodibilding madaniyati ko'pchilikning sog'lom ovqatlanish haqidagi tasavvurlarini shakllantirgan.",
   "breakfast food": "Yuqori oqsilli deb reklama qilinadigan nonushta mahsulotlari ko'pincha qimmatroq turadi.",
@@ -98,7 +93,6 @@ VOCAB_TR_STORE('1', '0334', {
  "C2": {
   "Irishman": "Irlandiyalikning hikoyasi sport zali madaniyati oqsilni professional sportdan ancha tashqarida qanday ommalashtirganini ko'rsatadi.",
   "NHS": "NHS maslahatlari barchamizga qo'shimcha oqsil kerak, degan ma'noni anglatuvchi marketingdan keskin farq qiladi.",
-  "Scott": "Scottning tadqiqotlari oqsil ishtiyoqini ovqatlanish ehtiyojidan ko'ra marketing ko'proq harakatlantirayotganini ko'rsatadi.",
   "aisle": "Oqsil mahsulotlari qatori zamonaviy supermarketning eng daromadli bo'limlaridan biriga aylandi.",
   "bodybuilding": "Bodibildingning tor doiradagi tashvishi sifatida boshlangan narsa ommaviy ovqatlanish ishtiyoqiga aylandi.",
   "breakfast food": "Ishlab chiqaruvchilar jamoatchilikning oqsilga bo'lgan ishtiyoqidan foydalanish uchun an'anaviy nonushta mahsulotlarini qayta brendlashdi.",
@@ -117,7 +111,6 @@ VOCAB_TR_STORE('1', '0334', {
  "EX": {
   "Irishman": "Ko'rsatuvdagi mutaxassis irlandiyalik erkak.",
   "NHS": "NHS bizga qancha oqsil kerakligi haqida maslahat beradi.",
-  "Scott": "Scott bizga haqiqatda qancha oqsil kerakligini tushuntiradi.",
   "aisle": "Hozir supermarketda butun bir qator oqsilli mahsulotlarga ajratilgan.",
   "bodybuilding": "Oqsilli kokteyllar dastlab bodibildingda mashhur bo'lgan.",
   "breakfast food": "Hozirda ko'plab nonushta mahsulotlariga oqsil qo'shiladi.",

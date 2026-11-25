@@ -1,7 +1,6 @@
 // Part 1 topic 0329: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0329', {
  "A1": {
-  "Luke": "Luke mening do'stim.",
   "cramp": "Oyog'im tortishib qoldi.",
   "economic condition": "Iqtisodiy sharoit yomon.",
   "hitch": "Kichik bir to'siq bor.",
@@ -11,7 +10,6 @@ VOCAB_TR_STORE('1', '0329', {
   "virtue": "Sabr fazilatdir."
  },
  "A2": {
-  "Luke": "Luke uyda yashaydi.",
   "cramp": "Oyog'im tortishib qoldi.",
   "economic condition": "Iqtisodiy ahvol o'zgarmoqda.",
   "hitch": "Rejada bir to'siq bor.",
@@ -21,7 +19,6 @@ VOCAB_TR_STORE('1', '0329', {
   "virtue": "Halollik fazilatdir."
  },
  "B1": {
-  "Luke": "Luk 28 yoshda.",
   "cramp": "Uyda yashash erkinligimni cheklaydi.",
   "economic condition": "Ish o'rinlari iqtisodiy sharoitga bog'liq.",
   "hitch": "Hammasi hech qanday muammosiz o'tdi.",
@@ -31,7 +28,6 @@ VOCAB_TR_STORE('1', '0329', {
   "virtue": "Rejaning bitta katta afzalligi bor."
  },
  "B2": {
-  "Luke": "Lukning aytishicha, u alohida kvartirani ijaraga olishga qurbi yetmaydi.",
   "cramp": "Kichik kvartiralar oilaning turmush tarzini siqib qo'yishi mumkin.",
   "economic condition": "Og'ir iqtisodiy sharoit yosh kattalarni ota-onasi uyida yashashga majbur qilmoqda.",
   "hitch": "Ota-ona uyida yashashning yagona kamchiligi shaxsiy hayotning yo'qligidir.",
@@ -41,7 +37,6 @@ VOCAB_TR_STORE('1', '0329', {
   "virtue": "Ota-ona uyida yashashning afzalliklaridan biri pul jamg'ara olishdir."
  },
  "C1": {
-  "Luke": "Luk uyda yashashning o'z afzalliklari borligini tan oladi.",
   "cramp": "U ota-onasining qoidalari mustaqilligini cheklab qo'yayotganini his qildi.",
   "economic condition": "Iqtisodiy sharoitlar mintaqalar o'rtasida katta farq qiladi.",
   "hitch": "Bitta qiyinchilik bor: ota-onam meni yarim tungacha uyda bo'lishimni kutishadi.",
@@ -51,7 +46,6 @@ VOCAB_TR_STORE('1', '0329', {
   "virtue": "U majburiyatni fazilatga aylantirib, bu vaqtdan pul yig'ish uchun foydalandi."
  },
  "C2": {
-  "Luke": "Lukening ahvoli ijara bozoridagi narxlarga qurbi yetmay qolgan ko'plab yosh mutaxassislar uchun odatiy holdir.",
   "cramp": "Ko'plab yosh kattalar uyda yashash ijtimoiy hayotini ancha cheklab qo'yishidan shikoyat qiladi.",
   "economic condition": "Sotsiologlarning ta'kidlashicha, voyaga yetgan farzandlarning uyda qolishini dangasalik emas, iqtisodiy sharoitlar izohlaydi.",
   "hitch": "Uyda yashash pulni tejaydi, ammo muammo shundaki, siz o'zingizni hech qachon to'liq kattalardek his qilmaysiz.",
@@ -61,7 +55,6 @@ VOCAB_TR_STORE('1', '0329', {
   "virtue": "Ayrim sotsiologlarning fikricha, bir necha avlodning birga yashashi zamonaviy jamiyatlar unutib qo'ygan fazilatlarga ega."
  },
  "EX": {
-  "Luke": "Luke 28 yoshda va hali ham ota-onasi bilan yashaydi.",
   "cramp": "Ota-onam bilan yashash erkinligimni ancha cheklab qo'yadi.",
   "economic condition": "Og'ir iqtisodiy sharoit tufayli ko'p yoshlar alohida yashashga qurbi yetmaydi.",
   "hitch": "Yagona noqulaylik shundaki, hammomni ota-onam bilan bo'lishishim kerak.",

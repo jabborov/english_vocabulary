@@ -1,7 +1,6 @@
 // Part 1 topic 0493: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0493', {
  "A1": {
-  "Antony": "Antonining mashinasi bor.",
   "GPS": "Telefonimda GPS bor.",
   "accidental": "Bu tasodifiy edi.",
   "alarmingly": "U xavotirli darajada tez.",
@@ -21,7 +20,6 @@ VOCAB_TR_STORE('1', '0493', {
   "transmitter": "Bu uzatgich."
  },
  "A2": {
-  "Antony": "Antoni ko'p mashina haydaydi.",
   "GPS": "GPSni yoqing.",
   "accidental": "Bu tasodifiy yong'in edi.",
   "alarmingly": "Narxlar xavotirli darajada oshdi.",
@@ -41,7 +39,6 @@ VOCAB_TR_STORE('1', '0493', {
   "transmitter": "Uzatgich buzilgan."
  },
  "B1": {
-  "Antony": "Antoni sun'iy yo'ldosh navigatoridan foydalanadi.",
   "GPS": "GPS noto'g'ri ko'rsatyapti.",
   "accidental": "Zarar tasodifan yetkazilgan.",
   "alarmingly": "U xavotirli darajada yaqin kelib haydadi.",
@@ -61,7 +58,6 @@ VOCAB_TR_STORE('1', '0493', {
   "transmitter": "Radioda uzatgich bor."
  },
  "B2": {
-  "Antony": "Antony bizga o'zining eng yomon sayohati haqida gapirib berdi.",
   "GPS": "GPS aeroportga eng tez yo'lni ko'rsatdi.",
   "accidental": "Bu kashfiyot butunlay tasodifiy edi.",
   "alarmingly": "Yomg'irdan keyin daryo suvi xavotirli darajada ko'tarildi.",
@@ -81,7 +77,6 @@ VOCAB_TR_STORE('1', '0493', {
   "transmitter": "Uzatgich har soniyada signal yuboradi."
  },
  "C1": {
-  "Antony": "Entoni haydovchilar baribir xarita o'qishni o'rganishlari kerak deb hisoblaydi.",
   "GPS": "Sayyohlar adashib qolishsa deb o'zlari bilan GPS qurilmasini olib yurishadi.",
   "accidental": "Tasodifiy shikastlanish bu sug'urta bilan qoplanmaydi.",
   "alarmingly": "Xavotirli darajada ko'p avariyalar charchagan haydovchilar bilan bog'liq.",
@@ -101,7 +96,6 @@ VOCAB_TR_STORE('1', '0493', {
   "transmitter": "Tepalikdagi kuchli uzatkich butun mintaqaga xizmat ko'rsatadi."
  },
  "C2": {
-  "Antony": "Antoni bir marta navigatorga ergashib fermerning dalasiga kirib qolganini tan oldi.",
   "GPS": "GPS signallari baland binolar tomonidan to'silishi yoki ataylab bo'g'ib qo'yilishi mumkin.",
   "accidental": "Tasodifiy aylanma yo'l sifatida boshlangan narsa esda qolarli sarguzashtga aylandi.",
   "alarmingly": "Dunyoning ba'zi qismlarida dengiz sathi xavotirli darajada ko'tarilmoqda.",
@@ -121,7 +115,6 @@ VOCAB_TR_STORE('1', '0493', {
   "transmitter": "Har bir sun'iy yo'ldosh uzatgich va o'ta aniq soatni olib yuradi."
  },
  "EX": {
-  "Antony": "Entonining aytishicha, u uzoq safardan oldin doim xaritani tekshiradi.",
   "GPS": "Avtomobil GPS'i unga chapga burilib, daryoga kirishni aytdi.",
   "accidental": "Uning boshqa shaharga borib qolishi mutlaqo tasodifiy edi.",
   "alarmingly": "Xavotirli darajada ko'p haydovchilar navigatoriga to'liq ishonadi.",

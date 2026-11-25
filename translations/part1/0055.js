@@ -1,7 +1,6 @@
 // Part 1 topic 0055: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0055', {
  "A1": {
-  "James": "Uning ismi Jeyms.",
   "across the country": "Butun mamlakat bo'ylab odamlar tomosha qildi.",
   "all in": "Hammasi bo'lib 20 funt turadi.",
   "bank": "Men bankka boraman.",
@@ -47,7 +46,6 @@ VOCAB_TR_STORE('1', '0055', {
   "waiter": "Ofitsiant samimiy."
  },
  "A2": {
-  "James": "Jeyms ofitsiant.",
   "across the country": "Butun mamlakat bo'ylab yomg'ir yog'di.",
   "all in": "Hammasi bo'lib qancha bo'ladi?",
   "bank": "Bank yopiq.",
@@ -93,7 +91,6 @@ VOCAB_TR_STORE('1', '0055', {
   "waiter": "Iltimos, ofitsiantni chaqiring."
  },
  "B1": {
-  "James": "James choychaqa haqida gapirdi.",
   "across the country": "Butun mamlakat bo'ylab do'konlar yopiq.",
   "all in": "Ovqat hammasi bo'lib ellik funt sterling turdi.",
   "bank": "U bankda ishlaydi.",
@@ -139,7 +136,6 @@ VOCAB_TR_STORE('1', '0055', {
   "waiter": "Ofitsiant ovqatimizni olib keldi."
  },
  "B2": {
-  "James": "James choychaqa bo'yicha qoidalar bir xil emasligini aytdi.",
   "across the country": "Butun mamlakat bo'ylab ofitsiantlar choychaqaga tayanishadi.",
   "all in": "Narx hammasini, jumladan xizmat haqini ham o'z ichiga oladi.",
   "bank": "Banklar restoranlardan karta orqali to'lovlar uchun komissiya oladi.",
@@ -185,7 +181,6 @@ VOCAB_TR_STORE('1', '0055', {
   "waiter": "Ko'p ofitsiantlar tirikchilik qilish uchun choychaqaga bog'liq."
  },
  "C1": {
-  "James": "James fikricha, choychaqa rahbariyatga emas, xodimlarga tegishi kerak.",
   "across the country": "Mamlakat bo'ylab restoranlar hisobga xizmat haqini qo'shadi.",
   "all in": "Ba'zi restoranlar qo'shimcha to'lovlarsiz, hammasi kiritilgan narxni afzal ko'radi.",
   "bank": "Ba'zi restoranlar choychaqadan bank to'lovlarini ushlab qoladi.",
@@ -231,7 +226,6 @@ VOCAB_TR_STORE('1', '0055', {
   "waiter": "Ofitsiantlar mijozlar qoldirgan choychaqani har doim ham olavermaydi."
  },
  "C2": {
-  "James": "James izchil yondashuvning yo'qligi mijozlarni ham, xodimlarni ham sarosimaga solib qo'yganini ta'kidladi.",
   "across the country": "Amaliyotlar mamlakat bo'ylab juda farq qiladi, shuning uchun ko'pchilik yagona qoidalar joriy etishga chaqiradi.",
   "all in": "Yevropaning ayrim qismlarida keng tarqalgan barcha xarajatlarni o'z ichiga olgan narxlash choychaqani hisoblash noqulayligini yo'qotadi.",
   "bank": "Bank xizmati to'lovlarini xodimlarning choychaqasidan ushlab qolish munozarali amaliyot ekanligi ma'lum bo'ldi.",
@@ -277,7 +271,6 @@ VOCAB_TR_STORE('1', '0055', {
   "waiter": "Choychaqa tartiblari noaniq bo'lganda, kam asosiy maosh oladigan ofitsiantlar ayniqsa himoyasiz bo'lib qoladi."
  },
  "EX": {
-  "James": "James restoranlarda choychaqa qanday ishlashini tushuntirib berdi.",
   "across the country": "Butun mamlakat bo'ylab restoranlarning choychaqa siyosati turlicha.",
   "all in": "Hammasi bo'lib 80 funt sterling bo'ldi.",
   "bank": "U choychaqasini hisobiga qo'yish uchun bankka bordi.",

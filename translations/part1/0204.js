@@ -1,7 +1,6 @@
 // Part 1 topic 0204: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0204', {
  "A1": {
-  "Jenny": "Jenny mening do'stim.",
   "anticlockwise": "Uni soat miliga teskari buring.",
   "clockwise": "Uni soat mili bo'yicha buring.",
   "collar": "Ko'ylagimning yoqasi bor.",
@@ -24,7 +23,6 @@ VOCAB_TR_STORE('1', '0204', {
   "wrongly": "U buni noto'g'ri qildi."
  },
  "A2": {
-  "Jenny": "Jenny suzishni yaxshi ko'radi.",
   "anticlockwise": "Soat miliga teskari yo'nalishda aylaning.",
   "clockwise": "Xona bo'ylab soat mili yo'nalishida yuring.",
   "collar": "Uning yoqasi oq.",
@@ -47,7 +45,6 @@ VOCAB_TR_STORE('1', '0204', {
   "wrongly": "Uni nohaq ayblashdi."
  },
  "B1": {
-  "Jenny": "Jenny dushanba kuni basseynga boradi.",
   "anticlockwise": "Qopqoqni soat miliga teskari burab oching.",
   "clockwise": "G'ildirak soat mili yo'nalishida aylanadi.",
   "collar": "U palto yoqasini ko'tarib qo'ydi.",
@@ -70,7 +67,6 @@ VOCAB_TR_STORE('1', '0204', {
   "wrongly": "So'z noto'g'ri yozilgan edi."
  },
  "B2": {
-  "Jenny": "Odamlar noto'g'ri yo'nalishda suzganda Jennining jahli chiqadi.",
   "anticlockwise": "Bu yo'lak soat miliga teskari yo'nalishda suzuvchilar uchun.",
   "clockwise": "Buyuk Britaniya basseynlarida odamlar odatda har bir yo'lakda soat mili yo'nalishida suzishadi.",
   "collar": "Ko'ylakning kichkina yoqasi va kalta yenglari bor edi.",
@@ -93,7 +89,6 @@ VOCAB_TR_STORE('1', '0204', {
   "wrongly": "Ko'plab suzuvchilar o'zlarini aslidagidan tezroq deb noto'g'ri o'ylashadi."
  },
  "C1": {
-  "Jenny": "Jenni suzish basseynining ba'zi yozilmagan qoidalarini tushuntirib berdi.",
   "anticlockwise": "Basseynda yo'laklar navbatlashadi, shuning uchun qo'shni yo'laklarda soat mili yo'nalishida va unga teskari suziladi.",
   "clockwise": "Soat mili yo'nalishida suzish yo'lakning chap tomonida harakatlanishni anglatadi.",
   "collar": "\"Hot under the collar\" iborasi g'azablanganda bo'yin atrofida seziladigan issiqlikni tasvirlaydi.",
@@ -116,7 +111,6 @@ VOCAB_TR_STORE('1', '0204', {
   "wrongly": "Suzuvchi kimnidir itarib yuborganlikda nohaq ayblandi."
  },
  "C2": {
-  "Jenny": "Jennyning aytishicha, basseyndagi janjallarning ko'pchiligi yo'lak tezliklarini e'tiborsiz qoldiradigan odamlar tufayli kelib chiqadi.",
   "anticlockwise": "Soat mili bo'yicha va unga teskari yo'nalishdagi yo'laklarni almashtirish qo'shni yo'laklardagi suzuvchilarning arqon yonida to'qnashishining oldini oladi.",
   "clockwise": "Ba'zi mamlakatlarda soat mili yo'nalishida emas, unga teskari yo'nalishda suzishadi, bu esa mehmon suzuvchilarni chalg'itadi.",
   "collar": "Bu ibora odam asabiylashganda yoqa atrofida issiqlik ko'tarilishining jismoniy hissiga asoslanadi.",
@@ -139,7 +133,6 @@ VOCAB_TR_STORE('1', '0204', {
   "wrongly": "Odamlar ko'pincha basseynning yozilmagan qoidalarini hamma biladi deb noto'g'ri taxmin qilishadi."
  },
  "EX": {
-  "Jenny": "Jenni har kuni ertalab ishdan oldin suzadi.",
   "anticlockwise": "Ba'zi yo'laklarda suzuvchilar soat miliga teskari yo'nalishda suzishadi.",
   "clockwise": "Bu yo'lakda soat mili yo'nalishida suzishingiz kerak.",
   "collar": "U isib ketgani uchun yoqasini yechdi.",

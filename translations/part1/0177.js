@@ -2,7 +2,6 @@
 VOCAB_TR_STORE('1', '0177', {
  "A1": {
   "France": "Parij Fransiyada joylashgan.",
-  "Rachel": "Rachel mening do'stim.",
   "acknowledge": "U xatosini tan oldi.",
   "article": "Men bir maqola o'qidim.",
   "barrel": "Bochka suvga to'la.",
@@ -28,7 +27,6 @@ VOCAB_TR_STORE('1', '0177', {
  },
  "A2": {
   "France": "Men Fransiyaga borishni xohlayman.",
-  "Rachel": "Rachel BBC da ishlaydi.",
   "acknowledge": "U xato qilganini tan oldi.",
   "article": "U maktab gazetasi uchun maqola yozdi.",
   "barrel": "Bog'da katta bochka bor.",
@@ -54,7 +52,6 @@ VOCAB_TR_STORE('1', '0177', {
  },
  "B1": {
   "France": "Do'stim Fransiyaning janubida yashaydi.",
-  "Rachel": "Reychel o'z familiyasi haqida gapirdi.",
   "acknowledge": "Iltimos, xabarimni olganingizni tasdiqlang.",
   "article": "Bu maqola nikoh haqida.",
   "barrel": "Uning familiyasi qo'shaloq.",
@@ -80,7 +77,6 @@ VOCAB_TR_STORE('1', '0177', {
  },
  "B2": {
   "France": "Fransiyada turmushga chiqqan ayollar rasman qizlik familiyasini saqlab qolishadi.",
-  "Rachel": "Rachel nima uchun familiyasini o'zgartirmaganini tushuntirdi.",
   "acknowledge": "Qo'sh familiya ikkala turmush o'rtog'ining oilasini e'tirof etadi.",
   "article": "Jurnaldagi maqolada bugungi kunda kamroq ayollar familiyasini o'zgartirishi aytilgan.",
   "barrel": "Qo'sh familiya ikki familiyani chiziqcha bilan birlashtiradi.",
@@ -106,7 +102,6 @@ VOCAB_TR_STORE('1', '0177', {
  },
  "C1": {
   "France": "Fransiyada rasmiy ismlar to'g'risidagi qonunlar ikki yuz yildan ortiq vaqtdan beri amal qiladi.",
-  "Rachel": "Rachelning tajribasi turmushdagi familiyani tanlash qanchalik shaxsiy ish ekanini ko'rsatadi.",
   "acknowledge": "Ko'p ayollar familiyasini shunchaki shunday kutilgani uchun o'zgartirganini tan oladi.",
   "article": "Maqolada o'z familiyasini saqlab qolishga qaror qilgan bir nechta ayolning so'zlari keltirilgan.",
   "barrel": "Qo'sh familiyalar bolalar keyinchalik turmush qurib, familiyalarni yana birlashtirganda juda uzun bo'lib ketishi mumkin.",
@@ -132,7 +127,6 @@ VOCAB_TR_STORE('1', '0177', {
  },
  "C2": {
   "France": "Fransiyaning yondashuvi tug'ilgandagi ismni nikoh o'zgartiradigan narsa emas, balki doimiy huquqiy shaxs sifatida ko'radi.",
-  "Rachel": "Rachelning hikoyasi zamonaviy nikohdagi an'ana va shaxsiy o'zlik o'rtasidagi ziddiyatni ko'rsatib beradi.",
   "acknowledge": "Birlashtirilgan familiyani tanlash ikkala sherikning merosini teng asosda e'tirof etish usulidir.",
   "article": "Maqola familiyani o'zgartirish tanlovmi yoki kutilgan majburiyatmi, degan qizg'in bahsga sabab bo'ldi.",
   "barrel": "Bir paytlar yuqori tabaqa belgisi sifatida ko'rilgan qo'sh familiya zamonaviy juftliklar uchun amaliy murosaga aylandi.",
@@ -158,7 +152,6 @@ VOCAB_TR_STORE('1', '0177', {
  },
  "EX": {
   "France": "Fransiyada ayolning tug'ilgandagi familiyasi uning rasmiy familiyasi bo'lib qoladi.",
-  "Rachel": "Reychel turmushga chiqqanida o'z familiyasini saqlab qoldi.",
   "acknowledge": "Ikkala familiyani saqlab qolish ikkala oilani ham e'tirof etish demakdir.",
   "article": "Men familiyasini saqlab qolayotgan ayollar haqida maqola o'qidim.",
   "barrel": "Ular ikkalasining ismini o'z ichiga olgan qo'sh familiyani tanlashdi.",

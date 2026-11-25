@@ -1,7 +1,6 @@
 // Part 1 topic 0459: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0459', {
  "A1": {
-  "Jason": "Jeyson mening do'stim.",
   "disconnect": "Ular telefonni uzib qo'yishdi.",
   "estate": "Biz mavzeda yashaymiz.",
   "housing estate": "Men turar joy massivida yashayman.",
@@ -15,7 +14,6 @@ VOCAB_TR_STORE('1', '0459', {
   "strain": "Men zo'riqishni his qilyapman."
  },
  "A2": {
-  "Jason": "Jeysonning qarzi ko'p.",
   "disconnect": "Suvni o'chirib qo'ymang.",
   "estate": "Mavzeda ko'plab uylar bor.",
   "housing estate": "Turar joy massivi katta.",
@@ -29,7 +27,6 @@ VOCAB_TR_STORE('1', '0459', {
   "strain": "Pul muammolari zo'riqishga sabab bo'ladi."
  },
  "B1": {
-  "Jason": "Jeyson bankdan qarz oldi.",
   "disconnect": "Kompaniya gazimizni uzib qo'ydi.",
   "estate": "Mavzemizda do'kon bor.",
   "housing estate": "Turar joy massivida ko'plab oilalar yashaydi.",
@@ -43,7 +40,6 @@ VOCAB_TR_STORE('1', '0459', {
   "strain": "Qarz oilaga og'ir yuk bo'ladi."
  },
  "B2": {
-  "Jason": "Jason har oy overdraftdan foydalanishini aytdi.",
   "disconnect": "Hisoblarini to'lamagan oilalar elektr va suvdan uzib qo'yilishi mumkin.",
   "estate": "Yangi turar-joy massivi o'n yil oldin qurilgan.",
   "housing estate": "Turar-joy massividagi ko'plab odamlar qarz bilan bog'liq qiyinchiliklarga duch kelishmoqda.",
@@ -57,7 +53,6 @@ VOCAB_TR_STORE('1', '0459', {
   "strain": "Qarzdorlik tufayli chekkan ruhiy zo'riqish uni kasal qilib qo'ydi."
  },
  "C1": {
-  "Jason": "Jeyson foizlar qanchalik tez yig'ilib borishini anglamaganini tan oldi.",
   "disconnect": "Elektr ta'minotidan uzib qo'yilish qarzning qo'rqinchli oqibatidir.",
   "estate": "Massiv aholisi pul muammolarida bir-biriga yordam berish uchun guruh tuzishdi.",
   "housing estate": "Bu turar-joy massivida ishsizlik darajasi yuqori.",
@@ -71,7 +66,6 @@ VOCAB_TR_STORE('1', '0459', {
   "strain": "Moliyaviy tanglik er-xotin o'rtasidagi janjallarning eng ko'p uchraydigan sabablaridan biri."
  },
  "C2": {
-  "Jason": "Jeysonning hikoyasi kichik qarzlar qanchalik oson inqirozga aylanib ketishini ko'rsatadi.",
   "disconnect": "Tartibga soluvchilar energetika kompaniyalari himoyaga muhtoj iste'molchilarni qachon tarmoqdan uzishi mumkinligini cheklab qo'ydi.",
   "estate": "Mavzedagi hayot past maoshlar va arzon kreditdan cheklangan foydalanish imkoniyati bilan belgilanardi.",
   "housing estate": "Qarz bo'yicha maslahat beruvchi xayriya tashkilotlari ko'pincha qashshoq turar-joy mavzelari aholisi bilan bevosita ishlaydi.",
@@ -85,7 +79,6 @@ VOCAB_TR_STORE('1', '0459', {
   "strain": "Surunkali qarzdorlikning ruhiy zo'riqishi ko'pincha siyosatchilar tomonidan yetarlicha baholanmaydi."
  },
  "EX": {
-  "Jason": "Jeyson qarzlari qanday qilib nazoratdan chiqib ketganini tushuntirdi.",
   "disconnect": "Agar to'lamasangiz, elektr tokingizni uzib qo'yishadi.",
   "estate": "Ular munitsipal turar joy mavzesida yashaydi.",
   "housing estate": "U Angliya shimolidagi turar joy mavzesida o'sgan.",

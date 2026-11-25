@@ -1,7 +1,6 @@
 // Part 1 topic 0014: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0014', {
  "A1": {
-  "Simon": "Bu Simon.",
   "appear": "Quyosh chiqadi.",
   "array": "Ranglarning keng tanlovi bor.",
   "art form": "Bu san'at turi.",
@@ -72,7 +71,6 @@ VOCAB_TR_STORE('1', '0014', {
   "yet": "Hali emas."
  },
  "A2": {
-  "Simon": "Simon shriftlarni yaxshi ko'radi.",
   "appear": "U xursand ko'rinadi.",
   "array": "Men turli-tuman kitoblarni ko'ryapman.",
   "art form": "Yozuv san'at turidir.",
@@ -143,7 +141,6 @@ VOCAB_TR_STORE('1', '0014', {
   "yet": "U allaqachon keldimi?"
  },
  "B1": {
-  "Simon": "Simon husnixat haqida gapirdi.",
   "appear": "So'zlar ekranda paydo bo'ladi.",
   "array": "Kompyuterimda juda ko'p turdagi shriftlar bor.",
   "art form": "Xattotlik go'zal san'at turidir.",
@@ -214,7 +211,6 @@ VOCAB_TR_STORE('1', '0014', {
   "yet": "Men hali shrift tanlamadim."
  },
  "B2": {
-  "Simon": "Simon nega kompaniyalar shriftlarga bunchalik ahamiyat berishini tushuntirdi.",
   "appear": "Har yili internetda yangi qo'lyozma shriftlari paydo bo'ladi.",
   "array": "Do'konda ruchka va qog'ozlarning keng assortimenti sotiladi.",
   "art form": "Ba'zi odamlar qo'lda yozishni yo'qolib borayotgan san'at turi deb bilishadi.",
@@ -285,7 +281,6 @@ VOCAB_TR_STORE('1', '0014', {
   "yet": "Hali hech bir kompyuter shrifti haqiqiy qo'lyozmani mukammal takrorlay olmagan."
  },
  "C1": {
-  "Simon": "Saymon dizaynerlar qo'lyozmaning minglab namunalarini qanday to'plaganini aytib berdi.",
   "appear": "Matn qo'lda yozilganga o'xshaydi, ammo u terilgan.",
   "array": "Endilikda dizaynerlar ixtiyorida ko'zni qamashtiradigan darajada xilma-xil shriftlar bor.",
   "art form": "Tipografiya o'z-o'zicha hurmatga sazovor san'at turiga aylandi.",
@@ -356,7 +351,6 @@ VOCAB_TR_STORE('1', '0014', {
   "yet": "U oddiy, shunga qaramay kutilmaganda nafis."
  },
  "C2": {
-  "Simon": "Simonning hikoyasi tipografiyaning tijorat dunyosiga oid ko'p narsani ochib berdi.",
   "appear": "Shrift shunday yaratilganki, hech bir ikki harf aynan bir xil ko'rinmaydi.",
   "array": "Bunday xilma-xil imkoniyatlar oldida ko'plab foydalanuvchilar standart shriftdan nariga o'tmaydi.",
   "art form": "Xattotlik mashinaning samaradorligiga bo'ysunmagani uchun ham san'at turi sifatida saqlanib qolmoqda.",
@@ -427,7 +421,6 @@ VOCAB_TR_STORE('1', '0014', {
   "yet": "Qo'lyozmaning mukammal raqamli taqlidiga hali erishilgani yo'q."
  },
  "EX": {
-  "Simon": "Saymon yangi shrift qanday yaratilganini tushuntirdi.",
   "appear": "Har yili yangi shriftlar paydo bo'ladi.",
   "array": "Tanlash uchun juda ko'p turli shriftlar mavjud.",
   "art form": "Xattotlik qadimiy san'at turidir.",

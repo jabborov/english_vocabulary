@@ -1,7 +1,6 @@
 // Part 1 topic 0032: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0032', {
  "A1": {
-  "Rob": "Rob boshlovchi.",
   "USA": "Men AQShda yashayman.",
   "air pollution": "Havoning ifloslanishi yomon.",
   "alleviate": "Bu og'riqni yengillashtiradi.",
@@ -64,7 +63,6 @@ VOCAB_TR_STORE('1', '0032', {
   "trap": "Quti mushukni tutib qoladi."
  },
  "A2": {
-  "Rob": "Rob iqlim haqida gapiradi.",
   "USA": "AQSh katta davlat.",
   "air pollution": "Mashinalar havoning ifloslanishiga sabab bo'ladi.",
   "alleviate": "Dori og'riqni yengillashtirishi mumkin.",
@@ -127,7 +125,6 @@ VOCAB_TR_STORE('1', '0032', {
   "trap": "Ular sichqonni qopqonga tushirishdi."
  },
  "B1": {
-  "Rob": "Rob qaysi davlat eng ko'p karbonat angidrid chiqarishini so'radi.",
   "USA": "AQSh va Xitoy iqlim masalasini muhokama qilish uchun uchrashishdi.",
   "air pollution": "Havo ifloslanishi odamlarni kasal qilishi mumkin.",
   "alleviate": "Yangi siyosat qashshoqlikni yumshatishga qaratilgan.",
@@ -190,7 +187,6 @@ VOCAB_TR_STORE('1', '0032', {
   "trap": "Issiqxona gazlari issiqlikni Yer yaqinida tutib qoladi."
  },
  "B2": {
-  "Rob": "Rob AQSh va Xitoy o'rtasidagi hamkorlik nima uchun bunchalik muhimligini tushuntirdi.",
   "USA": "AQSh 2021-yilda Parij kelishuviga qayta qo'shildi.",
   "air pollution": "So'nggi yillarda Pekin havo ifloslanishini kamaytirish uchun ko'p harakat qildi.",
   "alleviate": "Arzon energiya millionlab odamlar uchun qashshoqlikni yengillashtirishga yordam berdi.",
@@ -253,7 +249,6 @@ VOCAB_TR_STORE('1', '0032', {
   "trap": "Qisqa muddat ichida metan karbonat angidridga qaraganda ancha ko'p issiqlikni ushlab qoladi."
  },
  "C1": {
-  "Rob": "Rob Xitoy ham eng katta ifloslantiruvchi, ham yashil energetikada yetakchi ekanidagi paradoksni ta'kidladi.",
   "USA": "AQShning iqlim borasidagi harakatlarga sodiqligi har bir ma'muriyat almashganda o'zgarib turgan.",
   "air pollution": "Hisob-kitoblarga ko'ra, havoning ifloslanishi har yili millionlab bevaqt o'limlarga sabab bo'ladi.",
   "alleviate": "Qashshoqlikni yengillashtiruvchi siyosat chiqindilarni kamaytirish zarurati bilan uyg'unlashtirilishi kerak.",
@@ -316,7 +311,6 @@ VOCAB_TR_STORE('1', '0032', {
   "trap": "Daraxtlar va tuproq uglerodni ushlab qolib, iqlim o'zgarishini sekinlashtirishga yordam beradi."
  },
  "C2": {
-  "Rob": "Rob muhokamani ikki raqib qudratli davlat sayyora uchun o'z kelishmovchiliklarini chetga surib qo'ya oladimi, degan savol atrofida qurdi.",
   "USA": "AQShning iqlim bo'yicha yetakchi sifatidagi ishonchliligi uning siyosatini qayta-qayta o'zgartirishi tufayli putur yetdi.",
   "air pollution": "Havo ifloslanishidan jamoatchilikning g'azabi, g'alati bo'lsa-da, Xitoyning yashil siyosatini harakatga keltiruvchi eng kuchli omillardan biriga aylandi.",
   "alleviate": "Kamdan-kam hukumatlar uzoq kelajakdagi iqlim maqsadlari uchun qashshoqlikni yumshatish sa'y-harakatlarini qurbon qiladi.",
@@ -379,7 +373,6 @@ VOCAB_TR_STORE('1', '0032', {
   "trap": "Uglerodni manbaning o'zida ushlab qolishga mo'ljallangan texnologiyalar hamon qimmat va keng miqyosda deyarli sinovdan o'tmagan."
  },
  "EX": {
-  "Rob": "Rob dastur boshida uglerod chiqindilari haqida savol berdi.",
   "USA": "AQSh dunyoda karbonat angidrid chiqarish bo'yicha ikkinchi o'rinda turadi.",
   "air pollution": "Havoning ifloslanishi Xitoyning ko'plab shaharlarida jiddiy muammo.",
   "alleviate": "Iqtisodiy o'sish Xitoyda qashshoqlikni yumshatishga yordam berdi.",

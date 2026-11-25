@@ -1,7 +1,6 @@
 // Part 1 topic 0225: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0225', {
  "A1": {
-  "Benjamin": "Uning ismi Benjamin.",
   "card game": "Keling, karta o'ynaymiz.",
   "granny": "Men buvimni yaxshi ko'raman.",
   "irritated": "Men asabiylashdim.",
@@ -16,7 +15,6 @@ VOCAB_TR_STORE('1', '0225', {
   "social group": "Bu mening ijtimoiy guruhim."
  },
  "A2": {
-  "Benjamin": "Benjamin o'qituvchi.",
   "card game": "Poker karta o'yinidir.",
   "granny": "Buvim tort pishiradi.",
   "irritated": "U asabiylashgan ko'rinardi.",
@@ -31,7 +29,6 @@ VOCAB_TR_STORE('1', '0225', {
   "social group": "Biz bir ijtimoiy guruhdamiz."
  },
  "B1": {
-  "Benjamin": "Benjamin bizga o'z tadqiqoti haqida gapirib berdi.",
   "card game": "Kechki ovqatdan keyin karta o'ynadik.",
   "granny": "Biz yakshanba kunlari buvimnikiga boramiz.",
   "irritated": "Shovqin uning jig'iga tegdi.",
@@ -46,7 +43,6 @@ VOCAB_TR_STORE('1', '0225', {
   "social group": "Har bir ijtimoiy guruhning o'z qoidalari bor."
  },
  "B2": {
-  "Benjamin": "Benjamin odamlar nega mayda yolg'onlar gapirishini tushuntirib beradi.",
   "card game": "Odamlar ba'zan hech kim qaramayotganda karta o'yinida aldashadi.",
   "granny": "Ko'p odamlar buvisiga hech qachon yolg'on gapirmagan bo'lardi.",
   "irritated": "Boshqalar o'zini xudbinlarcha tutganda odamlarning g'ashi keladi.",
@@ -61,7 +57,6 @@ VOCAB_TR_STORE('1', '0225', {
   "social group": "Insofsiz odamlar o'z ijtimoiy guruhidan chetlatilishi mumkin."
  },
  "C1": {
-  "Benjamin": "Ko'rsatuvda Benjamin karta o'yini bilan o'tkazilgan tajribani tasvirlab beradi.",
   "card game": "Tajribada nohalollikni o'lchash uchun oddiy karta o'yinidan foydalanildi.",
   "granny": "Buvim halollik eng to'g'ri yo'l, deydi.",
   "irritated": "U hamkasbi yolg'on gapirganini bilib, jahli chiqdi.",
@@ -76,7 +71,6 @@ VOCAB_TR_STORE('1', '0225', {
   "social group": "Halolligimiz biz mansub bo'lgan ijtimoiy guruh me'yorlari ta'sirida shakllanadi."
  },
  "C2": {
-  "Benjamin": "Benjaminning xulosalariga ko'ra, ko'pchilik odamlar biroz aldaydi, ammo faqat ozchilik ko'p aldaydi.",
   "card game": "Karta o'yini kichik aldovlarni aniq qayd etish mumkin bo'lgan nazorat ostidagi muhitni ta'minlaydi.",
   "granny": "Ishda haqiqatni biroz buzadiganlar ham buvisiga yolg'on gapirganda ko'pincha o'zini aybdor his qiladi.",
   "irritated": "Biz o'zimizdagidan ko'ra boshqalardagi kichik nohalolliklardan ko'proq g'ashimiz keladi.",
@@ -91,7 +85,6 @@ VOCAB_TR_STORE('1', '0225', {
   "social group": "Ijtimoiy guruh ichidagi mavqeni yo'qotish qo'rquvi halol xatti-harakatning kuchli sababidir."
  },
  "EX": {
-  "Benjamin": "Benjamin halollik haqidagi bir tadqiqot haqida gapirib beradi.",
   "card game": "Tadqiqotchilar odamlar qanchalik tez-tez aldashini bilish uchun karta o'yinidan foydalanishdi.",
   "granny": "Buvim menga hech qachon yolg'on gapirmaslikni uqtirardi.",
   "irritated": "Kimdir mashina qo'yadigan joyini egallab olganida, uning jahli chiqdi.",

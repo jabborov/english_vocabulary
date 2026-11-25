@@ -1,7 +1,6 @@
 // Part 1 topic 0205: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0205', {
  "A1": {
-  "Victoria": "Victoria o'qituvchi.",
   "bilingual": "U ikki tilni biladi.",
   "cognitive neuroscientist": "U kognitiv neyrobiolog.",
   "first language": "Mening ona tilim o'zbek tili.",
@@ -15,7 +14,6 @@ VOCAB_TR_STORE('1', '0205', {
   "weekday": "Dushanba ish kuni."
  },
  "A2": {
-  "Victoria": "Victoria fransuzcha gapiradi.",
   "bilingual": "Siz ikki tilni bilasizmi?",
   "cognitive neuroscientist": "Kognitiv neyrobiolog miyani o'rganadi.",
   "first language": "Ona tilingiz qaysi?",
@@ -29,7 +27,6 @@ VOCAB_TR_STORE('1', '0205', {
   "weekday": "Men ish kunlari ishlayman."
  },
  "B1": {
-  "Victoria": "Victoria ispan tilini maktabda o'rgangan.",
   "bilingual": "U ikki tilli oilada ulg'aygan.",
   "cognitive neuroscientist": "Dasturda kognitiv neyrobiolog so'zga chiqdi.",
   "first language": "Ingliz tili uning ona tili emas.",
@@ -43,7 +40,6 @@ VOCAB_TR_STORE('1', '0205', {
   "weekday": "Do'kon ish kunlari ochiq."
  },
  "B2": {
-  "Victoria": "Viktoriya har kuni yangi so'zlar o'rganishini aytdi.",
   "bilingual": "Ikki tilli bolalar ko'pincha tillar o'rtasida osongina o'tishadi.",
   "cognitive neuroscientist": "Kognitiv nevrolog miya bir nechta tilni qanday boshqarishini tushuntirib berdi.",
   "first language": "Bolalar o'z ona tilini hech qanday darssiz o'rganishadi.",
@@ -57,7 +53,6 @@ VOCAB_TR_STORE('1', '0205', {
   "weekday": "U ish kunlarining har birida boshqa tilni mashq qiladi."
  },
  "C1": {
-  "Victoria": "Viktoriya barcha tillarini qanday faol saqlab turishini tushuntirib berdi.",
   "bilingual": "Ba'zi tadqiqotlarga ko'ra, ikki tilli odamlar bir vaqtda bir nechta ishni bajarishga ustaroq.",
   "cognitive neuroscientist": "Kognitiv neyrobiologlar nutq paytida miyaning qaysi qismlari faol ekanini ko'rish uchun miya skanerlaridan foydalanishadi.",
   "first language": "Ikkinchi tilni o'rganish ona tilini o'zlashtirishdan juda farq qiladi.",
@@ -71,7 +66,6 @@ VOCAB_TR_STORE('1', '0205', {
   "weekday": "Ish kunlari u ishga ketayotib frantsuz tilidagi podkastlarni tinglaydi."
  },
  "C2": {
-  "Victoria": "Viktoriyaning fikricha, til o'rganishning kaliti muntazam va mazmunli amaliyotdir.",
   "bilingual": "Ikki tilli bo'lish demensiya boshlanishini kechiktirishi mumkin, garchi dalillar hamon munozarali bo'lsa ham.",
   "cognitive neuroscientist": "Kognitiv neyrobiolog sifatida u ko'p tilli miyalar raqobatlashuvchi lug'at boyliklarini qanday boshqarishini tadqiq qiladi.",
   "first language": "Ona tilimizni o'zlashtirish usulimiz keyinchalik boshqa tillarni o'rganishga yondashuvimizni shakllantiradi.",
@@ -85,7 +79,6 @@ VOCAB_TR_STORE('1', '0205', {
   "weekday": "Har bir ish kunida yigirma daqiqa ajratib, u holdan toymasdan barqaror o'sishga erishdi."
  },
  "EX": {
-  "Victoria": "Viktoriya beshta tilda gapiradi.",
   "bilingual": "Ularning farzandlari ingliz va fransuz tillarida bemalol gapiradi.",
   "cognitive neuroscientist": "Kognitiv neyrobiolog miyamiz tillarni qanday o'rganishini tadqiq qiladi.",
   "first language": "Uning ona tili o'zbek tili, lekin u ingliz va rus tillarida ham gapiradi.",

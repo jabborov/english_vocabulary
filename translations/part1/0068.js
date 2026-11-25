@@ -1,9 +1,7 @@
 // Part 1 topic 0068: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0068', {
  "A1": {
-  "Mike": "Mayk mening do'stim.",
   "Mozart": "Men Motsartni yaxshi ko'raman.",
-  "Rebecca": "Rebekka olima.",
   "also known as": "Bob, boshqacha aytganda Robert.",
   "art teacher": "Mening rasm o'qituvchim yoqimli.",
   "artistic": "U juda san'atkor tabiatli.",
@@ -39,9 +37,7 @@ VOCAB_TR_STORE('1', '0068', {
   "third": "U uchinchi bo'ldi."
  },
  "A2": {
-  "Mike": "Mayk rasm chizishni yaxshi ko'radi.",
   "Mozart": "Motsart bastakor bo'lgan.",
-  "Rebecca": "Rebekka san'atni yaxshi ko'radi.",
   "also known as": "London, boshqacha nomi bilan \"Katta Tutun\".",
   "art teacher": "U tasviriy san'at o'qituvchisi.",
   "artistic": "Uning badiiy qobiliyatlari bor.",
@@ -77,9 +73,7 @@ VOCAB_TR_STORE('1', '0068', {
   "third": "Men tortning uchdan bir qismini yedim."
  },
  "B1": {
-  "Mike": "Mike yuzlarni juda yaxshi chizadi.",
   "Mozart": "Motsart kichkinaligidayoq musiqa yozgan.",
-  "Rebecca": "Rebecca ko'zlarimiz qanday harakatlanishini tushuntirdi.",
   "also known as": "Sakkadalar deb ham ataladigan tezkor ko'z harakatlari juda qisqa davom etadi.",
   "art teacher": "Tasviriy san'at o'qituvchisi bizga qanday chizishni ko'rsatdi.",
   "artistic": "Uning badiiy iste'dodi yoshligidayoq namoyon bo'ldi.",
@@ -115,9 +109,7 @@ VOCAB_TR_STORE('1', '0068', {
   "third": "Sinfning uchdan bir qismi yaxshi rasm chiza oladi."
  },
  "B2": {
-  "Mike": "Mike odamlarni chizishdan oldin ularga qanday qarashini tushuntirdi.",
   "Mozart": "Motsart ko'pincha vunderkind bolaga misol sifatida keltiriladi.",
-  "Rebecca": "Rebeccaning tadqiqoti rassomlarni rassom bo'lmaganlar bilan taqqoslaydi.",
   "also known as": "Vunderkind bola, ya'ni iqtidorli bola, iste'dodini juda erta namoyon qiladi.",
   "art teacher": "Yaxshi tasviriy san'at o'qituvchisi dunyoni boshqacha ko'rishingizga yordam berishi mumkin.",
   "artistic": "Olimlar ijodkor odamlar dunyoni boshqacha ko'radimi yoki yo'qligini bilishni istashadi.",
@@ -153,9 +145,7 @@ VOCAB_TR_STORE('1', '0068', {
   "third": "Tadqiqot ishtirokchilarining taxminan uchdan bir qismi tajribali rassomlar edi."
  },
  "C1": {
-  "Mike": "Mike mahorati yillar davomidagi mashqlar natijasi deb hisoblaydi.",
   "Mozart": "Mozartning otasi o'g'lining iste'dodini rivojlantirishda muhim rol o'ynagan.",
-  "Rebecca": "Rebecca rassomlar tasvirning boshqa qismlariga e'tibor qaratishini aniqladi.",
   "also known as": "Fuziform yuz sohasi, FFA nomi bilan ham tanilgan, yuzlarni qayta ishlaydi.",
   "art teacher": "Uning rasm o'qituvchisi uni bilganini emas, ko'rganini chizishga undagan.",
   "artistic": "Badiiy qobiliyat qisman miyaning vizual ma'lumotni qanday qayta ishlashiga bog'liq bo'lishi mumkin.",
@@ -191,9 +181,7 @@ VOCAB_TR_STORE('1', '0068', {
   "third": "Uchinchi tajriba avvalgi natijalarni tasdiqladi."
  },
  "C2": {
-  "Mike": "Mikening yuzlarni qanday kuzatishi haqidagi hikoyasi tadqiqotchilarning xulosalariga mos keldi.",
   "Mozart": "Motsart vunderkindning timsoli bo'lib qolmoqda, garchi uning erta ta'limi jadal va tinimsiz bo'lgan bo'lsa ham.",
-  "Rebecca": "Rebeccaning tadqiqotlari badiiy idrok mashq qilish mumkin bo'lgan ko'nikma ekanini ko'rsatadi.",
   "also known as": "Idrok deb ham ataladigan vizual qayta ishlash biz o'ylaganimizdan ancha kam passivdir.",
   "art teacher": "Ilhomlantiruvchi tasviriy san'at o'qituvchisi aks holda yashirin qolib ketishi mumkin bo'lgan iste'dodni ochib berishi mumkin.",
   "artistic": "Badiiy iste'dod tug'mami yoki rivojlantiriladimi degan savol psixologiyaning azaliy savollaridan biri bo'lib qolmoqda.",
@@ -229,9 +217,7 @@ VOCAB_TR_STORE('1', '0068', {
   "third": "Qobiliyatdagi farqlarning taxminan uchdan biri faqat mashq bilan izohlanadigandek tuyuldi."
  },
  "EX": {
-  "Mike": "Mike tadqiqotda ishtirok etgan rassom.",
   "Mozart": "Motsart o'zining ilk musiqasini atigi besh yoshida yozgan.",
-  "Rebecca": "Rebecca rassomlarning dunyoga qanday qarashini o'rganadi.",
   "also known as": "Ko'zning tezkor sakrashlari, ya'ni sakkadalar, juda tez sodir bo'ladi.",
   "art teacher": "Rasm o'qituvchim menga diqqat bilan qarashni maslahat berdi.",
   "artistic": "Ijodkor odamlarning miyasi boshqalarnikidan farq qiladimi?",

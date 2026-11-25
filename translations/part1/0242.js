@@ -1,7 +1,6 @@
 // Part 1 topic 0242: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0242', {
  "A1": {
-  "Graham": "Graham mening do'stim.",
   "additive": "Bu ovqatda qo'shimchalar bor.",
   "banger": "Men sosiskalarni juda yaxshi ko'raman.",
   "barbecue": "Biz barbekyu qildik.",
@@ -18,7 +17,6 @@ VOCAB_TR_STORE('1', '0242', {
   "veggie": "Men vegetarian taomni yaxshi ko'raman."
  },
  "A2": {
-  "Graham": "Graham ovqatni yaxshi ko'radi.",
   "additive": "Men qo'shimchalardan qochaman.",
   "banger": "Kechki ovqatga sosiska yedik.",
   "barbecue": "Dadam barbekyuda ovqat pishiradi.",
@@ -35,7 +33,6 @@ VOCAB_TR_STORE('1', '0242', {
   "veggie": "U vegetarian."
  },
  "B1": {
-  "Graham": "Graham vegetarian kolbasani tatib ko'rdi.",
   "additive": "Qo'shimchalar oziq-ovqatni uzoqroq saqlaydi.",
   "banger": "Kolbasa va kartoshka pyuresi mazali.",
   "barbecue": "Barbekyu maroqli o'tdi.",
@@ -52,7 +49,6 @@ VOCAB_TR_STORE('1', '0242', {
   "veggie": "Bu vegetarian pitsa."
  },
  "B2": {
-  "Graham": "Grem o'simlik asosidagi go'sht tarkibida aslida nima borligini tushuntirib berdi.",
   "additive": "Ba'zi go'sht o'rnini bosuvchi mahsulotlarda uzun-uzun qo'shimchalar ro'yxati bor.",
   "banger": "Endi aksariyat Britaniya supermarketlarida vegan kolbasalar sotib olish mumkin.",
   "barbecue": "O'simlik asosidagi burgerlar yozgi barbekyularda ommalashib bormoqda.",
@@ -69,7 +65,6 @@ VOCAB_TR_STORE('1', '0242', {
   "veggie": "Vegetarian kolbasalar endi aksariyat supermarketlarda sotiladi."
  },
  "C1": {
-  "Graham": "Grem ba'zi go'sht o'rnini bosuvchi mahsulotlarda qo'shimchalar ko'p ekanini ta'kidladi.",
   "additive": "Oziq-ovqat qo'shimchalari ta'm, rang yoki tuzilishni yaxshilash uchun ishlatiladi.",
   "banger": "Ular \"banger\" deb ataladi, chunki pishirilganda ba'zan gursillab yorilib ketadi.",
   "barbecue": "Ular barcha qo'shnilarni bog'dagi barbekyuga taklif qilishdi.",
@@ -86,7 +81,6 @@ VOCAB_TR_STORE('1', '0242', {
   "veggie": "Kamroq go'sht iste'mol qilish uchun ko'proq odamlar vegetarian taomlarni tanlashmoqda."
  },
  "C2": {
-  "Graham": "Grahamning fikricha, oziq-ovqatni yorliqlariga qarab emas, tarkibiga qarab baholash kerak.",
   "additive": "Tanqidchilarning ta'kidlashicha, ba'zi o'simlik asosidagi mahsulotlardagi qo'shimchalar soni ularning sog'lom obro'siga putur yetkazadi.",
   "banger": "Oddiy britan kolbasasi ko'p marta qayta ixtiro qilingan, eng so'nggisi o'simlik asosidagi shaklda.",
   "barbecue": "Bir paytlar go'shtxo'rlik ibodatxonasi bo'lgan barbekyu tobora o'simlik asosidagi muqobillar bilan baham ko'rilmoqda.",
@@ -103,7 +97,6 @@ VOCAB_TR_STORE('1', '0242', {
   "veggie": "Har qanday vegetarian mahsulot o'zi o'rnini bosayotgan go'shtdan avtomatik ravishda foydaliroq emas."
  },
  "EX": {
-  "Graham": "Greyem o'simlik asosidagi kolbasalarning ta'mi kutilmaganda yaxshi deb hisoblaydi.",
   "additive": "O'simlik asosidagi ba'zi oziq-ovqatlarda ko'plab qo'shimchalar bor.",
   "banger": "Kartoshka pyuresi bilan kolbasa — klassik Britaniya taomi.",
   "barbecue": "Barbekyu paytida vegetarian kolbasalar yedik.",

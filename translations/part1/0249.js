@@ -2,7 +2,6 @@
 VOCAB_TR_STORE('1', '0249', {
  "A1": {
   "Korea": "Men Koreyaga borishni xohlayman.",
-  "Liza": "Liza mening dugonam.",
   "bow down": "Ular ta'zim qilishadi.",
   "dictate": "Buni qoidalar talab qiladi.",
   "disrespectful": "Bu hurmatsizlik.",
@@ -18,7 +17,6 @@ VOCAB_TR_STORE('1', '0249', {
  },
  "A2": {
   "Korea": "Koreya Osiyoda joylashgan.",
-  "Liza": "Liza kechirim so'radi.",
   "bow down": "Qirol oldida ta'zim qiling.",
   "dictate": "Menga buyruq berma.",
   "disrespectful": "Hurmatsizlik qilmang.",
@@ -34,7 +32,6 @@ VOCAB_TR_STORE('1', '0249', {
  },
  "B1": {
   "Korea": "U Koreyada yashaydi.",
-  "Liza": "Liza Koreyadan.",
   "bow down": "U ta'zim qilib egildi.",
   "dictate": "Ob-havo rejalarimizni belgilaydi.",
   "disrespectful": "U hurmatsizlik qildi.",
@@ -50,7 +47,6 @@ VOCAB_TR_STORE('1', '0249', {
  },
  "B2": {
   "Korea": "Koreyada odamlar uzr so'raganda ko'pincha ta'zim qilishadi.",
-  "Liza": "Liza turli madaniyatlarda uzr so'rash qanday amalga oshishini tasvirlab berdi.",
   "bow down": "Yaponiyada odamlar juda afsusda ekanliklarini ko'rsatish uchun past egilib ta'zim qilishadi.",
   "dictate": "Qanday kechirim so'rashingizni ko'pincha madaniyatingiz belgilaydi.",
   "disrespectful": "Ba'zi madaniyatlarda oddiygina uzr so'rash hurmatsizlik deb qaraladi.",
@@ -66,7 +62,6 @@ VOCAB_TR_STORE('1', '0249', {
  },
  "C1": {
   "Korea": "Koreya taomlari butun dunyoda mashhur.",
-  "Liza": "Lizaning aytishicha, oddiy \"kechirasiz\" har doim ham yetarli emas.",
   "bow down": "Xizmatkorlar qirolicha oldida ta'zim qilishdi.",
   "dictate": "Ta'tilda qayerga borishimizni byudjetimiz belgilaydi.",
   "disrespectful": "Marosim paytida gaplashish hurmatsizlikdir.",
@@ -82,7 +77,6 @@ VOCAB_TR_STORE('1', '0249', {
  },
  "C2": {
   "Korea": "Koreyada uzr so'rash yosh va ijtimoiy ierarxiyaga qarab shakllanadi.",
-  "Liza": "Lizaning fikricha, qanday uzr so'rashimiz madaniyatimiz haqida ko'p narsani ochib beradi.",
   "bow down": "Yaponiyada qanchalik chuqur ta'zim qilsangiz, uzr shunchalik samimiy hisoblanadi.",
   "dictate": "Ijtimoiy odatlar nafaqat uzr so'rashimiz kerakmi yoki yo'qligini, balki qanchalik chuqur so'rashimizni ham belgilaydi.",
   "disrespectful": "Yaponiyada uzr so'raganda yetarlicha egilmaslik hurmatsizlik deb qabul qilinishi mumkin.",
@@ -98,7 +92,6 @@ VOCAB_TR_STORE('1', '0249', {
  },
  "EX": {
   "Korea": "Koreyada qanday uzr so'rashingiz kim bilan gaplashayotganingizga bog'liq.",
-  "Liza": "Liza o'z mamlakatida odamlar qanday uzr so'rashini tushuntirdi.",
   "bow down": "Yaponiyada odamlar uzr so'rash uchun egilib ta'zim qilishadi.",
   "dictate": "Qanday uzr so'rashimizni madaniyat belgilaydi.",
   "disrespectful": "To'g'ri uzr so'ramaslik hurmatsizlik bo'lib tuyulishi mumkin.",

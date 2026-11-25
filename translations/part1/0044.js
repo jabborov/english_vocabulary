@@ -1,7 +1,6 @@
 // Part 1 topic 0044: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0044', {
  "A1": {
-  "Karen": "Karen ranglarni yaxshi ko'radi.",
   "blue": "Menga ko'k rang yoqadi.",
   "bright": "Bugun yorug' kun.",
   "bring in": "Stullarni olib kiring.",
@@ -49,7 +48,6 @@ VOCAB_TR_STORE('1', '0044', {
   "yellow": "Menga sariq rang yoqadi."
  },
  "A2": {
-  "Karen": "Karen mutaxassis.",
   "blue": "Osmon moviy.",
   "bright": "Menga yorqin ranglar yoqadi.",
   "bring in": "Ular yangi qoidalar joriy qilishdi.",
@@ -97,7 +95,6 @@ VOCAB_TR_STORE('1', '0044', {
   "yellow": "Quyosh sariq."
  },
  "B1": {
-  "Karen": "Karen rang va kayfiyat haqida gapiradi.",
   "blue": "Ko'k – mening eng sevimli rangim.",
   "bright": "U xonani yorqin sariq rangga bo'yadi.",
   "bring in": "Gullar yordamida xonaga biroz rang olib kiring.",
@@ -145,7 +142,6 @@ VOCAB_TR_STORE('1', '0044', {
   "yellow": "Sariq – quvonch rangi."
  },
  "B2": {
-  "Karen": "Karen rang his-tuyg'ularimizga qanday ta'sir qilishini tushuntiradi.",
   "blue": "Ko'p odamlar yotoqxonasini ko'k rangga bo'yashadi.",
   "bright": "Yorqin ranglar xonani jonliroq qilib ko'rsatishi mumkin.",
   "bring in": "Xonani yorqinroq qilish uchun ozgina sariq rang qo'shib ko'ring.",
@@ -193,7 +189,6 @@ VOCAB_TR_STORE('1', '0044', {
   "yellow": "Haddan tashqari ko'p sariq rang odamni bosib qo'yishi mumkin."
  },
  "C1": {
-  "Karen": "Karen odamlarga uylari uchun rang tanlash bo'yicha maslahat beradi.",
   "blue": "Ko'k rang dunyodagi eng mashhur rangdir.",
   "bright": "Quyosh shunchalik charaqlab turardiki, menga quyosh ko'zoynagi kerak bo'ldi.",
   "bring in": "Kompaniya yordam berish uchun mutaxassis jalb qildi.",
@@ -241,7 +236,6 @@ VOCAB_TR_STORE('1', '0044', {
   "yellow": "U oshxonani och sariq rangga bo'yadi."
  },
  "C2": {
-  "Karen": "Karenning ta'kidlashicha, rangga bo'lgan munosabatimiz qisman biologik, qisman madaniy xususiyatga ega.",
   "blue": "Ko'k rangning osoyishtalik bilan bog'liqligi biror fiziologik ta'sirdan emas, balki osmon va dengizdan kelib chiqqan bo'lishi mumkin.",
   "bright": "Yorqin ranglar oz miqdorda quvvat bag'ishlasa-da, butun xonada qo'llanilganda haddan tashqari qo'zg'atishi mumkin.",
   "bring in": "Bir nechta puxta tanlangan aksessuarlar makonni ortiqcha to'ldirmagan holda rang olib kirishi mumkin.",
@@ -289,7 +283,6 @@ VOCAB_TR_STORE('1', '0044', {
   "yellow": "Quyosh nuri bilan bog'langan sariq rang ko'pincha quvvat bag'ishlovchi va nikbin rang deb ta'riflanadi."
  },
  "EX": {
-  "Karen": "Karenning aytishicha, rang kayfiyatimizni o'zgartirishi mumkin.",
   "blue": "Ko'k rang ko'pincha tinchlantiruvchi rang deb aytiladi.",
   "bright": "Yorqin ranglar ba'zi odamlarni xursand qiladi.",
   "bring in": "Yostiqchalar va o'simliklar yordamida xonaga rang olib kirishingiz mumkin.",

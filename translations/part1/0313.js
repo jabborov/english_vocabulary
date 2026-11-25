@@ -1,8 +1,6 @@
 // Part 1 topic 0313: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0313', {
  "A1": {
-  "Missy": "Missy mening dugonam.",
-  "Tiffany": "Tiffany o'qituvchi.",
   "automated": "Zavod avtomatlashtirilgan.",
   "cast": "Filmning aktyorlar tarkibi ajoyib.",
   "cast on": "O'nta ilmoq tering.",
@@ -22,8 +20,6 @@ VOCAB_TR_STORE('1', '0313', {
   "yawn": "Charchaganimda esnayman."
  },
  "A2": {
-  "Missy": "Bu Missy.",
-  "Tiffany": "Bu Tiffany.",
   "automated": "Bizda avtomatlashtirilgan tizim bor.",
   "cast": "U daryoga tosh otdi.",
   "cast on": "Men ilmoq terishni o'rgandim.",
@@ -43,8 +39,6 @@ VOCAB_TR_STORE('1', '0313', {
   "yawn": "U darsda esnadi."
  },
  "B1": {
-  "Missy": "Missy to'qishni yaxshi ko'radi.",
-  "Tiffany": "Tiffany zerikish haqida gapiradi.",
   "automated": "Eshiklar avtomatlashtirilgan.",
   "cast": "U soatga ko'z tashladi.",
   "cast on": "U ilmoqlarni terib, to'qishni boshladi.",
@@ -64,8 +58,6 @@ VOCAB_TR_STORE('1', '0313', {
   "yawn": "Esnamang, bu odobsizlik!"
  },
  "B2": {
-  "Missy": "Missi zerikish bilan qanday kurashishini tushuntirdi.",
-  "Tiffany": "Tiffani zerikkanimizda miyada nima sodir bo'lishini tushuntirdi.",
   "automated": "Hozir ishning katta qismini avtomatlashtirilgan mashinalar bajaradi.",
   "cast": "To'quvchilar sharf to'qishni boshlashdan oldin ilmoqlarni cho'pga teradi.",
   "cast on": "Sharf to'qishni boshlash uchun cho'pga qirqqa yaqin ilmoq tering.",
@@ -85,8 +77,6 @@ VOCAB_TR_STORE('1', '0313', {
   "yawn": "Nutq paytida u esnashini yashirishga urindi."
  },
  "C1": {
-  "Missy": "Missining aytishicha, to'qish unga xotirjam bo'lishga yordam beradi.",
-  "Tiffany": "Tiffanining fikricha, zerikish bizni yangi narsalarni sinab ko'rishga undashi mumkin.",
   "automated": "Avtomatlashtirilgan ishlarda odamlar ko'pincha shunchaki tizimlarni nosozliklar uchun kuzatib turishadi.",
   "cast": "Spektaklda bor-yo'g'i uchta aktyor ishtirok etadi.",
   "cast on": "Ilmoqlarni terib olganingizdan keyin, to'qishning qolgan qismi deyarli avtomatik tarzda davom etadi.",
@@ -106,8 +96,6 @@ VOCAB_TR_STORE('1', '0313', {
   "yawn": "Esnash ko'pincha charchoqdan emas, balki zerikishdan dalolat beradi."
  },
  "C2": {
-  "Missy": "Missyning tadqiqotlari zerikish har doim ham yomon narsa emasligini ko'rsatadi.",
-  "Tiffany": "Tiffanyning fikricha, zerikish bizga o'zgarish kerakligi haqidagi signaldir.",
   "automated": "Jarayonlar tobora avtomatlashgani sari insonning roli hushyorlikka o'tadi — bu esa zerikarliligi bilan mashhur vazifa.",
   "cast": "U tushdan keyingi bir xillikni buzadigan biror narsa topish uchun alangladi.",
   "cast on": "Ilmoqlarni terishni o'rganish yangi to'quvchi uchun birinchi va ko'pincha eng qiyin qadamdir.",
@@ -127,8 +115,6 @@ VOCAB_TR_STORE('1', '0313', {
   "yawn": "Olimlar esnash nima uchun odamlar va ayrim hayvonlar orasida bunchalik yuqumli ekani haqida hamon bahslashmoqda."
  },
  "EX": {
-  "Missy": "Missyning aytishicha, u juda tez zerikib qoladi.",
-  "Tiffany": "Tiffany odamlar nima uchun zerikishini o'rganadi.",
   "automated": "Ko'plab ishlar endi avtomatlashtirilgan va ishchilar faqat ekranlarni kuzatib o'tirishadi.",
   "cast": "U biror ish topish uchun xona bo'ylab ko'z yugurtirdi.",
   "cast on": "Avvalo, siz yigirmata halqa terishingiz kerak.",

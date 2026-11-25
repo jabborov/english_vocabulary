@@ -2,7 +2,6 @@
 VOCAB_TR_STORE('1', '0312', {
  "A1": {
   "Ebola": "Ebola xavfli kasallik.",
-  "Walter": "Walter shifokor.",
   "confidentiality": "Maxfiylik muhim.",
   "consent": "U o'z roziligini berdi.",
   "dignity": "Odamlarga qadr-qimmat bilan munosabatda bo'ling.",
@@ -19,7 +18,6 @@ VOCAB_TR_STORE('1', '0312', {
  },
  "A2": {
   "Ebola": "Ebola virus tufayli kelib chiqadi.",
-  "Walter": "Bu Walter.",
   "confidentiality": "Shifokorlar maxfiylikni saqlaydi.",
   "consent": "U sinovdan o'tishga rozi bo'ldi.",
   "dignity": "U o'z qadr-qimmatini saqlab qoldi.",
@@ -36,7 +34,6 @@ VOCAB_TR_STORE('1', '0312', {
  },
  "B1": {
   "Ebola": "Shifokorlar Ebolani to'xtatish uchun qattiq mehnat qilishdi.",
-  "Walter": "Walter Ebola haqida gapiradi.",
   "confidentiality": "Ma'lumotlaringiz maxfiy saqlanadi.",
   "consent": "Ularga sizning roziligingiz kerak.",
   "dignity": "Har bir inson qadr-qimmatga loyiq.",
@@ -53,7 +50,6 @@ VOCAB_TR_STORE('1', '0312', {
  },
  "B2": {
   "Ebola": "Ebola kasallangan odamning tana suyuqliklari bilan aloqa orqali tarqaladi.",
-  "Walter": "Valter shifokorlar duch kelgan qiyin tanlovlarni tasvirlab berdi.",
   "confidentiality": "Bemor sirini saqlash tibbiyotning asosiy qoidasidir.",
   "consent": "Har qanday davolanish boshlanishidan oldin bemorlar rozilik berishi kerak.",
   "dignity": "Bemorlarga sha'ni va qadr-qimmati bilan vafot etishga imkon berilishi kerak.",
@@ -70,7 +66,6 @@ VOCAB_TR_STORE('1', '0312', {
  },
  "C1": {
   "Ebola": "2014-yildagi Ebola epidemiyasi virus kashf etilganidan beri eng yirigi bo'ldi.",
-  "Walter": "Valterning fikricha, favqulodda vaziyatda xabardor qilingan holdagi rozilikni olish qiyin.",
   "confidentiality": "Tadqiqotchilar barcha ishtirokchilarga qat'iy maxfiylikni va'da qilishdi.",
   "consent": "Uning roziligisiz shifokorlar operatsiyani boshlay olmasdi.",
   "dignity": "Himoya kostyumlari xodimlarga bemorlarga hurmat bilan munosabatda bo'lishni qiyinlashtirdi.",
@@ -87,7 +82,6 @@ VOCAB_TR_STORE('1', '0312', {
  },
  "C2": {
   "Ebola": "Ebola epidemiyasi mintaqadagi sog'liqni saqlash tizimlari naqadar zaif ekanini fosh qildi.",
-  "Walter": "Walter inqiroz o'rtasida ham oddiy etik qoidalar o'z ahamiyatini yo'qotmasligini ta'kidladi.",
   "confidentiality": "Epidemiya paytida maxfiylikni saqlash aloqada bo'lganlarni aniqlash zarurati tufayli murakkablashadi.",
   "consent": "Haqiqiy rozilik inson nimaga rozi bo'layotganini tushunishini va rad etishda erkin bo'lishini talab qiladi.",
   "dignity": "O'layotganlarning qadr-qimmatini hurmat qilish epidemiyaning eng og'ir sinovlaridan biriga aylandi.",
@@ -104,7 +98,6 @@ VOCAB_TR_STORE('1', '0312', {
  },
  "EX": {
   "Ebola": "G'arbiy Afrikadagi Ebola epidemiyasi minglab odamlarning hayotiga zomin bo'ldi.",
-  "Walter": "Walter dori sinovlarining axloqiy muammolarini tushuntirib berdi.",
   "confidentiality": "Shifokorlar bemor ma'lumotlarining maxfiyligini hurmat qilishlari kerak.",
   "consent": "U sinovda qatnashishga rozilik berdi.",
   "dignity": "Har bir bemorga uning qadr-qimmatini hurmat qilgan holda munosabatda bo'lish kerak.",

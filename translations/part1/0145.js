@@ -1,7 +1,6 @@
 // Part 1 topic 0145: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0145', {
  "A1": {
-  "Anderson": "Uning ismi Anderson.",
   "admirable": "Bu tahsinga loyiq.",
   "baggage": "Mening yukim ko'p.",
   "biblical": "Bu Injildan olingan ism.",
@@ -28,7 +27,6 @@ VOCAB_TR_STORE('1', '0145', {
   "violently": "U qattiq titradi."
  },
  "A2": {
-  "Anderson": "Janob Anderson mening o'qituvchim.",
   "admirable": "Uning sabr-toqati tahsinga loyiq.",
   "baggage": "Yukingizni shu yerda qoldiring.",
   "biblical": "U Injil hikoyalarini o'qiydi.",
@@ -55,7 +53,6 @@ VOCAB_TR_STORE('1', '0145', {
   "violently": "It qattiq akilladi."
  },
  "B1": {
-  "Anderson": "Anderson – keng tarqalgan familiya.",
   "admirable": "U tahsinga loyiq ish qildi.",
   "baggage": "Bu so'z ortida ko'p salbiy ma'no yashiringan.",
   "biblical": "Ibrohim – Injildagi ism.",
@@ -82,7 +79,6 @@ VOCAB_TR_STORE('1', '0145', {
   "violently": "Bo'ron shiddat bilan urdi."
  },
  "B2": {
-  "Anderson": "Anderson o'z familiyasining tarixini o'rganib chiqdi.",
   "admirable": "Uning halolligi tahsinga loyiq.",
   "baggage": "Ba'zi nomlar hissiy yuk tashiydi.",
   "biblical": "Injildagi ismlar juda mashhur edi.",
@@ -109,7 +105,6 @@ VOCAB_TR_STORE('1', '0145', {
   "violently": "Qullarga ko'pincha shafqatsizlarcha muomala qilinardi."
  },
  "C1": {
-  "Anderson": "Anderson o'z familiyasi qanday qilib qul egasi bilan bog'liq bo'lishi mumkinligini tushuntirib berdi.",
   "admirable": "Muassasaning o'z tarixi haqida ochiq bo'lishni tanlagani tahsinga loyiq.",
   "baggage": "Bu nom qullik va mustamlakachilik hukmronligining tarixiy yukini o'zida tashirdi.",
   "biblical": "Qul egalari ko'pincha qullarga Injildagi yoki antik davr ismlarini berishardi.",
@@ -136,7 +131,6 @@ VOCAB_TR_STORE('1', '0145', {
   "violently": "Qochishga uringan odamlar shafqatsizlarcha jazolanardi."
  },
  "C2": {
-  "Anderson": "Anderson uchun o'z familiyasini tadqiq qilish oilasining og'riqli tarixi bilan yuzma-yuz kelish usuliga aylandi.",
   "admirable": "Uzr so'rash tahsinga loyiq bo'lsa-da, ko'pchilik uning ortidan mazmunli harakatlar bo'lishi kerakligini ta'kidladi.",
   "baggage": "Qul qilingan odamlarning ko'plab avlodlari ajdodlari ezilganining og'ir yukini o'zida tashiydigan familiyalarga ega.",
   "biblical": "Qullikka ilohiy ma'qullashning soxta ko'rinishini berish uchun Bibliya parchalaridan tanlab iqtibos keltirilgan.",
@@ -163,7 +157,6 @@ VOCAB_TR_STORE('1', '0145', {
   "violently": "Qul qilingan odamlar o'z uylaridan zo'ravonlik bilan uzib olinib, o'zliklaridan mahrum etilgan."
  },
  "EX": {
-  "Anderson": "Anderson o'z familiyasi ortidagi tarix haqida gapirib berdi.",
   "admirable": "Cherkov o'z o'tmishiga yuzma-yuz qarayotgani tahsinga loyiq.",
   "baggage": "Uning familiyasi og'ir tarixiy yukni o'zida tashiydi.",
   "biblical": "Ko'plab qul qilingan odamlarga Injildan olingan ismlar berilgan.",

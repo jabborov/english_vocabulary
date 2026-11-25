@@ -2548,14 +2548,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The manager's patronising tone riled the already frustrated passengers.",
       "What riled consumers most was not the error itself but the company's evident indifference to it."
     ],
-    "Ben": [
-      "Ben is my friend.",
-      "Ben likes coffee.",
-      "Ben was angry about his flight.",
-      "Ben explains that he now complains on social media.",
-      "Ben admits that he used to avoid complaining for fear of causing a scene.",
-      "Ben's account neatly illustrates how social media has emboldened a once-reticent generation of consumers."
-    ],
     "important": [
       "This is important.",
       "Water is very important.",
@@ -2859,14 +2851,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "In a democratic society, people should be free to complain.",
       "She describes the right to complain as a fundamental democratic right.",
       "Framing complaint as a democratic right elevates it from personal grievance to civic duty."
-    ],
-    "Esther": [
-      "Esther is on TV.",
-      "Esther had a TV show.",
-      "Esther helped people complain.",
-      "Esther Rantzen hosted a consumer programme for over twenty years.",
-      "Esther argues that the right to complain is fundamental to a democratic society.",
-      "Esther Rantzen did more than perhaps anyone to make complaining respectable in Britain."
     ],
     "be on": [
       "The show is on now.",
@@ -3838,14 +3822,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Self-published authors have particularly benefited from the rise of digital publishing.",
       "The shift has been particularly pronounced in genre fiction, where readers consume titles voraciously."
     ],
-    "Sarah": [
-      "This is Sarah.",
-      "Sarah likes books.",
-      "Sarah reads ebooks on her phone.",
-      "Sarah explained how authors can build an audience online.",
-      "According to Sarah, authors now need a strong presence on the internet.",
-      "Sarah's view is that the essential craft of writing will remain stable, even as everything around it changes."
-    ],
     "think about": [
       "Think about it.",
       "I think about you.",
@@ -4455,14 +4431,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The seats were designed using ideas from sports car seats.",
       "Seats must be designed to accommodate a wide range of body shapes and sizes.",
       "To design a seat that serves both comfort and conservation is to reconcile two fundamentally opposed imperatives."
-    ],
-    "David": [
-      "David is my friend.",
-      "David likes the theatre.",
-      "David said the old seats were too small.",
-      "David has studied seat design for many years.",
-      "According to David, the slope of the seat forces the body to slump.",
-      "David's analysis drew attention to the subtle interplay between seat angle and spinal posture."
     ],
     "force": [
       "Don't force me.",
@@ -8386,14 +8354,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Speaking as both a nutritionist and a mother, she offered practical rather than theoretical advice.",
       "Her authority on the subject derived as much from her experience as a mother as from her professional training."
     ],
-    "Charlotte": [
-      "Her name is Charlotte.",
-      "Charlotte has two children.",
-      "Charlotte says children go through phases with food.",
-      "Charlotte explained that children's appetites go up and down.",
-      "According to Charlotte, a child's mood can affect their appetite as much as hunger does.",
-      "Charlotte's central point was that fluctuating appetite is entirely normal and no cause for parental alarm."
-    ],
     "go through": [
       "Babies go through many changes.",
       "She went through a difficult time.",
@@ -8674,14 +8634,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "A stressful atmosphere at the table can actually suppress a child's appetite.",
       "The very effort to make children eat is what renders so many family mealtimes stressful."
     ],
-    "Ruth": [
-      "Her name is Ruth.",
-      "Ruth has a daughter.",
-      "Ruth says mealtimes can be stressful.",
-      "Ruth explained that food can trigger tension in families.",
-      "Ruth argued that parents should avoid making food a battleground.",
-      "Ruth's account highlighted how quickly a simple meal can escalate into a contest of wills."
-    ],
     "battleground": [
       "This was a battleground.",
       "The kitchen became a battleground.",
@@ -8737,14 +8689,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Arguments at the table can make mealtimes unpleasant for everyone.",
       "Avoiding arguments about food helps children develop a healthier relationship with eating.",
       "Mealtime arguments are seldom really about the food; they concern authority, independence and fatigue."
-    ],
-    "Anne": [
-      "Her name is Anne.",
-      "Anne is a writer.",
-      "Anne's daughter has a food allergy.",
-      "Anne had to learn to cook in a completely new way.",
-      "Anne described how her daughter's allergies forced the family to rethink every meal.",
-      "Anne's experience illustrates how medical necessity can transform a family's entire approach to food."
     ],
     "willing": [
       "I'm willing to help.",
@@ -9556,14 +9500,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "It seems absurd that people can teach before they are qualified.",
       "The claim that drill-sergeant tactics will transform education strikes most experts as frankly absurd."
     ],
-    "Mary": [
-      "Mary is my friend.",
-      "Mary is a teacher.",
-      "Mary thinks soldiers can be good teachers.",
-      "Mary disagreed, saying teaching needs special training.",
-      "Mary pointed out that discipline alone does not guarantee learning.",
-      "Mary's objection, though quietly made, cut to the heart of the debate."
-    ],
     "skipping": [
       "Skipping school is bad.",
       "He got in trouble for skipping school.",
@@ -9595,14 +9531,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Parents have a legal duty under the law to educate their children.",
       "The law requires that teachers in state schools hold certain qualifications.",
       "Changes in the law have quietly loosened the requirement for teachers to be formally qualified."
-    ],
-    "Tom": [
-      "Tom is my brother.",
-      "Tom likes school.",
-      "Tom thinks discipline is important.",
-      "Tom argued that soldiers could help stop pupils skipping school.",
-      "Tom remained sceptical that a short course could produce competent teachers.",
-      "Tom's point, though provocatively made, deserved a more serious answer than it received."
     ],
     "qualification": [
       "I have a qualification.",
@@ -11040,14 +10968,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The minister said the charge had exceeded expectations.",
       "The minister presented the levy as a model for broader environmental reforms."
     ],
-    "John": [
-      "John is a man.",
-      "John is the minister.",
-      "John talked about plastic bags.",
-      "John said the charge had changed people's habits.",
-      "John argued that small changes could make a big difference to the environment.",
-      "John described the charge as part of a broader cultural shift towards sustainability."
-    ],
     "behave": [
       "Please behave!",
       "He behaves well.",
@@ -12091,14 +12011,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Some people think fonts have a personality of their own.",
       "The study asked people to describe the personality of different fonts.",
       "That we attribute personality to typefaces reveals our instinct to anthropomorphise almost everything."
-    ],
-    "Simon": [
-      "This is Simon.",
-      "Simon likes fonts.",
-      "Simon talked about handwriting.",
-      "Simon explained why companies care so much about fonts.",
-      "Simon described how designers collected thousands of handwriting samples.",
-      "Simon's account offered a revealing glimpse into the commercial world of typography."
     ],
     "count": [
       "Count to ten.",
@@ -13554,14 +13466,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The reform of succession ended centuries of preference for male heirs.",
       "The overhaul of succession law, though largely symbolic, signalled a decisive break with feudal convention."
     ],
-    "Stephen": [
-      "Stephen is here.",
-      "Stephen likes history.",
-      "Stephen talked about the royal family.",
-      "Stephen explained why the old rules were considered unfair.",
-      "Stephen analysed the political implications of the leaders' agreement.",
-      "Stephen offered a nuanced assessment of how the reform might reshape the monarchy's image."
-    ],
     "take over": [
       "Can you take over?",
       "He will take over the shop.",
@@ -14380,14 +14284,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "A skilled speaker knows when and where to choose their words carefully.",
       "The speaker's misfortune was to assume that an empty room was also a private one."
     ],
-    "Christian": [
-      "Christian is here.",
-      "Christian is a reporter.",
-      "Christian talked about the gaffe.",
-      "Christian explained how the microphone picked up the conversation.",
-      "Christian discussed the ethics of publishing the overheard comments.",
-      "Christian offered a thoughtful account of the episode's diplomatic fallout."
-    ],
     "stun": [
       "The news stunned me.",
       "She was stunned.",
@@ -14957,14 +14853,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The west of the region has far fewer towns and much darker skies.",
       "Clouds usually arrive from the west, so astronomers watch that horizon carefully.",
       "The sparsely populated west of the country has become a magnet for dark-sky tourism."
-    ],
-    "Andrew": [
-      "Andrew likes stars.",
-      "Andrew has a telescope.",
-      "Andrew told us about the dark-sky reserve.",
-      "Andrew said that visitors are amazed by the number of stars.",
-      "Andrew described the work involved in monitoring light levels across the park.",
-      "Andrew argued that dark skies are a natural resource as precious as the landscape itself."
     ],
     "darkness": [
       "I don't like darkness.",
@@ -15913,14 +15801,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Unexpected flowers from a friend can lift your mood for the whole day.",
       "The gesture of leaving flowers on a stranger's doorstep became a small act of community kindness.",
       "A bunch of flowers, offered without occasion, carries a significance out of all proportion to its cost."
-    ],
-    "Sam": [
-      "Sam is my friend.",
-      "Sam likes helping people.",
-      "Sam told us about a study on kindness.",
-      "Sam explained that kind acts can make the giver happier too.",
-      "Sam pointed out that the research on kindness is more robust than many people assume.",
-      "Sam's question cut to the heart of the matter: is kindness merely pleasant, or demonstrably beneficial?"
     ],
     "scientifically": [
       "Is it scientifically true?",
@@ -17880,14 +17760,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The idea of a universal language has fascinated philosophers since the seventeenth century.",
       "Every attempt to create a universal language has foundered on the stubborn attachment of communities to their mother tongues."
     ],
-    "Michael": [
-      "Michael is my friend.",
-      "Michael speaks three languages.",
-      "Michael wrote a book about invented languages.",
-      "Michael explained that invented languages are a form of art.",
-      "According to Michael, the appeal of invented languages lies in their creativity.",
-      "Michael's research suggests that the motives of language inventors are as varied as the languages themselves."
-    ],
     "root": [
       "This word has a Latin root.",
       "Find the root of the word.",
@@ -19624,14 +19496,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Opinion remains divided over whether the crew were justified.",
       "The episode divided observers into those who saw insubordination and those who saw a legitimate assertion of needs."
     ],
-    "Lucy": [
-      "This is Lucy.",
-      "Lucy is my friend.",
-      "Lucy talked about life in space.",
-      "Lucy said the astronauts needed more freedom.",
-      "Lucy argued that the crew's reaction was entirely understandable.",
-      "Lucy's analysis placed the incident within a broader discussion of autonomy at work."
-    ],
     "tight": [
       "My shoes are tight.",
       "Money is tight this month.",
@@ -20855,14 +20719,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Both countries have promised to take stronger action on climate change.",
       "Tackling climate change requires cooperation between the world's largest economies.",
       "Climate change has become the rare issue on which geopolitical rivals find it in their interest to cooperate."
-    ],
-    "Rob": [
-      "Rob is a presenter.",
-      "Rob talks about the climate.",
-      "Rob asked which country produces the most carbon dioxide.",
-      "Rob explained why cooperation between the USA and China matters so much.",
-      "Rob pointed out the paradox of China being both the biggest polluter and a leader in green energy.",
-      "Rob framed the discussion around whether two rival superpowers could set aside their differences for the planet's sake."
     ],
     "emitter": [
       "China is a big emitter.",
@@ -22911,14 +22767,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "For twenty-seven years he was practically invisible to his neighbours.",
       "Some people feel invisible even in a crowded city.",
       "His ambition, it seems, was not merely to be alone but to become wholly invisible to society."
-    ],
-    "Christopher": [
-      "Christopher lives in the forest.",
-      "Christopher is his first name.",
-      "Christopher left his home when he was twenty.",
-      "Christopher lived alone in the woods of Maine for twenty-seven years.",
-      "Christopher survived by stealing food and supplies from nearby holiday cabins.",
-      "Christopher's story fascinates people precisely because he offered so little explanation for his choice."
     ],
     "seek": [
       "They seek help.",
@@ -25178,14 +25026,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The southern white rhino, a close cousin, will act as a surrogate mother.",
       "Genetically, the two subspecies are distant enough to be distinct, yet close enough to be cousins."
     ],
-    "Thomas": [
-      "Thomas is a scientist.",
-      "Thomas works with animals.",
-      "Thomas leads the rhino project.",
-      "Thomas explained how the embryos are made.",
-      "Thomas believes that science can save the northern white rhino.",
-      "Thomas acknowledges that the project is a race against time with no guarantee of success."
-    ],
     "hybrid": [
       "A mule is a hybrid.",
       "This plant is a hybrid.",
@@ -26255,14 +26095,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Many people decorated their homes during lockdown.",
       "She decorated the cake with fruit.",
       "How we decorate our homes may reveal as much about our emotional needs as our taste."
-    ],
-    "Karen": [
-      "Karen likes colours.",
-      "Karen is an expert.",
-      "Karen talks about colour and mood.",
-      "Karen explains how colour affects our emotions.",
-      "Karen advises people on choosing colours for their homes.",
-      "Karen argues that our response to colour is partly biological and partly cultural."
     ],
     "take in": [
       "Take in a deep breath.",
@@ -27935,14 +27767,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Fans insist that NFTs are a real investment.",
       "He insisted that the craze would not last.",
       "Enthusiasts insist that NFTs will transform the way creators are paid."
-    ],
-    "shona": [
-      "Shona is a journalist.",
-      "Shona talked about NFTs.",
-      "Shona thinks NFTs are risky.",
-      "Shona said many people don't understand what they are buying.",
-      "According to Shona, the NFT market is very unpredictable.",
-      "Shona offered a balanced view, acknowledging both the innovation and the risks."
     ],
     "balance": [
       "I lost my balance.",
@@ -29958,14 +29782,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Waiters don't always receive the tips customers leave.",
       "Waiters on low basic wages are particularly vulnerable when tipping arrangements are opaque."
     ],
-    "James": [
-      "His name is James.",
-      "James is a waiter.",
-      "James talked about tips.",
-      "James said that tipping policies are not consistent.",
-      "According to James, tips should go to staff, not management.",
-      "James argued that the lack of a consistent approach left both customers and staff confused."
-    ],
     "consistent": [
       "Be consistent.",
       "Her work is consistent.",
@@ -30544,14 +30360,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Without enough water to cool it, the reactor overheated.",
       "Climate change may make it harder to cool reactors as rivers and seas grow warmer."
     ],
-    "Paul": [
-      "Paul is my friend.",
-      "Paul lives in London.",
-      "Paul works in the energy industry.",
-      "Paul talked about the risks of nuclear power.",
-      "Paul argued that rising sea levels could threaten coastal power plants.",
-      "As Paul pointed out, the industry's chief selling point is its capacity to deliver steady, low-carbon power."
-    ],
     "sea level": [
       "The town is at sea level.",
       "The mountain is 2,000 metres above sea level.",
@@ -30769,14 +30577,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Because of social distancing, we met on video calls.",
       "Social distancing forced millions of workers to rely on digital communication.",
       "Prolonged distancing reshaped workplace culture in ways that persisted long after restrictions were lifted."
-    ],
-    "Erica": [
-      "Erica is a teacher.",
-      "Erica writes books.",
-      "Erica talked about video meetings.",
-      "Erica gives advice on online communication.",
-      "Erica argues that digital body language is a skill we all need to learn.",
-      "As Erica observes, the cues we once read instinctively must now be deliberately signalled online."
     ],
     "last but not least": [
       "Last but not least, Tom.",
@@ -33358,14 +33158,6 @@ window.VOCAB_EXAMPLES_PART1 = {
     ]
   },
   "0067": {
-    "Beth": [
-      "Beth is my friend.",
-      "Beth works at the BBC.",
-      "Beth talked about rising prices.",
-      "Beth asked Neil a question about inflation.",
-      "Beth pointed out that energy costs had risen sharply.",
-      "Beth guided the discussion from everyday shopping to the global forces behind inflation."
-    ],
     "hit": [
       "Prices hit us hard.",
       "The storm hit the town.",
@@ -33680,14 +33472,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Artists' saccades appear to follow a different pattern when they look at images.",
       "Though we perceive a seamless scene, vision is in fact stitched together from a series of saccades and fixations."
     ],
-    "Rebecca": [
-      "Rebecca is a scientist.",
-      "Rebecca likes art.",
-      "Rebecca explained how our eyes move.",
-      "Rebecca's research compares artists with non-artists.",
-      "Rebecca found that artists focus on different parts of an image.",
-      "Rebecca's work suggests that artistic perception is a skill that can be trained."
-    ],
     "eye movement": [
       "We study eye movement.",
       "The camera tracks eye movement.",
@@ -33751,14 +33535,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Our brains build an impression of a scene from small pieces.",
       "The impression we form is often less accurate than we believe.",
       "What we experience as seeing is in fact an impression assembled by the brain from fragmentary data."
-    ],
-    "Mike": [
-      "Mike is my friend.",
-      "Mike likes to paint.",
-      "Mike draws faces very well.",
-      "Mike explained how he looks at people before drawing them.",
-      "Mike believes his skill comes from years of practice.",
-      "Mike's account of how he observes faces matched the researchers' findings."
     ],
     "painter": [
       "He is a painter.",
@@ -34137,14 +33913,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Translating a cookbook takes many months.",
       "A good cookbook explains both the method and the background of each dish.",
       "A successful translated cookbook must be usable in a foreign kitchen, not merely readable."
-    ],
-    "Rosa": [
-      "Rosa is a translator.",
-      "Rosa likes cooking.",
-      "Rosa translated a British cookbook.",
-      "Rosa explained how she deals with unfamiliar ingredients.",
-      "Rosa believes a food translator must cook the recipes herself.",
-      "Rosa's approach balances faithfulness to the original with practicality for the reader."
     ],
     "replicate": [
       "Can you replicate this?",
@@ -36160,14 +35928,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Paradoxically, the push for electric cars could harm some of the world's most untouched places.",
       "Paradoxically, the campaign to protect the climate has created a new threat to the oceans."
     ],
-    "Helen": [
-      "Helen is my friend.",
-      "Helen works by the sea.",
-      "Helen studies the ocean floor.",
-      "Helen says we need more research before mining starts.",
-      "According to Helen, the damage could last for thousands of years.",
-      "Helen cautioned that, once lost, deep-sea habitats might never recover."
-    ],
     "scale": [
       "The scale is big.",
       "It is a small-scale project.",
@@ -36853,14 +36613,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Young people want to listen to hip new artists.",
       "What was hip ten years ago often sounds dated today.",
       "Trying too hard to be hip is the surest way to appear out of touch."
-    ],
-    "Adam": [
-      "Adam is a singer.",
-      "Adam plays the guitar.",
-      "Adam writes songs for other people.",
-      "Adam says the melody is more important than the words.",
-      "According to Adam, a great song needs a strong hook.",
-      "Adam suggested that songwriting is as much craft as inspiration."
     ],
     "nostalgic": [
       "I feel nostalgic.",
@@ -38960,14 +38712,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "A highly focused study can answer one question well but may miss the bigger picture.",
       "Sustained, focused attention depends on a steady supply of glucose to the brain."
     ],
-    "Jordan": [
-      "This is Jordan.",
-      "Jordan is a doctor.",
-      "Jordan studies the link between food and mood.",
-      "According to Jordan, comfort food only helps for a short time.",
-      "Jordan argued that our relationship with food is shaped by both biology and habit.",
-      "Jordan's point was that simplistic advice risks being patronising to people who are already struggling."
-    ],
     "patronising": [
       "Don't be patronising.",
       "His voice was patronising.",
@@ -39467,14 +39211,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The kalette is milder and nuttier than a Brussels sprout.",
       "Roasting brings out a deep, nutty flavour in most green vegetables.",
       "The nutty sweetness of the kalette is precisely what breeders hoped would win over sprout sceptics."
-    ],
-    "Jack": [
-      "Jack is my friend.",
-      "Jack likes vegetables.",
-      "Jack tried a kalette for the first time.",
-      "Jack thought kalettes tasted much nicer than Brussels sprouts.",
-      "Jack admitted that he had never heard of a kalette before the programme.",
-      "Jack's scepticism softened once he had tasted the vegetable roasted with garlic."
     ],
     "texture": [
       "I like the texture.",
@@ -41789,14 +41525,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Soft music makes chocolate taste smoother.",
       "The wine felt smooth and rich.",
       "Listeners described the whisky as smoother when accompanied by legato music."
-    ],
-    "Charles": [
-      "Charles is a professor.",
-      "Charles likes food.",
-      "Charles works at a university.",
-      "Charles has studied how sound affects taste.",
-      "According to Charles, music can change how sweet food seems.",
-      "Charles's research has helped to establish the field now known as gastrophysics."
     ],
     "experimental psychology": [
       "He studies experimental psychology.",
@@ -44196,14 +43924,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Covering car parks with solar panels is a clever way to save space.",
       "Car parks represent vast areas of underused space that could be turned into solar power plants."
     ],
-    "Joshua": [
-      "This is Joshua.",
-      "Joshua likes the sun.",
-      "Joshua studies energy.",
-      "Joshua talks about solar panels.",
-      "Joshua believes car parks are ideal for solar canopies.",
-      "According to Joshua, solar canopies offer benefits that go well beyond producing electricity."
-    ],
     "canopy": [
       "There is a canopy.",
       "Sit under the canopy.",
@@ -44243,14 +43963,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Free charging may entice drivers to shop there.",
       "Supermarkets hope to entice customers with solar-powered charging points.",
       "Governments use tax breaks to entice companies into investing in renewable energy."
-    ],
-    "Martin": [
-      "This is Martin.",
-      "Martin is a scientist.",
-      "Martin likes solar power.",
-      "Martin explains how mirrors work.",
-      "Martin describes how people harnessed the sun in the past.",
-      "Martin argues that some of the oldest ideas about solar energy are still useful today."
     ],
     "mile": [
       "I walked a mile.",
@@ -45530,14 +45242,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Weighing around 6,000 kilograms, an elephant can destroy a fence in seconds.",
       "Farmers measure their losses in kilograms of maize trampled or eaten overnight."
     ],
-    "Victor": [
-      "Victor is a farmer.",
-      "This is my friend Victor.",
-      "Victor helps farmers in Kenya.",
-      "Victor explained how beehive fences protect the crops.",
-      "According to Victor, farmers' attitudes to elephants have changed since the fences were built.",
-      "Victor's account highlights how community-led solutions can ease human–wildlife conflict."
-    ],
     "officer": [
       "The officer helped us.",
       "He is a police officer.",
@@ -46103,22 +45807,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "America's first licensed pizzeria opened in Little Italy in 1905.",
       "The old pizzeria still uses a coal-fired oven.",
       "From one small pizzeria, an entire American food industry would eventually grow."
-    ],
-    "Veronica": [
-      "Veronica is my friend.",
-      "Veronica likes pizza.",
-      "Veronica lives in New York.",
-      "Veronica remembers the neighbourhood when it was full of Italian families.",
-      "Veronica explained how the area changed as families moved to the suburbs.",
-      "Veronica's memories offer a personal window onto the neighbourhood's transformation."
-    ],
-    "Hugo": [
-      "Hugo is my brother.",
-      "Hugo likes cheese.",
-      "Hugo works in a shop.",
-      "Hugo said his family has lived in New York for four generations.",
-      "Hugo described how Little Italy has become smaller over the years.",
-      "Hugo's account captures the mixture of pride and nostalgia many descendants feel."
     ],
     "East Side": [
       "I live on the East Side.",
@@ -50762,14 +50450,6 @@ window.VOCAB_EXAMPLES_PART1 = {
     ]
   },
   "0145": {
-    "Anderson": [
-      "His name is Anderson.",
-      "Mr Anderson is my teacher.",
-      "Anderson is a common surname.",
-      "Anderson looked into the history of his name.",
-      "Anderson explained how his surname may be linked to a slave owner.",
-      "For Anderson, researching his surname became a way of confronting a painful family history."
-    ],
     "heart and soul": [
       "He loves it heart and soul.",
       "She sings with heart and soul.",
@@ -52826,14 +52506,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "By manipulating the soil, researchers can reduce how much water drains away.",
       "Manipulating soil properties at a microscopic level offers a promising route to water conservation."
     ],
-    "Anthony": [
-      "Anthony is a farmer.",
-      "This is Anthony.",
-      "Anthony works in the desert.",
-      "Anthony told the BBC how much water they saved.",
-      "According to Anthony, the results surprised even the scientists.",
-      "Anthony stressed that the technique would only succeed if farmers were trained to apply it properly."
-    ],
     "unspecified": [
       "The time is unspecified.",
       "He left for an unspecified place.",
@@ -54466,14 +54138,6 @@ window.VOCAB_EXAMPLES_PART1 = {
     ]
   },
   "0169": {
-    "Catherine": [
-      "Catherine is my friend.",
-      "Catherine likes her new phone.",
-      "Catherine talked to a chatbot about her problems.",
-      "Catherine said the app helped her feel less anxious.",
-      "Catherine explained why she found it easier to open up to a bot than to a person.",
-      "Catherine's experience illustrates both the appeal and the limitations of robot therapy."
-    ],
     "flashing": [
       "I see a flashing light.",
       "The phone has a flashing screen.",
@@ -55994,14 +55658,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The custom has roots in a patriarchal system in which a wife was seen as part of her husband's household.",
       "Rejecting a patriarchal naming convention can be a quiet yet powerful statement of equality."
     ],
-    "Rachel": [
-      "Rachel is my friend.",
-      "Rachel works at the BBC.",
-      "Rachel talked about her family name.",
-      "Rachel explained why she didn't change her name.",
-      "Rachel's experience shows how personal the choice of a married name can be.",
-      "Rachel's story illustrates the tension between tradition and individual identity in modern marriage."
-    ],
     "wear the trousers": [
       "Who wears the trousers?",
       "In that house, Mum wears the trousers.",
@@ -56165,14 +55821,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The stew has been kept hot almost continuously since the 1970s.",
       "Because the pot is heated continuously, harmful bacteria have little chance to grow.",
       "A dish cooked continuously for decades raises fascinating questions about flavour, safety and tradition."
-    ],
-    "Fuchsia": [
-      "Fuchsia is a name.",
-      "Fuchsia writes about food.",
-      "Fuchsia is also a type of flower.",
-      "Fuchsia talked about how long stews were once kept cooking.",
-      "Fuchsia has written widely about Chinese cooking and food culture.",
-      "Fuchsia's research suggests that long-simmered broths are part of a much older culinary tradition than many realise."
     ],
     "rumour": [
       "It is only a rumour.",
@@ -57285,14 +56933,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The cupboard under the stairs had a musty smell.",
       "Some people find the musty smell of second-hand bookshops strangely comforting.",
       "The musty odour of her grandmother's attic was, oddly, one she associated with happiness."
-    ],
-    "Tristan": [
-      "His name is Tristan.",
-      "Tristan studies smell.",
-      "Tristan talked about our noses.",
-      "Tristan says that smells can bring back old memories.",
-      "According to Tristan, every home has its own unique scent.",
-      "Tristan argued that smell is the most underrated of our senses."
     ],
     "mom": [
       "This is my mom.",
@@ -58688,14 +58328,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Many adult runners first fell in love with sport through school track and field.",
       "Track and field, though largely individual, is nonetheless trained for in tightly knit groups."
     ],
-    "Philip": [
-      "Philip is my friend.",
-      "Philip goes to the gym.",
-      "Philip runs with a club every week.",
-      "Philip said that group exercise meets a need for belonging.",
-      "According to Philip, we are pack animals who feel safer in a group.",
-      "Philip's argument rests on the idea that our tribal instincts survive in modern fitness culture."
-    ],
     "fragmented": [
       "The plate is fragmented.",
       "Our town feels fragmented.",
@@ -59141,14 +58773,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The chef showed them a neat trick for peeling garlic.",
       "Using leftovers in a soup is a neat way to save money.",
       "It's a neat solution: teach people to cook, and their health improves along with their budget."
-    ],
-    "Georgia": [
-      "Georgia is a cook.",
-      "Georgia likes soup.",
-      "Georgia teaches a cooking class.",
-      "Georgia said cooking at home saves families money.",
-      "According to Georgia, many people simply lack confidence in the kitchen.",
-      "Georgia's work shows how practical support can reduce food inequality."
     ],
     "ally": [
       "She is my ally.",
@@ -59720,14 +59344,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The pool alternates lanes, so neighbouring lanes go clockwise and anticlockwise.",
       "Alternating clockwise and anticlockwise lanes prevents swimmers in adjacent lanes from colliding at the rope."
     ],
-    "Jenny": [
-      "Jenny is my friend.",
-      "Jenny likes swimming.",
-      "Jenny goes to the pool on Monday.",
-      "Jenny gets annoyed when people swim the wrong way.",
-      "Jenny explained some of the unwritten rules of the swimming pool.",
-      "According to Jenny, most arguments in the pool come from people ignoring lane speeds."
-    ],
     "lane": [
       "Swim in this lane.",
       "The pool has six lanes.",
@@ -59873,14 +59489,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Monolingual speakers sometimes find learning a second language hard.",
       "Researchers compared the brains of monolingual and bilingual adults.",
       "In much of the world, being monolingual is actually the exception rather than the norm."
-    ],
-    "Victoria": [
-      "Victoria is a teacher.",
-      "Victoria speaks French.",
-      "Victoria learned Spanish at school.",
-      "Victoria said she learns new words every day.",
-      "Victoria explained how she keeps all her languages active.",
-      "According to Victoria, the key to learning languages is regular, meaningful practice."
     ],
     "paying back": [
       "I am paying back the money.",
@@ -62432,14 +62040,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The prefix 'psycho-' appears in words like psychology and psychoanalysis.",
       "Casual use of words such as 'psycho' reinforces the very stigma that therapy seeks to dismantle."
     ],
-    "Norman": [
-      "His name is Norman.",
-      "Norman is a doctor.",
-      "Norman talked about his life.",
-      "Norman says therapy changed the way he deals with stress.",
-      "In the programme, Norman describes how difficult it was to start talking.",
-      "Norman's account illustrates how reluctant many men still are to seek psychological help."
-    ],
     "functioning": [
       "The machine's functioning is good.",
       "Sleep helps the brain's functioning.",
@@ -62593,14 +62193,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Trust operates operatively in many social situations.",
       "Honesty functions operatively in our relationships, even when we don't notice it.",
       "Whether a rule is operatively enforced matters more for behaviour than whether it is formally stated."
-    ],
-    "Benjamin": [
-      "His name is Benjamin.",
-      "Benjamin is a teacher.",
-      "Benjamin told us about his research.",
-      "Benjamin explains why people tell small lies.",
-      "In the programme, Benjamin describes an experiment with a card game.",
-      "Benjamin's findings suggest that most people cheat a little, but only a few cheat a lot."
     ],
     "granny": [
       "I love my granny.",
@@ -63084,14 +62676,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Talking about the experience can help people heal.",
       "Emotional wounds from climate disasters may take far longer to heal than physical damage."
     ],
-    "Brad": [
-      "His name is Brad.",
-      "Brad lives in California.",
-      "Brad lost his house in a fire.",
-      "Brad says he still feels anxious when he smells smoke.",
-      "Brad's story shows how disasters can affect mental health for years.",
-      "Brad's account illustrates both the trauma of loss and the possibility of finding meaning afterwards."
-    ],
     "silver lining": [
       "Every cloud has a silver lining.",
       "Is there a silver lining?",
@@ -63221,14 +62805,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Customers have a valid reason to complain when products break so quickly.",
       "Manufacturers argue that thinner designs are a valid trade-off for being harder to repair.",
       "Whether planned obsolescence is a valid business strategy or a form of deception remains hotly debated."
-    ],
-    "Cooper": [
-      "Mr Cooper is my teacher.",
-      "Ms Cooper works at a university.",
-      "Professor Cooper talks about old fridges and washing machines.",
-      "According to Cooper, many products now last less time than they used to.",
-      "Cooper argues that consumers should demand longer-lasting goods.",
-      "Cooper's research suggests that shorter product lifespans are as much a cultural issue as a technical one."
     ],
     "throwaway": [
       "This is a throwaway cup.",
@@ -64700,14 +64276,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "They invited all the neighbours to a barbecue in the garden.",
       "The barbecue, once a temple of meat-eating, is increasingly shared with plant-based alternatives."
     ],
-    "Graham": [
-      "Graham is my friend.",
-      "Graham likes food.",
-      "Graham tried a veggie sausage.",
-      "Graham explained what is really inside plant-based meat.",
-      "Graham argued that some meat substitutes contain a lot of additives.",
-      "Graham's view was that we should judge foods by their ingredients rather than their labels."
-    ],
     "additive": [
       "This food has additives.",
       "I avoid additives.",
@@ -65889,14 +65457,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "It's best to be upfront when you've done something wrong.",
       "She was upfront about her reasons for leaving.",
       "An upfront apology, given quickly and honestly, is often the most effective."
-    ],
-    "Liza": [
-      "Liza is my friend.",
-      "Liza said sorry.",
-      "Liza is from Korea.",
-      "Liza described how apologies work in different cultures.",
-      "Liza said that a simple 'sorry' isn't always enough.",
-      "Liza's view was that the way we apologise reveals a great deal about our culture."
     ],
     "honorific": [
       "Korean has honorifics.",
@@ -69472,14 +69032,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Critics dismissed the bicycle boom as faddish.",
       "What sceptics dismissed as faddish proved to be one of the most durable inventions of the age."
     ],
-    "Harvey": [
-      "Harvey is my friend.",
-      "Harvey likes bikes.",
-      "Harvey rides to work.",
-      "Harvey du Cros invested in Dunlop's tyre company.",
-      "Harvey's investment helped make pneumatic tyres a success.",
-      "Harvey du Cros's commercial instincts turned Dunlop's invention into a global business."
-    ],
     "veterinary surgeon": [
       "She is a veterinary surgeon.",
       "The veterinary surgeon helped my dog.",
@@ -70707,14 +70259,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Mitigation and adaptation are both needed to fight climate change.",
       "The government spent more on flood mitigation schemes.",
       "Mitigation tackles the causes of climate change, while adaptation deals with its consequences."
-    ],
-    "Owen": [
-      "My friend is called Owen.",
-      "Owen is a teacher.",
-      "Owen talked about the weather.",
-      "Owen said that climate change will affect banks too.",
-      "According to Owen, we need to adapt as well as cut emissions.",
-      "Owen argued that the financial system has been slow to price in the risks of a warming world."
     ],
     "banking system": [
       "The banking system is important.",
@@ -72652,14 +72196,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "She is a pillar of the local community.",
       "Sales to grown-ups have become a central pillar supporting the toy industry's growth."
     ],
-    "Jay": [
-      "His name is Jay.",
-      "Jay likes toys.",
-      "Jay collects Lego sets.",
-      "Jay explained why adults buy toys for themselves.",
-      "According to Jay, collecting toys helps him relax.",
-      "Jay's view is that toys let adults reconnect with the playfulness they lost growing up."
-    ],
     "collecting": [
       "I like collecting.",
       "Collecting stamps is fun.",
@@ -74111,14 +73647,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The children made knights' helmets from cardboard boxes.",
       "His cardboard shield fell apart in the rain.",
       "Cardboard armour lets children play at chivalry without the weight of real metal."
-    ],
-    "Leo": [
-      "His name is Leo.",
-      "Leo is my friend.",
-      "Leo likes history.",
-      "Leo explained what chivalry means to him.",
-      "According to Leo, good manners are for everyone, not just for women.",
-      "Leo's view was that chivalry should be redefined as courtesy shown to all."
     ],
     "kicking": [
       "The baby is kicking.",
@@ -75832,14 +75360,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Fear of being sued can make companies reluctant to test new drugs.",
       "Pharmaceutical firms sought legal protection so they could not be sued over experimental treatments."
     ],
-    "Walter": [
-      "Walter is a doctor.",
-      "This is Walter.",
-      "Walter talks about Ebola.",
-      "Walter described the difficult choices doctors faced.",
-      "According to Walter, informed consent is hard to get in an emergency.",
-      "Walter argued that ordinary ethical rules still matter even in the middle of a crisis."
-    ],
     "waiver": [
       "Sign the waiver, please.",
       "I signed a waiver.",
@@ -75930,14 +75450,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Surprisingly, fighter pilots often report boredom on routine missions.",
       "Research on fighter pilots shows that boredom can be as dangerous as stress in the cockpit."
     ],
-    "Missy": [
-      "Missy is my friend.",
-      "This is Missy.",
-      "Missy likes knitting.",
-      "Missy explained how she deals with boredom.",
-      "According to Missy, knitting helps her stay calm.",
-      "Missy's research suggests that boredom isn't always a bad thing."
-    ],
     "automated": [
       "The factory is automated.",
       "We have an automated system.",
@@ -75969,14 +75481,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Each note sits on or between the lines of the stave.",
       "Barrels are made from curved pieces of wood called staves.",
       "The verb 'stave off' originally meant to keep something away with a stave, or stick."
-    ],
-    "Tiffany": [
-      "Tiffany is a teacher.",
-      "This is Tiffany.",
-      "Tiffany talks about boredom.",
-      "Tiffany explained what happens in the brain when we are bored.",
-      "According to Tiffany, boredom can push us to try new things.",
-      "Tiffany's view is that boredom is a signal that we need a change."
     ],
     "downtime": [
       "I need some downtime.",
@@ -76622,22 +76126,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "My horoscope said I'd meet someone special this week.",
       "Horoscopes are deliberately vague, so readers can find something in them that seems to fit."
     ],
-    "Nancy": [
-      "Nancy is my friend.",
-      "This is Nancy.",
-      "Nancy likes astrology.",
-      "Nancy believes star signs describe her personality well.",
-      "Nancy admitted that she reads her horoscope every day.",
-      "Nancy's enthusiasm for astrology contrasted with her colleague's scepticism."
-    ],
-    "Campion": [
-      "Campion is a surname.",
-      "Mr Campion is an expert.",
-      "Campion writes about the stars.",
-      "Campion explained why so many people read horoscopes.",
-      "According to Campion, astrology has a very long history.",
-      "Campion argues that astrology answers a human need for meaning rather than a scientific question."
-    ],
     "distant": [
       "The stars are distant.",
       "It was a distant memory.",
@@ -76687,14 +76175,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "A banknote is just a piece of paper with a promise on it.",
       "During high inflation, money became almost worthless pieces of paper.",
       "A currency is only valuable while people believe it is more than a piece of paper."
-    ],
-    "Robert": [
-      "Robert is a teacher.",
-      "This is Robert.",
-      "Robert talks about Brazil.",
-      "Robert described the problems of high inflation.",
-      "According to Robert, Brazil's currency has changed many times.",
-      "Robert argued that a stable currency is the foundation of a healthy economy."
     ],
     "crossroad": [
       "Stop at the crossroad.",
@@ -77834,14 +77314,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "She felt that her parents' rules cramped her independence.",
       "Many young adults complain that living at home cramps their social lives considerably."
     ],
-    "Luke": [
-      "Luke is my friend.",
-      "Luke lives at home.",
-      "Luke is 28 years old.",
-      "Luke says he can't afford to rent his own flat.",
-      "Luke admits that living at home has its advantages.",
-      "Luke's situation is typical of many young professionals priced out of the rental market."
-    ],
     "independence": [
       "I want independence.",
       "Independence is important.",
@@ -78355,14 +77827,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "People who do bodybuilding eat a lot of protein.",
       "Bodybuilding culture has shaped what many people think a healthy diet is.",
       "What began as a niche concern of bodybuilding has become a mainstream nutritional obsession."
-    ],
-    "Scott": [
-      "Scott is a scientist.",
-      "Scott eats eggs for breakfast.",
-      "Scott says that most of us eat more protein than we need.",
-      "According to Scott, most people already get enough protein.",
-      "Scott argues that protein supplements are unnecessary for most of us.",
-      "Scott's research suggests that the protein craze is driven more by marketing than by nutritional need."
     ],
     "gluten": [
       "Bread has gluten in it.",
@@ -79574,14 +79038,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Knowing that 'si' means yes won't get you very far in a conversation.",
       "Words like 'si' are so frequent that learners absorb them almost without effort."
     ],
-    "Gary": [
-      "Gary is my friend.",
-      "Gary likes languages.",
-      "Gary is learning Italian.",
-      "Gary set himself the goal of learning a thousand words.",
-      "Gary found that learning words in context worked better than lists.",
-      "Gary's experiment suggests that a modest, well-chosen vocabulary can carry a learner surprisingly far."
-    ],
     "esteem": [
       "She has low self-esteem.",
       "We hold him in high esteem.",
@@ -79731,14 +79187,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "A pessimist would say the glass is half empty.",
       "Pessimists are sometimes better prepared for things going wrong.",
       "A defensive pessimist uses low expectations as a way to manage anxiety and plan ahead."
-    ],
-    "Oscar": [
-      "Oscar is a name.",
-      "Oscar Wilde was a writer.",
-      "She won an Oscar for the film.",
-      "A quote about optimists and doughnuts is often attributed to Oscar Wilde.",
-      "Oscar Wilde was famous for his witty sayings about life.",
-      "Many clever quotations are attributed to Oscar Wilde, though not all of them are actually his."
     ],
     "optimism": [
       "She is full of optimism.",
@@ -79969,14 +79417,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Building dens is by far the children's favourite activity.",
       "Free play is by far more important than many parents think.",
       "Of all the factors examined, unstructured play was by far the strongest predictor of resilience."
-    ],
-    "Anna": [
-      "Anna is a teacher.",
-      "Anna likes children.",
-      "Anna works at a playground.",
-      "Anna believes children need more free play.",
-      "Anna explains how risky play builds confidence.",
-      "Anna argues that adults too often deny children the chance to manage risk for themselves."
     ],
     "resiliency": [
       "Resiliency is important.",
@@ -80658,14 +80098,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Whether a burp is seen as rude or as a compliment to the cook depends very much on where you are.",
       "Etiquette guides of the past were remarkably frank about burping, spitting and other habits we now take for granted as impolite."
     ],
-    "Samuel": [
-      "His name is Samuel.",
-      "Samuel liked good food.",
-      "Samuel wrote about meals in his diary.",
-      "Samuel's diary tells us a lot about table manners in his time.",
-      "Samuel Pepys described lavish dinners in vivid detail in his famous diary.",
-      "Writers like Samuel Pepys give historians a rare glimpse of everyday dining habits in seventeenth-century London."
-    ],
     "chewing": [
       "Chewing is noisy.",
       "Stop chewing so loudly.",
@@ -80737,14 +80169,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Try not to slop your drink when you clink glasses.",
       "Carrying the overfull bowls, the waiter slopped soup all over the tray.",
       "Old etiquette books advised diners to tilt the soup bowl away from themselves to avoid slopping it."
-    ],
-    "Rupert": [
-      "This is Rupert.",
-      "Rupert likes dinner parties.",
-      "Rupert knows a lot about etiquette.",
-      "Rupert explains which habits are rude at the table.",
-      "According to Rupert, etiquette is less about rules and more about consideration for others.",
-      "Rupert's view is that dining etiquette evolves constantly, reflecting wider changes in society."
     ],
     "glass in": [
       "He had a glass in his hand.",
@@ -81318,14 +80742,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Learning a language can feel like a kind of liberty.",
       "For listeners under occupation, the broadcasts symbolised liberty and a connection to the free world."
     ],
-    "Bruno": [
-      "Bruno is my friend.",
-      "Bruno listens to the radio.",
-      "Bruno learned English at school.",
-      "Bruno wrote to the programme about his English lessons.",
-      "Bruno says the radio broadcasts changed his life.",
-      "Bruno's story illustrates how broadcast English lessons opened doors to further study and careers."
-    ],
     "mechanical engineering": [
       "He studies mechanical engineering.",
       "Mechanical engineering is hard.",
@@ -81383,14 +80799,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "In the US, crisps are called potato chips.",
       "The potato chip is said to have been invented in a New York restaurant.",
       "Whether you call it a crisp or a potato chip reveals which side of the Atlantic you come from."
-    ],
-    "Mitchell": [
-      "Mitchell likes crisps.",
-      "Mitchell is a writer.",
-      "Mitchell talked about snacks.",
-      "Mitchell said cheese and onion is the best flavour.",
-      "According to Mitchell, crisps became a pub snack in the 1920s.",
-      "Mitchell traced the rise of the crisp from a simple pub snack to a global industry."
     ],
     "snowball": [
       "The problem snowballed.",
@@ -84538,14 +83946,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "There was excitement in the newsroom when the story broke.",
       "Newsroom culture often values dramatic stories over quieter, more positive ones."
     ],
-    "Wayne": [
-      "Wayne is a journalist.",
-      "Wayne reads the news.",
-      "Wayne likes good news.",
-      "Wayne believes people want more positive stories.",
-      "According to Wayne, good news rarely makes the front page.",
-      "Wayne's argument was that audiences are hungrier for good news than editors assume."
-    ],
     "seedy": [
       "It's a seedy bar.",
       "The hotel looked seedy.",
@@ -85154,14 +84554,6 @@ window.VOCAB_EXAMPLES_PART1 = {
     ]
   },
   "0413": {
-    "Silvia": [
-      "Silvia is a swimmer.",
-      "Silvia swims every morning.",
-      "Silvia explained how the team trains together.",
-      "According to Silvia, the hardest part is holding your breath while smiling.",
-      "Silvia argued that artistic swimming deserves more respect as a sport.",
-      "Silvia's account of the sport dispelled the notion that it is merely decorative."
-    ],
     "solo": [
       "She sang a solo.",
       "He did a solo on the guitar.",
@@ -85275,14 +84667,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "More people are choosing the bicycle as their main mode of transport.",
       "The city wants to encourage greener modes of transport.",
       "Planners must balance the competing claims of every mode of transport on limited road space."
-    ],
-    "Jan": [
-      "Jan has a new bike.",
-      "Jan rides to work.",
-      "Jan says the roads are dangerous.",
-      "Jan believes drivers and cyclists should respect each other more.",
-      "Jan described a frightening near miss with a lorry.",
-      "Jan's experience illustrates how quickly a routine commute can turn into a confrontation."
     ],
     "racing": [
       "He likes car racing.",
@@ -85487,14 +84871,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "An old navigator may have recorded the island by mistake.",
       "Navigators of the past relied on the stars to find their way.",
       "The phantom island may have originated in a navigator's misreading of a whale or a reef."
-    ],
-    "Maria": [
-      "Maria is a scientist.",
-      "Maria went on a ship.",
-      "Maria was surprised to find only sea.",
-      "Maria said the water there was over a kilometre deep.",
-      "Maria's team decided to check the island's existence for themselves.",
-      "Maria's discovery prompted cartographers to remove the island from their charts."
     ],
     "copy over": [
       "Copy over the words.",
@@ -89598,14 +88974,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Habitual spenders are more likely to fall into debt.",
       "The economy relies on spenders, yet personal finance advice tends to praise savers."
     ],
-    "Jason": [
-      "Jason is my friend.",
-      "Jason has a lot of debt.",
-      "Jason borrowed money from the bank.",
-      "Jason said he used his overdraft every month.",
-      "Jason admitted he hadn't realised how quickly the interest would add up.",
-      "Jason's story illustrates how easily small debts can escalate into a crisis."
-    ],
     "overdraft": [
       "I have an overdraft.",
       "My overdraft is big.",
@@ -90118,14 +89486,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Astronomers think a rocky surface is essential for life as we know it.",
       "Identifying rocky planets in the habitable zone is a major goal of modern astronomy."
     ],
-    "Caroline": [
-      "Caroline is a scientist.",
-      "Caroline likes the stars.",
-      "Caroline talked about new planets.",
-      "Caroline says many planets may have water.",
-      "According to Caroline, the search for habitable worlds is just beginning.",
-      "Caroline cautioned that finding a habitable planet is not the same as finding life."
-    ],
     "habitability": [
       "Habitability means a place is liveable.",
       "We study habitability.",
@@ -90159,14 +89519,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Reaching the South Pole was a huge human endeavour.",
       "The expedition remains one of the great endeavours of polar exploration.",
       "Despite its failure, the endeavour advanced scientific knowledge of the Antarctic."
-    ],
-    "Douglas": [
-      "Douglas is a name.",
-      "Douglas went to the Antarctic.",
-      "Douglas was an explorer.",
-      "Douglas wrote about the cold and the danger.",
-      "Douglas's account gives a vivid picture of polar hardship.",
-      "Douglas's own expedition showed that Scott's sufferings were not unique."
     ],
     "gallant": [
       "He was a gallant man.",
@@ -90427,14 +89779,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Heavy precipitation is expected tonight.",
       "Poets describe rain in ways far richer than a scientist's 'precipitation'.",
       "The contrast between 'precipitation' and 'rain' shows how register shapes tone."
-    ],
-    "Kat": [
-      "Kat is my friend.",
-      "Kat likes poems.",
-      "Kat read a poem in class.",
-      "Kat said poetry helped her learn English.",
-      "Kat explained how alliteration makes lines easier to remember.",
-      "Kat argued that poetry deserves a central place in language teaching."
     ]
   },
   "0467": {
@@ -91182,14 +90526,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Engineers monitored the shuttle constantly while it was in flight.",
       "Any fault in flight could be fatal, so every system was checked and double-checked."
     ],
-    "Jerry": [
-      "Jerry is my friend.",
-      "Jerry likes rockets.",
-      "Jerry watched the launch on TV.",
-      "Jerry told us what it was like to work at NASA.",
-      "For Jerry, the last launch was a very emotional day.",
-      "Jerry described the shuttle as the most complex machine ever built, and its end as deeply sad."
-    ],
     "memorabilia": [
       "He collects memorabilia.",
       "The shop sells memorabilia.",
@@ -91470,14 +90806,6 @@ window.VOCAB_EXAMPLES_PART1 = {
     ]
   },
   "0479": {
-    "Meredith": [
-      "Meredith has a bike.",
-      "Meredith likes cycling.",
-      "Meredith rides to work.",
-      "Meredith says cycling has made her much fitter.",
-      "According to Meredith, more cycle lanes would encourage people to ride.",
-      "Meredith argues that cycling should be treated as a serious form of transport, not just a hobby."
-    ],
     "Dubai": [
       "Dubai is hot.",
       "I went to Dubai.",
@@ -91782,14 +91110,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "Gender-specific products can prove costly for families with sons and daughters.",
       "The decision turned out to be a costly error, both financially and in terms of reputation."
     ],
-    "Davy": [
-      "Davy is my friend.",
-      "Davy likes blue.",
-      "Davy works in a toy shop.",
-      "Davy told us about the history of pink clothes.",
-      "According to Davy, colour rules for children are quite recent.",
-      "Davy argued that marketing, rather than nature, explains our colour preferences."
-    ],
     "get in touch": [
       "Please get in touch.",
       "I will get in touch soon.",
@@ -91921,14 +91241,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "He rotated his body to kick the ball.",
       "In the test, players had to rotate objects in their minds.",
       "The ability to rotate shapes mentally is linked to spatial intelligence."
-    ],
-    "Holly": [
-      "Holly likes football.",
-      "Holly is a scientist.",
-      "Holly watched the match.",
-      "Holly told us about the brain scans.",
-      "According to Holly, players think faster than most people.",
-      "Holly suggested that football intelligence can be trained like any other skill."
     ],
     "expertise": [
       "She has a lot of expertise.",
@@ -92770,14 +92082,6 @@ window.VOCAB_EXAMPLES_PART1 = {
       "The path became steep and dangerous near the cliff.",
       "The steep lane was never meant for heavy vehicles."
     ],
-    "Antony": [
-      "Antony has a car.",
-      "Antony drives a lot.",
-      "Antony uses a sat nav.",
-      "Antony told us about his worst journey.",
-      "Antony believes drivers should still learn to read maps.",
-      "Antony admitted he once followed his sat nav into a farmer's field."
-    ],
     "drive down": [
       "Drive down the street.",
       "We drove down the hill.",
@@ -93072,14 +92376,6 @@ window.VOCAB_EXAMPLES_PART1 = {
     ]
   },
   "0496": {
-    "Peter": [
-      "Peter is a reporter.",
-      "Peter likes news.",
-      "Peter works for the BBC.",
-      "Peter told us how they verify photos.",
-      "According to Peter, social media has changed journalism.",
-      "Peter argued that professional journalists are still needed to check the facts."
-    ],
     "democratisation": [
       "It's democratisation.",
       "Phones led to democratisation.",

@@ -1,7 +1,6 @@
 // Part 1 topic 0224: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0224', {
  "A1": {
-  "Norman": "Uning ismi Norman.",
   "couch": "Divanga o'tiring.",
   "daytime": "Men kunduzi ishlayman.",
   "functioning": "Mashina yaxshi ishlayapti.",
@@ -16,7 +15,6 @@ VOCAB_TR_STORE('1', '0224', {
   "upsetting": "Yangilik xafa qiladigan edi."
  },
  "A2": {
-  "Norman": "Norman shifokor.",
   "couch": "Divan yumshoq.",
   "daytime": "Kunduzi havo iliq.",
   "functioning": "Uyqu miyaning ishlashiga yordam beradi.",
@@ -31,7 +29,6 @@ VOCAB_TR_STORE('1', '0224', {
   "upsetting": "Bu xafa qiladigan kun bo'ldi."
  },
  "B1": {
-  "Norman": "Norman o'z hayoti haqida gapirib berdi.",
   "couch": "U divanda uxlab qoldi.",
   "daytime": "Boyqushlar kunduzi uxlaydi.",
   "functioning": "Stress odatdagi faoliyatimizga ta'sir qiladi.",
@@ -46,7 +43,6 @@ VOCAB_TR_STORE('1', '0224', {
   "upsetting": "Film unga juda og'ir botdi."
  },
  "B2": {
-  "Norman": "Normanning aytishicha, terapiya uning stressga qanday munosabatda bo'lishini o'zgartirgan.",
   "couch": "Psixoanalitikning kushetkasi terapiyaning mashhur ramziga aylangan.",
   "daytime": "Ko'p odamlar ish tufayli kunduzi terapiyaga borishga qiynalishadi.",
   "functioning": "Terapiya odamlarga normal faoliyatga qaytishga yordam berishi mumkin.",
@@ -61,7 +57,6 @@ VOCAB_TR_STORE('1', '0224', {
   "upsetting": "Terapevtlar odamlarga ko'ngilni xira qiladigan voqealar haqida gapirishga yordam beradi."
  },
  "C1": {
-  "Norman": "Ko'rsatuvda Norman gapira boshlash qanchalik qiyin bo'lganini tasvirlab beradi.",
   "couch": "Freydning bemorlari bo'shashib, erkin gapira olishlari uchun kushetkada yotishgan.",
   "daytime": "Kechasi yomon uxlash kunduzgi vaqtni toliqtiruvchi qilib qo'yishi mumkin.",
   "functioning": "Shifokorlar bemorning ishda va uyda qanchalik faoliyat yurita olishini baholashadi.",
@@ -76,7 +71,6 @@ VOCAB_TR_STORE('1', '0224', {
   "upsetting": "Terapiyada og'ir hodisalarni qayta eslash oxir-oqibat ularning ta'sirini kamaytirishi mumkin."
  },
  "C2": {
-  "Norman": "Normanning hikoyasi ko'plab erkaklar hamon psixologik yordam so'rashga qanchalik istamasligini ko'rsatadi.",
   "couch": "Zamonaviy terapiyaning aksariyati yuzma-yuz o'tkazilsa-da, kushetka barqaror madaniy timsol bo'lib qolmoqda.",
   "daytime": "Kunduzi boshqarsa bo'ladigandek tuyulgan xavotir kechasi bosib ketadigan darajaga yetishi mumkin.",
   "functioning": "Davolanmagan depressiya kognitiv va ijtimoiy faoliyatni jiddiy izdan chiqarishi mumkin.",
@@ -91,7 +85,6 @@ VOCAB_TR_STORE('1', '0224', {
   "upsetting": "Og'ir xotiralarni muhokama qilish azobli bo'lsa-da, ulardan qochish iztirobni uzaytirishga moyil."
  },
  "EX": {
-  "Norman": "Norman suhbat terapiyasi unga qanday yordam berganini tushuntiradi.",
   "couch": "Freyd davrida bemorlar gapirayotganda kushetkada yotishardi.",
   "daytime": "Terapiya mashg'ulotlari odatda kunduzi o'tkaziladi.",
   "functioning": "Suhbat terapiyasi insonning kundalik faoliyatini yaxshilashi mumkin.",

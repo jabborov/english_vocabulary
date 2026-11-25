@@ -1,7 +1,6 @@
 // Part 1 topic 0041: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0041', {
  "A1": {
-  "Thomas": "Tomas olim.",
   "alive": "Baliq tirik.",
   "biological": "Bu biologik test.",
   "body part": "Qo'l tananing bir qismi.",
@@ -63,7 +62,6 @@ VOCAB_TR_STORE('1', '0041', {
   "womb": "Chaqaloq bachadonda o'sadi."
  },
  "A2": {
-  "Thomas": "Tomas hayvonlar bilan ishlaydi.",
   "alive": "Buvim hali ham hayot.",
   "biological": "U biologiya fanini o'rganadi.",
   "body part": "Tananing bir a'zosini ayting.",
@@ -125,7 +123,6 @@ VOCAB_TR_STORE('1', '0041', {
   "womb": "Chaqaloq onasining bachadonida yashaydi."
  },
  "B1": {
-  "Thomas": "Karkidon loyihasiga Tomas rahbarlik qiladi.",
   "alive": "Bu karkidonlardan faqat ikkitasi tirik.",
   "biological": "Olimlar biologik namunalarni juda sovuq holatda saqlashadi.",
   "body part": "Burun karkidonlar uchun muhim tana a'zosidir.",
@@ -187,7 +184,6 @@ VOCAB_TR_STORE('1', '0041', {
   "womb": "Embrion karkidonning bachadoniga joylashtiriladi."
  },
  "B2": {
-  "Thomas": "Thomas embrionlar qanday yaratilishini tushuntirib berdi.",
   "alive": "Olimlar bu turni tirik saqlab qolishni xohlashadi.",
   "biological": "Jamoa nobud bo'lgan karkidonlardan olingan biologik materialdan foydalandi.",
   "body part": "Brakonyerlar karkidonlarni tananing bitta qismi, ya'ni shoxi uchun o'ldirishadi.",
@@ -249,7 +245,6 @@ VOCAB_TR_STORE('1', '0041', {
   "womb": "Bola bachadonda o'n olti oy davomida rivojlanadi."
  },
  "C1": {
-  "Thomas": "Tomas fan shimoliy oq karkidonni qutqara oladi, deb hisoblaydi.",
   "alive": "Loyiha shimoliy oq karkidonni kelajak avlodlar uchun tirik saqlab qolishni maqsad qilgan.",
   "biological": "Odamlar uchun ishlab chiqilgan biologik usullar endi hayvonlarni qutqarish uchun qo'llanilmoqda.",
   "body part": "Ultratovush jarrohliksiz tana a'zolarining tasvirini hosil qiladi.",
@@ -311,7 +306,6 @@ VOCAB_TR_STORE('1', '0041', {
   "womb": "Bachadondagi muammolar homiladorlikni imkonsiz qilishi mumkin."
  },
  "C2": {
-  "Thomas": "Thomas loyiha muvaffaqiyat kafolatlanmagan vaqt bilan poyga ekanini tan oladi.",
   "alive": "Turni genetik jihatdan tirik saqlash uni ekologik jihatdan ahamiyatli holda saqlashdan boshqa masala.",
   "biological": "Karkidon ko'payishining biologik murakkabligi tufayli ilmiy ishlarning ko'p qismini noldan boshlashga to'g'ri keldi.",
   "body part": "Yo'qolib borayotgan hayvonlarning tana a'zolari savdosi turlarning qirilib ketishining asosiy sabablaridan biridir.",
@@ -373,7 +367,6 @@ VOCAB_TR_STORE('1', '0041', {
   "womb": "Keksa shimoliy urg'ochilar endi homilani ko'tara olmaydi, chunki ularning bachadoni yetarlicha sog'lom emas."
  },
  "EX": {
-  "Thomas": "Tomas va uning jamoasi oxirgi ikki urg'ochidan embrionlar yaratishdi.",
   "alive": "Faqat ikkita shimoliy oq karkidon hali tirik.",
   "biological": "Bu loyiha biologik qutqaruv missiyasidir.",
   "body part": "Ultratovush ichkarida yashiringan tana qismlarini ko'rsatishi mumkin.",

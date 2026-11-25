@@ -1,7 +1,6 @@
 // Part 1 topic 0024: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0024', {
  "A1": {
-  "Michael": "Michael mening do'stim.",
   "alien": "O'zga sayyoralik yashil rangda.",
   "artificially": "U sun'iy tarzda yaratilgan.",
   "at least": "Hech bo'lmasa sinab ko'ring.",
@@ -50,7 +49,6 @@ VOCAB_TR_STORE('1', '0024', {
   "word of mouth": "Men buni og'izdan-og'izga o'tgan gaplardan eshitdim."
  },
  "A2": {
-  "Michael": "Michael uchta tilda gapiradi.",
   "alien": "Men filmda o'zga sayyoralikni ko'rdim.",
   "artificially": "Yorug'lik sun'iy ravishda kuchaytirilgan.",
   "at least": "Uning narxi kamida o'n dollar.",
@@ -99,7 +97,6 @@ VOCAB_TR_STORE('1', '0024', {
   "word of mouth": "Xabar og'izdan-og'izga tarqaldi."
  },
  "B1": {
-  "Michael": "Michael o'ylab topilgan tillar haqida kitob yozdi.",
   "alien": "Filmdagi o'zga sayyoraliklar o'z tillarida gapirishadi.",
   "artificially": "Ba'zi tillar sun'iy ravishda yaratiladi.",
   "at least": "Kamida yuz kishi bu tilda yaxshi gapiradi.",
@@ -148,7 +145,6 @@ VOCAB_TR_STORE('1', '0024', {
   "word of mouth": "Muxlislar bu til haqida og'izdan og'izga o'tgan gaplar orqali bilishdi."
  },
  "B2": {
-  "Michael": "Maykl sun'iy tillar san'atning bir turi ekanini tushuntirdi.",
   "alien": "Til o'zga sayyoraliklarni yanada haqiqiy va ishonarli qilib ko'rsatadi.",
   "artificially": "Esperanto o'rganish oson bo'lishi uchun sun'iy ravishda ishlab chiqilgan.",
   "at least": "Klingon tilini o'rganish qiyin, lekin hech bo'lmaganda qiziqarli.",
@@ -197,7 +193,6 @@ VOCAB_TR_STORE('1', '0024', {
   "word of mouth": "Til reklama orqali emas, og'izdan og'izga o'tib mashhur bo'ldi."
  },
  "C1": {
-  "Michael": "Michaelning so'zlariga ko'ra, to'qima tillarning jozibasi ularning ijodkorligida.",
   "alien": "O'zga sayyoraliklarga izchil til berish xayoliy dunyoga chuqurlik qo'shdi.",
   "artificially": "Sun'iy yaratilgan tillarda tabiiy tillarni shunchalik boy qiladigan noqonuniyliklar kamdan-kam rivojlanadi.",
   "at least": "Aytishlaricha, kamida bitta klingon tilida so'zlashuvchi o'g'lini shu tilda gapirtirib katta qilgan.",
@@ -246,7 +241,6 @@ VOCAB_TR_STORE('1', '0024', {
   "word of mouth": "Ishqibozlar orasida og'izdan-og'izga o'tgan gaplar to'qima tilning butun dunyo auditoriyasiga yetib borishiga yordam berdi."
  },
  "C2": {
-  "Michael": "Michaelning tadqiqoti til ixtirochilarining maqsadlari tillarning o'zi kabi xilma-xil ekanini ko'rsatadi.",
   "alien": "Ishonarli darajada begona til tomoshabinlar ongsiz ravishda inson tillari bilan bog'laydigan tovush va tuzilmalardan qochishi lozim.",
   "artificially": "Sun'iy ravishda yaratilgan tillarda ko'pincha asrlar davomida qo'llanish tabiiy tillarga ato etadigan to'plangan iboralar va o'ziga xosliklar yetishmaydi.",
   "at least": "Hech bo'lmaganda nazariy jihatdan, har qanday yetarlicha batafsil ishlangan sun'iy til ona tili sifatida so'zlashuvchilarga ega bo'lishi mumkin.",
@@ -295,7 +289,6 @@ VOCAB_TR_STORE('1', '0024', {
   "word of mouth": "Internet paydo bo'lishidan ancha oldin sun'iy tillar yangi tarafdorlar topish uchun deyarli butunlay og'izdan-og'izga o'tgan gaplarga tayangan."
  },
  "EX": {
-  "Michael": "Maykl odamlar nima uchun sun'iy tillarni o'rganishni yoqtirishini tushuntirdi.",
   "alien": "Klingon tili \"Star Trek\"dagi o'zga sayyoraliklar uchun yaratilgan.",
   "artificially": "Esperanto – sun'iy ravishda yaratilgan til.",
   "at least": "Kamida ming kishi klingon tilida biroz gaplasha oladi.",

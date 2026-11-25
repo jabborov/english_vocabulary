@@ -1,7 +1,6 @@
 // Part 1 topic 0067: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0067', {
  "A1": {
-  "Beth": "Bet mening dugonam.",
   "advanced": "Bu rivojlangan mamlakat.",
   "bleak": "Kelajak qorong'i ko'rinadi.",
   "come down": "Narxlar tushadi.",
@@ -30,7 +29,6 @@ VOCAB_TR_STORE('1', '0067', {
   "volatile": "Narxlar beqaror."
  },
  "A2": {
-  "Beth": "Bet BBCda ishlaydi.",
   "advanced": "Ularda ilg'or texnologiyalar bor.",
   "bleak": "Bu xira, g'amgin kun edi.",
   "come down": "Narx tushdi.",
@@ -59,7 +57,6 @@ VOCAB_TR_STORE('1', '0067', {
   "volatile": "Bozor beqaror."
  },
  "B1": {
-  "Beth": "Beth narxlarning oshishi haqida gapirdi.",
   "advanced": "Rivojlangan iqtisodiyotlarda narxlar oshmoqda.",
   "bleak": "Ba'zilar kelgusi yil istiqboli xira deyishmoqda.",
   "come down": "Oziq-ovqat narxi pasayadi deb umid qilamiz.",
@@ -88,7 +85,6 @@ VOCAB_TR_STORE('1', '0067', {
   "volatile": "Oziq-ovqat va yoqilg'i narxlari beqaror."
  },
  "B2": {
-  "Beth": "Beth Neildan inflyatsiya haqida savol so'radi.",
   "advanced": "AQSh va Buyuk Britaniya kabi rivojlangan iqtisodiyotlar yuqori inflyatsiyaga duch kelmoqda.",
   "bleak": "O'sish bo'yicha prognoz ancha umidsiz.",
   "come down": "Iqtisodchilar inflyatsiya asta-sekin pasayishini kutishmoqda.",
@@ -117,7 +113,6 @@ VOCAB_TR_STORE('1', '0067', {
   "volatile": "Beqaror narxlar korxonalarga reja tuzishni qiyinlashtiradi."
  },
  "C1": {
-  "Beth": "Beth energiya xarajatlari keskin oshganini ta'kidladi.",
   "advanced": "Rivojlangan iqtisodiyotlar xonadonlarni narx zarbalaridan himoya qilishga yaxshiroq tayyor.",
   "bleak": "Energiya narxlari bo'yicha choralar ko'rilmasa, kambag'al oilalar uchun manzara g'amgin ko'rinadi.",
   "come down": "Energiya narxlari eng yuqori nuqtasidan pasaya boshladi.",
@@ -146,7 +141,6 @@ VOCAB_TR_STORE('1', '0067', {
   "volatile": "Neft jahonda savdo qilinadigan eng beqaror tovarlardan biridir."
  },
  "C2": {
-  "Beth": "Beth muhokamani kundalik xaridlardan inflyatsiya ortidagi global omillarga qarab yo'naltirdi.",
   "advanced": "Rivojlangan iqtisodiyotlarda inflyatsiya o'n yilliklar davomida kuzatilmagan darajaga yetdi.",
   "bleak": "Ko'ngilsiz iqtisodiy istiqbol hukumatning shoshilinch aralashuviga chaqiriqlarga sabab bo'ldi.",
   "come down": "Inflyatsiya pasayganda ham narxlarning o'zi kamdan-kam hollarda avvalgi darajasiga qaytadi.",
@@ -175,7 +169,6 @@ VOCAB_TR_STORE('1', '0067', {
   "volatile": "Beqaror bozorlarda hatto asosli prognozlar ham bir necha hafta ichida puchga chiqishi mumkin."
  },
  "EX": {
-  "Beth": "Beth narxlar nima uchun oshayotganini tushuntiradi.",
   "advanced": "Rivojlangan iqtisodiyotlarda ham inflyatsiya o'smoqda.",
   "bleak": "Iqtisodiy istiqbol ko'ngilsiz ko'rinadi.",
   "come down": "Kelasi yili narxlar tushishi mumkin.",

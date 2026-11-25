@@ -245,7 +245,7 @@ async function load(url, setup){
     const d = w.document, btn = d.querySelector('[data-random-word]');
     assert.ok(btn, 'random button on ' + page);
     const total = [w.VOCAB_DATA, w.VOCAB_DATA_PART1].reduce((n, D) => n + Object.values(D).reduce((m, t) => m + t.words.length, 0), 0);
-    assert.strictEqual(total, 14086);
+    assert.strictEqual(total, 13994);   // 14086 minus the 92 people's names that were removed
     assert.strictEqual(w.VocabRandom.poolSize, total);
     const seen = new Set(), parts = new Set(); let prev = null;
     for (let n = 0; n < 400; n++) {
@@ -883,6 +883,44 @@ async function load(url, setup){
   // the removed topic list leaves no styles behind (also not in the print styles)
   w = await load('topic.html?topic=0004');
   assert.ok(![...w.document.querySelectorAll('style')].some(x => x.textContent.includes('topic-nav')), 'no .topic-nav styles');
+
+  // ---- The 92 people's names (88 in Part 1, 4 in Part 2) were removed: not in data, examples, translations, popup ----
+  { const REMOVED = {
+      '1': '0002 Ben|0002 Esther|0003 Sarah|0004 David|0009 Charlotte|0009 Ruth|0009 Anne|0010 Mary|0010 Tom|0012 John|0014 Simon|0017 Stephen|0018 Christian|0019 Andrew|0021 Sam|0024 Michael|0028 Lucy|0032 Rob|0036 Christopher|0041 Thomas|0044 Karen|0048 shona|0055 James|0056 Paul|0057 Erica|0067 Beth|0068 Rebecca|0068 Mike|0069 Rosa|0076 Helen|0079 Adam|0088 Jordan|0090 Jack|0099 Charles|0110 Joshua|0110 Martin|0117 Victor|0120 Veronica|0120 Hugo|0145 Anderson|0157 Anthony|0169 Catherine|0177 Rachel|0179 Fuchsia|0187 Tristan|0196 Philip|0199 Georgia|0204 Jenny|0205 Victoria|0224 Norman|0225 Benjamin|0230 Brad|0231 Cooper|0242 Graham|0249 Liza|0268 Harvey|0278 Owen|0290 Jay|0300 Leo|0312 Walter|0313 Missy|0313 Tiffany|0319 Nancy|0319 Campion|0320 Robert|0329 Luke|0334 Scott|0343 Gary|0346 Oscar|0349 Anna|0357 Samuel|0357 Rupert|0367 Bruno|0368 Mitchell|0405 Wayne|0413 Silvia|0414 Jan|0416 Maria|0459 Jason|0463 Caroline|0464 Douglas|0466 Kat|0475 Jerry|0479 Meredith|0483 Davy|0485 Holly|0493 Antony|0496 Peter'.split('|').map(x => x.split(' ')),
+      '2': '0039 Callum|0057 Rebecca|0062 Anne|0067 Catherine'.split('|').map(x => x.split(' ')) };
+    assert.strictEqual(REMOVED['1'].length, 88);
+    assert.strictEqual(REMOVED['2'].length, 4);
+    w = await load('index.html');
+    const D = { '1': w.VOCAB_DATA_PART1, '2': w.VOCAB_DATA }, E = { '1': w.VOCAB_EXAMPLES_PART1, '2': w.VOCAB_EXAMPLES };
+    const count = X => Object.values(X).reduce((n, t) => n + t.words.length, 0);
+    assert.strictEqual(count(D['1']), 11574);                  // 11662 - 88
+    assert.strictEqual(count(D['2']), 2420);                   // 2424 - 4
+    assert.strictEqual(Object.keys(D['1']).length, 508);       // no topic was removed or emptied
+    assert.strictEqual(Object.keys(D['2']).length, 80);
+    for (const part of ['1', '2']) for (const t of Object.values(D[part])) assert.ok(t.words.length > 0);
+    for (const part of ['1', '2']) {
+      for (const [k, name] of REMOVED[part]) {
+        const id = `Part ${part} ${k} ${name}`;
+        assert.ok(D[part][k], id + ': topic still there');
+        assert.ok(!D[part][k].words.some(x => x.w === name), id + ': not in the word list');
+        assert.ok(!(name in (E[part][k] || {})), id + ': no example sentences');
+        const tr = await w.loadTopicTranslations(part, k);
+        for (const lv of ['A1', 'A2', 'B1', 'B2', 'C1', 'C2', 'EX']) assert.ok(!(name in (tr[lv] || {})), id + ': no ' + lv + ' translation');
+        // every remaining word of that topic still has its examples and translations
+        for (const x of D[part][k].words) {
+          assert.ok(Array.isArray(E[part][k][x.w]), id + ': examples kept for ' + x.w);
+          for (const lv of ['A1', 'A2', 'B1', 'B2', 'C1', 'C2', 'EX']) assert.ok(tr[lv][x.w], id + ': ' + lv + ' kept for ' + x.w);
+        }
+      }
+    }
+    // no entry anywhere is a removed name any more (case-insensitive), so the synonym popup does not link them
+    const all = new Set(['1', '2'].flatMap(part => Object.values(D[part]).flatMap(t => t.words.map(x => x.w.toLowerCase()))));
+    const names = new Set(REMOVED['1'].concat(REMOVED['2']).map(([k, n]) => n.toLowerCase()));
+    for (const n of names) {
+      assert.ok(!all.has(n), n + ' is not a word on the site');
+      assert.ok(!w.VocabInfo.has(n), n + ' is not linked in the synonym popup');
+    }
+  }
 
   console.log('ALL TESTS PASSED');
 })().catch(e => { console.error('FAIL', e.message); process.exit(1); });

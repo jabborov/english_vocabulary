@@ -1,8 +1,6 @@
 // Part 1 topic 0002: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0002', {
  "A1": {
-  "Ben": "Ben mening do'stim.",
-  "Esther": "Ester televizorda chiqyapti.",
   "UK": "Men Buyuk Britaniyada yashayman.",
   "US": "U AQShda yashaydi.",
   "a bit": "Men biroz charchadim.",
@@ -146,8 +144,6 @@ VOCAB_TR_STORE('1', '0002', {
   "written document": "Bu yozma hujjat."
  },
  "A2": {
-  "Ben": "Ben qahvani yaxshi ko'radi.",
-  "Esther": "Esterning teleko'rsatuvi bor edi.",
   "UK": "Buyuk Britaniya Yevropada joylashgan.",
   "US": "O'tgan yili biz AQShga uchib bordik.",
   "a bit": "Qahva biroz sovuq.",
@@ -291,8 +287,6 @@ VOCAB_TR_STORE('1', '0002', {
   "written document": "Iltimos, yozma hujjat olib keling."
  },
  "B1": {
-  "Ben": "Ben reysi tufayli jahli chiqdi.",
-  "Esther": "Ester odamlarga shikoyat qilishda yordam berdi.",
   "UK": "Buyuk Britaniyada odamlar shikoyat qilishni yoqtirmaydi.",
   "US": "AQShda o'tkazilgan so'rovnoma mijozlar shikoyatlarini o'rgandi.",
   "a bit": "U kechikish tufayli biroz jahli chiqdi.",
@@ -436,8 +430,6 @@ VOCAB_TR_STORE('1', '0002', {
   "written document": "Rasmiy shikoyat ko'pincha yozma hujjat shaklida bo'ladi."
  },
  "B2": {
-  "Ben": "Ben endi ijtimoiy tarmoqlarda shikoyat qilishini tushuntiradi.",
-  "Esther": "Ester Rantsen yigirma yildan ortiq vaqt davomida iste'molchilarga bag'ishlangan dasturni olib borgan.",
   "UK": "Buyuk Britaniyada shikoyatlar soni keskin oshdi.",
   "US": "AQShda o'tkazilgan so'rovnomaga ko'ra, odamlar eng ko'p shikoyat qiladigan kompaniyalar aviakompaniyalardir.",
   "a bit": "Agar biror narsadan biroz norozi bo'lsangiz ham, buni aytib qo'yishga arziydi.",
@@ -581,8 +573,6 @@ VOCAB_TR_STORE('1', '0002', {
   "written document": "Kompaniya sizga aytgan hamma narsani yozma hujjat sifatida saqlab qo'ying."
  },
  "C1": {
-  "Ben": "Ben ilgari janjal chiqarishdan qo'rqib shikoyat qilishdan qochganini tan oladi.",
-  "Esther": "Esther shikoyat qilish huquqi demokratik jamiyat uchun asosiy ahamiyatga ega ekanini ta'kidlaydi.",
   "UK": "Buyuk Britaniyada televideniyedagi iste'molchilarga oid dasturlarning uzoq an'anasi bor.",
   "US": "AQShdagi iste'molchilar munosabati ko'pincha britaniyaliklarning shikoyat qilishni istamasligi bilan qiyoslanadi.",
   "a bit": "Biroz achchiqlanish odatda britaniyalikni shikoyat qilishga undash uchun yetarli bo'lmaydi.",
@@ -726,8 +716,6 @@ VOCAB_TR_STORE('1', '0002', {
   "written document": "Agar shikoyatni yuqoriroq darajaga olib chiqish kerak bo'lsa, yozma hujjat dalil bo'lib xizmat qiladi."
  },
  "C2": {
-  "Ben": "Benning hikoyasi ijtimoiy tarmoqlar bir paytlar tortinchoq bo'lgan iste'molchilar avlodini qanday dadil qilganini yaqqol ko'rsatadi.",
-  "Esther": "Esther Rantzen Britaniyada shikoyat qilishni hurmatli ishga aylantirish uchun, ehtimol, hammadan ko'ra ko'proq ish qilgan.",
   "UK": "Buyuk Britaniyaning sabr-toqatli xalqdan shikoyatchilar xalqiga aylanish yo'li qiziqarli madaniy hikoyadir.",
   "US": "Amerikaliklarning shikoyat qilishga nisbatan ancha erkin munosabati ko'pincha britaniyaliklarning vazminligiga qarama-qarshi misol sifatida keltiriladi.",
   "a bit": "Biroz xafa bo'lish bilan chinakam ozor chekish o'rtasida juda katta farq bor.",
@@ -871,8 +859,6 @@ VOCAB_TR_STORE('1', '0002', {
   "written document": "Shartlar bayon etilgan yozma hujjat bo'lmagani uchun nizoni hal qilish deyarli imkonsiz bo'lib chiqdi."
  },
  "EX": {
-  "Ben": "Benning aytishicha, u avvalgiga qaraganda ancha ko'p shikoyat qiladi.",
-  "Esther": "Ester Rantsen shikoyat qilishni demokratik huquq deb hisoblaydi.",
   "UK": "Buyuk Britaniyada odamlar har qachongidan ham ko'proq shikoyat qilmoqda.",
   "US": "AQShda o'tkazilgan so'rovnoma eng ko'p shikoyatlarni aviakompaniyalar olishini ko'rsatdi.",
   "a bit": "Ovqatim sovuq holda kelganida biroz asabiylashdim.",

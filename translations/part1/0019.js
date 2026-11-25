@@ -1,7 +1,6 @@
 // Part 1 topic 0019: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0019', {
  "A1": {
-  "Andrew": "Andrew yulduzlarni yaxshi ko'radi.",
   "abroad": "Men chet elda yashayman.",
   "alike": "Bu keksalarga ham, yoshlarga ham birdek yoqadi.",
   "amateur": "U havaskor rassom.",
@@ -79,7 +78,6 @@ VOCAB_TR_STORE('1', '0019', {
   "west": "Quyosh g'arbda botadi."
  },
  "A2": {
-  "Andrew": "Andrewning teleskopi bor.",
   "abroad": "Yozda chet elga boramiz.",
   "alike": "Bu o'g'il bolalarga ham, qizlarga ham birdek yoqadi.",
   "amateur": "U havaskor xonanda.",
@@ -157,7 +155,6 @@ VOCAB_TR_STORE('1', '0019', {
   "west": "Biz g'arbda yashaymiz."
  },
  "B1": {
-  "Andrew": "Andrew bizga qorong'i osmon qo'riqxonasi haqida gapirib berdi.",
   "abroad": "Ba'zi odamlar yulduzlarni ko'rish uchun chet elga borishadi.",
   "alike": "Mutaxassislar ham, yangi boshlovchilar ham qorong'i osmonni yaxshi ko'rishadi.",
   "amateur": "Havaskor astronomlar bu yerga teleskoplari bilan kelishadi.",
@@ -235,7 +232,6 @@ VOCAB_TR_STORE('1', '0019', {
   "west": "Milliy bog' Angliyaning janubi-g'arbida joylashgan."
  },
  "B2": {
-  "Andrew": "Andrew tashrif buyuruvchilar yulduzlarning ko'pligidan hayratda qolishlarini aytdi.",
   "abroad": "Endi haqiqiy qorong'i osmonni topish uchun chet elga borishingiz shart emas.",
   "alike": "Tajribali astronomlar ham, sayyohlar ham birdek yulduzlarni ko'rish uchun kelishadi.",
   "amateur": "Havaskor astronomlar ko'plab kometalarni kashf etishgan.",
@@ -313,7 +309,6 @@ VOCAB_TR_STORE('1', '0019', {
   "west": "Mintaqaning g'arbida shaharlar ancha kam va osmon ancha qorong'i."
  },
  "C1": {
-  "Andrew": "Andrew bog' bo'ylab yorug'lik darajasini kuzatish ishlari haqida so'zlab berdi.",
   "abroad": "Ilgari britaniyalik astronomlar bunchalik qorong'i osmonni topish uchun chet elga borishga majbur edi.",
   "alike": "Yangi maqomdan mahalliy aholi ham, mehmonlar ham birdek foyda ko'rdi.",
   "amateur": "Havaskor kuzatuvchilar ilmiy tadqiqotlarga qimmatli hissa qo'shadi.",
@@ -391,7 +386,6 @@ VOCAB_TR_STORE('1', '0019', {
   "west": "Bulutlar odatda g'arbdan keladi, shuning uchun astronomlar o'sha ufqni diqqat bilan kuzatadi."
  },
  "C2": {
-  "Andrew": "Andrew qorong'i osmon landshaftning o'zi kabi qimmatli tabiiy resurs ekanini ta'kidladi.",
   "abroad": "Yevropadagi eng qorong'i osmonlardan biri ostonangizda turgan bo'lsa, nega chet elga borish kerak, deb so'raydi bog'.",
   "alike": "Olimlar ham, shoirlar ham azaldan yulduzlarga to'la osmondan ilhom olib kelgan.",
   "amateur": "Uskunalar takomillashgani sari havaskor va professional astronomiya o'rtasidagi chegara xiralashib bormoqda.",
@@ -469,7 +463,6 @@ VOCAB_TR_STORE('1', '0019', {
   "west": "Mamlakatning siyrak aholili g'arbi qorong'i osmon turizmi uchun magnitga aylandi."
  },
  "EX": {
-  "Andrew": "Endryu bog' tungi osmonini qanday muhofaza qilishini tushuntirdi.",
   "abroad": "Qorong'i osmonni ko'rish uchun chet elga borishingiz shart emas.",
   "alike": "Qo'riqxona astronomlarni ham, sayyohlarni ham birdek jalb qiladi.",
   "amateur": "Havaskor astronomlar bog'ning qorong'i osmonini juda yaxshi ko'rishadi.",

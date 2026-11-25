@@ -1,7 +1,6 @@
 // Part 1 topic 0012: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0012', {
  "A1": {
-  "John": "John erkak kishi.",
   "achieve": "Men maqsadimga erishdim.",
   "act": "Biz hozir harakat qilishimiz kerak.",
   "activity": "Menga bu mashg'ulot yoqadi.",
@@ -86,7 +85,6 @@ VOCAB_TR_STORE('1', '0012', {
   "widespread": "Bu muammo keng tarqalgan."
  },
  "A2": {
-  "John": "John vazir.",
   "achieve": "Siz bunga erisha olasiz.",
   "act": "Tezda harakat qiling!",
   "activity": "Qanday mashg'ulotlar bilan shug'ullanasiz?",
@@ -171,7 +169,6 @@ VOCAB_TR_STORE('1', '0012', {
   "widespread": "Bu keng tarqalgan g'oya."
  },
  "B1": {
-  "John": "John plastik paketlar haqida gapirdi.",
   "achieve": "To'lov paketlardan foydalanishning keskin kamayishiga erishdi.",
   "act": "Hukumat plastik paketlarni kamaytirish uchun choralar ko'rdi.",
   "activity": "Ko'p odamlar uchun xarid qilish kundalik mashg'ulotdir.",
@@ -256,7 +253,6 @@ VOCAB_TR_STORE('1', '0012', {
   "widespread": "Buyuk Britaniyada plastik paketlardan foydalanish keng tarqalgan."
  },
  "B2": {
-  "John": "John to'lov odamlarning odatlarini o'zgartirganini aytdi.",
   "achieve": "Uels paketlardan foydalanishni 70 foizga kamaytirishga erishdi.",
   "act": "Uels Buyuk Britaniyada paketlar masalasida chora ko'rgan birinchi hudud bo'ldi.",
   "activity": "Inson faoliyati atrof-muhitga jiddiy zarar yetkazmoqda.",
@@ -341,7 +337,6 @@ VOCAB_TR_STORE('1', '0012', {
   "widespread": "Paket uchun to'lov keng qo'llab-quvvatlanmoqda."
  },
  "C1": {
-  "John": "Jonning ta'kidlashicha, kichik o'zgarishlar atrof-muhit uchun katta farq qilishi mumkin.",
   "achieve": "Siyosat uning tarafdorlari kutganidan ham ko'proq natijaga erishdi.",
   "act": "Hukumatlar plastik ifloslanishga qarshi kurashish uchun tezkor choralar ko'rishi kerak.",
   "activity": "Xarid qilish kabi kundalik faoliyatlarning atrof-muhitga yashirin zarari bor.",
@@ -426,7 +421,6 @@ VOCAB_TR_STORE('1', '0012', {
   "widespread": "Plastik ifloslanish daryolar va dengizlarda keng tarqalgan muammoga aylandi."
  },
  "C2": {
-  "John": "Jon bu to'lovni barqarorlik sari kengroq madaniy o'zgarishning bir qismi deb ta'rifladi.",
   "achieve": "Yig'im erishgan natija shunchaki paketlarning kamayishi emas, balki munosabatlarning o'zgarishi bo'ldi.",
   "act": "Ekologik muammolarga qarshi chora ko'rishni kechiktirish ularning oxirgi narxini muqarrar ravishda oshiradi.",
   "activity": "Arzimasdek ko'ringan faoliyatlarning umumiy ta'siri ko'pincha yetarlicha baholanmaydi.",
@@ -511,7 +505,6 @@ VOCAB_TR_STORE('1', '0012', {
   "widespread": "Jamoatchilikning yig'imni keng qabul qilishi hatto uning eng qat'iy tarafdorlarini ham hayratga soldi."
  },
  "EX": {
-  "John": "Atrof-muhit vaziri Jon to'lov nima uchun joriy etilganini tushuntirdi.",
   "achieve": "To'lov o'z maqsadiga erishdi.",
   "act": "Hukumat plastik chiqindilar bo'yicha choralar ko'rishga qaror qildi.",
   "activity": "Xarid qilish – kundalik faoliyat.",

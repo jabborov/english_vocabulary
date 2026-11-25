@@ -1,7 +1,6 @@
 // Part 1 topic 0117: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0117', {
  "A1": {
-  "Victor": "Victor fermer.",
   "angrily": "U jahl bilan baqirdi.",
   "beehive": "Asalarilar uyada yashaydi.",
   "break into": "Kimdir mashinamga o'g'irlikka tushdi.",
@@ -26,7 +25,6 @@ VOCAB_TR_STORE('1', '0117', {
   "weigh": "Vazningiz qancha?"
  },
  "A2": {
-  "Victor": "Bu mening do'stim Victor.",
   "angrily": "U menga jahl bilan qaradi.",
   "beehive": "Asalari uyasiga tegmang!",
   "break into": "O'g'ri uyga bostirib kirdi.",
@@ -51,7 +49,6 @@ VOCAB_TR_STORE('1', '0117', {
   "weigh": "Sumka ikki kilogramm keladi."
  },
  "B1": {
-  "Victor": "Viktor Keniyadagi fermerlarga yordam beradi.",
   "angrily": "Asalarilar jahl bilan g'ingilladi.",
   "beehive": "Fermerning o'nta asalari uyasi bor.",
   "break into": "Fillar dalaga bostirib kirishdi.",
@@ -76,7 +73,6 @@ VOCAB_TR_STORE('1', '0117', {
   "weigh": "Filning vazni juda og'ir."
  },
  "B2": {
-  "Victor": "Victor asalari uyali to'siqlar ekinlarni qanday himoya qilishini tushuntirib berdi.",
   "angrily": "Uya chayqalganda asalarilar g'azab bilan uchib chiqib, chaqishadi.",
   "beehive": "Asalari uyalari to'siq ustunlari orasidagi simlarga osib qo'yiladi.",
   "break into": "Tunda fillar fermalarga bostirib kirib, makkajo'xorini yeb ketishadi.",
@@ -101,7 +97,6 @@ VOCAB_TR_STORE('1', '0117', {
   "weigh": "Voyaga yetgan fil yuk mashinasichalik og'irlikda bo'lishi mumkin."
  },
  "C1": {
-  "Victor": "Victorning so'zlariga ko'ra, panjaralar qurilganidan beri dehqonlarning fillarga munosabati o'zgargan.",
   "angrily": "Bir paytlar dehqonlar fillarga g'azab bilan munosabatda bo'lib, ba'zan hatto ularga zarar yetkazishgan.",
   "beehive": "Agar fil panjarani itarsa, asalari uyalari silkinadi va asalarilar hujum qiladi.",
   "break into": "Fermaga bostirib kirgan birgina poda butun mavsum hosilini yo'q qilishi mumkin.",
@@ -126,7 +121,6 @@ VOCAB_TR_STORE('1', '0117', {
   "weigh": "Afrika fillari olti tonnagacha keladi, bu ularni eng og'ir quruqlik hayvonlariga aylantiradi."
  },
  "C2": {
-  "Victor": "Viktorning hikoyasi jamoa tashabbusidagi yechimlar inson va yovvoyi tabiat o'rtasidagi ziddiyatni qanday yumshatishi mumkinligini ko'rsatadi.",
   "angrily": "Asalarilar g'azab bilan to'da bo'lib uchadi va xartumi hamda ko'zlari atrofi sezgir bo'lgan fillar chekinadi.",
   "beehive": "Asalari uyalari ikki tomonlama foyda beradi: ular ekinlarni himoya qiladi va dehqonlarga qo'shimcha daromad keltiradi.",
   "break into": "Dehqonlar tun qorong'usida dalalariga bostirib kirishi mumkin bo'lgan fillarga quloq solib, uyqusiz yotishadi.",
@@ -151,7 +145,6 @@ VOCAB_TR_STORE('1', '0117', {
   "weigh": "Bir necha tonna og'irlikdagi hayvon to'siqni xuddi qog'ozdan qilingandek yer bilan yakson qilishi mumkin."
  },
  "EX": {
-  "Victor": "Viktor fillarni uzoqda tutish uchun fermerlar bilan ishlaydi.",
   "angrily": "To'siq qimirlaganda asalarilar g'azab bilan uchib chiqadi.",
   "beehive": "Ferma atrofidagi to'siqqa asalari uyalari osilgan.",
   "break into": "Fillar ekinlarni yeyish uchun fermalarga bostirib kiradi.",

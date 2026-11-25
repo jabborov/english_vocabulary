@@ -1,7 +1,6 @@
 // Part 1 topic 0464: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0464', {
  "A1": {
-  "Douglas": "Duglas bu ism.",
   "balaclava": "Menda yuzni yopuvchi jun niqob bor.",
   "emperor penguin": "Men imperator pingvinini ko'rdim.",
   "endeavour": "Bu katta intilish edi.",
@@ -16,7 +15,6 @@ VOCAB_TR_STORE('1', '0464', {
   "wore": "U shlyapa kiygan edi."
  },
  "A2": {
-  "Douglas": "Duglas Antarktikaga bordi.",
   "balaclava": "Uning yuzni yopuvchi niqobi qora.",
   "emperor penguin": "Imperator pingvinlari katta.",
   "endeavour": "Intilishingizda omad tilayman.",
@@ -31,7 +29,6 @@ VOCAB_TR_STORE('1', '0464', {
   "wore": "U palto kiygan edi."
  },
  "B1": {
-  "Douglas": "Duglas tadqiqotchi-sayyoh edi.",
   "balaclava": "U qorda balaklava kiygan edi.",
   "emperor penguin": "Imperator pingvinlari Antarktidada yashaydi.",
   "endeavour": "Tog'ga chiqish og'ir urinish bo'ldi.",
@@ -46,7 +43,6 @@ VOCAB_TR_STORE('1', '0464', {
   "wore": "Ular issiq etik kiyib olishgan edi."
  },
  "B2": {
-  "Douglas": "Douglas sovuq va xavf haqida yozgan.",
   "balaclava": "Balaklava yuzingizni issiq saqlaydi.",
   "emperor penguin": "Olimlar imperator pingvini tuxumlarini o'rganmoqchi edi.",
   "endeavour": "Janubiy qutbga yetib borish insoniyat uchun ulkan sa'y-harakat edi.",
@@ -61,7 +57,6 @@ VOCAB_TR_STORE('1', '0464', {
   "wore": "Scottning odamlari zamonaviy matolar emas, jun kiyim kiyishgan."
  },
  "C1": {
-  "Douglas": "Duglasning hikoyasi qutbdagi mashaqqatlarning yorqin manzarasini chizib beradi.",
   "balaclava": "Tadqiqotchilar muzlatuvchi shamoldan himoyalanish uchun jun niqob-qalpoq kiyishgan.",
   "emperor penguin": "Uch kishi imperator pingvini tuxumlarini yig'ish uchun qishki sayohatga chiqdi.",
   "endeavour": "Bu ekspeditsiya qutb tadqiqotlaridagi eng buyuk sa'y-harakatlardan biri bo'lib qolmoqda.",
@@ -76,7 +71,6 @@ VOCAB_TR_STORE('1', '0464', {
   "wore": "Ular kiygan kiyimlar og'ir edi va terdan jiqqa ho'l bo'lib ketardi."
  },
  "C2": {
-  "Douglas": "Duglasning o'z ekspeditsiyasi Skottning chekkan azoblari yagona emasligini ko'rsatdi.",
   "balaclava": "Hatto yuzni to'sadigan jun niqob bilan ham yurish davomida sovuq urishi doimiy xavf bo'lib qolaverdi.",
   "emperor penguin": "Imperator pingvinlari tuxumlarini izlash keyinchalik \"dunyodagi eng dahshatli sayohat\" deb ta'riflangan.",
   "endeavour": "Muvaffaqiyatsizlikka qaramay, bu sa'y-harakat Antarktida haqidagi ilmiy bilimlarni oldinga siljitdi.",
@@ -91,7 +85,6 @@ VOCAB_TR_STORE('1', '0464', {
   "wore": "Zamonaviy sinovlar ular kiygan kiyimlar sovuqqa qarshi hayratlanarli darajada samarali bo'lganini ko'rsatdi."
  },
  "EX": {
-  "Douglas": "Duglas muz ustidagi hayotni tasvirlab berdi.",
   "balaclava": "U yuzini himoya qilish uchun balaklava kiyib olgan edi.",
   "emperor penguin": "Jamoaning bir qismi imperator pingvinlarining tuxumlarini yig'ish uchun ketdi.",
   "endeavour": "Ekspeditsiya jasoratli urinish edi.",

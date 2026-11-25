@@ -1,7 +1,6 @@
 // Part 1 topic 0196: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0196', {
  "A1": {
-  "Philip": "Philip mening do'stim.",
   "audit": "Audit bugun.",
   "commune": "Men tabiat bilan uyg'unlashishni yaxshi ko'raman.",
   "computer graphics": "Men kompyuter grafikasini yaxshi ko'raman.",
@@ -24,7 +23,6 @@ VOCAB_TR_STORE('1', '0196', {
   "wrestle": "O'g'il bolalar kurashishni yaxshi ko'radi."
  },
  "A2": {
-  "Philip": "Philip sport zaliga qatnaydi.",
   "audit": "Ular audit o'tkazishdi.",
   "commune": "Ular bog'da birga suhbatlashib vaqt o'tkazishadi.",
   "computer graphics": "O'yinning kompyuter grafikasi yaxshi.",
@@ -47,7 +45,6 @@ VOCAB_TR_STORE('1', '0196', {
   "wrestle": "Men akam bilan kurashaman."
  },
  "B1": {
-  "Philip": "Philip har hafta klub bilan yuguradi.",
   "audit": "Kompaniyada har yili audit o'tkaziladi.",
   "commune": "U tabiat bilan uyg'unlashish uchun tepaliklarda sayr qiladi.",
   "computer graphics": "U kompyuter grafikasini o'rganadi.",
@@ -70,7 +67,6 @@ VOCAB_TR_STORE('1', '0196', {
   "wrestle": "U og'ir tanlov bilan kurashishiga to'g'ri keldi."
  },
  "B2": {
-  "Philip": "Filipning aytishicha, guruhda mashq qilish biror jamoaga tegishli bo'lish ehtiyojini qondiradi.",
   "audit": "Mashq qilishga qancha vaqt sarflashingizni halol tekshirib ko'ring.",
   "commune": "Guruh mashg'ulotlari odamlarga o'xshash maqsadli boshqalar bilan yaqin muloqot qilish imkonini beradi.",
   "computer graphics": "Ba'zi trenajyor velosipedlar yo'llar va tepaliklarning kompyuter grafikasini ko'rsatadi.",
@@ -93,7 +89,6 @@ VOCAB_TR_STORE('1', '0196', {
   "wrestle": "Yolg'iz shug'ullanadigan odamlar ko'pincha motivatsiyani saqlab qolish uchun kurashadi."
  },
  "C1": {
-  "Philip": "Filipning so'zlariga ko'ra, biz guruhda o'zini xavfsizroq his qiladigan to'da hayvonlarmiz.",
   "audit": "Haftangizni tezkor tahlil qilish siz o'ylagandan kamroq harakat qilishingizni ko'rsatishi mumkin.",
   "commune": "Ba'zilar uchun haftalik yugurish mashq qilish bilan birga do'stlar bilan dildan suhbatlashish usuli hamdir.",
   "computer graphics": "Kompyuter grafikasi uyda velosiped haydaydiganlarga xayoliy manzaralar bo'ylab virtual raqiblar bilan poyga qilish imkonini beradi.",
@@ -116,7 +111,6 @@ VOCAB_TR_STORE('1', '0196', {
   "wrestle": "Tadqiqotchilar uzoq vaqtdan beri guruh bo'lib mashq qilish nega osonroq tuyulishi masalasi ustida bosh qotirib kelishadi."
  },
  "C2": {
-  "Philip": "Philipning dalili qabilaviy instinktlarimiz zamonaviy fitnes madaniyatida saqlanib qolgan degan g'oyaga asoslanadi.",
   "audit": "Fitnes sohasi tekshirilsa, u endi jihozlardan ko'ra jamoa tuyg'usiga ko'proq tayanib savdo qilayotgani ma'lum bo'lardi.",
   "commune": "Sovuq tongda yuguruvchilarning jimgina ruhan birlashishida qandaydir deyarli ma'naviy narsa bor.",
   "computer graphics": "Tobora mukammallashib borayotgan kompyuter grafikasi yakka va birgalikda mashq qilish o'rtasidagi chegarani xiralashtirmoqda.",
@@ -139,7 +133,6 @@ VOCAB_TR_STORE('1', '0196', {
   "wrestle": "Ko'pchiligimiz har kuni niyat qilganimiz bilan amalda uddalaganimiz o'rtasidagi tafovut bilan kurashamiz."
  },
  "EX": {
-  "Philip": "Filip nega odamlar guruh bo'lib mashq qilishni yoqtirishini tushuntirdi.",
   "audit": "U aslida qancha mashq qilganini sinchiklab tekshirib chiqdi.",
   "commune": "Ba'zi odamlar tabiat bilan uyg'unlashish uchun yugurishga chiqishadi.",
   "computer graphics": "Sport zalidagi ekranda kompyuter grafikasida poyga ko'rsatildi.",

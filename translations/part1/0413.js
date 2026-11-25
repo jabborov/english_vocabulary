@@ -1,7 +1,6 @@
 // Part 1 topic 0413: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0413', {
  "A1": {
-  "Silvia": "Silvia suzuvchi.",
   "ballet dancer": "Singlim balet raqqosasi.",
   "duet": "Ular duet kuylashdi.",
   "effortless": "U buni juda oson qilayotgandek ko'rsatadi.",
@@ -13,7 +12,6 @@ VOCAB_TR_STORE('1', '0413', {
   "solo": "U yakkaxon qo'shiq kuyladi."
  },
  "A2": {
-  "Silvia": "Silvia har tongda suzadi.",
   "ballet dancer": "Balet raqqosasi juda nafis edi.",
   "duet": "Biz pianinoda duet chaldik.",
   "effortless": "U zo'r bermay yengil suzadi.",
@@ -25,7 +23,6 @@ VOCAB_TR_STORE('1', '0413', {
   "solo": "U gitarada yakkaxon ijro etdi."
  },
  "B1": {
-  "Silvia": "Silviya jamoa qanday qilib birgalikda mashg'ulot qilishini tushuntirdi.",
   "ballet dancer": "U suzishni boshlashdan oldin balet raqqosasi sifatida tayyorgarlik ko'rgan.",
   "duet": "Duet ishtirokchilari aynan bir vaqtda harakatlanishi kerak.",
   "effortless": "Raqqosalar zo'riqishsiz nafosat bilan harakatlanishdi.",
@@ -37,7 +34,6 @@ VOCAB_TR_STORE('1', '0413', {
   "solo": "Yakkaxon chiqish uch daqiqa davom etdi."
  },
  "B2": {
-  "Silvia": "Silviyaning aytishicha, eng qiyini tabassum qilib turib nafasni ushlab turishdir.",
   "ballet dancer": "Xuddi balerina kabi, badiiy suzuvchi ham oyoq uchlarini cho'zishi kerak.",
   "duet": "Duetda suzuvchilar bir-birining harakatlarini mukammal tarzda takrorlashlari kerak.",
   "effortless": "Tomoshabinlarga oson ko'rinadigan narsa yillar davomida qilingan mashg'ulotlar natijasidir.",
@@ -49,7 +45,6 @@ VOCAB_TR_STORE('1', '0413', {
   "solo": "Yakka ijro qilish qiyinroq, chunki orqasiga yashirinadigan hech kim bo'lmaydi."
  },
  "C1": {
-  "Silvia": "Silviya badiiy suzish sport turi sifatida ko'proq hurmatga loyiq, deb ta'kidladi.",
   "ballet dancer": "Murabbiy suzuvchilarni oyoq ostida pol bo'lmagan holda ishlayotgan balet raqqosalariga qiyosladi.",
   "duet": "Ularning duet chiqishi musobaqadagi eng yuqori badiiy bahoni oldi.",
   "effortless": "Uning yengil, zo'riqishsiz uslubi ortida ulkan jismoniy kuch yashiringan.",
@@ -61,7 +56,6 @@ VOCAB_TR_STORE('1', '0413', {
   "solo": "Uning yakkaxon chiqishi texnik jihatdan benuqson va hissiyotga to'la edi."
  },
  "C2": {
-  "Silvia": "Silviyaning bu sport turi haqidagi hikoyasi u shunchaki bezakdan iborat degan tasavvurni yo'qqa chiqardi.",
   "ballet dancer": "Kam tomoshabinlar balet raqqosasining nazokatli holati chuqur suvda boshi pastga qaragan holda takrorlanishi kerakligini anglaydi.",
   "duet": "Ajoyib duet hech qanday zo'riqishsiz ko'rinadi, ammo u minglab soatlik birgalikdagi mashg'ulotlarga asoslanadi.",
   "effortless": "Chiqishning ko'rinib turgan yengilligining o'zi puxta yaratilgan illyuziyadir.",
@@ -73,7 +67,6 @@ VOCAB_TR_STORE('1', '0413', {
   "solo": "Yakkaxon chiqishda vaqtni his qilishdagi har bir xato ko'zga tashlanadi, chunki ko'zgu kabi takrorlaydigan sherik yo'q."
  },
  "EX": {
-  "Silvia": "Silvia ko'p yillardan beri badiiy suzish bo'yicha sportchilarni murabbiylik qilib keladi.",
   "ballet dancer": "Badiiy suzuvchilarga balet raqqosasidek nafosat kerak.",
   "duet": "Ikki opa-singil chiroyli duet ijro etib suzishdi.",
   "effortless": "Dastur oson va zo'riqishsiz ko'rinardi, lekin u juda mashaqqatli mehnat edi.",

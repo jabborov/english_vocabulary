@@ -1,7 +1,6 @@
 // Part 1 topic 0088: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0088', {
  "A1": {
-  "Jordan": "Bu Jordan.",
   "PhD": "Uning PhD darajasi bor.",
   "annoyance": "Men g'ashlanishni his qildim.",
   "boredom": "Men zerikkanimda ovqat yeyman.",
@@ -34,7 +33,6 @@ VOCAB_TR_STORE('1', '0088', {
   "upwards": "Yuqoriga qarang."
  },
  "A2": {
-  "Jordan": "Jordan shifokor.",
   "PhD": "U PhD darajasi ustida ishlayapti.",
   "annoyance": "Afsuski, g'ashimni keltirib, do'kon yopiq edi.",
   "boredom": "Zerikish yomon.",
@@ -67,7 +65,6 @@ VOCAB_TR_STORE('1', '0088', {
   "upwards": "Qush yuqoriga uchdi."
  },
  "B1": {
-  "Jordan": "Jordan ovqat va kayfiyat o'rtasidagi bog'liqlikni o'rganadi.",
   "PhD": "Opam biologiya bo'yicha PhD darajasini olish uchun o'qiyapti.",
   "annoyance": "U o'z g'ashini yashira olmadi.",
   "boredom": "Ba'zi odamlar zerikkanidan yengil tamaddi qiladi.",
@@ -100,7 +97,6 @@ VOCAB_TR_STORE('1', '0088', {
   "upwards": "Bu yil narxlar yuqoriga ko'tarildi."
  },
  "B2": {
-  "Jordan": "Jordanning aytishicha, ko'ngilga taskin beruvchi taomlar faqat qisqa vaqt yordam beradi.",
   "PhD": "Uning doktorlik tadqiqoti ovqatlanish va kayfiyat o'rtasidagi bog'liqlikka bag'ishlangan edi.",
   "annoyance": "Ochlik g'ashlik va asabiylik hissini kuchaytirishi mumkin.",
   "boredom": "Zerikkanidan ovqat yeyish vazn ortishiga olib kelishi mumkin bo'lgan keng tarqalgan odatdir.",
@@ -133,7 +129,6 @@ VOCAB_TR_STORE('1', '0088', {
   "upwards": "Depressiya ko'rsatkichlari yillar davomida asta-sekin yuqoriga o'rmalab kelmoqda."
  },
  "C1": {
-  "Jordan": "Jordanning ta'kidlashicha, bizning ovqatga munosabatimiz ham biologiya, ham odat tomonidan shakllanadi.",
   "PhD": "Ichak bakteriyalari bo'yicha PhD dissertatsiyasini tugatishi uchun unga besh yil kerak bo'ldi.",
   "annoyance": "Uning g'ashini keltirib, maqola murakkab kasallikni chetlab o'tish kerak bo'lgan ovqatlar ro'yxatiga aylantirib qo'ydi.",
   "boredom": "Haqiqiy ochlikni zerikishdan ajrata bilish ongli ovqatlanishning asosiy ko'nikmasidir.",
@@ -166,7 +161,6 @@ VOCAB_TR_STORE('1', '0088', {
   "upwards": "O'n mingdan ortiq kishi ishtirok etgan tadqiqotlar ovqatlanish va kayfiyat o'rtasida bog'liqlik borligini ko'rsatadi."
  },
  "C2": {
-  "Jordan": "Jordanning fikricha, jo'n maslahatlar allaqachon qiynalayotgan odamlarga yuqoridan qarash bo'lib tuyulishi mumkin.",
   "PhD": "PhD darajasi tor sohada ekspertlik beradi, ammo uni oddiy auditoriyaga yetkazish qobiliyatini albatta bermaydi.",
   "annoyance": "\"Hangry\" so'zi ko'pchilikka tanish bo'lgan ochlik va jahldorlikning g'alati qorishmasini ifodalaydi.",
   "boredom": "Gazaklanishimizning hayratlanarli qismini ochlik emas, zerikish keltirib chiqaradi.",
@@ -199,7 +193,6 @@ VOCAB_TR_STORE('1', '0088', {
   "upwards": "Tendensiya shubhasiz yuqoriga yo'nalgan, garchi uning asosiy sabablari bahsli bo'lib qolsa ham."
  },
  "EX": {
-  "Jordan": "Jordan ovqatlanish kayfiyatimizga qanday ta'sir qilishi mumkinligini tushuntirib berdi.",
   "PhD": "U ovqatlanish psixiatriyasi bo'yicha falsafa doktori (PhD) darajasiga ega.",
   "annoyance": "Ochlik tezda asabiylikka aylanishi mumkin.",
   "boredom": "Ko'p odamlar zerikkanidan ovqat yeydi.",

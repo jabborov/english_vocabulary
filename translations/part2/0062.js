@@ -1,7 +1,6 @@
 // Part 2 topic 0062: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0062', {
  "A1": {
-  "Anne": "Anne - qiz ismi.",
   "approximately": "Bu taxminan o'nta.",
   "blog": "Men uning blogini o'qiyman.",
   "capsule": "Bu kichik kapsula.",
@@ -29,7 +28,6 @@ VOCAB_TR_STORE('2', '0062', {
   "upsetting": "Yangilik xafa qiladigan."
  },
  "A2": {
-  "Anne": "Anne kundalik yozgan.",
   "approximately": "Bu taxminan 5 funt turadi.",
   "blog": "Uning pazandachilik haqidagi blogi bor.",
   "capsule": "Kapsulani oching.",
@@ -57,7 +55,6 @@ VOCAB_TR_STORE('2', '0062', {
   "upsetting": "Bu ko'ngilsiz kun edi."
  },
  "B1": {
-  "Anne": "Anna Frank Amsterdamda yashagan.",
   "approximately": "Taxminan yarmimiz kundalik yuritamiz.",
   "blog": "U o'z sayohatlari haqida blog yuritadi.",
   "capsule": "Kapsula daraxt tagiga ko'mildi.",
@@ -85,7 +82,6 @@ VOCAB_TR_STORE('2', '0062', {
   "upsetting": "Bu film uni juda xafa qildi."
  },
  "B2": {
-  "Anne": "Anna kundaligini o'n uchinchi tug'ilgan kunida sovg'a sifatida oldi.",
   "approximately": "Kundalik uning hayotining taxminan ikki yilini qamrab oladi.",
   "blog": "Shaxsiy kundalikdan farqli o'laroq, blogni har kim o'qishi mumkin.",
   "capsule": "Kapsula ichida fotosuratlar, tangalar va gazeta bor edi.",
@@ -113,7 +109,6 @@ VOCAB_TR_STORE('2', '0062', {
   "upsetting": "Eski kundaligimdagi ba'zi yozuvlarni hozir o'qish ancha og'ir."
  },
  "C1": {
-  "Anne": "Annaning kundaligi yetmishdan ortiq tilga tarjima qilingan.",
   "approximately": "Kundalikning dunyo bo'ylab taxminan 30 million nusxasi sotilgan.",
   "blog": "Uning blogi onlayn kundalik sifatida boshlangan edi, ammo hozir minglab o'quvchilarga ega.",
   "capsule": "Muhandislar kapsulani yer ostida yuz yil saqlanadigan qilib loyihalashdi.",
@@ -141,7 +136,6 @@ VOCAB_TR_STORE('2', '0062', {
   "upsetting": "Yillar oldin odamlar haqida aslida nima o'ylaganingizni bilib qolish ko'ngilni xira qilishi mumkin."
  },
  "C2": {
-  "Anne": "Anne Frankning kundaligi Ikkinchi jahon urushi haqidagi eng ta'sirli shaxsiy hikoyalardan biri bo'lib qolmoqda.",
   "approximately": "Kapsula topib olinishidan oldin taxminan yarim asr ko'milgan holda yotgan edi.",
   "blog": "Blog shaxsiy kundalikning ommaviy vorisiga aylandi, ammo bu samimiyatga butunlay boshqacha ta'sir ko'rsatdi.",
   "capsule": "1960-yilda muhrlangan kapsula odamlar kelajakni qanchalik boshqacha tasavvur qilganini ochib berdi.",
@@ -169,7 +163,6 @@ VOCAB_TR_STORE('2', '0062', {
   "upsetting": "Kundalikni qayta o'qish ham taskin beruvchi, ham xafa qiluvchi bo'lishi mumkin, chunki u ortda qoldirdik deb o'ylagan his-tuyg'ularni qayta uyg'otadi."
  },
  "EX": {
-  "Anne": "Anna Frank kundaligini Amsterdamda yozgan.",
   "approximately": "Anna Frankning oilasi taxminan ikki yil yashirinib yashagan.",
   "blog": "Ko'p odamlar endi kundalik o'rniga blog yuritishadi.",
   "capsule": "Ular xatlarni metall kapsulaga solishdi.",

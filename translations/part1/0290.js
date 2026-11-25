@@ -1,7 +1,6 @@
 // Part 1 topic 0290: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0290', {
  "A1": {
-  "Jay": "Uning ismi Jay.",
   "Lego": "Men Legoni yaxshi ko'raman.",
   "brick": "Bu o'yinchoq g'isht.",
   "collecting": "Men kolleksiya yig'ishni yaxshi ko'raman.",
@@ -12,7 +11,6 @@ VOCAB_TR_STORE('1', '0290', {
   "secondary": "Bu o'rta maktab."
  },
  "A2": {
-  "Jay": "Jay o'yinchoqlarni yaxshi ko'radi.",
   "Lego": "O'g'lim Lego bilan o'ynaydi.",
   "brick": "Uy g'ishtdan qurilgan.",
   "collecting": "Marka yig'ish qiziqarli.",
@@ -23,7 +21,6 @@ VOCAB_TR_STORE('1', '0290', {
   "secondary": "Narx ikkinchi darajali masala."
  },
  "B1": {
-  "Jay": "Jay Lego to'plamlarini yig'adi.",
   "Lego": "Biz Lego'dan kema yasadik.",
   "brick": "Bolalar g'ishtchalardan minora qurishdi.",
   "collecting": "O'yinchoqlar yig'ish uning sevimli mashg'uloti.",
@@ -34,7 +31,6 @@ VOCAB_TR_STORE('1', '0290', {
   "secondary": "Eski o'yinchoqlar ikkilamchi bozorda sotiladi."
  },
  "B2": {
-  "Jay": "Jay kattalar nima uchun o'zlari uchun o'yinchoq sotib olishini tushuntirib berdi.",
   "Lego": "Lego kattalar uchun mo'ljallangan ko'plab to'plamlarni sotadi.",
   "brick": "Kattalar plastik g'ishtchalardan modellar yasashga soatlab vaqt sarflashadi.",
   "collecting": "Nodir o'yinchoqlarni yig'ish qimmatga tushishi mumkin.",
@@ -45,7 +41,6 @@ VOCAB_TR_STORE('1', '0290', {
   "secondary": "Nodir to'plamlar ikkilamchi bozorda katta boylikka teng bo'lishi mumkin."
  },
  "C1": {
-  "Jay": "Jayning aytishicha, o'yinchoq yig'ish unga dam olishga yordam beradi.",
   "Lego": "Ba'zi kattalar Lego yig'ishni juda tinchlantiruvchi mashg'ulot deb bilishadi.",
   "brick": "Ba'zi noyob Lego g'ishtchalari juda qimmat turadi.",
   "collecting": "Ba'zi kattalar uchun kolleksiya yig'ish o'tmishni sog'inish bilan bog'liq.",
@@ -56,7 +51,6 @@ VOCAB_TR_STORE('1', '0290', {
   "secondary": "Ko'plab kolleksionerlar uchun o'yinchoqning qiymati zavqdan keyin turadigan ikkinchi darajali narsa."
  },
  "C2": {
-  "Jay": "Jeyning fikricha, o'yinchoqlar kattalarga ulg'ayish davomida yo'qotgan o'yinqaroqligi bilan qayta bog'lanish imkonini beradi.",
   "Lego": "Murakkab to'plamlar va yuqori narxlarga ega Lego'ning kattalar uchun mahsulotlar qatori uning biznesining asosiy qismiga aylandi.",
   "brick": "Oddiy plastik konstruktor g'ishtchasi kattalar uchun xobbi, sarmoya va stressni yengillashtirish vositasiga aylandi.",
   "collecting": "Bir paytlar tor doiradagi mashg'ulot bo'lgan kolleksiya yig'ish ijtimoiy tarmoqlar va onlayn savdo maydonchalari tufayli butunlay o'zgardi.",
@@ -67,7 +61,6 @@ VOCAB_TR_STORE('1', '0290', {
   "secondary": "Mashhur to'plam ishlab chiqarilishi to'xtatilgach, ikkilamchi bozordagi narxlar keskin oshishi mumkin."
  },
  "EX": {
-  "Jay": "Jeyning aytishicha, u yillar davomida o'yinchoq to'plab kelgan.",
   "Lego": "Lego endi maxsus kattalar uchun to'plamlar ishlab chiqaradi.",
   "brick": "U Lego g'ishtchalaridan qasr qurdi.",
   "collecting": "O'yinchoq kolleksiya qilish kattalar orasida mashhur mashg'ulotdir.",

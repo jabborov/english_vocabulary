@@ -1,7 +1,6 @@
 // Part 1 topic 0405: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0405', {
  "A1": {
-  "Wayne": "Wayne jurnalist.",
   "broadsheet": "Bu jiddiy gazeta.",
   "condensed": "Bu qisqartirilgan hikoya.",
   "corruption": "Korrupsiya yomon.",
@@ -23,7 +22,6 @@ VOCAB_TR_STORE('1', '0405', {
   "tabloid": "U sariq gazeta o'qiydi."
  },
  "A2": {
-  "Wayne": "Wayne yangiliklarni o'qiydi.",
   "broadsheet": "Men jiddiy gazetalarni afzal ko'raman.",
   "condensed": "Qisqartirilgan nusxasini o'qing.",
   "corruption": "Ular korrupsiyaga qarshi kurashadi.",
@@ -45,7 +43,6 @@ VOCAB_TR_STORE('1', '0405', {
   "tabloid": "Sariq gazetada katta suratlar bor."
  },
  "B1": {
-  "Wayne": "Ueyn yaxshi yangiliklarni yoqtiradi.",
   "broadsheet": "Jiddiy gazetalarda uzun maqolalar bo'ladi.",
   "condensed": "Yangiliklar bir sahifaga qisqartirib berildi.",
   "corruption": "Vazir korrupsiyada ayblandi.",
@@ -67,7 +64,6 @@ VOCAB_TR_STORE('1', '0405', {
   "tabloid": "Bulvar gazetalari mashhurlar haqidagi yangiliklarni yaxshi ko'radi."
  },
  "B2": {
-  "Wayne": "Wayne odamlar ko'proq ijobiy xabarlarni xohlaydi deb hisoblaydi.",
   "broadsheet": "Nufuzli gazetalar odatda siyosat va biznesni batafsil yoritadi.",
   "condensed": "Ko'plab ilovalar asosiy sarlavhalarning qisqartirilgan sharhini taqdim etadi.",
   "corruption": "Gazetalar korrupsiyani fosh etishda muhim rol o'ynaydi.",
@@ -89,7 +85,6 @@ VOCAB_TR_STORE('1', '0405', {
   "tabloid": "Tabloidlar dramatik yomon xabarlar bilan ko'proq nusxa sotadi."
  },
  "C1": {
-  "Wayne": "Ueynning aytishicha, yaxshi yangiliklar kamdan-kam hollarda birinchi sahifaga chiqadi.",
   "broadsheet": "Hatto jiddiy gazetalar ham hozir ko'proq yengil, ko'ngilochar maqolalar chop etmoqda.",
   "condensed": "Qisqartirilgan hisobotda muhim fon ma'lumotlari tushib qolishi mumkin.",
   "corruption": "Hisobot politsiya tizimida korrupsiya keng tarqalganini fosh etdi.",
@@ -111,7 +106,6 @@ VOCAB_TR_STORE('1', '0405', {
   "tabloid": "Qo'shiqchi sariq matbuot unga qanday munosabatda bo'lganidan shikoyat qildi."
  },
  "C2": {
-  "Wayne": "Ueynning dalili shundan iborat ediki, auditoriya muharrirlar o'ylaganidan ko'ra yaxshi yangiliklarga ko'proq tashna.",
   "broadsheet": "Jiddiy nufuzli gazetalar va ommabop bulvar nashrlari o'rtasidagi an'anaviy chegara internetda xiralashib ketdi.",
   "condensed": "Qisqartirilgan shaklda murakkab hikoyalar ularni tushunarli qiladigan nozik jihatlarini yo'qotishi mumkin.",
   "corruption": "Korrupsiyani fosh etadigan surishtiruv jurnalistikasi \"yomon yangiliklar\" muhimligining sabablaridan biridir.",
@@ -133,7 +127,6 @@ VOCAB_TR_STORE('1', '0405', {
   "tabloid": "Bulvar matbuoti savdoni aniqlik va shaxsiy daxlsizlikdan ustun qo'yishda ayblanib kelgan."
  },
  "EX": {
-  "Wayne": "Wayne faqat yomon yangiliklarni o'qishdan charchaganini aytdi.",
   "broadsheet": "Otam har yakshanba jiddiy, katta formatli gazeta o'qiydi.",
   "condensed": "Sayt kun yangiliklarining qisqartirilgan variantini taqdim etadi.",
   "corruption": "Korrupsiya haqidagi xabarlar ko'pincha birinchi sahifada chiqadi.",

@@ -1,7 +1,6 @@
 // Part 1 topic 0187: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0187', {
  "A1": {
-  "Tristan": "Uning ismi Tristan.",
   "anosmic": "U hid bilmaydi.",
   "breathe in": "Sekin nafas oling.",
   "close up": "Unga yaqindan qarang.",
@@ -30,7 +29,6 @@ VOCAB_TR_STORE('1', '0187', {
   "toast": "Men tost yaxshi ko'raman."
  },
  "A2": {
-  "Tristan": "Tristan hidni o'rganadi.",
   "anosmic": "Hid bilmaydigan odamlar hidni sezolmaydi.",
   "breathe in": "Nafas oling va nafas chiqaring.",
   "close up": "Yaqindan hidlasangiz, shirin hid keladi.",
@@ -59,7 +57,6 @@ VOCAB_TR_STORE('1', '0187', {
   "toast": "Men nonushtada tost yeyman."
  },
  "B1": {
-  "Tristan": "Tristan burnimiz haqida gapirdi.",
   "anosmic": "Shamollashdan keyin u hid bilish qobiliyatini yo'qotdi.",
   "breathe in": "Toza havodan nafas oling.",
   "close up": "Men qushni yaqindan ko'rdim.",
@@ -88,7 +85,6 @@ VOCAB_TR_STORE('1', '0187', {
   "toast": "Oshxonadan qizartirilgan non hidi kelyapti."
  },
  "B2": {
-  "Tristan": "Tristanning aytishicha, hidlar eski xotiralarni qaytarishi mumkin.",
   "anosmic": "Hid sezmaslik tutun yoki gaz hidini sezolmaslikni anglatadi.",
   "breathe in": "U dengiz hidini ichiga chuqur tortdi.",
   "close up": "Ba'zi gullarni faqat yaqindan hidlash mumkin.",
@@ -117,7 +113,6 @@ VOCAB_TR_STORE('1', '0187', {
   "toast": "Ertalabki tost hidi kabi hech narsa \"uy\"ni eslatmaydi."
  },
  "C1": {
-  "Tristan": "Tristanning so'zlariga ko'ra, har bir uyning o'ziga xos hidi bor.",
   "anosmic": "Ko'p odamlar Covid bilan kasallangandan keyin vaqtincha hid bilish qobiliyatini yo'qotdi.",
   "breathe in": "Har safar nafas olganimizda burnimiz minglab kimyoviy molekulalardan namuna oladi.",
   "close up": "Yaqindan qaraganda, insonning tabiiy hidini tanib olish hayratlanarli darajada oson.",
@@ -146,7 +141,6 @@ VOCAB_TR_STORE('1', '0187', {
   "toast": "So'rovnomalarda qizartirilgan non hidi ko'pincha eng taskin beruvchi hidlardan biri deb topiladi."
  },
  "C2": {
-  "Tristan": "Tristanning ta'kidlashicha, hid bilish sezgilarimiz ichida eng kam qadrlanadiganidir.",
   "anosmic": "Hid bilmaydigan (anosmik) bemorlar ko'pincha o'zlari sevadigan joylar va odamlardan uzilib qolgandek his qilishlarini aytishadi.",
   "breathe in": "Yangi o'rilgan maysa hidini to'yib hidlash uning kayfiyatini darhol ko'tardi.",
   "close up": "Yaqindan hidlanganda atirning nozik notalari aniq va murakkab bo'lib ochildi.",
@@ -175,7 +169,6 @@ VOCAB_TR_STORE('1', '0187', {
   "toast": "Ko'plab britaniyaliklar uchun yangi qizartirilgan non hidi uy qulayligining sinonimidir."
  },
  "EX": {
-  "Tristan": "Tristan miyamiz hidlar va xotiralarni qanday bog'lashini tushuntirdi.",
   "anosmic": "Virusdan keyin u bir necha oy davomida hid bilmay qoldi.",
   "breathe in": "Chuqur nafas oling va qanday hidni sezayotganingizni ayting.",
   "close up": "Yaqindan qaraganda gulning hidi ajoyib edi.",

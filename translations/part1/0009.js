@@ -1,10 +1,7 @@
 // Part 1 topic 0009: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0009', {
  "A1": {
-  "Anne": "Uning ismi Ann.",
   "Brussels sprouts": "Men Bryussel karamini yemayman.",
-  "Charlotte": "Uning ismi Sharlotta.",
-  "Ruth": "Uning ismi Rut.",
   "adult": "Bu film kattalar uchun.",
   "afraid": "Men itlardan qo'rqaman.",
   "agree": "Men siz bilan roziman.",
@@ -119,10 +116,7 @@ VOCAB_TR_STORE('1', '0009', {
   "young": "Chaqaloq juda yosh."
  },
  "A2": {
-  "Anne": "Ann yozuvchi.",
   "Brussels sprouts": "Rojdestvoda biz Bryussel karamini yeymiz.",
-  "Charlotte": "Sharlottaning ikki farzandi bor.",
-  "Ruth": "Rutning qizi bor.",
   "adult": "Iltimos, ikkita kattalar va ikkita bolalar uchun.",
   "afraid": "Qo'rqmang.",
   "agree": "Rozimisiz?",
@@ -237,10 +231,7 @@ VOCAB_TR_STORE('1', '0009', {
   "young": "Uning ikki yosh farzandi bor."
  },
  "B1": {
-  "Anne": "Ennning qizida oziq-ovqat allergiyasi bor.",
   "Brussels sprouts": "Bryussel karami kichkina va yashil bo'lib, mitti karamga o'xshaydi.",
-  "Charlotte": "Sharlottaning aytishicha, bolalar ovqatlanishda turli bosqichlarni boshdan kechiradi.",
-  "Ruth": "Rutning aytishicha, ovqatlanish vaqtlari asabiy kechishi mumkin.",
   "adult": "Ba'zi kattalar ham ovqatga injiq bo'ladi.",
   "afraid": "Ba'zi bolalar yangi taomlardan qo'rqishadi.",
   "agree": "Hammamiz sabzavotlar foydali ekaniga qo'shilamiz.",
@@ -355,10 +346,7 @@ VOCAB_TR_STORE('1', '0009', {
   "young": "Yosh bolalar ovqatga juda injiq bo'lishi mumkin."
  },
  "B2": {
-  "Anne": "Anne ovqat pishirishni butunlay yangicha usulda o'rganishga majbur bo'ldi.",
   "Brussels sprouts": "Bryussel karami qaynatilganidan ko'ra qovurilganda ancha mazali bo'ladi.",
-  "Charlotte": "Charlotte bolalarning ishtahasi goh oshib, goh pasayib turishini tushuntirdi.",
-  "Ruth": "Ruth ovqat oilalarda keskinlikka sabab bo'lishi mumkinligini tushuntirdi.",
   "adult": "Kattalar sifatida biz o'tkir ta'mlar bolaga qanchalik kuchli tuyulishini ko'pincha unutamiz.",
   "afraid": "Afsuski, bu noto'g'ri, javob brokkoli.",
   "agree": "Mutaxassislar ovqatlanish vaqti xotirjam o'tishi kerakligiga qo'shilishadi.",
@@ -473,10 +461,7 @@ VOCAB_TR_STORE('1', '0009', {
   "young": "Yosh bolalarning ma'lum davrlarda ovqatdan bosh tortishi odatiy holdir."
  },
  "C1": {
-  "Anne": "Ann qizining allergiyasi oilani har bir taomni qayta ko'rib chiqishga qanday majbur qilganini aytib berdi.",
   "Brussels sprouts": "Bryussel karami bolalar yeyishdan bosh tortadigan sabzavotning, ehtimol, eng mashhur namunasidir.",
-  "Charlotte": "Sharlottaning so'zlariga ko'ra, bolaning kayfiyati uning ishtahasiga ochlik kabi ta'sir qilishi mumkin.",
-  "Ruth": "Rutning ta'kidlashicha, ota-onalar ovqatni jang maydoniga aylantirmasliklari kerak.",
   "adult": "Ko'plab kattalar bolalikda rad etgan taomlarini yeyish uchun bosim yo'qolgach, ularni yoqtirib qolishlarini payqashadi.",
   "afraid": "Yangi taomlardan qo'rqadigan bolalarga bosim emas, balki muloyim va takroriy tanishtirish kerak.",
   "agree": "Ota-onalar va bolalar ovqatlanish vaqtini xotirjamroq qilish uchun bir nechta qoidalar bo'yicha kelishib olishlari mumkin.",
@@ -591,10 +576,7 @@ VOCAB_TR_STORE('1', '0009', {
   "young": "Yosh bolalarning ishtahasi kundan kunga ancha o'zgarib turadi."
  },
  "C2": {
-  "Anne": "Annning tajribasi tibbiy zarurat oilaning ovqatga bo'lgan butun yondashuvini qanday o'zgartirishi mumkinligini ko'rsatadi.",
   "Brussels sprouts": "Bryussel karami Britaniya madaniyatida o'ziga xos o'rin tutadi: u haqiqiy taom bo'lgani kabi bayramona hazil mavzusi hamdir.",
-  "Charlotte": "Charlottening asosiy fikri shundan iborat ediki, ishtahaning o'zgarib turishi mutlaqo odatiy hol bo'lib, ota-onalar uchun xavotirga sabab emas.",
-  "Ruth": "Rutning hikoyasi oddiy ovqatlanish qanchalik tez irodalar kurashiga aylanib ketishi mumkinligini ko'rsatib berdi.",
   "adult": "Kattalarning ovqatga oid afzalliklari biz o'ylaganchalik qat'iy emas va butun hayot davomida o'zgarishga ochiq bo'lib qoladi.",
   "afraid": "Neofobiya deb ataladigan notanish ovqatdan qo'rqish xususiyati bir paytlar bolalarni zaharli o'simliklardan himoya qilgan deb hisoblanadi.",
   "agree": "Mutaxassislar majburlash teskari natija berishi haqida umuman olganda bir fikrda, garchi uning o'rniga nima kelishi kerakligi bo'yicha fikrlari turlicha bo'lsa ham.",
@@ -709,10 +691,7 @@ VOCAB_TR_STORE('1', '0009', {
   "young": "Yosh bolalarning notanish ovqatlardan ehtiyot bo'lishi himoya instinkti sifatida evolyutsiya jarayonida shakllangan deb hisoblanadi."
  },
  "EX": {
-  "Anne": "Ann – qizida oziq-ovqat allergiyasi bor yozuvchi.",
   "Brussels sprouts": "Bryussel karami ko'pincha Rojdestvoda tortiladi, ammo ko'p bolalar uni yomon ko'radi.",
-  "Charlotte": "Sharlotta dietolog va ona.",
-  "Ruth": "Rutning fikricha, ovqatlanish vaqti jang maydoniga aylanishi mumkin.",
   "adult": "Ko'p kattalar bolaligida yomon ko'rgan taomlarni hali ham yoqtirmaydi.",
   "afraid": "Afsuski, bu noto'g'ri javob.",
   "agree": "Ko'pchilik mutaxassislar bolalarni ovqat yeyishga majburlamaslik kerak, degan fikrga qo'shiladi.",

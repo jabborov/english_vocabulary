@@ -1,8 +1,6 @@
 // Part 1 topic 0357: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0357', {
  "A1": {
-  "Rupert": "Bu Rupert.",
-  "Samuel": "Uning ismi Samuel.",
   "across": "Yo'lni kesib o'ting.",
   "burp": "Chaqaloq kekirdi.",
   "chewing": "Chaynash shovqinli.",
@@ -17,8 +15,6 @@ VOCAB_TR_STORE('1', '0357', {
   "slop": "Suvni to'kib yuborma."
  },
  "A2": {
-  "Rupert": "Rupert kechki ziyofatlarni yaxshi ko'radi.",
-  "Samuel": "Samuel mazali ovqatni yaxshi ko'rardi.",
   "across": "U mening qarshimda o'tirdi.",
   "burp": "Stol atrofida kekirma!",
   "chewing": "Bunchalik baland ovozda chaynashni bas qil.",
@@ -33,8 +29,6 @@ VOCAB_TR_STORE('1', '0357', {
   "slop": "Sho'rva stolga to'kilib ketdi."
  },
  "B1": {
-  "Rupert": "Rupert odob-axloq qoidalari haqida ko'p narsa biladi.",
-  "Samuel": "Semyuel kundaligida taomlar haqida yozgan.",
   "across": "Stolning narigi tomoniga qo'l cho'zmang.",
   "burp": "U ichimligidan keyin baland ovozda kekirdi.",
   "chewing": "Og'izni ochib chaynash odobsizlikdir.",
@@ -49,8 +43,6 @@ VOCAB_TR_STORE('1', '0357', {
   "slop": "U choyni ko'ylagiga to'kib yubordi."
  },
  "B2": {
-  "Rupert": "Rupert dasturxon atrofida qaysi odatlar qo'pollik ekanini tushuntiradi.",
-  "Samuel": "Samuelning kundaligi bizga uning davridagi dasturxon odobi haqida ko'p narsa aytib beradi.",
   "across": "Boshqalarning ustidan qo'l cho'zgandan ko'ra, ovqatni uzatib yuborishni so'rash odobliroq.",
   "burp": "Ba'zi madaniyatlarda ovqatdan keyin kekirish taomdan zavq olganingizni bildiradi.",
   "chewing": "Ovoz chiqarib chaynash dasturxon atrofidagi eng g'ashga tegadigan odatlardan biridir.",
@@ -65,8 +57,6 @@ VOCAB_TR_STORE('1', '0357', {
   "slop": "Qadahlarni urishtirayotganda ichimligingizni chayqatib to'kib yubormaslikka harakat qiling."
  },
  "C1": {
-  "Rupert": "Rupertning fikricha, odob-axloq qoidalardan ko'ra boshqalarga nisbatan e'tiborli bo'lish bilan bog'liq.",
-  "Samuel": "Semyuel Pepis o'zining mashhur kundaligida dabdabali ziyofatlarni jonli tafsilotlar bilan tasvirlagan.",
   "across": "Rasmiy ziyofatda stolning narigi tomonidagi do'stga baqirib gapirish qo'pollik hisoblanadi.",
   "burp": "Kekirish qo'pollik yoki oshpazga maqtov sifatida qabul qilinishi ko'p jihatdan qayerda ekaningizga bog'liq.",
   "chewing": "Bolalarga yoshligidanoq chaynayotganda og'zini yopiq tutish o'rgatiladi.",
@@ -81,8 +71,6 @@ VOCAB_TR_STORE('1', '0357', {
   "slop": "Haddan tashqari to'la kosalarni ko'tarib ketayotgan ofitsiant patnis ustiga sho'rvani to'kib yubordi."
  },
  "C2": {
-  "Rupert": "Rupertning fikricha, dasturxon odobi doimiy rivojlanib, jamiyatdagi kengroq o'zgarishlarni aks ettiradi.",
-  "Samuel": "Samuel Pepys kabi yozuvchilar tarixchilarga o'n yettinchi asr Londonidagi kundalik ovqatlanish odatlariga kamdan-kam nazar tashlash imkonini beradi.",
   "across": "Faqat yoningizdagilar bilan emas, stolning narigi tomonidagilar bilan gaplashish bir paytlar odob qoidalarini buzish deb hisoblangan.",
   "burp": "O'tmishdagi odob qo'llanmalari kekirish, tupurish va hozir biz odobsizlik deb biladigan boshqa odatlar haqida hayratlanarli darajada ochiq yozgan.",
   "chewing": "Mizofoniyasi bor odamlar uchun birovning chaynash ovozi ajablanarli darajada kuchli munosabat uyg'otishi mumkin.",
@@ -97,8 +85,6 @@ VOCAB_TR_STORE('1', '0357', {
   "slop": "Eski odob kitoblari sho'rvani to'kib yubormaslik uchun kosani o'zingizdan nariga qiyshaytirishni maslahat bergan."
  },
  "EX": {
-  "Rupert": "Rupertning aytishicha, yaxshi dasturxon odobi boshqalarga qulaylik yaratishdan iborat.",
-  "Samuel": "Samuel kundaligida o'zi borgan ziyofatlar haqida yozgan.",
   "across": "Stol ustidan qo'l cho'zmang, birovdan tuzni uzatib yuborishini so'rang.",
   "burp": "Britaniyada dasturxon atrofida kekirish odobsizlik hisoblanadi.",
   "chewing": "Og'zingizni ochib chaynash odobsizlikdir.",

@@ -1,7 +1,6 @@
 // Part 1 topic 0278: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0278', {
  "A1": {
-  "Owen": "Do'stimning ismi Owen.",
   "banking": "U bank sohasida ishlaydi.",
   "banking system": "Bank tizimi muhim.",
   "desalination": "Chuchuklashtirish suvdan tuzni ajratib oladi.",
@@ -18,7 +17,6 @@ VOCAB_TR_STORE('1', '0278', {
   "warm up": "Xona tez orada isiydi."
  },
  "A2": {
-  "Owen": "Owen o'qituvchi.",
   "banking": "Onlayn bank xizmatlaridan foydalanish oson.",
   "banking system": "Har bir mamlakatda bank tizimi bor.",
   "desalination": "Bu suvni chuchuklashtirish zavodi.",
@@ -35,7 +33,6 @@ VOCAB_TR_STORE('1', '0278', {
   "warm up": "Keling, olov yonida isinaylik."
  },
  "B1": {
-  "Owen": "Owen ob-havo haqida gapirdi.",
   "banking": "Bank ishi katta soha hisoblanadi.",
   "banking system": "Bank tizimi qiyin ahvolda edi.",
   "desalination": "Tuzsizlantirish bizni chuchuk suv bilan ta'minlaydi.",
@@ -52,7 +49,6 @@ VOCAB_TR_STORE('1', '0278', {
   "warm up": "Yozda dengiz isiydi."
  },
  "B2": {
-  "Owen": "Owenning aytishicha, iqlim o'zgarishi banklarga ham ta'sir qiladi.",
   "banking": "Ba'zi bank kompaniyalari hamon ko'mir va neftga sarmoya kiritadi.",
   "banking system": "Toshqinlar va qurg'oqchiliklar bank tizimiga ta'sir qilishi mumkin.",
   "desalination": "Yog'ingarchilik kam bo'lgan mamlakatlar suvni chuchuklashtirish usulidan foydalanadi.",
@@ -69,7 +65,6 @@ VOCAB_TR_STORE('1', '0278', {
   "warm up": "Issiqxona gazlari tufayli Yer isib bormoqda."
  },
  "C1": {
-  "Owen": "Ouenning fikricha, biz chiqindilarni qisqartirish bilan birga moslashishimiz ham kerak.",
   "banking": "Yashil bank faoliyati chiqindilarni kamaytiradigan loyihalarni qo'llab-quvvatlaydi.",
   "banking system": "Mutaxassislar bank tizimi iqlim xavfi oldida himoyasiz ekanidan ogohlantirishdi.",
   "desalination": "Suvni chuchuklashtirish ko'p energiya sarflaydi, bu esa chiqindilarni ko'paytirishi mumkin.",
@@ -86,7 +81,6 @@ VOCAB_TR_STORE('1', '0278', {
   "warm up": "Okeanlar isigan sari dengiz sathi ko'tariladi."
  },
  "C2": {
-  "Owen": "Ouenning ta'kidlashicha, moliya tizimi isib borayotgan dunyo xavflarini narxlarga kiritishda sustkashlik qilgan.",
   "banking": "Bank sektoriga yangi qazilma yoqilg'i loyihalarini moliyalashtirishni to'xtatish yuzasidan bosim kuchaymoqda.",
   "banking system": "Qazilma yoqilg'idan keskin voz kechish ularga katta mablag' kiritgan bank tizimini larzaga solishi mumkin.",
   "desalination": "Quyosh energiyasida ishlaydigan chuchuklashtirish qurilmalari global isishni kuchaytirmasdan ichimlik suvi berishi mumkin.",
@@ -103,7 +97,6 @@ VOCAB_TR_STORE('1', '0278', {
   "warm up": "Agar Arktika shu sur'atda isishda davom etsa, uning yozgi muzliklari butunlay yo'qolib ketishi mumkin."
  },
  "EX": {
-  "Owen": "Ouen iqlim o'zgarishi iqtisodiyotga qanday ta'sir qilishini tushuntirdi.",
   "banking": "U bank sohasida ishlaydi.",
   "banking system": "Iqlim o'zgarishi bank tizimiga bosim o'tkazishi mumkin.",
   "desalination": "Chuchuklashtirish zavodlari dengiz suvini ichimlik suviga aylantiradi.",

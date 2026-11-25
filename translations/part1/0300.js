@@ -1,7 +1,6 @@
 // Part 1 topic 0300: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0300', {
  "A1": {
-  "Leo": "Uning ismi Leo.",
   "adventure": "Men sarguzasht hikoyalarini yaxshi ko'raman.",
   "archery": "Men kamondan otish bilan shug'ullanaman.",
   "aristocrat": "U aristokrat.",
@@ -45,7 +44,6 @@ VOCAB_TR_STORE('1', '0300', {
   "warrior": "U jasur jangchi."
  },
  "A2": {
-  "Leo": "Leo mening do'stim.",
   "adventure": "O'rmonda biz bilan sarguzasht yuz berdi.",
   "archery": "Kamondan otish sport turidir.",
   "aristocrat": "U aristokratga turmushga chiqdi.",
@@ -89,7 +87,6 @@ VOCAB_TR_STORE('1', '0300', {
   "warrior": "Jangchining qilichi bor edi."
  },
  "B1": {
-  "Leo": "Leo tarixni yaxshi ko'radi.",
   "adventure": "Ritsar sarguzashtga otlandi.",
   "archery": "U kamondan otishni yaxshi biladi.",
   "aristocrat": "Aslzoda qal'ada yashaydi.",
@@ -133,7 +130,6 @@ VOCAB_TR_STORE('1', '0300', {
   "warrior": "Ular buyuk jangchilar edi."
  },
  "B2": {
-  "Leo": "Leo ritsarlik u uchun nimani anglatishini tushuntirdi.",
   "adventure": "Afsonalardagi ritsarlar jasoratini isbotlash uchun sarguzashtlarga otlanishgan.",
   "archery": "Kamondan otish o'rta asrlar urushlarida muhim mahorat bo'lgan.",
   "aristocrat": "Ritsarlar odatda aslzodalar oilasidan chiqqan.",
@@ -177,7 +173,6 @@ VOCAB_TR_STORE('1', '0300', {
   "warrior": "Ritsarlar yoshligidan jangchi sifatida tarbiyalangan."
  },
  "C1": {
-  "Leo": "Leoning fikricha, odob-axloq faqat ayollar uchun emas, hamma uchun.",
   "adventure": "Kitobda Qirol Arturning ritsarlari boshidan kechirgan sarguzashtlar hikoya qilinadi.",
   "archery": "Qal'aga tashrif buyuruvchilar kamondan o'q otish va boshqa o'rta asr sport turlarini sinab ko'rishlari mumkin.",
   "aristocrat": "Aristokratlar oddiy odamlardan farqli ekanliklarini ko'rsatish uchun ritsarlik odobidan foydalanishgan.",
@@ -221,7 +216,6 @@ VOCAB_TR_STORE('1', '0300', {
   "warrior": "Ritsarlik kodeksi jangchilarning zo'ravonligini jilovlashga uringan."
  },
  "C2": {
-  "Leo": "Leoning fikricha, ritsarlik hammaga ko'rsatiladigan xushmuomalalik sifatida qayta ta'riflanishi kerak.",
   "adventure": "Ritsarlik romansi ritsarning sarguzashtini ham jismoniy, ham axloqiy kuch sinoviga aylantirgan.",
   "archery": "Azenkurdagi inglizlarning g'alabalari kamondan otish otliq ritsarlarni qanday mag'lub eta olishini ko'rsatdi.",
   "aristocrat": "Ritsarlik qisman aristokratning imtiyozli mavqeini oqlaydigan kodeks vazifasini bajargan.",
@@ -265,7 +259,6 @@ VOCAB_TR_STORE('1', '0300', {
   "warrior": "Ritsarlikka professional jangchilar tabaqasini madaniylashtirishga urinish sifatida qarash mumkin."
  },
  "EX": {
-  "Leo": "Leo bizga doim boshqalar uchun eshikni ochib turishini aytdi.",
   "adventure": "O'rta asr hikoyalari jasur ritsarlarning sarguzashtlariga to'la.",
   "archery": "Ritsarlar chavandozlik bilan birga kamondan o'q otishni ham mashq qilishgan.",
   "aristocrat": "Ritsarlarning aksariyati yer egasi bo'lgan aristokratlar edi.",

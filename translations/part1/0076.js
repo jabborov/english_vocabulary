@@ -1,7 +1,6 @@
 // Part 1 topic 0076: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0076', {
  "A1": {
-  "Helen": "Xelen mening dugonam.",
   "battery": "Telefonimning batareyasi kam qoldi.",
   "biodiversity": "Biologik xilma-xillik muhim.",
   "bullet": "O'q kichik.",
@@ -38,7 +37,6 @@ VOCAB_TR_STORE('1', '0076', {
   "wind generation": "Shamol energiyasi ishlab chiqarish toza."
  },
  "A2": {
-  "Helen": "Xelen dengiz bo'yida ishlaydi.",
   "battery": "Bu o'yinchoqqa batareya kerak.",
   "biodiversity": "O'rmonlarda biologik xilma-xillik juda katta.",
   "bullet": "Qurol o'q otadi.",
@@ -75,7 +73,6 @@ VOCAB_TR_STORE('1', '0076', {
   "wind generation": "Dengiz bo'yida shamol energiyasi ishlab chiqariladi."
  },
  "B1": {
-  "Helen": "Helen okean tubini o'rganadi.",
   "battery": "Noutbukimning batareyasini quvvatlashim kerak.",
   "biodiversity": "Ifloslanish biologik xilma-xillikni kamaytiradi.",
   "bullet": "Politsiya o'q topdi.",
@@ -112,7 +109,6 @@ VOCAB_TR_STORE('1', '0076', {
   "wind generation": "Shamol energetikasi katta turbinalardan foydalanadi."
  },
  "B2": {
-  "Helen": "Helenning aytishicha, qazib olish boshlanishidan oldin ko'proq tadqiqot o'tkazish kerak.",
   "battery": "Akkumulyator texnologiyasi har yili takomillashib bormoqda.",
   "biodiversity": "Qazib olish ishlari dengiz tubidagi biologik xilma-xillikning yo'qolishiga olib kelishi mumkin.",
   "bullet": "Qadimgi rivoyatlarda maxluqni faqat kumush o'q to'xtata olgan.",
@@ -149,7 +145,6 @@ VOCAB_TR_STORE('1', '0076', {
   "wind generation": "Britaniya elektr energiyasining katta qismini shamol generatsiyasidan oladi."
  },
  "C1": {
-  "Helen": "Helenning so'zlariga ko'ra, zarar ming yillar davom etishi mumkin.",
   "battery": "Akkumulyator ishlab chiqaruvchilar xomashyoning uzoq muddatli ta'minotini kafolatlash uchun jon-jahdi bilan harakat qilmoqda.",
   "biodiversity": "Abissal tekisliklarning biologik xilma-xilligi olimlar ilgari o'ylaganidan ancha boyroq.",
   "bullet": "\"Silver bullet\" iborasi bo'riodamlar haqidagi xalq afsonalaridan kelib chiqqan.",
@@ -186,7 +181,6 @@ VOCAB_TR_STORE('1', '0076', {
   "wind generation": "Shamol energiyasi ishlab chiqarish o'sib bormoqda, ammo turbinalarga mis va noyob metallar kerak."
  },
  "C2": {
-  "Helen": "Helen chuqur dengizdagi yashash muhitlari bir marta yo'qolsa, hech qachon tiklanmasligi mumkinligidan ogohlantirdi.",
   "battery": "Akkumulyator kimyosidagi yutuqlar hali chuqur dengizda qazib olishni keraksiz qilib qo'yishi mumkin.",
   "biodiversity": "Qisqa muddatli metall ta'minotini qaytarib bo'lmas biologik xilma-xillik yo'qotilishi bilan taqqoslab ko'rish asosiy dilemmadir.",
   "bullet": "O'q metaforasi yagona hal qiluvchi zarbani nazarda tutadi, murakkab muammolarda esa aynan shu narsa yo'q.",
@@ -223,7 +217,6 @@ VOCAB_TR_STORE('1', '0076', {
   "wind generation": "Shamol energiyasi ishlab chiqarishni zarur sur'atda kengaytirish mineral ta'minot zanjirlariga ulkan bosim o'tkazadi."
  },
  "EX": {
-  "Helen": "Helen olimlar nima uchun xavotirda ekanini tushuntirib berdi.",
   "battery": "Batareya metallariga talab tez o'smoqda.",
   "biodiversity": "Okean tubi kutilmagan darajada boy biologik xilma-xillikka ega.",
   "bullet": "Afsonalarda bo'ri-odamni faqat kumush o'q bilan o'ldirish mumkin bo'lgan.",

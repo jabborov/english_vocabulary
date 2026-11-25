@@ -1,7 +1,6 @@
 // Part 1 topic 0003: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0003', {
  "A1": {
-  "Sarah": "Bu Sara.",
   "a few": "Menda bir nechta kitob bor.",
   "all the time": "U doim gapiradi.",
   "announce": "Ular g'olibni e'lon qilishdi.",
@@ -128,7 +127,6 @@ VOCAB_TR_STORE('1', '0003', {
   "writing": "Men yozishni yaxshi ko'raman."
  },
  "A2": {
-  "Sarah": "Sara kitoblarni yaxshi ko'radi.",
   "a few": "Iltimos, bir necha daqiqa kuting.",
   "all the time": "Men doim kitob o'qiyman.",
   "announce": "Maktab ta'til e'lon qildi.",
@@ -255,7 +253,6 @@ VOCAB_TR_STORE('1', '0003', {
   "writing": "Yozish og'ir mehnat."
  },
  "B1": {
-  "Sarah": "Sara elektron kitoblarni telefonida o'qiydi.",
   "a few": "Bir necha yil oldin elektron kitoblar unchalik mashhur emas edi.",
   "all the time": "Yangi elektron kitoblar doimo nashr etilib turadi.",
   "announce": "Kompaniya yangi elektron kitob o'qish qurilmasini e'lon qildi.",
@@ -382,7 +379,6 @@ VOCAB_TR_STORE('1', '0003', {
   "writing": "U har tongni ijod qilishga bag'ishlaydi."
  },
  "B2": {
-  "Sarah": "Sara mualliflar internetda qanday qilib auditoriya to'plashi mumkinligini tushuntirdi.",
   "a few": "Bir nechta nashriyot yangi texnologiyani qabul qilishga shoshilmadi.",
   "all the time": "Texnologiya doimo o'zgarib turadi, shuning uchun nashriyotlar zamon bilan hamqadam bo'lishi kerak.",
   "announce": "Onlayn chakana savdo kompaniyasi bu yil elektron kitoblar savdosi rekord darajaga yetganini e'lon qildi.",
@@ -509,7 +505,6 @@ VOCAB_TR_STORE('1', '0003', {
   "writing": "Yozish jarayoni elektron kitoblar va bosma kitoblar uchun bir xil."
  },
  "C1": {
-  "Sarah": "Sarahning aytishicha, mualliflar endi internetda kuchli mavqega ega bo'lishi kerak.",
   "a few": "Faqat bir nechta an'anaviy kitob do'konlari onlayn sotuvchilar bilan raqobatlasha oldi.",
   "all the time": "O'quvchilar endi kitoblari doimo yonlarida bo'lishini kutishadi.",
   "announce": "Kitob do'konlari tarmog'i o'nlab do'konlarini yopishini e'lon qildi.",
@@ -636,7 +631,6 @@ VOCAB_TR_STORE('1', '0003', {
   "writing": "Format qanday bo'lishidan qat'i nazar, yaxshi yozish hali ham eng muhim narsa."
  },
  "C2": {
-  "Sarah": "Sarahning fikricha, atrofdagi hamma narsa o'zgarsa ham, yozuvchilikning asosiy mahorati barqaror qoladi.",
   "a few": "Bir necha shubhachilarni hisobga olmaganda, ko'pchilik sharhlovchilar endi raqamli o'qish uzoq muddatga kelganini tan oladi.",
   "all the time": "O'zini doimiy ravishda qayta yaratayotgan sohada uzoq muddatli rejalashtirish nihoyatda qiyin bo'lib qoldi.",
   "announce": "Chakana sotuvchi elektron kitoblar qattiq muqovali kitoblardan ko'proq sotilayotganini e'lon qilganda, bu sohadagi ko'pchilik uzoq vaqtdan beri qo'rqib kelgan narsani tasdiqladi.",
@@ -763,7 +757,6 @@ VOCAB_TR_STORE('1', '0003', {
   "writing": "Uning ta'kidlashicha, yozuvchilik mahorati asar o'quvchiga oxir-oqibat qaysi vosita orqali yetib borishiga befarq."
  },
  "EX": {
-  "Sarah": "Sara raqamli nashriyot sohasida ishlaydi.",
   "a few": "Elektron kitobni yuklab olish bir necha soniya oladi, xolos.",
   "all the time": "Texnologiya doimo o'zgarib turadi.",
   "announce": "Kompaniya elektron kitoblar savdosi qattiq muqovali kitoblar savdosidan o'zib ketganini e'lon qildi.",

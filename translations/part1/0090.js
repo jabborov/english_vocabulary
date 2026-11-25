@@ -1,7 +1,6 @@
 // Part 1 topic 0090: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0090', {
  "A1": {
-  "Jack": "Jek mening do'stim.",
   "addition": "Bu yangi qo'shimcha.",
   "caramel": "Men karamelni yaxshi ko'raman.",
   "carrot": "Men sabzi yeyman.",
@@ -28,7 +27,6 @@ VOCAB_TR_STORE('1', '0090', {
   "wacky": "Bu g'alati shlyapa."
  },
  "A2": {
-  "Jack": "Jek sabzavotlarni yaxshi ko'radi.",
   "addition": "Tort yoqimli qo'shimcha bo'ldi.",
   "caramel": "Bu shirinlik karamelli.",
   "carrot": "Sabzilar to'q sariq rangda.",
@@ -55,7 +53,6 @@ VOCAB_TR_STORE('1', '0090', {
   "wacky": "Uning g'alati g'oyalari bor."
  },
  "B1": {
-  "Jack": "Jek kalettni birinchi marta tatib ko'rdi.",
   "addition": "Yangi tug'ilgan chaqaloq oilaga qo'shilgan yangi a'zo.",
   "caramel": "Tortning ustida karamel bor.",
   "carrot": "Quyonlar sabzini yaxshi ko'radi.",
@@ -82,7 +79,6 @@ VOCAB_TR_STORE('1', '0090', {
   "wacky": "Kalett sabzavot uchun g'alati nom."
  },
  "B2": {
-  "Jack": "Jack kaletlar Bryussel karamidan ancha mazaliroq deb o'yladi.",
   "addition": "Kaletlar Rojdestvo dasturxoniga yoqimli qo'shimcha bo'ladi.",
   "caramel": "Seleksionerlar biroz karamel ta'mi bor olma yaratishdi.",
   "carrot": "Apelsin rangli navlar ommalashishidan oldin sabzi binafsha yoki oq rangda bo'lgan.",
@@ -109,7 +105,6 @@ VOCAB_TR_STORE('1', '0090', {
   "wacky": "Supermarketlar tobora ko'proq g'alati meva va sabzavotlarni sotmoqda."
  },
  "C1": {
-  "Jack": "Jek ko'rsatuvdan oldin kalet haqida hech qachon eshitmaganini tan oldi.",
   "addition": "Binafsha gulkaram supermarketdagi g'aroyib sabzavotlar assortimentiga qo'shilgan eng so'nggi yangilikdir.",
   "caramel": "Qovurilgan sabzavotlar boy karamel shirinligiga ega bo'ldi.",
   "carrot": "Yetishtiruvchilar tavakkalchi xaridorlarni jalb qilish uchun binafsha va sariq sabzilarni qayta yetishtira boshlashdi.",
@@ -136,7 +131,6 @@ VOCAB_TR_STORE('1', '0090', {
   "wacky": "Yangi sabzilarning g'alati ranglari bolalarga yoqadi."
  },
  "C2": {
-  "Jack": "Jek sabzavotni sarimsoq bilan qovurilgan holda tatib ko'rgach, uning shubhasi yumshadi.",
   "addition": "Ta'midan tashqari, kalettlar ayniqsa vitaminlarga boy ekani aytiladi.",
   "caramel": "Sabzavotlardagi shakarlar yuqori haroratda qizartirilganda karamel ta'mi paydo bo'ladi.",
   "carrot": "To'q sariq sabzini gollandiyalik dehqonlar ommalashtirgan deyishadi, garchi bu hikoya bo'rttirilgan bo'lsa kerak.",
@@ -163,7 +157,6 @@ VOCAB_TR_STORE('1', '0090', {
   "wacky": "G'alati duragaylar sarlavhalarga chiqadi, ammo ular doimiy sadoqatni qozonadimi, bu boshqa masala."
  },
  "EX": {
-  "Jack": "Jek kalette sabzavot uchun g'alati nom deb o'yladi.",
   "addition": "Kalette sabzavotlar rastasidagi yangi qo'shimchadir.",
   "caramel": "Bu olmalarning ta'mi biroz karamelga o'xshaydi.",
   "carrot": "To'q sariq sabzidan oldin binafsharang sabzi keng tarqalgan edi.",

@@ -1,7 +1,6 @@
 // Part 1 topic 0179: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0179', {
  "A1": {
-  "Fuchsia": "Fuchsia bu ism.",
   "as needed": "Kerak bo'lsa, tuz qo'shing.",
   "boiling": "Suv qaynayapti.",
   "caiman": "Kayman timsohga o'xshaydi.",
@@ -25,7 +24,6 @@ VOCAB_TR_STORE('1', '0179', {
   "strictly": "Chekish qat'iyan man etiladi."
  },
  "A2": {
-  "Fuchsia": "Fuchsia taomlar haqida yozadi.",
   "as needed": "Dorini kerak bo'lganda iching.",
   "boiling": "Ehtiyot bo'ling, sho'rva qaynayapti!",
   "caiman": "Kayman daryolarda yashaydi.",
@@ -49,7 +47,6 @@ VOCAB_TR_STORE('1', '0179', {
   "strictly": "Aniqrog'i, bu noto'g'ri."
  },
  "B1": {
-  "Fuchsia": "Fuksiya – shuningdek, gulning bir turi.",
   "as needed": "Biz oziq-ovqatni kerak bo'lganda sotib olamiz.",
   "boiling": "Bugun havo juda issiq.",
   "caiman": "Biz Janubiy Amerikada kayman ko'rdik.",
@@ -73,7 +70,6 @@ VOCAB_TR_STORE('1', '0179', {
   "strictly": "Bu yerda qoidalarga qat'iy rioya qilinadi."
  },
  "B2": {
-  "Fuchsia": "Fuchsia dimlamalar bir paytlar qancha vaqt pishirib turilgani haqida gapirdi.",
   "as needed": "Oshpaz kun davomida zarurat bo'yicha sho'rva qo'shib turadi.",
   "boiling": "Dimlamani qaynash nuqtasigacha yetkazish ko'pchilik bakteriyalarni o'ldiradi.",
   "caiman": "Janubiy Amerikaning ba'zi qismlarida kayman go'shti yeyiladi.",
@@ -97,7 +93,6 @@ VOCAB_TR_STORE('1', '0179', {
   "strictly": "Qat'iy aytganda, birinchi kundagi masalliqlarning birortasi ham endi qozonda yo'q."
  },
  "C1": {
-  "Fuchsia": "Fuchsia Xitoy oshxonasi va taom madaniyati haqida ko'p yozgan.",
   "as needed": "Masalliqlar kerak bo'lganda qo'shiladi, shuning uchun dimlama hech qachon ikki marta aynan bir xil bo'lmaydi.",
   "boiling": "Qozon qaynash nuqtasiga yetguncha isitiladi, keyin past olovda qaynab turishga qoldiriladi.",
   "caiman": "Boshlovchi kayman go'shtini tatib ko'rganini va u biroz tovuq go'shtiga o'xshab ketishini aytdi.",
@@ -121,7 +116,6 @@ VOCAB_TR_STORE('1', '0179', {
   "strictly": "Har qanday professional oshxonada gigiyena qoidalariga qat'iy rioya qilinishi kerak."
  },
  "C2": {
-  "Fuchsia": "Fuchsiyaning tadqiqotlariga ko'ra, uzoq qaynatilgan sho'rvalar ko'pchilik tasavvur qilganidan ancha qadimiyroq oshxona an'anasining bir qismidir.",
   "as needed": "Ziravorlar qat'iy retseptga emas, oshpazlarning tajribasiga tayangan holda kerak bo'lganda moslashtiriladi.",
   "boiling": "Har kuni qaynash nuqtasigacha qayta isitish abadiy sho'rvani iste'mol qilish uchun xavfsiz qiladi.",
   "caiman": "Alligatorning qarindoshi bo'lgan kayman ba'zan tavakkalchi sayyohlarga ekzotik noz-ne'mat sifatida tortiladi.",
@@ -145,7 +139,6 @@ VOCAB_TR_STORE('1', '0179', {
   "strictly": "Qat'iy aytganda, abadiy sho'rva yagona taomdan ko'ra uzluksiz yangilanish jarayonidir."
  },
  "EX": {
-  "Fuchsia": "Oziq-ovqat haqida yozuvchi Fuksiya abadiy dimlamalar tarixini tushuntirib berdi.",
   "as needed": "Zarur bo'lganda ko'proq suv va ziravorlar qo'shiladi.",
   "boiling": "Dimlama har kuni qayta qaynash darajasigacha olib chiqiladi.",
   "caiman": "Boshlovchi bir paytlar ta'tilda kayman go'shtini tatib ko'rgan.",

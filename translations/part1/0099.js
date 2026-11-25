@@ -1,7 +1,6 @@
 // Part 1 topic 0099: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0099', {
  "A1": {
-  "Charles": "Charlz professor.",
   "appealing": "Bu jozibali.",
   "appetizing": "Ovqat ishtahani ochadi.",
   "bacon": "Men bekonni yaxshi ko'raman.",
@@ -37,7 +36,6 @@ VOCAB_TR_STORE('1', '0099', {
   "zoom": "Mashinalar g'izillab o'tib ketadi."
  },
  "A2": {
-  "Charles": "Charlz ovqatni yaxshi ko'radi.",
   "appealing": "Tort jozibali ko'rinadi.",
   "appetizing": "Uning hidi ishtahani ochadi.",
   "bacon": "U bekon va tuxum yeydi.",
@@ -73,7 +71,6 @@ VOCAB_TR_STORE('1', '0099', {
   "zoom": "Velosiped g'izillab uzoqlashdi."
  },
  "B1": {
-  "Charles": "Charlz universitetda ishlaydi.",
   "appealing": "Bu g'oya jozibali eshitiladi.",
   "appetizing": "Sho'rva ishtahani ochadigan ko'rinadi.",
   "bacon": "Bekonning hidi yoqimli.",
@@ -109,7 +106,6 @@ VOCAB_TR_STORE('1', '0099', {
   "zoom": "Vaqt uchqur o'tib ketadi."
  },
  "B2": {
-  "Charles": "Charles tovush ta'mga qanday ta'sir qilishini o'rgangan.",
   "appealing": "Rang-barang taom bolalar uchun jozibaliroq bo'ladi.",
   "appetizing": "Jizillagan tovushlar taomni yanada ishtahaochar qilib ko'rsatadi.",
   "bacon": "Bekonning jizillagan ovozi uni yanada qarsildoqroq tuyulishiga sabab bo'lishi mumkin.",
@@ -145,7 +141,6 @@ VOCAB_TR_STORE('1', '0099', {
   "zoom": "Mototsikl ko'cha bo'ylab g'iz etib o'tib ketdi."
  },
  "C1": {
-  "Charles": "Charlzning so'zlariga ko'ra, musiqa ovqat qanchalik shirin tuyulishini o'zgartirishi mumkin.",
   "appealing": "To'g'ri tanlangan musiqa taomni yanada jozibali qiladi.",
   "appetizing": "Restoran taomlarini yanada ishtahaochar ko'rsatishga harakat qildi.",
   "bacon": "Ovqatlanuvchilar bekonning jizillashini eshitganlarida uni mazaliroq deb baholashdi.",
@@ -181,7 +176,6 @@ VOCAB_TR_STORE('1', '0099', {
   "zoom": "\"Zoom\" so'zi tovushga taqlid qilish namunasidir."
  },
  "C2": {
-  "Charles": "Charlesning tadqiqotlari hozirda gastrofizika deb ataladigan sohaning shakllanishiga yordam berdi.",
   "appealing": "Ovqatni jozibador qiladigan narsa fiziologik bo'lgani kabi psixologik hamdir.",
   "appetizing": "Tovush ovqatni dasturxonga yetib kelmasidanoq ishtahaochar qilishi mumkin.",
   "bacon": "Bekonning jizillashi G'arb oshxonasidagi eng yorqin taassurot qoldiruvchi ovqat tovushlaridan biridir.",
@@ -217,7 +211,6 @@ VOCAB_TR_STORE('1', '0099', {
   "zoom": "\"Zoom\" kabi so'zlar o'zlari tasvirlayotgan harakatni gavdalantiradi."
  },
  "EX": {
-  "Charles": "Charlz sezgilarimiz qanday hamkorlikda ishlashini o'rganadi.",
   "appealing": "Taom ishtahani qo'zg'atadigan ko'rinishda edi.",
   "appetizing": "Jizillagan ovoz bifshteksni yanada ishtahaliroq qildi.",
   "bacon": "Jizillab qovurilayotgan bekonning ovozi uni yanada mazali qiladi.",

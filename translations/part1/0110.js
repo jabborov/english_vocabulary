@@ -1,8 +1,6 @@
 // Part 1 topic 0110: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0110', {
  "A1": {
-  "Joshua": "Bu Joshua.",
-  "Martin": "Bu Martin.",
   "NASA": "NASA raketalar uchiradi.",
   "at a time": "Iltimos, bittadan.",
   "beam": "Bu yorug'lik nuri.",
@@ -35,8 +33,6 @@ VOCAB_TR_STORE('1', '0110', {
   "tumble": "Narxlar keskin tushadi."
  },
  "A2": {
-  "Joshua": "Joshua quyoshni yaxshi ko'radi.",
-  "Martin": "Martin olim.",
   "NASA": "Men NASAda ishlashni xohlayman.",
   "at a time": "Bir vaqtda ikkitadan oling.",
   "beam": "Quyosh nur sochdi.",
@@ -69,8 +65,6 @@ VOCAB_TR_STORE('1', '0110', {
   "tumble": "U tepalikdan dumalab tushdi."
  },
  "B1": {
-  "Joshua": "Joshua energetikani o'rganadi.",
-  "Martin": "Martin quyosh energiyasini yoqtiradi.",
   "NASA": "NASA yulduzlarni o'rganadi.",
   "at a time": "Zinapoyadan birma-bir chiqing.",
   "beam": "Ichkariga yorug'lik nuri tushdi.",
@@ -103,8 +97,6 @@ VOCAB_TR_STORE('1', '0110', {
   "tumble": "Narx keskin tushib ketdi."
  },
  "B2": {
-  "Joshua": "Joshua quyosh panellari haqida gapiradi.",
-  "Martin": "Martin ko'zgular qanday ishlashini tushuntiradi.",
   "NASA": "NASA koinotda quyosh panellaridan foydalanadi.",
   "at a time": "Stansiya bir vaqtning o'zida to'rtta mashinani quvvatlaydi.",
   "beam": "Ko'zgu kuchli nur dastasini hosil qildi.",
@@ -137,8 +129,6 @@ VOCAB_TR_STORE('1', '0110', {
   "tumble": "So'nggi yillarda quyosh energiyasi narxlari keskin tushib ketdi."
  },
  "C1": {
-  "Joshua": "Joshuaning fikricha, avtoturargohlar quyosh soyabonlari uchun ideal joy.",
-  "Martin": "Martin o'tmishda odamlar quyosh energiyasidan qanday foydalanganini tasvirlab beradi.",
   "NASA": "NASA quyosh panellaridan dastlab foydalanganlardan biri edi.",
   "at a time": "Quyosh soyaboni bir vaqtning o'zida o'nlab quvvatlash nuqtalarini energiya bilan ta'minlay oladi.",
   "beam": "Ko'zgular yordamida quyosh nurining dastasini nishonga yo'naltirish mumkin.",
@@ -171,8 +161,6 @@ VOCAB_TR_STORE('1', '0110', {
   "tumble": "Quyosh panellarining narxi taxminan to'qson foizga keskin tushib ketdi."
  },
  "C2": {
-  "Joshua": "Joshuaning so'zlariga ko'ra, quyosh soyabonlari elektr ishlab chiqarishdan ancha ko'proq foyda beradi.",
-  "Martin": "Martinning ta'kidlashicha, quyosh energiyasi haqidagi eng qadimgi g'oyalarning ba'zilari bugun ham foydali.",
   "NASA": "NASA sun'iy yo'ldoshlar uchun ishlab chiqqan quyosh texnologiyasi oxir-oqibat oddiy uylarga ham yetib keldi.",
   "at a time": "Panellarni birma-bir avtoturargohlarga o'rnatish sekin tuyulishi mumkin, ammo umumiy samarasi sezilarli.",
   "beam": "Jamlangan quyosh nuri metallni eritish uchun yetarli darajada yuqori harorat hosil qila oladi.",
@@ -205,8 +193,6 @@ VOCAB_TR_STORE('1', '0110', {
   "tumble": "Narxlar keskin tushishda davom etar ekan, quyosh soyabonlari bizneslar uchun tobora jozibador bo'lib bormoqda."
  },
  "EX": {
-  "Joshua": "Joshua quyosh soyabonlari qanday ishlashini tushuntiradi.",
-  "Martin": "Martin quyosh energiyasi tarixi haqida gapiradi.",
   "NASA": "NASA o'nlab yillardan beri kosmik kemalar uchun quyosh energiyasidan foydalanib keladi.",
   "at a time": "Soyabon bir vaqtning o'zida o'nta mashinani quvvatlay oladi.",
   "beam": "Ko'zgular quyosh nuri dastasini kemaga yo'naltirdi.",

@@ -1,7 +1,6 @@
 // Part 1 topic 0028: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0028', {
  "A1": {
-  "Lucy": "Bu Lucy.",
   "after all": "U charchagan. Axir u kun bo'yi ishladi.",
   "astronaut": "Men kosmonavt bo'lishni xohlayman.",
   "beard": "Uning soqoli bor.",
@@ -65,7 +64,6 @@ VOCAB_TR_STORE('1', '0028', {
   "working": "Ishlash charchatadi."
  },
  "A2": {
-  "Lucy": "Lucy mening dugonam.",
   "after all": "Uni uxlashga qo'ying, axir u hali bola-ku.",
   "astronaut": "Kosmonavt koinotda.",
   "beard": "Dadamning soqoli uzun.",
@@ -129,7 +127,6 @@ VOCAB_TR_STORE('1', '0028', {
   "working": "Kechasi ishlash qiyin."
  },
  "B1": {
-  "Lucy": "Lyusi koinotdagi hayot haqida gapirib berdi.",
   "after all": "Ular bir kun dam olishni xohlashdi – axir, ular bir necha hafta ishlagan edilar.",
   "astronaut": "Astronavtlar kosmik stansiyada 84 kun bo'lishdi.",
   "beard": "Astronavt koinotda soqol qo'ydi.",
@@ -193,7 +190,6 @@ VOCAB_TR_STORE('1', '0028', {
   "working": "Kosmik stansiyada ishlash qiyin edi."
  },
  "B2": {
-  "Lucy": "Lyusi astronavtlarga ko'proq erkinlik kerak edi, dedi.",
   "after all": "Ularning norozilik bildirgani ajablanarli emas, axir hech kim to'xtovsiz ishlay olmaydi.",
   "astronaut": "Astronavtlar yerdagi boshqaruv markazi belgilagan qat'iy jadvalga amal qiladi.",
   "beard": "Ba'zi astronavtlar koinotda soqol olish o'rniga soqolini o'stirib yuboradi.",
@@ -257,7 +253,6 @@ VOCAB_TR_STORE('1', '0028', {
   "working": "Tanaffussiz ishlash tez orada ekipajni holdan toydirdi."
  },
  "C1": {
-  "Lucy": "Lucy ekipajning munosabati mutlaqo tushunarli ekanini ta'kidladi.",
   "after all": "Oxir-oqibat boshqaruv markazi yon berdi, axir, holdan toygan ekipaj xavfli ekipajdir.",
   "astronaut": "Astronavtlar vaznsizlikka moslashish uchun ko'proq vaqt kerakligini ta'kidlashdi.",
   "beard": "Missiyadan olingan suratlarda ekipaj a'zolari qalin, tartibsiz soqollar bilan tasvirlangan.",
@@ -321,7 +316,6 @@ VOCAB_TR_STORE('1', '0028', {
   "working": "Stansiyadagi ish sharoitlari tor, shovqinli va qat'iy tartibga solingan edi."
  },
  "C2": {
-  "Lucy": "Lucyning tahlili voqeani ishdagi mustaqillik haqidagi kengroq muhokama doirasiga joylashtirdi.",
   "after all": "Ekipajning munosabati asossiz emas edi, axir ulardan Yerda hech kim qabul qilmaydigan sur'atda ishlash talab qilinayotgan edi.",
   "astronaut": "Astronavtlarning shikoyatlari NASAni ekipajlar orbitada qanchalik mustaqillikka ega bo'lishi kerakligini qayta ko'rib chiqishga undadi.",
   "beard": "Ekipajning o'sib ketgan soqollari orbitadagi oylar davomidagi charchoqlarining kutilmagan ramziga aylandi.",
@@ -385,7 +379,6 @@ VOCAB_TR_STORE('1', '0028', {
   "working": "Orbitadagi mehnat hayotiga oid tadqiqotlar muhit unumdorlik va ruhiy holatga qanchalik chuqur ta'sir qilishini ko'rsatadi."
  },
  "EX": {
-  "Lucy": "Lusi astronavtlar nega bunchalik norozi bo'lganini tushuntirdi.",
   "after all": "Ularga dam olish kerak edi – axir ular mashina emas, inson edi.",
   "astronaut": "Skylabdagi astronavtlar charchagan va haddan tashqari ko'p ishlagan edi.",
   "beard": "Uzoq missiya davomida astronavtlardan biri soqol qo'ydi.",

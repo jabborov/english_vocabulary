@@ -1,7 +1,6 @@
 // Part 1 topic 0466: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0466', {
  "A1": {
-  "Kat": "Ket mening dugonam.",
   "alliteration": "Menga alliteratsiya yoqadi.",
   "assonance": "Assonans tovushlar takroriga oid.",
   "blue murder": "Chaqaloq dod solib chinqirdi.",
@@ -14,7 +13,6 @@ VOCAB_TR_STORE('1', '0466', {
   "string of words": "Bu so'zlar qatori."
  },
  "A2": {
-  "Kat": "Ket she'rlarni yaxshi ko'radi.",
   "alliteration": "\"Peter Piper\" iborasida alliteratsiya ishlatilgan.",
   "assonance": "Bu she'rda assonansdan foydalanilgan.",
   "blue murder": "U baqirib-chaqirib dod soldi.",
@@ -27,7 +25,6 @@ VOCAB_TR_STORE('1', '0466', {
   "string of words": "U bir qator so'zlarni aytdi."
  },
  "B1": {
-  "Kat": "Kat darsda she'r o'qidi.",
   "alliteration": "Alliteratsiya boshlang'ich tovushlarning takrorlanishidir.",
   "assonance": "Assonans unli tovushlarning takrorlanishidir.",
   "blue murder": "U shifokor qabulida dod solib, qattiq janjal ko'tardi.",
@@ -40,7 +37,6 @@ VOCAB_TR_STORE('1', '0466', {
   "string of words": "Gap – so'zlar ketma-ketligi."
  },
  "B2": {
-  "Kat": "Kat she'riyat unga ingliz tilini o'rganishga yordam berganini aytdi.",
   "alliteration": "Ko'plab reklamalarda alliteratsiyadan foydalaniladi.",
   "assonance": "\"Light\" va \"time\" so'zlarida assonans bor.",
   "blue murder": "Televizor o'chganda bolalar dod solib baqirishdi.",
@@ -53,7 +49,6 @@ VOCAB_TR_STORE('1', '0466', {
   "string of words": "Yaxshi she'r shunchaki so'zlar tizmasi emas."
  },
  "C1": {
-  "Kat": "Ket alliteratsiya misralarni eslab qolishni qanday osonlashtirishini tushuntirdi.",
   "alliteration": "Alliteratsiya iboralarni jozibali va eslab qolishga oson qiladi.",
   "assonance": "Assonans she'rga musiqiylik baxsh etadi.",
   "blue murder": "Agar sevimli she'rlari maktab dasturidan olib tashlansa, o'quvchilar dod-voy ko'tarishgan bo'lardi.",
@@ -66,7 +61,6 @@ VOCAB_TR_STORE('1', '0466', {
   "string of words": "Shoirlar har bir so'zlar qatorini ma'nosi bilan birga ohangiga qarab ham tanlaydi."
  },
  "C2": {
-  "Kat": "Ket she'riyat til o'qitishda markaziy o'rinni egallashga loyiq, deb ta'kidladi.",
   "alliteration": "Mohirona alliteratsiya she'r tasvirlayotgan tovushlarning aynan o'zini taqlid qila oladi.",
   "assonance": "Nozik assonans o'quvchi buni ongli ravishda sezmagan holda satrni bir butun qilib bog'lashi mumkin.",
   "blue murder": "She'riyat milliy o'quv dasturidan olib tashlanganida o'qituvchilar dodlab, qattiq norozilik bildirdi.",
@@ -79,7 +73,6 @@ VOCAB_TR_STORE('1', '0466', {
   "string of words": "Esda qolarli satr - bu ritmi xotiraga o'rnashib qoladigan so'zlar tizmasidir."
  },
  "EX": {
-  "Kat": "Ket o'zining sevimli she'rini ovoz chiqarib o'qidi.",
   "alliteration": "\"Big brown bear\" alliteratsiyaga misoldir.",
   "assonance": "\"Fleet feet sweep by sleeping geese\" jumlasi unli tovushlar uyg'unligi — assonansga boy.",
   "blue murder": "Chaqaloq tun bo'yi dodlab, jon-jahdi bilan qichqirdi.",

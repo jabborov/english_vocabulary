@@ -1,7 +1,6 @@
 // Part 1 topic 0268: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0268', {
  "A1": {
-  "Harvey": "Harvey mening do'stim.",
   "ankle": "To'pig'imni lat yedirdim.",
   "baggy": "Bu shim keng va shalvirab turadi.",
   "bicycle chain": "Velosiped zanjiri uzilgan.",
@@ -31,7 +30,6 @@ VOCAB_TR_STORE('1', '0268', {
   "wheeler": "Bu uch g'ildirakli transport."
  },
  "A2": {
-  "Harvey": "Harvey velosipedlarni yaxshi ko'radi.",
   "ankle": "To'pig'im og'riyapti.",
   "baggy": "U keng, shalvirab turadigan kiyimlar kiyadi.",
   "bicycle chain": "Velosiped zanjirini moylang.",
@@ -61,7 +59,6 @@ VOCAB_TR_STORE('1', '0268', {
   "wheeler": "Velosiped ikki g'ildirakli transportdir."
  },
  "B1": {
-  "Harvey": "Harvey ishga velosipedda boradi.",
   "ankle": "Uning yubkasi to'pig'igacha tushardi.",
   "baggy": "U keng, shalvirroq shim kiygan edi.",
   "bicycle chain": "Shimim velosiped zanjiriga ilinib qoldi.",
@@ -91,7 +88,6 @@ VOCAB_TR_STORE('1', '0268', {
   "wheeler": "Katta g'ildirakli velosipedni haydash qiyin edi."
  },
  "B2": {
-  "Harvey": "Harvey du Cros Dunlopning shina kompaniyasiga sarmoya kiritdi.",
   "ankle": "Viktoriya davri ayollari to'piqlarini ko'rsatmasliklari kerak edi.",
   "baggy": "Keng sharovarlar ayol velosipedchilar orasida mashhur bo'ldi.",
   "bicycle chain": "Velosiped zanjiri velosipedlarni xavfsizroq va haydashga qulayroq qildi.",
@@ -121,7 +117,6 @@ VOCAB_TR_STORE('1', '0268', {
   "wheeler": "Baland g'ildirakli velosipedlarning old g'ildiragi ulkan bo'lardi."
  },
  "C1": {
-  "Harvey": "Xarvining sarmoyasi havo bilan to'ldirilgan shinalarning muvaffaqiyatiga yordam berdi.",
   "ankle": "Velosipedda yurish uchun mo'ljallangan yubkalar ba'zan ayolning to'pig'ini ochib qo'yardi.",
   "baggy": "Keng shimlar ayollarga pedallarni erkin aylantirish imkonini berdi.",
   "bicycle chain": "Velosiped zanjiri ustidagi himoya qopqog'i ayollarning yubkalarini asrardi.",
@@ -151,7 +146,6 @@ VOCAB_TR_STORE('1', '0268', {
   "wheeler": "Baland g'ildirakli velosipeddan yiqilish jiddiy jarohatga olib kelishi mumkin edi."
  },
  "C2": {
-  "Harvey": "Harvey du Crosning tijoratchilik fahmi Dunlop ixtirosini global biznesga aylantirdi.",
   "ankle": "Bir paytlar janjal sabab bo'lgan to'piqning ko'rinib qolishi yubkada velosiped haydashning muqarrar oqibati edi.",
   "baggy": "Keng, hilpiroq shalvar kamtarlik va harakatchanlik o'rtasidagi amaliy murosa edi.",
   "bicycle chain": "Zanjir bilan harakatlanadigan xavfsiz velosiped katta g'ildirakli velosiped o'rnini egallab, velosipedchilikni ayollar uchun ochdi.",
@@ -181,7 +175,6 @@ VOCAB_TR_STORE('1', '0268', {
   "wheeler": "Katta g'ildirakli velosiped ilk velosipedchilikning xavfli, erkaklarga xos obrazini mujassam etgan."
  },
  "EX": {
-  "Harvey": "Harvey du Kros havo bilan to'ldiriladigan shinalar biznesini rivojlantirishga yordam bergan.",
   "ankle": "Viktoriya davrida to'piqlarni ko'rsatish odamlarni hayratga solardi.",
   "baggy": "Keng shimlar velosipedda yurish uchun qulayroq edi.",
   "bicycle chain": "Uzun yubkalar velosiped zanjiriga ilinib qolishi mumkin edi.",

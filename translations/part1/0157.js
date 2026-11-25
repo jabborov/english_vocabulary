@@ -1,7 +1,6 @@
 // Part 1 topic 0157: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0157', {
  "A1": {
-  "Anthony": "Anthony fermer.",
   "acre": "Ferma o'n akr.",
   "clay": "Bu ko'za loydan yasalgan.",
   "cling": "Ho'l kiyim badanga yopishadi.",
@@ -35,7 +34,6 @@ VOCAB_TR_STORE('1', '0157', {
   "water supply": "Suv ta'minoti to'xtadi."
  },
  "A2": {
-  "Anthony": "Bu Anthony.",
   "acre": "Ular bir akr yer sotib olishdi.",
   "clay": "Bolalar loy bilan o'ynashadi.",
   "cling": "Chaqaloq onasiga yopishib oladi.",
@@ -69,7 +67,6 @@ VOCAB_TR_STORE('1', '0157', {
   "water supply": "Shahrimizda suv ta'minoti yaxshi."
  },
  "B1": {
-  "Anthony": "Entoni cho'lda ishlaydi.",
   "acre": "Bog' ellik akr maydonni egallaydi.",
   "clay": "Loy yumshoq va nam bo'ladi.",
   "cling": "Uning etiklariga loy yopishib qolgan edi.",
@@ -103,7 +100,6 @@ VOCAB_TR_STORE('1', '0157', {
   "water supply": "Fermalarga suv ta'minoti kerak."
  },
  "B2": {
-  "Anthony": "Anthony BBCga qancha suv tejaganlarini aytib berdi.",
   "acre": "Yuzlab akr cho'l yerlarida endi dehqonchilik qilinmoqda.",
   "clay": "Qumli tuproq ustiga suyuq loy sepiladi.",
   "cling": "Mayda loy zarralari qumga yopishib oladi.",
@@ -137,7 +133,6 @@ VOCAB_TR_STORE('1', '0157', {
   "water supply": "Mintaqadagi suv ta'minotining katta qismini qishloq xo'jaligi ishlatadi."
  },
  "C1": {
-  "Anthony": "Anthonyning so'zlariga ko'ra, natijalar hatto olimlarni ham hayratda qoldirgan.",
   "acre": "Har bir akr qumga loy bilan ishlov berish kutilganidan arzonroq turadi.",
   "clay": "Loy har bir qum donasini qoplab, tuproqning namlikni ushlab qolishiga yordam beradi.",
   "cling": "Suv oqib ketish o'rniga loy qoplamaga yopishib qoladi.",
@@ -171,7 +166,6 @@ VOCAB_TR_STORE('1', '0157', {
   "water supply": "Iqlim o'zgarishi ko'plab cho'l mamlakatlarining suv ta'minotini xavf ostiga qo'ymoqda."
  },
  "C2": {
-  "Anthony": "Entoni usul faqat fermerlar uni to'g'ri qo'llashga o'rgatilgandagina muvaffaqiyatli bo'lishini ta'kidladi.",
   "acre": "Usulni minglab akr maydonga kengaytirish katta sarmoya talab qiladi.",
   "clay": "Cho'l qumini nanoloy bilan ishlov berish suvning tuproq orqali harakatlanishini tubdan o'zgartiradi.",
   "cling": "Suv molekulalari loy qatlamiga yopishib olgani sababli namlik ancha uzoq vaqt saqlanadi.",
@@ -205,7 +199,6 @@ VOCAB_TR_STORE('1', '0157', {
   "water supply": "Ishonchli suv ta'minotini kafolatlash Fors ko'rfazi davlatlari hukumatlari uchun asosiy ustuvor vazifaga aylandi."
  },
  "EX": {
-  "Anthony": "Entoni loy bilan ishlov berish qanday ishlashini tushuntirib berdi.",
   "acre": "Ferma yuzlab akr cho'l hududini egallaydi.",
   "clay": "Qumga suyuq loy aralashtirish uning suvni ushlab qolishiga yordam beradi.",
   "cling": "Loy har bir qum zarrasiga yopishib oladi.",

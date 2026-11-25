@@ -1,7 +1,6 @@
 // Part 1 topic 0169: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0169', {
  "A1": {
-  "Catherine": "Catherine mening do'stim.",
   "booming": "Shahar gullab-yashnamoqda.",
   "bot": "Bot siz bilan gaplasha oladi.",
   "check in": "Men har kuni onamdan xabar olaman.",
@@ -25,7 +24,6 @@ VOCAB_TR_STORE('1', '0169', {
   "woe": "U menga barcha dardlarini aytib berdi."
  },
  "A2": {
-  "Catherine": "Catherine yangi telefonini yoqtiradi.",
   "booming": "Savdo gurkirab o'smoqda.",
   "bot": "Men botga savol berdim.",
   "check in": "Tomdan xabar olib qo'ya olasizmi?",
@@ -49,7 +47,6 @@ VOCAB_TR_STORE('1', '0169', {
   "woe": "Uning pul bilan bog'liq tashvishlari tugadi."
  },
  "B1": {
-  "Catherine": "Ketrin muammolari haqida chatbot bilan gaplashdi.",
   "booming": "Ilovalar biznesi jadal rivojlanmoqda.",
   "bot": "Bu bot odamlarga stressni yengishda yordam beradi.",
   "check in": "Ilova vaqti-vaqti bilan o'zingizni qanday his qilayotganingizni so'rab turadi.",
@@ -73,7 +70,6 @@ VOCAB_TR_STORE('1', '0169', {
   "woe": "Ko'p odamlar o'z dardini do'stlariga aytishadi."
  },
  "B2": {
-  "Catherine": "Catherine ilova unga kamroq xavotirlanishga yordam berganini aytdi.",
   "booming": "Sog'lomlashtirish texnologiyalari bozori jadal rivojlanmoqda.",
   "bot": "Bot odamlarning xabarlariga javob berish uchun sun'iy intellektdan foydalanadi.",
   "check in": "Chatbot har tongda foydalanuvchilardan holini so'rab, kayfiyatlari bilan qiziqadi.",
@@ -97,7 +93,6 @@ VOCAB_TR_STORE('1', '0169', {
   "woe": "Ba'zi odamlar g'am-tashvishlarini chatbot bilan baham ko'rishni afzal bilishadi."
  },
  "C1": {
-  "Catherine": "Catherine nega insonga emas, botga ko'nglini ochish osonroq ekanini tushuntirdi.",
   "booming": "Terapiya ilovalariga talabning keskin o'sishi haqiqiy maslahatchilarga navbatlarning uzunligini aks ettiradi.",
   "bot": "Foydalanuvchilar ko'pincha inson terapevt bilan emas, bot bilan gaplashayotganlarini unutib qo'yishadi.",
   "check in": "Muntazam holat so'rab turish odamlarga o'z kayfiyatidagi qonuniyatlarni payqashga yordam beradi.",
@@ -121,7 +116,6 @@ VOCAB_TR_STORE('1', '0169', {
   "woe": "Robot-terapevt kechayu kunduzning istalgan vaqtida dardlaringizni tinglaydi."
  },
  "C2": {
-  "Catherine": "Catherine tajribasi robot terapiyasining ham jozibasini, ham cheklovlarini ko'rsatib beradi.",
   "booming": "Sun'iy intellekt terapiyasiga investitsiyalarning jadal o'sishi uning haqiqatan samarali ekanini tasdiqlovchi dalillardan o'zib ketdi.",
   "bot": "Qanchalik mukammal bo'lmasin, botda inson hamdardligiga asos bo'ladigan hayotiy tajriba yo'q.",
   "check in": "Ilovaning har kuni holingizdan xabar olishi yordam berishi mumkin, ammo u sizga chin dildan g'amxo'rlik qiladigan insonning o'rnini bosa olmaydi.",
@@ -145,7 +139,6 @@ VOCAB_TR_STORE('1', '0169', {
   "woe": "O'z dardlarini algoritmga to'kib solish terapiyadan haqiqatan nimaga muhtojligimiz haqida savollar tug'diradi."
  },
  "EX": {
-  "Catherine": "Ketrin stressga tushganida chatbot ilovasidan foydalangan.",
   "booming": "Ruhiy salomatlik ilovalari gullab-yashnayotgan biznesdir.",
   "bot": "Bot foydalanuvchilardan kayfiyati haqida savollar so'raydi.",
   "check in": "Ilova har kuni foydalanuvchilardan hol-ahvol so'rab turadi.",

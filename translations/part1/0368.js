@@ -1,7 +1,6 @@
 // Part 1 topic 0368: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0368', {
  "A1": {
-  "Mitchell": "Mitchell chipsni yaxshi ko'radi.",
   "broken in": "Chips ikkiga bo'linib ketgan.",
   "chipotle": "Chipotle achchiq.",
   "corn chip": "Men makkajo'xori chipsini yaxshi ko'raman.",
@@ -21,7 +20,6 @@ VOCAB_TR_STORE('1', '0368', {
   "vendor": "Sotuvchi ovqat sotadi."
  },
  "A2": {
-  "Mitchell": "Mitchell yozuvchi.",
   "broken in": "Pechenye ikkiga bo'lingan edi.",
   "chipotle": "Men chipotle ta'mli chipsni tatib ko'rdim.",
   "corn chip": "Makkajo'xori chipslari qarsillaydi.",
@@ -41,7 +39,6 @@ VOCAB_TR_STORE('1', '0368', {
   "vendor": "Men chipsni sotuvchidan sotib oldim."
  },
  "B1": {
-  "Mitchell": "Mitchell gazaklar haqida gapirdi.",
   "broken in": "Chipslarim maydalanib, ushoq bo'lib qolgan edi.",
   "chipotle": "Chipotle qalampiri dudlangan ta'm beradi.",
   "corn chip": "Biz makkajo'xori chipslarini salsa bilan yedik.",
@@ -61,7 +58,6 @@ VOCAB_TR_STORE('1', '0368', {
   "vendor": "Ko'cha sotuvchisi bizga issiq gazaklar sotdi."
  },
  "B2": {
-  "Mitchell": "Mitchellning aytishicha, pishloq va piyozli ta'm eng yaxshisi.",
   "broken in": "Uyga ketayotganda paket ichidagi chipslar sinib qoldi.",
   "chipotle": "Chipotle dudlangan xalapenyo qalampiridan tayyorlanadi.",
   "corn chip": "Makkajo'xori chipslari kartoshkadan emas, makkajo'xoridan tayyorlanadi.",
@@ -81,7 +77,6 @@ VOCAB_TR_STORE('1', '0368', {
   "vendor": "Futbol stadionidagi sotuvchilar chips va ichimliklar sotishadi."
  },
  "C1": {
-  "Mitchell": "Mitchellning aytishicha, chipslar 1920-yillarda pablarda yeyiladigan gazakka aylangan.",
   "broken in": "Paketni ochib, chipslarning mayda bo'laklarga sinib ketganini ko'rishni hech kim yoqtirmaydi.",
   "chipotle": "Chipotle ta'mi chipslar va souslarda urfga kirdi.",
   "corn chip": "Makkajo'xori chipslari AQShda 1930-yillarda mashhur bo'ldi.",
@@ -101,7 +96,6 @@ VOCAB_TR_STORE('1', '0368', {
   "vendor": "Ko'cha savdogarlari yirik shaharlarda yangi gazaklarni ommalashtirishga yordam berdi."
  },
  "C2": {
-  "Mitchell": "Mitchell chipsning oddiy pab gazagidan global sanoatga aylanish yo'lini kuzatib chiqdi.",
   "broken in": "Azot bilan to'ldirilgan paketlar chipslar tashish paytida sinib ketmasligi uchun mo'ljallangan.",
   "chipotle": "Chipotlening tutunli achchiqligi uni dadilroq ta'm izlayotgan gazak ishlab chiqaruvchilarining sevimli ta'miga aylantirdi.",
   "corn chip": "Kartoshka chipslaridan farqli o'laroq, makkajo'xori chipslari shakl berilib qovuriladigan maydalangan makkajo'xori xamiridan tayyorlanadi.",
@@ -121,7 +115,6 @@ VOCAB_TR_STORE('1', '0368', {
   "vendor": "Ko'cha sotuvchilari ko'pincha keyinchalik ommaviy ishlab chiqariladigan mahsulotga aylangan gazaklar bilan birinchi bo'lib tajriba qilgan."
  },
  "EX": {
-  "Mitchell": "Mitchell chipslar Britaniyada qanday qilib bunchalik mashhur bo'lib ketganini tushuntirib berdi.",
   "broken in": "Paket tubidagi chipslar maydalanib, bo'lak-bo'lak bo'lib ketgan edi.",
   "chipotle": "Chipotle ta'mli tortilya chipslari dudlangan va achchiq ta'mga ega.",
   "corn chip": "Makkajo'xori chipslari souslar bilan birga mashhur.",

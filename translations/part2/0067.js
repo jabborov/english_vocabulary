@@ -1,7 +1,6 @@
 // Part 2 topic 0067: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0067', {
  "A1": {
-  "Catherine": "Catherine mening do'stim.",
   "alchemy": "Alkimyo juda qadimiy.",
   "asset": "Oltin - qimmatli boylik.",
   "bank account": "Mening bank hisobim bor.",
@@ -54,7 +53,6 @@ VOCAB_TR_STORE('2', '0067', {
   "up and down": "To'p yuqoriga va pastga sakraydi."
  },
  "A2": {
-  "Catherine": "Salom, Catherine!",
   "alchemy": "U alkimyo haqida o'qidi.",
   "asset": "Uyi uning eng katta boyligi.",
   "bank account": "Bank hisobi oching.",
@@ -107,7 +105,6 @@ VOCAB_TR_STORE('2', '0067', {
   "up and down": "U u yoqdan bu yoqqa yurdi."
  },
  "B1": {
-  "Catherine": "Ketrin bankda ishlaydi.",
   "alchemy": "Alkimyoda odamlar qo'rg'oshindan oltin yasashga urinishgan.",
   "asset": "Oltin investorlar orasida mashhur aktivdir.",
   "bank account": "Maoshim bank hisobimga tushadi.",
@@ -160,7 +157,6 @@ VOCAB_TR_STORE('2', '0067', {
   "up and down": "Narxlar har kuni ko'tarilib-tushib turadi."
  },
  "B2": {
-  "Catherine": "Ketrin bizga inqiroz paytida oltin narxi oshishini aytdi.",
   "alchemy": "Bir paytlar ko'plab mashhur olimlar alkimyo bilan shug'ullanishgan.",
   "asset": "Inqiroz paytida odamlar pullarini xavfsizroq aktivlarga o'tkazishadi.",
   "bank account": "Bank hisobidagi pul inflyatsiya tufayli qadrsizlanishi mumkin.",
@@ -213,7 +209,6 @@ VOCAB_TR_STORE('2', '0067', {
   "up and down": "Aksiyalar qiymati tez ko'tarilib-tushib turishi mumkin."
  },
  "C1": {
-  "Catherine": "Ketrinning so'zlariga ko'ra, oltin qog'oz pulga ishonmaydigan odamlarni o'ziga tortadi.",
   "alchemy": "Isaak Nyuton yillar davomida yashirincha kimyogarlik bilan tajribalar o'tkazgan.",
   "asset": "Aksiyalardan farqli o'laroq, oltin kompaniyaning bankrot bo'lish xavfi bo'lmagan moddiy aktivdir.",
   "bank account": "Inqiroz paytida ba'zi odamlar oltin sotib olish uchun bank hisoblaridan pul yechib olishdi.",
@@ -266,7 +261,6 @@ VOCAB_TR_STORE('2', '0067', {
   "up and down": "So'nggi o'n yil ichida oltin narxi keskin ko'tarilib-tushib turdi."
  },
  "C2": {
-  "Catherine": "Catherinening tahlili oltinning qiymati iqtisodiyot kabi psixologiyaga ham bog'liq ekanini ko'rsatdi.",
   "alchemy": "Zamonaviy moliya qarzni ko'rinishdagi boylikka aylantiruvchi alkimyoga qiyoslangan.",
   "asset": "Yaxshi muvozanatlangan portfelda turli vaqtlarda ko'tarilib-tushadigan aktivlar bo'ladi va ko'pincha bu rolni oltin o'ynaydi.",
   "bank account": "Bank hisobi faqat bankning o'zi qanchalik ishonchli bo'lsa, shunchalik ishonchli, aynan shuning uchun ba'zi odamlar uning o'rniga oltinga ishonishadi.",
@@ -319,7 +313,6 @@ VOCAB_TR_STORE('2', '0067', {
   "up and down": "Shu qadar keskin ko'tarilib-tushib turadigan bozor uning muxlislari da'vo qilganidek xavfsiz boshpana emas."
  },
  "EX": {
-  "Catherine": "Ketrin oltin nega o'z qiymatini saqlab qolishini tushuntirib berdi.",
   "alchemy": "Alkimyo metallni oltinga aylantirish haqidagi qadimiy orzu edi.",
   "asset": "Oltin qo'lda ushlab ko'rish mumkin bo'lgan moddiy aktivdir.",
   "bank account": "Ba'zilar pulni bank hisobida saqlashdan ko'ra oltinni afzal ko'rishadi.",

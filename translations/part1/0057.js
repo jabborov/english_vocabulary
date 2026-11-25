@@ -1,7 +1,6 @@
 // Part 1 topic 0057: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0057', {
  "A1": {
-  "Erica": "Erika o'qituvchi.",
   "accessibility": "Foydalanish qulayligi muhim.",
   "beat": "Men akamni shaxmatda yutdim.",
   "body language": "Uning tana tiliga e'tibor bering.",
@@ -39,7 +38,6 @@ VOCAB_TR_STORE('1', '0057', {
   "water fountain": "Ichimlik suvi favvorachasi bor."
  },
  "A2": {
-  "Erica": "Erika kitob yozadi.",
   "accessibility": "Bino imkoniyati cheklanganlar uchun qulay.",
   "beat": "Jamoamiz ularni yutdi.",
   "body language": "Tana tili his-tuyg'ularni ko'rsatishi mumkin.",
@@ -77,7 +75,6 @@ VOCAB_TR_STORE('1', '0057', {
   "water fountain": "Men ichimlik suvi favvorachasidan suv ichaman."
  },
  "B1": {
-  "Erica": "Erica video uchrashuvlar haqida gapirdi.",
   "accessibility": "Onlayn darslar ko'plab talabalar uchun ta'lim olish imkoniyatini kengaytiradi.",
   "beat": "U ko'pchilik oldida gapirish qo'rquvini yengdi.",
   "body language": "Uning tana harakatlari asabiylashayotganini ko'rsatib turardi.",
@@ -115,7 +112,6 @@ VOCAB_TR_STORE('1', '0057', {
   "water fountain": "Ichimlik suvi favvorachasi zinapoya yonida."
  },
  "B2": {
-  "Erica": "Erica onlayn muloqot bo'yicha maslahatlar beradi.",
   "accessibility": "Subtitrlar video qo'ng'iroqlardan hamma uchun foydalanish imkonini oshiradi.",
   "beat": "Mashq orqali uyatchanlikni yengishingiz mumkin.",
   "body language": "To'g'ri tana tili ish suhbatida sizga yordam berishi mumkin.",
@@ -153,7 +149,6 @@ VOCAB_TR_STORE('1', '0057', {
   "water fountain": "Biz ko'pincha ichimlik suvi favvorachasi yonida uchrashamiz."
  },
  "C1": {
-  "Erica": "Ericaning ta'kidlashicha, raqamli tana tili barchamiz o'rganishimiz kerak bo'lgan ko'nikmadir.",
   "accessibility": "Video uchrashuvlar nogironligi bor hamkasblar uchun qulaylikni oshirdi.",
   "beat": "Taqdimot oldidan hayajonini yengish uchun unga yillab mashq qilish kerak bo'ldi.",
   "body language": "Video qo'ng'iroqlarda tana tilimizning katta qismi boshqalarga ko'rinmaydi.",
@@ -191,7 +186,6 @@ VOCAB_TR_STORE('1', '0057', {
   "water fountain": "Ofis yangiliklari aynan ichimlik suvi favvorachasi yonida almashilardi."
  },
  "C2": {
-  "Erica": "Erica ta'kidlaganidek, bir paytlar instinktiv ravishda ilg'aydigan ishoralarimizni endi onlayn muloqotda ataylab ko'rsatishimiz kerak.",
   "accessibility": "Foydalanish qulayligi raqamli vositalarga keyinchalik qo'shimcha sifatida qo'shilmasdan, boshidanoq loyihaga kiritilishi kerak.",
   "beat": "Chuqur ildiz otgan uyatchanlikni yengish nafaqat mashq qilishni, balki boshqalarning bahosini qanday qabul qilishni asta-sekin qayta idrok etishni talab qiladi.",
   "body language": "Raqamli muloqot odatda tana tili beradigan ko'plab nozik ishoralarni yo'qqa chiqaradi.",
@@ -229,7 +223,6 @@ VOCAB_TR_STORE('1', '0057', {
   "water fountain": "Ichimlik suvi favvorachasi bo'ladimi yoki suv sovutgichi, bu joylar ofis ma'lumotlarining norasmiy markazlari vazifasini bajargan."
  },
  "EX": {
-  "Erica": "Ericaning aytishicha, raqamli dunyo uchun bizga yangi tana tili kerak.",
   "accessibility": "Onlayn uchrashuvlar safar qila olmaydigan odamlar uchun qulaylikni oshiradi.",
   "beat": "U uyatchanligini yengib, yaxshi notiqqa aylandi.",
   "body language": "Onlayn uchrashuvlarda tana tilini tushunish qiyinroq.",

@@ -1,7 +1,6 @@
 // Part 1 topic 0056: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0056', {
  "A1": {
-  "Paul": "Pol mening do'stim.",
   "accident": "Men avariyaga uchradim.",
   "altogether": "Buni butunlay to'xtating.",
   "casualty": "Qurbonlar bo'lmadi.",
@@ -54,7 +53,6 @@ VOCAB_TR_STORE('1', '0056', {
   "vivid": "Men yorqin tush ko'rdim."
  },
  "A2": {
-  "Paul": "Pol Londonda yashaydi.",
   "accident": "Bu tasodif edi.",
   "altogether": "U chekishni butunlay tashladi.",
   "casualty": "Avariyada ko'p odam jabrlandi.",
@@ -107,7 +105,6 @@ VOCAB_TR_STORE('1', '0056', {
   "vivid": "Unda maktabi haqida yorqin xotiralar bor."
  },
  "B1": {
-  "Paul": "Paul energetika sohasida ishlaydi.",
   "accident": "Zavodda baxtsiz hodisa yuz berdi.",
   "altogether": "Ba'zi mamlakatlar ko'mirdan foydalanishni butunlay to'xtatdi.",
   "casualty": "Shifokorlar shifoxonada jabrlanganlarni davoladi.",
@@ -160,7 +157,6 @@ VOCAB_TR_STORE('1', '0056', {
   "vivid": "Halokat suratlari juda yorqin va ta'sirli edi."
  },
  "B2": {
-  "Paul": "Paul atom energetikasining xavf-xatarlari haqida gapirdi.",
   "accident": "Yadroviy avariyalar kamdan-kam yuz beradi, ammo ular juda jiddiy bo'lishi mumkin.",
   "altogether": "Avariyadan keyin reja butunlay bekor qilindi.",
   "casualty": "Halokat qurbonlari soni hamon munozarali.",
@@ -213,7 +209,6 @@ VOCAB_TR_STORE('1', '0056', {
   "vivid": "U portlashni yorqin tasvirlab berdi."
  },
  "C1": {
-  "Paul": "Paulning ta'kidlashicha, dengiz sathining ko'tarilishi qirg'oqdagi elektr stansiyalariga tahdid solishi mumkin.",
   "accident": "Bu avariya butun soha bo'ylab xavfsizlik qoidalarining kuchaytirilishiga olib keldi.",
   "altogether": "Atom energiyasidan butunlay voz kechish iqlim maqsadlariga erishishni qiyinlashtiradi.",
   "casualty": "Ko'mirdan kelib chiqadigan havo ifloslanishi atom energetikasiga qaraganda ancha ko'p qurbonlarga sabab bo'ladi.",
@@ -266,7 +261,6 @@ VOCAB_TR_STORE('1', '0056', {
   "vivid": "Evakuatsiya qilingan shaharlarning yorqin tasvirlari o'nlab yillar davomida jamoatchilik munosabatini shakllantirdi."
  },
  "C2": {
-  "Paul": "Paul ta'kidlaganidek, sohaning asosiy afzalligi barqaror, kam uglerodli energiya yetkazib berish qobiliyatidir.",
   "accident": "Statistik jihatdan yadro avariyalari ko'mir ifloslanishiga qaraganda kamroq o'limga sabab bo'lgan, ammo jamoatchilik tasavvurida ular ancha kattaroq ko'rinadi.",
   "altogether": "Hukumat siyosatni takomillashtirish o'rniga undan butunlay voz kechishni tanladi.",
   "casualty": "Chernobilning uzoq muddatli qurbonlari soni haqidagi baholar qo'llanilgan metodologiyaga qarab juda katta farq qiladi.",
@@ -319,7 +313,6 @@ VOCAB_TR_STORE('1', '0056', {
   "vivid": "Xavf qanchalik yorqin tasavvur qilinsa, biz uning ehtimolini shunchalik ko'proq oshirib baholashga moyil bo'lamiz."
  },
  "EX": {
-  "Paul": "Paul atom elektr stansiyalari nega ko'pincha suv yaqinida qurilishini tushuntirib berdi.",
   "accident": "Atom stansiyasidagi avariya havoga radiatsiya tarqatdi.",
   "altogether": "Ba'zi odamlar atom energetikasidan butunlay voz kechishni xohlaydi.",
   "casualty": "Yadroviy avariyalardan qurbon bo'lganlar soni ko'pchilik o'ylagandan kamroq.",
