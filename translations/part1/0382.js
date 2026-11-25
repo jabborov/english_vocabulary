@@ -1,4 +1,4 @@
-// Part 1 topic 0382: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0382: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0382', {
  "A1": {
   "cope up": "Men bunga dosh berolmayapman!",
@@ -35,5 +35,11 @@ VOCAB_TR_STORE('1', '0382', {
   "modern man": "Zamonaviy erkakning g'amxo'r va hissiyotlarini ochiq ifodalovchi qiyofasi erkaklikning eski ideallariga qarshi chiqadi.",
   "moving": "Hujjatli film sokin, vazmin yondashuvi tufayli yanada ta'sirliroqdir.",
   "well up": "Hatto eng bardoshli siyosatchilarning ham hissiyotli lahzalarda ko'zlariga yosh kelgani ko'rilgan."
+ },
+ "EX": {
+  "cope up": "Yig'lash stressni yengish usullaridan biri bo'lishi mumkin.",
+  "modern man": "Zamonaviy erkak endi o'z hislarini ko'rsatishdan uyalmaydi.",
+  "moving": "Bu juda ta'sirli nutq edi va ko'pchilik yig'lab yubordi.",
+  "well up": "Xayrlashayotganda uning ko'zlariga yosh qalqib chiqdi."
  }
 });

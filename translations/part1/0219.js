@@ -1,4 +1,4 @@
-// Part 1 topic 0219: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0219: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0219', {
  "A1": {
   "Sichuan": "Sichuan Xitoyda joylashgan.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0219', {
   "noodle": "Oddiygina lag'mon deyarli har bir mamlakatda mahalliy oshxonaga moslashgan.",
   "topping": "Ijodiy ustama qo'shimchalar oshpazlarga oddiy lag'monni murakkab taomga aylantirish imkonini beradi.",
   "trader": "Tarixchilarning fikricha, savdogarlar lag'monning Osiyo bo'ylab tarqalishida rol o'ynagan."
+ },
+ "EX": {
+  "Sichuan": "Sichuan lag'moni o'ta achchiqligi bilan mashhur.",
+  "dried": "Quritilgan lag'monni oylab saqlash mumkin.",
+  "frank": "Ochig'ini aytsam, men lag'mondan ko'ra guruchni afzal ko'raman.",
+  "hot water": "Tezpishar lag'mon tayyorlash uchun shunchaki issiq suv qo'shing.",
+  "hotpot": "Sichuan xotpoti juda achchiq bo'ladi.",
+  "localise": "Kompaniyalar lag'mon ta'mini har bir mamlakatga moslashtiradi.",
+  "manufacturing": "Lag'mon ishlab chiqarish ulkan sanoat tarmog'idir.",
+  "noodle": "Lag'mon butun dunyoda yeyiladi.",
+  "topping": "Ustiga qo'shimcha sifatida tuxum qo'shishingiz mumkin.",
+  "trader": "Savdogarlar lag'monni Ipak yo'li bo'ylab olib kelishgan."
  }
 });

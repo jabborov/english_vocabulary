@@ -1,4 +1,4 @@
-// Part 1 topic 0291: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0291: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0291', {
  "A1": {
   "caricature": "U mening karikaturamni chizdi.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0291', {
   "wig": "Parik va kostyum o'xshashlik yaratishi mumkin, ammo taqlidni faqat ijroning o'zi ishonarli qila oladi.",
   "wiggle": "Taqlidda yelkaning o'ziga xos qimirlashi kabi jismoniy tafsilotlar ko'pincha ovoz kabi muhim ahamiyatga ega.",
   "yell": "Uning o'ziga xos qichqirig'i shunchalik mashhur bo'ldiki, parodistlar unga taqlid qilmasdan tura olmasdilar."
+ },
+ "EX": {
+  "caricature": "Yaxshi taqlid – tovushdagi o'ziga xos karikaturadir.",
+  "catchphrase": "Shoudagi har bir komikning o'z mashhur iborasi bor edi.",
+  "cheesy": "Shou bachkana hazillarga to'la edi, lekin odamlarga juda yoqdi.",
+  "conscience": "Vijdoni unga odamlarni aldash noto'g'ri ekanini aytdi.",
+  "evaluate": "Hakamlar har bir taqlidchini aniqlik va hazil-mutoyiba bo'yicha baholashadi.",
+  "false pretence": "U keksa ayoldan aldov yo'li bilan pul olgan.",
+  "financial gain": "U moddiy manfaat ko'rish uchun o'zini bank boshqaruvchisi qilib ko'rsatdi.",
+  "gag": "Shou siyosatchilar haqidagi topqir hazillarga to'la edi.",
+  "hang up": "U telefonda haqiqatan ham prezident gapiryapti deb o'ylab, go'shakni qo'ymadi.",
+  "imitation": "Bolalar gapirishni taqlid orqali o'rganishadi.",
+  "impersonate": "U o'zini politsiya xodimi qilib ko'rsatgani uchun hibsga olindi.",
+  "impersonation": "Uning bosh vazirga taqlid qilishi butun tomoshabinlarni kuldirdi.",
+  "impersonator": "Elvisga taqlid qiluvchi artistlar hanuz Las-Vegasda har oqshom chiqish qilishadi.",
+  "impostor": "O'zini shifokor deb tanishtirgan odam firibgar bo'lib chiqdi.",
+  "impressionist": "Taqlidchi besh daqiqada yigirma xil ovozda gapirdi.",
+  "nuance": "Zo'r taqlidchi inson ovozining har bir nozik jihatini ilg'ab oladi.",
+  "pretence": "U o'zini baxtli qilib ko'rsatdi, lekin aslida juda g'amgin edi.",
+  "pursue": "Universitetni tamomlagach, u taqlidchi sifatida martaba qurishga kirishdi.",
+  "stretching": "Ingichka ovozlarda gapirish ovoz paychalarini ancha cho'zishni talab qiladi.",
+  "tic": "Taqlidchilar nutqdagi odatiy takrorlarni, masalan, odam doim qaytaradigan so'zni izlashadi.",
+  "tribunal": "U ish beruvchisi ustidan mehnat nizolari bo'yicha tribunalga shikoyat qildi.",
+  "tribune": "Qadimgi Rimda tribun oddiy fuqarolar nomidan gapirgan.",
+  "tribute": "Ular mahalliy teatrda ABBA qo'shiqlarini ijro etuvchi taqlidchi guruhni tomosha qilgani borishdi.",
+  "troubling": "Odamlarning ovozini nusxalash uchun sun'iy intellektdan foydalanish xavotirli holat.",
+  "wig": "Oqargan parik va ko'zoynakda u xuddi o'sha keksa siyosatchining o'zginasi edi.",
+  "wiggle": "U qoshlarini xuddi o'sha mashhur aktyor kabi o'ynatdi.",
+  "yell": "Taqlidchi mashhur iborani baland ovozda qichqirdi va tomoshabinlar jo'shib ketishdi."
  }
 });

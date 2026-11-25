@@ -1,4 +1,4 @@
-// Part 1 topic 0253: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0253: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0253', {
  "A1": {
   "anticipate": "Men muammo bo'lishini kutyapman.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0253', {
   "temporal": "Guvohlar ko'pincha voqealarning vaqt bo'yicha ketma-ketligini noto'g'ri eslab, keyingi tafsilotlarni oldinroqqa qo'yishadi.",
   "temporal lobe": "Odamlar o'tmishdagi yorqin voqealarni eslashga urinayotganda chakka bo'lagidagi faollik oshadi.",
   "witness": "Sudlar samimiy guvoh ham noto'g'ri ma'lumot berishi mumkinligini tobora ko'proq tan olmoqda."
+ },
+ "EX": {
+  "anticipate": "Miyamiz nima bo'lishini oldindan taxmin qiladi va xotiramizdagi bo'shliqlarni to'ldiradi.",
+  "attacker": "Guvoh hujumchining yuzini tasvirlab berishga urindi.",
+  "attorney": "Advokat guvohga bir nechta qiyin savollar berdi.",
+  "cerebellum": "Miyacha muvozanatimizni saqlashga yordam beradi.",
+  "contact lens": "O'sha kechasi guvoh ayol kontakt linzalarini taqmagan edi.",
+  "defendant": "Sudlanuvchi bir guvoh tufayli aybdor deb topildi.",
+  "disconcert": "Xotira qanchalik ishonchsiz ekanini bilish sizni xijolatga solishi mumkin.",
+  "disconcerting": "Xotirangiz adashishi mumkinligini anglash odamni bezovta qiladi.",
+  "eyewitness": "Guvohlarning ko'rsatmalari har doim ham ishonchli emas.",
+  "impure": "Xotiralarimiz sof emas, chunki ular haqiqiy voqealarni boshqa ma'lumotlar bilan aralashtirib yuboradi.",
+  "inaccurate": "Ko'plab guvohlarning ko'rsatmalari noto'g'ri bo'lib chiqadi.",
+  "juror": "Sudyalar hay'ati a'zolari ko'pincha o'ziga ishongan guvohga ishonishadi.",
+  "lens": "Ko'z gavhari yorug'likni bir nuqtaga to'playdi, lekin nimani ko'rishimizni miya hal qiladi.",
+  "lobe": "Miya bir nechta bo'lakka bo'lingan.",
+  "play tricks": "Xotirangiz sizni aldashi mumkin.",
+  "protective": "Miyamiz himoyalovchi xususiyatga ega va qo'rqinchli tafsilotlarni yashirishi mumkin.",
+  "recall": "Guvohlardan ko'rgan narsalarini eslashlari so'raladi.",
+  "reconstruct": "Har safar eslaganimizda miya voqeani qayta tiklaydi.",
+  "reconstructive": "Xotira oddiy yozib olish emas, balki qayta tiklovchi jarayondir.",
+  "recorder": "Xotiramiz videoyozuv qurilmasi kabi ishlamaydi.",
+  "replay": "Biz xotiralarimizni film kabi shunchaki qayta ko'ra olmaymiz.",
+  "retired": "Iste'fodagi sudya guvohlar yo'l qo'ygan xatolar haqida gapirdi.",
+  "temporal": "Miyaning chakka sohasi quloqlaringiz yaqinida joylashgan.",
+  "temporal lobe": "Chakka bo'lagi xotiralarni shakllantirishda muhim rol o'ynaydi.",
+  "witness": "Guvoh ayol ko'rgan narsasiga amin ekanini aytdi."
  }
 });

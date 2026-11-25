@@ -1,4 +1,4 @@
-// Part 1 topic 0180: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0180: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0180', {
  "A1": {
   "Australia": "Avstraliya juda katta.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0180', {
   "spot on": "Uning odamlar stressni yengish uchun nima sababdan ichishi haqidagi tahlili mutlaqo bejiz emas, ayni nishonga tegdi.",
   "teetotal": "Britaniyada spirtli ichimlik ichmaslik bir paytlar g'ayrioddiy hisoblangan, ammo u tobora odatiy holga aylanmoqda.",
   "willpower": "Psixologlarning fikricha, faqat iroda kuchiga tayanishdan ko'ra atrof-muhitni o'zgartirish samaraliroqdir."
+ },
+ "EX": {
+  "Australia": "Avstraliyada shunga o'xshash aksiya \"Dry July\" deb ataladi.",
+  "abstain": "Millionlab odamlar yanvar oyida spirtli ichimliklardan o'zini tiyadi.",
+  "booze": "U yanvar oyida ichkilikni tashladi.",
+  "boozing": "Rojdestvo paytidagi ichkilikbozlikdan keyin ko'pchilik tanaffus qilishni xohlaydi.",
+  "boozy": "Ichkilikka to'la Rojdestvodan keyin ko'pchilik \"quruq yanvar\"ni sinab ko'radi.",
+  "computer system": "Xayriya tashkiloti odamlarning yutuqlarini kuzatib borish uchun kompyuter tizimidan foydalanadi.",
+  "crack on": "Keling, bugungi dasturimizni boshlab yuboraylik.",
+  "crutch": "Ba'zi odamlar uchun alkogol stress bilan kurashishda suyanchiqqa aylanib qoladi.",
+  "drunk": "Ba'zi odamlar bayramlarda juda tez-tez mast bo'lishadi.",
+  "glitter": "Rojdestvoning yaltiroq shukuhidan keyin yanvar kulrang tuyulishi mumkin.",
+  "shed": "Ko'pchilik \"quruq yanvar\" davomida bir necha kilo vazn tashlaydi.",
+  "sobriety": "Bir oy hushyorlik spirtli ichimlik ichish odatingizni qayta ko'rib chiqishga yordam berishi mumkin.",
+  "spot on": "Javobingiz mutlaqo to'g'ri.",
+  "teetotal": "Opam yillardan beri spirtli ichimlik ichmaydi.",
+  "willpower": "Bir oy ichkilikni tashlash uchun iroda kuchi kerak."
  }
 });

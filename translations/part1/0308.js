@@ -1,4 +1,4 @@
-// Part 1 topic 0308: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0308: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0308', {
  "A1": {
   "dwarf": "Minora cherkovni juda kichik qilib ko'rsatadi.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0308', {
   "respectful": "Rejalashtirishga hurmat bilan yondashish tarixiy obidalarga ochiladigan muhim manzaralarni himoya qiladi.",
   "thoughtlessly": "O'ylamasdan joylashtirilgan binolar londonliklar asrlar davomida bahramand bo'lib kelgan manzaralarni buzishi mumkin.",
   "throw up": "Hashamatli kvartiralarni shoshilinch qurib tashlash butun mahallalarning qiyofasini o'zgartirib yubordi."
+ },
+ "EX": {
+  "dwarf": "Yangi osmono'par bino atrofidagi binolarni mitti qilib ko'rsatadi.",
+  "ground level": "Minoraning yer sathidagi qavatida do'konlar va kafelar bor.",
+  "halt": "Ba'zi odamlar yangi osmono'par binolar qurilishini to'xtatishni istashadi.",
+  "incoming": "Yangi saylangan mer shaharning silueti manzarasini muhofaza qilishga va'da berdi.",
+  "irreverent": "Londonliklar o'z binolari haqida beparvo-istehzoli hazil tuyg'usiga ega.",
+  "irreverently": "Londonliklar bir binoni hurmatsizlarcha \"Uoki-Toki\" deb atashadi.",
+  "modest": "Yangi minoralar yonida eski binolar juda kamtarona ko'rinadi.",
+  "nonetheless": "Bino munozarali edi; shunga qaramay, u mukofotga sazovor bo'ldi.",
+  "obstruct": "Baland binolar Avliyo Pavel sobori manzarasini to'sib qo'ymasligi kerak.",
+  "respectful": "Yangi binolar atrofidagi tarixiy shaharga hurmat bilan munosabatda bo'lishi kerak.",
+  "thoughtlessly": "Tanqidchilarning aytishicha, minoralar hech qanday rejasiz, o'ylamay qurilgan.",
+  "throw up": "Quruvchi kompaniyalar butun shahar bo'ylab yangi minoralarni shosha-pisha qad ko'tartirmoqda."
  }
 });

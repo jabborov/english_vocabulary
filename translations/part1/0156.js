@@ -1,4 +1,4 @@
-// Part 1 topic 0156: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0156: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0156', {
  "A1": {
   "alienate": "Do'stlaringizni o'zingizdan uzoqlashtirmang.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0156', {
   "hook on": "Tanqidchilarning ta'kidlashicha, texnologiya kompaniyalari aynan bolalar cheksiz bildirishnomalarga mukkasidan ketgani uchun foyda ko'radi.",
   "spring up": "Quyi darajadagi harakatlar siyosatchilar ularga javob berishga ulgurganidan ham tezroq paydo bo'ldi.",
   "start up": "Do'stlar o'rtasidagi WhatsApp suhbati sifatida boshlangan narsa milliy kampaniyaga aylandi."
+ },
+ "EX": {
+  "alienate": "Ota-onalar telefonsiz qolish farzandini do'stlaridan uzoqlashtirib qo'yishidan xavotirlanadi.",
+  "at the end of the day": "Oxir-oqibat, bu ota-onalarning qarori.",
+  "even so": "Aksariyat bolalarning telefoni bor; shunday bo'lsa-da, ba'zi ota-onalar rozi bo'lmaydi.",
+  "hook": "Ijtimoiy tarmoq ilovalari yosh foydalanuvchilarni o'ziga bog'lab olish uchun ayyorona usullardan foydalanadi.",
+  "hook on": "Ilovalar bolalarni o'ziga bog'lab qo'yadigan qilib yaratilgan.",
+  "spring up": "Butun mamlakat bo'ylab smartfonlarga qarshi ota-onalar guruhlari paydo bo'ldi.",
+  "start up": "Ikki ona bolalarga smartfon berishni kechiktirish uchun guruh tashkil qildi."
  }
 });

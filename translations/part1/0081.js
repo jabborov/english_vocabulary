@@ -1,4 +1,4 @@
-// Part 1 topic 0081: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0081: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0081', {
  "A1": {
   "Saharan": "Sahroi Kabir qumi issiq.",
@@ -179,5 +179,35 @@ VOCAB_TR_STORE('1', '0081', {
   "soar": "Uglerod chiqindilari aholi soni bilan emas, iqtisodiy o'sish bilan hamqadam ravishda keskin oshib ketdi.",
   "sub": "\"Sub-Saharan\" so'zidagi \"sub\" geografiyani bildiradi, garchi tanqidchilar bu atama keraksiz mustamlakachilik yukini tashiydi deb hisoblasa ham.",
   "win over": "Shubhali iste'molchilarni o'z tarafiga og'dirish uchun ularga o'zini cheklashdan ko'ra jozibadorroq narsa taklif qilish kerak."
+ },
+ "EX": {
+  "Saharan": "Saharadan janubdagi Afrika aholisi juda oz karbonat angidrid chiqaradi.",
+  "affluence": "Asosiy muammo aholi soni emas, balki farovonlik bo'lishi mumkin.",
+  "apologetic": "U chet elga ko'p marta uchgani uchun uzr so'radi.",
+  "astonishing": "Boy mamlakatlar qanchalik ko'p uglerod chiqarishi hayratlanarli.",
+  "calculation": "Bir hisob-kitobga ko'ra, eng boy 10 foiz aholi barcha chiqindilarning yarmini hosil qiladi.",
+  "combined": "Dunyoning eng kambag'al yarmi eng boy 10 foiz aholining jami chiqargan uglerodidan kamroq uglerod chiqaradi.",
+  "con": "\"Mod cons\" iborasi \"modern conveniences\", ya'ni zamonaviy qulayliklar so'zlarining qisqartmasidir.",
+  "conditioning": "Havo konditsioneri juda ko'p elektr energiyasi sarflaydi.",
+  "convenience": "Biz zamonaviy hayotning qulayliklariga o'rganib qolganmiz.",
+  "counterpart": "AQShdagi odam Afrikadagi tengdoshiga qaraganda ancha ko'p uglerod chiqaradi.",
+  "crunch": "Tadqiqotchilar xonadonlar chiqindilari bo'yicha raqamlarni chuqur tahlil qilishdi.",
+  "define": "Chiqindilar haqida gapirganda \"boy\" tushunchasini qanday ta'riflaymiz?",
+  "derive": "Energiyamizning katta qismi qazilma yoqilg'ilardan olinadi.",
+  "earner": "Yuqori daromad oluvchilar ko'proq samolyotda uchadi va ko'proq mashinaga ega bo'ladi.",
+  "housewife": "Kir yuvish mashinalari ko'plab uy bekalarining hayotini o'zgartirdi.",
+  "human activity": "Olimlar iqlim o'zgarishiga inson faoliyati sabab bo'layotgani haqida bir fikrda.",
+  "imprint": "Insoniyat sayyorada chuqur iz qoldirdi.",
+  "judgmental": "Ko'p samolyotda uchadigan odamlarni qoralashni istamayman.",
+  "logical": "Odamlar ko'paysa, chiqindilar ham ko'payishi mantiqiy tuyuladi, lekin bu unchalik oddiy emas.",
+  "luxurious": "Hashamatli turmush tarzi ancha ko'p chiqindi hosil qiladi.",
+  "material possession": "Ko'proq moddiy boylikka ega bo'lish har doim ham bizni baxtliroq qilmaydi.",
+  "mod con": "Uylarimiz muzlatgich va idish yuvish mashinasi kabi zamonaviy qulayliklarga to'la.",
+  "overpopulation": "Ba'zilar iqlim o'zgarishida aholining haddan tashqari ko'payishini ayblaydi.",
+  "poor people": "Kambag'al odamlar iqlim o'zgarishiga juda kam hissa qo'shadi.",
+  "showing": "Bu natijalarga qaraganda, boy mamlakatlar ancha ko'p ish qilishi kerak.",
+  "soar": "So'nggi yuz yil ichida dunyo aholisi keskin ko'paydi.",
+  "sub": "Saharadan janubdagi Afrika aholisi eng tez o'sayotgan hududlardan biridir.",
+  "win over": "Odamlarni kamroq qulay turmush tarziga ko'ndirish qiyin."
  }
 });

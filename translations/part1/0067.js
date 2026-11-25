@@ -1,4 +1,4 @@
-// Part 1 topic 0067: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0067: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0067', {
  "A1": {
   "Beth": "Bet mening dugonam.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0067', {
   "take out": "\"Bazaviy\" inflyatsiya ko'rsatkichlari barqaror bosimni aniqlash uchun eng beqaror tarkibiy qismlarni hisobdan chiqaradi.",
   "unemployment": "Iqtisodchilar bir paytlar inflyatsiya va ishsizlik o'rtasida barqaror teskari bog'liqlik borligiga ishonishgan.",
   "volatile": "Beqaror bozorlarda hatto asosli prognozlar ham bir necha hafta ichida puchga chiqishi mumkin."
+ },
+ "EX": {
+  "Beth": "Beth narxlar nima uchun oshayotganini tushuntiradi.",
+  "advanced": "Rivojlangan iqtisodiyotlarda ham inflyatsiya o'smoqda.",
+  "bleak": "Iqtisodiy istiqbol ko'ngilsiz ko'rinadi.",
+  "come down": "Kelasi yili narxlar tushishi mumkin.",
+  "developed": "Rivojlangan mamlakatlarda ham narxlar oshdi.",
+  "developing country": "Oziq-ovqat narxlarining oshishi rivojlanayotgan mamlakatlardagi odamlarga eng ko'p zarar yetkazadi.",
+  "discourage": "Yuqori foiz stavkalari odamlarni qarz olishdan qaytaradi.",
+  "economist": "Iqtisodchi narxlar oshishining sabablarini tushuntirib berdi.",
+  "fee": "Banklar ko'proq komissiya olishi mumkin.",
+  "financial institution": "Banklar va boshqa moliya institutlari stavkalarini oshirdi.",
+  "hit": "Narxlarning oshishi kambag'alroq oilalarga eng qattiq zarba berdi.",
+  "in short": "Qisqasi, hamma narsa qimmatlashib bormoqda.",
+  "income": "Inflyatsiyadan kam daromadli odamlar eng ko'p zarar ko'radi.",
+  "inflation": "Inflyatsiya so'nggi yillardagi eng yuqori darajaga yetdi.",
+  "inflation rate": "Inflyatsiya darajasi besh foizga ko'tarildi.",
+  "interest rate": "Markaziy bank foiz stavkasini oshirdi.",
+  "opposition": "Muxolifat narxlar oshishida hukumatni aybladi.",
+  "overview": "Iqtisodchi bizga inflyatsiya sabablari haqida umumiy ma'lumot berdi.",
+  "pass through": "Energiya xarajatlarining oshishi do'konlarda to'laydigan narxlarimizga ham o'tadi.",
+  "price increase": "Narxlarning oshishi non va sutga ta'sir qildi.",
+  "production": "Pandemiya paytida ishlab chiqarish sekinlashdi.",
+  "recession": "Ba'zi iqtisodchilar retsessiyadan xavotirda.",
+  "sustain": "Iqtisodiyot bunday o'sish sur'atini saqlab qola oladimi?",
+  "sustained": "Inflyatsiya narxlarning barqaror o'sib borishidir.",
+  "take out": "Oziq-ovqat va energiyani hisobdan chiqarsangiz, inflyatsiya pastroq bo'ladi.",
+  "unemployment": "Retsessiya davrida ishsizlik oshdi.",
+  "volatile": "Energiya narxlari juda o'zgaruvchan."
  }
 });

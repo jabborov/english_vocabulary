@@ -1,4 +1,4 @@
-// Part 1 topic 0392: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0392: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0392', {
  "A1": {
   "advertisement": "Men reklamani ko'rdim.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0392', {
   "legal right": "Raqamli filmga egalik qilish ko'pincha filmning o'ziga emas, balki uni tomosha qilish bo'yicha cheklangan qonuniy huquqqa egalik qilishni anglatadi.",
   "piracy": "Qonuniy xizmatlar qaroqchilikdan arzonroq va qulayroq bo'lib qolgach, ko'pchilik shunchaki noqonuniy yuklab olishni to'xtatdi.",
   "subscription": "Iste'molchilar qancha oylik to'lovlarni to'plab qo'yganini anglab yetganda, obunalardan charchash boshlanadi."
+ },
+ "EX": {
+  "advertisement": "Ba'zi striming xizmatlari epizodlar orasida reklama ko'rsatadi.",
+  "by no means": "Striming hech qachon kinoning oxiri degani emas.",
+  "clicking": "Bir necha marta bosish bilan minglab filmlarni tomosha qilishingiz mumkin.",
+  "copying": "Filmlarni noqonuniy nusxalash jinoyatdir.",
+  "copyright": "Striming xizmatlari o'zlari ko'rsatadigan filmlar uchun mualliflik huquqi haqini to'lashlari kerak.",
+  "know b": "Ko'pchilik kamida bitta striming xizmati haqida biladi.",
+  "legal right": "Striming kompaniyalari filmlarni namoyish qilish uchun qonuniy huquqni sotib olishadi.",
+  "piracy": "Striming musiqa qaroqchiligini kamaytirdi.",
+  "subscription": "Men musiqa strimingi uchun oylik obuna to'lovini to'layman."
  }
 });

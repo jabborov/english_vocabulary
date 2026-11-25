@@ -1,4 +1,4 @@
-// Part 2 topic 0030: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0030: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0030', {
  "A1": {
   "Finn": "U fin.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('2', '0030', {
   "to trap": "Hasharotlarni tutishga qaratilgan urinishlar qanchalik zukko bo'lmasin, milliardlab sonli populyatsiyalarga qarshi oxir-oqibat befoyda.",
   "waist": "Mitti chivinlar kiyimdagi har qanday tirqishni - yeng uchida, yoqada yoki belda - topishda g'aroyib qobiliyatga ega.",
   "whisky": "Arpa va Tog'li Shotlandiyaning yumshoq suvlaridan distillanadigan viski ko'pincha Shotlandiyaning eng yaxshi eksport mahsuloti hisoblanadi."
+ },
+ "EX": {
+  "Finn": "Shotlandiyaga tashrif buyurgan bir finlyandiyalik mayda pashshalar o'z yurtidagi chivinlardan ham battarroq ekanini aytdi.",
+  "Marred by the misery of the midge": "Shotlandiyadagi ko'plab yozgi ta'tillarga mayda pashshalar keltiradigan azob soya soladi.",
+  "a saw": "Pashshaning og'zi xuddi arraga o'xshab ishlab, terini kesib o'tadi.",
+  "beast": "Shunday mitti maxluq bo'lishiga qaramay, bu pashsha juda katta muammolar keltirib chiqaradi.",
+  "blade": "Pashsha og'zidagi mitti tig'lar bilan terini kesadi.",
+  "campsite": "Tog'li Shotlandiyadagi ba'zi lagerlar mayda pashshalarni tutish uchun mashinalardan foydalanadi.",
+  "familiar": "Tog'li Shotlandiyada chodir tikib yashagan har kim bu mayda pashshani yaxshi biladi.",
+  "grandeur": "Mehmonlar Tog'li Shotlandiya cho'qqilarining mahobatiga qoyil qolish uchun kelishadi.",
+  "make up for": "Pashshaning kattaligida yetishmagan narsani soni to'ldiradi.",
+  "marred": "Ajoyib oqshomga mayda pashshalarning paydo bo'lishi soya soldi.",
+  "midge": "Bu pashsha juda mitti, lekin uning chaqishi o'ta qichishtiradi.",
+  "midgie": "Mahalliy aholi bu mitti chaqadigan hasharotni \"midgie\" deb atashadi.",
+  "misery": "Mayda pashshalar osoyishta lager sayohatini haqiqiy azobga aylantirishi mumkin.",
+  "ordinary": "Oddiy hasharotlarga qarshi purkagich har doim ham mayda pashshalarni haydashga yetarli emas.",
+  "painful": "Bitta pashshaning chaqishi og'riqli emas, ammo yuzlabtasiga chidab bo'lmaydi.",
+  "purse": "Kiltlarda cho'ntak bo'lmagani uchun sporran an'anaviy ravishda hamyon sifatida ishlatilgan.",
+  "put us off": "Mayda pashshalar bizni Tog'li Shotlandiyaga qaytib kelishdan aynitmadi.",
+  "repellent": "Yozda Shotlandiyada piyoda sayr qilsangiz, o'zingiz bilan doim hasharotlarni qochiradigan vosita olib yuring.",
+  "rough": "Pashshaning og'zida teriga kesib kiradigan g'adir-budur qirralar bor.",
+  "shearing": "Fermerlarni yozda qo'y qirqish paytida ko'pincha mayda pashshalar chaqadi.",
+  "spoiled": "Ularning ta'tilini to'da-to'da chaqadigan mayda pashshalar buzib qo'ydi.",
+  "sporran": "U beliga charm sporran taqib, kilt kiygan edi.",
+  "suck": "Urg'ochi pashshalar odamlar va hayvonlarning qonini so'radi.",
+  "to lack": "Pashsha kichkina bo'lishi mumkin, lekin qat'iyatdan aslo kam emas.",
+  "to trap": "Olimlar bir vaqtning o'zida minglab mayda pashshalarni tutib oladigan mashinalar ishlab chiqishgan.",
+  "waist": "Sporran bel atrofidagi zanjirga osilib turadi.",
+  "whisky": "Ba'zilar bir qadah viski pashsha chaqishiga eng yaxshi davo deb hazillashadi."
  }
 });

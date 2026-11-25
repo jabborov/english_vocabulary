@@ -1,4 +1,4 @@
-// Part 1 topic 0171: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0171: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0171', {
  "A1": {
   "aerobic": "Yugurish aerob mashg'ulotdir.",
@@ -221,5 +221,42 @@ VOCAB_TR_STORE('1', '0171', {
   "weightlifting": "Olimpiya og'ir atletikasi nafaqat yalang'och kuchni, balki ajoyib texnika va egiluvchanlikni ham talab qiladi.",
   "wet": "Suzuvchilar bu terlayotganingizni bilib bo'lmaydigan yagona sport turi, chunki baribir ho'lsiz, deb hazillashishadi.",
   "workout": "Fitnes yo'nalishlari kelib-ketadi, ammo o'yinga o'xshash mashg'ulotning jozibasi uzoq saqlanadiganga o'xshaydi."
+ },
+ "EX": {
+  "aerobic": "Uzoq, bir maromda suzish aerobik mashqdir.",
+  "aerobic exercise": "Suv parisi uslubida suzish aerobik mashqning yaxshi turidir.",
+  "aerobics": "Onam har seshanba aerobikaga boradi.",
+  "anaerobic": "Hovuzda tez sprint qilish anaerob mashqdir.",
+  "anaerobic exercise": "Og'ir atletika odatiy anaerob mashqdir.",
+  "arrive at": "Keling, viktorina savoliga javob topa olamizmi, ko'raylik.",
+  "cardiovascular": "Suzish yurak-qon tomir tizimi uchun juda foydali.",
+  "cardiovascular disease": "Aerobik mashqlar yurak-qon tomir kasalliklari xavfini kamaytiradi.",
+  "cardiovascular system": "Aerobik mashqlar yurak-qon tomir tizimingizni mustahkamlaydi.",
+  "clue": "Mana sizga ishora: javob mashqning bir turi.",
+  "consist": "Mashg'ulot badan qizdirish mashqlari va suzishdan iborat.",
+  "exertion": "Sprint qisqa muddatli shiddatli zo'riqishni talab qiladi.",
+  "fin": "Suv parisi uslubidagi suzuvchilar ikkala oyog'iga bitta katta lasta kiyishadi.",
+  "fulfil": "Suv parisi uslubida suzish odamlarga bolalikdagi orzusini amalga oshirishga yordam beradi.",
+  "good form": "Suzish jismoniy mashqning yaxshi turidir.",
+  "invite out": "Nega do'stingizni suv parisi mashg'ulotiga taklif qilmaysiz?",
+  "jumping": "Sakrash va sprint anaerob faoliyat turlaridir.",
+  "lifting": "Og'ir yuk ko'tarish anaerob faoliyatdir.",
+  "live out": "Kattalar bolalikdagi suv parisi bo'lish orzusini ro'yobga chiqarishlari mumkin.",
+  "monochrome": "\"Monochrome\" so'zi \"bitta\" ma'nosini bildiruvchi \"mono\" old qo'shimchasi bilan boshlanadi.",
+  "monorail": "Monorels - bitta relsda yuradigan poyezd.",
+  "ordination": "Suv parisi uslubida suzish suvdagi muvofiqlashuvingizni, ya'ni koordinatsiyangizni yaxshilaydi.",
+  "prefix": "\"An-\" - \"...siz\" ma'nosini bildiruvchi old qo'shimcha.",
+  "slip": "Ho'l polda toyib ketmaslik uchun ehtiyot bo'ling.",
+  "slip in": "Suzuvchilar hovuz chetida lastalarini kiyib olishadi.",
+  "sociable": "Suv parisi mashg'ulotlari boshqalar bilan birga chiniqishning qiziqarli usulidir.",
+  "sprint": "Hovuzning oxirigacha tez suzib borishga harakat qiling.",
+  "sprinting": "Sprint odatiy anaerob mashqdir.",
+  "swimming pool": "Suv parisi mashg'ulotlari oddiy suzish havzasida o'tkaziladi.",
+  "synchronise": "Suzuvchilar harakatlarini musiqaga moslashtirishadi.",
+  "synchronised": "Sinxron suzish - suzuvchilar musiqa ostida birgalikda harakatlanadigan sport turi.",
+  "utilisation": "Aerobik mashqlar tananing kisloroddan foydalanishini yaxshilaydi.",
+  "weightlifting": "Og'ir atletika anaerob mashqdir.",
+  "wet": "Suv parisi mashg'ulotida albatta ho'l bo'lasiz!",
+  "workout": "Suv parisi uslubida suzish butun tanaga mo'ljallangan mashg'ulotdir."
  }
 });

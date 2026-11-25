@@ -1,4 +1,4 @@
-// Part 1 topic 0178: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0178: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0178', {
  "A1": {
   "acceptably": "U qoniqarli darajada yaxshi natija ko'rsatdi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0178', {
   "hydration": "Suv ichish sanoati organizmga haqiqatda qancha suyuqlik kerakligi haqidagi jamoatchilik noaniqligidan foyda ko'rib gullab-yashnadi.",
   "scientific fact": "Ommabop sog'liq maslahatlari ko'pincha tadqiqot tufayli emas, balki shunchaki takrorlanish orqali go'yoki ilmiy haqiqatga aylanib qoladi.",
   "water bottle": "Suv idishlarining hamma joyda uchrashi suvsizlanish haqidagi keng tarqalgan, garchi har doim ham asosli bo'lmasa-da, xavotirni aks ettiradi."
+ },
+ "EX": {
+  "acceptably": "Qo'shimcha stakanlarsiz ham suv iste'molingiz maqbul darajada yuqori bo'lishi mumkin.",
+  "all the same": "Ko'pchilik yetarli suyuqlikni ovqatdan oladi; shunday bo'lsa-da, suv ichish foydali.",
+  "approximation": "Kuniga sakkiz stakan - bu shunchaki taxminiy miqdor.",
+  "ballpark": "Kuniga ikki litr ko'pchilik kattalar uchun taxminan to'g'ri miqdor.",
+  "dehydrate": "Issiq havoda tezda suvsizlanib qolishingiz mumkin.",
+  "dehydration": "Suvsizlanish bosh og'rig'i va charchoqqa sabab bo'lishi mumkin.",
+  "dry mouth": "Og'iz qurishi suv ichishingiz kerakligining belgisidir.",
+  "hydration": "Organizmning yetarli suv bilan ta'minlanishi salomatlik uchun muhim.",
+  "scientific fact": "\"Kuniga sakkiz stakan\" qoidasi ilmiy fakt emas.",
+  "water bottle": "Hozir ko'pchilik qayerga borsa ham suv idishini o'zi bilan olib yuradi."
  }
 });

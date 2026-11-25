@@ -1,4 +1,4 @@
-// Part 1 topic 0413: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0413: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0413', {
  "A1": {
   "Silvia": "Silvia suzuvchi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0413', {
   "relaxing": "Musobaqa dasturi dam beruvchi bo'lish u yoqda tursin, tanani fiziologik chegaralariga yaqin olib boradi.",
   "respite": "Dastur suzuvchilarga yana suv ostiga sho'ng'ishlaridan oldin bir lahzalik tanaffusga ham deyarli imkon bermaydi.",
   "solo": "Yakkaxon chiqishda vaqtni his qilishdagi har bir xato ko'zga tashlanadi, chunki ko'zgu kabi takrorlaydigan sherik yo'q."
+ },
+ "EX": {
+  "Silvia": "Silvia ko'p yillardan beri badiiy suzish bo'yicha sportchilarni murabbiylik qilib keladi.",
+  "ballet dancer": "Badiiy suzuvchilarga balet raqqosasidek nafosat kerak.",
+  "duet": "Ikki opa-singil chiroyli duet ijro etib suzishdi.",
+  "effortless": "Dastur oson va zo'riqishsiz ko'rinardi, lekin u juda mashaqqatli mehnat edi.",
+  "geographically": "Jamoa a'zolari geografik jihatdan butun mamlakat bo'ylab tarqalgan.",
+  "guidance": "Yosh suzuvchilarga tajribali murabbiyning yo'l-yo'riqlari kerak.",
+  "outward": "Tashqi xotirjamlik ortida suzuvchilar nihoyatda qattiq mehnat qilishadi.",
+  "relaxing": "Ko'p odamlar suzishni juda tinchlantiruvchi mashg'ulot deb bilishadi.",
+  "respite": "Nafas olish uchun suv yuzasiga chiqish suzuvchilarga faqat qisqa muddatli tanaffus beradi.",
+  "solo": "U yakkalik bellashuvida oltin medalni qo'lga kiritdi."
  }
 });

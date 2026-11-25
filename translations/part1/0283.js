@@ -1,4 +1,4 @@
-// Part 1 topic 0283: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0283: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0283', {
  "A1": {
   "Indonesia": "Indoneziya Osiyoda joylashgan.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0283', {
   "savour": "Psixologlar ijobiy lahzalardan ataylab zavq olishni tavsiya qiladilar, chunki bu ularning hissiy foydasini chuqurlashtiradi va uzaytiradi.",
   "thankful": "Psixologlarning ta'kidlashicha, muntazam ravishda minnatdor bo'lish ongni kundalik hayotning ijobiy tomonlarini payqashga o'rgatadi.",
   "time out": "Raqamli qurilmalardan muntazam tanaffus qilish diqqatni tiklashga va gullab-yashnash hissini qo'llab-quvvatlashga yordam beradi."
+ },
+ "EX": {
+  "Indonesia": "Tadqiqotda gullab-yashnash bo'yicha Indoneziya birinchi o'rinni egalladi.",
+  "accomplishment": "Biror narsaga erishganlik hissi gullab-yashnashning bir qismidir.",
+  "appreciative": "Bor narsangizni ko'proq qadrlashga harakat qiling.",
+  "buzzword": "\"Farovonlik\" chinakam urf bo'lgan so'zga aylandi.",
+  "cohesion": "Kuchli ijtimoiy birdamlik jamoalarning gullab-yashnashiga yordam beradi.",
+  "flourish": "Bolalar o'zlarini sevilgan his qilganlarida gullab-yashnaydi.",
+  "flourishing": "Olimlar ko'plab mamlakatlarda insonlarning gullab-yashnash darajasini o'lchashgan.",
+  "help oneself": "O'zingizni baxtliroq his qilishingizga o'zingiz yordam bera oladigan oddiy usullar bor.",
+  "nugget": "Mana sizga bir qimmatli maslahat: yetarlicha uxlang.",
+  "savour": "Yaxshi lahzalardan to'liq bahramand bo'lishga vaqt ajrating.",
+  "thankful": "Do'stlarim va oilam uchun minnatdorman.",
+  "time out": "Har kimga vaqti-vaqti bilan biroz dam olish kerak."
  }
 });

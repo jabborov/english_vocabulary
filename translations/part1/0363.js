@@ -1,4 +1,4 @@
-// Part 1 topic 0363: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0363: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0363', {
  "A1": {
   "give out": "Kitoblarni tarqatib bering.",
@@ -47,5 +47,13 @@ VOCAB_TR_STORE('1', '0363', {
   "rebel": "Ma'nosiz tartiblarni shubha ostiga qo'yadigan isyonkor, agar jamoaga putur yetkazish darajasiga bormasa, qimmatli bo'lishi mumkin.",
   "settle in": "Birinchi oyda yaxshi moslashib olgan xodimlar kompaniyada uzoq muddat qolishga ancha moyil bo'ladi.",
   "through and through": "U o'ttiz yildan ortiq firmaga sadoqat bilan xizmat qilgan, boshdan-oyoq kompaniyaning odami edi."
+ },
+ "EX": {
+  "give out": "Rahbar yangi qoidalar ro'yxatini tarqatdi.",
+  "only if": "Rahbaringiz rozi bo'lgan taqdirdagina erta keta olasiz.",
+  "pop in": "Bir daqiqaga xonamga kirib o'ta olasizmi?",
+  "rebel": "Yangi hamkasbimiz biroz isyonkor va ofis qoidalariga e'tibor bermaydi.",
+  "settle in": "Yangi ishga ko'nikish uchun bir necha hafta kerak bo'ladi.",
+  "through and through": "U boshdan-oyoq professional."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0196: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0196: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0196', {
  "A1": {
   "Philip": "Philip mening do'stim.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0196', {
   "tribal": "Bir paytlar ajdodlarimizga omon qolishda yordam bergan qabilaviy instinktlar endi yugurish klublari va CrossFit zallarida namoyon bo'lmoqda.",
   "tribal society": "Zamonaviy fitnes jamoalarini insoniyat rivojlangan qabilaviy jamiyatlarning aks-sadosi sifatida ko'rish mumkin.",
   "wrestle": "Ko'pchiligimiz har kuni niyat qilganimiz bilan amalda uddalaganimiz o'rtasidagi tafovut bilan kurashamiz."
+ },
+ "EX": {
+  "Philip": "Filip nega odamlar guruh bo'lib mashq qilishni yoqtirishini tushuntirdi.",
+  "audit": "U aslida qancha mashq qilganini sinchiklab tekshirib chiqdi.",
+  "commune": "Ba'zi odamlar tabiat bilan uyg'unlashish uchun yugurishga chiqishadi.",
+  "computer graphics": "Sport zalidagi ekranda kompyuter grafikasida poyga ko'rsatildi.",
+  "connectedness": "Guruh mashg'ulotlari odamlarga o'zaro bog'liqlik hissini beradi.",
+  "cycle on": "Spinning mashg'ulotida joyidan qo'zg'almaydigan velosipedda pedal aylantirasiz.",
+  "fitter": "Guruh bo'lib mashq qilish orqali tobora ko'proq odamlar sog'lomroq bo'lmoqda.",
+  "fragmented": "Ko'pchilik zamonaviy jamiyat parchalanib ketgan deb hisoblaydi.",
+  "graphic": "Ekrandagi grafik tasvir tezligingizni ko'rsatadi.",
+  "gym": "Ko'p odamlar ishdan keyin sport zaliga borishadi.",
+  "head down": "Har shanba ular guruh bo'lib yugurish uchun bog'ga yo'l olishadi.",
+  "membership": "So'nggi yillarda sport zallariga a'zolik ko'paydi.",
+  "motivating": "Boshqa odamlar bilan mashq qilish juda ruhlantiradi.",
+  "pack animal": "Odamlar to'da bo'lib yashashni yoqtiradigan ijtimoiy mavjudotlardir.",
+  "sign up": "U yugurish klubiga yozilishga qaror qildi.",
+  "spin": "U har dushanba spinning mashg'ulotiga boradi.",
+  "togetherness": "Guruh mashg'ulotlari odamlarga birdamlik hissini beradi.",
+  "track and field": "U maktabda yengil atletika bilan shug'ullangan.",
+  "tribal": "Ba'zi mutaxassislarning aytishicha, guruh bo'lib mashq qilishga mehrimiz qabilaviy xususiyatga ega.",
+  "tribal society": "Qabilaviy jamiyatda odamlar ko'p ishlarni birgalikda qilishgan.",
+  "wrestle": "Ko'pchiligimiz yolg'iz mashq qilishga o'zimizni undash bilan kurashamiz."
  }
 });

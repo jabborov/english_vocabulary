@@ -1,4 +1,4 @@
-// Part 2 topic 0076: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0076: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0076', {
  "A1": {
   "at once": "Darhol bu yerga kel!",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('2', '0076', {
   "translate": "Yaxshi tarjima qilish nafaqat ma'noni, balki ohangni ham yetkazish demakdir, mashinalar esa bunga hamon qiynaladi.",
   "translation": "Tabiiy ifodadan ko'ra so'zma-so'z aniqlik ustun qo'yilganda, tarjimada ko'p narsa yo'qoladi.",
   "vitally": "Kasalxonada tarjimada yo'qolgan hayotiy muhim ko'rsatma jiddiy oqibatlarga olib kelishi mumkin."
+ },
+ "EX": {
+  "at once": "Shahar noto'g'ri yozuvlarning darhol almashtirilishini xohladi.",
+  "beware": "Bir yozuvda \"Yo'qolgan oyoqdan ehtiyot bo'ling\" deb yozilgan edi.",
+  "bump": "Yozuvda \"Ehtiyotkorlik bilan boshingizni uring\" deyilgan edi.",
+  "bureau": "Jamoat xavfsizligi byurosi o'z yozuvlarini o'zgartirdi.",
+  "close to": "Ma'no ular aytmoqchi bo'lgan narsaga yaqin edi, lekin unchalik to'g'ri emas edi.",
+  "crucial": "Aniq yozuvlar tashrif buyuruvchilar uchun juda muhim.",
+  "designedly": "Ba'zi kulgili iboralar e'tiborni tortish uchun ataylab ishlatilganga o'xshardi.",
+  "get at": "Bu yozuv nima demoqchi ekanini tushunmayapman.",
+  "inaccurate": "Shahardagi ingliz tilidagi yozuvlarning ko'pi noto'g'ri edi.",
+  "incorrect": "Yozuvdagi imlo noto'g'ri edi.",
+  "incorrectly": "So'z noto'g'ri yozilgan edi.",
+  "mean opposite": "Yomon tarjima siz aytmoqchi bo'lgan narsaning teskarisini anglatishi mumkin.",
+  "metro": "Shanxay metrosida xitoy va ingliz tillarida yozuvlar bor.",
+  "mistranslate": "Kompyuter dasturi so'zni noto'g'ri tarjima qildi.",
+  "prompt": "Butunjahon ko'rgazmasi shaharni ingliz tilidagi yozuvlarini tuzatishga undadi.",
+  "public security": "Jamoat xavfsizligi idorasida ingliz tilida yozuv bor edi.",
+  "secondly": "Birinchidan, yozuvlar noto'g'ri edi, ikkinchidan, ular chalkash edi.",
+  "sign in": "Vokzal hojatxonasida kulgili yozuv bor.",
+  "snugly": "Yozuvda \"Iltimos, xavfsizlik kamaringizni zich qilib taqing\" deyilgan edi.",
+  "stairwell": "Zinapoyadagi yozuvda imlo xatosi bor edi.",
+  "surreal": "Ba'zi yozuvlar mutlaqo g'aroyib edi.",
+  "translate": "Bu yozuvni ingliz tiliga tarjima qila olasizmi?",
+  "translation": "Yozuvdagi tarjima juda kulgili edi.",
+  "vitally": "Tarjimani to'g'ri qilish o'ta muhim."
  }
 });

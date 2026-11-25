@@ -1,4 +1,4 @@
-// Part 1 topic 0265: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0265: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0265', {
  "A1": {
   "adrenalin": "Men adrenalinni his qildim.",
@@ -185,5 +185,36 @@ VOCAB_TR_STORE('1', '0265', {
   "send a message": "Bodomsimon tana biz nimani ko'rganimizni anglab yetmasimizdan oldin adrenalin ajratish haqida xabar yuborishi mumkin.",
   "sensory": "Qo'rquv ongli fikrlashni chetlab o'tishi mumkin, chunki sezgi signallari bodomsimon tanaga tezkor yo'l orqali yetib boradi.",
   "thanatophobia": "Zaharli jonzotlarga oid fobiyalar ortida tanatofobiya yotishi mumkin, chunki ular aslida o'limdan qo'rqishdir."
+ },
+ "EX": {
+  "adrenalin": "Qo'rquv adrenalinning keskin ajralishiga sabab bo'ladi.",
+  "amygdala": "Amigdala miyaning qo'rquvni boshqaradigan qismidir.",
+  "bearded": "Ba'zi odamlar uyda boqiladigan soqolli agamadan qo'rqadi.",
+  "characterize": "Fobiyalar haddan tashqari qo'rquv bilan tavsiflanadi.",
+  "creep": "O'rgimchaklarni ko'rsam, etim jimirlab ketadi.",
+  "drive around": "Mashinada ari bilan birga aylanib yurganingizni tasavvur qiling.",
+  "entomophobia": "Entomofobiyasi bor odamlar pashshani ko'rganda vahimaga tushishi mumkin.",
+  "excessive": "Fobiya – biror narsadan haddan tashqari qo'rqishdir.",
+  "faint": "U shunchalik qo'rqdiki, hushimdan ketsam kerak deb o'yladi.",
+  "fire alarm": "Amigdala miyada yong'in signalizatsiyasi kabi ishlaydi.",
+  "flutter": "Kuya qanotlarining pirpirashi uni cho'chitib yubordi.",
+  "growling": "Itning irillashi yosh bolalarni qo'rqitishi mumkin.",
+  "housefly": "Hatto oddiy uy pashshasi ham entomofobiyasi bor odamni vahimaga solishi mumkin.",
+  "irrational": "Fobiya – biror narsadan asossiz qo'rqishdir.",
+  "loveable": "Itlar kabi yoqimtoy hayvonlar ham fobiyaga sabab bo'lishi mumkin.",
+  "moth": "Ba'zi odamlar chiroq atrofida uchayotgan kuyalardan qattiq qo'rqadi.",
+  "paralyse": "Qo'rquv ba'zi odamlarni qimirlay olmaydigan darajada falaj qilib qo'yishi mumkin.",
+  "pass out": "Ba'zi odamlar qon ko'rganda hushidan ketadi.",
+  "phobic": "U o'rgimchaklardan fobiya darajasida qo'rqadi.",
+  "punch": "Ba'zi odamlar qo'rqqanda musht urgisi yoki qochgisi keladi.",
+  "punch in": "Qo'rquv xuddi qorningizga musht tushirilgandek tuyulishi mumkin.",
+  "rationalise": "Mitti hasharotlardan qo'rqishni aqlan asoslash qiyin.",
+  "rationality": "Fobiyalarning aql-mantiq bilan deyarli aloqasi yo'q.",
+  "reflexive": "O'rgimchakni ko'rib, orqaga sakrash – reflektor reaksiyadir.",
+  "relay": "Ko'zlar ma'lumotni miyaga uzatadi.",
+  "rout": "Qo'rquv signallari amigdalaga tez yo'l orqali yetib boradi.",
+  "send a message": "Miya tanaga qochishga tayyorlanish haqida xabar yuboradi.",
+  "sensory": "Sezgi a'zolaridan kelgan ma'lumot biz u haqda o'ylashimizdan oldin miyaga yetib boradi.",
+  "thanatophobia": "Tanatofobiya – o'limdan qo'rqishdir."
  }
 });

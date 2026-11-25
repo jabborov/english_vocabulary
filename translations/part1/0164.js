@@ -1,4 +1,4 @@
-// Part 1 topic 0164: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0164: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0164', {
  "A1": {
   "acne": "Uning yuzida husnbuzar bor.",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('1', '0164', {
   "trivialise": "Husnbuzarni kosmetik noqulaylik deb arzimas narsaga chiqarish uning depressiya bilan yaxshi isbotlangan bog'liqligini e'tiborsiz qoldirish demakdir.",
   "whitehead": "Dermatologlar oq nuqtalarni qora nuqtalardan tiqilib qolgan teshikchaning ochiq yoki yopiqligiga qarab farqlashadi.",
   "zit": "\"Zit\" so'zlashuvdagi so'z, ammo ko'plab o'smirlar uchun toshmalar sira ham arzimas masala emas."
+ },
+ "EX": {
+  "acne": "Husnbuzar o'smirlar orasida juda keng tarqalgan.",
+  "age group": "Husnbuzar 12-24 yosh guruhida eng ko'p uchraydi.",
+  "bane": "O'smirlik chog'imda husnbuzar hayotimning eng katta balosi edi.",
+  "blackhead": "Qora nuqtalar ko'pincha burunda paydo bo'ladi.",
+  "buildup": "Teri teshikchalarida yog' to'planishi husnbuzarlarga sabab bo'lishi mumkin.",
+  "cohort": "Tadqiqot besh yil davomida bir guruh o'smirlarni kuzatib bordi.",
+  "cyst": "Og'ir husnbuzar teri ostida og'riqli kistalar paydo bo'lishiga olib kelishi mumkin.",
+  "inflame": "Husnbuzarlarni siqish terini faqat yallig'lantiradi.",
+  "mild": "Ko'pchilik o'smirlarda yengil husnbuzar bo'ladi.",
+  "misfortune": "Uning baxtiga qarshi, to'yidan sal oldin husnbuzar toshib chiqdi.",
+  "obsess": "Ba'zi o'smirlar yuzidagi har bir dog' haqida tinmay qayg'urishadi.",
+  "peer group": "O'smirlar ko'pincha tengdoshlari nima deb o'ylashidan xavotirlanishadi.",
+  "persist": "Ba'zi odamlarda husnbuzar katta yoshgacha saqlanib qoladi.",
+  "persistent": "Uning hech ketmaydigan surunkali husnbuzari bor edi.",
+  "pharmacy": "Husnbuzarga qarshi yengil kremni istalgan dorixonadan sotib olishingiz mumkin.",
+  "pimple": "Uning peshonasida bitta husnbuzar bor edi.",
+  "pore": "Teri teshikchasi tiqilib qolganda husnbuzar paydo bo'ladi.",
+  "prescription": "Husnbuzarga qarshi kuchliroq dorilar faqat retsept bilan beriladi.",
+  "puberty": "Husnbuzar ko'pincha gormonlar o'zgarishi tufayli balog'at yoshida boshlanadi.",
+  "reproductive system": "Reproduktiv tizim gormonlari teriga ta'sir qilishi mumkin.",
+  "skin doctor": "Agar husnbuzaringiz jiddiy bo'lsa, teri shifokoriga uchrashingiz kerak.",
+  "trivialise": "Husnbuzar odamlarga qanday ta'sir qilishini arzimas narsa deb hisoblamasligimiz kerak.",
+  "whitehead": "U iyagida bir nechta oq husnbuzarlar borligini payqadi.",
+  "zit": "Ertalab uyg'onsam, iyagimda katta husnbuzar chiqibdi."
  }
 });

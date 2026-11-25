@@ -1,4 +1,4 @@
-// Part 1 topic 0500: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0500: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0500', {
  "A1": {
   "crack down": "Ular jinoyatchilikka qarshi qattiq kurashadi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0500', {
   "sucker": "Bu firibgarlik xatni olgan minglab odamlar orasidan bir nechta laqmani topishga asoslangan.",
   "suckers": "Bu sxema mo'jizaviy yutuqqa ishonishga tayyor laqmalarning uzluksiz oqimiga bog'liq edi.",
   "tempter": "Hikoyada vasvasachi qahramonni o'zi ishongan hamma narsaga xiyonat qilishga ko'ndiradi."
+ },
+ "EX": {
+  "crack down": "Rasmiylar firibgarlik xatlariga qarshi qat'iy kurash olib bormoqda.",
+  "crackdown": "Politsiya firibgarlik xatlariga qarshi keskin choralar e'lon qildi.",
+  "dupe": "U aldanib, firibgarlarga pul jo'natib yubordi.",
+  "government department": "Davlat idorasi odamlarni firibgarlik xatlaridan ogohlantirmoqda.",
+  "hooked": "Jabrlanuvchilar bir marta javob berishsa, ilinib qolishadi va ularga tobora ko'proq xat kela boshlaydi.",
+  "murky": "Firibgarlar xalqaro firibgarlikning qorong'i va shubhali dunyosida faoliyat yuritadi.",
+  "postage": "Pochta xarajati arzon, shuning uchun firibgarlar millionlab xat yuborishlari mumkin.",
+  "postage stamp": "Har bir firibgarlik xatiga pochta markasi kerak.",
+  "scammer": "Firibgar go'yo qariya sovrin yutgandek qilib ko'rsatdi.",
+  "strait": "Firibgarlikdan keyin oila og'ir ahvolga tushib qoldi.",
+  "sucker": "Firibgarlar pul yuboradigan go'l odamlarni izlashadi.",
+  "suckers": "Firibgarlik xatlari go'l odamlarni topish umidida yuboriladi.",
+  "tempter": "Firibgarlik xati oson pul va'da qilib, ustalik bilan yo'ldan ozdiradi."
  }
 });

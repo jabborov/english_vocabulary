@@ -1,4 +1,4 @@
-// Part 1 topic 0094: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0094: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0094', {
  "A1": {
   "affordable": "Bu sumka hamyonbop.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0094', {
   "urgent": "Oziq-ovqat xavfsizligi kabi shoshilinch, shu bilan birga peshtaxtalar bo'shab qolmaguncha osongina e'tiborsiz qoldiriladigan muammolar kam.",
   "warning": "Tanqislik oziq-ovqat tizimimiz biz o'ylagandan ancha kam barqaror ekani haqidagi erta ogohlantirishdir.",
   "written account": "Ochlik haqidagi tarixiy yozma manbalar oziq-ovqat tizimlarining mo'rtligi haqida hushyor torttiruvchi saboqlar beradi."
+ },
+ "EX": {
+  "affordable": "Har kim hamyonbop oziq-ovqat sotib ola bilishi kerak.",
+  "agriculture": "Qishloq xo'jaligi oziq-ovqat xavfsizligi uchun juda muhim.",
+  "anarchy": "Jamiyatni anarxiyadan atigi to'qqiz mahal ovqat ajratib turadi, degan gap bor.",
+  "apple orchard": "Eski olma bog'i uy qurish uchun sotib yuborildi.",
+  "canny": "Uddaburon xaridorlar narxlar oshishidan oldin sabzavotlarni sotib olib qo'yishdi.",
+  "collaborative": "Oziq-ovqat tanqisligini hal qilish uchun hamkorlikdagi yondashuv kerak.",
+  "de": "Ba'zi mutaxassislar oziq-ovqat ta'minot zanjirlarini \"deglobalizatsiya\" qilish haqida gapirishadi.",
+  "developer": "Fermer yerini quruvchi kompaniyaga sotdi.",
+  "domestically": "Buyuk Britaniya ko'proq oziq-ovqatni mamlakat ichida yetishtirishi kerak.",
+  "famine": "Ochlikda millionlab odamlar halok bo'ldi.",
+  "forecast": "Ob-havo ma'lumotiga ko'ra, yana sovuq havo kutilmoqda.",
+  "glasshouse": "Pomidorlar isitiladigan issiqxonalarda yetishtiriladi.",
+  "globalise": "Oziq-ovqat ta'minot zanjirlari globallashib ketgan.",
+  "globalising": "Biz oziq-ovqat uzoq masofalarni bosib o'tadigan, globallashib borayotgan dunyoda yashaymiz.",
+  "grant": "Fermerlar yangi issiqxonalar qurish uchun grant olishga ariza berishlari mumkin.",
+  "growing": "Oziq-ovqat tanqisligi haqida xavotir tobora ortib bormoqda.",
+  "housing": "Qishloq xo'jaligi yerlari yangi uy-joy qurilishi uchun ishlatilmoqda.",
+  "just in case": "Ba'zi odamlar har ehtimolga qarshi qo'shimcha oziq-ovqat sotib olishdi.",
+  "nearer": "Biz oziq-ovqatni uyimizga yaqinroq joyda yetishtirishimiz kerak.",
+  "neighbouring": "Britaniya qo'shni mamlakatlardan ko'p oziq-ovqat import qiladi.",
+  "outgrow": "Shaharlar bir vaqtlar ularni boqqan atrofdagi yerlarga sig'may qoldi.",
+  "plentiful": "Ilgari oziq-ovqat mo'l va arzon edi.",
+  "production cost": "Energiya narxlarining oshishi fermerlarning ishlab chiqarish xarajatlarini ko'tarib yubordi.",
+  "shortage": "Do'konlarda yangi sabzavotlar tanqis.",
+  "step up": "Hukumat fermerlarga yordamni kuchaytirishi kerak.",
+  "transform": "Yangi texnologiyalar oziq-ovqat yetishtirish usulimizni tubdan o'zgartirishi mumkin.",
+  "unusually": "Bu qishda Ispaniyada havo odatdagidan sovuq bo'ldi.",
+  "urgent": "Mamlakat ichida ko'proq oziq-ovqat yetishtirishga shoshilinch ehtiyoj bor.",
+  "warning": "Mutaxassislar kelajakdagi oziq-ovqat tanqisligi haqida ogohlantirdi.",
+  "written account": "Yuzlab yillar oldingi ocharchiliklar haqida yozma qaydlar bor."
  }
 });

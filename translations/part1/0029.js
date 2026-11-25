@@ -1,4 +1,4 @@
-// Part 1 topic 0029: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0029: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0029', {
  "A1": {
   "accidentally": "Men telefonimni tasodifan sindirib qo'ydim.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0029', {
   "ringing": "Bir paytlar yo'lakda vaqti-vaqti bilan jiringlaydigan telefon ovozi bugun zamonaviy hayotning tinimsiz fon tovushiga aylandi.",
   "turn off": "Telefonni o'chira olmaslik doimiy aloqada bo'lishni muhimlik bilan tenglashtiradigan madaniyatning ramziga aylandi.",
   "weird": "Odamlar yonma-yon o'tirib, har biri alohida ekranga sho'ng'ib ketgan jamiyatda qandaydir g'alatilik bor."
+ },
+ "EX": {
+  "accidentally": "Telefon cho'ntagida turganida u tasodifan xo'jayiniga qo'ng'iroq qilib yubordi.",
+  "behind": "Orqamda o'tirgan erkak butun yo'l davomida telefonda gaplashdi.",
+  "by the way": "Aytgancha, telefoningizni ovozsiz rejimga o'tkazishni unutmadingizmi?",
+  "care": "Ba'zi odamlarni telefondagi suhbatlari boshqalarni bezovta qilishi umuman qiziqtirmaydiganga o'xshaydi.",
+  "cell phone": "AQShda odamlar odatda \"mobile phone\" o'rniga \"cell phone\" deyishadi.",
+  "cellular": "Hozir uyali aloqa tarmoqlari deyarli butun mamlakatni qamrab olgan.",
+  "cellular phone": "\"Cellular phone\" atamasi signal o'tadigan \"cell\" deb ataluvchi sotalar tarmog'idan kelib chiqqan.",
+  "make unnecessary": "Mobil telefonlar ko'chadagi telefon budkalarini deyarli keraksiz qilib qo'ydi.",
+  "mine": "U telefon meniki emas — meniki ko'k g'ilofda.",
+  "okay": "Xo'sh, mobil telefonlar hayotimizni qanday o'zgartirgani haqida gaplashaylik.",
+  "phone call": "Dars o'rtasida unga muhim telefon qo'ng'irog'i keldi.",
+  "ringing": "Poyezdda mobil telefonlarning tinimsiz jiringlashi boshqa yo'lovchilarning jig'iga tegdi.",
+  "turn off": "Iltimos, film boshlanishidan oldin mobil telefoningizni o'chirib qo'ying.",
+  "weird": "Sokin poyezdda odamlarning telefonda baland ovozda gaplashishini ko'rish g'alati."
  }
 });

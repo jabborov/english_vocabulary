@@ -1,4 +1,4 @@
-// Part 1 topic 0251: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0251: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0251', {
  "A1": {
   "Cold War": "Sovuq urush 1991-yilda tugagan.",
@@ -203,5 +203,39 @@ VOCAB_TR_STORE('1', '0251', {
   "shoot off": "Asossiz ravishda qurolidan o'q uzgan ofitser uzoq davom etadigan intizomiy tergovga duch kelishi mumkin.",
   "stockpile": "O'nlab yillik qurollanishni nazorat qilish kelishuvlaridan keyin ham global yadroviy zaxiralar tsivilizatsiyani bir necha bor yo'q qilishga yetarli darajada katta bo'lib qolmoqda.",
   "violence": "Tadqiqotchilar Yaponiyadagi zo'ravonlikning past darajasini madaniy omillar ko'proq izohlaydimi yoki qat'iy qonunlarmi, deb bahslashadi."
+ },
+ "EX": {
+  "Cold War": "Sovuq urush davrida AQSh va SSSR yadro qurollarining ulkan zaxiralarini to'pladi.",
+  "USSR": "SSSR va AQSh ko'p yillar davomida qurollanish poygasida raqobatlashdi.",
+  "arms race": "Agar jinoyatchilarda qurol bo'lsa, politsiya ham kattaroq qurolga ehtiyoj sezadi va bu qurollanish poygasini keltirib chiqaradi.",
+  "bring out": "Politsiyachilar hujumchini to'xtatish uchun qurol o'rniga futon olib chiqishdi.",
+  "burrito": "Futonga o'ralgan hujumchi tirik burritoga o'xshab qoldi.",
+  "by all means": "Biror narsa tushunarsiz bo'lsa, bemalol savol bering.",
+  "dash off": "Kechirasiz, shoshilib ketishim kerak — yana bir uchrashuvim bor.",
+  "diplomatic": "Ofitserlar diplomatik yondashuvni qo'llab, o'sha odam bilan xotirjam gaplashishdi.",
+  "diplomatic negotiations": "Qurollanish poygasi oxir-oqibat diplomatik muzokaralar orqali sekinlashtirildi.",
+  "equip": "Yapon politsiyachilari qurol bilan ta'minlangan, lekin avvalo boshqa usullardan foydalanishga o'rgatilgan.",
+  "escalate": "Quroldan foydalanish vaziyatni keskinlashtirishi mumkin, shuning uchun yapon politsiyachilari uning o'rniga vaziyatni yumshatishga harakat qilishadi.",
+  "executive director": "Qurol nazorati bo'yicha guruhning ijrochi direktori dasturda chiqish qildi.",
+  "futon": "Yapon politsiyasi ba'zan zo'ravon hujumchini o'rab, nazorat qilish uchun futondan foydalanadi.",
+  "got": "Yaponiya politsiyasida qurol bor, lekin ular deyarli hech qachon undan foydalanmaydi.",
+  "gun control": "Yaponiyada qurol nazorati bo'yicha dunyodagi eng qat'iy qonunlardan ba'zilari amal qiladi.",
+  "incidence": "Yaponiyada qurolli jinoyatlar darajasi juda past.",
+  "like mad": "Politsiyachilar erkakni devorga qisib turish uchun jon-jahdi bilan itarishdi.",
+  "mad": "Bu aqldan ozgandek tuyulishi mumkin, lekin futon usuli haqiqatan ham ish beradi.",
+  "martial": "Dzyudo va kendo — har bir yapon politsiyachisi o'rganishi shart bo'lgan jang san'atlaridir.",
+  "martial art": "Yapon politsiyachilari dzyudo kabi jang san'atlari bo'yicha tayyorgarlikdan o'tishadi.",
+  "militarise": "Ba'zi tanqidchilarning aytishicha, AQSh politsiyasi harbiylashtirilgan.",
+  "militarised": "Yaponiya politsiyasi boshqa ba'zi mamlakatlar politsiyasiga qaraganda ancha kam harbiylashgan.",
+  "miniature": "Bir mamlakat muammoning kichraytirilgan ko'rinishi deb ta'riflandi.",
+  "missile": "Sovuq urush davrida ikkala tomon ham minglab raketalar yasadi.",
+  "national service": "Ba'zi mamlakatlarda yigitlar majburiy harbiy xizmatni o'tashlari va qurol ishlatishni o'rganishlari shart.",
+  "nuclear weapon": "Yadro qurollari Sovuq urush davridagi qurollanish poygasining markazida edi.",
+  "restrain": "Politsiya erkakni futonga o'rab, uni harakatsizlantirdi.",
+  "roll up": "Politsiyachilar erkakni qimirlay olmasligi uchun futonga o'rab tashlashdi.",
+  "run off": "Hujumchi qochib ketmoqchi bo'ldi, lekin politsiyachilar uni ushlab olishdi.",
+  "shoot off": "Yaponiyada politsiyachilar qurollaridan juda kamdan-kam o't ochishadi.",
+  "stockpile": "Ikkala superdavlat ham ulkan qurol zaxiralarini to'pladi.",
+  "violence": "Yaponiya politsiyasi qurolni kamdan-kam ishlatgan holda zo'ravonlikka qarshi kurasha oladi."
  }
 });

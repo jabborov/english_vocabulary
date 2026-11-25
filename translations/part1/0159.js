@@ -1,4 +1,4 @@
-// Part 1 topic 0159: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0159: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0159', {
  "A1": {
   "ancestry": "Mening ajdodlarim o'zbek.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0159', {
   "subjective": "Ta'mning subyektiv tabiati uni laboratoriya sharoitida o'rganishni nihoyatda qiyinlashtiradi.",
   "taste bud": "Ta'm bilish so'rg'ichlari zichligidagi farq \"supertatuvchilar\" deb ataluvchi odamlar nega achchiq taomlarni ko'tara olmasligini qisman tushuntiradi.",
   "waste of time": "Ta'm tadqiqotlarini vaqtni behuda sarflash deb rad etish ularning jamoat salomatligi uchun ahamiyatini e'tiborsiz qoldirish demakdir."
+ },
+ "EX": {
+  "ancestry": "Ajdodlarimiz qaysi taomlarni yoqtirishimizga ta'sir qilishi mumkin.",
+  "ask around": "Men atrofdagilardan so'rab chiqib, ko'pchilik kashnichni yomon ko'rishini bildim.",
+  "biased": "Kutganlarimiz taom ta'mi haqida bizni xolis bo'lmagan qiladi.",
+  "blind person": "Ko'zi ojiz odam ko'proq hid va ta'm sezgisiga tayanishi mumkin.",
+  "broad": "Ko'p xil taomlarni tatib ko'rgan bolalarda keng qamrovli did shakllanadi.",
+  "bud": "Tilingizdagi har bir ta'm so'rg'ichi miyaga signal yuboradi.",
+  "chastise": "Ota-onalar bolalarni sabzavotni yoqtirmagani uchun koyimasligi kerak.",
+  "confine": "Ta'm faqat til bilan cheklanmaydi; hid ham katta rol o'ynaydi.",
+  "control condition": "Nazorat sharoitida odamlarga nima yeyayotganlari aytilmadi.",
+  "extent": "Olimlar genlar ta'mga qay darajada ta'sir qilishini bilishni xohlashadi.",
+  "horizon": "Yangi taomlarni tatib ko'rish dunyoqarashingizni kengaytiradi.",
+  "only when": "Uni yana bir bor tatib ko'rganimizdagina u bizga yoqa boshladi.",
+  "pointless": "Kimning didi yaxshiroq ekanligi haqida bahslashish befoyda.",
+  "prawn": "Ba'zilar krevetkani yaxshi ko'radi, boshqalar esa uni ko'rgani ko'zi yo'q.",
+  "render": "Yomon yorliq mazali taomni ham ishtahasiz qilib qo'yishi mumkin.",
+  "sphere": "Oziq-ovqat sohasida madaniyat juda kuchli ta'sirga ega.",
+  "subjective": "Ta'm juda ham sub'ektiv narsa.",
+  "taste bud": "Har birimizning tilimizda minglab ta'm bilish so'rg'ichlari bor.",
+  "waste of time": "Ba'zilar yangi taomlarni tatib ko'rishni vaqtni behuda sarflash deb o'ylashadi."
  }
 });

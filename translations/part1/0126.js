@@ -1,4 +1,4 @@
-// Part 1 topic 0126: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0126: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0126', {
  "A1": {
   "accumulate": "Karavot tagida chang yig'iladi.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('1', '0126', {
   "victorious": "G'olibona kayfiyatdagi imtiyozli o'yinchilar natija boshidanoq belgilab qo'yilganini unutganday tuyuldi.",
   "wealth": "Tadqiqotlar boylik hamdardlikni yemirishi mumkinligiga ishora qiladi, biroq sabab-oqibat bog'liqligi qizg'in bahs mavzusi bo'lib qolmoqda.",
   "wish list": "Orzular ro'yxati cheksiz ko'proqqa intilish ehtiyojiga aylanmaguncha zararsizdir."
+ },
+ "EX": {
+  "accumulate": "Ochko'z odamlar tobora ko'proq pul to'plashni xohlaydi.",
+  "awareness": "O'z afzalliklarimizni anglash bizni kamroq ochko'z qilishi mumkin.",
+  "better off": "Badavlatroq odamlar ba'zan o'z omadlariga loyiq ekanliklarini his qilishadi.",
+  "bootstrap": "Ko'plab boy odamlar o'zlarini faqat o'z kuchlari bilan yuksaltirganiga ishonadi.",
+  "deadly": "Bir paytlar ochko'zlik ruh uchun halokatli xavf deb hisoblangan.",
+  "deadly sin": "Ochko'zlik yetti o'lim gunohidan biridir.",
+  "determine": "O'yinda kim boy bo'lishini tanga tashlash belgilab berdi.",
+  "dice": "Omadli o'yinchi bitta emas, ikkita zar tashladi.",
+  "flip": "Kim boy o'yinchi bo'lishini hal qilish uchun ular tanga tashlashdi.",
+  "greed": "Psixologlar ba'zi odamlarda ochko'zlik nima sababdan kuchayishini bilishni xohlaydi.",
+  "greedy": "Yutayotgan o'yinchilar ochko'z va qo'pol bo'lib qolishdi.",
+  "inevitably": "Ko'proq pulga ega o'yinchi muqarrar ravishda o'yinda g'alaba qozondi.",
+  "justice": "Adolat tuyg'usi ochko'zlikni kamaytirishga yordam berishi mumkin.",
+  "neurological": "Olimlar ochko'zlikning nevrologik izohini izlamoqda.",
+  "praise": "G'oliblar ko'pincha o'z mahoratini maqtab, omadini unutib qo'yadi.",
+  "privilege": "Imtiyozga ega odamlar o'zlaridagi afzalliklarni sezmasligi mumkin.",
+  "pull up": "U har kim qattiq mehnat qilsa, o'zini yuqoriga ko'tara oladi, deb hisoblaydi.",
+  "randomly": "O'yinchilar boy yoki kambag'al bo'lish uchun tasodifiy tanlab olindi.",
+  "real life": "O'yin real hayotda nima sodir bo'lishi mumkinligini ko'rsatadi.",
+  "rig": "Tadqiqotchilar Monopoliya o'yinini bir o'yinchi doim ustunlikka ega bo'ladigan qilib atayin moslab qo'yishdi.",
+  "sin": "Ko'plab dinlar ochko'zlik gunoh ekanini o'rgatadi.",
+  "solely": "Ularning muvaffaqiyati faqatgina o'z mashaqqatli mehnati tufayli emas edi.",
+  "spacious": "Tadqiqotdagi misolda boy o'yinchi keng uyda yashardi.",
+  "victorious": "G'olib o'yinchilar o'z mahoratlari tufayli yutdik deb ishonishdi.",
+  "wealth": "Boylik odamlarni ochko'z qiladimi?",
+  "wish list": "Yangi mashina va kattaroq uy uning orzular ro'yxatining boshida turadi."
  }
 });

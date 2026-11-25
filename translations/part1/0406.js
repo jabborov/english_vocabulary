@@ -1,4 +1,4 @@
-// Part 1 topic 0406: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0406: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0406', {
  "A1": {
   "finishing": "U marra chizig'ida turibdi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0406', {
   "school year": "Ko'plab ota-onalar so'nggi o'quv yilidan keyingi bo'shliqni to'ldirish uchun odob-axloq kurslariga yozilishadi.",
   "tutor": "Odob-axloq murabbiyi yaxshi xulq kibr emas, balki mehribonlik haqida ekanini qat'iy ta'kidladi.",
   "young lady": "Yosh xonimga qanday muomala qilish kerakligi haqidagi qoidalar ba'zilarga yoqimli, boshqalarga esa eskirgan tuyuldi."
+ },
+ "EX": {
+  "finishing": "U dasturxonga so'nggi pardoz berdi.",
+  "finishing school": "Londondagi odob-axloq maktabi endi o'g'il bolalar uchun ham kurslar o'tkazadi.",
+  "furthest": "Likopchangizdan eng uzoqda turgan anjomlardan boshlang.",
+  "head up": "U maktabdagi odob-axloq kurslariga rahbarlik qiladi.",
+  "headmaster": "Maktab direktori odob muhim deb hisoblaydi.",
+  "high society": "O'g'il bolalar yuqori jamiyatda o'zini qanday tutishni o'rganishadi.",
+  "impeccable": "Uning dasturxon odobi benuqson.",
+  "leaver": "Maktab bitiruvchilari ko'pincha universitetdan oldin bu kursda qatnashishadi.",
+  "let down": "Muhim kechki ovqatda yomon odob sizni sharmanda qilishi mumkin.",
+  "place setting": "Har bir kishilik dasturxon tuzatmasida uchta sanchqi va ikkita pichoq bor edi.",
+  "school year": "Kurs o'quv yili tugagandan keyingi uzoq ta'til davomida o'tkaziladi.",
+  "tutor": "Murabbiy bolalarga pichoq va sanchqidan to'g'ri foydalanishni ko'rsatadi.",
+  "young lady": "O'g'il bolalarga xonaga yosh xonim kirganida o'rnidan turish o'rgatiladi."
  }
 });

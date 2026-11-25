@@ -1,4 +1,4 @@
-// Part 1 topic 0214: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0214: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0214', {
  "A1": {
   "contest": "U natijaga e'tiroz bildirdi.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0214', {
   "nod": "Bosh irg'ash, ehtimol, eng keng tarqalgan imo-ishoradir, ammo hatto uning ma'nosi ham umumbashariy emas.",
   "pa": "Ba'zi oilalarda hamon \"Pa\" deyiladi, garchi Britaniyada \"Dad\" ancha keng tarqalgan bo'lsa ham.",
   "roll down": "U oynani tushirgan zahoti suhbat so'zlar va keskin imo-ishoralar aralashmasiga aylandi."
+ },
+ "EX": {
+  "contest": "U uning tanlagan yo'nalishiga e'tiroz bildirdi.",
+  "expressive": "Italiyaliklar ko'pincha juda ifodali so'zlovchilar sifatida ta'riflanadi.",
+  "expressively": "U qo'llarini silkitib, ifodali gapirdi.",
+  "fall out": "Ular arzimagan narsa ustida urishib qolishdi.",
+  "gesticulate": "U yo'lni tushuntirayotib qo'llarini qattiq silkitib imo-ishora qildi.",
+  "in agreement": "Ular rozilik bildirib bosh irg'ashdi.",
+  "let it go": "Bu muhim emas edi, shuning uchun men unga e'tibor bermadim.",
+  "misperceive": "Biz ko'pincha boshqa madaniyatlarning imo-ishoralarini noto'g'ri idrok qilamiz.",
+  "misunderstand": "Boshqa mamlakatda imo-ishoralarni noto'g'ri tushunib qolish oson.",
+  "nod": "U tushunganini bildirish uchun bosh irg'adi.",
+  "pa": "Dadam hech qachon yo'l so'rashni istamasdi.",
+  "roll down": "U yo'l so'rash uchun mashina oynasini tushirdi."
  }
 });

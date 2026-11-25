@@ -1,4 +1,4 @@
-// Part 1 topic 0191: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0191: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0191', {
  "A1": {
   "affected": "Yangilik unga qattiq ta'sir qildi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0191', {
   "soft spot": "Saylovchilar ko'pincha siyosati noaniq bo'lsa ham, samimiy ko'rinadigan nomzodlarga nisbatan iliq munosabatda bo'lishadi.",
   "vocal": "Yosh ayollar ularni ta'qiblardan himoya qila olmaydigan platformalarning tobora ochiqroq tanqidchilariga aylanmoqda.",
   "voter": "Yosh saylovchilarning tashvishlarini e'tiborsiz qoldiradigan partiyalar butun bir saylovchilar avlodini o'zidan uzoqlashtirish xavfiga duch keladi."
+ },
+ "EX": {
+  "affected": "Yosh ayollar ijtimoiy tarmoqlardagi haqoratdan eng ko'p jabr ko'radigan guruhdir.",
+  "affection": "Obunachilari izohlarda unga katta mehr ko'rsatishadi.",
+  "bully": "Internetdagi bezorilar ko'pincha anonim akkauntlar ortiga yashirinishadi.",
+  "bullying": "Internetda siyosat haqida gapiradigan ko'plab yosh ayollar haqoratga duch kelishadi.",
+  "climactic": "Saylov o'zining eng qizg'in so'nggi haftasiga yetib keldi, internetda tinimsiz postlar chiqib turdi.",
+  "fond": "U o'zi yaratgan onlayn hamjamiyatni juda yaxshi ko'radi.",
+  "intimidate": "Internet trollari siyosiy fikr bildiradigan ayollarni qo'rqitishga urinadi.",
+  "politics": "Ijtimoiy tarmoqlarda siyosat haqida gapirayotgan yosh ayollar har qachongidan ko'p.",
+  "presidential": "O'tgan prezidentlik saylovida influenserlar katta rol o'ynadi.",
+  "shrink": "Ba'zi ayollar onlayn haqorat tufayli ommaviy munozaralardan o'zini tortadi.",
+  "soft spot": "Ko'plab obunachilar o'z qiyinchiliklari haqida gapirib beradigan kontent yaratuvchilarga nisbatan iliq munosabatda bo'lishadi.",
+  "vocal": "Yosh ayollar internetda siyosat haqida tobora ochiqroq fikr bildirmoqda.",
+  "voter": "Yosh ayol saylovchilar ko'pincha yangiliklarni ijtimoiy tarmoqlardan olishadi."
  }
 });

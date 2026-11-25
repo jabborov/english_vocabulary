@@ -1,4 +1,4 @@
-// Part 1 topic 0060: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0060: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0060', {
  "A1": {
   "algorithm": "Bu algoritm.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0060', {
   "sensational": "Sarlavhalar algoritmlarni kamdan-kam oddiy vositalar sifatida, ko'pincha esa shov-shuvli xaloskorlar yoki xavfli tahdidlar sifatida tasvirlaydi.",
   "similarity": "Tavsiya algoritmlari foydalanuvchilarning o'tmishdagi xatti-harakatlari o'rtasidagi o'xshashlik o'lchovlariga tayanadi.",
   "speed of light": "Yuqori chastotali savdogarlar uchun yorug'lik tezligining cheklanganligi haqiqiy tijorat cheklovi bo'lib qoldi."
+ },
+ "EX": {
+  "algorithm": "Retsept algoritmning bir turi, ya'ni bajarilishi kerak bo'lgan qadamlar ro'yxatidir.",
+  "algorithms": "Algoritmlar kundalik hayotimizning hamma joyida mavjud.",
+  "apple": "Bir savat olmani eng kichigidan eng kattasigacha saralayotganingizni tasavvur qiling.",
+  "autumn": "Kuzda fermerlar bog'dan olma terishadi.",
+  "bubble": "\"Pufakchali saralash\"da eng katta olma xuddi pufakchadek qatorning oxiriga suzib chiqadi.",
+  "by hand": "Minglab olmalarni qo'lda saralash juda uzoq vaqt oladi.",
+  "delivery": "Yetkazib berish kompaniyalari yo'nalishlarini rejalashtirish uchun algoritmlardan foydalanadi.",
+  "engine": "Veb-saytning asosida kuchli algoritm ishlaydi.",
+  "flour": "Avval unni idishga soling.",
+  "frying pan": "Tovada ozgina yog'ni qizdiring.",
+  "get the best": "Yaxshi algoritmlar bizga eng yaxshi natijalarga tez erishishga yordam beradi.",
+  "in a flash": "Kompyuter million sonni ko'z ochib yumguncha saralay oladi.",
+  "inscrutable": "Ko'plab algoritmlar tushunib bo'lmas darajada murakkab: hatto ularni yaratganlar ham tushuntirib bera olmaydi.",
+  "map": "Xarita ilovalari uyga eng tez yo'lni topish uchun algoritmlardan foydalanadi.",
+  "mathematical statement": "Algoritmni bir qator matematik ifodalar ko'rinishida yozish mumkin.",
+  "means": "Algoritm muammoni qadamma-qadam hal qilish vositasidir.",
+  "multiply": "Kompyuterlar ulkan sonlarni soniyaning bir ulushida ko'paytira oladi.",
+  "one by one": "Olmalarni birma-bir solishtirib chiqishingiz mumkin.",
+  "orchard": "Fermer bog'dagi barcha olmalarni terib oldi.",
+  "pan": "Xamirni tovaga quying.",
+  "pancake": "Quymoq tayyorlash uchun un, tuxum va sutni aralashtirasiz.",
+  "quick time": "Yaxshi algoritm olmalarni qisqa vaqtda saralay oladi.",
+  "racial": "Ba'zi algoritmlarda irqiy tarafkashlik kuzatilgan.",
+  "recipe": "Quymoq tayyorlash retsepti oddiy algoritmdir.",
+  "reckon": "Menimcha, ko'pchilik algoritmlar qanday ishlashini bilmaydi.",
+  "resolve": "Algoritmlar bizga har xil muammolarni hal qilishda yordam beradi.",
+  "search engine": "Qidiruv tizimlari qaysi natijalarni ko'rsatishni hal qilish uchun algoritmlardan foydalanadi.",
+  "sensational": "Yangi algoritmning natijalari shov-shuvga sabab bo'ldi.",
+  "similarity": "Retsept va kompyuter algoritmi o'rtasida o'xshashlik bor.",
+  "speed of light": "Internetdagi ma'lumot yorug'lik tezligiga yaqin tezlikda harakatlanadi."
  }
 });

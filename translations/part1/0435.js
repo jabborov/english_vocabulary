@@ -1,4 +1,4 @@
-// Part 1 topic 0435: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0435: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0435', {
  "A1": {
   "carbonate": "Biz suvni gazlaymiz.",
@@ -47,5 +47,13 @@ VOCAB_TR_STORE('1', '0435', {
   "emulsifier": "Emulgatorlar ko'plab oziq-ovqatlarni o'ta qayta ishlangan deb belgilaydigan qo'shimchalar qatoriga kiradi.",
   "heated up": "Isitilgan tayyor taomda siz uyda hech qachon ishlatmaydigan uzun ingredientlar ro'yxati bo'lishi mumkin.",
   "sliced": "Kam xaridorlar oddiy bir bo'lak to'g'ralgan nonning ham o'ta qayta ishlangan mahsulot hisoblanishi mumkinligini anglaydi."
+ },
+ "EX": {
+  "carbonate": "Mashinalar suvni gazlab, uni ko'pikli qiladi.",
+  "carbonated water": "Ko'pchilik gazli ichimliklarning birinchi tarkibiy qismi gazlangan suvdir.",
+  "dye": "Ba'zi shirinliklarda sun'iy bo'yoqlar bor.",
+  "emulsifier": "Muzqaymoq silliq bo'lishi uchun unga emulgatorlar qo'shiladi.",
+  "heated up": "Isitilgan tayyor taom tez tayyor bo'ladi, lekin har doim ham foydali emas.",
+  "sliced": "Supermarketdagi to'g'ralgan non ko'pincha o'ta qayta ishlangan bo'ladi."
  }
 });

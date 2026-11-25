@@ -1,4 +1,4 @@
-// Part 1 topic 0508: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0508: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0508', {
  "A1": {
   "HTML": "Men HTML o'rganyapman.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0508', {
   "surf": "\"Internetda kezish\" iborasi bugungi kunda ancha eskicha eshitiladi.",
   "surfing": "\"Surfing\" atamasi bir sahifadan ikkinchisiga go'yo to'lqinda sirpanib o'tish tuyg'usini ifodalagan.",
   "web page": "Yaxshi ishlangan veb-sahifa har qanday qurilmada tez yuklanishi kerak."
+ },
+ "EX": {
+  "HTML": "Veb-sahifalar HTMLda yoziladi.",
+  "WWW": "Ko'plab veb-sayt manzillari WWW bilan boshlanadi.",
+  "cabinet": "Hujjatlar qulflangan javonda saqlangan.",
+  "file cabinet": "Internet paydo bo'lishidan oldin ma'lumotlar hujjatlar javonida saqlangan.",
+  "filing": "U ertalabni hujjatlarni tartiblab joylashtirish bilan o'tkazdi.",
+  "filing cabinet": "U barcha xatlarini hujjatlar javonida saqlardi.",
+  "gratify": "U ixtirosining muvaffaqiyatidan mamnun bo'ldi.",
+  "gratifying": "Internetdan qancha odam foydalanishini ko'rish quvonarli.",
+  "groundbreaking": "Butunjahon o'rgimchak to'ri inqilobiy ixtiro edi.",
+  "mark up": "HTML veb-sahifalardagi matnni belgilash uchun ishlatiladi.",
+  "rightly": "U yaratgan narsasi bilan haqli ravishda faxrlanadi.",
+  "snail": "Dastlabki internet ulanishlari shilliqqurtdek sekin edi.",
+  "surf": "Men kechqurun internetda kezib o'tirdim.",
+  "surfing": "1990-yillarda internetda kezish ommabop mashg'ulotga aylandi.",
+  "web page": "Birinchi veb-sahifa juda oddiy edi."
  }
 });

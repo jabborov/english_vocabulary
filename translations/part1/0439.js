@@ -1,4 +1,4 @@
-// Part 1 topic 0439: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0439: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0439', {
  "A1": {
   "comprehensive": "Bu to'liq ro'yxat.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0439', {
   "salvo": "Gazeta maqolasi xavfsizlik rejalari ustidagi kurashning ilk zarbasi sifatida qabul qilindi.",
   "spinal": "Davolashdagi yutuqlar umurtqa pog'onasi jiddiy jarohatlangan bemorlar istiqbolini yaxshiladi.",
   "suspense": "Boshlovchi viktorina javobini oshkor qilishdan oldin tomoshabinlarni intizorlikda ushlab turdi."
+ },
+ "EX": {
+  "comprehensive": "O'yinlar uchun xavfsizlik rejasi har tomonlama puxta.",
+  "defence system": "Raketalar havo hujumidan mudofaa tizimining bir qismidir.",
+  "deployment": "Raketalarning turar joy binolariga joylashtirilishi mahalliy aholini xavotirga soldi.",
+  "devise": "Armiya Olimpiya bog'ini himoya qilish rejasini ishlab chiqdi.",
+  "high explosive": "Raketalar kuchli portlovchi jangovar kallak bilan jihozlangan.",
+  "high profile": "Olimpiya o'yinlari juda katta shov-shuvga ega tadbirdir.",
+  "imposition": "Aholi raketalarni hayotlariga majburan tiqishtirilgan narsa deb bildi.",
+  "injured": "O'quv mashg'uloti paytida hech kim jarohatlanmadi.",
+  "layered": "Armiya ko'p qatlamli mudofaa tizimini tasvirlab berdi.",
+  "plotter": "Politsiyaning aytishicha, fitnachilar shaharga hujum qilishni rejalashtirgan.",
+  "salvo": "Bahsning ilk zarbasini g'azablangan aholi berdi.",
+  "spinal": "U baxtsiz hodisada umurtqa pog'onasidan jarohat oldi.",
+  "suspense": "Meni intizorlikda qoldirmang — javobni ayting!"
  }
 });

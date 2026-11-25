@@ -1,4 +1,4 @@
-// Part 1 topic 0396: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0396: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0396', {
  "A1": {
   "Thailand": "Tailand Osiyoda joylashgan.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0396', {
   "sign in": "Shartnoma imzolanib qonunga aylangach, muhofaza qilinadigan tur bilan savdo qilish jinoyat hisoblana boshladi.",
   "transit": "Bu savdoga qarshi kurashish manba, tranzit va iste'molchi mamlakatlar o'rtasidagi hamkorlikni talab qiladi.",
   "tusk": "Fil tishlariga bo'lgan talab ba'zi fil populyatsiyalarining halokatli darajada kamayishiga olib keldi."
+ },
+ "EX": {
+  "Thailand": "Tailand noqonuniy fil suyagi uchun asosiy tranzit nuqtasi bo'lib kelgan.",
+  "arrest": "Politsiya fil suyagi kontrabandasi uchun ikki kishini hibsga oldi.",
+  "confiscate": "Rasmiylar chegarada noqonuniy hayvon mahsulotlarini musodara qilishdi.",
+  "convict": "Kontrabandachilarning juda ozchiligi aybdor deb topiladi.",
+  "delegate": "170 ta mamlakatdan kelgan delegatlar yo'qolib ketish xavfi ostidagi turlar savdosini muhokama qilish uchun yig'ilishdi.",
+  "dodo": "Choralar ko'rilmasa, fillar ham dodo qushi kabi yo'q bo'lib ketishi mumkin.",
+  "enforcement": "Brakonerlikni to'xtatish uchun huquqni muhofaza qilishni kuchaytirish kerak.",
+  "intercept": "Bojxona xodimlari fil suyagi yukini ushlab qolishdi.",
+  "ivory": "Fil suyagining xalqaro savdosi taqiqlangan.",
+  "license": "Faqat bir nechta savdogarga eski fil suyagini sotish uchun litsenziya berilgan.",
+  "mastermind": "Politsiya fil suyagi savdosi ortidagi bosh tashkilotchini qo'lga olishga harakat qilmoqda.",
+  "poacher": "Brakonerlar milliy bog'da uchta filni o'ldirishdi.",
+  "poaching": "Brakonerlik Afrika fillari uchun eng katta tahdiddir.",
+  "seize": "Politsiya ikki tonna fil suyagini musodara qildi.",
+  "seizure": "Noqonuniy fil suyagining rekord miqdori musodara qilindi.",
+  "sign in": "Barcha delegatlar konferensiyada ro'yxatdan o'tishlari kerak edi.",
+  "transit": "Ba'zi mamlakatlar noqonuniy yovvoyi tabiat mahsulotlari uchun tranzit nuqtasi hisoblanadi.",
+  "tusk": "Fillar so'yloq tishlari uchun o'ldiriladi."
  }
 });

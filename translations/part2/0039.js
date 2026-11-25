@@ -1,4 +1,4 @@
-// Part 2 topic 0039: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0039: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0039', {
  "A1": {
   "Callum": "Kallum mening do'stim.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('2', '0039', {
   "rhinoceros": "Sumatra karkidonining ayanchli ahvoli turning deyarli sezilmagan holda yo'qolib ketish sari qanday sirpanib borishini ko'rsatadi.",
   "stick": "Tayoqchasimon hasharotning niqobi shu qadar ishonarliki, yirtqichlar uni sezmay bir necha santimetr yonidan o'tib ketadi.",
   "tend to hear": "Tashrif buyuruvchilar odatda faqat eng baland ovozlarni eshitadi va o'rmonni to'ldirib turgan nozikroq tovushlardan bexabar qoladi."
+ },
+ "EX": {
+  "Callum": "Kallum suratga olish guruhini noyob hayvonlarni izlash uchun tropik o'rmonning ichkarisiga olib bordi.",
+  "I kind of persuaded you": "Avvaliga kelishni istamagan eding, lekin men seni qandaydir ko'ndirdim, to'g'rimi?",
+  "ape": "Orangutanlar Osiyo tropik o'rmonlarida uchraydigan yagona yirik odamsimon maymundir.",
+  "biologically": "Tropik o'rmonlar Yer yuzidagi biologik jihatdan eng boy joylardan biridir.",
+  "canopy": "Hayvonlarning aksariyati o'rmon yeridan ancha balandda, daraxtlar soyaboni qismida yashaydi.",
+  "clouded leopard": "Tutunli leopard vaqtining ko'p qismini daraxtlarning yuqori qismida o'tkazadi.",
+  "creepy-crawlies": "O'rmon yeri chumolilar, qo'ng'izlar va o'rgimchaklar kabi o'rmalovchi hasharotlarga to'la.",
+  "evolve": "Ko'plab tropik o'rmon hayvonlari butun umrini daraxtlarda o'tkazishga moslashib rivojlangan.",
+  "fascinating": "Daraxtlar soyabonidagi hayvonlarni kuzatish maroqli tajriba bo'ldi.",
+  "gibbon": "Har tong o'rmon gibbonlarning chaqiriqlariga to'ladi.",
+  "habitat": "Daraxtlarni kesish ko'plab hayvonlarning tabiiy yashash muhitini yo'q qiladi.",
+  "rainforest": "Tropik o'rmon quruqlikdagi boshqa har qanday yashash muhitidan ko'ra ko'proq turlarga makon bo'ladi.",
+  "remarkable": "Tropik o'rmonda o'simlik va hayvonlarning ajoyib xilma-xilligi mavjud.",
+  "rhinoceros": "Sumatra karkidoni tropik o'rmonning ichkarisida yashaydi va juda kamdan-kam ko'rinadi.",
+  "stick": "Cho'pga o'xshab ko'ringan narsa cho'psimon hasharot bo'lib chiqdi.",
+  "tend to hear": "Tropik o'rmonda hayvonlarni ko'rishdan ancha oldin ularning ovozini eshitasiz."
  }
 });

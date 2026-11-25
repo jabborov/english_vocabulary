@@ -1,4 +1,4 @@
-// Part 1 topic 0476: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0476: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0476', {
  "A1": {
   "bloke": "U yaxshi yigit.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0476', {
   "unrepresentative": "Bunday reprezentativ bo'lmagan tanlanma asosida tabaqa haqida xulosa chiqarish o'ta chalg'ituvchi bo'lardi.",
   "viewpoint": "Boshqa insonning nuqtai nazarini tushunish u bilan rozi bo'lishingizni talab qilmaydi.",
   "working person": "\"Mehnatkash inson\" tushunchasi Britaniyada tabaqa va adolat haqidagi bahslarning markazida turadi."
+ },
+ "EX": {
+  "bloke": "U yaxshi yigit, garchi zodagonlarcha gapirsa ham.",
+  "blonde": "Filmdagi zodagon qahramonning uzun sariq sochlari bor edi.",
+  "cabin": "Boy yo'lovchilarning kayutalari kemaning salqinroq tomonida edi.",
+  "categorise": "Britaniyada odamlar ko'pincha talaffuziga qarab toifalarga ajratiladi.",
+  "crossing": "Britaniyadan Hindistonga dengiz orqali o'tish bir necha hafta davom etardi.",
+  "levelling": "Britaniyada tabaqalar o'rtasidagi farq biroz tekislandi.",
+  "persecution": "Ba'zi zodagonlar talaffuzlari tufayli ta'qibga uchrashlarini aytishadi.",
+  "shady": "Boylar kemaning soya tomonidagi kayutalarni xohlashardi.",
+  "starboard": "Aytishlaricha, \"posh\" so'zi \"port out, starboard home\", ya'ni \"borishda chap bort, qaytishda o'ng bort\" degani.",
+  "stylish": "Zodagonlar ko'pincha didli va yaxshi kiyingan deb hisoblanadi.",
+  "toff": "Qimmat maktabda o'qigani uchun uni \"oqsuyak\" deb atashardi.",
+  "unrepresentative": "So'rovda qatnashganlar butun mamlakatni to'g'ri aks ettirmasdi.",
+  "viewpoint": "Mening nuqtai nazarimdan, tabaqa avvalgidek muhim emas.",
+  "working person": "Oddiy ishchi odamning talaffuzi zodagonnikidan juda farq qilishi mumkin."
  }
 });

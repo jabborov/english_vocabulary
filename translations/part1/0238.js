@@ -1,4 +1,4 @@
-// Part 1 topic 0238: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0238: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0238', {
  "A1": {
   "Russian": "U rus.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0238', {
   "spring to mind": "Asosiy aybdorlar sifatida supermarketlar xayolga kelishi mumkin, biroq xonadonlar ko'proq isrof qiladi.",
   "terribly": "Biz qancha ovqatni haqiqatan yeyishimizni baholashda juda yomonmiz.",
   "unhygienic": "Ortib qolgan ovqat gigiyenaga zid degan bo'rttirilgan qo'rquvlar uy xo'jaliklaridagi oziq-ovqat isrofiga jiddiy hissa qo'shadi."
+ },
+ "EX": {
+  "Russian": "Rus buvim hech qachon ovqatni isrof qilmasdi.",
+  "abundance": "Biz mo'l-ko'lchilik davrida yashayotganimiz uchun ovqatni isrof qilamiz.",
+  "bulk": "Hammasini yeb tugata olmasangiz, ulgurji xarid qilish ko'proq isrofga olib kelishi mumkin.",
+  "colloquial": "\"Chuck out\" — \"throw away\" (tashlab yubormoq) iborasining so'zlashuv shakli.",
+  "communism": "Kommunizm davrida odamlar ko'pincha asosiy oziq-ovqat uchun navbatga turishardi.",
+  "contributor": "Oziq-ovqat isrofi iqlim o'zgarishiga katta hissa qo'shadigan omillardan biridir.",
+  "end of the world": "Bir burda nonni tashlab yuborish dunyoning oxiri emas — lekin bu yig'ilib boradi.",
+  "go past": "Ko'p odamlar oziq-ovqat muddati o'tishi bilanoq uni tashlab yuborishadi.",
+  "leftover": "Ortib qolgan sabzavotlardan sho'rva tayyorlashimiz mumkin.",
+  "spring to mind": "Oziq-ovqat isrofi haqida o'ylaganimda, birinchi navbatda supermarketlar yodimga tushadi.",
+  "terribly": "Ovqatni tashlab yuborganimda o'zimni juda aybdor his qilaman.",
+  "unhygienic": "Ba'zi odamlar qolgan ovqatni yeyishni gigiyenaga zid deb hisoblashadi, lekin odatda bu xavfsiz."
  }
 });

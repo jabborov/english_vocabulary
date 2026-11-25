@@ -1,4 +1,4 @@
-// Part 1 topic 0331: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0331: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0331', {
  "A1": {
   "accountable": "Siyosatchilar hisobdor bo'lishi kerak.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0331', {
   "pin down": "Jurnalistlar vazirdan siyosat aslida qanchaga tushishi haqida aniq javob olishga behuda urinishdi.",
   "political party": "Hafsalasi pir bo'lgan saylovchilar tobora siyosiy partiyalarni chetlab o'tib, bitta masalaga qaratilgan kampaniyalarni afzal ko'rmoqda.",
   "weakening": "Fuqarolik institutlarining asta-sekin zaiflashuvi demokratiyani rasman qulashidan ancha oldin mazmunsiz qilib qo'yishi mumkin."
+ },
+ "EX": {
+  "accountable": "Yaxshi fuqarolar o'z rahbarlarini javobgarlikka tortadilar.",
+  "active citizen": "Faol fuqaro mahalliy qarorlarni qabul qilishda ishtirok etadi.",
+  "assembly": "O'quvchilar haftalik maktab yig'ilishida mahalliy muammolarni muhokama qilishadi.",
+  "break water": "Bo'rondan keyin ko'ngillilar eski to'lqinqaytargichni ta'mirlashga yordam berishdi.",
+  "citizenship": "Hozir ko'plab maktablarda fuqarolik alohida fan sifatida o'qitiladi.",
+  "curriculum": "Fuqarolik milliy o'quv dasturining bir qismiga aylandi.",
+  "erosion": "Ba'zilar jamoaviy ruhning yemirilishidan xavotirlanishadi.",
+  "law of the land": "Yaxshi fuqaro mamlakat qonunlarini hurmat qiladi.",
+  "pin": "\"Pin\" so'zi \"pin down\" frazali fe'lida qo'llaniladi.",
+  "pin down": "Yaxshi fuqaroni aynan nima belgilashini aniq aytish qiyin.",
+  "political party": "Bugungi kunda kamroq yoshlar siyosiy partiyaga a'zo bo'lishadi.",
+  "weakening": "Mutaxassislar qo'shnilar o'rtasidagi aloqalarning zaiflashayotganini ta'kidlashadi."
  }
 });

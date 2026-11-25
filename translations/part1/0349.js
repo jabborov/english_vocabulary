@@ -1,4 +1,4 @@
-// Part 1 topic 0349: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0349: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0349', {
  "A1": {
   "Anna": "Anna o'qituvchi.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0349', {
   "skipping rope": "Arg'amchi hech qanday ko'rsatma talab qilmaydi, bu esa bolalarga o'z o'yinlarini o'ylab topish uchun imkon qoldiradi.",
   "throw down": "Bir-biriga bellashuv taklif qiladigan bolalar muzokara qilishni va navbat bilan harakat qilishni o'rganadi.",
   "turret": "Kartondan yasalgan minora liqillashi mumkin, ammo u tasavvur va muhandislikning yutug'idir."
+ },
+ "EX": {
+  "Anna": "Annaning aytishicha, o'yin bolalarga chidamli bo'lishga yordam beradi.",
+  "architect": "Bolalar o'z o'yin maydonchalarining me'mori bo'lishdi.",
+  "at first glance": "Bir qarashda o'yin maydonchasi axlatxonaga o'xshaydi.",
+  "barefoot": "Bolalar o'tlar ustida yalangoyoq yugurishdi.",
+  "build dens": "Bolalar o'rmonda kulba qurishni juda yaxshi ko'rishadi.",
+  "building material": "Bolalar qurilish materiali sifatida yog'ochdan foydalanishdi.",
+  "by far": "Bu o'yin maydonchasining eng mashhur qismi ekanligi shubhasiz.",
+  "cop": "Bolalar politsiyachi va o'g'rilar o'ynashdi.",
+  "crooked": "Ularning kulbasi qiyshiq edi, lekin ular u bilan faxrlanishardi.",
+  "hide in": "Ular kulbada yashirinishni yoqtirishadi.",
+  "in play": "Bolalar o'yin jarayonida ko'p narsani o'rganishadi.",
+  "junkyard": "O'yin maydonchasi eski narsalarga to'la lattaxonaga o'xshaydi.",
+  "pallet": "Ular eski yog'och tagliqdan kulba yasashdi.",
+  "plank": "Ular ko'prik yasash uchun taxtadan foydalanishdi.",
+  "resiliency": "O'yin bolalarda qiyinchiliklarga bardoshlilikni rivojlantiradi.",
+  "skipping rope": "Bolalar o'yin maydonchasida arg'amchi bilan o'ynashdi.",
+  "throw down": "Ular taxtalarni yerga tashlab, qurishni boshlashdi.",
+  "turret": "Ular karton qal'alariga minora qo'shishdi."
  }
 });

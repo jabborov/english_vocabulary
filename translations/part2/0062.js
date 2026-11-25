@@ -1,4 +1,4 @@
-// Part 2 topic 0062: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0062: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0062', {
  "A1": {
   "Anne": "Anne - qiz ismi.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('2', '0062', {
   "time capsule": "Ataylab yig'ilgan vaqt kapsulasidan farqli o'laroq, kundalik keyinchalik nima muhim bo'lishini bilmagan holda o'tmishni qayd etadi.",
   "traumatic": "Psixologlarning fikricha, travmatik xotiralar haqida yozish ularning hissiy ta'sirini kamaytirishi mumkin.",
   "upsetting": "Kundalikni qayta o'qish ham taskin beruvchi, ham xafa qiluvchi bo'lishi mumkin, chunki u ortda qoldirdik deb o'ylagan his-tuyg'ularni qayta uyg'otadi."
+ },
+ "EX": {
+  "Anne": "Anna Frank kundaligini Amsterdamda yozgan.",
+  "approximately": "Anna Frankning oilasi taxminan ikki yil yashirinib yashagan.",
+  "blog": "Ko'p odamlar endi kundalik o'rniga blog yuritishadi.",
+  "capsule": "Ular xatlarni metall kapsulaga solishdi.",
+  "chore": "Ba'zi odamlar uchun kundalik yozish zerikarli majburiyatdek tuyuladi.",
+  "chronicle": "Uning kundaligi urush davridagi hayotini bayon qiladi.",
+  "comfort": "Kundaligi unga katta taskin berardi.",
+  "concentrate on": "Kundalik yozish haqiqatan muhim narsaga e'tibor qaratish imkonini beradi.",
+  "congratulation": "Birinchi kundaligingizni tugatganingiz bilan tabriklaymiz!",
+  "dig": "Kapsulani topish uchun ular yer qazishlariga to'g'ri keldi.",
+  "dig up": "Ular 25 yildan keyin vaqt kapsulasini qazib olishdi.",
+  "domestic": "Uning kundaligi uy-ro'zg'or tafsilotlariga to'la.",
+  "go past": "Yillar o'tgan sari kundalik qimmatliroq bo'lib boradi.",
+  "handwrite": "Kundaligingizni hali ham qo'lda yozasizmi?",
+  "in hiding": "Anna Frank kundaligini oilasi yashirinib yurgan paytda yozgan.",
+  "of age": "U voyaga yetganda kundalik yuritishni boshladi.",
+  "pin": "U suratni kundaligiga to'g'nog'ich bilan qadab qo'ydi.",
+  "pin down": "Kundalik o'zingizni aslida qanday his qilganingizni aniq belgilashga yordam beradi.",
+  "reassure": "Kundalik yozish odamlarni his-tuyg'ulari normal ekaniga ishontirib, ko'nglini tinchlantirishi mumkin.",
+  "regret": "Yoshligimda kundalik yuritmaganimdan afsuslanaman.",
+  "relate": "Ko'plab o'smirlar Anna Frank kundaligini o'zlariga yaqin his qilishadi.",
+  "related to": "Yozuvlarning aksariyati uning oilasiga oid.",
+  "rush": "Zamonaviy hayotning shoshqaloqligida kamdan-kam odam kundalik yuritadi.",
+  "time capsule": "Maktab bog'ga vaqt kapsulasini ko'mib qo'ydi.",
+  "traumatic": "Ruhiy jarohat yetkazgan voqealar haqida yozish odamlarga tiklanishga yordam berishi mumkin.",
+  "upsetting": "Eski kundaliklarni o'qish xafa qilishi mumkin."
  }
 });

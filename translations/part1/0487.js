@@ -1,4 +1,4 @@
-// Part 1 topic 0487: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0487: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0487', {
  "A1": {
   "abolish": "Ular buni bekor qilmoqchi.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0487', {
   "read up": "Masalani muhokama qilishdan oldin boshqa respublikalar qanday ishlashi haqida o'qib, o'rganib chiqish foydali.",
   "republic": "Britaniyani respublikaga aylantirish katta konstitutsiyaviy o'zgarishlarni talab qiladi.",
   "scrapping": "Monarxiyani bekor qilish tarixiy va o'ta bahsli qadam bo'lardi."
+ },
+ "EX": {
+  "abolish": "Respublikachilar monarxiyani bekor qilishni xohlashadi.",
+  "answerable": "Respublikachilar saylovchilar oldida hisob beradigan davlat rahbarini xohlashadi.",
+  "axe": "Jallod boltadan foydalangan.",
+  "bank holiday": "Qirollik to'yi munosabati bilan qo'shimcha dam olish kuni e'lon qilindi.",
+  "behead": "Karl I ning boshi Uaytxoll tashqarisida kesilgan.",
+  "bloody": "Angliya fuqarolar urushi qonli to'qnashuv edi.",
+  "build around": "Tantanalar qirollik oilasi atrofida tashkil etilgan edi.",
+  "commoner": "Shahzodaga turmushga chiqishdan oldin u oddiy fuqaro edi.",
+  "executioner": "Jallod niqob taqib olgan edi.",
+  "gruesome": "Qirolning qatl etilishi dahshatli voqea edi.",
+  "hover": "Respublikani qo'llab-quvvatlash 20 foiz atrofida tebranib turibdi.",
+  "in the meantime": "Bahs davom etadi; bu orada qirollik oilasi a'zolari mashhurligicha qolmoqda.",
+  "monarchism": "Britaniyada monarxizm hamon kuchli.",
+  "monarchist": "U monarxiya tarafdori sifatida qirollik to'ylarini yaxshi ko'radi.",
+  "opinion poll": "Jamoatchilik so'rovi ko'pchilik monarxiyani qo'llab-quvvatlashini ko'rsatdi.",
+  "put to death": "Qirol Karl I 1649-yilda qatl etilgan.",
+  "read up": "U monarxiya tarixini sinchiklab o'rganib chiqdi.",
+  "republic": "Ba'zi odamlar Britaniya respublikaga aylanishini istaydi.",
+  "scrapping": "Respublikachilar monarxiyani tugatishga chaqirishmoqda."
  }
 });

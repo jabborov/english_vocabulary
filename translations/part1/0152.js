@@ -1,4 +1,4 @@
-// Part 1 topic 0152: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0152: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0152', {
  "A1": {
   "activism": "U ijtimoiy faollikka qiziqadi.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0152', {
   "likewise": "Hukumatlar chiqindilarni qisqartirishi kerak, bizneslar ham xuddi shunday harakat qilish mas'uliyatiga ega.",
   "nowhere": "Muzokaralar hech qanday natija bermadi va yosh faollarni avvalgidan ham ko'proq hafsalasini pir qildi.",
   "save up": "Uzoq muddatli maqsadlar uchun pul yig'ish iqlim bo'yicha harakatlar talab qiladigan sabr-toqatning xuddi o'zini talab qiladi."
+ },
+ "EX": {
+  "activism": "O'smirlar orasida iqlim faolligi o'sib bormoqda.",
+  "betray": "Ko'plab yoshlar iqlim o'zgarishiga qarshi choralar ko'rmayotgan hukumatlar tomonidan xiyonatga uchragandek his qilishadi.",
+  "cooperation": "Iqlim o'zgarishi muammosini hal qilish uchun davlatlar o'rtasida hamkorlik kerak.",
+  "crucial": "Kelgusi o'n yil iqlim uchun hal qiluvchi ahamiyatga ega.",
+  "die off": "Sayyora isishi bilan ko'plab turlar qirilib ketishi mumkin.",
+  "freak": "U har bir hisobotni o'qib chiqadigan haqiqiy iqlim ishqibozi.",
+  "freak out": "Ba'zi bolalar iqlim o'zgarishi haqidagi yangiliklarni eshitib, vahimaga tushishadi.",
+  "global climate change": "Global iqlim o'zgarishi butun dunyo yoshlarini xavotirga solmoqda.",
+  "likewise": "Ota-onalar iqlim o'zgarishidan xavotirda, bolalar ham xuddi shunday.",
+  "nowhere": "Boshqa boradigan joyimiz yo'q - bizda faqat bitta sayyora bor.",
+  "save up": "U birovdan mashinada olib borishni so'rash o'rniga yangi velosiped uchun pul yig'yapti."
  }
 });

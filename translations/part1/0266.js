@@ -1,4 +1,4 @@
-// Part 1 topic 0266: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0266: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0266', {
  "A1": {
   "June": "Mening tug'ilgan kunim iyunda.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('1', '0266', {
   "suffragette": "Emily Wilding Davison kabi sufrajistkalar ayollarning saylov huquqi uchun kurashda shahidga aylandi.",
   "teashop": "Choyxonalarning ko'payishi o'rta sinf ayollariga ilk bor hamrohsiz bo'la oladigan jamoat joyini taqdim etdi.",
   "vote in": "Milliy saylovlarda ovoz berish saylov huquqi harakatining asosiy maqsadi edi."
+ },
+ "EX": {
+  "June": "1913-yil iyun oyida Emili Devison Derbi poygasida yo'lakka yugurib chiqdi.",
+  "Lyons": "Ayollar Lyons choyxonalari kabi joylarda xavfsiz uchrasha olishardi.",
+  "admiration": "Men sufrajistkalarga katta hayrat bilan qarayman.",
+  "aristocratic": "Ba'zi sufrajistkalar aristokrat oilalardan chiqqan edi.",
+  "break out": "1914-yilda urush boshlanganda sufrajistkalar o'z kampaniyalarini to'xtatishdi.",
+  "charismatic": "Emmelin Pankxerst jozibali yetakchi edi.",
+  "church service": "Ba'zi sufrajistkalar norozilik bildirish uchun cherkov ibodatlarini bo'lib qo'yishgan.",
+  "conservative": "Konservativ qarashli odamlar ayollarga saylov huquqi berilishiga qarshi chiqishgan.",
+  "deed": "Sufrajistkalarning shiori \"So'z emas, amal\" edi.",
+  "defiance": "Sufrajistkalar qonunga bo'ysunmay harakat qilishdi.",
+  "direct action": "Sufrajistkalar to'g'ridan-to'g'ri harakatga ishonishgan.",
+  "electorate": "Ayollar saylov huquqini olgach, saylovchilar soni ancha oshdi.",
+  "factory worker": "Ko'plab fabrika ishchilari ham sufrajistkalarga qo'shilishdi.",
+  "fearlessly": "Sufrajistkalar politsiyaga qo'rqmasdan qarshi turishdi.",
+  "impromptu": "Ular parlament oldida kutilmaganda norozilik namoyishi o'tkazishdi.",
+  "interrupting": "Siyosatchilarning nutqlarini bo'lib qo'yish keng tarqalgan usul edi.",
+  "militancy": "1912-yildan keyin sufrajistkalarning jangovarligi kuchaydi.",
+  "militant": "Sufrajistkalar sufrajistlarga qaraganda jangovarroq edi.",
+  "parliamentary": "Ayollar parlament saylovlarida ovoz berish huquqini xohlashardi.",
+  "plight": "Sufrajistkalar kambag'al ayollarning og'ir ahvoliga e'tibor qaratishdi.",
+  "railing": "Sufrajistkalar o'zlarini panjaralarga zanjir bilan bog'lab qo'yishgan.",
+  "right to vote": "Britaniya ayollari 1918-yilda saylov huquqini qo'lga kiritdi.",
+  "role model": "Emmelin Pankxerst ko'plab ayollar uchun ibrat namunasidir.",
+  "suffragette": "Sufrajistkalar e'tiborni tortish uchun to'g'ridan-to'g'ri harakatlardan foydalanishgan.",
+  "teashop": "Choyxona ayollar uchrashishi mumkin bo'lgan xavfsiz joy edi.",
+  "vote in": "1918-yilgacha ayollar umumiy saylovlarda ovoz bera olmagan."
  }
 });

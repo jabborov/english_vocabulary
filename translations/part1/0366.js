@@ -1,4 +1,4 @@
-// Part 1 topic 0366: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0366: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0366', {
  "A1": {
   "breathless": "Nafasim qisyapti.",
@@ -47,5 +47,13 @@ VOCAB_TR_STORE('1', '0366', {
   "homesickness": "Psixologlar uy sog'inchini tanish muhit va kun tartibi uchun qayg'u chekishning bir shakli deb ta'riflaydi.",
   "new town": "Yangi shaharga moslashish yo'l topishni o'rganish kabi yozilmagan ijtimoiy qoidalarni o'rganishni ham o'z ichiga oladi.",
   "panic attack": "Kuchli uy sog'inchi jismonan, ba'zan hatto takroriy vahima xurujlari shaklida ham namoyon bo'lishi mumkin."
+ },
+ "EX": {
+  "breathless": "Vahima xuruji paytida uning nafasi qisilib, boshi aylandi.",
+  "expat": "Ko'plab chet elda yashovchilar o'z vatandoshlari bilan tanishish uchun klublarga qo'shilishadi.",
+  "homesick": "Chet eldagi birinchi haftamda uyimni juda sog'indim.",
+  "homesickness": "Chet elda o'qiyotgan talabalar orasida vatanni sog'inish keng tarqalgan.",
+  "new town": "Yangi shaharga ko'chib o'tish dastlab o'zingizni yolg'iz his qilishingizga sabab bo'lishi mumkin.",
+  "panic attack": "Uning uy sog'inchi shunchalik kuchli ediki, vahima xurujiga uchradi."
  }
 });

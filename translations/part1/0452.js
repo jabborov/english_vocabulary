@@ -1,4 +1,4 @@
-// Part 1 topic 0452: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0452: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0452', {
  "A1": {
   "attend to": "Iltimos, mehmonlar bilan shug'ullaning.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0452', {
   "pull in": "Prodyuserlar aks holda teatrga bormaydigan tomoshabinlarni jalb qilish uchun yulduz aktyorlarni rollarga taklif qilishga tayanadi.",
   "thriving": "Gullab-yashnayotgan teatr sohasi London iqtisodiyotiga umuman olganda katta foyda keltiradi.",
   "tighten one's belt": "Tejamkorlik davrida iste'molchilar kamarlarini qattiqroq bog'lashadi, ammo ko'pincha baribir o'zlarini bir oqshomlik hordiq bilan siylashadi."
+ },
+ "EX": {
+  "attend to": "Xodimlar tomosha boshlanishidan oldin mijozlarning ehtiyojlariga e'tibor berishadi.",
+  "belt": "U qora charm kamar taqib olgan edi.",
+  "district": "Londonning West End tumani teatrlar mavzesi sifatida mashhur.",
+  "gloomy": "Iqtisodiyotdagi tushkun holatga qaramay, teatr chiptalari savdosi oshdi.",
+  "impresario": "Yetakchi impresario West End juda yaxshi ahvolda ekanini aytadi.",
+  "pull in": "Katta myuzikllar ulkan tomoshabinlarni jalb qiladi.",
+  "thriving": "Londonda gullab-yashnayotgan teatr sanoati bor.",
+  "tighten one's belt": "Odamlar tejamkorlik qilib, kamarlarini mahkam bog'lashganda ham teatrga borishda davom etadi."
  }
 });

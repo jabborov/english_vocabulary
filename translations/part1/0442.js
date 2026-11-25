@@ -1,4 +1,4 @@
-// Part 1 topic 0442: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0442: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0442', {
  "A1": {
   "degrading": "Bu kamsituvchi gap edi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0442', {
   "scorn": "Uning kampaniyasi achinish va nafratni chinakam hurmat bilan almashtirishni maqsad qilgan.",
   "tighten": "Kasallik rivojlangan sari mushaklar yanada qotib, harakatni cheklashi mumkin.",
   "wheelchair": "Nogironlik aravachalari tasvirlangan o'yinchoqlar nogironlikni g'ayrioddiy narsa sifatida emas, balki odatiy hol sifatida ko'rsatishni maqsad qiladi."
+ },
+ "EX": {
+  "degrading": "Ko'plab nogironligi bor odamlar bunday so'zlarni kamsituvchi deb biladi.",
+  "disdain": "Haqoratli so'zlar nogironligi bor odamlarga nisbatan mensimaslikni ko'rsatadi.",
+  "humiliating": "Maktabda laqab qo'yib chaqirishlari u uchun kamsituvchi edi.",
+  "look down on": "Hech kim odamlarga nogironligi uchun past nazar bilan qaramasligi kerak.",
+  "palsy": "Qo'g'irchoq bolalar serebral falajiga chalingan bolaga o'xshatib yasalgan.",
+  "physical condition": "Qo'g'irchoq jismoniy kasalligi bor bolani tasvirlaydi.",
+  "retard": "Faollar odamlardan haqoratli \"retard\" (aqli zaif) so'zini ishlatmaslikni so'rashmoqda.",
+  "scorn": "Ba'zi odamlar nogiron bolalar haqida nafrat bilan gapirishgan.",
+  "tighten": "Bolalar serebral falajida mushaklar ko'pincha qisqarib, qotib qoladi.",
+  "wheelchair": "Yangi qo'g'irchoq o'z nogironlik aravachasi bilan birga sotiladi."
  }
 });

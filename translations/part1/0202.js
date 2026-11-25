@@ -1,4 +1,4 @@
-// Part 1 topic 0202: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0202: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0202', {
  "A1": {
   "classify": "Biz hayvonlarni turkumlarga ajratamiz.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0202', {
   "processed": "Yuqori darajada qayta ishlangan mahsulotlar mazali bo'lishi uchun maxsus yaratiladi, bu esa ularni ortiqcha iste'mol qilishni osonlashtiradi.",
   "teaspoonful": "Shakar miqdorini choy qoshiqlarida ifodalash mavhum ozuqaviy raqamlarni iste'molchilar uchun ancha tushunarli qiladi.",
   "tub": "Hatto bir quti mevali yogurt kabi sog'lomdek ko'ringan gazaklarda ham kutilmagan miqdorda shakar yashiringan bo'lishi mumkin."
+ },
+ "EX": {
+  "classify": "Meva sharbatidagi shakar \"erkin shakar\" deb tasniflanadi.",
+  "demonise": "Ba'zi mutaxassislar shakarni butunlay yovuz narsa sifatida ko'rsatmaslik kerak deb hisoblashadi.",
+  "fruit drink": "O'sha meva ichimligida bir banka koladagidan ham ko'proq shakar bor.",
+  "nephew": "Jiyanim juda ko'p shirin ichimliklar ichadi.",
+  "opponent": "Shakar solig'iga qarshi chiquvchilar u kambag'alroq oilalarni adolatsiz jazolaydi, deyishadi.",
+  "processed": "Qayta ishlangan oziq-ovqatlarda ko'pincha juda ko'p yashirin shakar bo'ladi.",
+  "teaspoonful": "Aralashmaga bir choy qoshiq shakar qo'shing.",
+  "tub": "Kichik bir idish yogurtda bir necha choy qoshiq shakar bo'lishi mumkin."
  }
 });

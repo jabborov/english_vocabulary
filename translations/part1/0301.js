@@ -1,4 +1,4 @@
-// Part 1 topic 0301: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0301: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0301', {
  "A1": {
   "awaken": "Men erta uyg'onaman.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0301', {
   "potion": "Abadiy yoshlik sharbatini izlash ming yillar davomida insonlarni o'ziga rom etib kelgan.",
   "senior citizen": "Marketing kampaniyalari tobora ko'proq keksa fuqarolarni nishonga olmoqda, chunki ularda ko'pincha yoshlarga qaraganda erkin sarflanadigan daromad ko'proq.",
   "unfit": "Shifokorlarning ta'kidlashicha, keksalikda jismoniy holatning yomonligi ko'pincha qarishning o'zidan emas, balki turmush tarzidan kelib chiqadi."
+ },
+ "EX": {
+  "awaken": "Nafaqa unda rassomlikka bo'lgan ishtiyoqni uyg'otdi.",
+  "bodybuilder": "80 yoshli bu ayol dunyodagi eng keksa ayol bodibilder hisoblanadi.",
+  "business enterprise": "70 yoshida u o'zining birinchi tadbirkorlik korxonasini ochdi.",
+  "coy": "U yoshi haqida gapirishdan biroz tortindi, lekin biz uning yetmishdan oshganini taxmin qildik.",
+  "enterprise": "75 yoshida kompaniya ochib, u katta tadbirkorlik qobiliyatini namoyon etdi.",
+  "granddad": "Bobom sakson yoshida gitara chalishni o'rgana boshladi.",
+  "lotion": "Qarishga qarshi losonlar sizni yoshroq ko'rsatishni va'da qiladi.",
+  "midnight": "U hanuz raqsga tushgani boradi va kamdan-kam yarim tundan oldin uyga qaytadi.",
+  "of age": "Jismoniy mashqlar har qanday yoshdagi odamlar uchun foydali.",
+  "old woman": "Keksa ayol marafonni olti soatdan kamroq vaqtda yugurib o'tdi.",
+  "order off": "Hakam uni yomon xatti-harakati uchun maydondan chetlatdi.",
+  "potion": "Sizni abadiy yosh saqlaydigan sehrli damlama yo'q.",
+  "senior citizen": "Ko'plab keksa fuqarolar o'z bizneslarini boshlashmoqda.",
+  "unfit": "Oltmish yoshimda sport zaliga qatnay boshlaganimda jismoniy holatim juda yomon edi."
  }
 });

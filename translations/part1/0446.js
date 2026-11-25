@@ -1,4 +1,4 @@
-// Part 1 topic 0446: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0446: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0446', {
  "A1": {
   "black bear": "Qora ayiq katta.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0446', {
   "sinkhole": "O'pirilmalar hech qanday ogohlantirishsiz paydo bo'lib, yo'llarni, mashinalarni va ba'zan uylarni yutib yuborishi mumkin.",
   "suit of armour": "SMS yozayotgan odamning ritsar sovutiga urilib ketishi tasviri \"chalg'igan holda yurish\"ning ramziga aylandi.",
   "wander down": "Telefonga berilib, gavjum ko'cha bo'ylab sayr qilib ketayotgan u yaqinlashib kelayotgan mashinani sezmay qoldi."
+ },
+ "EX": {
+  "black bear": "Bir kishi SMS yozib ketayotib qora ayiqqa urilib ketishiga sal qoldi.",
+  "jaywalk": "U gavjum yo'lni noto'g'ri joydan kesib o'tgani uchun jarimaga tortildi.",
+  "jaywalking": "AQShda yo'lni noto'g'ri joydan kesib o'tganingiz uchun jarima solinishi mumkin.",
+  "lumber": "Ayiq og'ir-og'ir qadam tashlab uning yonidan sekin o'tib ketdi.",
+  "lumber down": "Ko'cha bo'ylab bir ayiq og'ir qadamlar bilan lapanglab kelardi.",
+  "monument": "Sayyohlar telefonlari bilan shunchalik band ediki, yodgorlikka qarashmadi ham.",
+  "pavement": "Piyodalar yo'lkasidan yuring va qayerga ketayotganingizga qarang.",
+  "plunge": "SMS yozib ketayotgan bir ayol savdo markazidagi favvoraga yiqilib tushdi.",
+  "police department": "Mahalliy politsiya departamenti yangi qonun ijrosini ta'minlaydi.",
+  "sidewalk": "AQShda \"pavement\" o'rniga \"sidewalk\" deyishadi.",
+  "sinkhole": "U SMS yozib ketayotib yer cho'kib hosil bo'lgan chuqurga tushib ketishiga sal qoldi.",
+  "suit of armour": "Bir videoda SMS yozib ketayotgan odam to'ppa-to'g'ri ritsar sovutiga borib uriladi.",
+  "wander down": "U telefoniga tikilgancha ko'cha bo'ylab bemaqsad ketib borardi."
  }
 });

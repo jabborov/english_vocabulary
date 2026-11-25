@@ -1,4 +1,4 @@
-// Part 1 topic 0477: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0477: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0477', {
  "A1": {
   "armed robbery": "Bu qurolli talonchilik edi.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0477', {
   "espionage": "Kiberjosuslik davlatlarga chet elga birorta ham agent yubormasdan sirlarni o'g'irlash imkonini beradi.",
   "indiscriminately": "Botnetlar beg'araz hujum qilgani uchun uy foydalanuvchilari ham yirik tashkilotlar kabi himoyasizdir.",
   "malicious": "Zararli kod ko'pincha zararsiz ko'rinadigan ilovalar yoki yuklamalar ichiga yashiringan bo'ladi."
+ },
+ "EX": {
+  "armed robbery": "Jinoyatchilar uchun onlayn o'g'irlik qurolli talonchilikka qaraganda kamroq xavfli.",
+  "cash in": "Jinoyatchilar odamlarning xavfsizlik bilan bog'liq qo'rquvlaridan foyda undirishadi.",
+  "cashing": "O'g'irlangan karta ma'lumotlarini naqd pulga aylantirish jinoyatchilarning so'nggi qadamidir.",
+  "commercialise": "Jinoyatchilar xakerlikni tijoratga aylantirish yo'llarini topishdi.",
+  "commercialised": "Kiberjinoyatchilik juda tijoratlashib ketdi.",
+  "computer network": "Botnet — jinoyatchilar boshqaradigan kompyuter tarmog'i.",
+  "espionage": "Botnetlardan o'g'irlik uchungina emas, josuslik uchun ham foydalanish mumkin.",
+  "indiscriminately": "Botnetlar millionlab odamlarga tanlamay, ommaviy spam yuboradi.",
+  "malicious": "Zararli dastur kompyuteringizni egallab olishi mumkin."
  }
 });

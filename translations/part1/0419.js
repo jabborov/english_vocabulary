@@ -1,4 +1,4 @@
-// Part 1 topic 0419: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0419: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0419', {
  "A1": {
   "AB": "Qon guruhim AB.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0419', {
   "reserved": "Uning vazmin, kamgap tabiati ko'pincha sovuqqonlik deb noto'g'ri tushunilardi.",
   "squeamish": "Shaxsiy his-tuyg'ulari qanday bo'lmasin, jarrohlar jirkanchoq bo'lishga haqli emas.",
   "temperament": "Fe'l-atvor qon guruhi bilan emas, balki genlar va muhitning murakkab o'zaro ta'siri bilan shakllanadi."
+ },
+ "EX": {
+  "AB": "AB qon guruhi faqat oz sonli odamlarda bo'ladi.",
+  "blood group": "Eng ko'p uchraydigan qon guruhi O.",
+  "blood type": "Qon guruhingiz qanday?",
+  "classification": "Qonni guruhlarga ajratish 1901-yilda kashf etilgan.",
+  "grouping": "Qon guruhlari bo'yicha tasnif tibbiyotda foydali.",
+  "matchmaking": "Ba'zi tanishtirish xizmatlari qon guruhlaridan foydalanadi.",
+  "popularly": "Keng tarqalgan fikrga ko'ra, A guruhli odamlar ehtiyotkor bo'ladi.",
+  "reserved": "A guruhli odamlar kamgap va o'zini tutib turuvchi bo'ladi deyishadi.",
+  "squeamish": "Men juda ta'sirchanman, televizorda operatsiyalarni ko'ra olmayman.",
+  "temperament": "Uning fe'l-atvori xotirjam."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0258: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0258: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0258', {
  "A1": {
   "Iron Man": "Men Iron Manni yaxshi ko'raman.",
@@ -179,5 +179,35 @@ VOCAB_TR_STORE('1', '0258', {
   "skyscraper": "Osmono'par bino superqahramonlar haqidagi hikoyalarda takrorlanib turadigan obraz bo'lib, qahramon himoya qiladigan zamonaviy shaharni ramziy ifodalaydi.",
   "superpower": "Superqudratning jozibasi qisman kundalik cheklovlarimizdan qutulish haqidagi xayolda yotadi.",
   "unclear": "Superqahramonlar haqidagi filmlar avji cheksiz davom eta oladimi, hali noaniq."
+ },
+ "EX": {
+  "Iron Man": "Temir odamning tabiiy g'ayritabiiy kuchlari yo'q; u texnologiyadan foydalanadi.",
+  "Marvel": "Marvel O'rgimchak-odam kabi ko'plab mashhur superqahramonlarni yaratgan.",
+  "Ms": "Ms Marvel – musulmon o'smir qiz bo'lgan superqahramon.",
+  "Superman": "Supermen ilk bor 1938-yilda paydo bo'lgan.",
+  "autonomous": "Qahramon ayol kuchli va mustaqil; uni qutqarishga hojat yo'q.",
+  "bicker": "Filmdagi superqahramonlar xuddi bir oila kabi o'zaro tortishib turishadi.",
+  "bickering": "Qahramonlar o'rtasidagi tinimsiz janjallar filmni kulgili qiladi.",
+  "blur": "Flesh shunchalik tez yuguradiki, u faqat xira dog' bo'lib ko'rinadi.",
+  "change shape": "Ba'zi superqahramonlar qiyofasini o'zgartira oladi.",
+  "college student": "Ko'plab superqahramonlar yashirincha oddiy kollej talabasi bo'lib yashaydi.",
+  "comic book": "U bolaligidan beri komikslar to'plab keladi.",
+  "diversify": "Komiks nashriyotlari o'z qahramonlarini xilma-xil qilishga harakat qilmoqda.",
+  "do good": "Superqahramonlar o'z kuchlarini ezgu ishlar uchun ishlatishadi.",
+  "ethnic minority": "Endi etnik ozchiliklardan bo'lgan superqahramonlar ko'paydi.",
+  "far and away": "Supermen hech shubhasiz eng mashhur superqahramondir.",
+  "illustrator": "Rassom komiks uchun rasmlarni chizadi.",
+  "imbue": "Yozuvchilar o'z qahramonlariga kuchli qadriyatlar singdirishadi.",
+  "imbued": "Yangi qahramon kuchli adolat tuyg'usi bilan sug'orilgan.",
+  "jump off": "Superqahramonlar binolardan sakrab tushsa ham, hech qayeri jarohatlanmaydi.",
+  "minority": "Ilgari superqahramonlarning faqat ozchiligi ayollar edi.",
+  "publisher": "Marvel eng yirik komiks nashriyotlaridan biridir.",
+  "publishing house": "U Nyu-Yorkdagi yirik nashriyotda ishlaydi.",
+  "racial discrimination": "Ba'zi superqahramon hikoyalari irqiy kamsitish mavzusiga bag'ishlangan.",
+  "readership": "Endi komikslarning o'quvchilari ancha xilma-xil.",
+  "reed": "Daryo qirg'og'i bo'ylab qamishlar o'sadi.",
+  "skyscraper": "Supermen osmono'par bino ustidan uchib o'ta oladi.",
+  "superpower": "Agar istalgan g'ayritabiiy qobiliyatga ega bo'la olsangiz, u qanday bo'lardi?",
+  "unclear": "Eng birinchi superqahramonni kim yaratgani noma'lum."
  }
 });

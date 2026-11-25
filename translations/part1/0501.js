@@ -1,4 +1,4 @@
-// Part 1 topic 0501: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0501: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0501', {
  "A1": {
   "battle out": "Ular oxirigacha kurashishadi.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0501', {
   "sports fan": "Ko'plab sport muxlislari uchun musobaqaning jozibasi uning adolatliligida.",
   "steroid": "Sportchi anabolik steroidlar bo'yicha testi ijobiy chiqqanidan so'ng unvonidan mahrum qilindi.",
   "supervision": "Tanqidchilar har qanday darajadagi nazorat ham bu moddalarni xavfsiz qila olishiga shubha qiladi."
+ },
+ "EX": {
+  "battle out": "Eng yaxshi sportchilar oltin medal uchun bellashadi.",
+  "bus fare": "Uning hatto avtobusga chipta olishga ham puli yo'q edi.",
+  "consecutively": "U poygada ketma-ket uch marta g'olib chiqdi.",
+  "divisive": "\"Enhanced Games\" jamiyatni ikkiga bo'lgan g'oyadir.",
+  "dope": "Velosipedchi poygadan oldin doping qo'llaganlikda ayblandi.",
+  "growth hormone": "O'sish gormoni sportda taqiqlangan moddalardan biridir.",
+  "normalise": "Tanqidchilarning aytishicha, bu tadbir sportda dori qo'llashni odatiy holga aylantiradi.",
+  "sports editor": "Sport muharriri tadbirni tanqid qiluvchi maqola yozdi.",
+  "sports fan": "Ko'plab sport muxlislari \"Enhanced Games\"ni yomon g'oya deb hisoblaydi.",
+  "steroid": "Ba'zi sportchilar mushak o'stirish uchun noqonuniy ravishda steroidlardan foydalanadi.",
+  "supervision": "Sportchilar dorilarni tibbiy nazorat ostida qabul qilishadi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 2 topic 0056: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0056: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0056', {
  "A1": {
   "DJ": "U DJ.",
@@ -221,5 +221,42 @@ VOCAB_TR_STORE('2', '0056', {
   "tricky": "Har qanday va'daning eng qiyin jihati ilk ishtiyoq so'ngach ham g'ayratni saqlab qolishdir.",
   "turn over": "Hayotni yangi sahifadan boshlash istagi taqvimning o'zi toza varaq taklif qilayotgandek tuyulganda eng kuchli bo'ladi.",
   "up to": "Hisob-kitoblarga ko'ra, va'dalarning beshdan to'rt qismigachasi bahorgacha jimgina tark etiladi."
+ },
+ "EX": {
+  "DJ": "Radio boshlovchisi tinglovchilarga o'z ahdlari haqida gapirib berdi.",
+  "and how": "\"Shokoladdan voz kechish qiyin bo'ldimi?\" \"Hali qanaqa!\"",
+  "bring in": "Millionlab odamlar Yangi yilni kutib olish uchun kechgacha uxlamadi.",
+  "campaign": "Chekishga qarshi kampaniya yanvarda boshlanadi.",
+  "dear": "Voy, men allaqachon ahdimni buzib qo'ydim!",
+  "decade": "U o'n yildan beri bir xil ahd qilib keladi.",
+  "eventually": "Oxir-oqibat u chekishni tashlashga muvaffaq bo'ldi.",
+  "fatten": "Rojdestvo taomlari hammamizni semirtirib yuboradi.",
+  "finance": "Bu yil moliyaviy ahvolimni diqqat bilan kuzatib bormoqchiman.",
+  "first of all": "Avvalo, nimani chindan o'zgartirmoqchi ekaningizni hal qiling.",
+  "for the first time": "Bu yil birinchi marta marafon yugurdim.",
+  "give up": "U nihoyat o'tgan yili chekishni tashladi.",
+  "go in": "Agar ishga real reja bilan kirishsangiz, muvaffaqiyat qozonish ehtimolingiz yuqoriroq.",
+  "healthily": "Bu yil sog'lomroq ovqatlanmoqchiman.",
+  "hope": "Umid qilamanki, bu yil ahdimga amal qila olaman.",
+  "impressive": "Shuncha vazn yo'qotish haqiqatan ham hayratlanarli.",
+  "keep on": "Urinishda davom etsangiz, muvaffaqiyatga erishasiz.",
+  "kick in": "Bir necha haftadan so'ng jismoniy mashqlarning foydasi seziladi.",
+  "launch": "Hukumat odamlarga chekishni tashlashda yordam berish uchun kampaniya boshladi.",
+  "lose weight": "Ozish eng mashhur Yangi yil ahdlaridan biridir.",
+  "marathon": "U birinchi marafonini yugurish uchun oylab mashq qildi.",
+  "overindulge": "Ko'pchiligimiz Rojdestvo paytida haddan tashqari ko'p yeb-ichamiz.",
+  "persist": "Agar qat'iyat bilan davom etsangiz, natijani ko'rasiz.",
+  "quite a": "Marafon yugurish – bu katta yutuq.",
+  "resolution": "Yangi yildagi ahdim – ko'proq jismoniy mashq qilish.",
+  "sign up": "Sport zallari yanvarda a'zo bo'lgan odamlarga to'la bo'ladi.",
+  "smoker": "Ko'plab chekuvchilar yanvarda chekishni tashlashga harakat qilishadi.",
+  "sort out": "Mening ahdim – moliyaviy ishlarimni tartibga solish.",
+  "stick": "Agar bo'sh kelmasangiz, yugurish osonlashadi.",
+  "stick to": "Faqat ozchilik odamlar butun yil davomida ahdlariga sodiq qolishadi.",
+  "suppose": "O'ylaymanki, siz allaqachon ahdlaringizni qilib bo'lgansiz.",
+  "take up": "U yugurish bilan shug'ullana boshladi.",
+  "tricky": "Ahdlarga amal qilish qiyin bo'lishi mumkin.",
+  "turn over": "Bu yil men hayotimni yangidan boshlab, zararli ovqat yeyishni to'xtataman.",
+  "up to": "Ahdlarning 80 foizgachasi fevralga kelib barbod bo'ladi."
  }
 });

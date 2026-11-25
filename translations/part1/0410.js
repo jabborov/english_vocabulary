@@ -1,4 +1,4 @@
-// Part 1 topic 0410: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0410: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0410', {
  "A1": {
   "glum": "U ma'yus ko'rinadi.",
@@ -47,5 +47,13 @@ VOCAB_TR_STORE('1', '0410', {
   "materialistic": "Moddiyatparast dunyoqarash odamlarni ko'proq narsaga intilishning cheksiz aylanasiga tushirib qo'yadi.",
   "rewarding": "Eng ko'p mamnuniyat bag'ishlaydigan tajribalar ko'pincha qiyinchilik, mehnat va boshqa odamlar bilan bog'liq bo'ladi.",
   "wiser": "Donoroq bo'lish ko'pincha baxt narsalardan emas, balki ichimizdan kelishini anglashni anglatadi."
+ },
+ "EX": {
+  "glum": "Nega bunchalik ma'yus ko'rinyapsan?",
+  "happiest": "Daniyani ko'pincha dunyodagi eng baxtli mamlakatlardan biri deb atashadi.",
+  "hectic": "Zamonaviy hayot juda serg'alva bo'lishi mumkin.",
+  "materialistic": "Moddiyatparast odamlar har doim ham baxtliroq bo'lavermaydi.",
+  "rewarding": "Boshqalarga yordam berish odamga katta qoniqish bag'ishlaydi.",
+  "wiser": "Odamlar yoshi ulg'aygan sari ko'pincha donoroq va baxtliroq bo'lishadi."
  }
 });

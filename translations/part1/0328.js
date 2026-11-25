@@ -1,4 +1,4 @@
-// Part 1 topic 0328: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0328: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0328', {
  "A1": {
   "aroma": "Men bu xushbo'y hidni yaxshi ko'raman.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0328', {
   "waffle": "Boshlovchi uchinchi finjon qahvasini ayblab, mavzudan chetga chiqib ezmalik qilgani uchun uzr so'radi.",
   "withdrawal": "Ko'pchilik qanchalik qaram ekanini faqat birinchi marta abstinensiyani boshdan kechirganida anglaydi.",
   "withdrawal symptom": "Abstinensiya alomatlarining mavjudligi olimlar kofeinni yengil qaramlik keltiruvchi modda deb ta'riflashining sabablaridan biridir."
+ },
+ "EX": {
+  "aroma": "Ertalab yangi damlangan qahvaning xushbo'y hidini yaxshi ko'raman.",
+  "awake": "Ko'p odamlar uyg'oq turish uchun qahva ichishadi.",
+  "chewing gum": "Hatto tarkibida kofein bor saqich ham sotib olishingiz mumkin.",
+  "espresso": "Menga ikki hissalik espresso bering, iltimos.",
+  "gum": "U uyg'oq turish uchun saqich chaynaydi.",
+  "indigestion": "Och qoringa qahva ichish hazm buzilishiga olib kelishi mumkin.",
+  "insomnia": "Qahvani ko'p ichish uyqusizlikka sabab bo'lishi mumkin.",
+  "lethargic": "Ertalabki qahvasiz u o'zini lanj his qiladi.",
+  "psychoactive": "Kofein psixofaol ta'sirga ega.",
+  "psychoactive drug": "Kofein dunyoda eng keng qo'llaniladigan psixofaol moddadir.",
+  "stimulant": "Kofein qo'zg'atuvchi moddadir.",
+  "waffle": "Qahvani ko'p ichsam, bema'ni gaplarni ezmalanib gapiraveraman.",
+  "withdrawal": "Kofeindan voz kechish bosh og'rig'i va charchoqqa sabab bo'lishi mumkin.",
+  "withdrawal symptom": "Bosh og'rig'i keng tarqalgan abstinensiya belgisidir."
  }
 });

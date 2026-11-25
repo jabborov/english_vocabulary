@@ -1,4 +1,4 @@
-// Part 1 topic 0490: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0490: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0490', {
  "A1": {
   "Egypt": "Misrda havo issiq.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0490', {
   "philanthropist": "Xayriyachi o'z ehsonlarining anonim qolishini talab qildi.",
   "philanthropy": "Zamonaviy filantropiya ko'pincha shunchaki sadaqa berishdan ko'ra muammolarni hal qilishni maqsad qiladi.",
   "wealthy man": "Boy odam vafotidan oldin boyligining katta qismini xayriyaga berishga qaror qildi."
+ },
+ "EX": {
+  "Egypt": "Pul Misrda maktablar qurishga sarflandi.",
+  "eagerness": "Uning yordam berishga bo'lgan ishtiyoqi hammaga ayon edi.",
+  "generosity": "Odamlar uning saxovatiga qoyil qolishdi.",
+  "philanthropic": "U o'zining xayriya faoliyati bilan tanilgan.",
+  "philanthropist": "Xayriyachi kasalliklarga qarshi kurashish uchun millionlab mablag' ajratdi.",
+  "philanthropy": "Ko'plab milliarderlar pullarini xayriyaga sarflashadi.",
+  "wealthy man": "Boy odam boyligining yarmini xayriyaga berdi."
  }
 });

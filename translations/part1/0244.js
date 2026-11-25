@@ -1,4 +1,4 @@
-// Part 1 topic 0244: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0244: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0244', {
  "A1": {
   "acid": "Limonda kislota bor.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0244', {
   "varied": "Ratsioningiz qanchalik xilma-xil bo'lsa, ichak mikrobiomangiz ham shunchalik turli-tuman bo'lishi ehtimoli bor.",
   "wash one's hands": "Qo'llaringizni doimo barcha bakteriyalardan yuvib turish unchalik to'g'ri bo'lmasligi mumkin, chunki ko'p mikroblar foydalidir.",
   "yeast": "Xamirturush va bakteriyalar dunyodagi achitilgan ovqatlarning aksariyati ortidagi mikroskopik ishchilardir."
+ },
+ "EX": {
+  "acid": "Omega-3 yog' kislotalari yog'li baliqlarda uchraydi.",
+  "alcoholic": "Kombucha achitilgan, lekin unda spirt juda oz miqdorda bo'ladi.",
+  "alcoholic drink": "Juda ko'p spirtli ichimliklar kayfiyatingizni yomonlashtirishi mumkin.",
+  "bacterial": "Achitilgan oziq-ovqatlar ichakdagi bakteriyalar muvozanatini o'zgartiradi.",
+  "bravery": "Bir tadqiqotda ichak bakteriyalari sichqonlarning jasoratiga ta'sir qilgandek bo'ldi.",
+  "bun": "Shirin bulochka sizga energiya beradi, lekin keyin holsizlanib qolasiz.",
+  "counting": "Kaloriyalarni hisoblash to'g'ri ovqatlanishning yagona usuli emas.",
+  "fatty": "Skumbriya kabi yog'li baliqlarda omega-3 bor.",
+  "ferment": "Karam achitilib, tuzlangan karam tayyorlanadi.",
+  "get moving": "Kayfiyatingiz tushkun bo'lganda jismoniy mashqlar va to'g'ri ovqatlanish sizni harakatga keltirishi mumkin.",
+  "miso": "Miso sho'rvasi — Yaponiyaning achitilgan taomi.",
+  "omega": "Losos omega-3 ga boy.",
+  "sauerkraut": "Tuzlangan karam foydali bakteriyalarga boy.",
+  "varied": "Xilma-xil ovqatlanish ichagingiz va kayfiyatingiz uchun foydali.",
+  "wash one's hands": "Ovqat tayyorlashdan oldin doim qo'lingizni yuving.",
+  "yeast": "Xamirturush non va pivo tayyorlash uchun ishlatiladi."
  }
 });

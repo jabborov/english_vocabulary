@@ -1,4 +1,4 @@
-// Part 1 topic 0302: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0302: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0302', {
  "A1": {
   "Asch": "Asch psixolog bo'lgan.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0302', {
   "tear apart": "Yaxshi rahbar kelishmovchiliklarni tashkilotni parchalab tashlashiga yo'l qo'ymasdan hal qila oladi.",
   "weaver": "Andersen ertagida to'quvchilar hammaning ahmoq ko'rinib qolish qo'rquvidan foydalanadilar.",
   "will": "Tajriba shaxsiy iroda bir ovozli guruhning jim bosimiga bardosh bera oladimi-yo'qmi, shuni sinab ko'rdi."
+ },
+ "EX": {
+  "Asch": "Ash tajribasida odamlar qaysi chiziq boshqasi bilan bir xil uzunlikda ekanini aytishlari kerak edi.",
+  "business school": "Endi biznes maktablari talabalarga guruhiy fikrlashdan qanday qochishni o'rgatadi.",
+  "conformist": "Ko'pchiligimiz o'zimiz ishonishni istaganimizdan ko'ra ko'proq konformistmiz.",
+  "conformity": "Tajribalar ijtimoiy konformizm qanchalik kuchli bo'lishi mumkinligini ko'rsatdi.",
+  "contrary": "Siz o'ylagandan farqli o'laroq, ko'pchilik odamlar guruhga ergashadi.",
+  "cry out": "Nihoyat bir bola: \"Axir uning ustida hech narsa yo'q-ku!\" deb qichqirib yubordi.",
+  "decaffeinate": "Qahva donalaridan kofeinni chiqarib tashlash uchun suvdan foydalanish mumkin.",
+  "decaffeinated coffee": "Uxlay olishim uchun kechqurun kofeinsiz qahva ichaman.",
+  "emperor": "Ertakda imperator shahar bo'ylab yalang'och yurib o'tadi.",
+  "go along": "Guruh aniq xato qilayotgan bo'lsa ham, ko'pchilik unga qo'shilib ketdi.",
+  "groupthink": "Guruhiy fikrlash kompaniyalarni dahshatli qarorlar qabul qilishga olib kelishi mumkin.",
+  "incompetent": "Odamlar ahmoq yoki layoqatsiz ko'rinishni istamagani uchun matoni ko'rayotgandek o'zlarini ko'rsatishdi.",
+  "momentum": "Guruhda biror g'oya tezlik olgach, uni to'xtatish qiyin.",
+  "neither": "Ikkalamiz ham kofeinsiz qahvani yoqtirmaymiz.",
+  "nonconformist": "U doim qoidalarga shubha bilan qaraydigan nokonformist edi.",
+  "nonconformity": "Ko'pchilikka ergashmaslik noqulay bo'lishi mumkin, lekin ko'pincha qimmatlidir.",
+  "normality": "Odamlar guruhning odatiylik haqidagi tasavvuri doirasida qolganda o'zlarini xavfsizroq his qilishadi.",
+  "plainly": "Javob yaqqol noto'g'ri edi, lekin ko'pchilik u bilan rozi bo'ldi.",
+  "pressurize": "Hech kim ularga bosim o'tkazmadi, shunday bo'lsa-da, ular guruh bilan rozi bo'lishdi.",
+  "suit of clothes": "To'quvchilar imperatorga ajoyib sarpo va'da qilishdi.",
+  "tear apart": "Kelishmovchiliklar jamoani parchalab tashlashi mumkin, shuning uchun odamlar ulardan qochishadi.",
+  "weaver": "Ertakda ikki to'quvchi imperatorni aldaydi.",
+  "will": "Xonadagi hammaga qarshi chiqish uchun kuchli iroda kerak."
  }
 });

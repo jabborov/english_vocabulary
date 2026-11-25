@@ -1,4 +1,4 @@
-// Part 1 topic 0120: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0120: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0120', {
  "A1": {
   "America": "Men Amerikaga borishni xohlayman.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('1', '0120', {
   "stepping stone": "Etnik anklavlar ko'pincha yangi kelganlarga boshqa joyga ko'chishdan oldin moslashishga yordam beruvchi pog'ona vazifasini o'taydi.",
   "turn of the century": "Asrlar bo'sag'asidagi immigratsiya Amerika shaharlari madaniyatini qayta shakllantirdi.",
   "view as": "Kichik Italiyaning haqiqiy yoki ko'ngilochar park deb qaralishi kimdan so'rashingizga bog'liq."
+ },
+ "EX": {
+  "America": "Ko'plab italyanlar yaxshiroq hayot uchun Amerikaga ko'chib ketishgan.",
+  "East Side": "Ko'plab muhojirlar Quyi Ist-Sayd mavzesida yashagan.",
+  "Hugo": "Hyugo oilasining tarixi haqida gapirib berdi.",
+  "Veronica": "Veronika Kichik Italiyada o'sib-ulg'aygan.",
+  "ciao": "Do'kon egasi har bir xaridorga \"chao\" deydi.",
+  "fifth": "U oilasida do'konni boshqarayotgan beshinchi avlod vakili.",
+  "freshly": "Do'konda yangi tayyorlangan pishloq sotiladi.",
+  "garlic bread": "Makaronimiz bilan birga sarimsoqli non buyurtma qildik.",
+  "grandfather": "Bobom Italiyadan kelgan.",
+  "grandmother": "Menga ovqat pishirishni buvim o'rgatgan.",
+  "grandson": "Endi do'konni uning nevarasi boshqaradi.",
+  "immigrate": "Uning oilasi Italiyadan AQShga ko'chib kelgan.",
+  "lasagne": "Buvim eng mazali lazanyani tayyorlaydi.",
+  "meatball": "Restoran qiyma sharchalari bilan mashhur.",
+  "mozzarella": "Kichik Italiyadagi do'kon har kuni yangi motsarella tayyorlaydi.",
+  "neighbourhood": "Kichik Italiya — Nyu-Yorkdagi mahalla.",
+  "newcomer": "Kichik Italiya yangi kelganlarga o'zlarini uydagidek his qilishga yordam bergan.",
+  "open shop": "Uning katta bobosi bu yerda 1892-yilda do'kon ochgan.",
+  "pizzeria": "Amerikadagi birinchi pitseriya Kichik Italiyada ochilgan.",
+  "ricotta": "Ular do'konda tayyorlangan rikotta ham sotishadi.",
+  "spaghetti": "Spagetti — makaronning bir turi.",
+  "spaghetti and meatballs": "Qiyma sharchali spagetti — italyan-amerika taomi.",
+  "stepping": "Mahalla ko'pchilik uchun ilk qadam qo'yiladigan joy bo'lgan.",
+  "stepping stone": "Kichik Italiya yangi muhojirlar uchun bir pog'ona vazifasini o'tagan.",
+  "turn of the century": "Asrlar almashinuvida ko'plab italyanlar Nyu-Yorkka kelgan.",
+  "view as": "Ba'zi odamlar Kichik Italiyani sayyohlik maskani deb bilishadi."
  }
 });

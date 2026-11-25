@@ -1,4 +1,4 @@
-// Part 1 topic 0111: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0111: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0111', {
  "A1": {
   "Oxford": "Oksford Angliyada joylashgan.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0111', {
   "outgoing": "Kirishimli bo'lish odamlar bilan tanishishga yordam beradi, ammo chuqur do'stlik jozibadan ko'ra qat'iyatga ko'proq bog'liq.",
   "reassure": "Xavotirdagi yangi kelgan odamni guruhda unga jimgina joy ochib beradigan do'stdan ko'ra kam narsa ko'proq tinchlantiradi.",
   "sword": "Erkaklarning chidamlilik ideallari ikki tig'li qilichdir: jamiyatda qadrlanadi, lekin samimiy do'stlikni yemiradi."
+ },
+ "EX": {
+  "Oxford": "Oksforddagi tadqiqotchilar erkaklar do'stligini qanday saqlab qolishini o'rganishgan.",
+  "best man": "U xavotirda edi, chunki to'yida kuyov jo'rasi bo'lishini so'raydigan yaqin do'sti yo'q edi.",
+  "core": "Ko'pchilik erkaklarning ikki-uchta yaqin do'stdan iborat kichik asosiy davrasi bo'ladi.",
+  "drift away": "Ko'p erkaklar oila qurganidan keyin maktabdosh do'stlaridan asta-sekin uzoqlashib ketadi.",
+  "edged": "Ijtimoiy tarmoqlar yolg'iz erkaklar uchun ikki tomonlama qilichdir.",
+  "favourable": "Umumiy qiziqishlar erkaklar do'stligi uchun qulay sharoit yaratadi.",
+  "generous": "Do'stlaringizni saqlab qolmoqchi bo'lsangiz, ularga vaqtingizni ayamang.",
+  "loneliness": "O'rta yoshdagi erkaklar orasida yolg'izlik tobora kuchayib borayotgan muammodir.",
+  "outgo": "Kirishimli odam ko'pincha yangi do'stlar bilan oson tanishadi; \"outgo\" so'zi esa alohida holda sarflangan pulni bildiradi.",
+  "outgoing": "Kirishimli erkaklar odatda yangi do'stlar orttirishni osonroq deb bilishadi.",
+  "reassure": "U do'stini ko'chib kelgandan keyin o'zini yolg'iz his qilish odatiy hol ekaniga ishontirib, tinchlantirdi.",
+  "sword": "Uydan ishlash do'stlik uchun ikki tomonlama qilich bo'lishi mumkin."
  }
 });

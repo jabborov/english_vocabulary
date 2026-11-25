@@ -1,4 +1,4 @@
-// Part 1 topic 0208: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0208: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0208', {
  "A1": {
   "brisk": "Biz tetik qadamlar bilan sayr qildik.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0208', {
   "taxi": "Qisqa taksi safarlarini tez yurish bilan almashtirish kunlik faollikni oshirishning oson usulidir.",
   "vigorous": "Kundalik tartibga kiritilgan qisqa muddatli jadal faollik ham o'lim xavfini kamaytirishi mumkin.",
   "vigorously": "Hatto qisqa muddatlarda bo'lsa ham jadal mashq qilish sog'liq uchun nomutanosib darajada katta foyda keltirar ekan."
+ },
+ "EX": {
+  "brisk": "Har kuni tetik qadam bilan yurish yuragingiz uchun foydali.",
+  "buggy": "Bolalar aravachasini tepalikka itarib chiqish yaxshi mashqdir.",
+  "en route": "Ishga yo'lning bir qismini piyoda bosib o'taman va yo'l-yo'lakay mashq qilaman.",
+  "enthusiast": "U har kuni sport zaliga boradigan fitnes ishqibozi.",
+  "incremental": "Kundalik tartibingizga bosqichma-bosqich o'zgarishlar kiriting.",
+  "jogging": "Yugurish sog'lomlikni saqlashning yaxshi usuli.",
+  "lower": "Muntazam jismoniy mashqlar qon bosimini pasaytirishi mumkin.",
+  "magic number": "Kuniga 10 000 qadam haqiqatan ham sehrli raqammi?",
+  "saunter": "Biz quyosh nurida daryo bo'ylab bemalol sayr qildik.",
+  "saunter over": "U salomlashish uchun bemalol yonimizga kelib qoldi.",
+  "step out": "Tushlik paytida qisqa sayr uchun tashqariga chiqing.",
+  "taxi": "Taksiga o'tirish o'rniga piyoda yurib ko'ring.",
+  "vigorous": "Yugurish — jismoniy mashqning jadal turi.",
+  "vigorously": "Haftasiga kamida 75 daqiqa jadal mashq qilishingiz kerak."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0401: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0401: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0401', {
  "A1": {
   "bid": "Bu yordam berishga urinish edi.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0401', {
   "stub": "Tashlab ketilgan sigaret qoldiqlari nafaqat xunuk ko'rinadi, balki tuproqqa zaharli kimyoviy moddalar ham chiqaradi.",
   "stub out": "Taqiq kuchga kirgan paytda ko'plab chekuvchilar so'nggi sigaretlarini yo'lakka bosib o'chirayotgani ko'rildi.",
   "town hall": "Shahar hokimiyati binolarida chekishni taqiqlash amaldorlar ham qonunga bo'ysunishi kerakligi haqida aniq signal berdi."
+ },
+ "EX": {
+  "bid": "Taqiq chekishni kamaytirishga qaratilgan urinishning bir qismidir.",
+  "chimney": "Amakim mo'ridek tutatadi — kuniga qirqta sigaret chekadi.",
+  "cigarette": "U bekat tashqarisida sigaret tutatdi.",
+  "cornerstone": "Chekishni taqiqlash hukumatning sog'liqni saqlash rejasining asosiy toshidir.",
+  "extend to": "Keyinchalik taqiq kafe va restoranlarga ham tatbiq etiladi.",
+  "extinguish": "Iltimos, kirishdan oldin barcha sigaretlarni o'chiring.",
+  "half dollar": "U yerda bir quti sigaret yarim dollardan sal qimmatroq turardi.",
+  "hard surface": "U sigaretni o'chirish uchun uni qattiq sirtga bosdi.",
+  "kiosk": "U bekat yaqinidagi kioskdan sigaret sotib oldi.",
+  "lit": "Binoga yonib turgan sigaret bilan kira olmaysiz.",
+  "parliament": "Rossiya parlamenti chekishni taqiqlash uchun ovoz berdi.",
+  "puff": "U sigaretini bir tortdi.",
+  "push on": "Hukumat noroziliklarga qaramay o'z rejalarini davom ettirmoqda.",
+  "railway station": "Endi har bir temir yo'l vokzalida chekish taqiqlangan.",
+  "smoker": "Ko'plab chekuvchilar yangi qonundan norozi.",
+  "stub": "Yer sigaret qoldiqlari bilan qoplangan edi.",
+  "stub out": "U binoga kirishdan oldin sigaretini ezib o'chirdi.",
+  "town hall": "Yangi qoidalar shahar hokimiyatiga ham taalluqli."
  }
 });

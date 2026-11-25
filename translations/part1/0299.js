@@ -1,4 +1,4 @@
-// Part 1 topic 0299: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0299: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0299', {
  "A1": {
   "beetroot": "Lavlagi qizil rangda.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0299', {
   "turmeric": "Zarchava jigarni alkogoldan himoya qiladi, degan da'volar dalillar bilan kuchli tasdiqlanmagan.",
   "watching": "Nima ichayotganingizni kuzatish nima yeyayotganingizni kuzatish kabi muhimdir.",
   "wedding party": "To'y ziyofati kabi ijtimoiy tadbirlar spirtli ichimliklar bo'yicha tavsiyalarga amal qilishni qiyinlashtiradi."
+ },
+ "EX": {
+  "beetroot": "Ba'zi odamlar spirtli ichimlik o'rniga lavlagi sharbatini ichishadi.",
+  "breast cancer": "Spirtli ichimlik ichish ko'krak saratoni xavfini oshiradi.",
+  "criticize": "Ba'zi shifokorlar spirtli ichimliklar sanoatini chalg'ituvchi reklama uchun tanqid qilishadi.",
+  "guideline": "Buyuk Britaniya tavsiyalariga ko'ra, kattalar haftasiga 14 birlikdan ko'p spirtli ichimlik ichmasligi kerak.",
+  "hair of the dog": "Ba'zilar xumorni yana ichib bosishga urinadi, lekin bu faqat xumorni kechiktiradi.",
+  "hangover": "U qattiq xumor bilan uyg'ondi.",
+  "hydrated": "Organizmda suv yetarli bo'lishi uchun spirtli ichimliklar orasida suv iching.",
+  "marvellous": "Bir qadah qizil vino ba'zilar o'ylaganidek ajoyib shifobaxsh ichimlik emas.",
+  "purification": "Jigar organizmni tozalovchi asosiy a'zodir.",
+  "smoothy": "U xumordan qutulish vositasi o'rniga mevali smuzi tayyorladi.",
+  "swiftly": "Spirt qonga tezda so'riladi.",
+  "tipple": "Uning sevimli ichimligi – bir qadah viski.",
+  "turmeric": "Ba'zilar zarchava jigarning tiklanishiga yordam beradi deb ishonishadi.",
+  "watching": "Agar vazningizni kuzatib borayotgan bo'lsangiz, spirtli ichimliklarda kaloriya ko'pligini yodda tuting.",
+  "wedding party": "Amakivachchamning to'yida juda ko'p ichib qo'ydim."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0089: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0089: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0089', {
  "A1": {
   "Othello": "\"Otello\" pyesadir.",
@@ -185,5 +185,36 @@ VOCAB_TR_STORE('1', '0089', {
   "playfully": "O'yinqaroqlik bilan ifodalangan rashk mehrdan dalolat beradi; ayblov ohangida ifodalangani esa ishonchsizlikdan.",
   "significant other": "Ataylab neytral bo'lgan \"significant other\" iborasi jins yoki oilaviy holat haqida taxminlardan qochadi.",
   "ugly": "Rashk inson tabiatining biz yashirishni afzal ko'radigan xunukroq tomonlarini fosh qilish xususiyatiga ega."
+ },
+ "EX": {
+  "Othello": "\"Otello\"da Shekspir rashkni \"yashil ko'zli maxluq\" deb ataydi.",
+  "achievement": "Do'stimning yutuqlariga hasad qildim.",
+  "behaving": "Rashk sizni yomon xatti-harakat qila boshlashga undashi mumkin.",
+  "behavioural": "Xulq-atvor terapiyasi odamlarga rashkni nazorat qilishga yordam berishi mumkin.",
+  "best friend": "Eng yaqin do'stim yangi do'st orttirganda, unga rashk qildim.",
+  "compulsive": "Sherigining telefonini o'zini tutolmay qayta-qayta tekshirish haddan tashqari rashk belgisidir.",
+  "envious": "Do'stimning yangi ishiga havasim keladi.",
+  "eyed": "Rashkni ba'zan \"yashil ko'zli maxluq\" deb atashadi.",
+  "flirt": "Ba'zi odamlar shunchaki ermak uchun noz-karashma qiladi.",
+  "flirt with": "Qiz uning do'sti bilan noz-karashma qilganda, u rashk qildi.",
+  "flirting": "Ba'zi juftliklar biroz noz-karashmaga qarshi emas.",
+  "harmonise": "Juftliklar bir-biridan kutayotgan narsalarini muvofiqlashtirishlari kerak.",
+  "horrid": "Rashk — juda yoqimsiz tuyg'u.",
+  "husband": "Uning eri xotinining yangi dugonasidan rashk qila boshladi.",
+  "jealous": "Qiz do'sti boshqa erkaklar bilan gaplashsa, u rashk qiladi.",
+  "jealousy": "Rashk munosabatlarni buzib yuborishi mumkin.",
+  "kill oneself": "Pyesa oxirida Otello o'zini o'ldiradi.",
+  "loved": "Har kim o'zini sevilgan deb his qilishni xohlaydi.",
+  "loved one": "Yaqin insonimizni yo'qotishdan qo'rqqanimizda rashk qilamiz.",
+  "meanwhile": "Bu orada uning yigiti tobora ko'proq rashk qila boshladi.",
+  "monitoring": "Sherikni doimiy kuzatib turish nosog'lom rashk belgisidir.",
+  "motive": "Romanlarda rashk qotillikning keng tarqalgan sababidir.",
+  "murder": "\"Otello\"da rashk qotillikka olib keladi.",
+  "obsessive": "Uning rashki xastalik darajasidagi o'jarlikka aylandi.",
+  "pill": "Rashkning ba'zi o'ta kuchli shakllarini dori-darmonlar bilan davolash mumkin.",
+  "playful": "Bu shunchaki hazilomuz gap edi, lekin u rashk qildi.",
+  "playfully": "Qiz unga hazillashib, rashk qilmasligini aytdi.",
+  "significant other": "Yoringiz kimdir jozibali odam bilan gaplashsa, rashk qilasizmi?",
+  "ugly": "Rashk odamlarni xunuk xatti-harakatlar qilishga undashi mumkin."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0163: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0163: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0163', {
  "A1": {
   "adage": "Bu qadimiy maqol.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0163', {
   "storage": "Nevrologlar uyqu xotiralarni vaqtinchalik saqlashdan doimiy saqlashga o'tkazishni boshqaradi, deb hisoblaydi.",
   "vulnerable": "Surunkali uyqusizlik organizmni turli jismoniy va ruhiy kasalliklarga nisbatan zaif qilib qo'yadi.",
   "weakened": "Zaiflashgan immun javob surunkali uyqu yetishmovchiligining eng jiddiy oqibatlaridan biridir."
+ },
+ "EX": {
+  "adage": "Qadimgi maqolda aytilganidek, \"Erta yot, erta tur\".",
+  "chronically": "Millionlab odamlar surunkali ravishda uyqu yetishmasligidan aziyat chekadi.",
+  "consolidate": "Uyqu miyaga yangi xotiralarni mustahkamlashga yordam beradi.",
+  "damp": "Choyshablar sovuq va nam edi.",
+  "damp down": "Uyqu yetishmasligi immunitet tizimini susaytirib qo'yishi mumkin.",
+  "deprivation": "Uyqu yetishmasligi sog'lig'ingizga zarar yetkazadigan mahrumlikning bir turidir.",
+  "doze": "Bobom tushlikdan keyin kreslosida mudrashni yaxshi ko'radi.",
+  "dozing": "Dadam televizor oldida mudrab o'tirardi.",
+  "every night": "Kattalarga har kecha yetti soatdan to'qqiz soatgacha uyqu kerak.",
+  "forty winks": "Kechki ovqatdan oldin biroz mizg'ib olaman.",
+  "go to bed": "Har kecha bir xil vaqtda uxlashga yotishga harakat qiling.",
+  "good night": "Yaxshilab bir kecha uxlashdan yaxshiroq narsa yo'q.",
+  "indirectly": "Uyqu yetishmasligi bilvosita vazn ortishiga sabab bo'lishi mumkin.",
+  "knock on": "Yomon uyqu ishingizga ham salbiy ta'sir ko'rsatadi.",
+  "nap": "Kichik bolalarga tushdan keyin biroz uxlab olish kerak.",
+  "refresh": "Yaxshilab bir kecha uxlash sizni tetiklashtiradi.",
+  "shut": "Men biroz ko'z yumib olishim kerak.",
+  "sleep deprivation": "Uyqusizlik xotirangiz va kayfiyatingizga ta'sir qiladi.",
+  "sleep over": "Qizim dugonasinikida tunab qolishni xohlaydi.",
+  "storage": "Uyqu xotiralarni saqlashda muhim rol o'ynaydi.",
+  "vulnerable": "Charchaganimizda kasalliklarga nisbatan zaifroq bo'lamiz.",
+  "weakened": "Uyqu yetishmasligi immunitet tizimingizni zaiflashtiradi."
  }
 });

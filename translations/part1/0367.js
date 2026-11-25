@@ -1,4 +1,4 @@
-// Part 1 topic 0367: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0367: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0367', {
  "A1": {
   "Bruno": "Bruno mening do'stim.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0367', {
   "radio signal": "Radio signaliga ataylab xalaqit berilishiga qaramay, ko'plab tinglovchilar eshittirishlarni tinglash uchun tavakkal qilgan.",
   "smatter": "Tilni yuzaki o'rganish ma'nosini anglatuvchi \"smatter\" fe'li hozir asosan eskirgan hisoblanadi.",
   "smattering": "U ingliz tilini arzimas darajada, chala-chulpa bilib kelgan edi, ammo bir necha yil ichida erkin gapiradigan bo'ldi."
+ },
+ "EX": {
+  "Bruno": "Bruno ingliz tilini bolaligida radio orqali o'rgana boshlagan.",
+  "bulletin": "Radiostansiya favqulodda xabarni efirga uzatdi.",
+  "celebratory": "Bu bizning 70 yilligimizga bag'ishlangan bayram dasturidir.",
+  "improved": "Yaxshilangan ingliz tili unga yaxshiroq ish topishga yordam berdi.",
+  "liberty": "Urush yillarida radio eshittirishlari ozodlik xabari edi.",
+  "mechanical engineering": "U mashinasozlik bo'yicha tahsil olgan va darsliklari uchun ingliz tili kerak bo'lgan.",
+  "morale": "Eshittirishlar urush paytida odamlarning ruhiyatini tetik saqlashga yordam bergan.",
+  "news bulletin": "Ilk ingliz tili darslari yangiliklar dasturidan keyin efirga uzatilgan.",
+  "radio news": "1940-yillarda ko'p odamlar ingliz tilini radio yangiliklarini tinglab o'rganishgan.",
+  "radio signal": "Radio signali zaif edi, lekin u darslarni baribir eshita olardi.",
+  "smatter": "\"Smatter\" so'zi kam ishlatiladi, lekin \"smattering\" keng tarqalgan.",
+  "smattering": "Kursni boshlashdan oldin u ingliz tilini juda yuzaki bilardi."
  }
 });

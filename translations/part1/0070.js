@@ -1,4 +1,4 @@
-// Part 1 topic 0070: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0070: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0070', {
  "A1": {
   "PTSD": "PTSD ruhiy kasallikdir.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0070', {
   "vehicle": "Transport vositalaridan foydalanishni kamaytirish ham iqlimga, ham shahar aholisining ruhiy salomatligiga foyda keltirishi mumkin.",
   "walking": "Piyoda yurishni rag'batlantirish jismoniy salomatlik, ruhiy salomatlik va iqlim uchun birdek foyda keltiradi.",
   "wildlife": "Yovvoyi tabiatning yo'qolib borishi ko'pchilik uchun qayg'u manbai bo'lib, bu hodisa ba'zan ekologik motam deb ataladi."
+ },
+ "EX": {
+  "PTSD": "Suv toshqinidan jabrlanganlarning ba'zilarida travmadan keyingi stress buzilishi rivojlanadi.",
+  "adverse": "Iqlim o'zgarishi ruhiy salomatlikka salbiy ta'sir ko'rsatadi.",
+  "anxiety": "Iqlim bilan bog'liq xavotir tobora keng tarqalmoqda.",
+  "anxious": "Ko'plab yoshlar iqlim o'zgarishidan xavotirda.",
+  "census": "Aholi ro'yxati ma'lumotlari tadqiqotchilarga ruhiy salomatlikni o'rganishda yordam berishi mumkin.",
+  "creative": "Ba'zi odamlar xavotirni yengish uchun ijodiy mashg'ulotlardan foydalanadi.",
+  "creative thinking": "Iqlim inqirozini hal qilish uchun bizga ijodiy fikrlash kerak.",
+  "disorder": "Ba'zi odamlarda xavotir buzilishi rivojlanadi.",
+  "distress": "Suv toshqinlari mahalliy aholiga katta iztirob keltirdi.",
+  "doom": "Iqlim haqidagi yangiliklar halokat bashoratlariga to'la.",
+  "flooding": "Suv toshqini oilalarni uylarini tark etishga majbur qildi.",
+  "gloom": "Iqlim o'zgarishi haqida tushkunlik va umidsizlik juda ko'p.",
+  "heat wave": "Jazirama issiq ikki hafta davom etdi.",
+  "hurricane": "Dovul ko'plab uylarni vayron qildi.",
+  "in and of itself": "Iqlim haqida qayg'urishning o'zi yomon narsa emas.",
+  "infrastructure": "Shaharlarga suv toshqinlariga qarshi kurashish uchun yaxshiroq infratuzilma kerak.",
+  "live with": "Biz iqlimning ma'lum darajada o'zgarishi bilan yashashni o'rganishimiz kerak.",
+  "mental disorder": "Xavotir ruhiy buzilishga aylanishi mumkin.",
+  "mental illness": "Iqlim o'zgarishi ruhiy kasalliklar holatlarini ko'paytirishi mumkin.",
+  "nervousness": "Bo'ron kelishidan oldin u asabiylashdi.",
+  "per se": "Muammo iqlim o'zgarishining o'zida emas, balki odamlarning unga munosabatida.",
+  "relation": "Olimlar issiqlik va ruhiy salomatlik o'rtasidagi bog'liqlikni o'rganishdi.",
+  "storm": "Bo'ron ko'plab shaharlarda suv toshqiniga sabab bo'ldi.",
+  "suicide": "Tadqiqotlar issiq havoni o'z joniga qasd qilish holatlarining ko'payishi bilan bog'lagan.",
+  "traumatic": "Toshqinda uyingizdan ayrilish og'ir ruhiy jarohat qoldiradigan voqeadir.",
+  "unfortunate": "Eng kambag'al odamlar eng ko'p aziyat chekishi achinarli.",
+  "urban": "Jazirama paytida shahar hududlari juda qizib ketishi mumkin.",
+  "vehicle": "Elektr transport vositalari kamroq ifloslantiradi.",
+  "walking": "Tabiat qo'ynida sayr qilish ruhiy salomatlik uchun foydali.",
+  "wildlife": "Iqlim o'zgarishi yovvoyi tabiatga tahdid soladi."
  }
 });

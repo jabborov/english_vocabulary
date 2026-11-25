@@ -1,4 +1,4 @@
-// Part 1 topic 0394: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0394: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0394', {
  "A1": {
   "abatement": "Bizga shovqinni kamaytirish kerak.",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('1', '0394', {
   "tranquillity": "Osoyishtalik sukunatga tashna bo'lgan, stressdagi shahar aholisiga sotiladigan tovarga aylandi.",
   "tune in": "Sukunatga quloq tutganimizda, ko'pincha allaqachon sezmay qo'ygan tovushlarimizni kashf etamiz.",
   "vow": "Sukut saqlash qasamini ichganlar uchun nutqdan voz kechish mulohaza yo'liga aylanadi."
+ },
+ "EX": {
+  "abatement": "Kengashning shovqinni kamaytirish rejasi bor.",
+  "bounce off": "Tovush baland binolarga urilib qaytadi.",
+  "cacophony": "Shahar avtomobil signallari va sirenalarning quloqni qomatga keltiruvchi g'ovg'asiga to'la.",
+  "calming": "Dengizning shovqini juda tinchlantiradi.",
+  "church bell": "Ba'zi odamlar cherkov qo'ng'iroqlarining shovqinidan shikoyat qilishadi.",
+  "deafen": "Musiqa shunchalik baland ediki, qulog'imizni kar qilib qo'yay dedi.",
+  "deafness": "Haddan tashqari shovqin karlikka olib kelishi mumkin.",
+  "din": "Transport shovqini ostida uning gapini eshita olmadim.",
+  "exposure": "Baland shovqin ta'sirida uzoq qolish eshitish qobiliyatiga zarar yetkazishi mumkin.",
+  "fire engine": "O't o'chirish mashinasi sirenasini chalib, yonimizdan yelib o'tdi.",
+  "heavy metal": "U og'ir metal musiqasini eng baland ovozda tinglashni yaxshi ko'radi.",
+  "jet engine": "Reaktiv dvigatelning ovozi 140 detsibelgacha yetishi mumkin.",
+  "move out": "Ular aeroport shovqini tufayli ko'chib ketishdi.",
+  "muff": "Aeroport xodimlari eshitish qobiliyatini himoya qilish uchun quloqchin taqishadi.",
+  "nightclub": "Tungi klubdagi musiqa nihoyatda baland edi.",
+  "reflect off": "Tovush qattiq devorlardan qaytib, xonani shovqinli qiladi.",
+  "residential": "Bu sokin turar-joy ko'chasi.",
+  "residential area": "Tunda turar-joy hududiga yuk mashinalarining kirishi taqiqlangan.",
+  "side street": "Shovqindan qochish uchun ara ko'chadan yurib ketdik.",
+  "speak for": "Faqat o'zim haqimda gapira olaman, lekin men sukunatni yaxshi ko'raman.",
+  "tinny": "Uning telefonidan chiqayotgan musiqa jaranglab, tunuka ovozdek eshitilardi.",
+  "tranquillity": "Biz qishloqning osoyishtaligidan zavqlandik.",
+  "tune in": "Atrofingizdagi tabiat tovushlariga quloq tuting.",
+  "vow": "Ba'zi rohiblar sukut saqlash qasamini ichishadi."
  }
 });

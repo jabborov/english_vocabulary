@@ -1,4 +1,4 @@
-// Part 2 topic 0024: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0024: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0024', {
  "A1": {
   "aggravation": "Men bosh og'rig'ini xohlamayman.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('2', '0024', {
   "unenthusiastic": "U biror e'tiroz bildirmagan bo'lsa-da, rejani beparvo, ishtiyoqsiz qabul qilgani ko'p narsani anglatardi.",
   "universal welcome": "Tabassum turli madaniyatlarda qanchalik turlicha talqin qilinishini hisobga olsak, u haqiqatan ham umuminsoniy samimiy kutib olish ekani bahsli.",
   "warmth": "Uning ko'zlarida hech qanday mashq qilingan ifoda takrorlay olmaydigan shubhasiz iliqlik bor edi."
+ },
+ "EX": {
+  "aggravation": "Odamlarga jilmayish sizni ko'plab ko'ngilsizliklardan qutqarishi mumkin.",
+  "air hostess": "Styuardessa samolyotga chiqayotgan har bir yo'lovchiga jilmaydi.",
+  "blame": "Shunday uzun kundan keyin jilmaymagani uchun uni ayblay olmaysiz.",
+  "eager": "Yangi ofitsiant hammaga yoqishga intilardi va har bir mijozga jilmayardi.",
+  "enthusiast": "Tabassum ishqibozi sifatida u uchragan har bir kishiga jilmayishga harakat qiladi.",
+  "evidence": "Jilmayish sizni baxtliroq his qildirishi mumkinligiga dalillar bor.",
+  "fake": "Soxta tabassumni odatda ko'zlar harakatlanmasligidan bilib olish mumkin.",
+  "floods": "Xabarni eshitgach, u ko'z yoshlariga g'arq bo'ldi.",
+  "genuine": "Samimiy tabassum ko'zlarda ham aks etadi.",
+  "grin": "U yuzida keng tirjayish bilan kirib keldi.",
+  "hippy era": "Jilmaygan yuz belgisi xippilar davrida ommalashgan.",
+  "insincere": "Uning samimiyatsiz tabassumi menda unga bo'lgan ishonchni kamaytirdi.",
+  "lacking": "Uning tabassumi xushmuomala, ammo iliqlikdan mahrum edi.",
+  "practised": "Sotuvchi bizga mashq qilingan tabassum hadya etdi.",
+  "proof": "Tabassum kimningdir haqiqatan baxtli ekanining isboti bo'la oladimi?",
+  "shy": "U menga uyatchan jilmayib qo'ydi va boshqa tomonga qaradi.",
+  "smiley": "U har doim baxtli ko'rinadigan, juda kulib turadigan odam.",
+  "unenthusiastic": "U sovg'ani ko'rgach, ishtiyoqsiz jilmayib qo'ydi.",
+  "universal welcome": "Tabassum hamma tushunadigan umumbashariy salomlashuvdir.",
+  "warmth": "Uning tabassumi iliqlikka to'la edi."
  }
 });

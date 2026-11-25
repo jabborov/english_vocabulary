@@ -1,4 +1,4 @@
-// Part 1 topic 0505: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0505: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0505', {
  "A1": {
   "MRI": "Menga MRT qilishdi.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0505', {
   "socialism": "Sotsializm va kapitalizm o'rtasidagi bahs XX asr siyosatining katta qismini shakllantirdi.",
   "thickness": "So'nggi bir necha o'n yillikda muz qatlamining qalinligi keskin kamaydi.",
   "unmovable": "Qat'iyatli, o'z so'zidan qaytmaydigan raqibga duch kelgan muzokarachilar ijodiy murosa topishga majbur bo'ldi."
+ },
+ "EX": {
+  "MRI": "Olimlar talabalarning miyasini o'rganish uchun MRTdan foydalanishdi.",
+  "anterior": "Miyaning old qismi peshona tomonda joylashgan.",
+  "capitalism": "Kapitalizmda ko'pchilik korxonalar xususiy shaxslarga tegishli bo'ladi.",
+  "conservatism": "Konservatizm odatda o'ng qanot siyosati bilan bog'lanadi.",
+  "control room": "Olimlar tasvirlarni boshqaruv xonasidan kuzatishdi.",
+  "corpus callosum": "Qadoqsimon tana miyaning chap va o'ng yarimsharlarini bog'laydi.",
+  "grey matter": "Turli qarashlarga ega odamlarda turli sohalarda kulrang modda ko'proq edi.",
+  "imaging": "Miyani tasvirlash usullari ongni o'rganish uslubimizni o'zgartirdi.",
+  "magnetic resonance imaging": "Magnit-rezonans tomografiya shifokorlarga miya ichini ko'rish imkonini beradi.",
+  "nervous system": "Miya asab tizimining eng muhim qismidir.",
+  "postgraduate": "Tadqiqotni universitet magistranti o'tkazgan.",
+  "resonance": "Skaner tasvirlar hosil qilish uchun magnit rezonansidan foydalanadi.",
+  "right wing": "Tadqiqotda siyosatdagi o'ng qanot va chap qanot tarafdorlari taqqoslandi.",
+  "scanner": "Har bir ko'ngilli skaner ichida yarim soat yotdi.",
+  "socialism": "Sotsializm odatda chap qanot siyosati bilan bog'lanadi.",
+  "thickness": "Tadqiqotda miya qismlarining qalinligi o'lchandi.",
+  "unmovable": "Ba'zi odamlarning siyosiy qarashlari qat'iy va o'zgarmasdek tuyuladi."
  }
 });

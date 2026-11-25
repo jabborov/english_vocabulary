@@ -1,4 +1,4 @@
-// Part 1 topic 0186: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0186: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0186', {
  "A1": {
   "act as": "U bizga gid vazifasini bajaradi.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('1', '0186', {
   "whine": "Tadqiqotchi erkaklarni nolish bilan ayblashning o'rniga, ularning alomatlari haqiqatan og'irroq bo'lishi mumkinligini ta'kidladi.",
   "wipe": "U peshonasidagi terni artdi va bu, ehtimol, oddiy shamollashdan jiddiyroq ekanini tan oldi.",
   "wipe out": "Hatto nisbatan yengil virus ham immun tizimi allaqachon zo'riqqan odamni butunlay holdan toydirishi mumkin."
+ },
+ "EX": {
+  "act as": "Gormonlar immun tizimiga tormoz vazifasini o'tashi mumkin.",
+  "assistant professor": "Kanadadagi bir dotsent \"erkaklar grippi\"ni o'rgangan.",
+  "breathing": "Burun bitib qolsa, nafas olish qiyinlashishi mumkin.",
+  "clarify": "\"Erkaklar grippi\" deganda nimani nazarda tutayotganingizni aniqlashtirib bera olasizmi?",
+  "family medicine": "U universitet shifoxonasida oilaviy tibbiyot sohasida ishlaydi.",
+  "fight off": "Tanangiz virusni yengishi uchun dam olishi kerak.",
+  "flu": "U butun haftani gripp bilan to'shakda o'tkazdi.",
+  "have down": "Bu shamollash bu hafta meni rosa ezib qo'ydi.",
+  "immune response": "Ayollarning immun javobi erkaklarnikiga qaraganda kuchliroq bo'lishi mumkin.",
+  "lie down": "Agar o'zingizni yomon his qilsangiz, biroz yotib turing.",
+  "mucus": "Shamollaganingizda burun ko'proq shilimshiq ishlab chiqaradi.",
+  "respiratory": "Shamollash nafas yo'llari infeksiyalaridir.",
+  "respiratory disease": "Gripp keng tarqalgan nafas yo'llari kasalligidir.",
+  "runny": "Tomog'im og'riyapti, burnimdan suv oqyapti.",
+  "secondly": "Birinchidan, erkaklar tez-tez kasal bo'lishadi; ikkinchidan, ular sekinroq tuzalishadi.",
+  "sniff": "Burningni tortishni bas qil, burningni qoqib ol!",
+  "sniffle": "Bu shunchaki biroz tumov, haqiqiy gripp emas.",
+  "sofa": "U kun bo'yi divanda yotib, shamollaganidan nolib chiqdi.",
+  "soldier on": "Ko'pchilik ayollar shamollagan bo'lsa ham bo'sh kelmay, ishga borishadi.",
+  "suggestive": "Dalillar biror narsaga ishora qiladi, lekin qat'iy emas.",
+  "sweat out": "U shamollashini uchta ko'rpa ostida terlab chiqarishga urindi.",
+  "tissue": "Menga salfetka uzatib yuborasizmi? Burnimdan suv oqyapti.",
+  "vox": "So'rovnomada odamlar \"erkaklar grippi\" haqida o'z fikrlarini bildirishdi.",
+  "whine": "Ingillashni bas qil – bu shunchaki shamollash-ku!",
+  "wipe": "U burnini salfetka bilan artdi.",
+  "wipe out": "Gripp meni bir haftaga butunlay holdan toydirdi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 2 topic 0037: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0037: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0037', {
  "A1": {
   "associated with": "Bu ko'l bir maxluq bilan bog'liq.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('2', '0037', {
   "preserve": "Muammo afsonaning romantikasini saqlab qolish va shu bilan birga uni ilhomlantirgan manzarani bosib ketishiga yo'l qo'ymaslikdadir.",
   "regarding": "Maxluqning mavjudligiga oid shubha jamoatchilikning unga bo'lgan qiziqishini ajablanarli darajada kam pasaytirdi.",
   "tackle": "Sirni hal qilishga qaratilgan har qanday jiddiy urinish ishonchli guvohliklarni murakkab yolg'onlardan ajratishdan boshlanishi kerak."
+ },
+ "EX": {
+  "associated with": "Loch-Ness ko'li maxluq haqidagi afsona bilan chambarchas bog'liq.",
+  "beast": "Ba'zi tashrif buyuruvchilar maxluqning suvdan ko'tarilayotganini ko'rganlarini da'vo qilishadi.",
+  "bizarre": "Yillar davomida maxluqni topish uchun ba'zi g'alati urinishlar bo'lgan.",
+  "dreich": "Kun g'amgin va zax edi, ko'lni tuman va yomg'ir qoplab olgan edi.",
+  "harpoon": "Bir paytlar ovchilar maxluqni garpun bilan tutishni rejalashtirishgan.",
+  "look across": "Sayyohlar qirg'oqda turib, Nessini ko'rish umidida ko'l bo'ylab tikilishadi.",
+  "perhaps": "Balki maxluq ko'lning tubida yashar.",
+  "preserve": "Olimlar maxluqning tanasini o'rganish uchun saqlab qolishni xohlashgan.",
+  "regarding": "Maxluqning mavjudligiga oid kam dalil topilgan.",
+  "tackle": "Rejalardan birida, agar maxluq qachondir paydo bo'lsa, ovchilar unga qanday dosh berishi taklif qilingan edi."
  }
 });

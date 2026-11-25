@@ -1,4 +1,4 @@
-// Part 1 topic 0108: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0108: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0108', {
  "A1": {
   "air conditioning": "Konditsionerni yoqing.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0108', {
   "tin": "Tunuka tomlarni oq rangga bo'yash xona ichidagi haroratni bir necha darajaga pasaytirishi mumkin.",
   "ventilation": "An'anaviy me'morchilik uylarni salqin saqlash uchun mashinalarga emas, balki mohirona shamollatishga tayangan.",
   "wage earner": "Issiqlik to'lqinlari kam maosh oluvchilarga eng og'ir zarba beradi, chunki ular na ishni to'xtata oladi, na sovutish uchun pul to'lay oladi."
+ },
+ "EX": {
+  "air conditioning": "Konditsioner ko'p elektr energiyasi sarflaydi.",
+  "confession": "Bir narsani tan olishim kerak: men issiq havoni yoqtirmayman.",
+  "crowded": "Gavjum shaharlar yozda yanada qiziydi.",
+  "edge": "Bu dizayn sovutish texnologiyalarining eng ilg'or namunasidir.",
+  "frequent": "Jazirama issiq kunlar tobora tez-tez takrorlanmoqda.",
+  "funding": "Loyiha kengayishi uchun ko'proq mablag' kerak.",
+  "heat up": "Metall tomlar quyoshda tez qiziydi.",
+  "honestly": "Rostini aytsam, bunaqa issiqda uxlay olmayman.",
+  "honeycomb": "Sovutish tizimi asalari iniga o'xshab joylashtirilgan loy quvurlardan iborat.",
+  "hot weather": "Issiq havo keksalar uchun xavfli bo'lishi mumkin.",
+  "innovative": "Muhandislar uylarni sovutishning innovatsion usullarini topishdi.",
+  "interruption": "Gapingizni bo'lganim uchun uzr, lekin bu muhim.",
+  "reflective": "Oq, yorug'likni qaytaradigan bo'yoq tomlarni salqin saqlashi mumkin.",
+  "room temperature": "Loydan yasalgan sovutgich xona haroratini pasaytiradi.",
+  "skilfully": "Loy konuslarni mahalliy kulollar mohirona yasashgan.",
+  "start off": "G'oya kichik loyiha sifatida boshlangan edi.",
+  "subsidise": "Hukumat kambag'alroq oilalar uchun sovutish xarajatlarini subsidiyalashi mumkin.",
+  "suntan": "Ko'p odamlar ta'tilda quyoshda qorayishni yaxshi ko'radi.",
+  "tin": "Tunuka tomli uylar yozda juda qiziydi.",
+  "ventilation": "Yaxshi shamollatish uyni salqin saqlaydi.",
+  "wage earner": "Kam maosh oladiganlar konditsionerga pul topa olmaydi."
  }
 });

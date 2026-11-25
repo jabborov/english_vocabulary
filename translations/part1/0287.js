@@ -1,4 +1,4 @@
-// Part 1 topic 0287: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0287: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0287', {
  "A1": {
   "billboard": "Reklama taxtasiga qarang.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0287', {
   "urbanisation": "Urbanizatsiyani barqaror boshqarish yigirma birinchi asrning asosiy muammolaridan biridir.",
   "utopia": "Bir kishining utopiyasi boshqasi uchun dahshatli tush bo'lishi mumkin, shuning uchun ideal shaharlarni loyihalash shunchalik bahsli.",
   "utopian": "Kelajak shahri haqidagi utopik tasavvurlar ko'pincha qashshoqlik va tengsizlikning chigal voqeliklarini e'tiborsiz qoldiradi."
+ },
+ "EX": {
+  "billboard": "Ulkan reklama taxtasida yangi telefon reklamasi aks etgan edi.",
+  "chairman": "Kompaniya raisi shaharlarning kelajagi haqida gapirdi.",
+  "computer game": "Ko'plab kompyuter o'yinlarida futuristik shaharlar tasvirlanadi.",
+  "congested": "Shahar markazidagi yo'llarda doim tirbandlik bo'ladi.",
+  "corrugated": "Quti gofrirlangan kartondan yasalgan.",
+  "corrugated iron": "Tomlar to'lqinsimon temir tunukadan qilingan edi.",
+  "gigantic": "Kelajak shaharlarida ulkan osmono'par binolar bo'lishi mumkin.",
+  "homeless": "Katta shaharlarda uysiz odamlar soni ortib bormoqda.",
+  "imaginary place": "Utopiya – hamma narsa mukammal bo'lgan xayoliy joy.",
+  "inhabitant": "Shaharda o'n million aholi yashaydi.",
+  "neon": "Ko'chalar yorqin neon yozuvlarga to'la edi.",
+  "robust": "Shaharlarga suv toshqinlariga qarshi kurashish uchun puxta rejalar kerak.",
+  "shanty": "Millionlab odamlar shaharlar chekkasidagi kulbalarda yashaydi.",
+  "sheeting": "Tomni plastik plyonka qoplab turardi.",
+  "social service": "O'sib borayotgan shaharlarga ko'proq ijtimoiy xizmatlar kerak.",
+  "sprawl": "Shahar uylar va yo'llarning tartibsiz yoyilib ketgan to'plamidir.",
+  "undeveloped": "Shahar yaqinida o'zlashtirilmagan yer deyarli qolmadi.",
+  "urban area": "Dunyo aholisining yarmidan ko'pi shahar hududlarida yashaydi.",
+  "urban sprawl": "Shaharlarning tartibsiz kengayishi qishloq xo'jaligi yerlarini yo'q qilmoqda.",
+  "urbanisation": "Urbanizatsiya eng tez sur'atda Afrika va Osiyoda kechmoqda.",
+  "utopia": "Jinoyat ham, ifloslanish ham bo'lmagan shahar utopiya bo'lardi.",
+  "utopian": "Ilmiy fantastikada ko'pincha havosi toza utopik shaharlar tasvirlanadi."
  }
 });

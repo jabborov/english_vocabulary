@@ -1,4 +1,4 @@
-// Part 1 topic 0150: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0150: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0150', {
  "A1": {
   "asexual": "Ba'zi odamlar aseksual.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0150', {
   "shatter": "Parchalangan yurak shunchaki metafora emas: kuchli qayg'u tanaga o'lchanadigan jismoniy ta'sir ko'rsatishi mumkin.",
   "stand up": "Uchrashuvga kelmay aldab ketilish kichik bir xo'rlik, biroq u jiddiyroq rad etilish kabi og'riq uyg'otishi mumkin.",
   "testosterone": "Testosteronning romantik munosabatlardagi roli ommabop talqinlarda aytilganidan murakkabroq bo'lib, insonlar va hayot bosqichlariga qarab farq qiladi."
+ },
+ "EX": {
+  "asexual": "Ba'zi odamlar aseksual bo'lsa-da, baribir sevib qolishadi.",
+  "beat in": "Uni ko'rganimda yuragim ko'kragimda gupillab urardi.",
+  "butterfly": "Uni ko'rganimda yuragim hapqirib ketadi.",
+  "carnal": "Shahvat sevgining jismoniy, nafsoniy tomonidir.",
+  "despair": "Ajrashgandan keyin u tushkunlikka tushdi.",
+  "downside": "Sevib qolishning salbiy tomoni shundaki, u yurak sinishi bilan tugashi mumkin.",
+  "head over heels": "Ular bir-birini telbalarcha sevib qolishdi.",
+  "heel": "U yugurayotganda tovonini lat yedi.",
+  "lengthen": "Ba'zilarning aytishicha, sevgi umrni uzaytirishi mumkin.",
+  "loop": "Kimdir haqida doim o'ylash berk aylanaga tushib qolgandek tuyulishi mumkin.",
+  "lust": "Olimlarning aytishicha, sevgi uch bosqichdan iborat: shahvat, jalb bo'lish va bog'lanish.",
+  "messenger": "Dofamin miyada kimyoviy xabarchi vazifasini bajaradi.",
+  "neurotransmitter": "Dofamin lazzatlanish bilan bog'liq neyromediatordir.",
+  "offspring": "Evolyutsiya nuqtayi nazaridan, sevgi odamlarga farzandlarni birgalikda tarbiyalashga yordam beradi.",
+  "purely": "Sevgi sof kimyo masalasi emas.",
+  "reasonable": "Sevib qolganimizda har doim ham oqilona yo'l tutmaymiz.",
+  "ruin": "Singan yurak ishtahangizni bo'g'ib qo'yishi mumkin.",
+  "sexual attraction": "Jinsiy jalb bo'lish sevib qolish bilan bir xil narsa emas.",
+  "sexual desire": "Jinsiy istak sevgining faqat bir qismi xolos.",
+  "shatter": "U tashlab ketganida qizning orzulari chilparchin bo'ldi.",
+  "stand up": "Bir soat kutdim - u uchrashuvga kelmay, meni aldab ketdi!",
+  "testosterone": "Testosteron sevgining birinchi bosqichida muhim rol o'ynaydi."
  }
 });

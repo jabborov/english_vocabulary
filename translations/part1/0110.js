@@ -1,4 +1,4 @@
-// Part 1 topic 0110: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0110: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0110', {
  "A1": {
   "Joshua": "Bu Joshua.",
@@ -203,5 +203,39 @@ VOCAB_TR_STORE('1', '0110', {
   "solar panel": "Quyosh panellarini avtoturargohlar ustiga o'rnatish qo'shimcha yer ishlatmasdan elektr energiyasi ishlab chiqaradi.",
   "technically": "Biror narsa texnik jihatdan amalga oshirilishi mumkin, ammo iqtisodiy jihatdan real bo'lmasligi mumkin.",
   "tumble": "Narxlar keskin tushishda davom etar ekan, quyosh soyabonlari bizneslar uchun tobora jozibador bo'lib bormoqda."
+ },
+ "EX": {
+  "Joshua": "Joshua quyosh soyabonlari qanday ishlashini tushuntiradi.",
+  "Martin": "Martin quyosh energiyasi tarixi haqida gapiradi.",
+  "NASA": "NASA o'nlab yillardan beri kosmik kemalar uchun quyosh energiyasidan foydalanib keladi.",
+  "at a time": "Soyabon bir vaqtning o'zida o'nta mashinani quvvatlay oladi.",
+  "beam": "Ko'zgular quyosh nuri dastasini kemaga yo'naltirdi.",
+  "canopy": "Avtoturargohlar ustidagi quyosh soyabonlari mashinalarni salqin saqlaydi.",
+  "car park": "Avtoturargohlar ustidagi quyosh panellari elektr ishlab chiqarishi va soya berishi mumkin.",
+  "catch fire": "Yog'och kemalar yonib ketdi.",
+  "charging": "Quyosh soyabonlari elektromobillarni quvvatlash imkonini berishi mumkin.",
+  "date back": "Quyosh energiyasidan foydalanish uchun ko'zgulardan foydalanish g'oyasi qadimgi Yunonistonga borib taqaladi.",
+  "economically": "Quyosh soyabonlari har doim ham iqtisodiy jihatdan o'zini oqlamaydi.",
+  "entice": "Do'konlar mijozlarni jalb qilish uchun bepul quvvatlashdan foydalanadi.",
+  "enticing": "Bepul elektr energiyasi — jozibali g'oya.",
+  "feasible": "Har bir avtoturargohni quyosh panellari bilan qoplash amalda mumkinmi?",
+  "fill up": "Quyosh elektr stansiyalari katta yer maydonlarini egallaydi.",
+  "hack": "Bu quyosh energiyasiga oid oqilona usullar odamlarga joy tejashga yordam beradi.",
+  "harness": "Biz quyosh energiyasidan foydalana olamiz.",
+  "heat ray": "Arximedning \"issiqlik nuri\" — mashhur afsona.",
+  "magnifying": "Egri shishaning kattalashtirish xususiyati olov chiqarishi mumkin.",
+  "magnifying glass": "Lupa va quyosh nuri yordamida qog'ozni yondirish mumkin.",
+  "mile": "Millionlab kvadrat mil bo'sh tomlar bor.",
+  "mirror": "Aytishlaricha, Arximed kemalarni yondirish uchun ko'zgulardan foydalangan.",
+  "on and off": "Odamlar asrlar davomida vaqti-vaqti bilan quyosh issiqligi ustida tajribalar o'tkazib kelishgan.",
+  "panel": "Har bir panel bir nechta chiroq uchun yetarli energiya ishlab chiqara oladi.",
+  "parabolic": "Likopchaning shakli parabolik.",
+  "parabolic mirror": "Parabolik ko'zgu olov yoqish uchun quyosh nurini bir nuqtaga to'plashi mumkin.",
+  "pay off": "Quyosh soyaboni bir necha yilda o'zini oqlaydi.",
+  "rooftop": "Quyosh panellari ko'pincha tomlar ustiga o'rnatiladi.",
+  "ship": "Rivoyatga ko'ra, Arximed dushman kemalarini quyosh nuri bilan yondirgan.",
+  "solar panel": "O'tgan yili tomimizga quyosh panellarini o'rnatdik.",
+  "technically": "Ko'zgular yordamida kemani yondirish texnik jihatdan mumkin.",
+  "tumble": "Quyosh panellarining narxi keskin tushib ketdi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0335: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0335: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0335', {
  "A1": {
   "circumnavigate": "Ular dunyoni aylanib chiqishdi.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0335', {
   "unexplored": "Bugungi kunda chinakam o'rganilmagan chegaralar dengiz ostida va inson ongida yotadi.",
   "venture": "Chuqur dengizga har bir yangi tavakkal safar o'z sayyoramizni qanchalik kam tushunishimizni ochib beradi.",
   "wanderlust": "Sayohatga bo'lgan ishtiyoq abadiy bo'lishi mumkin, ammo uni qondirish uchun qolgan joylar tez yo'qolib bormoqda."
+ },
+ "EX": {
+  "circumnavigate": "Magellan ekspeditsiyasi yer sharini birinchi bo'lib aylanib chiqqan.",
+  "determined": "Tadqiqotchilar juda qat'iyatli bo'lishi kerak.",
+  "exploration": "Buyuk geografik kashfiyotlar davri dunyo xaritalarimizni o'zgartirib yubordi.",
+  "piece of land": "Yer yuzidagi deyarli har bir yer bo'lagi xaritaga tushirilgan.",
+  "reinterpret": "Tadqiqotchilar endi kashfiyot nima ekanligini qaytadan talqin qilishmoqda.",
+  "traveller": "Bugungi sayohatchilar Yer yuzidagi deyarli har qanday joyga yetib bora oladi.",
+  "uncharted": "Ilk dengizchilar xaritaga tushirilmagan suvlarga suzib borishgan.",
+  "undiscovered": "Tropik o'rmonda hali kashf etilmagan turlar bo'lishi mumkin.",
+  "unexplored": "Changalzorning ba'zi qismlari hali ham o'rganilmagan.",
+  "venture": "O'rmonning eng chuqur qismlariga kamdan-kam odam borishga jur'at qiladi.",
+  "wanderlust": "Sayohatga bo'lgan ishtiyoqi uni butun dunyo bo'ylab olib bordi."
  }
 });

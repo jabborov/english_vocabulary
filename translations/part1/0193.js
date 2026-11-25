@@ -1,4 +1,4 @@
-// Part 1 topic 0193: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0193: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0193', {
  "A1": {
   "aberration": "Bu g'ayrioddiy holat.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0193', {
   "tumour": "Har bir o'sma o'ziga xos mutatsiyalar majmuasiga ega, shuning uchun shaxsiylashtirilgan vaksinalar shunchalik istiqbolli.",
   "unblock": "Nazorat nuqtasi ingibitorlari o'smalar immun javobga qo'yadigan tormozlarni olib tashlaydi.",
   "uncontrollably": "Saratonning asosiy belgisi shundaki, hujayralar odatda o'sishni cheklaydigan signallarga e'tibor bermay, nazoratsiz ko'payadi."
+ },
+ "EX": {
+  "aberration": "Saraton hujayrasi tanadagi g'ayritabiiy og'ishdir.",
+  "aggressive": "Melanoma teri saratonining juda tajovuzkor shakli bo'lishi mumkin.",
+  "aggressively": "Shifokorlar bu turdagi saratonni jadal usullar bilan davolashadi.",
+  "benign": "Xayriyatki, shish xavfsiz bo'lib chiqdi.",
+  "cancer cell": "Vaksina immun tizimini saraton hujayralarini topishga o'rgatadi.",
+  "chemotherapy": "Kimyoterapiya charchoq va soch to'kilishi kabi nojo'ya ta'sirlarga olib kelishi mumkin.",
+  "cover up": "Saraton hujayralari odatda immun tizimini ogohlantiradigan signallarni yashirishi mumkin.",
+  "credibility": "Yirik sinovlar yangi vaksinaga ko'proq ishonch qozondiradi.",
+  "demonstrate": "Sinovlar vaksina xavfsiz ekanini ko'rsatdi.",
+  "director of research": "Xayriya tashkilotining tadqiqotlar bo'yicha direktori vaksina qanday ishlashini tushuntirdi.",
+  "eliminate": "Maqsad — operatsiyadan keyin qolgan barcha saraton hujayralarini yo'q qilish.",
+  "go away": "Shifokorlar saraton yo'qolib, boshqa qaytmasligiga umid qilishmoqda.",
+  "hijack": "Saraton hujayralari o'sish uchun organizmning odatiy jarayonlarini egallab oladi.",
+  "look away": "Saraton hujayralari immun tizimini e'tiborsiz qoldirishga majbur qilishi mumkin.",
+  "mRNA": "Yangi saraton vaksinalari ba'zi COVID vaksinalari singari mRNK texnologiyasidan foydalanadi.",
+  "malignant": "Xavfli o'smalar tananing boshqa qismlariga tarqalishi mumkin.",
+  "paying attention": "Shifokorlar bemorlarning vaksinaga qanday javob berishiga diqqat qilishmoqda.",
+  "police officer": "Immun tizimi tanadagi jinoyatchilarni qidirayotgan politsiyachiga o'xshaydi.",
+  "polio": "Vaksinalar poliomiyelitni deyarli yo'q qilib yubordi.",
+  "retrain": "Vaksina immun tizimini saratonni tanishga qayta o'rgatadi.",
+  "side effect": "Vaksinaning nojo'ya ta'sirlari kimyoterapiyanikidan kamroqqa o'xshaydi.",
+  "smallpox": "Chechak vaksina yordamida yo'q qilingan birinchi kasallik edi.",
+  "tumour": "Vaksina organizmni o'smaga hujum qilishga o'rgatadi.",
+  "unblock": "Ba'zi dorilar immun tizimining to'sig'ini olib tashlaydi, shunda u o'smaga hujum qila oladi.",
+  "uncontrollably": "Saraton hujayralar nazoratsiz o'sib, bo'linganda yuzaga keladi."
  }
 });

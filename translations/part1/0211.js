@@ -1,4 +1,4 @@
-// Part 1 topic 0211: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0211: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0211', {
  "A1": {
   "aurochs": "Tur yovvoyi buqasi yo'q bo'lib ketgan.",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('1', '0211', {
   "voracious": "Echkilarni yong'in yonilg'isini kamaytirishda bunchalik foydali qiladigan narsa aynan ularning ochko'z, tanlamaydigan ishtahasidir.",
   "wild horse": "Tabiatni muhofaza qiluvchilar yovvoyi otlarni yo'qolgan o'tlashni tiklash va bir vaqtning o'zida yong'in xavfini kamaytirish usuli deb bilishadi.",
   "wildfire": "Quruq o'simliklar to'planishini boshqarish o'rmon yong'inlari xavfini kamaytirishda o't o'chirish kabi muhim bo'lishi mumkin."
+ },
+ "EX": {
+  "aurochs": "Bir paytlar turlar Yevropaning katta qismida o'tlab yurgan.",
+  "bush": "Echkilar sigirlar tegmaydigan butalarni ham bajonidil yeydi.",
+  "densely": "Tepaliklar quruq butalar bilan zich qoplangan.",
+  "destructive": "Bu yong'in mamlakat tarixidagi eng vayronkor yong'inlardan biri edi.",
+  "domestication": "Qoramolni xonakilashtirish ming yillar oldin boshlangan.",
+  "eat up": "Echkilar barcha quruq o'tlarni yeb bitirishdi.",
+  "feed on": "Yong'inlar quruq o't va butalar hisobiga avj oladi.",
+  "fireman": "O't o'chiruvchilar tezda yetib kelib, yong'inni o'chirishdi.",
+  "flammable": "Quruq o't juda tez yonuvchan.",
+  "flipper": "Tyulenlar suvda harakatlanish uchun suzgichlaridan foydalanadi.",
+  "freely": "Yovvoyi otlar tepaliklar bo'ylab erkin kezib yuradi.",
+  "goat": "Echkilar tik tepaliklarga chiqib, u yerdagi o'simliklarni yeya oladi.",
+  "herd": "Tepalik yonbag'rida bir poda sigir o'tlab yurardi.",
+  "legged": "Yong'inlarga qarshi kurashda to'rt oyoqli yordamchilardan foydalanilmoqda.",
+  "reintroduce": "Olimlar bu hududga yirik o'txo'r hayvonlarni qayta olib kelishni xohlashadi.",
+  "television show": "U o'tlab yuruvchi hayvonlar va yong'inlar haqida ilk bor bir teleko'rsatuvda eshitgan.",
+  "trample": "Sigirlar quruq o'tlarni oyoqlari bilan yerga toptab tashlaydi.",
+  "tree branch": "Echkilar hatto past daraxt shoxlariga yetish uchun orqa oyoqlariga tik turib olishadi.",
+  "unchecked": "Nazoratsiz qoldirilsa, o'simliklar baland bo'yli va quruq bo'lib o'sadi.",
+  "unplanned": "Rejalashtirilmagan yong'in bir kunda minglab gektar yerni yo'q qilishi mumkin.",
+  "vegetation": "Hayvonlar o'simliklarni past holatda ushlab turishga yordam beradi.",
+  "voracious": "Echkilar juda ochko'z bo'ladi.",
+  "wild horse": "Ispaniyaning ayrim hududlarida yerlarni o'tlatish uchun yovvoyi otlardan foydalanilmoqda.",
+  "wildfire": "Yozlar issiqroq va qurg'oqchilroq bo'lib borayotgani sababli o'rmon yong'inlari tez-tez sodir bo'lmoqda."
  }
 });

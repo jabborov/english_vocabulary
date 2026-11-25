@@ -1,4 +1,4 @@
-// Part 2 topic 0006: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0006: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0006', {
  "A1": {
   "appeal": "Uy jozibador.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('2', '0006', {
   "superb": "\"A'lo\" so'zi e'lonlarda shu qadar ko'p ishlatiladiki, deyarli har qanday baholovchi kuchini yo'qotgan.",
   "terrace": "Ayvon deb atalgan joy bitta stulni zo'rg'a sig'diradigan kichkina tokcha bo'lib chiqdi.",
   "treating": "Muhofaza ostidagi binoga bo'sh tuvaldek munosabatda bo'lish ham noqonuniy, ham tarixiy obidalarni asrash nuqtai nazaridan kechirib bo'lmas ish bo'lardi."
+ },
+ "EX": {
+  "appeal": "Kvartiraning asosiy jozibasi xonalarni tabiiy yorug'likka to'ldirgan g'ayrioddiy katta derazalarida edi.",
+  "beyond": "Yaqin atrofdagi mahalladan narida mulk narxlari ancha pasaygan edi.",
+  "bijou": "E'londa kvartira \"bijou\" deb ta'riflangan edi, bu esa odatda ko'chmas mulk agentlari tilida juda kichik degani bo'lib chiqadi.",
+  "breathe": "Tor kvartiralarda oylab uy izlagach, u nihoyat erkin nafas ola oladigan joy topdi.",
+  "cemetery": "Shahar chekkasidagi eski qabriston bir necha asrlik tarixga ega.",
+  "characterful": "Eski kottejda zamonaviy, bir xil kvartiralar hech qachon takrorlay olmaydigan o'ziga xos jozibali fayz bor edi.",
+  "charming": "Tor, tosh yotqizilgan ko'cha mahallaga shubhasiz maftunkor, qadimiy ruh bag'ishlardi.",
+  "compact": "Ixcham studiya kvartirada har bir bo'sh santimetr joydan aqlli foydalanilgan edi.",
+  "complicated": "Bolalar paydo bo'lgach, kim qaysi yumushni bajarishini kelishib olish kutilmaganda murakkab bo'lib qolishi mumkin.",
+  "definitely": "Maqtovli tavsifga qaramay, kvartira suratlarda ko'ringanidan aniq kichikroq edi.",
+  "delightful": "Bog' kattaligi jihatidan kamtarona bo'lsa-da, ertalabki qahva uchun juda yoqimli joy deb ta'riflangan edi.",
+  "descriptive": "Ko'chmas mulk agentlari hatto eng kichik kvartirani ham jozibali qilib ko'rsatish uchun ko'pincha juda tasviriy tilga tayanadi.",
+  "elegant": "Binoning nafis Viktoriya davri fasadi haqiqiy o'ziga xoslikka ega narsa izlayotgan xaridorlarni jalb qildi.",
+  "exclude": "E'londa yotoqxona derazasi ostidagi shovqinli yo'l haqida hech narsa aytilmagani juda qulay tarzda chetlab o'tilgan edi.",
+  "factual": "Xaridorlar tobora ko'proq bezakli til o'rniga faktlarga asoslangan, oddiy tavsiflarni talab qilmoqda.",
+  "jewel": "Ko'chmas mulk agenti tinch ko'chaning oxirida joylashgan kottejni yashirin gavhar deb atadi.",
+  "lead out onto": "Mehmonxonadagi oynali eshiklar kichik, ammo quyoshli terrasaga chiqadi.",
+  "panoramic": "Tom ustidagi terrasadan aholi butun shahar manzarasining haqiqiy panoramali ko'rinishidan bahramand bo'ladi.",
+  "poetic": "Ba'zi mulk tavsiflari kvadrat metr haqidagi amaliy ma'lumotdan ko'ra she'riy nasrga o'xshab ketadi.",
+  "poetry": "Tanqidchilar ba'zi ko'chmas mulk agentlari mulkning aniq tavsifini emas, balki she'r yozishadi, deb hazillashdi.",
+  "putting people off": "Ko'chmas mulk agenti odamlarni qaytarib yubormaslik uchun kichkina oshxona haqida gapirmaslikka harakat qildi.",
+  "snatchers": "Muzey ko'rgazmasi bir paytlar qabristonlardan jasadlarni o'g'irlagan murda o'g'rilarining dahshatli tarixini yoritdi.",
+  "superb": "Ko'chmas mulk agenti stansiyadan bir necha qadam narida joylashgan a'lo darajadagi joylashuvni maqtadi.",
+  "terrace": "Ular yozning butun oqshomini bog'ga qaragan terrasada dam olib o'tkazishdi.",
+  "treating": "E'londa ta'mirlash asl xususiyatlarga chinakam g'amxo'rlik va hurmat bilan munosabatda bo'lgani ta'kidlangan edi."
  }
 });

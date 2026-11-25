@@ -1,4 +1,4 @@
-// Part 1 topic 0200: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0200: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0200', {
  "A1": {
   "London": "Men Londonda yashayman.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0200', {
   "travel by": "Odamlarning qanday transportda yurishni tanlashi asosan shaharlar qanday loyihalanganiga bog'liq.",
   "uninteresting": "Tashrif buyurish uchun yangi sabablar bo'lmasa, faqat piyodalar zonasiga aylantirishning o'zi zerikarli savdo ko'chasini jonlantirmaydi.",
   "walk around": "Erkin aylanib yurish imkoniyati odamlarni shahar markazlarida uzoqroq qolishga undaydi."
+ },
+ "EX": {
+  "London": "Londondagi ba'zi ko'chalar endi mashinalar uchun yopiq.",
+  "congest": "Har kuni ertalab mashinalar shahar markazini tirband qiladi.",
+  "congestion": "Piyodalar hududiga aylantirish shahar markazidagi tirbandlikni kamaytirishi mumkin.",
+  "council": "Shahar kengashi ko'chani mashinalar uchun yopishga qaror qildi.",
+  "diesel": "Dizel mashinalari havoni juda ifloslantiradi.",
+  "emptier": "Karantin paytida yo'llar bo'shroq edi.",
+  "get around": "Shahar bo'ylab piyoda yurish oson.",
+  "knock down": "Har yili ko'plab piyodalarni mashinalar urib yuboradi.",
+  "miles per hour": "Tezlik chegarasi soatiga yigirma mil.",
+  "motorise": "XX asrda shaharlar avtomobillashtirildi.",
+  "mph": "Shahar ichida tezlik chegarasi soatiga 20 mil.",
+  "on the road": "Yo'llarda mashinalar juda ko'p.",
+  "pedestrian": "Bu ko'cha endi faqat piyodalar uchun.",
+  "planner": "Shahar rejalashtiruvchilari piyodalar uchun ko'proq joy ajratishni xohlashadi.",
+  "travel along": "Bu yo'lda mashinalar juda sekin harakatlanadi.",
+  "travel by": "Ko'pchilik shaharga mashinada qatnaydi.",
+  "uninteresting": "Ba'zilarning aytishicha, piyodalar ko'chalari kechasi zerikarli bo'lishi mumkin.",
+  "walk around": "Odamlar mashinalarsiz shahar markazida sayr qilishni yaxshi ko'radi."
  }
 });

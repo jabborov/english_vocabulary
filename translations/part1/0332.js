@@ -1,4 +1,4 @@
-// Part 1 topic 0332: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0332: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0332', {
  "A1": {
   "audio frequency": "Itlar kengroq tovush chastotasi diapazonini eshitadi.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0332', {
   "on paper": "Ish joyidagi ko'plab islohotlar qog'ozda ishonarli ko'rinadi, ammo inson xulq-atvori bilan to'qnashganda barbod bo'ladi.",
   "take root": "Moslashuvchan ish tartibi texnologiya uni oddiy xodimlar uchun amaliy qilgandagina ildiz otdi.",
   "white noise": "G'alati tuyulsa-da, oq shovqin qo'shish tushunarli nutqni bosib, ofisni tinchroq his qildirishi mumkin."
+ },
+ "EX": {
+  "audio frequency": "Muhandislar nutqni yashiradigan tovush chastotasini tanlashadi.",
+  "bandwidth": "Yana bitta loyihani o'z zimmamga olishga imkoniyatim yo'q.",
+  "closed": "Ba'zi xodimlar eshikli yopiq xonalarni afzal ko'rishadi.",
+  "collaboration": "Ochiq rejali ofislar hamkorlikni rag'batlantirish uchun mo'ljallangan.",
+  "industrialist": "Ilk ofislarni samarali ishchilarni xohlagan sanoatchilar loyihalashgan.",
+  "on paper": "Qog'ozda ochiq rejali ofislar ajoyib g'oyadek ko'rinadi.",
+  "take root": "Ochiq rejali ofis g'oyasi 1960-yillarda ildiz otgan.",
+  "white noise": "Ba'zi ofislarda odamlarning suhbatlarini yashirish uchun oq shovqin qo'yiladi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0475: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0475: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0475', {
  "A1": {
   "Jerry": "Jerri mening do'stim.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0475', {
   "propel": "Dvigatellar shattlni Yer tortishish kuchidan tashqariga itarib chiqarish uchun yetarli kuch hosil qilardi.",
   "shuttle": "Shattl foydalanishdan chiqarilgach, amerikalik astronavtlar kosmik stansiyaga yetib borish uchun Rossiya raketalariga tayanishga majbur bo'ldi.",
   "space shuttle": "Kosmik kema \"Shattl\" ajoyib mashina edi, ammo uning qimmatligi va xavfsizlik ko'rsatkichlari uni oqlashni qiyinlashtirdi."
+ },
+ "EX": {
+  "Jerry": "Jerri shattl dasturida yigirma yil ishlagan.",
+  "announcer": "Diktor uchirishgacha bo'lgan soniyalarni teskari sanadi.",
+  "fly up": "Shattl bulutlar orasiga ko'tarilib uchib ketdi.",
+  "herald": "So'nggi parvoz bir davrning tugashidan darak berdi.",
+  "historic period": "Shattl dasturi NASA uchun tarixiy davr bo'ldi.",
+  "in flight": "Ekipaj parvoz chog'ida ovqatlandi.",
+  "lift off": "Shattl ertalab soat 11:29 da parvozga ko'tarildi.",
+  "memorabilia": "Shattlga oid esdalik buyumlari kolleksionerlar orasida mashhur.",
+  "propel": "Ulkan raketalar shattlni kosmosga itarib chiqardi.",
+  "shuttle": "Shattl o'ttiz yil davomida astronavtlarni kosmosga olib chiqdi.",
+  "space shuttle": "\"Spays Shattl\" kosmik kemasi dasturi 2011-yilda yakunlandi."
  }
 });

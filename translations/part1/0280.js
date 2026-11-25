@@ -1,4 +1,4 @@
-// Part 1 topic 0280: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0280: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0280', {
  "A1": {
   "Cockney": "U kokni, ya'ni londonlik.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0280', {
   "squiffy": "\"Squiffy\" va \"tipsy\" kabi so'zlarning shunchalik ko'pligi Britaniyaning ichkilik madaniyati haqida nimanidir anglatadi.",
   "th": "\"Th\" tovushini \"f\" bilan almashtirish, ya'ni th-fronting deb ataladigan hodisa Londondan Britaniyaning boshqa ko'plab shaharlariga tarqalgan.",
   "tipsy": "\"Tipsy\" (kayfi oshgan) so'zi britaniyaliklarning mastlikni ifodalovchi uzun so'zlar shkalasining yengil uchida turadi."
+ },
+ "EX": {
+  "Cockney": "Kokni qofiyali jargoni butun dunyoga mashhur.",
+  "awash": "Internet yangi jargon so'zlarga to'lib-toshgan.",
+  "close off": "Jargon guruhni begonalardan ajratib qo'yishi mumkin.",
+  "coded": "Jargon begonalar tushunmaydigan shifrlangan gapirish usuli bo'lishi mumkin.",
+  "deck": "Dengizchilar palubada ishlashdi.",
+  "frown upon": "Ish suhbatida jargon so'zlarni ishlatish odatda yomon qabul qilinadi.",
+  "inappropriate": "Rasmiy xatda jargon ishlatish nomunosib bo'lishi mumkin.",
+  "inventive": "Jargon ko'pincha juda topqir va kulgili bo'ladi.",
+  "jargon": "Shifokorlar ko'plab tibbiy atamalardan foydalanishadi.",
+  "legless": "\"Legless\" – qattiq mast degan ma'noni anglatuvchi jargon so'z.",
+  "lexicographer": "Leksikograf jargon so'zlar lug'atga qanday kirishini tushuntirib berdi.",
+  "mast": "Dengizchilar dengizni kuzatish uchun machtaga chiqishdi.",
+  "naval": "Ko'plab ingliz iboralari dengiz floti jargonidan kelib chiqqan.",
+  "occupational": "Ba'zi jargonlar kasbiy bo'lib, faqat ma'lum bir kasb egalari tomonidan ishlatiladi.",
+  "pork pie": "\"Are you telling pork pies?\" iborasi \"Yolg'on gapiryapsanmi?\" degan ma'noni anglatadi.",
+  "profanity": "Jargon so'kinish bilan bir narsa emas.",
+  "rhyme": "Qofiyali jargonda \"stairs\" so'zi \"pears\" bilan qofiyadosh.",
+  "rhyming slang": "Kokni qofiyali jargonida \"apples and pears\" zinapoyani anglatadi.",
+  "segment": "Jamiyatning har bir qatlamining o'z jargoni bor.",
+  "smacker": "U eski velosipedini ellik funtga sotdi.",
+  "squiffy": "Ikki qadah vinodan keyin uning boshi biroz aylanib qoldi.",
+  "th": "Kokni talaffuzida \"think\" so'zidagi \"th\" \"f\" kabi eshitilishi mumkin.",
+  "tipsy": "To'ydagi qadah so'zidan keyin u biroz kayf qilib qoldi."
  }
 });

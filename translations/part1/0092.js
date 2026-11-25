@@ -1,4 +1,4 @@
-// Part 1 topic 0092: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0092: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0092', {
  "A1": {
   "benighted": "Ular ularni johil deb atashdi.",
@@ -245,5 +245,46 @@ VOCAB_TR_STORE('1', '0092', {
   "upward": "Taraqqiyotning yuqoriga ko'tariluvchi yo'li haqidagi tushuncha Yevropani qulaygina cho'qqiga joylashtirgan.",
   "violent": "Sokin ko'rgazma vitrinalari ko'plab buyumlar qo'lga kiritilgan zo'ravonlik holatlarini yashirib turadi.",
   "visited": "Eng ko'p tashrif buyuriladigan muzey bo'lish obro' keltiradi, lekin sokin mushohadani imkonsiz qiladigan olomonni ham olib keladi."
+ },
+ "EX": {
+  "benighted": "Mustamlakachi yozuvchilar boshqa xalqlarni johil, qoloq deb ta'riflagan.",
+  "blue whale": "Tabiiy tarix muzeyida ko'k kit skeleti osilib turibdi.",
+  "bronze": "Benin bronzalari muzeyning eng ko'p bahs-munozara uyg'otadigan buyumlari qatoriga kiradi.",
+  "colonialism": "Ko'plab buyumlar Yevropaga mustamlakachilik tufayli kelib qolgan.",
+  "destination": "Parij muzey ixlosmandlari uchun mashhur manzil.",
+  "dinosaur": "Dippi ismli dinozavr muzeyning kirish zalidan boshqa joyga ko'chirildi.",
+  "entrance hall": "Kirish zalida ulkan kit skeleti osilib turibdi.",
+  "fashion": "Muzeyda asrlar davomidagi moda haqida ko'rgazma bor.",
+  "gatherer": "Ovchi-termachilar hayvonlarni ovlab va o'simliklarni terib kun ko'rgan.",
+  "give back": "Ba'zilar muzeylar boshqa mamlakatlardan olingan buyumlarni qaytarib berishi kerak, deb hisoblaydi.",
+  "grand": "Muzey ulug'vor eski binoda joylashgan.",
+  "greet": "Tashrif buyuruvchilarni kirishda ulkan ko'k kit skeleti kutib oladi.",
+  "hall": "Dinozavrlar zalida doim odam gavjum.",
+  "hunt": "Ilk odamlar oziq-ovqat uchun hayvonlarni ovlagan.",
+  "hunter": "Ilk odamlar hayvonlarni ovlab kun ko'rgan ovchilar edi.",
+  "ideology": "Bir vaqtlar muzeylar imperiya mafkurasini aks ettirgan.",
+  "imperial": "Ko'plab buyumlar Britaniyaning imperiya davrida yig'ilgan.",
+  "imperialist": "Ba'zi tanqidchilarning aytishicha, muzey hamon imperialistik hikoyani so'zlab bermoqda.",
+  "legacy": "Muzeylar mustamlakachilik merosi bilan bog'liq masalalarni hal qilishi kerak.",
+  "mankind": "Muzey insoniyat tarixini hikoya qiladi.",
+  "marble": "Parfenon marmarlari oq marmardan yasalgan.",
+  "mummy": "Bolalar muzeydagi Misr mumiyolarini tomosha qilishni yaxshi ko'radi.",
+  "natural history": "Dinozavrlarni ko'rish uchun Tabiiy tarix muzeyiga bordik.",
+  "onwards": "O'n to'qqizinchi asrdan boshlab muzeylar jadal o'sdi.",
+  "opposing": "Buyumlarni qaytarish kerakmi yoki yo'qmi, degan masalada qarama-qarshi fikrlar bor.",
+  "oppressive": "Mustamlaka hukmronligi ko'pincha zulmkor bo'lgan.",
+  "primitive": "Muzeydagi eski yorliqlarda ba'zi madaniyatlar ibtidoiy deb ta'riflangan.",
+  "promisingly": "Loyiha umidbaxsh boshlandi, bir nechta buyum qaytarildi.",
+  "serpent": "Muzeyda Meksikadan keltirilgan chiroyli feruza ilon haykali bor.",
+  "significance": "Bronzalar Nigeriya xalqi uchun katta madaniy ahamiyatga ega.",
+  "sophisticated": "Benin bronzalari ularni yasagan odamlarning nozik mahoratga ega bo'lganini ko'rsatadi.",
+  "steal": "Ba'zilar bu buyumlar boshqa mamlakatlardan o'g'irlangan deb hisoblaydi.",
+  "temporary": "Muzeyda Misr haqida vaqtinchalik ko'rgazma bor.",
+  "tourist attraction": "Britaniya muzeyi Londonning eng mashhur diqqatga sazovor joylaridan biri.",
+  "treasure": "Muzey butun dunyodan keltirilgan xazinalarga to'la.",
+  "truthful": "Muzeylar o'z buyumlarining kelib chiqishi haqida rostgo'y bo'lishi kerak.",
+  "upward": "Eski ko'rgazmalarda tarix taraqqiyotning yuqoriga qarab yurishi sifatida ko'rsatilgan.",
+  "violent": "Ba'zi buyumlar shafqatsiz harbiy bosqinlar paytida olib ketilgan.",
+  "visited": "Luvr dunyodagi eng ko'p tashrif buyuriladigan muzeydir."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0486: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0486: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0486', {
  "A1": {
   "Islamic": "Bu islom san'ati.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0486', {
   "politically": "Qadimiy buyumlar zamonaviy nizolarda siyosiy jihatdan keskin ramzlarga aylanishi mumkin.",
   "tyrannical": "Zolim tuzum yillar davomida yashab qolishi mumkin, ammo kamdan-kam hollarda xalqning sadoqatini qozonadi.",
   "tyranny": "Kir o'zini avvalgi qirolning zulmiga barham bergan ozod qiluvchi sifatida ko'rsatgan."
+ },
+ "EX": {
+  "Islamic": "Silindr Erondagi islom davridan ancha oldin yasalgan.",
+  "charter": "Ba'zilar silindrni inson huquqlarining birinchi xartiyasi deb atashadi.",
+  "cut into": "Yozuv loy pishirilishidan oldin uning yumshoq yuzasiga o'yib tushirilgan.",
+  "cylinder": "Kir silindri 2500 yildan ortiq tarixga ega.",
+  "cylindrical": "Silindr shaklidagi buyum loydan yasalgan.",
+  "decree": "Shoh odamlarga o'z yurtlariga qaytishga ruxsat beruvchi farmon chiqardi.",
+  "decreed": "Farmon bilan joriy etilgan o'zgarishlar odamlarga erkin ibodat qilish imkonini berdi.",
+  "dictator": "Shafqatsiz diktatordan farqli o'laroq, Kir adolatli bo'lib ko'rinishni xohlagan.",
+  "engrave": "Ular shohning so'zlarini toshga o'yib yozishdi.",
+  "enslave": "Aytishlaricha, Kir qul qilingan odamlarni ozod qilgan.",
+  "graphite": "Qalam izlari grafitdan iborat.",
+  "inscribe": "Loy silindrga so'zlar o'yib yozilgan.",
+  "inscription": "Silindrdagi bitik shohni madh etadi.",
+  "politically": "Silindr zamonaviy Eronda siyosiy jihatdan muhim ahamiyatga ega.",
+  "tyrannical": "Oldingi hukmdor zolim sifatida tasvirlangan.",
+  "tyranny": "Silindrda odamlarni zulmdan ozod qilish tasvirlangan."
  }
 });

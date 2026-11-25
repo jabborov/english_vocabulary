@@ -1,4 +1,4 @@
-// Part 2 topic 0014: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0014: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0014', {
  "A1": {
   "alien": "Film bir o'zga sayyoralik haqida.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('2', '0014', {
   "thought": "Agar kimdir bo'lsa, kim bizning turimiz nomidan gapirishga haqli bo'lishi kerak, degan savolga ko'p fikr qaratilgan.",
   "unfortunate": "OAVning ilmiy yangiliklarni shov-shuvga aylantirishga bo'lgan afsuslanarli moyilligi haqiqiy kashfiyotlarga jamoatchilik ishonchini yo'qotishi mumkin.",
   "unlikely": "Bunday uchrashuv qanchalik ehtimoldan yiroq bo'lmasin, uning oqibatlari shu qadar ulkan bo'lardiki, bu ehtimolni e'tiborsiz qoldirish o'ylamasdan qilingan ish bo'lardi."
+ },
+ "EX": {
+  "alien": "Agar ertaga Yerga o'zga sayyoralik qo'nsa, u bilan birinchi bo'lib kim gaplashardi?",
+  "ambassador": "Xabarlarga ko'ra, BMT o'zga sayyoraliklar bilan gaplashish uchun elchi tayinlashi mumkin edi.",
+  "astrophysicist": "Astrofizik boshqa sivilizatsiyadan keladigan signallarni qanday aniqlashimiz mumkinligini tushuntirdi.",
+  "deal with": "Agar o'zga sayyoraliklar haqiqatan aloqaga chiqsa, bu vaziyatni kim hal qilardi?",
+  "distant": "Astronomlar uzoq yulduzlar atrofida aylanayotgan sayyoralarni topdi.",
+  "encounter": "O'zga sivilizatsiya bilan uchrashuv biz bilgan hamma narsani o'zgartirib yuborardi.",
+  "extra-terrestrial": "BMTga o'zga sayyoralik mehmonlar bilan muomala qilish rejasi kerak bo'lishi mumkin.",
+  "fanciful": "Ba'zi odamlar koinot elchisi g'oyasini ancha xayoliy deb hisoblaydi.",
+  "leap": "Bu inson uchun kichik bir qadam, ammo insoniyat uchun ulkan sakrash.",
+  "literally": "Uning ishi tom ma'noda bu dunyodan tashqarida bo'lardi.",
+  "mankind": "O'zga sayyoraliklar bilan ilk aloqa insoniyat tarixidagi eng muhim lahzalardan biri bo'lardi.",
+  "non-proliferation": "Idora koinotda qurollarning tarqalmasligi ustida ham ishlaydi.",
+  "orbiting": "Boshqa yulduzlar atrofida aylanayotgan yuzlab sayyoralar kashf etilgan.",
+  "outer space": "BMTda koinot fazosidan tinch maqsadlarda foydalanish bilan shug'ullanadigan idora bor.",
+  "regulation": "Davlatlarning koinot fazosidan qanday foydalanishi haqida xalqaro qoidalar mavjud.",
+  "remind": "Bu hikoya bizga koinot haqida qanchalik kam bilishimizni eslatadi.",
+  "science fiction": "O'zga sayyoraliklar bilan uchrashish endi shunchaki ilmiy fantastika mavzusi emas.",
+  "space": "Koinotdan keladigan signallarni butun dunyo olimlari o'rganadi.",
+  "thought": "O'zga sayyoraliklar bilan uchrashish fikri ham hayajonli, ham qo'rqinchli.",
+  "unfortunate": "O'zga sayyoraliklar bilan ilk uchrashuvimiz yomon kechsa, afsuslanarli bo'lardi.",
+  "unlikely": "Aksariyat olimlar o'zga sayyoraliklar yaqin orada Yerga tashrif buyurishi ehtimoldan yiroq deb hisoblaydi."
  }
 });

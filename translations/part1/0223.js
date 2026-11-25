@@ -1,4 +1,4 @@
-// Part 1 topic 0223: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0223: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0223', {
  "A1": {
   "good afternoon": "Xayrli kun, janob!",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0223', {
   "poet": "Shoir ta'kidlaganidek, xushmuomalalik insoniy munosabatlarni bir maromda yurgizib turadigan moydir.",
   "teethe": "Hatto eng xushmuomala ota-onalar ham tishi chiqayotgan chaqaloq bilan uyqusiz tunlardan so'ng sabrini yo'qotishi mumkin.",
   "way out": "Halollik ortiqcha og'riq keltiradigan paytda xushmuomalalik ijtimoiy jihatdan maqbul chiqish yo'lini taklif qiladi."
+ },
+ "EX": {
+  "good afternoon": "U qo'shnilariga doim \"xayrli kun\" deb salom beradi.",
+  "impolite": "Og'zingiz to'la holda gapirish odobsizlik.",
+  "nursery": "Qizimiz bog'chada \"rahmat\" deyishni o'rgandi.",
+  "nursery school": "Bolalar bog'chada \"iltimos\" va \"rahmat\" deyishni o'rganishadi.",
+  "offended": "U rahmat aytmaganida qiz xafa bo'ldi.",
+  "poet": "Bir shoir xushmuomalalik hech narsaga tushmaydi, deb yozgan edi.",
+  "teethe": "Chaqalog'imizning tishi chiqyapti, shuning uchun u kechalari ko'p yig'laydi.",
+  "way out": "Uzr so'rash ko'pincha noqulay vaziyatdan chiqishning eng yaxshi yo'lidir."
  }
 });

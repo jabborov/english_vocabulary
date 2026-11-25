@@ -1,4 +1,4 @@
-// Part 1 topic 0274: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0274: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0274', {
  "A1": {
   "Caucasian": "U oq tanli.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0274', {
   "shared": "Milliy o'zlik ko'pincha o'tmish haqidagi umumiy hikoyaga tayanadi, u to'g'ri bo'ladimi yoki yo'qmi, bundan qat'i nazar.",
   "skinned": "Odamlarni oq yoki qora tanli deb ta'riflash murakkab o'ziga xoslikni bitta belgiga tushirib qo'yishi mumkin.",
   "soap opera": "Teleseriallar tomoshabinlarning turli jamoalarga qarashini yaxshi yoki yomon tomonga shakllantirishi mumkin."
+ },
+ "EX": {
+  "Caucasian": "U anketada \"Yevropoid\" deb belgilangan katakchani belgiladi.",
+  "actress": "Aktrisa o'zining aralash kelib chiqishi haqida gapirdi.",
+  "auburn": "Uning uzun, mallarang-qizg'ish sochlari bor.",
+  "bushy": "Uning qoshlari otasinikiga o'xshab qalin.",
+  "complexion": "Uning yuz rangi oqish va sepkilli.",
+  "ethnically": "London dunyodagi etnik jihatdan eng xilma-xil shaharlardan biridir.",
+  "evident": "Uning o'z ildizlari bilan faxrlanishi yaqqol ko'rinib turardi.",
+  "formative": "Uning shakllanish yillari Hindistonda o'tgan.",
+  "glad": "Oilam haqida ko'proq bilib olganimdan xursandman.",
+  "melting": "Erib borayotgan muz yo'lni ho'l qilib qo'ydi.",
+  "melting pot": "Nyu-York ko'pincha turli xalqlar qorishib ketgan qozon deb ta'riflanadi.",
+  "playwright": "Dramaturg ikki madaniyat o'rtasida ulg'ayish haqida yozdi.",
+  "rose": "Uning yonoqlari pushti rangda edi.",
+  "shared": "Umumiy tarixga ega odamlar ko'pincha o'zlarini bir-biriga yaqin his qilishadi.",
+  "skinned": "Uning terisi oq-sariq bo'lib, quyoshda tez kuyadi.",
+  "soap opera": "U mashhur teleserialda shifokor rolini o'ynagan."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0134: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0134: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0134', {
  "A1": {
   "Alexandria": "Iskandariya Misrda joylashgan.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0134', {
   "port": "Kutubxonaning yirik port shahrida joylashgani uni uch qit'adan keladigan bilimlarning tabiiy uchrashuv nuqtasiga aylantirdi.",
   "prosperity": "Kutubxonaning tanazzuli shaharning siyosiy qudrati va farovonligini yo'qotishini aks ettirdi.",
   "train station": "Kutubxonalarni temir yo'l vokzallari kabi gavjum joylarda joylashtirish ularni kundalik hayotning bir qismiga aylantiradi."
+ },
+ "EX": {
+  "Alexandria": "Iskandariya kutubxonasi qadimgi dunyoning eng mashhur kutubxonasi edi.",
+  "Islam": "Islom olamining buyuk kutubxonalari ko'plab qadimiy matnlarni saqlab qolgan.",
+  "be quiet": "Ilgari kutubxonada hamma jim turishi kerak edi.",
+  "bring about": "Buyuk kutubxonalar jamiyatda haqiqiy o'zgarishlarga sabab bo'lishi mumkin.",
+  "bring together": "Buyuk kutubxona odamlar va g'oyalarni bir joyga jamlaydi.",
+  "continent": "U yerga ilm olish uchun uch qit'adan olimlar kelardi.",
+  "cooperate": "Dunyo bo'ylab kutubxonalar kitob almashish uchun hamkorlik qiladi.",
+  "cooperatively": "Olimlar matnlarni tarjima qilish uchun hamkorlikda ishlashgan.",
+  "guardian": "Kutubxonachilar bilim posbonlaridir.",
+  "harmony": "Turli dindagi odamlar hamjihatlikda birga ishlashgan.",
+  "intentionally": "Ba'zi kutubxonalar urushlar paytida ataylab vayron qilingan.",
+  "intersection": "Kutubxona ko'plab madaniyatlar kesishgan joyda joylashgan edi.",
+  "library card": "Kitob olish uchun sizga kutubxona kartasi kerak.",
+  "manuscript": "Kutubxonada minglab qadimiy qo'lyozmalar saqlanadi.",
+  "painfully": "Kitoblarni ko'chirish ishlari juda sekin, azob bilan bordi.",
+  "painstakingly": "Har bir kitob qo'lda juda sinchkovlik bilan ko'chirilgan.",
+  "peacefully": "Turli muhitdan chiqqan olimlar yonma-yon tinch-totuv ilm olishgan.",
+  "port": "Iskandariya gavjum port bo'lgani uchun g'oyalar butun dunyodan kelardi.",
+  "prosperity": "Kutubxona shahar farovonligining ramzi edi.",
+  "train station": "Yangi kutubxona temir yo'l bekati yonida qurildi."
  }
 });

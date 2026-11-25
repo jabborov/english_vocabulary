@@ -199,7 +199,10 @@
     ].filter(Boolean) : [];
     const uzAll = window.getTopicTranslations ? (window.getTopicTranslations(e.part, e.topicKey) || {}) : {};
     const exs = examplesOf(e).map((x, i, all) => {
-      if(!x.lv) return `<div class="td-ex">${x.en}</div>`;
+      if(!x.lv){
+        const uz0 = (uzAll.EX || {})[it.w];   // original example (no level selected)
+        return `<div class="td-ex">${x.en}</div>` + (uz0 ? `<div class="td-uzex"><i class="lbl">UZ</i>${uz0}</div>` : '');
+      }
       const uz = (uzAll[x.lv] || {})[it.w];
       const grp = i > 0 && all[i - 1].lv && all[i - 1].lv[0] !== x.lv[0] ? ' ex-grp' : '';   // first sentence of a new group
       return `<div class="td-ex${grp}"><i class="lv">${x.lv}</i><span class="t">${x.en}</span></div>` +

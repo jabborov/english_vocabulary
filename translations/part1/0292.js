@@ -1,4 +1,4 @@
-// Part 1 topic 0292: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0292: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0292', {
  "A1": {
   "absorbed": "U kitobiga berilib ketgan edi.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0292', {
   "textbook": "Darslikni sust o'qish imtihonda kamdan-kam bardosh beradigan o'zlashtirish illyuziyasini yaratadi.",
   "thinker": "Ko'plab mutafakkirlar ta'kidlaganidek, o'qishdan maqsad shunchaki eslab qolish emas, balki tushunishdir.",
   "underline": "Tadqiqotlar kutilmagan bir fikrni ta'kidlaydi: talabalar eng ko'p yoqtiradigan usullar ko'pincha eng kam samarali bo'ladi."
+ },
+ "EX": {
+  "absorbed": "U takrorlashga shunchalik berilib ketdiki, ovqatlanishni ham unutdi.",
+  "abstract": "Abstrakt g'oyalar aniq misollar bilan bog'langanda osonroq o'zlashtiriladi.",
+  "conceptual": "Matematikaning konseptual tomonini tushunish bosqichlarni yodlashdan ko'ra foydaliroq.",
+  "cramming": "Imtihon oldidan kechasi shoshilinch yodlash yaxshi fikr emas.",
+  "elaborate": "G'oyalarni batafsil kengaytirish ularni allaqachon bilganlaringiz bilan bog'lashga yordam beradi.",
+  "flashcard": "Fleshkartalar yangi so'zlarni o'zingizni sinash orqali o'rganishning yaxshi usuli.",
+  "get at": "Nimaga shama qilyapsan? Men o'qimagan deb o'ylayapsanmi?",
+  "highlighter": "Uning darsligi boshidan oxirigacha marker bilan sap-sariq qilib bo'yalgan edi.",
+  "highlighting": "Tadqiqotlar ko'rsatishicha, matnni marker bilan belgilash takrorlashning unchalik samarali usuli emas.",
+  "mental picture": "Ko'z oldingizda tasvir yaratish faktlarni eslab qolishga yordam berishi mumkin.",
+  "mnemonic": "\"Richard Of York Gave Battle In Vain\" – kamalak ranglarini eslab qolish uchun yodlash usuli.",
+  "nerve cell": "Neyron, ya'ni nerv hujayrasi elektr signallarini uzatadi.",
+  "neuron": "Biz o'rganganimizda neyronlarimiz yangi bog'lanishlar hosil qiladi.",
+  "notebook": "Asosiy g'oyalarni daftaringizga yozib qo'ying.",
+  "oral": "Mavzuni og'zaki tushuntirish uni yaxshiroq tushunishga yordam beradi.",
+  "oral exam": "U fransuz tilidan og'zaki imtihon oldidan hayajonlanayotgan edi.",
+  "pathway": "Eslashni mashq qilish miyadagi neyron yo'llarini mustahkamlaydi.",
+  "reread": "Shunchaki konspektlaringizni qayta o'qish o'qishning eng samarasiz usullaridan biri.",
+  "retrieve": "O'zingizni sinab ko'rish miyangizni ma'lumotni xotiradan chiqarib olishga o'rgatadi.",
+  "summarize": "Har bir bobni bir necha gapda qisqacha bayon qilishga harakat qiling.",
+  "textbook": "Darsligingizni shunchaki qayta o'qimang; uning asosida o'zingizni sinab ko'ring.",
+  "thinker": "Yaxshi takrorlash odatlari sizni mustaqilroq fikrlovchi insonga aylantiradi.",
+  "underline": "Ko'plab talabalar kitoblaridagi deyarli har bir gapning tagiga chizishadi."
  }
 });

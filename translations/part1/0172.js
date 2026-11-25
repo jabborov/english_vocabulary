@@ -1,4 +1,4 @@
-// Part 1 topic 0172: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0172: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0172', {
  "A1": {
   "babysitting": "U bola qarovchilik qiladi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0172', {
   "shortened": "\"Mum\" va \"telly\" kabi qisqartirilgan shakllar norasmiy britaniya inglizchasiga xosdir.",
   "unfriendly": "Do'stona emasdek ko'rinadigan narsa ko'pincha band ota-onalarning shunchaki uyatchanligi yoki charchoqligi bo'ladi.",
   "yoga": "Yangi ota-onalar uchun haftalik yoga mashg'uloti jismoniy mashq kabi muloqot uchun ham qadrli bo'lishi mumkin."
+ },
+ "EX": {
+  "babysitting": "Ona-dugonalar bir-birlariga bolalarga qarashib turishda yordam berishlari mumkin.",
+  "clique": "Ba'zi onalar maktab darvozasi oldidagi yopiq guruhchalardan shikoyat qilishadi.",
+  "gate": "Ko'plab onalar har kuni tushdan keyin maktab darvozasi oldida uchrashishadi.",
+  "glamorous": "Boshqa onalarning hammasi juda ko'rkam va jozibali ko'rinardi!",
+  "glamour": "Onalikning dastlabki kunlarida jozibadorlik deyarli yo'q.",
+  "high school": "Maktab darvozasi oldida o'zingizni yana o'rta maktabda yurgandek his qilishingiz mumkin.",
+  "out of play": "U onalar guruhida o'zini butunlay chetda qolgandek his qildi.",
+  "shortened": "\"Mum\" so'zi \"mother\" so'zining qisqartirilgan shaklidir.",
+  "unfriendly": "Ba'zi yangi onalarga boshqa ota-onalar nosamimiy tuyuldi.",
+  "yoga": "Ba'zi onalar chaqaloqlar uchun yoga mashg'ulotlarida yangi do'stlar orttirishadi."
  }
 });

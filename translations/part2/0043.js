@@ -1,4 +1,4 @@
-// Part 2 topic 0043: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0043: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0043', {
  "A1": {
   "acrobatics": "Menga akrobatika yoqadi.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('2', '0043', {
   "stunts": "Tanqidchilarning ta'kidlashicha, virusli kaskadyor nayranglari parkurni noto'g'ri ko'rsatadi, holbuki uning mohiyatida nazorat tomoshadan ustun turadi.",
   "take up": "U parkur bilan shunchaki havas qilib shug'ullana boshladi va bu keyingi o'n yil davomida uning hayotida hukmron bo'lishini xayoliga ham keltirmagan edi.",
   "twist": "Har bir burilish va aylanish shunchalik ravon bajarildiki, harakat deyarli zo'riqishsiz tuyuldi."
+ },
+ "EX": {
+  "acrobatics": "Friraning yugurishni akrobatika bilan uyg'unlashtiradi.",
+  "crazy": "Aqldan ozgandek eshitiladi, lekin devorlar orasida sakrashni juda yaxshi ko'raman.",
+  "dense": "Parkur ko'plab devor va panjaralarga ega zich shaharlarga mos keladi.",
+  "free running": "Friraning parkurga salto va aylanishlarni qo'shadi.",
+  "get convinced": "Avvaliga ishonchim komil emasdi, lekin tez orada parkur xavfsiz ekaniga ishonch hosil qildim.",
+  "gymnastics": "Ko'plab parkur sportchilari gimnastika bilan shug'ullangan.",
+  "he's less concerned about being sponsored": "U bu sportni shunchaki yaxshi ko'radi — homiylik olish uni unchalik qiziqtirmaydi.",
+  "hooked": "Birinchi parkur darsimdan keyin unga butunlay berilib ketdim.",
+  "insane": "Ikki tom orasidagi o'sha sakrash aqlga sig'mas edi!",
+  "mad": "O'sha devordan sakrash uchun aqldan ozgan bo'lishing kerak!",
+  "oppose": "Ba'zi aholi jamoat joylarida parkur bilan shug'ullanishga qarshi.",
+  "parkour": "Parkur 1990-yillarda Parij chekkalarida paydo bo'lgan.",
+  "pure": "Uning uchun parkur sof erkinlikdir.",
+  "ridiculous": "O'sha sakrashning balandligi aqlga to'g'ri kelmasdi.",
+  "skateboarder": "Skeytbordchilar va friranerlar ko'pincha bir xil joylardan foydalanishadi.",
+  "stunts": "U tomlar ustida hayratlanarli tryuklar ko'rsatadi.",
+  "take up": "U o'n besh yoshida parkur bilan shug'ullana boshladi.",
+  "twist": "U yerga tushishdan oldin havoda aylanib oldi."
  }
 });

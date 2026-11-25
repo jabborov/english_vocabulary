@@ -1,4 +1,4 @@
-// Part 1 topic 0075: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0075: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0075', {
  "A1": {
   "Verona": "Verona Italiyada joylashgan.",
@@ -203,5 +203,39 @@ VOCAB_TR_STORE('1', '0075', {
   "turn to": "Qayg'u damlarida odamlar beixtiyor o'z dardlarini aks ettiradigan san'atga murojaat qiladilar.",
   "validate": "Kechinmalarimizni aks ettiradigan qo'shiq ularni tasdiqlaydi va iztirobimiz noyob ham, sharmandali ham emasligiga ishontiradi.",
   "worthwhile": "Hatto yomon tugagan muhabbat ham, agar u bizga o'zimiz haqimizda nimanidir o'rgatsa, qadrli bo'lishi mumkin."
+ },
+ "EX": {
+  "Verona": "\"Romeo va Julietta\" voqealari Veronada kechadi.",
+  "affair": "Qo'shiq yashirin ishqiy munosabat haqida.",
+  "album": "Uning yangi albomi butunlay yurak iztiroblari haqida.",
+  "anatomy": "Albom barbod bo'layotgan munosabatlarning chuqur tahlilidir.",
+  "balcony": "Julietta balkonida turib Romeo bilan gaplashdi.",
+  "boyfriend": "Yigiti uni tashlab ketdi, shuning uchun u bu haqda qo'shiq yozdi.",
+  "break up": "U bu qo'shiqni yigiti bilan ajrashgandan keyin yozdi.",
+  "chart": "Uning ajralish haqidagi qo'shig'i to'g'ridan-to'g'ri reyting jadvalining birinchi o'rniga chiqdi.",
+  "confirmation": "G'amgin qo'shiqlar boshqalar ham xuddi shunday his qilganini tasdiqlaydi.",
+  "cynicism": "Ajrashganidan keyin uning qo'shiqlari sevgiga nisbatan kinoyali, ishonchsiz qarashlarga to'la edi.",
+  "devastating": "Munosabatlarining tugashi uning uchun og'ir zarba bo'ldi.",
+  "eternal": "Ko'plab sevgi qo'shiqlari abadiy muhabbatni va'da qiladi.",
+  "fighting": "Er-xotinning tinimsiz janjallari ajralish bilan tugadi.",
+  "get over": "Ajralishdan o'ziga kelishi uchun unga bir yil kerak bo'ldi.",
+  "heartbreak": "Musiqa yurak iztiroblarini yengib o'tishimizga yordam berishi mumkin.",
+  "in love": "Qo'shiq ilk bor sevib qolish haqida.",
+  "love song": "Aksariyat pop qo'shiqlar sevgi haqidagi qo'shiqlardir.",
+  "lover": "Qo'shiq bir-biridan majburan ayrilgan ikki oshiq haqida hikoya qiladi.",
+  "lyric": "Qo'shiq matni ajralish iztirobini tasvirlaydi.",
+  "pessimistic": "Ajralish haqidagi ko'plab qo'shiqlar sevgiga pessimistik qaraydi.",
+  "pop": "Pop musiqasi singan qalblar haqidagi qo'shiqlarga to'la.",
+  "pour": "U butun dardini qo'shiqlariga to'kib soldi.",
+  "sincere": "Uning qo'shiq matnlari juda samimiy tuyuladi.",
+  "songwriter": "Qo'shiq muallifi albomni og'riqli ajralishdan keyin yozdi.",
+  "stay together": "Ular bolalar uchun birga qolishga harakat qilishdi.",
+  "stupid": "Yuragi singan odamlar ba'zan qo'shiq tufayli yig'laganlari uchun o'zlarini ahmoqdek his qiladi.",
+  "successfully": "Musiqa unga yurak iztirobini muvaffaqiyatli yengishga yordam berdi.",
+  "take to": "Ajralishdan keyin u har kecha g'amgin qo'shiqlar tinglashni odat qilib oldi.",
+  "tragically": "Romeo va Juliettaning sevgi qissasi fojiali yakun topadi.",
+  "turn to": "Ajralishdan keyin ko'pchilik taskin topish uchun musiqaga murojaat qiladi.",
+  "validate": "G'amgin qo'shiqlar ajralishdan keyingi his-tuyg'ularimizni oqlashi mumkin.",
+  "worthwhile": "Hatto og'riqli munosabatlar ham bunga arziydi."
  }
 });

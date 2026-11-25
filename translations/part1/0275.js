@@ -1,4 +1,4 @@
-// Part 1 topic 0275: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0275: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0275', {
  "A1": {
   "bodkin": "Bodkin ignaning bir turi.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('1', '0275', {
   "unambiguous": "Tinish belgilari asosan yozma tilni ovoz ohangi og'zaki nutqni qanchalik bir ma'noli qilsa, shunchalik bir ma'noli qilish uchun mavjud.",
   "wolf": "Pandadan tortib bo'rigacha bo'lgan klassik tinish belgisi hazillari bitta noto'g'ri qo'yilgan belgiga asoslanadi.",
   "written word": "Tinish belgilari yozma so'z og'zaki nutqqa nisbatan yo'qotadigan hamma narsaning o'rnini to'ldiradi."
+ },
+ "EX": {
+  "bodkin": "Eski matbaachilar harflarni olib tashlash va xatolarni tuzatish uchun bigizdan foydalanishgan.",
+  "careless": "E'tiborsizlik bilan qo'yilgan vergul shartnoma ma'nosini o'zgartirib yuborishi mumkin.",
+  "clause": "Nuqtali vergul ikki gap bo'lagini bog'lashi mumkin.",
+  "closing": "Yopuvchi qavsni unutmang.",
+  "comma": "Vergul gapning ma'nosini butunlay o'zgartirib yuborishi mumkin.",
+  "full stop": "Ba'zi yoshlar matnli xabar oxiridagi nuqta jahl bilan yozilgandek tuyuladi deb hisoblashadi.",
+  "in full": "Iltimos, ismingizni to'liq yozing.",
+  "intonation": "Og'zaki nutqda biz ohangdan, yozuvda esa tinish belgilaridan foydalanamiz.",
+  "irony": "To'g'ri tinish belgilarisiz yozuvda kinoyani ko'rsatish qiyin.",
+  "literal": "Gapning so'zma-so'z ma'nosi u aytmoqchi bo'lgan narsadan farq qilardi.",
+  "make out": "Tinish belgilari bo'lmagani uchun uning nima demoqchi ekanini tushuna olmadim.",
+  "mark out": "Vergullar gapdagi qo'shimcha ma'lumotni ajratib ko'rsatadi.",
+  "misinterpret": "Vergullar bo'lmasa, o'quvchilar xabaringizni noto'g'ri tushunishi mumkin.",
+  "paragraph": "Mavzuni o'zgartirganingizda yangi xatboshidan boshlang.",
+  "parenthesis": "Qo'shimcha ma'lumotni qavs ichida berishingiz mumkin.",
+  "persuasive": "To'g'ri qo'yilgan tinish belgilari yozganingizni yanada ishonarliroq qilishi mumkin.",
+  "punctuate": "Bolalar yozganlarida tinish belgilarini qanday qo'yishni o'rganishlari kerak.",
+  "punctuation mark": "So'roq belgisi tinish belgisidir.",
+  "rhetoric": "Tinish belgilari dastlab notiqlarga notiqlik san'atida yordam berish uchun ishlatilgan.",
+  "semicolon": "Ko'pchilik nuqtali vergulni qanday ishlatishni yaxshi bilmaydi.",
+  "sloppy": "Ishga ariza tinish belgilari pala-partish qo'yilgan bo'lsa, yomon taassurot qoldiradi.",
+  "stickler": "O'qituvchim tinish belgilarining to'g'ri qo'yilishiga juda qattiq talabchan.",
+  "stuffy": "Ba'zilar tinish belgilariga e'tibor berishni biroz eskicha va zerikarli deb o'ylashadi.",
+  "unambiguous": "Tinish belgilari gapni bir ma'noli qilishga yordam beradi.",
+  "wolf": "Tushib qolgan vergul kim kimni yeyayotganini o'zgartirib yuborishi mumkin: \"Ovqatlanaylik, bo'ri\" yoki \"Bo'rini yeylik\".",
+  "written word": "Tinish belgilari yozma nutq uchun juda muhim."
  }
 });

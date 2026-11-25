@@ -1,4 +1,4 @@
-// Part 1 topic 0169: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0169: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0169', {
  "A1": {
   "Catherine": "Catherine mening do'stim.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0169', {
   "usage": "Sun'iy intellekt terapiyasidan foydalanishning o'sishi tartibga solish va ma'lumotlarni himoya qilish bo'yicha dolzarb savollarni keltirib chiqarmoqda.",
   "void": "Hissiy bo'shliqni to'ldirish uchun mashinalarga tayanish chuqurroq muammolarni hal qilish o'rniga ularni faqat kechiktirishi mumkin.",
   "woe": "O'z dardlarini algoritmga to'kib solish terapiyadan haqiqatan nimaga muhtojligimiz haqida savollar tug'diradi."
+ },
+ "EX": {
+  "Catherine": "Ketrin stressga tushganida chatbot ilovasidan foydalangan.",
+  "booming": "Ruhiy salomatlik ilovalari gullab-yashnayotgan biznesdir.",
+  "bot": "Bot foydalanuvchilardan kayfiyati haqida savollar so'raydi.",
+  "check in": "Ilova har kuni foydalanuvchilardan hol-ahvol so'rab turadi.",
+  "commute": "U ishga ketayotib yo'lda bot bilan suhbatlashadi.",
+  "deny": "Kompaniya foydalanuvchilar ma'lumotlarini sotishini rad etadi.",
+  "digitally": "Endi ko'proq odamlar yordamni raqamli tarzda olishmoqda.",
+  "distraction": "Ba'zi foydalanuvchilar uchun chatbot tashvishlardan chalg'ishning yoqimli usulidir.",
+  "engaging": "Bot do'stona va qiziqarli bo'lishi uchun yaratilgan.",
+  "figurative": "\"Yelkamdan tog' ag'darilgandek\" - bu ko'chma ma'nodagi ibora.",
+  "flashing": "Telefonida miltillab turgan xabar uning ahvolini so'radi.",
+  "health professional": "Ilovaning xavfsizligini tibbiyot mutaxassisi tekshirishi kerak.",
+  "privacy": "Foydalanuvchilar botga aytgan gaplarining maxfiyligidan xavotirlanishadi.",
+  "register": "Bot foydalanuvchi kayfiyatidagi o'zgarishlarni qayd eta oladi.",
+  "sake": "Hech bo'lmaganda sog'lig'ingiz uchun kimgadir dardingizni ayting.",
+  "stigma": "Ba'zi odamlar ruhiy kasallik atrofidagi tamg'a tufayli ilovalardan foydalanishadi.",
+  "stress out": "Ishdagi muddatlar meni rosa asabiylashtiradi.",
+  "therapeutic": "Muammolaringiz haqida gapirish davolovchi ta'sirga ega bo'lishi mumkin.",
+  "unethical": "Ba'zi mutaxassislar haqiqiy terapevtlar o'rniga botlardan foydalanishni axloqsizlik deb hisoblaydi.",
+  "usage": "Ruhiy salomatlik ilovalaridan foydalanish tez o'sdi.",
+  "void": "Inson yordami bo'lmaganda chatbot bo'shliqni to'ldiradi.",
+  "woe": "Odamlar chatbot bilan dardlarini bo'lishishadi."
  }
 });

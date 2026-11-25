@@ -1,4 +1,4 @@
-// Part 1 topic 0469: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0469: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0469', {
  "A1": {
   "Disneyland": "Biz Disneylendga bordik.",
@@ -29,5 +29,10 @@ VOCAB_TR_STORE('1', '0469', {
   "Disneyland": "Tanqidchilar Disneylend muammosiz dunyo haqidagi puxta o'ralgan xayolotni sotadi, deb hisoblaydi.",
   "go off": "Kelgusi yil rejalari biz umid qilganimizdek silliq amalga oshadimi-yo'qmi, ko'p jihatdan bizning nazoratimizdan tashqaridagi omillarga bog'liq.",
   "wed": "O'n yil birga yashaganlaridan keyin nihoyat turmush qurishga qaror qilgan juftlik kichik, kamtarona tantanani tanladi."
+ },
+ "EX": {
+  "Disneyland": "Kelgusi yil uchun orzuyim — bolalarimni Disneylendga olib borish.",
+  "go off": "To'y hech qanday muammosiz o'tishiga umid qilaman.",
+  "wed": "Juftlik 2012-yilning yozida turmush qurishni rejalashtirmoqda."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0453: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0453: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0453', {
  "A1": {
   "counterintuitive": "Bu aqlga zid tuyuladi.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0453', {
   "overhead": "Uchish yo'nalishi ostida yashovchi aholi tong sahardan kech tungacha tepadan uchib o'tadigan samolyotlarga chidashga majbur.",
   "sand": "Qum va o'tloq kabi yumshoq yuzalar tovushni yutib, shahar maydonlarini osoyishtaroq his qildiradi.",
   "sound recording": "Oqar suvning ovoz yozuvlarini qo'yish transport shovqinini bosib, joyni sokinroq his qildirishi mumkin."
+ },
+ "EX": {
+  "counterintuitive": "Bu aqlga zid tuyuladi, ammo ovoz qo'shish joyni sokinroq his qildirishi mumkin.",
+  "dweller": "Shahar aholisi ko'p shovqinga duch keladi.",
+  "flower bed": "Bog'da rang-barang gulzorlar bor.",
+  "installation": "Bog'dagi ovozli instalyatsiyada suv shovqini yangradi.",
+  "overhead": "Har bir necha daqiqada tepadan samolyotlar uchib o'tadi.",
+  "sand": "Qumda yurish yumshoq, past ovoz chiqaradi.",
+  "sound recording": "Maydonda qushlar ovozining yozuvi qo'yildi."
  }
 });

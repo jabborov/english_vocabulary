@@ -1,4 +1,4 @@
-// Part 1 topic 0305: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0305: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0305', {
  "A1": {
   "all too": "U juda tez tugab qoldi.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0305', {
   "techie": "Kinoyali tomoni shundaki, qaramlik uyg'otuvchi ilovalarni yaratgan ba'zi texnologiya mutaxassislari endi ulardan ogohlantirmoqda.",
   "tip over": "Ekranlar bilan munosabatimiz biz sezmagan holda foydalidan zararliga o'tib ketishi mumkin.",
   "word form": "O'zaro bog'liq so'z shakllarini tanib olish o'rganuvchilarga so'z boyligini tez kengaytirishga yordam beradi."
+ },
+ "EX": {
+  "all too": "Tinglashingiz kerak bo'lgan paytda telefoningizga qarab qo'yish juda ham oson.",
+  "closeness": "Yuzma-yuz gaplashish internetda yozishishga qaraganda ko'proq yaqinlik yaratadi.",
+  "connect up": "Biz har qachongidan ham ko'proq bir-birimizga bog'langanmiz, lekin o'zimizni yolg'izroq his qilamiz.",
+  "filmmaker": "Kinorejissyor telefonlarga qaramligimiz haqida hujjatli film suratga oldi.",
+  "intimacy": "Ovqat stolidagi telefonlar juftliklar o'rtasidagi yaqinlikka putur yetkazishi mumkin.",
+  "physiologically": "Fiziologik jihatdan tanamiz telefon bildirishnomalariga kichik mukofotlarga bo'lgani kabi munosabat bildiradi.",
+  "physiology": "U stress fiziologiyasini o'rganadi.",
+  "portmanteau": "\"Phubbing\" – \"phone\" va \"snubbing\" so'zlarining qo'shilishidan hosil bo'lgan so'z.",
+  "portmanteau word": "\"Phubbing\" – \"phone\" va \"snubbing\" so'zlaridan yasalgan qo'shma-qisqartma so'z.",
+  "snub": "Do'sti telefoniga qarayverganida, u o'zini mensimay qo'yilgandek his qildi.",
+  "snubbing": "Telefon tufayli e'tiborsizlik, ya'ni \"phubbing\" – telefoningizga qarash uchun kimnidir e'tiborsiz qoldirishdir.",
+  "techie": "Hatto texnologiya ishqibozlari ham internetda juda ko'p vaqt o'tkazishlarini tan olishadi.",
+  "tip over": "Telefondan ozgina foydalanish yomon emas, lekin bu osongina qaramlikka aylanib ketishi mumkin.",
+  "word form": "\"Snubbing\" – \"snub\" so'zining bir shakli."
  }
 });

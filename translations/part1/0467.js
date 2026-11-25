@@ -1,4 +1,4 @@
-// Part 1 topic 0467: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0467: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0467', {
  "A1": {
   "befriend": "U men bilan do'stlashdi.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0467', {
   "registry": "Reestr qaysi filmlar milliy madaniyat uchun muhimligi haqidagi o'zgarib boruvchi qarashlarni aks ettiradi.",
   "securing": "Mo'rt nitrat plyonkalarni saqlab qolish maxsus saqlash sharoitlari va doimiy parvarishni talab qiladi.",
   "terrifying": "Bir paytlar tomoshabinlarni dahshatga solgan narsa hozir deyarli kulgili tuyulishi mumkin."
+ },
+ "EX": {
+  "befriend": "Filmda bir bola o'zga sayyoralik bilan do'stlashadi.",
+  "orphan": "\"Yetim\" filmlarning ularni himoya qiladigan egasi yo'q.",
+  "parentless": "Film ota-onasiz bola haqida hikoya qiladi.",
+  "posterity": "Filmlar kelajak avlodlar uchun saqlanadi.",
+  "registry": "Milliy film reyestriga har yili 25 ta film qo'shiladi.",
+  "securing": "Eski filmlarni kelajak uchun saqlab qolish muhim.",
+  "terrifying": "Bu juda qo'rqinchli dahshat filmi edi."
  }
 });

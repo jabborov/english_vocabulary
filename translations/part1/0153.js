@@ -1,4 +1,4 @@
-// Part 1 topic 0153: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0153: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0153', {
  "A1": {
   "animal fat": "Sariyog' hayvon yog'i.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0153', {
   "suet": "Hayvon mahsulotlaridan voz kechganlar uchun mol charvisi o'rnini asosan o'simlik charvisi egalladi.",
   "tofu": "Tofu asosidagi qiymalar chuchvarani o'simlik mahsulotlari bilan ovqatlanuvchilarning tobora ortib borayotgan soni orasida mashhur qildi.",
   "wheat": "Bug'doy kleykovinasi chuchvara xamiriga qog'ozdek yupqa yoyish uchun zarur bo'lgan elastiklikni beradi."
+ },
+ "EX": {
+  "animal fat": "Eski retseptlarda xamirga ko'pincha hayvon yog'i qo'shiladi.",
+  "beef": "Ba'zi chuchvaralarning ichiga mol go'shti va piyoz solinadi.",
+  "beef stew": "Britaniyada chuchvaralar ko'pincha mol go'shtidan qilingan dimlama ustida pishiriladi.",
+  "buffalo": "Nepalda momo chuchvaralari ba'zan buyvol go'shti bilan to'ldiriladi.",
+  "businesswoman": "Ishbilarmon ayol bir qator chuchvara restoranlarini boshqaradi.",
+  "chilli": "Chuchvaralar ko'pincha achchiq qalampir yog'i bilan tortiladi.",
+  "cooked": "Pishgan chuchvaralar suv yuzasiga qalqib chiqadi.",
+  "corn": "Meksikada tamales makkajo'xori xamiridan tayyorlanadi.",
+  "crescent": "Ko'plab chuchvaralar yarim oy shaklida buklanadi.",
+  "dig in": "Chuchvaralar tayyor - marhamat, olinglar!",
+  "dough": "Xamir juda yupqa qilib yoyiladi.",
+  "dumpling": "Dunyodagi deyarli har bir madaniyatning o'ziga xos chuchvara yoki manti kabi taomi bor.",
+  "envelope": "Chuchvara xamirdan yasalgan kichkina konvertga o'xshaydi.",
+  "filling": "Ichiga go'sht, sabzavot yoki hatto shirin narsa solinishi mumkin.",
+  "gnocchi": "Italyan nyokkisi kartoshkadan tayyorlangan kichik chuchvaralardir.",
+  "grain": "Chuchvara xamiri bug'doy yoki guruch kabi donli ekinlardan tayyorlanadi.",
+  "manual": "Chuchvara tugish uzoq vaqt oladigan qo'l mehnatidir.",
+  "pork": "Ko'plab xitoy chuchvaralari cho'chqa go'shti va karam bilan to'ldiriladi.",
+  "shrimp": "Xar gou - krevetka bilan to'ldirilgan chuchvaralar.",
+  "soaking up": "Chuchvaralar sousni shimib olish uchun juda mos.",
+  "sourdough": "Ba'zi oshpazlar chuchvarani yengilroq qilish uchun xamirturushli xamirdan foydalanadi.",
+  "staple": "Shimoliy Xitoyda chuchvara asosiy taom hisoblanadi.",
+  "starchy": "Chuchvaralar kraxmalga boy, to'yimli taomdir.",
+  "stew": "U dimlamaga chuchvaralar qo'shdi.",
+  "suet": "An'anaviy Britaniya chuchvaralari charvi yog' va undan tayyorlanadi.",
+  "tofu": "Vegetarian chuchvaralar ko'pincha tofu bilan to'ldiriladi.",
+  "wheat": "Chuchvara xamirining aksariyati bug'doy unidan qilinadi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 2 topic 0044: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0044: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0044', {
  "A1": {
   "Zen": "Men o'zimni xotirjam his qilyapman.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('2', '0044', {
   "take in": "Muammo tana oshqozon-ichak buzilishini keltirib chiqarmasdan qancha yoqilg'ini qabul qila olishidadir.",
   "to bear": "Uzoq davom etadigan noqulaylikka chidash qobiliyati, ehtimol, marafonchilarni boshqa sportchilardan ajratib turadigan narsadir.",
   "vineyard": "Bordoning eng mashhur uzumzorlari orasidan o'tadigan poyga sportchilikni bo'lgani kabi terruarni ham ulug'laydi."
+ },
+ "EX": {
+  "Zen": "U uzoq masofalarga yugurganda qandaydir ichki xotirjamlik topadi.",
+  "absorb": "Tana bir vaqtning o'zida faqat ma'lum miqdordagi suvni so'ra oladi.",
+  "bite-sized pieces": "Marafonni kichik-kichik bo'laklarga bo'lib olish yordam beradi.",
+  "blister": "Yangi poyabzal tovonimni qavartirib qo'ydi.",
+  "burn": "Yigirma mildan keyin oyoqlarim achishib, yona boshladi.",
+  "dehydrated": "U suvsizlangani uchun boshi aylandi.",
+  "encouraging": "Olomon juda ruhlantirib turdi.",
+  "fabulous": "Poygadagi taomlar ajoyib edi.",
+  "gourmet": "Bu nafis taom va sharobli gurme marafon.",
+  "hydrate": "Poygadan oldin yetarlicha suv ichish muhim.",
+  "hydration": "Issiq poyga kunida suv ichib turish juda muhim.",
+  "marathon": "U o'zining birinchi marafonini Londonda yugurdi.",
+  "meditation": "Ba'zi odamlar uchun yugurish o'ziga xos meditatsiyadir.",
+  "muscle": "Yugurish oyoq mushaklarini kuchliroq qiladi.",
+  "muscular": "Marafonlar bir necha kun davomida mushak og'rig'iga sabab bo'lishi mumkin.",
+  "my God they must be in pain": "25-mildagi yuguruvchilarni kuzatib: \"Xudoyim-ey, ular qanchalik og'riq chekayotgan bo'lsa kerak\", deb o'yladim.",
+  "novelist": "Yapon yozuvchisi Haruki Murakami ashaddiy marafonchi.",
+  "nutrition": "Marafonchilar uchun to'g'ri ovqatlanish muhim.",
+  "nutritious": "Yuguruvchilar poygadan oldin to'yimli ovqat yeyishlari kerak.",
+  "oyster": "Yuguruvchilar poyga davomida ustritsa yeyishlari mumkin.",
+  "painful pockets of fluid": "Qavariqlar ishqalanish natijasida paydo bo'ladigan suyuqlikka to'la og'riqli pufakchalardir.",
+  "rubbing": "Qavariqlar ishqalanish tufayli paydo bo'ladi.",
+  "take in": "Yuguruvchilar poyga davomida yetarlicha suv ichishlari kerak.",
+  "to bear": "Og'riqqa chidab bo'lmas darajada edi.",
+  "vineyard": "Poyga Fransiyaning uzumzorlari orqali o'tadi."
  }
 });

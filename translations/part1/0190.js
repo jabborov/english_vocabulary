@@ -1,4 +1,4 @@
-// Part 1 topic 0190: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0190: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0190', {
  "A1": {
   "Sunday": "Bugun yakshanba.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0190', {
   "supplement": "Ota-onalar ishlashni sinfdagi ta'limning o'rnini bosish uchun emas, balki uni to'ldirish uchun rag'batlantirishlari mumkin.",
   "wedding ring": "Zargarlik do'konida ishlab, u nikoh uzugini yasashga qanchalik mehr sarflanishini bilib oldi.",
   "you bet": "\"Ishlash seni mustaqilroq qildimi?\" — \"Bo'lmasam-chi, u hamma narsani o'zgartirdi.\""
+ },
+ "EX": {
+  "Sunday": "U shanba va yakshanba kunlari ertalab ishlardi.",
+  "as we say": "U, o'zimiz aytganimizdek, biroz cho'ntak puli topardi.",
+  "bemoan": "Ish beruvchilar yoshlarda ish ko'nikmalari yetishmasligidan nolishadi.",
+  "day of the week": "U haftaning har kuni gazeta yetkazib berardi.",
+  "dedication": "Har kuni ertalab gazeta tarqatish chinakam fidoyilikni talab qiladi.",
+  "detrimental": "Juda ko'p soat ishlash o'qishga zarar yetkazishi mumkin.",
+  "earning": "O'z pulini ishlab topish unga mustaqillik hissini berdi.",
+  "graduate": "U yaxshi baholar va ish tajribasi bilan o'qishni tamomladi.",
+  "hinder": "Ish o'qishingizga xalaqit berishi mumkin.",
+  "in case": "Yomg'ir yog'ib qolsa, deb soyabon ol.",
+  "many a": "Ko'plab o'smirlar shanba kunlari ishlagan.",
+  "modelling": "U o'smirlik chog'ida biroz modellik qilgan.",
+  "on the average": "O'rtacha hisobda o'smirlar soatiga taxminan o'n funt ishlab topishadi.",
+  "paper round": "O'n uch yoshimda gazeta tarqatish bilan shug'ullanardim.",
+  "passage": "Bolalikdan kattalikka o'tish vaqt talab etadi.",
+  "rite": "Har bir madaniyatning o'z marosimlari bor.",
+  "rite of passage": "Birinchi ishga kirish — hayotdagi muhim bosqichlardan biri.",
+  "schoolchild": "Maktab o'quvchisi yarim kunlik ishda ishlashi kerakmi?",
+  "stack": "U supermarketda javonlarga mahsulot terardi.",
+  "supplement": "U cho'ntak puliga qo'shimcha bo'lsin deb ishladi.",
+  "wedding ring": "Yillar o'tib, u o'smirlikda tejashni o'rgangan pullari bilan nikoh uzugini sotib oldi.",
+  "you bet": "\"Pul ishlash senga yoqdimi?\" \"Bo'lmasam-chi!\""
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0388: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0388: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0388', {
  "A1": {
   "EU": "Fransiya Yevropa Ittifoqiga kiradi.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0388', {
   "tell off": "Musiqa aynan talab qilgan narsani qilgani uchun koyish ko'plab ijrochilarning hafsalasini pir qildi.",
   "unsettling": "Eng tashvishli topilma shu bo'ldiki, ko'plab ijrochilar eshitish qobiliyatini yo'qotishni kasbning bir qismi sifatida qabul qilib olgan ekan.",
   "up the stairs": "Hatto zinadan yuqorida, uch qavat narida ham baraban sadolari hamon eshitilib turardi."
+ },
+ "EX": {
+  "EU": "YeI qoidalari ishchilarga ta'sir qiladigan shovqin darajasini cheklaydi.",
+  "applause": "Oxiridagi olqishlar quloqni qomatga keltirardi.",
+  "drummer": "Barabanchi eshitish qobiliyatini himoya qilish uchun quloq tiqinlarini taqdi.",
+  "gay": "Eski qo'shiqda musiqa va olqishlarga to'la quvnoq, shovqinli oqshom tasvirlangan.",
+  "gutsiness": "Qo'shiqchi chiqishidagi jasorati uchun maqtovga sazovor bo'ldi.",
+  "gutsy": "U betob bo'lishiga qaramay, jasoratli chiqish qildi.",
+  "interval": "Antrakt paytida ichimlik sotib oldik.",
+  "ovation": "Pianinochi uzoq davom etgan olqishlarga sazovor bo'ldi.",
+  "punter": "Tomoshabinlar baland ovozli, hayajonli shou ko'rishni xohlashadi.",
+  "scold": "Tomoshabinlar noto'g'ri joyda qarsak chalgani uchun koyishdi.",
+  "stage door": "Muxlislar aktyorlar bilan uchrashish uchun xizmat eshigi oldida kutishdi.",
+  "standing": "O'rindiqlar yo'q edi, shuning uchun tomoshabinlar tik turishdi.",
+  "standing ovation": "Orkestr tik turib olqishlandi.",
+  "straight off": "Musiqa haddan tashqari baland ekanini darhol payqadim.",
+  "tell off": "Barabanchiga juda baland chalgani uchun tanbeh berildi.",
+  "unsettling": "Juda baland ovoz effektlari ba'zi odamlarni bezovta qildi.",
+  "up the stairs": "Musiqachilar zinadan yuqoriga, repetitsiya xonasiga chiqishdi."
  }
 });

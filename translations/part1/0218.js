@@ -1,4 +1,4 @@
-// Part 1 topic 0218: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0218: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0218', {
  "A1": {
   "air out": "Xonani shamollating.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0218', {
   "squeeze": "Diafragma qisqarganda o'pkani siqadi va kulgining ritmik ovozini hosil qiladi.",
   "stream down": "Biz o'zimizni tutolmay kulganimizda, ko'z atrofidagi muskullar qisqarib, yuzimizdan yosh oqishi mumkin.",
   "swam": "Uning boshi aylandi, bu kuchli kulgi miyaga yetib boradigan kislorodni qisqa muddatga kamaytirganining belgisi edi."
+ },
+ "EX": {
+  "air out": "Kulish havoni o'pkangizdan majburan chiqarib yuboradi.",
+  "amuse": "Masxaraboz bolalarni kuldirdi.",
+  "amused": "U hikoyadan zavqlanganga o'xshardi.",
+  "astonishment": "Hayratimizga ko'ra, kulish haqiqatan ham xavfli bo'lishi mumkin ekan.",
+  "catch one's breath": "U shunchalik qattiq kuldiki, nafasini rostlay olmadi.",
+  "choking": "Ovqatlanayotib kulish tomoqqa tiqilib qolishga olib kelishi mumkin.",
+  "chuckle": "U kulgili hikoyadan kulimsirab qo'ydi.",
+  "chuckling": "Qo'shni xonadan pixillab kulgan ovoz eshitilardi.",
+  "diaphragm": "Kulganimizda diafragma tez harakatlanadi.",
+  "entertaining": "Bu juda qiziqarli shou edi.",
+  "guffaw": "U hazilga qah-qah urib kuldi.",
+  "hearty": "U chin dildan qah-qah urib kuldi.",
+  "laugh off": "U jarohatini kulgiga burib yubordi.",
+  "quietly": "U chaqaloqni uyg'otib yubormaslik uchun ohista kuldi.",
+  "squeeze": "Kulish o'pkangizdagi havoni siqib chiqaradi.",
+  "stream down": "Kulgidan yuzidan yosh oqib tushardi.",
+  "swam": "U shunchalik ko'p kuldiki, boshi aylanib ketdi."
  }
 });

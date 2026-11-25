@@ -1,4 +1,4 @@
-// Part 1 topic 0128: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0128: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0128', {
  "A1": {
   "align": "Devordagi rasmlarni bir tekisda joylashtiring.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0128', {
   "track record": "Futurologlarning o'tmishdagi natijalari dadil bashoratlarga eng oqilona javob kamtarlik ekanini ko'rsatadi.",
   "unexpectedly": "Kutilmaganda elektron pochtaning paydo bo'lishi ofis ishlari hajmini kamaytirish o'rniga oshirib yubordi.",
   "whopping": "Ba'zi iqtisodchilarning ta'kidlashicha, hozirgi ish o'rinlarining juda katta qismi o'n yilliklar ichida avtomatlashtirilishi mumkin."
+ },
+ "EX": {
+  "align": "Kompaniyalar o'z ishini yangi texnologiyalarga moslashtirishi kerak.",
+  "any longer": "Ko'pchilik endi ofisga qatnashni xohlamaydi.",
+  "business editor": "Biznes bo'limi muharriri ish qanday o'zgarayotganini tushuntirib berdi.",
+  "coordination": "Masofaviy ish jamoa a'zolari o'rtasida yaxshi muvofiqlashtirishni talab qiladi.",
+  "crop up": "Yangi turdagi kasblar paydo bo'lishda davom etmoqda.",
+  "disruption": "Sun'iy intellekt ish joylarida katta o'zgarish va tartibsizlik keltirib chiqarishi mumkin.",
+  "foresee": "Internet ishni qanday o'zgartirishini hech kim oldindan ko'ra olmasdi.",
+  "leisure": "Keyns kelajakda bizda bo'sh vaqt ancha ko'p bo'ladi, deb o'ylagan.",
+  "miracle": "Haftasiga atigi o'n besh soat ishlasak, bu mo'jiza bo'lardi.",
+  "nightmarish": "Ba'zilar barcha ishlarni robotlar bajaradigan dahshatli kelajakni tasavvur qilishadi.",
+  "old fashioned": "Ertalab to'qqizdan kechki beshgacha ofisda ishlash tez orada eskicha bo'lib tuyulishi mumkin.",
+  "prediction": "Keyns ish haftasi haqida mashhur bashorat qilgan.",
+  "reduction": "Ko'plab ishchilar ish soatlarining qisqarishini mamnuniyat bilan qarshi olardi.",
+  "social scientist": "Ijtimoiy fanlar olimi ishning odamlar hayotiga qanday ta'sir qilishini o'rganadi.",
+  "track record": "Iqtisodchilarning kelajakni bashorat qilish bo'yicha tajribasi unchalik yaxshi emas.",
+  "unexpectedly": "Ish soatlari odamlar kutganidek kamaymadi; kutilmaganda ko'pchilik ko'proq ishlay boshladi.",
+  "whopping": "Ba'zi odamlar haftasiga naq 60 soat ishlaydi."
  }
 });

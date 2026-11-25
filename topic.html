@@ -339,7 +339,12 @@
   // Each level sentence followed by its Uzbek translation (shown only while Translate is on).
   function exampleHTML(item){
     return examplesFor(item).map((x, i, all) => {
-      if(!x.lv) return `<div class="entry-ex">${x.en}</div>`;
+      if(!x.lv){
+        // original example (no level selected): its Uzbek translation is stored under "EX"
+        const uz0 = (topicUz.EX || {})[item.w];
+        return `<div class="entry-ex">${x.en}</div>` +
+          (uz0 ? `<div class="entry-uzex"><div class="uz"><i class="lbl">UZ</i>${uz0}</div></div>` : '');
+      }
       const uz = (topicUz[x.lv] || {})[item.w];
       const grp = i > 0 && all[i - 1].lv && all[i - 1].lv[0] !== x.lv[0] ? ' ex-grp' : '';   // first sentence of a new group
       return `<div class="entry-ex has-lv${grp}"><i class="ex-lv">${x.lv}</i><span class="ex-t">${x.en}</span></div>` +

@@ -1,4 +1,4 @@
-// Part 1 topic 0313: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0313: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0313', {
  "A1": {
   "Missy": "Missy mening dugonam.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0313', {
   "stave off": "Kompaniya bankrotlikning oldini olish maqsadida xarajatlarni qisqartirdi.",
   "up in the air": "Loyihaning kelajagi noaniq bo'lib qolgani sababli xodimlar uchun g'ayratni saqlab qolish qiyin edi.",
   "yawn": "Olimlar esnash nima uchun odamlar va ayrim hayvonlar orasida bunchalik yuqumli ekani haqida hamon bahslashmoqda."
+ },
+ "EX": {
+  "Missy": "Missyning aytishicha, u juda tez zerikib qoladi.",
+  "Tiffany": "Tiffany odamlar nima uchun zerikishini o'rganadi.",
+  "automated": "Ko'plab ishlar endi avtomatlashtirilgan va ishchilar faqat ekranlarni kuzatib o'tirishadi.",
+  "cast": "U biror ish topish uchun xona bo'ylab ko'z yugurtirdi.",
+  "cast on": "Avvalo, siz yigirmata halqa terishingiz kerak.",
+  "continuous": "Uzluksiz, takroriy ishni bajarish juda zerikarli bo'lishi mumkin.",
+  "downtime": "Har kimga dam olish uchun biroz bo'sh vaqt kerak.",
+  "dramatic performance": "Dramatik spektakl tomoshabinlar e'tiborini soatlab ushlab turishi mumkin.",
+  "fighter pilot": "Hatto qiruvchi samolyot uchuvchisi ham uzoq parvozda zerikishi mumkin.",
+  "fixed": "Uning ko'zlari soatlab ekranga qadalib turdi.",
+  "heading": "Uchuvchi samolyotning yo'nalishini tekshirdi.",
+  "penguin": "U pingvinlar uchun kichkina sviterlar to'qiyapti.",
+  "restless": "Uzoq safar davomida bolalar bezovtalanib qolishdi.",
+  "spur": "Zerikish ijodkorlikka turtki bo'lishi mumkin.",
+  "spur on": "Zerikish sizni yangi narsani sinab ko'rishga undashi mumkin.",
+  "stave": "Notalar nota chizig'iga yoziladi.",
+  "stave off": "U uzoq poyezd safarlarida zerikishning oldini olish uchun to'qish bilan shug'ullanadi.",
+  "up in the air": "Uchuvchilar havoda deyarli hech qanday ishsiz soatlab vaqt o'tkazishadi.",
+  "yawn": "Uzoq yig'ilish davomida esnashdan to'xtay olmadim."
  }
 });

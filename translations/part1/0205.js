@@ -1,4 +1,4 @@
-// Part 1 topic 0205: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0205: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0205', {
  "A1": {
   "Victoria": "Victoria o'qituvchi.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0205', {
   "polyglot": "Poliglotlar ko'pincha har bir qo'shimcha tilni o'rganish avvalgisidan osonroq bo'lishini aytishadi.",
   "to the full": "Poliglotlar mashq qilish uchun har bir imkoniyatdan to'liq foydalanishga moyil.",
   "weekday": "Har bir ish kunida yigirma daqiqa ajratib, u holdan toymasdan barqaror o'sishga erishdi."
+ },
+ "EX": {
+  "Victoria": "Viktoriya beshta tilda gapiradi.",
+  "bilingual": "Ularning farzandlari ingliz va fransuz tillarida bemalol gapiradi.",
+  "cognitive neuroscientist": "Kognitiv neyrobiolog miyamiz tillarni qanday o'rganishini tadqiq qiladi.",
+  "first language": "Uning ona tili o'zbek tili, lekin u ingliz va rus tillarida ham gapiradi.",
+  "immerse": "Tilni o'rganishning eng yaxshi usuli — o'zingizni til muhitiga to'liq sho'ng'itish.",
+  "learner": "Katta yoshdagi o'quvchilar ham yangi tilda ravon gapira olishadi.",
+  "logo": "Til o'rganish ilovasining logotipi — yashil boyo'g'li.",
+  "monolingual": "Buyuk Britaniyadagi ko'p odamlar faqat bitta tilda gapiradi.",
+  "paying back": "O'qishga sarflangan o'sha soatlarning barchasi endi o'z samarasini bermoqda.",
+  "polyglot": "Bu poliglot o'ndan ortiq tilda gapira oladi.",
+  "to the full": "Chet eldagi vaqtingizdan to'liq foydalaning.",
+  "weekday": "Men har ish kuni ertalab ispan tilini o'rganaman."
  }
 });

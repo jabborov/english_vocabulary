@@ -1,4 +1,4 @@
-// Part 2 topic 0032: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0032: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0032', {
  "A1": {
   "500 days locked in a warehouse": "Ular 500 kun omborxonada qamalib o'tirishdi.",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('2', '0032', {
   "spaceship": "Yerdan ko'tarilmagan bo'lsa-da, kosmik kema uning ichidagilar uchun o'z ritmi va ziddiyatlariga ega butun bir olamga aylandi.",
   "ultra-long-haul": "Marsga sayohat bilan solishtirganda, Yerdagi eng mashaqqatli o'ta uzoq masofali parvoz ham oddiy ekskursiyadek tuyuladi.",
   "vaguely": "Dekoratsiya Marsga faqat qisman ishonarli darajada o'xshardi, ammo u o'zining psixologik vazifasini a'lo darajada bajardi."
+ },
+ "EX": {
+  "500 days locked in a warehouse": "Ko'ngillilar Marsga sayohatni taqlid qilish uchun 500 kunni omborxonada qamalib o'tkazishdi.",
+  "Martian landscape": "Ekipaj Mars manzarasining maketiga qadam qo'ydi.",
+  "allow out": "Tajriba tugamaguncha ekipajga tashqariga chiqishga ruxsat berilmadi.",
+  "astronaut": "Bir kun kelib haqiqiy kosmonavtlar Marsga sayohat qilishi mumkin.",
+  "boost hope": "Tajribaning muvaffaqiyati Marsga haqiqiy missiya amalga oshishiga bo'lgan umidlarni kuchaytirdi.",
+  "boredom": "Zerikish ekipaj uchun eng katta muammolardan biri edi.",
+  "carrying out": "Ekipaj kunlarini tajribalar o'tkazish bilan o'tkazdi.",
+  "claustrophobic": "Kichik xonalar odamni juda siqib qo'yardi.",
+  "come out": "Ekipaj 500 kundan so'ng nihoyat kosmik kemadan chiqdi.",
+  "cope with": "Olimlar odamlar bunday uzoq safarga qanday bardosh berishini bilishni xohlashdi.",
+  "desperate": "500 kundan keyin ekipaj a'zolari oilalarini ko'rishga zor bo'lishgan edi.",
+  "enclosed": "Ekipaj kichik yopiq makonda yashadi.",
+  "entirely": "Tajriba butunlay Yerda o'tkazildi.",
+  "hell": "Shuncha uzoq vaqt ichkarida qamalib qolish do'zax bo'lgan bo'lsa kerak.",
+  "imitation": "Ko'ngillilar kosmik kemaning taqlidiy nusxasi ichida yashashdi.",
+  "listen out": "Ekipaj ichkarida o'tkazgan vaqtini tasvirlash uchun ishlatgan so'zga quloq soling.",
+  "ordeal": "Ekipaj o'z mashaqqatli sinovlari nihoyat tugaganidan yengil tortdi.",
+  "planetary": "Missiya Mars bo'yicha sayyoraviy tadqiqotlarning bir qismi edi.",
+  "pretend": "Ular Marsga soxta sayohatga chiqishdi.",
+  "sand-pit": "Mars manzarasi aslida shunchaki katta qumdon edi.",
+  "spacecraft": "Ekipaj bir yildan ortiq kosmik kema maketida yashadi.",
+  "spaceship": "Ko'ngillilar kosmik kema maketida yashashdi.",
+  "ultra-long-haul": "Marsga sayohat eng uzoq masofali parvozlarning eng ekstremali bo'lardi.",
+  "vaguely": "Omborxona biroz kosmik kemaga o'xshatib loyihalangan edi."
  }
 });

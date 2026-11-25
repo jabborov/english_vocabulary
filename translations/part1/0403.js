@@ -1,4 +1,4 @@
-// Part 1 topic 0403: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0403: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0403', {
  "A1": {
   "Detroit": "Detroit Amerikada joylashgan.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0403', {
   "shard": "Ochiq kunda Shard tepasiga chiqqan tashrif buyuruvchilar London bo'ylab 60 kilometrgacha masofani ko'ra oladi.",
   "tenant": "Bunday qimmat loyiha foyda keltirishi uchun yuqori haq to'laydigan ijarachilarni jalb qilish hal qiluvchi ahamiyatga ega.",
   "wow": "Dastlabki hayratdan so'ng tanqidchilar minora haqiqatan ham eski shahar silueti bilan uyg'unmi, degan savolni o'rtaga tashladi."
+ },
+ "EX": {
+  "Detroit": "Detroit misoli ajoyib binolar shahar muvaffaqiyatini kafolatlamasligini ko'rsatadi.",
+  "boast": "Bino o'zida mehmonxona, ofislar va hashamatli kvartiralarni mujassam etgan.",
+  "ceramic": "Binodagi ba'zi panellar maxsus keramik qoplamaga ega.",
+  "crane": "Qurilish maydoni atrofida ulkan ko'tarma kranlar turardi.",
+  "fork": "Salatingizni sanchqi bilan yeng.",
+  "fork out": "Kompaniyalar u yerda ofis ijaraga olish uchun ko'p pul sarflashga majbur bo'ladi.",
+  "lease": "Kompaniya ikki qavat uchun o'n yillik ijara shartnomasini imzoladi.",
+  "prosperous": "Baland binolar ko'pincha shaharning gullab-yashnayotganidan dalolat beradi.",
+  "rent out": "Egalari qavatlarni korxonalar va mehmonxonalarga ijaraga berishadi.",
+  "shard": "The Shard binosi ulkan singan shisha parchasi shaklida qurilgan.",
+  "tenant": "Bino hali ham ijarachilar qidirmoqda.",
+  "wow": "Voy! Bu yerdan butun shahar ko'rinib turibdi!"
  }
 });

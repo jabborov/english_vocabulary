@@ -1,4 +1,4 @@
-// Part 1 topic 0209: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0209: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0209', {
  "A1": {
   "great white shark": "Bu katta oq akula.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0209', {
   "swathe": "Haroratning ko'tarilishi okeanning katta hududlarini bir paytlar u yerda gullab-yashnagan turlar uchun yaroqsiz qilib qo'ydi.",
   "turtle": "O't yeyuvchi toshbaqalar dengiz o'tloqlarini sog'lom saqlashda muhim rol o'ynaydi.",
   "weapon": "Tabiatga asoslangan yechimlar iqlim arsenalidagi muhim qurol sifatida tobora ko'proq qaralmoqda."
+ },
+ "EX": {
+  "great white shark": "Endi oq akulalar shimolroqda ham uchramoqda.",
+  "migratory": "Bahorlar iliqroq kelayotgani sababli ko'plab ko'chmanchi qushlar ertaroq uchib kelmoqda.",
+  "ocean floor": "Dengiz o'tlari qirg'oq yaqinidagi okean tubida o'sadi.",
+  "rephrase": "Tushunish osonroq bo'lishi uchun buni boshqacha ifodalab beray.",
+  "sea turtle": "Dengiz toshbaqalari tuxum qo'yish uchun minglab kilometr yo'l bosadi.",
+  "seagrass": "Dengiz o'tlari katta miqdorda uglerodni saqlay oladi.",
+  "sequester": "Dengiz o'tlari o'tloqlari uglerodni juda samarali yutib, saqlab qoladi.",
+  "swathe": "Okeanning ulkan hududlari isib bormoqda.",
+  "turtle": "Toshbaqa dengiz o'tlari orasidan sekin suzib o'tdi.",
+  "weapon": "Dengiz o'tlari iqlim o'zgarishiga qarshi kuchli qurol bo'lishi mumkin."
  }
 });

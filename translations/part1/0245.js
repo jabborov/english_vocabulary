@@ -1,4 +1,4 @@
-// Part 1 topic 0245: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0245: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0245', {
  "A1": {
   "MPs": "Deputatlar parlamentda ishlaydi.",
@@ -215,5 +215,41 @@ VOCAB_TR_STORE('1', '0245', {
   "unorthodox": "G'ayrioddiy yondashuvlar ba'zan dalillar inkor etib bo'lmaydigan darajaga yetguncha rad etiladi.",
   "urine": "Siydikdagi uchuvchan birikmalar ba'zi saraton turlarining kimyoviy izini o'zida tashishi mumkin.",
   "vanilla": "Hatto vanilning arzimas izini ham itning o'ta sezgir burni osongina ilg'aydi."
+ },
+ "EX": {
+  "MPs": "Parlament a'zolari saratonni aniqlash uchun itlardan foydalanishni muhokama qilishdi.",
+  "ad": "Reklama blokeri veb-saytlarda reklamalar paydo bo'lishini to'xtatadi.",
+  "alarm system": "It signalizatsiya tizimidan ham yaxshiroq ishlashi mumkin.",
+  "assist": "Itlar politsiyachilarga ko'p jihatdan yordam beradi.",
+  "avalanche": "Itlar qor ko'chkisi ostida qolgan odamlarni topishga yordam beradi.",
+  "blocker": "Men kompyuterimda reklama blokeridan foydalanaman.",
+  "burglary": "It o'g'irlikning oldini olishga yordam berishi mumkin.",
+  "canary": "Bir paytlar konchilar xavfli gaz haqida ogohlantirish uchun kanareykalardan foydalanishgan.",
+  "claw": "Mushuk meni tirnoqlari bilan tirnab oldi.",
+  "detection": "Itlar giyohvand moddalar va portlovchi moddalarni aniqlashda ishlatiladi.",
+  "detector": "Itlar har qanday elektron detektordan yaxshiroq bo'lishi mumkin.",
+  "deter": "Qo'riqchi itlar o'g'rilarni cho'chitadi.",
+  "deterrent": "Hurayotgan it o'g'rilarni cho'chitadigan yaxshi to'siqdir.",
+  "ex": "U politsiyada xizmat qilgan sobiq itni asrab oldi.",
+  "explosive": "Itlar aeroportlarda portlovchi moddalarni topishga o'rgatiladi.",
+  "go against": "Itlardan foydalanish ko'plab shifokorlarning ishonchiga zid keladi.",
+  "guard dog": "Zavodda qo'riqchi it bor.",
+  "guide dog": "Yo'lboshchi it ko'zi ojiz odamlarga yo'lni kesib o'tishda yordam beradi.",
+  "highly sensitive": "Itning burni o'ta sezgir.",
+  "hoof": "Otning tuyog'i bor, itning esa panjasi.",
+  "naughty": "Kuchukcha sho'xlik qilib, poyabzalimni g'ajib tashladi.",
+  "opposite word": "\"Orthodox\" so'zining qarama-qarshi ma'noli so'zi — \"unorthodox\".",
+  "orthodoxy": "Kasalliklarni aniqlash uchun itlardan foydalanish an'anaviy tibbiy qarashlarga zid.",
+  "pop up": "Ekranda bezovta qiluvchi reklamalar paydo bo'ladi.",
+  "prostate": "Prostata — erkaklardagi kichik bez.",
+  "prostate cancer": "Itlar prostata saratonini hidlab aniqlashga o'rgatilgan.",
+  "screen out": "Itlar boshqa hidlarni chetga surib, bittasiga diqqatini jamlay oladi.",
+  "sensor": "Itning burni ko'pchilik mashinalarga qaraganda yaxshiroq sensor.",
+  "suitability": "Itlar detektor sifatida yaroqliligi bo'yicha sinovdan o'tkaziladi.",
+  "theft": "Qo'riqchi itlar o'g'irlikning oldini olishga yordam beradi.",
+  "trespassing": "Lavhada \"Begona kirishi taqiqlanadi\" deb yozilgan.",
+  "unorthodox": "Saratonni aniqlash uchun itlardan foydalanish noan'anaviy usuldir.",
+  "urine": "Itlar saratonni aniqlash uchun siydik namunalarini hidlashadi.",
+  "vanilla": "Itlarni xonada yashirilgan vanil hidini topishga o'rgatish mumkin."
  }
 });

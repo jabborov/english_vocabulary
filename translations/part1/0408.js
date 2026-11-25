@@ -1,4 +1,4 @@
-// Part 1 topic 0408: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0408: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0408', {
  "A1": {
   "army unit": "U armiya bo'linmasida xizmat qiladi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0408', {
   "repeatable": "Bir martalik kod o'z tuzilishiga ko'ra takrorlanmaydi, aynan shuning uchun uni buzish juda qiyin.",
   "sender": "Agar jo'natuvchining kod kitobi topilsa, xabar nihoyat o'qilishi mumkin edi.",
   "unbreakable": "Kod uni yaratishda ishlatilgan kalit abadiy yo'qolgan taqdirdagina haqiqatan ham buzib bo'lmaydigan bo'ladi."
+ },
+ "EX": {
+  "army unit": "Xabar Britaniyadagi harbiy qismga yuborilgan bo'lishi mumkin.",
+  "clean out": "Bir kishi mo'rini tozalayotganda kaptarni topib oldi.",
+  "contextual": "Kontekstga oid ma'lumotlarsiz xabarni tushunish qiyin.",
+  "fireplace": "Kaptar kamin ustidagi mo'ridan topildi.",
+  "for the time being": "Hozircha xabar sirligicha qolmoqda.",
+  "pigeon": "Urush paytida maxfiy xabarni kaptar olib borgan.",
+  "recipient": "Xabar hech qachon qabul qiluvchiga yetib bormadi.",
+  "repeatable": "Yaxshi shifrlash tizimi tez va takrorlanuvchan bo'lishi kerak.",
+  "sender": "Xabarni kim jo'natgani hech kimga ma'lum emas.",
+  "unbreakable": "Mutaxassislar bu shifrni ochib bo'lmasligi mumkin, deyishdi."
  }
 });

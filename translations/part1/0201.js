@@ -1,4 +1,4 @@
-// Part 1 topic 0201: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0201: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0201', {
  "A1": {
   "affect up": "Sovuq havo sog'lig'ingizga ta'sir qilishi mumkin.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0201', {
   "squirt": "Kuniga ikki marta sho'r suv purkash arzon davo, garchi uni mo'jizaviy dori deb bo'lmasa ham.",
   "squirt up": "Burun teshiklariga sho'r suv purkash eski usul bo'lib, ayrim kichik sinovlar endi uni tasdiqlayotganga o'xshaydi.",
   "unwell": "O'zini yomon his qilish ko'pincha immun tizimi himoyani boshlaganining birinchi belgisidir."
+ },
+ "EX": {
+  "affect up": "Stress immun tizimingiz qanchalik yaxshi ishlashiga ta'sir qilishi mumkin.",
+  "back up": "Bu da'volarni tasdiqlaydigan biror ilmiy dalil bormi?",
+  "boo": "Yomon xabar e'lon qilinganda olomon \"Uu!\" deb qichqirdi.",
+  "cold water": "Ba'zi odamlar shamollamaslik uchun har kuni ertalab sovuq suvda suzishadi.",
+  "common cold": "Oddiy shamollashning hali ham davosi yo'q.",
+  "cortisol": "Kortizolning yuqori darajasi organizmning infeksiyaga qarshi kurashishini qiyinlashtirishi mumkin.",
+  "cough": "Shamollashdan keyin u ikki hafta qattiq yo'taldi.",
+  "dampen": "Stress immun tizimini susaytirishi mumkin.",
+  "echinacea": "Ko'p odamlar shamollash boshlanayotganini sezganda exinatseya ichishadi.",
+  "in good order": "Immun tizimingizni yaxshi holatda saqlash uchun yaxshi uxlang va to'g'ri ovqatlaning.",
+  "infect": "Virus havodagi mayda tomchilar orqali odamlarni yuqtirishi mumkin.",
+  "presume": "Menimcha, S vitamini yordam beradi, lekin aniq bilmayman.",
+  "prone": "Yomon uxlaydigan odamlar shamollashga ko'proq moyil bo'ladi.",
+  "rotten": "Shamollaganim sababli butun dam olish kunlari o'zimni juda yomon his qildim.",
+  "saline": "Shifokor burunni sho'r eritma bilan yuvishni maslahat berdi.",
+  "snuffle": "Bolalarning hammasi shamollab, burunlarini tortishardi.",
+  "squirt": "U baliq ustiga biroz limon sharbatini sepib yubordi.",
+  "squirt up": "Burunni tozalash uchun sho'r suvni burunga sepib yuborasiz.",
+  "unwell": "U o'zini yaxshi his qilmagani uchun uyda qoldi."
  }
 });

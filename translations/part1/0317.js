@@ -1,4 +1,4 @@
-// Part 1 topic 0317: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0317: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0317', {
  "A1": {
   "Arabic": "Men arab tilini o'rganyapman.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0317', {
   "slaughter": "Hayit paytida chorva mollarini marosim bo'yicha so'yish go'shtni kambag'allar bilan baham ko'rish bilan birga kechadi.",
   "temple": "Ibodat joylari — xoh cherkov, xoh masjid, xoh ibodatxona bo'lsin — ko'pincha jamoat hayotida markaziy o'rin tutadi.",
   "worship": "Ko'plab mamlakatlarda e'tiqod erkinligi qonun bilan himoyalangan."
+ },
+ "EX": {
+  "Arabic": "Qur'on arab tilida yozilgan.",
+  "Ramadan": "Ramazon musulmonlar uchun muqaddas ro'za oyidir.",
+  "better": "Ko'p odamlar bir kun ro'za tutgandan keyin o'zlarini yaxshiroq his qilishlarini aytishadi.",
+  "dawn": "Ramazon oyida musulmonlar tong otguncha ovqatlanadilar.",
+  "donation": "Ramazonda kambag'allarga xayr-ehson qilish muhim.",
+  "fasting": "Ramazondagi ro'za tongdan quyosh botguncha davom etadi.",
+  "holy": "Ramazon musulmonlar uchun muqaddas oydir.",
+  "holy place": "Makka islomdagi eng muhim muqaddas joydir.",
+  "mosque": "Ramazon oyida masjid juda gavjum bo'ladi.",
+  "pilgrimage": "Millionlab musulmonlar Makkaga ziyoratga borishadi.",
+  "privately": "Ba'zi odamlar uyda yolg'iz namoz o'qishni afzal ko'rishadi.",
+  "religious ceremony": "Hayit Ramazon oxiridagi diniy marosimdir.",
+  "research center": "Tadqiqot markazi Ramazonning salomatlikka ta'sirini o'rgandi.",
+  "slaughter": "Hayit bayrami uchun qo'ylar so'yiladi.",
+  "temple": "Turli dindagi odamlar cherkovda, masjidda yoki ibodatxonada ibodat qilishadi.",
+  "worship": "Odamlar ibodat qilish uchun masjidga boradilar."
  }
 });

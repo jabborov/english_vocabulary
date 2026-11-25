@@ -1,4 +1,4 @@
-// Part 1 topic 0048: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0048: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0048', {
  "A1": {
   "amount of money": "Bu katta miqdordagi pul.",
@@ -275,5 +275,51 @@ VOCAB_TR_STORE('1', '0048', {
   "sticker": "NFT'larni kattalar uchun futbol stikerlari, faqat ancha qimmatroq, deb ta'riflashgan.",
   "swap": "Bir NFT'ni boshqasiga shunchaki almashtirib bo'lmaydi, chunki ularning hech ikkitasi bir xil emas.",
   "token": "Tokenga egalik qilish u ifodalaydigan tasvirga mualliflik huquqiga egalik qilishni anglatmasligi mumkin."
+ },
+ "EX": {
+  "amount of money": "Odamlar NFTlar uchun juda katta miqdorda pul to'lashmoqda.",
+  "auction": "Raqamli san'at asari auksionda 69 million dollarga sotildi.",
+  "audio": "Hatto audio fayllar ham NFT sifatida sotilishi mumkin.",
+  "autograph": "NFT biroz raqamli dastxatga o'xshaydi.",
+  "balance": "Biz hayajon va ehtiyotkorlik o'rtasida muvozanat saqlashimiz kerak.",
+  "big money": "Ba'zi NFTlar katta pulga sotilgan.",
+  "brilliant": "Ba'zilar NFTni ajoyib g'oya deyishadi.",
+  "celebrity": "Ko'plab mashhur shaxslar NFT sotib olgan yoki sotgan.",
+  "chaotic": "NFT bozori juda tartibsiz bo'lishi mumkin.",
+  "coin": "Ba'zi odamlar eski tangalarni yig'ishadi.",
+  "collectable": "NFT – raqamli kolleksiya buyumlarining yangi turi.",
+  "collector": "Kolleksionerlar NFTlar uchun katta pul to'lashmoqda.",
+  "comic strip": "Ba'zi odamlar eski komikslarni yig'ishadi.",
+  "craze": "2021-yilda NFTlar ommaviy ishtiyoqqa aylandi.",
+  "damaging": "Firibgarliklar butun bozorga zarar yetkazishi mumkin.",
+  "desirable": "Noyob NFTlar kolleksionerlar uchun juda qimmatli va xohishli.",
+  "dishonest": "Ba'zi sotuvchilar insofsiz.",
+  "dishonestly": "Tasvirlar nohalol yo'l bilan olingan.",
+  "dubious": "NFT bo'yicha ba'zi bitimlar biroz shubhali ko'rinadi.",
+  "famously": "Internet ixtirochisi NFT sotgani bilan mashhur bo'lgan.",
+  "file": "NFT tasvir yoki audio faylga bog'langan bo'lishi mumkin.",
+  "footballer": "Ba'zi mashhur futbolchilar muxlislariga NFT sotishadi.",
+  "for sale": "Hozir ko'plab raqamli san'at asarlari NFT sifatida sotuvga qo'yilgan.",
+  "fungible": "Pul almashtiriladigan narsa – bir funt boshqa har qanday funt bilan bir xil.",
+  "innovation": "NFTlar – yangi moliyaviy innovatsiya.",
+  "insist": "Tarafdorlar NFTlar kelajak ekanini qat'iy ta'kidlashadi.",
+  "interchange": "Oddiy pulni bir-biriga almashtirish mumkin, NFTlarni esa yo'q.",
+  "investor": "Investorlar NFTlarga katta mablag' sarflashdi.",
+  "legitimate": "NFT bozori qonuniymi?",
+  "obtain": "Ba'zi NFTlar nohalol yo'l bilan qo'lga kiritilgan.",
+  "ownership": "NFT raqamli buyumga egalik huquqini tasdiqlaydi.",
+  "painting": "NFT asl rasmga egalik qilishga o'xshaydi.",
+  "profit": "Ba'zi odamlar NFTlardan katta foyda ko'rishdi.",
+  "pyramid scheme": "Ba'zi tanqidchilar NFTlarni moliyaviy piramida deb atashgan.",
+  "rogue": "Ba'zi firibgar sotuvchilar xaridorlarni aldashadi.",
+  "scam": "NFTlarning ba'zi savdolari firibgarlik bo'lib chiqdi.",
+  "scheme": "Bu tez boyib ketish uchun tuzilgan nayrangga o'xshardi.",
+  "sell off": "Ba'zi xaridorlar NFTlarini sotib yuborishga shoshilishdi.",
+  "shona": "Shona NFTlar nega bunchalik mashhurligini tushuntirdi.",
+  "source code": "Butunjahon o'rgimchak to'rining dastlabki kodi NFT sifatida sotilgan.",
+  "stamp": "Bolaligimda marka yig'ardim.",
+  "sticker": "Bolalar futbol stikerlarini yig'ishni yaxshi ko'rishadi.",
+  "swap": "Bolalar maktabda futbol stikerlarini ayirboshlashadi.",
+  "token": "NFT – \"non-fungible token\", ya'ni almashtirib bo'lmaydigan token degan ma'noni anglatadi."
  }
 });

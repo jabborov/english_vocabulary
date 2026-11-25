@@ -1,4 +1,4 @@
-// Part 1 topic 0440: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0440: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0440', {
  "A1": {
   "calcium": "Sutda kalsiy bor.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0440', {
   "sodium": "Oddiy tuzni dengiz o'tlari bilan almashtirish ta'mni saqlagan holda natriy miqdorini kamaytirdi.",
   "tomato sauce": "Pomidor sousi likopin kabi antioksidantlarni beradi, ular ba'zi kasalliklardan himoya qilishi mumkin.",
   "zinc": "Xamirga dengiz o'tlarini qo'shish pitsadagi rux va yod miqdorini oshirdi."
+ },
+ "EX": {
+  "calcium": "Sut va pishloq kalsiyning yaxshi manbaidir.",
+  "covered": "Pitsa go'sht o'rniga sabzavotlar bilan qoplangan edi.",
+  "fish and chips": "Fish and chips — qovurilgan baliq va kartoshka — an'anaviy Britaniya taomidir.",
+  "laden": "Olib ketiladigan taomlar ko'pincha tuz va yog'ga to'la bo'ladi.",
+  "nutritionally": "Yangi pitsa ozuqaviy jihatdan muvozanatlangan.",
+  "red pepper": "Foydali pitsa ustiga qizil qalampir qo'yilgan.",
+  "saturate": "Bozor nosog'lom tezkor taomlar bilan to'lib-toshgan.",
+  "smother": "Ko'pchilik pitsalar ustiga pishloq qalin qilib bosib tashlangan bo'ladi.",
+  "sodium": "Natriyning ortiqchaligi qon bosimingizni oshirishi mumkin.",
+  "tomato sauce": "Pishloqdan oldin xamir asosiga pomidor sousini suring.",
+  "zinc": "Pitsada immunitet tizimiga yordam beradigan rux bor."
  }
 });

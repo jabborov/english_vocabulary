@@ -1,4 +1,4 @@
-// Part 1 topic 0259: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0259: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0259', {
  "A1": {
   "Google": "Men Google'dan foydalanaman.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0259', {
   "steering wheel": "Rulsiz avtomobil ishonchning insondan mashinaga to'liq o'tishini anglatar edi.",
   "take back": "Tadqiqotlar chalg'igan haydovchi boshqaruvni xavfsiz qaytarib olishi uchun bir necha soniya ketishi mumkinligini ko'rsatadi.",
   "yellow light": "Haydovchisiz avtomobilning sariq chiroqqa qanday munosabat bildirishi u har daqiqada qabul qilishi kerak bo'lgan son-sanoqsiz qarorlarni ko'rsatib beradi."
+ },
+ "EX": {
+  "Google": "Google haydovchisiz avtomobillarni sinovdan o'tkazgan birinchi kompaniyalardan biri edi.",
+  "accelerate": "Svetofor yashil yonganda avtomobil ravon tezlashadi.",
+  "all in all": "Umuman olganda, haydovchisiz avtomobillar yo'llarni xavfsizroq qilishi mumkin.",
+  "appropriately": "Haydovchisiz avtomobillar har qanday vaziyatga to'g'ri munosabat bildirishi kerak.",
+  "autopilot": "Ba'zi avtomobillarda allaqachon avtopilot funksiyasi bor.",
+  "backseat": "Haydovchisiz avtomobilda haydovchi ikkinchi darajali rolga o'tadi.",
+  "backseat driver": "Dadam orqa o'rindiqdan turib haydovchiga maslahat beraverib, juda jonga tegadi.",
+  "bat": "Darhol tan olaman, haydovchisiz avtomobillar meni xavotirga soladi.",
+  "brake pedal": "Mashinani to'xtatish uchun tormoz pedalini bosing.",
+  "cheated": "Mashina haydashni yaxshi ko'radigan haydovchilar o'zi boshqariladigan avtomobillar tufayli o'zlarini aldangandek his qilishlari mumkin.",
+  "drive out": "Avtomobil garajdan o'zi haydab chiqa oladi.",
+  "driving": "Ko'pchilik mashina haydashni yaxshi ko'radi va o'zi boshqariladigan avtomobilni xohlamaydi.",
+  "emergency brake": "Biror nosozlik yuz bersa, avtomobilda favqulodda tormoz bor.",
+  "flat out": "Muhandislar haydovchisiz avtomobillarni xavfsiz qilish uchun bor kuchlari bilan ishlamoqda.",
+  "fly on": "Aksariyat samolyotlar parvozning katta qismida avtopilotda uchadi.",
+  "for that matter": "Men haydovchisiz avtomobillarga ishonmayman, shu jumladan kompyuterlarga ham.",
+  "mundane": "Haydovchisiz avtomobillar ishga har kungi qatnov kabi zerikarli safarlarni o'z zimmasiga olishi mumkin.",
+  "navigating": "Haydovchisiz avtomobillar yo'l topish ishini to'liq sizning o'rningizga bajaradi.",
+  "override": "Zarur bo'lsa, haydovchi kompyuter qarorini bekor qilib, boshqaruvni o'z qo'liga olishi mumkin.",
+  "pedal": "Avtomobilda tormoz va gaz uchun pedallar bor.",
+  "red light": "Haydovchisiz avtomobil qizil chiroqda to'xtadi.",
+  "steering": "Rul boshqaruvi va tormozlarni kompyuter nazorat qiladi.",
+  "steering wheel": "Ba'zi haydovchisiz avtomobillarda hatto rul ham yo'q.",
+  "take back": "Haydovchi istalgan paytda boshqaruvni qaytarib olishga tayyor turishi kerak.",
+  "yellow light": "Haydovchisiz avtomobil sariq chiroqda to'xtashi kerakmi yoki yurishi kerakmi?"
  }
 });

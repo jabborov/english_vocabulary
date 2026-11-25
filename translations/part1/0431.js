@@ -1,4 +1,4 @@
-// Part 1 topic 0431: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0431: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0431', {
  "A1": {
   "defeatist": "Bunchalik tushkunlikka berilma!",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0431', {
   "restful": "Ko'pchilik ekranlardan uzoqda o'tkazilgan bir necha osoyishta daqiqa diqqatini yaxshilashini payqaydi.",
   "sharpen": "Kichik dozalarda stress gormonlari sezgilarni o'tkirlashtiradi va tanani harakatga tayyorlaydi.",
   "take a breath": "Mutaxassislar ish haddan tashqari og'ir tuyulganda chuqur nafas olib, bir qadam ortga chekinishni tavsiya qiladi."
+ },
+ "EX": {
+  "defeatist": "Ishlar yomon ketganda tushkunlikka berilmaslikka harakat qiling.",
+  "mental exhaustion": "Tanaffussiz uzoq soatlab ishlash ruhiy charchoqqa olib kelishi mumkin.",
+  "overloaded": "Ko'plab xodimlar elektron xatlar va yig'ilishlardan haddan tashqari yuklanganini his qiladi.",
+  "overwhelmed": "Qilishi kerak bo'lgan ishlarning ko'pligidan u o'zini esankirab qolgandek his qildi.",
+  "restful": "Qishloqdagi osoyishta dam olish kunlari unga hordiq chiqarishga yordam berdi.",
+  "sharpen": "Ozgina stress diqqatingizni charxlashi mumkin.",
+  "take a breath": "Stressni his qilganingizda to'xtang va chuqur nafas oling."
  }
 });

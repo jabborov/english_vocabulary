@@ -1,4 +1,4 @@
-// Part 1 topic 0295: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0295: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0295', {
  "A1": {
   "afar": "Ular uzoqdan kelishdi.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0295', {
   "take to be": "Jamoatchilik astronavtlarni qo'rqmas deb hisoblashga moyil, garchi ularning o'zlari qo'rquvni ehtiyotkorlik bilan boshqarishlarini aytsalar ham.",
   "wasting": "Astronavtlarda mushaklarning qurib borishi bo'yicha tadqiqotlar Yerdagi keksa odamlarga yordam berishi mumkin.",
   "weightlessness": "O'quv parvozlari vaznsizlikni har safar taxminan yigirma soniya davomida taqlid qiladi."
+ },
+ "EX": {
+  "afar": "Kosmonavtlar Yerni uzoqdan ko'rib, uning naqadar mo'rt ekanini his qilishadi.",
+  "altitude": "Kosmik stansiya taxminan 400 kilometr balandlikda uchadi.",
+  "buoyancy": "Kosmonavtlar suv ostida mashq qilishadi, chunki suvning ko'tarish kuchi biroz vaznsizlikka o'xshaydi.",
+  "capsule": "Uchirilgandan so'ng kapsula raketadan ajraldi.",
+  "curvature": "Koinotdan Yerning egriligini aniq ko'rish mumkin.",
+  "exert": "Ochiq koinotga chiqqanda kosmonavtlar kuchlarini juda ehtiyotkorlik bilan sarflashlari kerak.",
+  "nosedive": "O'quv samolyotlari bir necha soniyalik vaznsizlik hosil qilish uchun keskin pastga sho'ng'iydi.",
+  "pressurized": "Kosmonavtning hayotini saqlab qolish uchun skafandr ichida bosim ushlab turiladi.",
+  "radiation": "Kosmonavtlar Yerdagi odamlarga qaraganda ko'proq radiatsiyaga duchor bo'ladi.",
+  "sink": "Skafandrlariga yuk taqilgan kosmonavtlar na suv yuzasiga qalqib chiqadi, na cho'kadi.",
+  "somersault": "Vaznsizlikda havoda umbaloq oshishingiz mumkin.",
+  "space capsule": "Kosmik kapsula okeanga xavfsiz qo'ndi.",
+  "spaceman": "Bolaligida u kosmonavt bo'lishni orzu qilgan.",
+  "spacesuit": "Yerda skafandrning og'irligi 100 kilogrammdan oshadi.",
+  "spacewalk": "U stansiyani ta'mirlash uchun olti soatlik ochiq koinotga chiqishni amalga oshirdi.",
+  "spacewalking": "Ochiq koinotda ishlash kosmonavt ishining eng qiyin qismlaridan biridir.",
+  "strand": "Kosmonavtlarni tayyorlash ko'p yo'nalishlardan iborat: jismoniy tayyorgarlik, fan va jamoaviy ish.",
+  "take to be": "Sizningcha, ochiq koinotga chiqish qanday bo'ladi?",
+  "wasting": "Mushaklarning so'lishi koinotdagi kosmonavtlar uchun jiddiy muammo.",
+  "weightlessness": "Kosmonavtlar maxsus samolyotlarda vaznsizlikka tayyorgarlik ko'rishadi."
  }
 });

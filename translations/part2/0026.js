@@ -1,4 +1,4 @@
-// Part 2 topic 0026: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0026: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0026', {
  "A1": {
   "affecting": "Yomg'ir yo'llarga ta'sir qilyapti.",
@@ -179,5 +179,35 @@ VOCAB_TR_STORE('2', '0026', {
   "tropical storm": "Tropik bo'ronga qadar pasaytirilgan bo'lsa-da, bu tizim yog'dirgan yomg'irning ulkan hajmi tufayli ko'plab dovullardan ham halokatliroq bo'lib chiqdi.",
   "typhoon": "Qayd etilganlar orasida eng kuchlilaridan biri bo'lgan tayfun ancha kuchsizroq bo'ronlarga mo'ljallangan himoya inshootlarini yengib o'tdi.",
   "widespread": "Iqlim faniga nisbatan keng tarqalgan shubha asta-sekin uning asosiy xulosalarini keng e'tirof etish bilan almashdi."
+ },
+ "EX": {
+  "affecting": "Ekstremal ob-havo dunyo bo'ylab millionlab odamlarga ta'sir ko'rsatmoqda.",
+  "casualty": "Bo'rondan keyin qurbonlar haqida xabar berilmadi.",
+  "come onto": "Siklon ertaga erta tongda quruqlikka chiqishi kutilmoqda.",
+  "cyclone": "Siklon kecha tunda Bangladesh sohiliga yetib keldi.",
+  "destructive": "Bu mamlakat tarixidagi eng vayronkor bo'ronlardan biri edi.",
+  "downhill": "Loy pastga qarab oqib, qishloqqa kirib keldi.",
+  "drown": "Daryo qirg'oqlaridan toshib chiqqanida o'nlab odamlar cho'kib ketdi.",
+  "flood": "Suv toshqini minglab odamlarni uylarini tark etishga majbur qildi.",
+  "form over": "Dovullar iliq okean suvlari ustida hosil bo'ladi.",
+  "get swept": "Bir nechta mashinani toshqin suvi oqizib ketdi.",
+  "hurricane": "Dovul Floridada minglab uylarni vayron qildi.",
+  "inland": "Bo'ron quruqlik ichkarisiga siljib, kuchsizlandi.",
+  "landslide": "Ko'chki qishloqqa boradigan asosiy yo'lni to'sib qo'ydi.",
+  "likelihood": "Iliqroq dengizlar kuchliroq bo'ronlar ehtimolini oshiradi.",
+  "likelihood of flooding": "Tepaliklardagi kuchli yomg'ir vodiyda suv toshqini ehtimolini oshiradi.",
+  "long-term": "Olimlar iqlim o'zgarishining uzoq muddatli oqibatlarini o'rganmoqda.",
+  "military attack": "Shaharga yetgan zarar xuddi u harbiy hujumga uchragandek ko'rinardi.",
+  "mudslide": "Bir necha kunlik yomg'irdan keyin bir nechta uy sel ostida qoldi.",
+  "particularly": "Sohil hududlari bo'ron zarariga ayniqsa zaif.",
+  "push by": "Tayfun orolning shimolidan o'tib ketdi.",
+  "slope": "Tik yonbag'irlarda qurilgan uylar ko'chki xavfi ostida.",
+  "storm surge": "Bo'ron ko'targan to'lqin plyajga yaqin ko'chalarni suv bosdi.",
+  "storm sweeping": "Aholi ko'rfaz bo'ylab yopirilib kelayotgan bo'ronni kuzatdi.",
+  "terrible": "Bo'ron sohil bo'yidagi uylarga dahshatli zarar yetkazdi.",
+  "to lead to": "Kuchli yomg'ir tog'li hududlarda ko'chkilarga olib kelishi mumkin.",
+  "tropical storm": "Tropik bo'ron orollarga kuchli yomg'ir olib keldi.",
+  "typhoon": "Bugun ertalab kuchli tayfun Filippinga zarba berdi.",
+  "widespread": "Dovul keng ko'lamli elektr uzilishlariga sabab bo'ldi."
  }
 });

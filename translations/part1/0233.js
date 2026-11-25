@@ -1,4 +1,4 @@
-// Part 1 topic 0233: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0233: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0233', {
  "A1": {
   "Dane": "U daniyalik.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0233', {
   "sexy": "\"Baxt geni\" jozibali g'oya, ammo haqiqat ancha murakkabroq.",
   "synonym": "Aniq sinonimning yo'qligi tushunchaning qisman o'z madaniyati tomonidan shakllanganini ko'rsatadi.",
   "tuck up": "Kamin yonida o'ranib o'tirish tasviri ko'plab britaniyaliklar \"hygge\" deganda tasavvur qiladigan narsani ifodalaydi."
+ },
+ "EX": {
+  "Dane": "Daniyaliklar ko'pincha yer yuzidagi eng baxtli odamlardan biri sifatida ta'riflanadi.",
+  "Nordic": "Shimoliy Yevropa mamlakatlari ko'pincha dunyo baxt reytinglarida yetakchilik qiladi.",
+  "cosiness": "Daniyaliklarning \"hygge\" g'oyasi butunlay shinamlik haqida.",
+  "fooling": "Daniyaliklar haqiqatan ham baxtli — hazil emas!",
+  "freezing": "Qahraton qishlarda ham daniyaliklar baxtli ko'rinadi.",
+  "inoculation": "Mustahkam jamoa baxtsizlikka qarshi o'ziga xos emlash bo'lishi mumkin.",
+  "keeper": "\"Hygge\" g'oyasi saqlab qolishga arziydi — barchamiz uni sinab ko'rishimiz kerak.",
+  "loanword": "\"Hygge\" — ingliz tilida ommalashib ketgan daniyacha o'zlashma so'z.",
+  "rank": "Daniya ko'pincha dunyodagi eng baxtli mamlakatlar qatoridan o'rin oladi.",
+  "sexy": "Baxt bo'yicha tadqiqotlar olimlar uchun juda qiziqarli mavzuga aylandi.",
+  "synonym": "\"Hygge\" so'zining ingliz tilida aniq sinonimi yo'q.",
+  "tuck up": "Hygge — divanda adyolga o'ralib, issiq ichimlik ichib o'tirish demakdir."
  }
 });

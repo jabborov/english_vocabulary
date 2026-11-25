@@ -1,4 +1,4 @@
-// Part 2 topic 0025: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0025: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0025', {
  "A1": {
   "Gosh!": "Voy! Bu juda katta-ku!",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('2', '0025', {
   "the culture at the moment": "Tomoshabozlik va ko'z-ko'z qilishga urg'u beradigan hozirgi madaniyatni bobo-buvilarimiz tanimagan bo'lardi.",
   "to last": "Bunday bazmlarning asal oyining o'zidan ham uzoqroq davom etishi ba'zi kuzatuvchilarga biroz bema'nilikdek tuyuladi.",
   "veil": "Fata uning G'arb to'ylaridagi hozirgi rolidan ancha oldinroq paydo bo'lgan madaniy va diniy ma'no qatlamlarini o'zida mujassam etadi."
+ },
+ "EX": {
+  "Gosh!": "Voy-bo'! Qizlar bazmi shunchalik qimmatga tushganiga ishonolmayman.",
+  "L plates": "Kuyov butun oqshom orqasiga \"L\" (o'rganuvchi haydovchi) belgisini taqib yurishga majbur bo'ldi.",
+  "a hen do": "U dam olish kunlarini Braytonda o'nta dugonasi bilan qizlar bazmida o'tkazdi.",
+  "a stag do": "Ko'plab erkaklar endi butun dam olish kunlari davom etadigan bo'ydoqlik bazmi uchun chet elga borishadi.",
+  "apart from": "Kuyovdan tashqari, bo'ydoqlar kechasidagi hamma kostyum kiygan edi.",
+  "barn": "Endi ko'proq juftliklar to'y bazmini eski omborxonada o'tkazishmoqda.",
+  "bride's": "Kelinning dugonalari qizlar kechasining har bir tafsilotini rejalashtirishdi.",
+  "bride-to-be": "Bo'lajak kelinni dugonalari restoranda kutilmaganda hayratga solishdi.",
+  "fancy": "Qizlar bazmi uchun dam olish kunlarini boshqa joyda o'tkazishni xohlaysanmi?",
+  "hen night": "Bo'lajak kelin to'ydan bir hafta oldin qizlar kechasini o'tkazdi.",
+  "i.e.": "Bazm faqat yaqin do'stlar uchun, ya'ni kelinni yaxshi taniydiganlar uchun.",
+  "involve": "An'anaviy bo'ydoqlik kechasi odatda ko'p ichishni o'z ichiga oladi.",
+  "newly-weds": "Yangi turmush qurganlar to'ydan keyingi kuni asal oyiga jo'nab ketishdi.",
+  "outfit": "Har bir kelin dugonasi bir xil pushti libos kiygan edi.",
+  "pretend veil": "Bo'lajak kelin o'yinchoq parda va \"Kelin\" deb yozilgan nishon taqib olgan edi.",
+  "silly": "Mehmonlardan bazmda kulgili shlyapalar kiyish so'raldi.",
+  "stag night": "Do'stlari uning uyi yaqinidagi pabda bo'ydoqlik kechasini tashkil qilishdi.",
+  "take place": "Bo'ydoqlik bazmi kelasi oy Pragada bo'lib o'tadi.",
+  "the culture at the moment": "Hozirgi urf faqat bir kecha emas, butun dam olish kunlarini bayram qilib o'tkazish.",
+  "to last": "Ba'zi qizlar bazmlari endi uch-to'rt kun davom etadi.",
+  "veil": "U to'y kunida uzun oq parda taqdi."
  }
 });

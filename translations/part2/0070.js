@@ -1,4 +1,4 @@
-// Part 2 topic 0070: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0070: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0070', {
  "A1": {
   "afford": "Bunga pulim yetmaydi.",
@@ -233,5 +233,44 @@ VOCAB_TR_STORE('2', '0070', {
   "unwrap": "Hech qachon o'ramidan ochilmagan kiyimlarga to'la shkaflar mahsulot emas, balki xaridning o'zi maqsad bo'lganini ko'rsatadi.",
   "when it comes to": "Gap majburiy xaridlarga kelganda, zavq narsaga egalik qilishda emas, balki uni sotib olishda bo'ladi.",
   "write down": "Har bir xaridni shunchaki yozib qo'yish istakni to'xtatib qo'yishi mumkin bo'lgan mulohaza lahzasini yuzaga keltiradi."
+ },
+ "EX": {
+  "afford": "Xaridga ruju qo'yganlar puli yetmaydigan narsalarni sotib olishadi.",
+  "antique": "U butun pulini antiqa buyumlarga sarflaydi.",
+  "basis": "U har kuni xarid qilgani boradi.",
+  "bombard": "Bizni har kuni reklamalar bilan bombardimon qilishadi.",
+  "borrowing": "Kredit kartalari orqali qarz olish qimmatga tushadi.",
+  "compulsive": "Xaridga bo'lgan nazoratsiz ishtiyoq hayotni barbod qilishi mumkin.",
+  "correlation": "Tushkun kayfiyat va xarid qilish o'rtasida bog'liqlik bor.",
+  "debt": "Xaridga ruju qo'yganlarning ko'pchiligi oxir-oqibat qarzga botadi.",
+  "depressed": "Ba'zi odamlar tushkunlikka tushganda xarid qilishadi.",
+  "desperate": "U yangi ko'ylakni sotib olishni juda-juda xohlardi.",
+  "esteem": "Xarid qilish o'zingizga bo'lgan hurmatni tezda oshirishi mumkin.",
+  "fit in": "Ba'zi odamlar do'stlariga moslashish uchun xarid qilishadi.",
+  "freely": "Hozirgi kunda kredit olish juda oson.",
+  "get back": "Do'kondan qaytganimda o'zimni aybdor his qilaman.",
+  "guilty": "Xarid qilganimdan keyin doim o'zimni aybdor his qilaman.",
+  "lead on": "Bitta kichik xarid ko'plab boshqa xaridlarga olib kelishi mumkin.",
+  "leak": "Har oy hisobimdan pul sizib chiqib ketadi.",
+  "leakage": "Mayda xaridlar byudjetingizdan pulning sizib chiqishiga sabab bo'ladi.",
+  "majority": "Ko'pchilik odamlar hech qanday muammosiz xarid qilishdan zavqlanadi.",
+  "move on": "Keling, keyingi savolga o'tamiz.",
+  "paper out": "Xarajatlaringizni aniq ko'rish uchun ularni qog'ozga tushirib chiqing.",
+  "pay for": "U sotib olgan barcha narsalari uchun pul to'lay olmadi.",
+  "piece of paper": "Xarajatlaringizni bir varaq qog'ozga yozing.",
+  "restrained": "Xarid qilganda odatda ancha o'zimni tiyaman.",
+  "retail": "Rojdestvodan oldin chakana savdo hajmi oshadi.",
+  "shop": "U har dam olish kuni xarid qiladi.",
+  "shopaholic": "Menimcha, men xaridga ruju qo'ygan odamman.",
+  "shopper": "Ko'chalar xaridorlarga to'la edi.",
+  "spend on": "Kiyimga qancha pul sarflaysiz?",
+  "step in": "Uning qarzlarini to'lash uchun oilasi aralashishiga to'g'ri keldi.",
+  "thankfully": "Xayriyatki, u xarid qilish muammosi bo'yicha yordam oldi.",
+  "therapy": "U xarid qilishni \"savdo terapiyasi\" deb ataydi.",
+  "tighten": "Bank kredit kartalari bo'yicha qoidalarini kuchaytirdi.",
+  "tighten one's belt": "Bu yil kamarimizni mahkamroq bog'lashimiz kerak.",
+  "unwrap": "Xaridga ruju qo'yganlarning ba'zilari sotib olgan narsalarini hatto o'ramidan ham ochishmaydi.",
+  "when it comes to": "Gap xarid qilishga kelganda, o'zimni to'xtata olmayman.",
+  "write down": "Sotib olgan har bir narsangizni yozib boring."
  }
 });

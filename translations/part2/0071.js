@@ -1,4 +1,4 @@
-// Part 2 topic 0071: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0071: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0071', {
  "A1": {
   "arrival": "Biz uning kelishini kutdik.",
@@ -209,5 +209,40 @@ VOCAB_TR_STORE('2', '0071', {
   "typically": "Bunday hikoyalar, sonlar aslida o'zgarganmi yoki yo'qmi, odatda har yili qayta paydo bo'ladi.",
   "work at": "Fobiyadan xalos bo'lish, odatdagi har qanday o'zgarish kabi, vaqt o'tishi bilan ustida ishlashni talab qiladi.",
   "workshop": "Seminar gipnoterapiyani o'rgimchaklar bilan bosqichma-bosqich, nazorat ostidagi aloqa bilan uyg'unlashtiradi."
+ },
+ "EX": {
+  "arrival": "Kuzning kelishi ko'proq o'rgimchak degani.",
+  "breeding": "Issiq yoz ko'payish uchun qulay bo'ldi.",
+  "come along": "Keyin katta bir o'rgimchak paydo bo'ldi.",
+  "confront": "Mashg'ulotda odamlar o'rgimchaklardan qo'rquvi bilan yuzma-yuz kelishadi.",
+  "cure": "O'rgimchak qo'rquvini davolash mumkinmi?",
+  "delighted": "Ishonchim komilki, bugungi mavzu o'rgimchaklar ekanini eshitib juda xursand bo'lasiz.",
+  "environmental": "Atrof-muhit omillari biz qancha o'rgimchak ko'rishimizga ta'sir qiladi.",
+  "flooding": "Ba'zi hududlardagi suv toshqinlari o'rgimchaklarni uylarga haydadi.",
+  "gently": "U o'rgimchakni ehtiyotkorlik bilan olib, tashqariga chiqarib qo'ydi.",
+  "get over": "U o'rgimchaklardan qo'rqishini yengmoqchi edi.",
+  "harmless": "Uy o'rgimchaklarining aksariyati mutlaqo zararsiz.",
+  "hypnosis": "Ba'zi odamlar o'rgimchak qo'rquvini davolash uchun gipnozdan foydalanishadi.",
+  "influx": "Britaniya uylariga o'rgimchaklar oqimi kirib keldi.",
+  "invasion": "Gazetalar o'rgimchaklar bosqini haqida yozishdi.",
+  "known": "Britaniyada o'rgimchakning 650 ga yaqin ma'lum turi bor.",
+  "lurk": "O'rgimchaklar ko'pincha uyning qorong'i burchaklarida pinhona yashirinib yotadi.",
+  "mass": "Uylarga o'rgimchaklar ommaviy ravishda kirib keldi.",
+  "mental": "Fobiya jismoniy emas, ruhiy muammodir.",
+  "mental state": "Gipnoz sizni bo'shashgan ruhiy holatga keltiradi.",
+  "overcome": "O'rgimchaklardan qo'rqishingizni yengishingiz mumkin.",
+  "phobia": "U o'rgimchaklardan vahimali qo'rqadi.",
+  "press": "Britaniya matbuoti bu kuzda o'rgimchaklar bostirib kelgani haqida xabar berdi.",
+  "researcher": "Tadqiqotchi nega kuzda ko'proq o'rgimchak ko'rishimizni tushuntirib berdi.",
+  "scary": "Ko'p odamlar uchun vannadagi katta o'rgimchak juda qo'rqinchli.",
+  "season": "Kuz o'rgimchaklar mavsumidir.",
+  "specie": "Britaniyada o'rgimchakning ko'plab turlari bor – \"species\" so'zi birlikda ham, ko'plikda ham bir xil.",
+  "spider": "Vannada ulkan o'rgimchak bor!",
+  "strike": "Qo'rquv siz umuman kutmagan paytda bosib kelishi mumkin.",
+  "temperate": "Britaniyada mo'tadil iqlim hukm suradi.",
+  "turn up": "O'rgimchaklar ko'pincha vannada paydo bo'lib qoladi.",
+  "typically": "O'rgimchaklar odatda sentabrda uylarga kirib keladi.",
+  "work at": "Qo'rquvingizni yengish ustida ishlashingiz kerak.",
+  "workshop": "London hayvonot bog'i o'rgimchaklardan qo'rqadigan odamlar uchun amaliy mashg'ulot o'tkazadi."
  }
 });

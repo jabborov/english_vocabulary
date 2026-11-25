@@ -1,4 +1,4 @@
-// Part 1 topic 0498: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0498: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0498', {
  "A1": {
   "banal": "Film siyqa edi.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0498', {
   "tearful": "Marosim ko'zyoshli nutq bilan yakunlandi, zalda ko'zlari namlanmagan odam kam qoldi.",
   "troop": "Harbiy rahbariyat ba'zan maxfiy ma'lumotlarni olib tashlash uchun askarlarning xatlarini o'qib chiqardi.",
   "unsatisfactory": "Ba'zilar raqamli xabarlar qo'lda yozilgan xatning samimiyatiga qoniqarsiz o'rinbosar ekanini ta'kidlaydi."
+ },
+ "EX": {
+  "banal": "Ba'zi sevgi maktublari ob-havo haqidagi siyqa tafsilotlarga to'la bo'ladi.",
+  "do out": "Odamlar sevgi maktublarini burch tufayli emas, muhabbat tufayli yozishadi.",
+  "engaged": "Ular u chet elga ketishidan oldin unashtirilishgan.",
+  "excerpt": "Mana uning sevgi maktublaridan biridan parcha.",
+  "hold dear": "U xatlarni saqlab qo'ydi, chunki ular unga qadrlagan hamma narsasini eslatardi.",
+  "letter writer": "U ajoyib maktub yozuvchi edi va har hafta do'stlariga xat yozardi.",
+  "mail": "U har kuni ertalab undan xat kelmadimi deb pochtani tekshirardi.",
+  "personal relationship": "Sevgi maktublari o'tmishdagi shaxsiy munosabatlar haqida ko'p narsa aytib beradi.",
+  "postal": "Pochta manzilingiz qanday?",
+  "postal service": "Pochta xizmati askarlarga minglab xatlarni yetkazib berdi.",
+  "separation": "Xatlar ularga oylab davom etgan ayriliqqa bardosh berishga yordam berdi.",
+  "shy person": "Uyatchan odam uchun yuzma-yuz gapirgandan ko'ra xat yozish osonroq.",
+  "sweetheart": "U uzoqda bo'lganida har hafta sevgilisiga xat yozardi.",
+  "tearful": "U vokzalda ko'z yoshlari bilan xayrlashdi.",
+  "troop": "Uydan kelgan xatlar askarlar uchun juda muhim edi.",
+  "unsatisfactory": "Uning fikricha, SMS orqali \"seni sevaman\" deyish qoniqarsiz usul edi."
  }
 });

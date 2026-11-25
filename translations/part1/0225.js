@@ -1,4 +1,4 @@
-// Part 1 topic 0225: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0225: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0225', {
  "A1": {
   "Benjamin": "Uning ismi Benjamin.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0225', {
   "selfishly": "Tajriba shuni ko'rsatdiki, odamlar o'zlarini aniqlab bo'lmaydi deb hisoblaganda ancha ko'proq xudbinlarcha harakat qilishadi.",
   "so to speak": "Barchamiz ba'zan haqiqatni biroz buramiz; biz, ta'bir joiz bo'lsa, ma'lum chegaralar ichida halolmiz.",
   "social group": "Ijtimoiy guruh ichidagi mavqeni yo'qotish qo'rquvi halol xatti-harakatning kuchli sababidir."
+ },
+ "EX": {
+  "Benjamin": "Benjamin halollik haqidagi bir tadqiqot haqida gapirib beradi.",
+  "card game": "Tadqiqotchilar odamlar qanchalik tez-tez aldashini bilish uchun karta o'yinidan foydalanishdi.",
+  "granny": "Buvim menga hech qachon yolg'on gapirmaslikni uqtirardi.",
+  "irritated": "Kimdir mashina qo'yadigan joyini egallab olganida, uning jahli chiqdi.",
+  "lead on": "U qizni chalg'itib, unga yordam beradigandek taassurot qoldirdi.",
+  "operative": "Bu yerda asosiy so'z — \"kichik\": yolg'onlarimizning aksariyati kichik bo'ladi.",
+  "operatively": "Halollik jamiyatdagi ishonchning asosi sifatida amalda ishlaydi.",
+  "ostracise": "Aldaydigan odamlarni ba'zan do'stlari o'z davrasidan chetlatishadi.",
+  "parking": "Shahar markazida mashina qo'yish juda qimmat.",
+  "parking space": "U men kutib turgan mashina to'xtash joyiga kirib oldi.",
+  "selfishly": "U xudbinlik qilib tortning oxirgi bo'lagini olib qo'ydi.",
+  "so to speak": "Ta'bir joiz bo'lsa, u jinoyat ustida qo'lga tushdi.",
+  "social group": "Odamlar o'z ijtimoiy guruhlari ichida halol bo'lishga harakat qilishadi."
  }
 });

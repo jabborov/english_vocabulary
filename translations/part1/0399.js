@@ -1,4 +1,4 @@
-// Part 1 topic 0399: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0399: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0399', {
  "A1": {
   "hyperbole": "Bu mubolag'a.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0399', {
   "overthrow": "Tildagi o'zgarishlar grammatika kitoblari hamon qattiq turib olgan qoidalarni jimgina ag'darib tashlashi mumkin.",
   "quarrel": "So'z tanlash ustidagi janjal sifatida boshlangan narsa ikki oila o'rtasidagi uzoq davom etgan nizoga aylandi.",
   "sardonic": "Kinoyali \"Voy, zo'r-ku\" so'zlarning tom ma'nosiga mutlaqo zid narsani anglatishi mumkin."
+ },
+ "EX": {
+  "hyperbole": "\"Senga million marta aytganman\" deyish mubolag'aning odatiy namunasidir.",
+  "mare": "Bugun ertalab ishga borishim butunlay dahshat bo'ldi.",
+  "miff": "Hech kim uni taklif qilmagani uchun u biroz ranjidi.",
+  "misunderstood": "Ko'plab xushmuomala ingliz iboralarini mehmonlar ko'pincha noto'g'ri tushunishadi.",
+  "overthrow": "Isyonchilar hukumatni ag'darishga urinishdi.",
+  "quarrel": "Ular pul ustida janjallashib qolishdi.",
+  "sardonic": "Men poyezd o'z vaqtida keladi deganimda, u kinoyali jilmaydi."
  }
 });

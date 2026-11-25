@@ -1,4 +1,4 @@
-// Part 2 topic 0046: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0046: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0046', {
  "A1": {
   "General Sherman tree": "Men General Sherman daraxtini ko'rdim.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('2', '0046', {
   "to dip beneath": "Quyosh tizma ortiga bota boshlagach, pastdagi o'rmon soyalar dengiziga singib ketdi.",
   "trunk": "Asrlar davomidagi yong'inlar ichini kovak qilib yuborganiga qaramay, tana hayratlanarli darajada hayotbaxsh shox-shabbani ko'tarib turibdi.",
   "wilderness": "O'rmon ustki qatlami vertikal yovvoyi tabiatni tashkil etadi va u kundalik tajribadan qutb muzliklari kabi uzoqdir."
+ },
+ "EX": {
+  "General Sherman tree": "\"General Sherman\" daraxti hajmi bo'yicha dunyodagi eng katta daraxtdir.",
+  "astonishing size": "Tashrif buyuruvchilar daraxtlarning hayratlanarli o'lchamidan lol qolishadi.",
+  "circumference": "Daraxt tanasining aylanasi o'ttiz metrdan ortiq.",
+  "climbing up": "Sekvoyaga tirmashib chiqish bir necha soat davom etadi.",
+  "for all intents and purposes": "Aslini olganda, daraxtlar soyaboni alohida bir olamdir.",
+  "forest canopy": "Ko'plab hayvonlar o'rmon soyabonida yashaydi va hech qachon pastga tushmaydi.",
+  "go over": "Ko'tarilishdan oldin barcha xavfsizlik jihozlarini ko'zdan kechirib chiqamiz.",
+  "hammock": "Ular tunni daraxtning baland qismida osma to'rda uxlab o'tkazishdi.",
+  "hell of a": "Bu juda og'ir ko'tarilish bo'ldi, lekin bunga arzirdi.",
+  "hell of a view": "Sekvoyaning tepasidan aql bovar qilmas manzara ochiladi.",
+  "in a practical sense": "Amaliy jihatdan, sekvoyaga chiqish uchun sizga ko'plab jihozlar kerak.",
+  "incredible looking out over": "Daraxt tepasidan o'rmonga qarab turish aql bovar qilmas darajada ajoyib.",
+  "intent": "Ularning maqsadi daraxtning eng uchiga yetib borish edi.",
+  "massive": "Sekvoyaning shoxlari juda ulkan.",
+  "redwood": "Sekvoyalar dunyodagi eng baland daraxtlar qatoriga kiradi.",
+  "relate to": "Sekvoya singari ulkan narsani to'liq idrok etish qiyin.",
+  "rig": "Alpinistlar yuqoriga chiqishni boshlashdan oldin arqonlarini o'rnatib olishadi.",
+  "shelter": "Alpinistlar yomg'irdan saqlanish uchun oddiy boshpana qurishdi.",
+  "spruce": "Ertalab baland qoraqarag'ayga chiqdik.",
+  "strike me": "Meni eng ko'p hayratga soladigani bu yerning naqadar sokinligi.",
+  "swinging bed": "Osma to'r aslida tebranadigan to'shakdir.",
+  "to camp": "Ba'zi alpinistlar tunni daraxtlarda o'tkazishni tanlashadi.",
+  "to dip beneath": "Daraxtning tepasidan quyoshning ufq ortiga botishini tomosha qildik.",
+  "trunk": "Ulkan qizil daraxtning tanasi mashinadan ham kengroq bo'lishi mumkin.",
+  "wilderness": "Sekvoya o'rmoni haqiqiy yovvoyi tabiatdir."
  }
 });

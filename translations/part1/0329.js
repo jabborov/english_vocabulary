@@ -1,4 +1,4 @@
-// Part 1 topic 0329: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0329: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0329', {
  "A1": {
   "Luke": "Luke mening do'stim.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0329', {
   "independence": "Ba'zilar uchun moliyaviy mustaqillik ota-onadan jismonan alohida yashashdan ko'ra ancha muhimroq.",
   "reside": "O'ttiz yoshdan oshib ham ota-onasi bilan yashaydiganlar haqida ko'pincha adolatsiz qoliplashgan tasavvurlar mavjud.",
   "virtue": "Ayrim sotsiologlarning fikricha, bir necha avlodning birga yashashi zamonaviy jamiyatlar unutib qo'ygan fazilatlarga ega."
+ },
+ "EX": {
+  "Luke": "Luke 28 yoshda va hali ham ota-onasi bilan yashaydi.",
+  "cramp": "Ota-onam bilan yashash erkinligimni ancha cheklab qo'yadi.",
+  "economic condition": "Og'ir iqtisodiy sharoit tufayli ko'p yoshlar alohida yashashga qurbi yetmaydi.",
+  "hitch": "Yagona noqulaylik shundaki, hammomni ota-onam bilan bo'lishishim kerak.",
+  "incentive": "Uyda arzon ijara haqi qolish uchun rag'bat bo'ladi.",
+  "independence": "Alohida yashashga o'tish mustaqillik sari katta qadamdir.",
+  "reside": "Ko'plab yoshlar hali ham ota-onalari bilan birga yashaydi.",
+  "virtue": "Uyda yashashning pul tejash kabi afzalliklari bor."
  }
 });

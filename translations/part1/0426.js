@@ -1,4 +1,4 @@
-// Part 1 topic 0426: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0426: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0426', {
  "A1": {
   "Parmesan": "Men Parmezanni yaxshi ko'raman.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0426', {
   "vine": "Qalampir chirmoviqi Hindiston janubining nam tropiklarida yaxshi o'sadi.",
   "white pepper": "Oq qalampir pishgan donlarni suvda ivitib, tashqi po'stini olib tashlash orqali tayyorlanadi.",
   "woody": "Uning yog'ochsimon, smolali ohanglari uni qovurilgan go'sht uchun tabiiy hamroh qiladi."
+ },
+ "EX": {
+  "Parmesan": "Parmezan va qora murchli makaron juda mazali.",
+  "black pepper": "Sho'rvaga tuz va qora murch qo'shing.",
+  "catalyst": "Murch Yevropaning yangi yerlarni kashf etishiga turtki bo'lgan.",
+  "crush": "Murch donalarini og'ir tova bilan ezing.",
+  "curiously": "Qizig'i shundaki, murch tanaga boshqa ozuqa moddalarini o'zlashtirishga yordam beradi.",
+  "exclamation mark": "Murch taom ta'miga go'yo undov belgisini qo'shadi.",
+  "fruity": "Ba'zi murchlarning ta'mi mevaliroq bo'ladi.",
+  "grow over": "Qalampir o'simligi daraxtlar va ustunlarni qoplab o'sadi.",
+  "harden": "Murch donalari quyoshda quriganda qotadi.",
+  "peppercorn": "Murch donalarini ishlatishdan oldingina maydalang.",
+  "reacquaint": "Qalampir bilan qaytadan tanishish vaqti keldi.",
+  "sprinkling": "Taomni ozgina murch sepib yakunlang.",
+  "tasting": "Biz murch tatib ko'rish tadbiriga bordik.",
+  "thrill": "Yangi murchni ilk bor tatib ko'rish haqiqiy zavq bag'ishlaydi.",
+  "vine": "Qalampir chirmashib o'suvchi tok o'simligida o'sadi.",
+  "white pepper": "Oq murch och rangli souslarda ishlatiladi.",
+  "woody": "Bu murchning ta'mi iliq va yog'ochnamo."
  }
 });

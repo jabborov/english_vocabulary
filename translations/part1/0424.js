@@ -1,4 +1,4 @@
-// Part 1 topic 0424: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0424: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0424', {
  "A1": {
   "abstract art": "Bu abstrakt san'at.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0424', {
   "urinal": "Dyushanning pissuari faqat kontekstning o'zi biror narsani san'at asariga aylantira oladimi, degan savolni o'rtaga qo'ydi.",
   "vandalism": "Badiiy ifoda va vandalizm o'rtasidagi chegarani ko'pincha devor kimga tegishli ekani belgilaydi.",
   "write over": "Boshqa rassomning asari ustidan yozish graffiti madaniyatida jiddiy haqorat hisoblanadi."
+ },
+ "EX": {
+  "abstract art": "Men abstrakt san'atni unchalik tushunmayman.",
+  "civil war": "Pikassoning \"Gernika\" asari Ispaniya fuqarolar urushining dahshatini ko'rsatadi.",
+  "commentator": "San'atshunos sharhlovchilar ko'cha san'ati haqida turlicha fikrda.",
+  "deface": "Kimdir haykalni bo'yoq bilan bulg'ab buzib qo'ydi.",
+  "depict": "Rasmda gavjum ko'cha tasvirlangan.",
+  "masterpiece": "Ko'pchilik bu devoriy suratni durdona asar deb hisoblaydi.",
+  "mural": "Maktab devorida chiroyli devoriy surat bor.",
+  "scrawl": "Kimdir devorga o'z ismini qing'ir-qiyshiq qilib yozib qo'ygan edi.",
+  "sombre": "Rasmda xira va g'amgin ranglar ishlatilgan.",
+  "surrealist": "Dali syurrealistik rasmlar chizgan.",
+  "urinal": "Marsel Dyushan pissuarni san'at asari sifatida namoyish qilgan.",
+  "vandalism": "Ba'zilar graffitini shunchaki vandalizm deb hisoblaydi.",
+  "write over": "Boshqa graffiti rassomlari uning ishi ustidan o'z rasmlarini chizishdi."
  }
 });

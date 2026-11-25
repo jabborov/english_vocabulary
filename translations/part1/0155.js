@@ -1,4 +1,4 @@
-// Part 1 topic 0155: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0155: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0155', {
  "A1": {
   "WHO": "JSST odamlarga sog'lom bo'lishga yordam beradi.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0155', {
   "unsalted": "Tuzsiz asosiy mahsulotlarga o'tish oila qila oladigan eng oddiy o'zgarishlardan biridir.",
   "wander": "Ulkan masofalarni kezib yurgan jamoalar oziq-ovqatni saqlashga asoslangan taom an'analarini shakllantirgan.",
   "withdraw": "Tuzni birdaniga emas, asta-sekin kamaytirish iste'molchilar o'zgarishni deyarli sezmasligini anglatadi."
+ },
+ "EX": {
+  "WHO": "JSST kattalar kuniga besh grammdan kam tuz iste'mol qilishi kerakligini aytadi.",
+  "culturally": "Markaziy Osiyoda sho'r taomlar madaniy jihatdan muhim ahamiyatga ega.",
+  "dairy": "U sut va pishloq kabi sut mahsulotlarini ko'p iste'mol qiladi.",
+  "dairy product": "Mintaqada pishloq kabi sho'r sut mahsulotlari mashhur.",
+  "dilute": "Agar sho'rva juda sho'r bo'lsa, uni suv bilan suyultirishingiz mumkin.",
+  "go bad": "Tuz go'shtning buzilishiga yo'l qo'ymaydi.",
+  "herb": "Ta'm berish uchun tuz o'rniga ziravor o'tlardan foydalaning.",
+  "heritage": "Sho'r taomlar mamlakat madaniy merosining bir qismidir.",
+  "high blood pressure": "Haddan tashqari ko'p tuz iste'mol qilish yuqori qon bosimiga olib kelishi mumkin.",
+  "intake": "Shifokorlar odamlarning tuz iste'molini kamaytirishini xohlashadi.",
+  "livestock": "Ko'chmanchilar chorva mollari bilan dasht bo'ylab ko'chib yurishgan.",
+  "mortality": "Tuz yurak kasalliklaridan o'lim darajasining yuqoriligi bilan bog'liq.",
+  "nomad": "Qadimda ko'chmanchilar go'shtni buzilishdan saqlash uchun tuzdan foydalanishgan.",
+  "pasta": "Ko'pchilik makaron pishirganda suvga tuz soladi.",
+  "premature": "Haddan tashqari ko'p tuz iste'mol qilish bevaqt o'limga olib kelishi mumkin.",
+  "reevaluate": "Odamlar qancha tuz iste'mol qilayotganini qayta baholab chiqishlari kerak.",
+  "retain": "Haddan ortiq tuz tanangizda suv ushlanib qolishiga sabab bo'ladi.",
+  "rot": "Tuzsiz go'sht tezda chirib qolardi.",
+  "saltiest": "Bu dunyodagi eng sho'r ovqatlanish tarzlaridan biri.",
+  "steppe": "Ko'chmanchilar Markaziy Osiyo dashtlarida yashashgan.",
+  "stroke": "Yuqori qon bosimi insult xavfini oshiradi.",
+  "teaspoon": "Besh gramm tuz taxminan bir choy qoshiqqa teng.",
+  "temporarily": "Tuzni kamaytirganingizda ovqat vaqtincha bemaza tuyulishi mumkin.",
+  "too soon": "Haddan ziyod tuz ko'p odamlarning bevaqt vafot etishiga sabab bo'ladi.",
+  "unsalted": "Tuzlangan yong'oqlar o'rniga tuzsizlarini iste'mol qilib ko'ring.",
+  "wander": "Ko'chmanchilar chorvalari bilan dasht bo'ylab kezib yurishgan.",
+  "withdraw": "Ba'zi kompaniyalar sho'r mahsulotlarni peshtaxtalardan olib tashlashdi."
  }
 });

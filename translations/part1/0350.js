@@ -1,4 +1,4 @@
-// Part 1 topic 0350: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0350: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0350', {
  "A1": {
   "Venice": "Venetsiya Italiyada joylashgan.",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('1', '0350', {
   "swanky": "Hashamatli maskanlardan voz kechish ijtimoiy muloqotning kamtarona shakllariga tomon kengroq o'zgarishni aks ettiradi.",
   "talker": "Gapga usta odam puldan ko'ra jozibasi va xushomadiga ko'proq tayanadi.",
   "woo": "Siyosatchilar ham oshiqlar kabi ba'zan saylovchilarni bajara olmaydigan va'dalar bilan o'ziga og'dirishi kerak bo'ladi."
+ },
+ "EX": {
+  "Venice": "Kazanova Venetsiyada tug'ilgan.",
+  "adventurer": "Kazanova mashhur sarguzashtchi va yozuvchi edi.",
+  "blunt": "Ochig'ini aytganda, u endi qimmat uchrashuvlarga pul sarflay olmaydi.",
+  "consign": "Inqiroz qimmat uchrashuvlarni tarixga aylantirib qo'yishi mumkin.",
+  "downsize": "Ko'plab kazanovalar xarajatlarini qisqartirishga majbur bo'lishdi.",
+  "economic crisis": "Iqtisodiy inqiroz odamlarning xarajatlarini o'zgartirib yubordi.",
+  "eye up": "U bardagi odamlarga suqlanib qarab turardi.",
+  "fur": "Bir paytlar mo'yna palto mashhur qimmatbaho sovg'a bo'lgan.",
+  "good looks": "U pulga emas, jozibasi va chiroyli tashqi ko'rinishiga tayanardi.",
+  "jewel": "U unga qimmatbaho toshlar sotib olib berardi.",
+  "lavish": "Ular saxovat bilan qimmatbaho sovg'alar berishardi.",
+  "lavished": "U qiz do'stlariga sovg'alarni ayamay ulashardi.",
+  "married woman": "U turmushga chiqqan ayol edi.",
+  "mistress": "Hisobotda ta'kidlanishicha, ba'zi erkaklar endi o'ynashni ta'minlashga qurbi yetmay qolgan.",
+  "pay up": "Oxir-oqibat u pulni to'lashga majbur bo'ldi.",
+  "promiscuous": "Kazanova buzuq hayot kechirishi bilan nom qozongan.",
+  "rein": "U pulini qattiq nazorat ostida ushlardi.",
+  "rein in": "U xarajatlarini jilovlashga majbur bo'ldi.",
+  "sacrifice": "Ba'zilar uchun uchrashuvlarni kamaytirish katta qurbonlikdir.",
+  "seducing": "U o'z jozibasi bilan odamlarni yo'ldan ozdirishi bilan mashhur edi.",
+  "sexual relationship": "Maqolada romantik va jinsiy munosabatlar muhokama qilingan.",
+  "swanky": "Ular hashamatli restoranlarga borishardi.",
+  "talker": "Kazanova odatda shirinso'z bo'ladi.",
+  "woo": "U ayollarning ko'nglini qimmatbaho kechki ovqatlar bilan ovlardi."
  }
 });

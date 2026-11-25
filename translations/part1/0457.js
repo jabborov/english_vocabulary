@@ -1,4 +1,4 @@
-// Part 1 topic 0457: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0457: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0457', {
  "A1": {
   "Antarctica": "Antarktida juda sovuq.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0457', {
   "southernmost": "Hatto sayyoramizning eng janubiy hududlari ham endi inson ta'siri doirasidan tashqarida emas.",
   "take hold": "Bosqinchi tur bir marta o'rnashib olgach, uni yo'q qilish deyarli imkonsiz bo'lishi mumkin.",
   "tuck away": "Poyabzal tagidagi o'yiqlar va cho'ntaklarga yashirinib olgan urug'lar sezilmagan holda ming kilometrlab yo'l bosadi."
+ },
+ "EX": {
+  "Antarctica": "Antarktida — Yerdagi eng sovuq joy.",
+  "cubic": "Idishga ikki kub metr suv sig'adi.",
+  "cubic kilometre": "Antarktidada taxminan 26 million kub kilometr muz bor.",
+  "ecology": "Invaziv turlar materik ekologiyasini o'zgartirib yuborishi mumkin.",
+  "frisk": "Olimlar urug' topish uchun tashrif buyuruvchilarning kiyimlarini tintuv qilishdi.",
+  "greener": "Antarktidaning ayrim qismlari tobora yashillashmoqda.",
+  "invader": "Begona bosqinchi o'simliklar Antarktidaning mahalliy turlariga zarar yetkazishi mumkin.",
+  "offshore": "Qirg'oqdan uzoqdagi orollar ham xavf ostida.",
+  "peninsula": "Antarktida yarimoroli tez isimoqda.",
+  "pristine": "Antarktida Yerdagi so'nggi beg'ubor joylardan biridir.",
+  "run up": "Safar oldidan tashrif buyuruvchilar kiyimlarini tozalashlari kerak.",
+  "southernmost": "Antarktida dunyoning eng janubiy materigidir.",
+  "take hold": "Iqlim isishi bilan begona o'simliklar mustahkam o'rnashib olishi mumkin.",
+  "tuck away": "Urug'lar cho'ntaklar va yopishqoq tasmalarga yashirinib olgan edi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0124: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0124: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0124', {
  "A1": {
   "cat": "Mening mushugim bor.",
@@ -185,5 +185,36 @@ VOCAB_TR_STORE('1', '0124', {
   "suitable": "Hayvon asrab olishdan oldin egalari o'z uylari hayvon ehtiyojlariga mos keladimi yoki yo'qligini o'ylab ko'rishlari kerak.",
   "trustfulness": "Itlarga nisbat berilgan ishonuvchanlik Viktoriya jamiyati o'zida eng ko'p ko'rishni istagan fazilatlarni aks ettirgan.",
   "unchanging": "Itning go'yoki o'zgarmas sadoqati Viktoriya davri odamlari mushukning beqaror tabiati deb bilgan narsaga zid edi."
+ },
+ "EX": {
+  "cat": "Mushuklar itlarga qaraganda mustaqilroq.",
+  "change over": "Uy hayvonlariga munosabat o'n to'qqizinchi asr davomida o'zgardi.",
+  "companion": "Ko'plab keksalar uchun it eng yaqin hamrohdir.",
+  "disposable": "Odamlarda ortiqcha pul paydo bo'lganda uy hayvonlari keng tarqaldi.",
+  "disposable income": "Bo'sh mablag'i ko'proq odamlar uy hayvonlariga ko'proq pul sarflashadi.",
+  "expense": "Uy hayvoni katta xarajat bo'lishi mumkin.",
+  "feminine": "Bir vaqtlar mushuklar ayollarga xos hayvonlar deb qaralgan.",
+  "fit the bill": "Band oila uchun mushuk ayni muddao.",
+  "goldfish": "Mening birinchi uy hayvonim oltin baliqcha edi.",
+  "hamster": "Akamning kichikligida xomyagi bor edi.",
+  "indoor": "Bugungi kunda ko'plab mushuklar faqat uy ichida yashaydi.",
+  "introvert": "Ba'zi tadqiqotlarga ko'ra, introvertlar mushuklarni afzal ko'rishadi.",
+  "keypad": "Mushuk telefon tugmalarini bosib, boshlig'imga qo'ng'iroq qilib yubordi!",
+  "kindly": "Ko'pchilik uy hayvonlariga mehribonlik bilan munosabatda bo'ladi.",
+  "leave over": "Agar ozgina pul ortib qolsa, uy hayvoni sotib olishingiz mumkin.",
+  "left over": "Ularda itga sarflash uchun biroz pul ortib qolgan edi.",
+  "loyal": "Itlar sodiqligi bilan mashhur.",
+  "luxury": "O'tmishda uy hayvoni hashamat edi.",
+  "manly": "Itlar jasorat kabi erkaklarga xos fazilatlar bilan bog'langan.",
+  "monkey": "Viktoriya davridagi ba'zi boy odamlar uy hayvoni sifatida maymun boqishgan.",
+  "paw": "Mushuk panjalari bilan klaviatura ustidan yurib o'tdi.",
+  "pet": "It va mushuklar eng mashhur uy hayvonlaridir.",
+  "raven": "Yozuvchi Charlz Dikkens uyida qarg'a boqqan.",
+  "sensitive": "Mushuk egalari ko'pincha sezgirroq odamlar sifatida ta'riflanadi.",
+  "standard of living": "Turmush darajasining oshishi odamlar uy hayvoni boqishga qurbi yetishini anglatardi.",
+  "steadfastness": "Itlar sobitqadamlik ramzi sifatida qaralgan.",
+  "suitable": "Kichik kvartira katta it uchun mos emas.",
+  "trustfulness": "Itlar ishonuvchanligi uchun qadrlangan.",
+  "unchanging": "Itning muhabbati o'zgarmas deb hisoblangan."
  }
 });

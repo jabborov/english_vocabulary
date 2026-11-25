@@ -1,4 +1,4 @@
-// Part 1 topic 0384: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0384: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0384', {
  "A1": {
   "delight": "Bolalar xursandchilikdan kulishdi.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0384', {
   "take pride": "Mamlakatingizning xatolarini tanqid qilgan holda ham u bilan faxrlanish mumkin.",
   "thanks": "U mukofotni qisqa nutq bilan qabul qilib, oilasi va vataniga minnatdorchilik bildirdi.",
   "waterfall": "Ko'plab respondentlar sharsharalardan tortib qirg'oqlargacha bo'lgan landshaftlarni o'zlarini eng ko'p faxrlantiradigan narsa deb atashdi."
+ },
+ "EX": {
+  "delight": "Hammaning quvonchiga, mezbon jamoa kubokni qo'lga kiritdi.",
+  "delighted": "Mamlakatim o'yinda g'alaba qozonganida juda xursand bo'ldim.",
+  "duration": "Yoqimli his o'yinlar davomida saqlanib qoldi.",
+  "patriotic": "Bayroq hilpiratish vatanparvarlikni ifodalashning keng tarqalgan usulidir.",
+  "pride": "Olimpiya o'yinlari mamlakatni g'ururga to'ldirdi.",
+  "take pride": "Odamlar o'z mamlakatining tarixi va tabiati bilan faxrlanishadi.",
+  "thanks": "Ko'rsatuvni tinglaganingiz uchun rahmat.",
+  "waterfall": "Mamlakatning mashhur sharsharalari ko'pchilikni faxrlantiradi."
  }
 });

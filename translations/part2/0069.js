@@ -1,4 +1,4 @@
-// Part 2 topic 0069: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0069: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0069', {
  "A1": {
   "above": "Qush daraxt ustida.",
@@ -269,5 +269,50 @@ VOCAB_TR_STORE('2', '0069', {
   "vehicle": "Hatto elektr transport vositalari ham yuqori tezlikda sezilarli shina shovqinini chiqaradi.",
   "wail": "Sirenalarning ko'tarilib-pasayuvchi uvillashi zamonaviy shaharlar akustik qiyofasining bir qismiga aylandi.",
   "warning device": "Samarali, ammo bezovta qilmaydigan ogohlantirish qurilmasini loyihalash haqiqiy muhandislik muammosidir."
+ },
+ "EX": {
+  "above": "55 detsibeldan yuqori shovqin sog'liqqa zarar yetkazishi mumkin.",
+  "alternate": "Sirenalar ikki xil ohang o'rtasida navbatlashib turadi.",
+  "alternating": "Sirena navbatma-navbat baland va past ovoz chiqaradi.",
+  "and so on": "Mashinalar, avtobuslar, sirenalar va hokazolar shovqinni kuchaytiradi.",
+  "backing": "Reja mahalliy aholining qo'llab-quvvatlashiga ega.",
+  "buzz": "Londonda transportning g'ovuri hech qachon tinmaydi.",
+  "calming": "Suvning shovqini juda tinchlantiradi.",
+  "come up with": "Mutaxassislar Londonni tinchroq qilish yo'llarini o'ylab topishdi.",
+  "con": "Keling, shaharda yashashning ijobiy va salbiy tomonlarini ko'rib chiqamiz.",
+  "concern": "Shovqin katta shaharlarda tobora ortib borayotgan tashvishdir.",
+  "device": "Muhandislar shovqini kamroq qurilma ishlab chiqishdi.",
+  "directly": "Shovqin sog'lig'imizga bevosita ta'sir qilishi mumkin.",
+  "disruptive": "Tungi shovqin uyquni juda buzadi.",
+  "dweller": "Shahar aholisi shovqinga o'rganib qolgan.",
+  "expansion": "Aeroportning kengaytirilishi shovqinni yanada kuchaytirishi mumkin.",
+  "get to grips": "Shahar shovqin muammosini hal qilishga jiddiy kirishmoqda.",
+  "green up": "Rejalashtiruvchilar shaharni tinchroq qilish uchun uni ko'kalamzorlashtirishni xohlashadi.",
+  "grip": "Shovqin muammosini nazoratga olishimiz kerak.",
+  "in general": "Umuman olganda, shaharlar tobora shovqinliroq bo'lib bormoqda.",
+  "in order": "Shovqinni kamaytirish maqsadida daraxtlar ekiladi.",
+  "limit": "Shahar kechasi shovqinni cheklamoqchi.",
+  "loud": "Transport shovqini juda baland.",
+  "loudness": "Sirenalarning ovoz balandligini pasaytirish mumkin.",
+  "make sure": "Yangi binolar tinchroq bo'lishiga ishonch hosil qilishimiz kerak.",
+  "positive": "Tabiiy tovushlar odamlarga ijobiy ta'sir ko'rsatishi mumkin.",
+  "propose": "Mutaxassislar ovozi pastroq sirenalarni taklif qilishdi.",
+  "put in": "Shovqinni o'tkazmaslik uchun ikki qavatli oyna o'rnatdik.",
+  "quieter": "London tinchroq shaharga aylanishga harakat qilmoqda.",
+  "repose": "Bog'lar gavjum shaharda hordiq chiqarish joyini taqdim etadi.",
+  "respond": "Odamlar shovqinga turlicha munosabat bildirishadi.",
+  "screening": "Daraxtlar va devorlar bilan to'sish transport shovqinini to'sib qo'yishi mumkin.",
+  "sensible": "Ko'proq daraxt ekish oqilona fikrga o'xshaydi.",
+  "shield": "Daraxtlar uylarni shovqindan himoya qilishi mumkin.",
+  "siren": "Tez yordam mashinasining sirenasi juda baland.",
+  "suffer": "Ko'plab shahar aholisi shovqindan aziyat chekadi.",
+  "surely": "Shaharlarni tinchroq qilishimiz mumkin-ku, axir.",
+  "unwanted": "Shovqin bu shunchaki keraksiz tovushdir.",
+  "urban": "Shahar shovqini sog'lig'imizga ta'sir qiladi.",
+  "urban area": "Shahar hududlarida shovqin katta muammo.",
+  "vegetation": "O'simliklar transport shovqinining bir qismini yutishi mumkin.",
+  "vehicle": "Elektr transport vositalari ancha shovqinsiz.",
+  "wail": "Ko'chani sirenaning uvillashi to'ldirdi.",
+  "warning device": "Sirena ogohlantiruvchi qurilmadir."
  }
 });

@@ -1,4 +1,4 @@
-// Part 2 topic 0073: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0073: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0073', {
  "A1": {
   "all in": "Umuman olganda, yaxshi bo'ldi.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('2', '0073', {
   "revolution": "Kompyuter inqilobi jamiyatni o'zgartirib yubordi, biroq millionlab odamlarni tafovutning noqulay tomonida qoldirdi.",
   "stubbornly": "Ko'plab kampaniyalarga qaramay, raqamli chetlanish o'zgarishlarga o'jarlik bilan qarshilik ko'rsatib kelmoqda.",
   "technical": "Texnik to'siqlar ko'pincha ishonch yoki motivatsiya yetishmasligidan kamroq ahamiyatga ega."
+ },
+ "EX": {
+  "all in": "Umuman olganda, internet hayotimizni o'zgartirdi.",
+  "bring about": "Kompyuterlar ulkan o'zgarishlarga sabab bo'ldi.",
+  "compute": "Kompyuterlar ulkan sonlarni soniyalarda hisoblay oladi.",
+  "concerned": "Ba'zi odamlar internetdagi xavfsizlikdan xavotirda.",
+  "currently": "Hozirda o'n millionga yaqin katta yoshli odam internetdan foydalanmaydi.",
+  "divide": "Yoshlar va keksalar o'rtasida raqamli tafovut bor.",
+  "dramatic": "Muloqot qilish usulimizda keskin o'zgarish yuz berdi.",
+  "enable": "Internet odamlarga uydan turib xarid qilish imkonini beradi.",
+  "estimate": "Taxminlarga ko'ra, o'n million kishi hech qachon internetdan foydalanmagan.",
+  "fair": "Ba'zi odamlarning internetga kira olmasligi adolatdan emas.",
+  "gap": "Internetdan foydalanadigan va foydalanmaydigan odamlar o'rtasidagi tafovut ortib bormoqda.",
+  "hire": "Kutubxona kompyuter savodxonligini o'rgatish uchun xodimlar yolladi.",
+  "limited": "Ba'zi odamlarning kompyuter ko'nikmalari cheklangan.",
+  "log on": "Millionlab odamlar hech qachon internetga kirmagan.",
+  "monitor": "Keksa odamlarga katta monitordan o'qish osonroq bo'lishi mumkin.",
+  "public service": "Ko'plab davlat xizmatlari endi onlayn ko'rsatiladi.",
+  "relevant": "Ba'zi keksa odamlar internetni o'zlariga aloqador deb hisoblamaydilar.",
+  "rely on": "Ko'p odamlar ishida internetga tayanishadi.",
+  "resist": "Ba'zi odamlar yangi texnologiyalardan foydalanishga qarshilik qilishadi.",
+  "revolution": "Internet turmush tarzimizda inqilob yasadi.",
+  "stubbornly": "Internetdan foydalanmaydiganlar soni qat'iy ravishda yuqoriligicha qolmoqda.",
+  "technical": "Ba'zi odamlarga kompyuterlar haddan tashqari texnik tuyuladi."
  }
 });

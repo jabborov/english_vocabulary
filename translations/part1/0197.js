@@ -1,4 +1,4 @@
-// Part 1 topic 0197: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0197: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0197', {
  "A1": {
   "apprehension": "Men xavotir his qilyapman.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0197', {
   "plan of action": "Izchil harakat rejasisiz qishloq xo'jaligida metanni kamaytirish haqidagi va'dalar quruq gap bo'lib qolishi mumkin.",
   "tangible": "Agar kichik fermerlar uzoq yillik amaliyotlarini o'zgartirishi kerak bo'lsa, siyosat ularga aniq, sezilarli rag'bat taklif qilishi lozim.",
   "water level": "Suv sathini aniq boshqarish sholi dalalaridan chiqadigan metanni kamaytirishning kalitidir."
+ },
+ "EX": {
+  "apprehension": "Ba'zi fermerlar yangi usulni sinab ko'rishdan xavotirga tushishdi.",
+  "brown rice": "Qo'ng'ir guruch oq guruchdan foydaliroq.",
+  "cm": "Suv sathi yer yuzasidan 15 sm pastga tushganda, dalaga yana suv qo'yiladi.",
+  "dry out": "Fermerlar dalani bir necha kun qurib qolishiga qo'yib berishadi.",
+  "drying": "Dalalarni bir necha kun quritish metanni kamaytiradi.",
+  "extensively": "Guruch butun Osiyo bo'ylab keng yetishtiriladi.",
+  "in condition": "Fermerlar keyingi hosil uchun tuproqni yaxshi holatda saqlashlari kerak.",
+  "measurable": "Bu o'zgarish chiqindilarga o'lchab bo'ladigan darajada ta'sir ko'rsatdi.",
+  "paddy": "Fermer har kuni sholipoyada ishlaydi.",
+  "pipe": "Plastik quvur dalada qancha suv borligini ko'rsatadi.",
+  "plan of action": "Hukumatda metanni kamaytirish bo'yicha harakatlar rejasi bor.",
+  "tangible": "Yangi usul fermerlarga sezilarli foyda keltirdi.",
+  "water level": "Fermerlar daladagi suv sathini tekshirishadi."
  }
 });

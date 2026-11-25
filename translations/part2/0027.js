@@ -1,4 +1,4 @@
-// Part 2 topic 0027: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0027: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0027', {
  "A1": {
   "ambergris": "Ambra noyob modda.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('2', '0027', {
   "to lay out": "Qandolatlarning qanday terib qo'yilishining o'zi bir til bo'lib, nozik did egasi bo'lgan mehmonga martaba va didni bildirardi.",
   "whale vomit": "\"Kit qusug'i\" degan mashhur nom bu moddaning tarixda Yevropadagi eng orziqib kutilgan hashamatli buyumlardan biri bo'lganini yashiradi.",
   "whipped into": "Havodor shirinliklarga ko'pirtirilgan qaymoq va shakar kabi oddiy masalliqlar hayratlanarli buyumlarga aylantirildi."
+ },
+ "EX": {
+  "ambergris": "Tyudorlar davrining ba'zi shirinliklariga nihoyatda qimmat bo'lgan ambra ta'mi berilardi.",
+  "appealing": "Tyudorlar davrining hamma ta'mlari ham zamonaviy didga yoqimli emas.",
+  "banquet": "Yelizaveta davri banketi ovqatlanishdan ko'ra boylik namoyishi edi.",
+  "briskly": "Aralashmani silliq bo'lguncha tez-tez aralashtiring.",
+  "cocktail": "Oshpaz Tyudorlar retseptlaridan ilhomlangan zamonaviy kokteyl yaratdi.",
+  "custard": "Banket uchun quyuq krem xamir qoliplarga solib pishirildi.",
+  "delicately": "Keklarga nozik qilib gulob ta'mi berilgan edi.",
+  "dessert": "Yelizaveta davrida banket alohida xonada tortiladigan shirinlik taomi edi.",
+  "edible": "Hatto stoldagi likopchalar va qadahlar ham qand xamiridan yasalgan bo'lib, ularni yesa bo'lardi.",
+  "elderflower": "Ichimlikka marjon daraxti guli va asal ta'mi berilgan edi.",
+  "exotic jam": "Mehmonlarga behi va chetdan keltirilgan ziravorlardan tayyorlangan ekzotik murabbo taklif qilindi.",
+  "feast": "Ziyofatdan keyin eng muhim mehmonlar banket uchun boshqa xonaga o'tishdi.",
+  "flavoured": "Pechenyelarga arpabodiyon va zira ta'mi berilgan edi.",
+  "food architects": "Taom me'morlari jamoasi Tyudorlar davri qand haykallarini qayta yaratishga haftalar sarfladi.",
+  "heavy spirit": "Kokteyl brendi kabi kuchli spirtli ichimlikka asoslangan edi.",
+  "honour": "Qirolichaning banketiga taklif qilinish katta sharaf edi.",
+  "infusion": "Mehmonlarga og'ir taomni hazm qilishga yordam berish uchun giyohli damlama tortildi.",
+  "intricate": "Qand qasr murakkab naqshlar bilan bezatilgan edi.",
+  "most importantly": "Eng muhimi, ziyofat mehmonlarni hayratda qoldirishi kerak edi.",
+  "mulled wine": "Ziravorli qaynoq sharob qishki banketlarda mashhur ichimlik edi.",
+  "pastry": "Xamirga hayvonlar va qushlar shakli berilgan edi.",
+  "recreate": "Tarixchilar banketni aynan Yelizaveta I bilgan ko'rinishda qayta tiklashga urinishdi.",
+  "serve": "Kechki ovqatdan keyin mehmonlarga shirinliklar va ziravorli sharob tortildi.",
+  "stirred into": "Ziravorlar iliq vinoga solib aralashtirildi.",
+  "sugar sculpture": "Banketning markaziy bezagi kema shaklidagi ulkan qand haykali edi.",
+  "tarts": "Kremli va mevali pirogchalar kumush laganlarga terib qo'yildi.",
+  "to bear": "Juda shirin taomlarning ba'zilariga chidab bo'lmasdi.",
+  "to lay out": "Xizmatkorlar shirinliklarni uzun stollarga tera boshlashdi.",
+  "whale vomit": "Bir paytlar boylar kit qusug'i ta'mi berilgan shirinliklarni yegani hayratlanarli.",
+  "whipped into": "Qaymoq yumshoq ko'pik holiga kelguncha ko'pirtirildi va meva bilan tortildi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 2 topic 0009: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0009: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0009', {
  "A1": {
   "break across": "Yeng bilak ustida burmalanadi.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('2', '0009', {
   "subdued": "Uning kiyimidagi vazmin nafosatda hech qanday bezakka muhtoj bo'lmagan ishonch bor edi.",
   "suit sleeves": "Yaxshi o'tirmagan kostyum yenglari kiyimning tayyor sotib olinganini har qanday yorliqdan ham aniqroq fosh qiladi.",
   "wardrobe": "Uning sinchiklab tanlangan kiyimlar to'plami kasbiy qiyofasining davomi vazifasini o'tardi."
+ },
+ "EX": {
+  "break across": "Yaxshi tikilgan pidjak yengi kaftda emas, balki bilakda tugashi kerak.",
+  "cleavage": "Kiyinish qoidalari haqidagi xatda mijozlar bilan uchrashuvlarda ko'krakning haddan tashqari ochiq bo'lishi nomaqbul ekani alohida qayd etilgan edi.",
+  "colonial": "Ko'rgazma mustamlaka davri modasi zamonaviy rasmiy kiyimga qanday ta'sir qilishda davom etayotganini o'rgandi.",
+  "dinner jacket": "Xayriya kechasiga tashrif buyuradigan mehmonlardan kechki kostyum kiyib kelish so'raldi.",
+  "dress up": "Xodimlarga kompaniyaning yillik mukofotlash kechasiga bayramona kiyinib kelish tavsiya qilindi.",
+  "flats": "U ketma-ket uchrashuvlar bilan o'tgan uzun kunning yarmida baland poshnali tuflilarini poshnasiz poyabzalga almashtirdi.",
+  "gone are the flashy": "1980-yillarning ko'zni qamashtiruvchi galstuklari o'tmishda qoldi; bugungi boshqaruv yig'ilishlarida sokin, xira ranglar afzal ko'riladi.",
+  "high heel": "Bir qancha kompaniyalar ayol xodimlardan baland poshnali poyabzal kiyishni talab qilgani uchun tanqidga uchragan.",
+  "marching order": "Yangi chaqiriluvchilarga mashg'ulotning birinchi kuni ertalabdanoq ko'rsatmalar berildi.",
+  "palm": "U suhbatda qo'l berib ko'rishishdan oldin hayajon bilan kaftini shimiga artdi.",
+  "provocative": "Bir qancha maktablar haddan tashqari qo'zg'atuvchi deb hisoblagan kiyimlarga qarshi qoidalar joriy qildi.",
+  "revealing": "Kompaniya qoidalari xodimlar yoki mijozlar haddan tashqari ochiq deb hisoblashi mumkin bo'lgan kiyimlarni tavsiya etmaydi.",
+  "scent": "Atirning yengil hidi odatda joiz, ammo umumiy ofislarda o'tkir hidlar tavsiya etilmaydi.",
+  "sharp aroma": "Uning odekolonining o'tkir hidi u chiqib ketganidan keyin ham uzoq vaqt majlis xonasida qoldi.",
+  "smart casual": "Taklifnomada \"smart casual\" deyilgani uchun u galstuksiz blazer kiydi.",
+  "subdued": "Ofisning kiyinish qoidalari yorqin naqshlar o'rniga sokin ranglarni talab qiladi.",
+  "suit sleeves": "Tikuvchilar odatda kostyum yenglari bilak suyagidan biroz yuqorida tugashini tavsiya qiladi.",
+  "wardrobe": "Uning ish kiyimlari firmaning konservativ kiyinish qoidalariga mos ravishda puxta tanlangan edi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 2 topic 0077: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0077: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0077', {
  "A1": {
   "banal": "Hikoya siyqasi chiqqan edi.",
@@ -251,5 +251,47 @@ VOCAB_TR_STORE('2', '0077', {
   "venomous": "Zaharli ilonlarni zararsizlaridan ajrata olish kam sonli qishloq aholisiga o'rgatilgan ko'nikmadir.",
   "victim": "Kasalxonaga tez yetib kelgan jabrlanuvchilar odatda tirik qoladi; fojia kechikishdadir.",
   "wound": "Yaraga aralashish, qanchalik yaxshi niyatda bo'lmasin, ko'pincha zaharni tezroq tarqatadi."
+ },
+ "EX": {
+  "banal": "Bu siyqasi chiqqan gapdek eshitiladi, lekin ko'pchilik ilonlardan qo'rqadi.",
+  "bleed": "Yaradan qon keta boshladi.",
+  "charmer": "Afsungar ilonni qo'lida ushlab turdi.",
+  "conduct": "Tadqiqotchilar Bangladeshning qishloq joylarida so'rovnoma o'tkazishdi.",
+  "discourage": "Shifokorlar odamlarni yarani kesishdan qaytarishadi.",
+  "encounter": "Dehqonlar sholi dalalarida tez-tez ilonlarga duch kelishadi.",
+  "every year": "Har yili minglab odamlarni ilon chaqadi.",
+  "extreme": "Ba'zi jabrlanuvchilar o'ta kuchli og'riq chekishadi.",
+  "fluffy": "Men ilonlardan ko'ra quyonga o'xshagan yumshoq junli hayvonlarni afzal ko'raman.",
+  "forgive": "Kechirasiz-u, men ilonlardan juda qo'rqaman.",
+  "frown": "Shifokor jgutni ko'rib qovog'ini soldi.",
+  "frown upon": "Shifokorlar qattiq jgut bog'lashni ma'qullamaydi.",
+  "healer": "Oilasi uni mahalliy tabibga olib bordi.",
+  "humid": "Havo issiq va nam.",
+  "injured": "Jarohatlangan odam kasalxonaga olib borildi.",
+  "land": "Ko'pchilik odamlar yerda dehqonchilik qilishadi.",
+  "limb": "Chaqilgan qo'l yoki oyoqni qimirlatmay turing.",
+  "massage": "Tabib chaqilgan oyoqni uqaladi.",
+  "mild": "Qishda havo mo'tadil bo'ladi.",
+  "monsoon": "Ilon chaqishlarining aksariyati musson davrida sodir bo'ladi.",
+  "mystic": "Ba'zi qishloq aholisi ilon chaqqandan keyin sirli tabiblarga borishadi.",
+  "poison": "Ba'zi ilonlar chaqqanda zahar yuboradi.",
+  "poisonous": "Har bir ilon ham zaharli emas.",
+  "rainfall": "Kuchli yog'ingarchilik ilonlarni yer ostidan chiqarib yuboradi.",
+  "relatively": "Bangladeshda ilon chaqishi nisbatan keng tarqalgan.",
+  "serious": "Ilon chaqishi juda jiddiy muammo bo'lishi mumkin.",
+  "snake charmer": "Ilon afsungari kobraga musiqa chaldi.",
+  "suck": "U sharbatni naycha orqali so'rib ichdi.",
+  "suck out": "Ba'zi odamlar zaharni so'rib olishga harakat qilishadi.",
+  "supernatural": "Ba'zi odamlar tabiblarda g'ayritabiiy kuch bor deb ishonishadi.",
+  "tightly": "U matoni qo'liga qattiq bog'ladi.",
+  "time of year": "Musson yilning eng xavfli faslidir.",
+  "tourniquet": "Tabib uning oyog'iga jgut bog'ladi.",
+  "treat": "Shifokorlar ilon chaqishini zaharga qarshi zardob bilan davolashlari mumkin.",
+  "tropical": "Bangladeshda tropik iqlim hukm suradi.",
+  "undesirable": "Yarani kesish nomaqbul oqibatlarga olib keladi.",
+  "vast": "Jabrlanuvchilarning mutlaq ko'pchiligi qishloqlarda yashaydi.",
+  "venomous": "Bangladeshda zaharli ilonlar ko'p.",
+  "victim": "Jabrlanuvchilarning aksariyati dalada ishlaydigan dehqonlardir.",
+  "wound": "Tabib zaharni chiqarish uchun yarani kesdi."
  }
 });

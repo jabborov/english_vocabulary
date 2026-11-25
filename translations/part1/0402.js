@@ -1,4 +1,4 @@
-// Part 1 topic 0402: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0402: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0402', {
  "A1": {
   "apocalypse": "Qiyomat yaqinlashyaptimi?",
@@ -23,5 +23,9 @@ VOCAB_TR_STORE('1', '0402', {
  "C2": {
   "apocalypse": "Qiyomatga tayyorgarlik ko'rish o'ta badavlatlar orasida g'alati maqom ramziga aylandi.",
   "societal": "Tanqidchilarning fikricha, shaxsiy bunkerlarga sarflangan pul inqirozni ehtimolroq qiladigan ijtimoiy muammolarni hal qilishga yo'naltirilishi mumkin edi."
+ },
+ "EX": {
+  "apocalypse": "Ba'zi milliarderlar qiyomatga tayyorgarlik ko'rishmoqda.",
+  "societal": "Ba'zi odamlar falokatdan keyin jamiyatning qulashidan qo'rqishadi."
  }
 });

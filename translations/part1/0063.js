@@ -1,4 +1,4 @@
-// Part 1 topic 0063: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0063: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0063', {
  "A1": {
   "Mrs": "Salom, Smit xonim.",
@@ -203,5 +203,39 @@ VOCAB_TR_STORE('1', '0063', {
   "trainee": "Stajyorlik davrida shakllangan qoliplar butun karyerani belgilab berishi mumkin.",
   "unimportant": "Ahamiyatsiz deb hisoblangan vazifalar shunga qaramay tashkilotning ishlashini ta'minlab turadi.",
   "wage": "Saqlanib qolayotgan ish haqidagi tafovut har qanday maosh muzokarasidan ancha oldin qilingan tanlovlarni aks ettiradi."
+ },
+ "EX": {
+  "Mrs": "Jones xonim birinchi ayol direktor edi.",
+  "address": "Kompaniyalar bu nomutanosiblikni bartaraf etishi kerak.",
+  "advancement": "Ofisdagi mayda-chuyda ishlar martabangizning o'sishiga yordam bermaydi.",
+  "burn out": "Juda ko'p ishni zimmangizga olsangiz, butunlay charchab qolasiz.",
+  "ceiling": "Xonaning shifti juda baland edi.",
+  "chairing": "Majlisga raislik qilish lavozim ko'tarilishiga olib keladigan vazifadir.",
+  "corporate": "Korporativ hayotning yuqori pog'onalarida ayollar kam.",
+  "cosmetic": "Tanqidchilarning fikricha, kompaniyadagi o'zgarishlar faqat yuzaki.",
+  "dental": "Qayta o'qishdan oldin u stomatologiya hamshirasi bo'lib ishlagan.",
+  "disproportionately": "Ofisdagi ishlarni bajarish nomutanosib ravishda ko'proq ayollardan so'raladi.",
+  "exhausted": "U hammaning ishini qilib, holdan toydi.",
+  "find oneself": "Ko'plab ayollar ofisdagi mayda-chuyda ishlarni o'zlari bajarib yurganini ko'radi.",
+  "glass ceiling": "U firmada \"shisha shift\"ni yorib o'tgan birinchi ayol bo'ldi.",
+  "imbalance": "Ofisdagi mayda-chuyda ishlarni kim bajarishida nomutanosiblik bor.",
+  "juggle": "Ko'plab ayollar ish va oilani bir vaqtda eplashga harakat qiladi.",
+  "juggling": "Bu ishlarning hammasini birga eplash charchatishi mumkin.",
+  "move up": "Ayollar uchun kompaniyada yuqoriga ko'tarilish qiyinroq bo'lishi mumkin.",
+  "nickname": "Hamkasblari unga \"ofis onasi\" degan laqab qo'yishgan.",
+  "outstrip": "Hozirda ayollar universitet diplomlari bo'yicha erkaklardan o'zib ketmoqda.",
+  "party": "Ofisdagi Yangi yil bayramini kim tashkil qildi?",
+  "promote up": "U menejer lavozimiga ko'tarilishga umid qilgan edi.",
+  "promotion": "Ayollarning lavozimi ko'tarilish ehtimoli erkaklarnikidan pastroq.",
+  "social event": "Ko'pincha ayollardan ofisdagi ijtimoiy tadbirlarni tashkil qilish so'raladi.",
+  "solicitor": "U yirik yuridik firmada stajyor advokat.",
+  "structural": "Muammo shaxsiy emas, balki tizimli xarakterga ega.",
+  "take note": "Rahbarlar qo'shimcha ishni kim bajarayotganiga e'tibor berishi kerak.",
+  "taking": "Majlislarda qayd yozish odatda ayollarning zimmasiga tushadi.",
+  "talented": "Kompaniyalar iqtidorli ayollarni yo'qotmoqda.",
+  "to order": "Ko'pincha ayollardan majlis uchun tushlik buyurtma qilish so'raladi.",
+  "trainee": "U firmaga stajyor sifatida kirdi.",
+  "unimportant": "Qayd yozib borish ahamiyatsiz tuyulishi mumkin, ammo u vaqt oladi.",
+  "wage": "Ko'plab kasblarda ayollar hamon erkaklarga qaraganda kamroq maosh oladi."
  }
 });

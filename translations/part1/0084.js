@@ -1,4 +1,4 @@
-// Part 1 topic 0084: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0084: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0084', {
  "A1": {
   "anthropologist": "Antropolog odamlarni o'rganadi.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0084', {
   "search out": "Ilk odamlar xavflarni doimo izlab topishlari kerak edi; endi telefonlarimiz ularni so'ramasak ham yetkazib beradi.",
   "seek out": "Salbiy ma'lumotni izlab topishga moyillik bir vaqtlar omon qolish uchun hal qiluvchi ahamiyatga ega bo'lgan bo'lishi mumkin.",
   "trauma": "Tadqiqotchilar bezovta qiluvchi ommaviy axborotga uzoq vaqt duchor bo'lish bilvosita travmaga olib kelishi mumkinligini tobora ko'proq tan olmoqda."
+ },
+ "EX": {
+  "anthropologist": "Bir antropolog odamlar nega yomon xabarlarga intilishini tushuntirib berdi.",
+  "autobiography": "U o'z tarjimai holida boshidan kechirgan qiyinchiliklari haqida yozdi.",
+  "cave": "Ilk odamlar g'orlarda yashagan va xavfdan ehtiyot bo'lishlari kerak edi.",
+  "caveman": "G'or odami doimo xavfga hushyor bo'lishi kerak edi.",
+  "compel": "Ko'p odamlar yomon xabarlarni o'qishda davom etishga o'zini majbur his qiladi.",
+  "compensate": "Yomon xabarlarning o'rnini biror ijobiy narsa o'qish bilan to'ldirishga harakat qiling.",
+  "compulsion": "Doomscrolling o'zini to'xtata olmaydigan odatga aylanishi mumkin.",
+  "disturbing": "Uxlashdan oldin tashvishli yangiliklarni o'qish uyquingizga ta'sir qilishi mumkin.",
+  "evolution": "Xavfga bo'lgan qiziqishimiz evolyutsiya natijasidir.",
+  "joyous": "Nega biz quvonchli xabarlarni yomon xabarlarchalik ko'p o'qimaymiz?",
+  "lie in": "Javob bizning evolyutsiyamizda bo'lishi mumkin.",
+  "negativity": "Yangiliklarda salbiy narsalar juda ko'p.",
+  "news agency": "Axborot agentliklari butun dunyodagi gazetalarga xabarlar yuboradi.",
+  "on tap": "Bugun yangiliklar sutkaning 24 soati qo'l ostimizda.",
+  "positivity": "Yangiliklar lentalarimizda ko'proq ijobiylik kerak.",
+  "reading": "Doomscrolling — internetda soatlab yomon xabarlarni o'qish degani.",
+  "romanticise": "Ilk odamlarning hayotini ideallashtirmasligimiz kerak.",
+  "scroll": "Har kuni ertalab telefonimda yangiliklarni varaqlab chiqaman.",
+  "search out": "Biz xavf haqidagi xabarlarni izlab topamiz.",
+  "seek out": "Biz go'yo yomon xabarlarni ataylab izlaymiz.",
+  "trauma": "Juda ko'p yomon xabarlarni ko'rish o'ziga xos ruhiy jarohatga sabab bo'lishi mumkin."
  }
 });

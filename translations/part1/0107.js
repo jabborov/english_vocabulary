@@ -1,4 +1,4 @@
-// Part 1 topic 0107: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0107: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0107', {
  "A1": {
   "NH": "U NHSda ishlaydi.",
@@ -203,5 +203,39 @@ VOCAB_TR_STORE('1', '0107', {
   "trial": "Sinov natijalari ish soatlari qisqartirilganda unumdorlik pasayishi shart emasligini ko'rsatadi.",
   "waitress": "Ofitsiantkalar past asosiy maoshni to'ldirish uchun ko'pincha choychaqaga tayanishadi.",
   "warden": "Shunchaki o'z ishini bajargani uchun dushmanlikka duch keladigan yo'l harakati nazoratchilariga kamdan-kam odam hamdardlik bildiradi."
+ },
+ "EX": {
+  "NH": "Ko'plab NHS xodimlari charchab qolganini aytishadi.",
+  "at one time": "Bir vaqtlar men kasalxonada farrosh bo'lib ishlaganman.",
+  "badly": "Farroshlarga ko'pincha kam maosh to'lanadi.",
+  "bartender": "Barmen har dam olish kunlari kech soatgacha ishlardi.",
+  "breathe down": "Kun bo'yi boshliqning tepasida turib nazorat qilishini hech kim yoqtirmaydi.",
+  "budget": "Kasalxonalarning byudjeti avvalgidan kamroq.",
+  "by the day": "Ba'zi quruvchilarga kunbay haq to'lanadi.",
+  "call centre": "Qo'ng'iroqlar markazida ishlash eng kam baxt keltiradigan ishlardan biri deb topildi.",
+  "cleaner": "Farrosh ishni ertalab soat beshda boshlaydi.",
+  "cleaning": "Tozalash eng kam qoniqish beradigan ishlardan biri deb baholandi.",
+  "construction industry": "Qurilish sohasidagi ishchilar ko'plab xavf-xatarlarga duch keladi.",
+  "critically": "Ko'plab kasalxonalarda xodimlar keskin yetishmaydi.",
+  "demanding": "Hamshiralik juda katta kuch talab qiladigan ish.",
+  "dirty": "Tozalash ko'pincha og'ir va iflos ish.",
+  "do work": "Ba'zi odamlar og'ir va kam haq to'lanadigan ish qilishadi.",
+  "emphasize": "Hisobotda yaxshi rahbarlarning ahamiyati alohida ta'kidlanadi.",
+  "exhausting": "Restoranda uzoq smenalarda ishlash juda charchatadi.",
+  "feedback": "Yaxshi rahbarlar xodimlariga muntazam ravishda fikr-mulohaza bildirib turadi.",
+  "injury": "Farroshlar va quruvchilar orasida bel jarohatlari ko'p uchraydi.",
+  "neck": "U boshlig'i doim tepasida turgandek his qilardi.",
+  "on time": "Ishchilar har bir ishni o'z vaqtida tugatishlari kerak.",
+  "overtime": "Hamshiralar ko'pincha qo'shimcha haq olmasdan ortiqcha soat ishlashadi.",
+  "pace": "Ko'p ishchilar ish sur'atini juda tez deb hisoblashadi.",
+  "physically": "Qurilish ishi jismonan og'ir.",
+  "portable": "Ko'chma hojatxonalarni tozalash eng kam yoqtiriladigan ishlardan biri.",
+  "score": "So'rovnomada farroshlar eng past baxt ko'rsatkichiga ega bo'lishdi.",
+  "stay at": "Ishidan norozi xodimlar bitta kompaniyada uzoq qolmaydi.",
+  "supervisor": "Uning nazoratchisi doim uni tekshirib turardi.",
+  "target": "Qo'ng'iroqlar markazi xodimlari har kuni qat'iy belgilangan rejalarni bajarishlari kerak.",
+  "trial": "Ba'zi kompaniyalar to'rt kunlik ish haftasini sinovdan o'tkazmoqda.",
+  "waitress": "U gavjum kafeda ofitsiantka bo'lib ishlagan.",
+  "warden": "Yo'l harakati nazoratchilari ko'pincha haydovchilarga yoqmaydi."
  }
 });

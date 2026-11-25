@@ -1,4 +1,4 @@
-// Part 1 topic 0296: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0296: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0296', {
  "A1": {
   "assassination": "Suiqasd hammani larzaga soldi.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0296', {
   "terrorist group": "Fitna nazariyotchilari ba'zan terroristik guruh mustaqil harakat qilganini inkor etadilar.",
   "unsubstantiated": "Ijtimoiy tarmoqlarda asossiz nazariyalar tasdiqlangan faktlardan tezroq tarqalishi mumkin.",
   "vaccinate": "Internetdagi afsonalar ta'sirida emlashga tayyorlikning pasayishi oldini olish mumkin bo'lgan kasalliklarning tarqalishiga olib keldi."
+ },
+ "EX": {
+  "assassination": "Prezident Kennedining suiqasdi haqida ko'plab fitna nazariyalari mavjud.",
+  "conspiracy": "U Oyga qo'nishni fitna deb hisoblaydi.",
+  "drug company": "Ba'zilar farmatsevtika kompaniyalari ko'proq pul ishlash uchun davolarni yashiradi deb o'ylashadi.",
+  "dumb": "Fitna nazariyalariga ishonish sizni ahmoq degani emas.",
+  "flag": "Ijtimoiy tarmoqlar endi yolg'on ma'lumot bor postlarni belgilab qo'yadi.",
+  "fluoride": "Ba'zi fitna nazariyasi tarafdorlari odamlarni boshqarish uchun suvga ftor qo'shiladi deb ishonishadi.",
+  "gullible": "Soddadil odamlar fitna nazariyalariga ishonishga ko'proq moyil.",
+  "lone": "Ko'pchilik prezidentni yolg'iz qotil o'ldirganini qabul qila olmaydi.",
+  "loner": "Qotil do'stlari kam bo'lgan odamovi shaxs sifatida tasvirlangan.",
+  "medically": "Vaksinalar ko'pchilik odamlar uchun xavfsiz ekani tibbiy jihatdan isbotlangan.",
+  "off the beaten track": "Ba'zi fitna nazariyalari odatiy fikrlashdan shunchalik yiroqki, ular telbalarchadek tuyuladi.",
+  "openness": "Hukumatlarning ko'proq ochiqligi fitna nazariyalariga ishonchni kamaytirishi mumkin.",
+  "paranoia": "Fitna nazariyalari paranoya va ishonchsizlik bilan bog'liq bo'lishi mumkin.",
+  "paranormal": "G'ayritabiiy hodisalarga ishonadigan odamlar ko'pincha fitnalarga ham ko'proq ishonishadi.",
+  "susceptible": "Yolg'iz odamlar fitna nazariyalariga ko'proq beriluvchan bo'lishi mumkin.",
+  "terrorist": "Politsiya terrorchilikda gumon qilingan ikki kishini hibsga oldi.",
+  "terrorist act": "Fitna nazariyalari ko'pincha yirik terroristik harakatdan keyin paydo bo'ladi.",
+  "terrorist group": "Terroristik guruh hujum uchun javobgarlikni o'z zimmasiga oldi.",
+  "unsubstantiated": "Aksariyat fitna nazariyalari asossiz da'volarga asoslangan.",
+  "vaccinate": "Fitna nazariyalari tufayli ba'zi ota-onalar farzandlarini emlatmadi."
  }
 });

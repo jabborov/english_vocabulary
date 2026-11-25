@@ -1,4 +1,4 @@
-// Part 1 topic 0135: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0135: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0135', {
  "A1": {
   "acquire": "Men yangi ko'nikma egalladim.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0135', {
   "separate out": "Festival nogironligi bor san'atkorlarni alohida ajratish o'rniga ularni asosiy dasturga qo'shadi.",
   "sheet music": "Nogironligi bor ko'plab ijrochilar uchun notalar o'rnini audioyozuvlar va yodlash egallaydi.",
   "string": "Rangli torlar mo'ljal vazifasini bajarib, ijrochilarga cholg'u bo'ylab yo'nalish olish imkonini beradi."
+ },
+ "EX": {
+  "acquire": "U o'z mahoratini tinglash va mashq qilish orqali egallagan.",
+  "black and white": "Notalarning aksariyati oq-qora rangda chop etiladi.",
+  "blind": "Pianinochi tug'ma ko'zi ojiz.",
+  "cod": "Treska Britaniyada mashhur baliq hisoblanadi.",
+  "collaborate": "Nogironligi bor va nogironligi yo'q san'atkorlar shou ustida hamkorlik qilishadi.",
+  "correspond": "Brayl yozuvidagi har bir belgi bitta musiqiy notaga mos keladi.",
+  "deaf person": "Kar odam ham musiqani tebranishlar orqali his qila oladi.",
+  "disability": "Nogironlik hech kimga musiqa yaratishga to'sqinlik qilmasligi kerak.",
+  "dyslexic": "U disleksiyaga chalingan, shuning uchun nota o'qish unga qiyin.",
+  "equal opportunity": "Nogiron san'atkorlar san'atda teng imkoniyatlarga ega bo'lishni xohlaydi.",
+  "froze": "Sahnadagi birinchi kechasida u qotib qoldi.",
+  "harp": "Arfaning 47 ta tori bor.",
+  "harpist": "Arfachining ko'rish qobiliyati qisman bor.",
+  "instrument": "U orkestrda cholg'u asbobida chaladi.",
+  "musical notation": "Ba'zi nogiron musiqachilar uchun musiqiy notalarni o'qish qiyin.",
+  "notation": "Brayl nota yozuvi ko'zi ojiz musiqachilarga musiqani o'qish imkonini beradi.",
+  "quite an": "Butun boshli konsertni yoddan o'rganish ancha katta yutuq.",
+  "ready and waiting": "Orkestr tayyor holda dirijyorni kutib turardi.",
+  "semi": "U to'liq professional bo'lishidan oldin yarim professional arfachi edi.",
+  "separate out": "U musiqani o'rganish uchun uning turli qismlarini alohida ajratib oladi.",
+  "sheet music": "U nota o'qiy olmaydi, shuning uchun musiqani eshitib o'rganadi.",
+  "string": "Arfachi har bir torning qayerdaligini paypaslab biladi."
  }
 });

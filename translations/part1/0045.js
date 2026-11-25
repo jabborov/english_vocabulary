@@ -1,4 +1,4 @@
-// Part 1 topic 0045: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0045: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0045', {
  "A1": {
   "afterwards": "Biz ovqatlandik, keyin esa tashqariga chiqdik.",
@@ -251,5 +251,47 @@ VOCAB_TR_STORE('1', '0045', {
   "trailblazer": "Bu yo'l ochuvchilar keyingi barcha insonli kosmik parvozlar uchun andoza yaratdilar.",
   "used": "Sinovchi uchuvchilar astronavt bo'lishlaridan ancha oldin yolg'izlik va xavfga ko'nikib qolgan edi.",
   "video": "«Apollon-11» missiyasining qayta tiklangan videosi yangi avlodga bu yutuqni yorqin his etish imkonini berdi."
+ },
+ "EX": {
+  "afterwards": "Keyinroq Kollinz missiya haqida kitob yozdi.",
+  "aloft": "Boshqalar qo'nayotganda kosmik kema havoda – orbitada qoldi.",
+  "amazed": "Odamlar koinotdan olingan Yer suratlarini ko'rib hayratda qolishdi.",
+  "appreciate": "Kollinz Yer koinotdan qanchalik go'zal ko'rinishini qadrladi.",
+  "backup": "Kollinz avvalgi missiyada zaxira ekipaj a'zosi bo'lgan.",
+  "bond": "Astronavtlar o'rtasida mustahkam rishta paydo bo'ldi.",
+  "camaraderie": "Astronavtlar o'rtasida mustahkam do'stona birdamlik bor edi.",
+  "capture": "Kameralar Armstrong Oyga qadam qo'ygan lahzani suratga oldi.",
+  "centre on": "Aksariyat hikoyalar Armstrong va Oldrin atrofida aylanadi.",
+  "circle": "Kollinz Oy atrofida yolg'iz aylanib uchdi.",
+  "circle around": "Kollinz Oy atrofida o'ttiz marta aylanib uchdi.",
+  "command module": "Boshqalar Oyda yurganida Maykl Kollinz qo'mondonlik modulida qoldi.",
+  "crazy": "Odamlar Oyga yetib borishga urinishni telbalik deb o'ylashgan.",
+  "creation": "Apollon dasturini yaratish milliardlab dollarga tushdi.",
+  "devastated": "U vafot etganda oilasi qattiq qayg'uga botdi.",
+  "disappoint": "Kollinz Oyda yura olmaganidan hafsalasi pir bo'lganmidi?",
+  "dog": "Odamlardan oldin koinotga itlar kabi hayvonlar yuborilgan.",
+  "drive": "Astronavtlarda katta g'ayrat va qat'iyat bor edi.",
+  "explorer": "Astronavtlar – zamonaviy tadqiqotchi-sayyohlardir.",
+  "feed": "Millionlab odamlar Oydan jonli televizion efirni tomosha qilishdi.",
+  "first step": "Nil Armstrong Oyga birinchi qadamni qo'ydi.",
+  "friendship": "Astronavtlar o'rtasida kasbiy do'stlik bor edi.",
+  "go down": "Apollon 11 tarixda qoladi.",
+  "interaction": "Oyning orqa tomonida Kollinz hech kim bilan aloqa qilmadi.",
+  "lonely": "Maykl Kollinzni tarixdagi eng yolg'iz odam deb atashgan.",
+  "lunar": "Oy moduli xavfsiz qo'ndi.",
+  "module": "Oy moduli Oyga qo'ndi.",
+  "pass away": "Maykl Kollinz 90 yoshida olamdan o'tdi.",
+  "pioneer": "Apollon 11 astronavtlari koinotga parvozning kashshoflari edi.",
+  "preparatory": "Astronavtlar yillar davomida tayyorgarlik mashg'ulotlarini o'tashdi.",
+  "primary": "Uning asosiy vazifasi qo'mondonlik modulini boshqarish edi.",
+  "regard": "Kollinz buyuk astronavtlardan biri hisoblanadi.",
+  "responsibility": "Hammani uyga qaytarish mas'uliyati Kollinz zimmasida edi.",
+  "revolutionary": "Apollon missiyalari inqilobiy yangi texnologiyalarga yo'l ochdi.",
+  "sadly": "Afsuski, Maykl Kollinz 2021-yilda vafot etdi.",
+  "surface": "Armstrong va Oldrin Oy yuzasida yurishdi.",
+  "take after": "Kollinzning o'g'li otasiga tortganini aytdi.",
+  "trailblazer": "Apollon astronavtlari yo'l ochuvchi kashshoflar edi.",
+  "used": "Kollinz yolg'iz uchishga o'rganib qolgan edi.",
+  "video": "Oyga qo'nish haqida mashhur video bor."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0052: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0052: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0052', {
  "A1": {
   "anime": "Men anime tomosha qilaman.",
@@ -197,5 +197,38 @@ VOCAB_TR_STORE('1', '0052', {
   "unplayable": "Shoshilinch yaratilgan, deyarli o'ynab bo'lmaydigan o'yinlarning ko'pligi iste'molchilarning bu sohaga ishonchini yo'qqa chiqardi.",
   "video game": "Ommaviy madaniyatni Super Mario Bros darajasida chuqur shakllantirgan video o'yinlar kam.",
   "widely": "Super Mario Bros Amerika konsol bozorini qutqargani keng e'tirof etilgan."
+ },
+ "EX": {
+  "anime": "Yaponiya video o'yinlar bilan bir qatorda anime bilan ham mashhur.",
+  "appearance": "Kepkasi va mo'ylovi bilan Marioning tashqi ko'rinishini tanib olish oson.",
+  "boom": "O'yin uy video o'yinlarining keskin ommalashuviga olib keldi.",
+  "cliff": "Mario bo'shliqlar ustidan sakrab o'tishi va jarlikdan yiqilib tushmasligi kerak.",
+  "considerable": "O'yinning bir nusxasi ancha katta pulga sotildi.",
+  "console": "Super Mario Bros Nintendo Entertainment System o'yin konsoli uchun chiqarilgan.",
+  "explosion": "1980-yillarda uy video o'yinlari portlashsimon tarzda ko'paydi.",
+  "factor in": "Inflyatsiyani ham hisobga olsangiz, o'yin juda qimmat bo'lgan.",
+  "fall off": "Agar Mario chetdan yiqilib tushsa, bitta jon yo'qotasiz.",
+  "first appearance": "Mario ilk bor Donkey Kong avtomat o'yinida paydo bo'lgan.",
+  "flood": "1980-yillarning boshida bozorni sifatsiz o'yinlar to'ldirib yubordi.",
+  "gamer": "Millionlab o'yinchilar Super Marioni o'ynagan.",
+  "iconic": "Qizil shlyapasi va mo'ylovi bilan Mario ramziy qahramondir.",
+  "in one's own right": "Boshqalarning o'yin o'ynashini tomosha qilish o'z-o'zicha mustaqil ko'ngilochar mashg'ulotga aylandi.",
+  "just so": "O'yindagi har bir sakrash aynan kerakli darajada his qilinishi lozim edi.",
+  "lessen": "Vaqt o'tishi o'yinning mashhurligini kamaytirmadi.",
+  "market": "1980-yillarning boshida video o'yinlar bozori qulab tushdi.",
+  "none": "Avvalgi o'yinlarning hech biri Super Mario Bros kabi muvaffaqiyat qozonmagan.",
+  "plumber": "Mario Bruklinlik santexnikdir.",
+  "recognisable": "Mario dunyodagi eng taniqli qahramonlardan biridir.",
+  "rescue": "O'yinda Mario malikani qutqarishi kerak.",
+  "rival": "1990-yillarda Sonic the Hedgehog Marioning ashaddiy raqibi edi.",
+  "satisfying": "Mario o'yinida dushmanlar ustiga sakrash juda zavqli.",
+  "software": "Nintendo o'z dasturiy ta'minotining sifatiga juda e'tibor berardi.",
+  "streamer": "Ko'plab striminchilar Super Marioni internetda jonli efirda o'ynaydi.",
+  "thrive": "Mario tufayli Nintendo gullab-yashnashda davom etdi.",
+  "trading": "Kartalar almashish ko'plab maktablarda ommalashib ketdi.",
+  "trading card": "Pokémon almashinuv kartalarini butun dunyo bo'ylab bolalar yig'adi.",
+  "unplayable": "Ba'zi ilk o'yinlar shunchalik yomon ediki, ularni deyarli o'ynab bo'lmasdi.",
+  "video game": "Super Mario barcha davrlarning eng mashhur video o'yinlaridan biridir.",
+  "widely": "Super Mario Bros keng miqyosda hozirgacha yaratilgan eng yaxshi o'yinlardan biri deb hisoblanadi."
  }
 });

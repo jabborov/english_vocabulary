@@ -1,4 +1,4 @@
-// Part 1 topic 0416: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0416: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0416', {
  "A1": {
   "Atlantis": "Atlantida afsonadir.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0416', {
   "navigator": "Xayoliy orol dengizchi-navigatorning kit yoki rifni noto'g'ri tushunishidan kelib chiqqan bo'lishi mumkin.",
   "selection": "Ilk kartograflarning manbalarni tanlashi ko'pincha tanqidiy yondashuvsiz bo'lgan.",
   "spokesman": "Matbuot kotibi xato tarixiy manbalardan tekshirilmasdan meros qilib olinganini tan oldi."
+ },
+ "EX": {
+  "Atlantis": "Odamlar uni zamonaviy Atlantida deb atashdi.",
+  "Maria": "Mariya va uning jamoasi orol bo'lishi kerak bo'lgan joyga suzib borishdi.",
+  "copy over": "Xato bir xaritadan ikkinchisiga ko'chirib o'tkazilgan.",
+  "map maker": "Xaritachilar endi orolni xaritadan olib tashlashdi.",
+  "nautical": "Orol dengiz xaritalarida ko'rsatilgan edi.",
+  "navigator": "Ilk dengizchi-navigatorlar xarita chizishda xatolarga yo'l qo'yishgan.",
+  "selection": "Orol dunyo sirlari to'plamiga kiritildi.",
+  "spokesman": "Xarita kompaniyasining matbuot kotibi xato tuzatilishini aytdi."
  }
 });

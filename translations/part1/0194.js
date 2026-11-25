@@ -1,4 +1,4 @@
-// Part 1 topic 0194: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0194: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0194', {
  "A1": {
   "bargain": "Bu juda arzon xarid.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0194', {
   "techy": "Ishlab chiqaruvchilar har bir yangi mahsulot atrofida hayajon uyg'otish uchun texnologiyaga ishqiboz sodiq auditoriyaga tayanadi.",
   "tended to": "Bozor yetuklikka erishmasdan oldin iste'molchilar odatda shartnomalari imkon berishi bilanoq telefonlarini yangilashardi.",
   "youngster": "Ko'plab yoshlar uchun telefon vositadan ko'ra ko'proq ijtimoiy maqom belgisidir."
+ },
+ "EX": {
+  "bargain": "Ishlatilgan telefon haqiqiy arzon xarid bo'lishi mumkin.",
+  "brand name": "Ba'zi odamlar telefonni faqat brend nomi uchun sotib olishadi.",
+  "brass": "Eski latun eshik tutqichi artilsa, yaltirab ketadi.",
+  "doorknob": "U latun eshik tutqichini yaltiraguncha artdi.",
+  "equal to": "Yangi telefon narxi bir oylik ijara haqiga teng bo'lishi mumkin.",
+  "handset": "Eng yangi telefon apparati ming funtdan ortiq turadi.",
+  "justify": "Yangi telefonga shuncha pul sarflashni oqlash qiyin.",
+  "lustre": "Yangi telefon tezda o'z jilosini yo'qotadi.",
+  "mature": "Smartfon bozori endi yetuk bosqichda, shuning uchun yangi modellarda kam o'zgarish bo'ladi.",
+  "nip": "Do'konga bir yugurib borib kelishim kerak.",
+  "nip out": "Yangi telefon g'ilofi olish uchun do'konga bir chiqib kelaman.",
+  "oversleep": "Eski telefonimning budilnigi chalinmagani uchun uxlab qolibman.",
+  "pleasing": "Yangi telefonning dizayni ko'zni quvontiradi, lekin bu uni sotib olish uchun yetarli sababmi?",
+  "polish": "U eski telefonini yangidek ko'rinishi uchun artib, yaltiratdi.",
+  "rush out": "Ba'zi odamlar yangi telefon chiqqan kuniyoq uni sotib olishga yugurishadi.",
+  "shiny": "Hamma reklamadagi yaltiroq yangi telefonni xohlaydi.",
+  "sort out": "Oddiy ta'mirlash telefondagi ko'pgina muammolarni hal qilishi mumkin.",
+  "techy": "Texnikani yaxshi ko'radigan do'stim doim eng yangi telefonni sotib oladi.",
+  "tended to": "Odamlar telefonlarini odatda har ikki yilda yangilashardi.",
+  "youngster": "Yoshlar tengdoshlaridan qolmaslik uchun ko'pincha eng so'nggi telefonni xohlashadi."
  }
 });

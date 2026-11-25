@@ -1,4 +1,4 @@
-// Part 1 topic 0312: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0312: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0312', {
  "A1": {
   "Ebola": "Ebola xavfli kasallik.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0312', {
   "risky": "Tajribaviy davolash usullari tabiatan xavfli, biroq epidemiya paytida hech narsa qilmaslik ham o'z xavflariga ega.",
   "sue": "Farmatsevtika kompaniyalari tajribaviy davolash usullari uchun ularni sudga berib bo'lmasligi uchun huquqiy himoya izladilar.",
   "waiver": "Tanqidchilar og'ir ahvoldagi bemor imzolagan voz kechish hujjatini ixtiyoriy deb hisoblash qiyin, deb ta'kidladilar."
+ },
+ "EX": {
+  "Ebola": "G'arbiy Afrikadagi Ebola epidemiyasi minglab odamlarning hayotiga zomin bo'ldi.",
+  "Walter": "Walter dori sinovlarining axloqiy muammolarini tushuntirib berdi.",
+  "confidentiality": "Shifokorlar bemor ma'lumotlarining maxfiyligini hurmat qilishlari kerak.",
+  "consent": "U sinovda qatnashishga rozilik berdi.",
+  "dignity": "Har bir bemorga uning qadr-qimmatini hurmat qilgan holda munosabatda bo'lish kerak.",
+  "dilemma": "Shifokorlar og'ir dilemma oldida qolishdi: sinovdan o'tmagan dorini qo'llash yoki bemorlarning o'lishini kuzatib turish.",
+  "for anything": "Kompaniya noto'g'ri ketgan hech narsa uchun javob bermasdi.",
+  "informed consent": "Bemorlar dori sinovida qatnashishdan oldin ongli rozilik berishlari shart.",
+  "involvement": "Mahalliy jamoalarning ishtiroki kasallik tarqalishini to'xtatishga yordam berdi.",
+  "liable": "Kompaniya hech qanday nojo'ya ta'sir uchun javobgar bo'lishni istamadi.",
+  "mortality rate": "Ebola kasalligida o'lim darajasi 50 foizgacha yetishi mumkin.",
+  "preservation": "Hayotni saqlab qolish shifokorning birinchi burchidir.",
+  "risky": "Epidemiya paytida yangi dorilarni sinab ko'rish xavfli.",
+  "sue": "Farmatsevtika kompaniyalari biror narsa noto'g'ri ketsa, bemorlar ularni sudga berishidan xavotirlanadi.",
+  "waiver": "Bemorlardan dorini olishdan oldin da'vodan voz kechish to'g'risidagi hujjatni imzolash so'raldi."
  }
 });

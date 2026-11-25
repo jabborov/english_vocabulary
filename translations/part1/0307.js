@@ -1,4 +1,4 @@
-// Part 1 topic 0307: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0307: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0307', {
  "A1": {
   "Titanic": "Men \"Titanic\"ni ko'rdim.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0307', {
   "secret code": "Ba'zi ro'yxatlarda faqat yaqin do'stlar tushunadigan o'ziga xos maxfiy kod bo'ladi.",
   "vomit": "Tasvirlar shunchalik ochiq-oydin ediki, bir necha o'quvchi qayt qilib yuborishiga oz qolganini aytdi.",
   "whisker": "Qo'shiqdagi mushukchalarning mo'ylovlaridan tortib issiq qo'lqoplargacha bo'lgan taskin beruvchi tasvirlar ro'yxati ataylab shirin qilingan."
+ },
+ "EX": {
+  "Titanic": "\"Titanik\" ko'pchilikning sevimli filmlari ro'yxatida bor.",
+  "abbreviate": "Vaqtni tejash uchun ro'yxatlarimda hamma narsani qisqartirib yozaman.",
+  "avatar": "\"Avatar\" barcha davrlarning eng ko'p daromad keltirgan filmidir.",
+  "avenger": "\"Qasoskorlar\" filmlari ko'pincha eng ko'p daromad keltirgan filmlar ro'yxatida uchraydi.",
+  "bank statement": "Bank ko'chirmasi aslida sarflagan pullaringizning ro'yxatidan boshqa narsa emas.",
+  "big bang": "Eng buyuk kashfiyotlar ro'yxatiga Katta portlash nazariyasi ham kiritilgan.",
+  "buy at": "Supermarketdan nima sotib olishingiz kerakligini yozib qo'ying.",
+  "excessively": "Ba'zi odamlar qiladigan har bir ishi uchun haddan tashqari ko'p ro'yxat yozishadi.",
+  "find over": "Vaqt o'tishi bilan yoshingiz ulg'aygani sari ro'yxatlaringiz o'zgarib borishini sezishingiz mumkin.",
+  "grotesque": "Hozirgacha suratga olingan eng xunuk va bema'ni filmlar ro'yxati kutilmaganda uzun bo'lib chiqdi.",
+  "inauthentic": "Faqat bosishlar to'plash uchun yozilgan ro'yxatlar soxtadek tuyulishi mumkin.",
+  "insincere": "Internetdagi ko'plab \"eng yaxshi o'ntalik\" ro'yxatlari samimiy emasdek tuyuladi.",
+  "nub": "Masalaning mag'zi shundaki, ro'yxatlar bizga vaziyatni nazorat qilayotgandek his qilishga yordam beradi.",
+  "puke": "Bu shirinsuxan ro'yxatlarning ba'zilaridan ko'nglim aynib ketadi!",
+  "raindrop": "\"Raindrops on roses\" – \"My Favourite Things\" qo'shig'ining birinchi satri.",
+  "saccharine": "Ba'zi odamlar sevimli narsalar ro'yxatlarini biroz haddan tashqari shirinsuxan deb bilishadi.",
+  "secret code": "Bolaligimizda ro'yxatlarni maxfiy kodda yozardik.",
+  "vomit": "Film shunchalik shafqatsiz ediki, bir tomoshabin ko'nglim aynib, qusgim keldi dedi.",
+  "whisker": "Qo'shiqdagi sevimli narsalar ro'yxatida \"mushukchalarning mo'ylovlari\" ham bor."
  }
 });

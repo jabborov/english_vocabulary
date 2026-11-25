@@ -1,4 +1,4 @@
-// Part 1 topic 0079: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0079: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0079', {
  "A1": {
   "Adam": "Adam xonanda.",
@@ -215,5 +215,41 @@ VOCAB_TR_STORE('1', '0079', {
   "streak": "Reytingdagi muvaffaqiyatlar ketma-ketligini saqlab qolish ham iste'dodni, ham vaziyatni g'ayrioddiy his etishni talab qiladi.",
   "topper": "Reyting cho'qqisini egallagan bitta qo'shiq muallifni o'n yillar davomida moddiy jihatdan ta'minlashi mumkin.",
   "tune": "Buyuk kuylar ko'pincha muqarrardek, go'yo azaldan mavjud bo'lgandek tuyuladi."
+ },
+ "EX": {
+  "Adam": "Adam xit qo'shiqni qanday yozishini tushuntirib berdi.",
+  "affectionate": "U eski qo'shiqlar haqida mehr bilan gapirdi.",
+  "alcohol": "Ko'plab rok yulduzlari spirtli ichimliklar bilan muammoga duch kelgan.",
+  "be full": "Qo'shiq baxtli xotiralarga to'la.",
+  "bender": "Rok yulduzi uch kun to'xtovsiz ichkilikbozlik qildi.",
+  "bittersweet": "Qo'shiqda shirin va achchiq hislar aralash.",
+  "catchy": "Qo'shiqning naqoroti juda tez yodda qoladigan.",
+  "chord": "Ko'plab xit qo'shiqlarda atigi uch-to'rtta akkord ishlatiladi.",
+  "countdown": "U har yakshanba qo'shiqlar reytingining sanoq dasturini tinglardi.",
+  "da": "So'zlarni unutib qo'ygach, u shunchaki \"da-da-da\" deb kuyladi.",
+  "drinking": "Mashhur bo'lgach, uning ichkilikbozligi kuchaydi.",
+  "every week": "Reyting jadvali bo'yicha sanoq dasturi har hafta radioda efirga uzatilardi.",
+  "extended": "Guruh qo'shiqning kengaytirilgan versiyasini chiqardi.",
+  "fashionable": "Bu musiqa uslubi endi urfda emas.",
+  "for a song": "U eski gitarani juda arzonga sotib oldi.",
+  "give and take": "Hamkor bilan qo'shiq yozish ko'p murosa va o'zaro yon berishni talab qiladi.",
+  "guitar player": "U faoliyatini rok guruhida gitarachi sifatida boshlagan.",
+  "hip": "U yangi guruhni juda zamonaviy deb hisoblardi.",
+  "irritation": "Tez yodda qoladigan qo'shiq g'ashga tegishi mumkin.",
+  "legendary": "U afsonaviy qo'shiq muallifidir.",
+  "listen through": "Qaror qilishdan oldin butun albomni boshidan oxirigacha tinglab chiqing.",
+  "matter to": "Musiqa o'smirlar uchun haqiqatan ham muhim.",
+  "melody": "Kuy qo'shiqning eng muhim qismidir.",
+  "musical note": "Kuy musiqiy notalar ketma-ketligidir.",
+  "no doubt": "Shubhasiz, siz bu qo'shiqni avval eshitgansiz.",
+  "nostalgic": "Eski qo'shiqlar meni o'tmishni sog'inib, xayolga cho'mdiradi.",
+  "over and over": "Men o'sha qo'shiqni qayta-qayta tingladim.",
+  "put down": "U kuyni unutib qo'ymasdan oldin yozib qo'ydi.",
+  "rock star": "U rok yulduzi bo'lishni orzu qilgan.",
+  "sing": "U radio bilan birga qo'shiq aytishni yaxshi ko'radi.",
+  "stick in": "O'sha kuy kun bo'yi xayolimdan chiqmayapti.",
+  "streak": "Xonandaning birin-ketin birinchi o'rinni egallagan xitlari seriyasi bor edi.",
+  "topper": "Qo'shiq ko'plab mamlakatlarda reyting jadvallarining yetakchisiga aylandi.",
+  "tune": "U quvnoq bir kuyni hushtak chalib kuylardi."
  }
 });

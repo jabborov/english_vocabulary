@@ -1,4 +1,4 @@
-// Part 1 topic 0354: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0354: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0354', {
  "A1": {
   "knock over": "Piyolani ag'darib yuborma.",
@@ -29,5 +29,10 @@ VOCAB_TR_STORE('1', '0354', {
   "knock over": "Rasmiy qabul marosimida ichimlikni ag'darib yuborish uyatli, ammo hodisaning o'zidan ko'ra unga qanday munosabat bildirishingiz ancha muhimroq.",
   "panic": "Ijtimoiy noqulay vaziyatdan so'ng yaxshi taassurot qoldiradigan narsa ko'pincha vahimaga berilmasdan xotirjam qolishdir.",
   "socialising": "Introvertlar uchun konferensiyalarda doimiy muloqotda bo'lish kutilishi ishning eng holdan toydiruvchi jihatlaridan biri bo'lishi mumkin."
+ },
+ "EX": {
+  "knock over": "Kechki ovqat paytida bilmasdan bir qadah vinoni ag'darib yubordim.",
+  "panic": "Vahimaga tushmang, bu shunchaki kichik xato.",
+  "socialising": "Mijozlar bilan norasmiy muloqot qilish biznesning muhim qismidir."
  }
 });

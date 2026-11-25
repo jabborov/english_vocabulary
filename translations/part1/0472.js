@@ -1,4 +1,4 @@
-// Part 1 topic 0472: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0472: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0472', {
  "A1": {
   "flick": "Kalitni bosing.",
@@ -41,5 +41,12 @@ VOCAB_TR_STORE('1', '0472', {
   "max out": "Uchta kredit kartasining limitini to'liq tugatib bo'lgach, u nihoyat ortib borayotgan qarzi yuzasidan maslahat so'radi.",
   "second person": "Marketologlar ikkinchi shaxsni afzal ko'radi, chunki o'quvchiga bevosita murojaat qilish yaqinlik hissini uyg'otadi.",
   "spend up": "Chakana savdogarlar odamlar ko'proq pul sarflashiga umid qiladi, ammo narxlarning ko'tarilishi ko'pchilikni tiyib turishi mumkin."
+ },
+ "EX": {
+  "flick": "Men telefonimda onlayn katalogni varaqlab chiqdim.",
+  "market town": "Onlayn xaridlar bozor shaharchalaridagi kichik do'konlarga zarar yetkazmoqda.",
+  "max out": "U internetdan kiyim sotib olib, kredit kartasining limitini tugatib qo'ydi.",
+  "second person": "Reklamalarda ko'pincha ikkinchi shaxsdan foydalaniladi: \"Siz bunga loyiqsiz!\"",
+  "spend up": "Xaridorlar Rojdestvo oldidan pullarini sovurishdi."
  }
 });

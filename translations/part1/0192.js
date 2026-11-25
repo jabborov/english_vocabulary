@@ -1,4 +1,4 @@
-// Part 1 topic 0192: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0192: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0192', {
  "A1": {
   "buyer": "U xaridor.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0192', {
   "stab": "O'ylamay qilingan xariddan keyin keladigan pushaymonlik sanchig'i, ko'chma ma'noda aytganda, o'tkinchi zavqning bahosidir.",
   "wardrobe": "Liq to'la kiyim javoni xarajatlarimiz ortidagi hissiy ko'tarilish va tushishlarning jimjit qaydnomasi bo'lishi mumkin.",
   "weigh down": "Hissiyotga berilib xarajat qilish natijasida to'plangan qarz yuki insonni yillar davomida ezib qo'yishi mumkin."
+ },
+ "EX": {
+  "buyer": "G'amgin xaridorlar bir xil narsa uchun ko'proq pul to'lashga moyil bo'lishadi.",
+  "cheer up": "Ba'zi odamlar kayfiyatini ko'tarish uchun o'ziga kichik sovg'a sotib oladi.",
+  "cozy": "Ko'ngil uchun xarid ko'pincha jemper va paypoq kabi qulay, issiq kiyimlar sotib olishni anglatadi.",
+  "figuratively": "Xarid \"bizni ezib qo'yadi\" deganimizda, ko'chma ma'noda gapirayotgan bo'lamiz.",
+  "head off": "Yomon kundan keyin ba'zi odamlar ko'ngli yozilishi uchun do'konlarga yo'l oladi.",
+  "humorous": "Boshlovchilar o'zlarining eng yomon xaridlari haqida kulgili voqealarni aytib berishdi.",
+  "jumper": "U aslida keragi yo'q yana bitta jemper sotib oldi.",
+  "pang": "Hisobni ko'rib, u vijdon azobining bir sanchig'ini his qildi.",
+  "regret": "Ko'plab xaridorlar kayfiyati tushkun paytda sotib olgan narsalaridan afsuslanishadi.",
+  "remorse": "Xaridor pushaymonligi — biror narsa sotib olgandan keyingi afsus hissi.",
+  "stab": "Qancha pul sarflaganini ko'rib, u qattiq vijdon azobini his qildi.",
+  "wardrobe": "Uning kiyim javoni kayfiyati tushkun paytlarda sotib olgan kiyimlarga to'la.",
+  "weigh down": "Tashvishlar sizni ezib qo'yganda, xarid qilish tezkor qochish yo'lidek tuyulishi mumkin."
  }
 });

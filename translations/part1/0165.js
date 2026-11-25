@@ -1,4 +1,4 @@
-// Part 1 topic 0165: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0165: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0165', {
  "A1": {
   "bandy around": "Odamlar bu so'zni ko'p ishlatishadi.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0165', {
   "sibling": "Aka-uka va opa-singillar ko'pincha oilada tinchlantiruvchi yoki isyonkor kabi bir-biriga zid rollarni o'ynaydi.",
   "sisterhood": "Opa-singillik tushunchasi oiladan tashqariga chiqib, ayollar o'rtasidagi birdamlikni kengroq ma'noda ifodalaydi.",
   "spoiled": "Erkatoy deb ayblash ko'pincha ota-onaning haqiqiy tarafkashligidan ko'ra aka-uka, opa-singillar o'rtasidagi raqobatni aks ettiradi."
+ },
+ "EX": {
+  "bandy around": "\"Jon yo'ldoshi\" kabi so'zlar juda ko'p, o'rinli-o'rinsiz ishlatiladi.",
+  "category": "Opa-singillar munosabatlari bir necha xil toifaga bo'linadi.",
+  "drum": "Uning singlisi marsh orkestrida baraban chaladi.",
+  "finance minister": "Keyinchalik uning singlisi mamlakat moliya vaziri bo'ldi.",
+  "harmonious": "Hamma opa-singillarning ham munosabati ahil emas.",
+  "little sister": "Singlim doim men qilgan hamma narsani takrorlaydi.",
+  "march": "Orkestr barabanlarini chalib, shahar bo'ylab marsh bilan o'tdi.",
+  "on the spot": "Bu savol uni haqiqatan ham noqulay ahvolga solib qo'ydi.",
+  "peacemaker": "U oilada doim yarashtiruvchi bo'lgan.",
+  "read along": "Tinglash paytida matnni kuzatib o'qib borishingiz mumkin.",
+  "reunite": "Ikki opa-singil yigirma yillik ayriliqdan keyin yana diydor ko'rishdi.",
+  "sibling": "Aka-uka yoki opa-singillaringiz bormi?",
+  "sisterhood": "Ikkalasining o'rtasida o'ziga xos opa-singillik rishtasi bor.",
+  "spoiled": "Katta opa eng kichigini erka deb hisoblardi."
  }
 });

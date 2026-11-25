@@ -1,4 +1,4 @@
-// Part 1 topic 0343: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0343: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0343', {
  "A1": {
   "Gary": "Gary mening do'stim.",
@@ -47,5 +47,13 @@ VOCAB_TR_STORE('1', '0343', {
   "photography": "O'rganuvchining qiziqishlari — fotografiya, oshpazlik, futbol — so'z boyligini oshirish uchun tayyor asos bo'lib xizmat qilishi mumkin.",
   "si": "\"Si\" kabi so'zlar shunchalik ko'p uchraydiki, o'rganuvchilar ularni deyarli kuch sarflamasdan o'zlashtiradi.",
   "survive on": "Asosiy so'z boyligi bilan kun ko'radigan o'rganuvchilar ko'pincha kontekst ko'plab bo'shliqlarni to'ldirishini sezadi."
+ },
+ "EX": {
+  "Gary": "Gary bir oy ichida ming so'z o'rganishga harakat qildi.",
+  "edge in": "Tez gapiradigan ona tili egalari bilan suhbatda gap qistirish qiyin.",
+  "esteem": "Yangi tilda gapirish o'zingizga bo'lgan hurmatni oshirishi mumkin.",
+  "photography": "U o'z sevimli mashg'uloti — fotografiya uchun kerakli so'zlarni o'rgandi.",
+  "si": "\"Si\" o'rganuvchilar o'zlashtiradigan ilk so'zlardan biridir.",
+  "survive on": "Yangi tilda ming so'z bilan kun ko'ra olasizmi?"
  }
 });

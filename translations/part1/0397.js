@@ -1,4 +1,4 @@
-// Part 1 topic 0397: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0397: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0397', {
  "A1": {
   "auditory": "Bu eshitiladigan signal.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0397', {
   "spilt": "Filmning g'oyasi shu ediki, afsuslanish befoyda; to'kilgan sut uchun yig'lashdan naf yo'q.",
   "tearjerker": "Studiyalar o'z vaqtida chiqarilgan yig'latadigan film jangari blokbaster kabi daromadli bo'lishi mumkinligini biladi.",
   "weepy": "Mohirona suratga olingan ko'zyoshli film komediyalar kamdan-kam beradigan qoniqarli hissiy yengillikni taqdim etishi mumkin."
+ },
+ "EX": {
+  "auditory": "Filmlardagi musiqa miyaga kuchli eshitish signallarini yuboradi.",
+  "blub": "So'nggi yarim soat davomida to'xtovsiz ho'ngrab yig'ladim.",
+  "catharsis": "Film ko'rib yig'lash o'ziga xos ruhiy poklanish bo'lishi mumkin.",
+  "daddy": "Filmdagi kichkina qiz tinmay dadasini so'raydi.",
+  "exile": "Film surgunda yashayotgan oilaning qayg'uli hikoyasini so'zlaydi.",
+  "instantaneously": "Musiqa sahnaning kayfiyatini bir zumda o'zgartirib yubordi.",
+  "misty": "Filmning yakuni ko'zlarimni biroz namlatdi.",
+  "regrettable": "Qahramon qabul qilgan qaror afsuslanarli edi.",
+  "run down": "Film oxirida yuzimdan ko'z yoshlarim oqib tushardi.",
+  "sob": "Film tugaganida u ohista ho'ngrab yig'ladi.",
+  "sob story": "Film shunchaki achinarli hikoyadan iborat emas.",
+  "spilt": "To'kilgan sut uchun yig'lashdan foyda yo'q.",
+  "tearjerker": "Bu film haqiqatan ham ko'z yoshlarni to'kdiradi.",
+  "weepy": "Ba'zi odamlar yakshanba kuni tushdan keyin yaxshi bir yig'latadigan film ko'rishni yaxshi ko'rishadi."
  }
 });

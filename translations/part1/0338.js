@@ -1,4 +1,4 @@
-// Part 1 topic 0338: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0338: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0338', {
  "A1": {
   "cereal box": "Yorma qutisi bo'sh.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0338', {
   "racehorse": "Ayrim g'oliblar uchun poyga oti ilgari faqat orzu qila oladigan hayot tarzining ramzidir.",
   "speedboat": "Tezyurar qayiqlar va poyga otlariga pul sochadigan lotereya g'oliblari ba'zan bir necha yil ichida puldan ayrilib qoladi.",
   "winning": "Lotereya g'oliblari ustidagi tadqiqotlar yutish uzoq muddatli baxtga olib kelmasligini ko'rsatadi."
+ },
+ "EX": {
+  "cereal box": "Tanlovlarni yorma qutisida ham uchratish mumkin.",
+  "coffee mug": "U tanlovda qahva krujkasini yutib oldi.",
+  "consolation": "Ikkinchi o'rin uchun kichik tasalli sovrini bor.",
+  "fortnight": "U Ispaniyada ikki haftalik ta'tilni yutib oldi.",
+  "guru": "Tanlovlar ustasi har hafta yuzlab tanlovlarda qatnashadi.",
+  "lure": "Katta sovrinlar odamlarni lotereya chiptalarini sotib olishga jalb qiladi.",
+  "mug": "U viktorinada krujka yutib oldi.",
+  "pay out": "Lotereya har hafta millionlab pul to'laydi.",
+  "racehorse": "Lotereya g'olibi poyga otini sotib oldi.",
+  "speedboat": "Bir omadli g'olib tezyurar qayiqni yutib oldi.",
+  "winning": "Yutuqli chipta unda edi."
  }
 });

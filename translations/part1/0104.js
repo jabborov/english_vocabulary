@@ -1,4 +1,4 @@
-// Part 1 topic 0104: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0104: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0104', {
  "A1": {
   "apologise": "Uzr so'rayman.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0104', {
   "sociolinguistic": "Sotsiolingvistik nuqtai nazardan, kechirim afsuslanish izhori bo'lgani kabi ijtimoiy marosim hamdir.",
   "sympathise": "Hamdardlik bildirish kechirim so'rash bilan bir xil emas va siyosatchilar bu farqdan tez-tez foydalanishadi.",
   "the right way": "Kechirim so'rashning yagona to'g'ri usuli bo'lmasligi mumkin, ammo ba'zi yondashuvlar boshqalaridan aniq yaxshiroq ish beradi."
+ },
+ "EX": {
+  "apologise": "U kechikkani uchun uzr so'radi.",
+  "apology": "U omma oldida uzr so'radi.",
+  "caveat": "Juda ko'p shartlar bilan aytilgan uzr samimiy eshitilmaydi.",
+  "draw a line": "U janjalga nuqta qo'yish uchun uzr so'radi.",
+  "famous person": "Mashhur odam uzr so'rasa, bu ko'pincha yangiliklarda yoritiladi.",
+  "faux": "Fransuz tilida \"faux\" so'zi \"soxta\" degan ma'noni bildiradi.",
+  "faux pas": "Uning ismini unutib qo'yish dahshatli noqulaylik bo'ldi.",
+  "four times": "Ba'zi odamlar kuniga to'rt marta kechirim so'raydi.",
+  "fresh start": "Uzr so'ralgandan keyin ular hammasini yangidan boshlashdi.",
+  "mock": "Odamlar ijtimoiy tarmoqlarda uning zaif uzrini masxara qilishdi.",
+  "pas": "\"Faux pas\" iborasida \"pas\" so'zi \"qadam\" degan ma'noni bildiradi.",
+  "public figure": "Mashhur jamoat arboblari ko'pincha yomon uzr so'rashadi.",
+  "reparation": "To'liq uzr zararni qoplash taklifini ham o'z ichiga olishi mumkin.",
+  "scandal": "Vazir janjaldan keyin uzr so'radi.",
+  "six times": "Ba'zi odamlar kuniga olti martagacha uzr so'raydi.",
+  "socially": "Kechirim so'rash ijtimoiy jihatdan muhim.",
+  "sociolinguistic": "U odamlar qanday uzr so'rashi haqida sotsiolingvistik tadqiqot olib boradi.",
+  "sympathise": "Sizga hamdardman, lekin yordam bera olmayman.",
+  "the right way": "Kechirim so'rashning to'g'ri yo'li bormi?"
  }
 });

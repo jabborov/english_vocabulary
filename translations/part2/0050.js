@@ -1,4 +1,4 @@
-// Part 2 topic 0050: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0050: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0050', {
  "A1": {
   "Automated Teller Machine": "Bu bankomat.",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('2', '0050', {
   "to catch on": "Nega ba'zi moliyaviy yangiliklar ommalashib ketadi-yu, boshqalari sustlashib qoladi, degan savol iqtisodiy tarixchilar uchun qiziqarli bo'lib qolmoqda.",
   "to set up": "Savdogarlar ham, iste'molchilar ham birdek ishonadigan to'lov tizimini yaratish juda mashaqqatli ish edi.",
   "vital": "Kredit tizimi iste'molchilarni ekspluatatsiya qilish emas, balki ularga xizmat qilishi uchun qat'iy tartibga solish hayotiy muhimdir."
+ },
+ "EX": {
+  "Automated Teller Machine": "Birinchi bankomat 1967-yilda Londonda ishga tushirilgan.",
+  "accumulate": "U bir nechta kredit kartalarida katta qarzlar to'plab qo'ydi.",
+  "actual": "Kredit karta bilan cho'ntagingizda haqiqiy pul bo'lishi shart emas.",
+  "as far as": "Bilishimcha, birinchi kredit karta 1950-yillarda paydo bo'lgan.",
+  "build up": "Hisobingizni to'lamasangiz, qarz tezda to'planib boradi.",
+  "convenient": "Karta bilan to'lash juda qulay.",
+  "credit card": "Ovqat uchun kredit kartam bilan to'ladim.",
+  "crucial": "Hisobingizni o'z vaqtida to'lash juda muhim.",
+  "emerge": "Ilk zamonaviy kredit kartalar 1950-yillarda paydo bo'ldi.",
+  "entirely": "Karta bilan to'lash butunlay xavfsiz emas.",
+  "fall into debt": "Kredit kartangizdan haddan tashqari ko'p foydalansangiz, qarzga botish oson.",
+  "fellow diner": "U yonidagi boshqa mehmondan qarzga pul so'rashga majbur bo'ldi.",
+  "handle": "Ba'zi odamlar kredit kartaga ega bo'lishni eplay olmaydi.",
+  "head of bank": "Bank rahbari restoranda noqulay muammoga duch keldi.",
+  "interest": "Kredit kartalar ko'pincha yuqori foiz undiradi.",
+  "pay off": "Kredit karta qarzini to'liq uzishi uchun unga ikki yil kerak bo'ldi.",
+  "profit": "Banklar kredit kartalardan katta foyda ko'radi.",
+  "run up debt": "Talabalar ko'pincha kredit kartalarida qarz to'plab olishadi.",
+  "supper": "U kechki ovqatga chiqdi, lekin hamyonini unutib qoldirdi.",
+  "take out cash": "Bozorga borishimizdan oldin naqd pul yechib olishim kerak.",
+  "thanks so much indeed for listening": "Bugun shu yerda yakunlaymiz – tinglaganingiz uchun katta rahmat.",
+  "to catch on": "Kredit kartalar Britaniyada ommalashishi uchun biroz vaqt kerak bo'ldi.",
+  "to set up": "U kartalar chiqaradigan kompaniya tashkil etishga qaror qildi.",
+  "vital": "Qarz olmoqchi bo'lsangiz, yaxshi kredit tarixi hayotiy muhim."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0341: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0341: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0341', {
  "A1": {
   "act out": "Keling, hikoyani sahnalashtiraylik.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0341', {
   "petrol station": "Yoqilg'i quyish shoxobchasi kassiri uchun rolli o'yin mashqi ishning talablariga nomutanosib tuyuladi.",
   "presentation": "Puxta tayyorlangan taqdimot talab qilinishi ilgari notiqlik bo'yicha tayyorgarlik ko'rgan nomzodlarga ustunlik beradi.",
   "shop floor": "Tanqidchilarning ta'kidlashicha, suhbatda raqsga tushish savdo zalidagi hayotga deyarli aloqasi yo'q."
+ },
+ "EX": {
+  "act out": "Nomzodlar mijoz bilan suhbatni rolli ijro etib ko'rsatishlari kerak edi.",
+  "acting out": "Savdo vaziyatini sahnalashtirib ko'rsatish sinovning bir qismi edi.",
+  "adore": "Ba'zi nomzodlar chiqish qilishni juda yaxshi ko'radi, lekin ko'pchilik buni yomon ko'radi.",
+  "break the ice": "Suhbatdosh muzni eritish uchun hazil aytib berdi.",
+  "bribe": "Bir nomzod suhbatdoshga pirojniylar bilan pora berishga urindi.",
+  "degrade": "Bunday topshiriqlar odamlarni kamsitishi mumkin.",
+  "degraded": "U bu topshiriqdan o'zini kamsitilgan his qildi.",
+  "entertainer": "Do'konda ishlash uchun estrada artisti bo'lishingiz shart emas.",
+  "exaggerated": "G'alati suhbatlar haqidagi hikoyalar ba'zan bo'rttirib yuboriladi.",
+  "humiliate": "Ishga qabul suhbatlari odamlarni xo'rlamasligi kerak.",
+  "lasting": "Yomon o'tgan suhbat uzoq saqlanadigan taassurot qoldirishi mumkin.",
+  "laugh along": "Unga bu kulgili tuyulmadi, lekin u ham boshqalarga qo'shilib kuldi.",
+  "petrol station": "U bir paytlar yoqilg'i quyish shoxobchasidagi ishga ariza topshirgan.",
+  "presentation": "Nomzodlar qisqa taqdimot qilishlari kerak edi.",
+  "shop floor": "Ishning asosiy qismi savdo zalida, mijozlar bilan gaplashishdan iborat edi."
  }
 });

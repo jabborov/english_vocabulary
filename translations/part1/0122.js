@@ -1,4 +1,4 @@
-// Part 1 topic 0122: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0122: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0122', {
  "A1": {
   "Russia": "Rossiya katta mamlakat.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('1', '0122', {
   "touch down": "Modul qo'nishidan bir necha soniya oldin ekipajning yoqilg'isi xavfli darajada kamayib qolgan edi.",
   "trace": "Oy namunalaridagi noyob elementlarning juda kichik izlari ilk Yer bilan to'qnashgan jismning tarkibiga ishora qiladi.",
   "volcano": "Oy namunalari Oyda vulqonlar bir paytlar o'ylanganidan ancha yaqinroq davrda faol bo'lganini ko'rsatadi."
+ },
+ "EX": {
+  "Russia": "Rossiyaning ham Oyga missiyalar yuborish rejalari bor.",
+  "asteroid": "Asteroid Oyga urilib, ulkan krater hosil qildi.",
+  "blast off": "Raketa Floridadan parvozga ko'tarildi.",
+  "break off": "Asteroiddan bir bo'lak tosh ajralib chiqdi.",
+  "breaking off": "Oy yosh Yerdan ajralib chiqqan moddalardan hosil bo'lgan bo'lishi mumkin.",
+  "conclusive": "Hozircha qat'iy isbot yo'q.",
+  "crater": "Oydagi ba'zi kraterlarning kengligi yuzlab kilometrga yetadi.",
+  "erase": "Shamol va yomg'ir Yerdagi kraterlarning aksariyatini yo'q qilib yuborgan.",
+  "fade away": "\"Apollon\" missiyalaridan keyin Oyga bo'lgan qiziqish asta-sekin so'nib ketdi.",
+  "incriminate": "Dalillar sabab sifatida asteroidni ayblayotganga o'xshaydi.",
+  "indisputable": "Dalillar shubhasiz.",
+  "inert": "Oy jonsizdek ko'rinadi, lekin uning hali aytadigan hikoyasi bor.",
+  "landing": "Oyga qo'nishni millionlab odamlar tomosha qilgan.",
+  "leap": "Oyga qo'nish insoniyat uchun ulkan sakrash bo'ldi.",
+  "mineral": "Oy jinslarida Yerda ham uchraydigan minerallar bor.",
+  "moon on": "Hammamiz osmondagi oyni ham olib berishlarini xohlaymiz, lekin koinotni tadqiq qilish qimmatga tushadi.",
+  "pockmark": "Oydagi har bir chuqurcha zarba haqidagi hikoyani so'zlaydi.",
+  "pockmarked": "Oy yuzasi kraterlar bilan chuqurchalanib ketgan.",
+  "rocket": "Raketa astronavtlarni koinotga olib chiqdi.",
+  "scar": "Kraterlar qadimiy zarbalardan qolgan chandiqlardir.",
+  "scintillating": "Bu Oy haqidagi juda qiziqarli va yorqin ma'ruza edi.",
+  "smoking gun": "Oy jinslari nazariyani isbotlagan raddiya qilib bo'lmas dalil bo'ldi.",
+  "spacecraft": "Kosmik kema Oyga eson-omon qo'ndi.",
+  "touch down": "Kosmik kema Oyga qo'ndi.",
+  "trace": "Olimlar Oyda suv izlarini topishdi.",
+  "volcano": "Oydagi qorong'i hududlarni qadimiy vulqonlar hosil qilgan."
  }
 });

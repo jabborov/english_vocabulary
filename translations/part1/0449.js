@@ -1,4 +1,4 @@
-// Part 1 topic 0449: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0449: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0449', {
  "A1": {
   "acknowledgement": "E'tirof uchun rahmat.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0449', {
   "severely": "Hay'atning g'olibni e'lon qilishdan bosh tortishi uning romannavislar orasidagi obro'siga jiddiy putur yetkazdi.",
   "short list": "Ba'zi uslub qo'llanmalari \"shortlist\"ni bitta so'z sifatida yozishni afzal ko'radi, ammo \"short list\" shakli ham uchraydi.",
   "shortlist": "Kuchli qisqa ro'yxatga qaramay, hay'at mukofotni umuman bermaslikka qaror qildi."
+ },
+ "EX": {
+  "acknowledgement": "Mukofotni qo'lga kiritish yozuvchi iste'dodining e'tirof etilishidir.",
+  "avid": "U Amerika badiiy adabiyotining ishqiboz o'quvchisi.",
+  "avidly": "U qisqa ro'yxatdagi har bir kitobni berilib o'qiydi.",
+  "captivate": "Roman butun mamlakat bo'ylab o'quvchilarni o'ziga rom etdi.",
+  "celebrated": "U Amerikaning eng mashhur romannavislaridan biri.",
+  "cheque": "G'olib odatda 10 000 dollarlik chek oladi.",
+  "citation": "Har bir g'olib nima uchun g'olib bo'lganini tushuntiruvchi taqdirnoma oladi.",
+  "comprise": "Hay'at tarkibiga jurnalistlar, olimlar va muharrirlar kiradi.",
+  "endorsement": "Mukofot kitoblarning sotilishiga yordam beruvchi kuchli e'tirofdir.",
+  "loser": "Bu yil g'olib bo'lmadi, shuning uchun hamma yutqazdi.",
+  "news organisation": "Pulitser mukofotlari jurnalistika uchun axborot tashkilotlariga ham beriladi.",
+  "riveting": "Bu juda maroqli roman edi — uni qo'limdan qo'ya olmadim.",
+  "severely": "Hay'at g'olibni tanlamagani uchun qattiq tanqid qilindi.",
+  "short list": "Roman qisqa ro'yxatda bor edi, lekin g'olib bo'lmadi.",
+  "shortlist": "Mukofot uchun qisqa ro'yxatda uchta roman bor edi."
  }
 });

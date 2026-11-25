@@ -1,4 +1,4 @@
-// Part 1 topic 0271: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0271: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0271', {
  "A1": {
   "chronicle": "Kitob urush solnomasidir.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0271', {
   "submit": "Fuqarolik jurnalistikasi oddiy odamlarga keyinchalik yirik nashrlar efirga beradigan videolarni yuborish imkonini beradi.",
   "targeted": "Aniq mo'ljallangan kontent o'quvchilarni mavjud qarashlarini tasdiqlaydigan \"pufak\" ichida qamab qo'yish xavfini tug'diradi.",
   "unobjective": "Nashrni xolis emaslikda ayblash oson; tizimli tarafkashlikni isbotlash esa ancha qiyin."
+ },
+ "EX": {
+  "chronicle": "Gazeta yuz yildan ortiq vaqt davomida shahar hayotini yilnoma qilib bordi.",
+  "column": "Men yakshanba gazetasidagi uning ruknini doim o'qiyman.",
+  "decease": "U vafot etgach, uy o'g'liga o'tdi.",
+  "deceased": "Gazeta marhum haqida qisqa maqola chop etdi.",
+  "dedicated": "U har kuni uchta gazeta sotib oladigan sadoqatli o'quvchi.",
+  "good story": "Jurnalist uchun janjalli voqea har doim yaxshi mavzu.",
+  "impartially": "Muxbir ikkala tomonni ham xolis yoritishi kerak.",
+  "journalism": "Yaxshi jurnalistika maqola chop etilishidan oldin faktlarni tekshiradi.",
+  "rant": "Ba'zi sharhlovchilar har hafta shunchaki jahldor safsata yozishadi.",
+  "submit": "O'quvchilar o'z hikoyalarini veb-saytga yuborishlari mumkin.",
+  "targeted": "Veb-saytlar bizga ilgari o'qiganlarimiz asosida maqsadli tanlangan yangiliklarni ko'rsatadi.",
+  "unobjective": "Ba'zi o'quvchilar hisobot xolis emasligidan shikoyat qilishdi."
  }
 });

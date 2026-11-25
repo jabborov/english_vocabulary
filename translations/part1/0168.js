@@ -1,4 +1,4 @@
-// Part 1 topic 0168: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0168: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0168', {
  "A1": {
   "ambiguous": "Uning javobi noaniq edi.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0168', {
   "take for granted": "Har bir bola gapirishni o'rganishda erishadigan ajoyib yutuqni o'z-o'zidan bo'ladigan narsa deb qabul qilish oson.",
   "take something for granted": "Biror narsani o'z-o'zidan ravshan deb qabul qilish ma'lum ma'noda uning bizning bir qismimizga qanchalik chuqur aylanganining o'lchovidir.",
   "unstressed": "Urg'usiz bo'g'inlarni tushirib qoldirish moyilligi chaqaloqlar so'zlarni aniqlashda asosan ritmga tayanishini ko'rsatadi."
+ },
+ "EX": {
+  "ambiguous": "Chaqaloqning ilk so'zlari ikki xil ma'noli bo'lishi mumkin: \"ba\" \"to'p\" yoki \"shisha\" degani bo'lishi mumkin.",
+  "babble": "Chaqaloqlar birinchi so'zini aytishidan ancha oldin g'o'ldiray boshlashadi.",
+  "babbling": "G'o'ldirash gapirishni o'rganishdagi muhim bosqichdir.",
+  "correctly": "Bolalar uzun so'zlarni to'g'ri talaffuz qilishi uchun vaqt kerak.",
+  "gi": "Chaqaloqlar ko'pincha \"gi\"ni tushirib qoldirib, shunchaki \"raffe\" deyishadi.",
+  "giraffe": "Chaqaloq \"giraffe\" o'rniga \"raffe\" deyishi mumkin.",
+  "imitate": "Chaqaloqlar atrofida eshitgan tovushlarni taqlid qilishadi.",
+  "infant": "Go'daklar tug'ilgandan keyin tez orada onasining ovozini taniy oladi.",
+  "interpretation": "Ota-onalar chaqaloqning ilk tovushlariga o'zlaricha talqin berishadi.",
+  "leave off": "Kichik bolalar ko'pincha so'zning birinchi qismini tushirib qoldirishadi.",
+  "meaningless": "G'o'ldirash ma'nosiz tuyulishi mumkin, lekin bu muhim mashqdir.",
+  "on the table": "Chaqaloqlar so'zlarni qanday o'rganishi haqida muhokamada bir nechta nazariya bor.",
+  "syllable": "\"Giraffe\" so'zida ikki bo'g'in bor va urg'u ikkinchisiga tushadi.",
+  "take for granted": "Gapirish qobiliyatimizni o'z-o'zidan bo'ladigan narsa deb qabul qilamiz.",
+  "take something for granted": "Chaqaloqning buni o'rganishini kuzatmagunimizcha, gapirish kabi narsani o'z-o'zidan bo'ladigan narsa deb bilamiz.",
+  "unstressed": "\"Giraffe\" so'zining birinchi bo'g'ini urg'usiz."
  }
 });

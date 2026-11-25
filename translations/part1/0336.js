@@ -1,4 +1,4 @@
-// Part 1 topic 0336: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0336: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0336', {
  "A1": {
   "ballot": "Mana sizning byulleteningiz.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0336', {
   "rivalry": "Raqobatning katta qismi xushchaqchaq ruhda kechadi, ammo u siyosiy bahslarga kutilmagan tarzda ta'sir ko'rsatishi mumkin.",
   "rugby": "Ko'plab muxlislar uchun regbi milliy o'zlik eng baland ovozda namoyon bo'ladigan joydir.",
   "smear": "Tuhmat va unga javoban qilingan tuhmatlar millat kelajagi haqidagi jiddiy bahsni bosib ketishi xavfi bor."
+ },
+ "EX": {
+  "ballot": "Har bir saylovchi byulletenda \"ha\" yoki \"yo'q\"ni belgiladi.",
+  "ballot box": "Shotlandiya xalqi qarorini saylov qutisi oldida qabul qildi.",
+  "box in": "Ba'zi saylovchilar \"ha\" va \"yo'q\" o'rtasidagi tanlov bilan o'zlarini qisib qo'yilgandek his qilishdi.",
+  "break away": "Ba'zi shotlandlar Buyuk Britaniyadan ajralib chiqishni xohlashdi.",
+  "campaigning": "Ovoz berishdan oldin saylovoldi tashviqoti ikki yil davom etdi.",
+  "come into being": "Birlashgan Qirollik 1707-yilda vujudga kelgan.",
+  "commemorate": "Haykal mashhur jangni xotirlaydi.",
+  "declaration": "Arbroat deklaratsiyasi Shotlandiya tarixidagi muhim hujjatdir.",
+  "essence": "Bahsning mohiyati o'zlik masalasi edi.",
+  "homeland": "Ko'plab shotlandlar o'z vatanlariga qattiq bog'langan.",
+  "misinformation": "Kampaniya davomida juda ko'p yolg'on ma'lumot tarqaldi.",
+  "passionate": "Har ikki tomondagi odamlar ham juda ehtirosli edi.",
+  "passport": "Mustaqil Shotlandiya o'z pasportini berishi mumkin.",
+  "referendum": "Shotlandiya 2014-yilda mustaqillik bo'yicha referendum o'tkazdi.",
+  "rivalry": "Shotlandiya va Angliya o'rtasida uzoq yillik raqobat bor.",
+  "rugby": "Shotlandiya va Angliya har yili bir-biri bilan regbi o'ynaydi.",
+  "smear": "Har ikki tomon bir-birini qora qilish taktikasida aybladi."
  }
 });

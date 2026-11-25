@@ -1,4 +1,4 @@
-// Part 1 topic 0337: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0337: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0337', {
  "A1": {
   "apartheid": "Aparteid 1994-yilda tugagan.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0337', {
   "secretly": "Yashirincha kuzatilganini bilib qolish insonning erkinlik tuyg'usini tubdan o'zgartiradi.",
   "summarise": "Erkinlikni bitta ta'rifda umumlashtirish uning ko'plab madaniy ma'nolarini e'tiborsiz qoldirish bo'lardi.",
   "uprising": "Xalq qo'zg'olonlari ko'pincha hokimiyat emas, balki erkinlik va qadr-qimmat talablari bilan boshlanadi."
+ },
+ "EX": {
+  "apartheid": "Nelson Mandela Janubiy Afrikada aparteidga qarshi kurashgan.",
+  "chant": "Olomon \"Erkinlik!\" deb hayqirdi.",
+  "civil right": "Ovoz berish muhim fuqarolik huquqidir.",
+  "computer expert": "Kompyuter mutaxassisi internetdagi erkinlik va shaxsiy daxlsizlik haqida gapirdi.",
+  "disclose": "U maxfiy hujjatlarni jurnalistlarga oshkor qilishga qaror qildi.",
+  "fishing": "Bir kishi uchun erkinlik baliq ovidagi sokin kundir.",
+  "for certain": "Erkinlik hamma uchun nimani anglatishini hech kim aniq bilmaydi.",
+  "freedom of speech": "Demokratiyada so'z erkinligi muhim.",
+  "heard": "Erkinlik ovozingizni boshqalarga eshittira olishni anglatadi.",
+  "hostage": "Sobiq garovga olingan shaxs erkinlik uning uchun nimani anglatishi haqida gapirib berdi.",
+  "index": "Erkinlik indeksi mamlakatlarni erkinlik darajasiga ko'ra tartiblaydi.",
+  "military operation": "Garovga olingan shaxs harbiy operatsiya natijasida ozod qilindi.",
+  "operation": "Qutqaruv operatsiyasi muvaffaqiyatli o'tdi.",
+  "orientation": "Ba'zilar uchun erkinlik o'z yo'nalishi uchun qoralanmaslikni anglatadi.",
+  "political system": "Turli siyosiy tizimlar odamlarga turlicha erkinliklar beradi.",
+  "regime": "Qattiqqo'l rejim ostidagi odamlarning erkinligi juda kam.",
+  "secrecy": "Maxfiylikni qadrlaydigan hukumatlar ko'pincha erkinlikni cheklaydi.",
+  "secretly": "Hukumat odamlarning ma'lumotlarini yashirincha to'plagan.",
+  "summarise": "Siz uchun erkinlik nimani anglatishini qisqacha bayon qila olasizmi?",
+  "uprising": "Qo'zg'olon tinch namoyishlar bilan boshlandi."
  }
 });

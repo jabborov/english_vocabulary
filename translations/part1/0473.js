@@ -1,4 +1,4 @@
-// Part 1 topic 0473: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0473: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0473', {
  "A1": {
   "credible": "Uning hikoyasi ishonarli.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0473', {
   "sportswear": "Jahon sport kiyimlari bozori ko'p jihatdan elita sportchilarining havas uyg'otuvchi obraziga tayanadi.",
   "touchscreen": "Sensorli ekran orqali xarid qilishning osonligi bizni pul sarflashdan to'xtatib qolishi mumkin bo'lgan o'ylab ko'rish lahzasini yo'qqa chiqaradi.",
   "unsure": "Reklama beruvchilar o'z tanlovlariga ishonchi komil bo'lmagan odamlarni nishonga olib, tanish yuzlar orqali ularga ishonch bag'ishlaydi."
+ },
+ "EX": {
+  "credible": "Reklama ta'sir qilishi uchun mashhur shaxs ishonchli ko'rinishi kerak.",
+  "dean": "Biznes maktabi dekani reklamalar qanday ishlashini tushuntirib berdi.",
+  "endorse": "Mashhur futbolchilar sport mahsulotlarini reklama qilib, qo'llab-quvvatlashadi.",
+  "imitating": "Bolalar sevimli sport yulduzlariga taqlid qilishni yaxshi ko'rishadi.",
+  "inclined": "Biz mashhur odamlar foydalanadigan narsalarni sotib olishga ko'proq moyilmiz.",
+  "shopping basket": "Onlayn do'konlar narsalarni xarid savatingizga qo'shishni osonlashtiradi.",
+  "sportswear": "Sport kiyimlari ishlab chiqaruvchi kompaniyalar reklamaga juda katta mablag' sarflaydi.",
+  "touchscreen": "Sensorli ekranlar internetdan narsa sotib olishni juda osonlashtiradi.",
+  "unsure": "Nima sotib olishni bilmay ikkilanayotgan xaridorlar ko'pincha mashhur odamlarga ergashadi."
  }
 });

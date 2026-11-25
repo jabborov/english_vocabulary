@@ -1,4 +1,4 @@
-// Part 2 topic 0001: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0001: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0001', {
  "A1": {
   "abundant": "Bu yerda suv mo'l.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('2', '0001', {
   "thinking big": "Katta miqyosda fikrlash bilan sinchkov tekshiruvga bardosh berolmaydigan dabdabali xayolparastlik o'rtasidagi chegara juda nozik.",
   "trick question": "Oddiy ko'ringan savol aslida ma'lumot olishdan ko'ra ziddiyatni fosh qilishga qaratilgan qitmir savol bo'lishi mumkin.",
   "wheat": "Bug'doy kabi geosiyosat va oziq-ovqat o'rtasidagi chigal bog'liqlikni yaqqol ko'rsatadigan tovarlar kam."
+ },
+ "EX": {
+  "abundant": "Mintaqada yilning ko'p qismida yog'ingarchilik mo'l bo'ladi.",
+  "accuse": "Tanqidchilar hukumatni kichik fermerlarni qo'llab-quvvatlay olmaganlikda ayblaydi.",
+  "ambition": "Mamlakat oziq-ovqat ishlab chiqarishni oshirishga aniq intilmoqda.",
+  "combat": "Yangi sug'orish usullari qurg'oqchilik oqibatlariga qarshi kurashishga yordam beradi.",
+  "corn": "Fermerlar bu mavsumda ko'p makkajo'xori hosili yig'ishdi.",
+  "drought": "O'tgan yili qurg'oqchilik ekin hosiliga jiddiy zarar yetkazdi.",
+  "embrace": "Ko'plab fermerlar yangi texnologiyani qabul qila boshlashmoqda.",
+  "go for": "Ko'plab fermerlar qurg'oqchilikka chidamliroq ekinni tanlashga qaror qilishdi.",
+  "hand over": "Rasmiylar loyiha boshqaruvini mahalliy fermerlarga topshirishga rozi bo'lishdi.",
+  "in terms of": "Narx jihatidan quyosh panellari tobora arzonlashib bormoqda.",
+  "maize": "Makkajo'xori ko'plab Afrika mamlakatlarida keng yetishtiriladi.",
+  "mechanise farms": "Hukumat samaradorlikni oshirish uchun fermer xo'jaliklarini mexanizatsiyalashni rejalashtirmoqda.",
+  "one and the same": "Ko'pchilik uchun bu ikki masala aynan bir narsa.",
+  "political will": "Haqiqiy o'zgarish hukumatdan kuchli siyosiy iroda talab qiladi.",
+  "self-sufficient": "Mamlakat o'n yil ichida oziq-ovqat ishlab chiqarishda o'zini o'zi ta'minlashni maqsad qilgan.",
+  "staple crop": "Guruch Osiyodagi millionlab odamlar uchun asosiy ekindir.",
+  "stick with": "Hukumat dastlabki qishloq xo'jaligi rejasiga sodiq qolishga qaror qildi.",
+  "thinking big": "Milliy taraqqiyot loyihalarini rejalashtirishda katta miqyosda fikrlash zarur.",
+  "trick question": "Bu ayyorona savol edi, chunki ikkala javob ham texnik jihatdan to'g'ri edi.",
+  "wheat": "Bug'doydan non va makaron tayyorlanadi."
  }
 });

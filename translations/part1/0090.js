@@ -1,4 +1,4 @@
-// Part 1 topic 0090: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0090: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0090', {
  "A1": {
   "Jack": "Jek mening do'stim.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0090', {
   "stem": "Seleksiya nafaqat barglarni, balki poyaning o'sish tabiatini ham o'zgartirdi.",
   "texture": "Tekstura ovqatdan zavqlanishimizga ta'm kabi chuqur ta'sir qiladi, garchi bu haqida kamdan-kam gapirilsa ham.",
   "wacky": "G'alati duragaylar sarlavhalarga chiqadi, ammo ular doimiy sadoqatni qozonadimi, bu boshqa masala."
+ },
+ "EX": {
+  "Jack": "Jek kalette sabzavot uchun g'alati nom deb o'yladi.",
+  "addition": "Kalette sabzavotlar rastasidagi yangi qo'shimchadir.",
+  "caramel": "Bu olmalarning ta'mi biroz karamelga o'xshaydi.",
+  "carrot": "To'q sariq sabzidan oldin binafsharang sabzi keng tarqalgan edi.",
+  "cauliflower": "Binafsharang gulkaram tobora ko'proq uchramoqda.",
+  "cherry": "Ta'mi gilosga o'xshaydigan pomidorlar bor.",
+  "come about": "Kalette qanday paydo bo'lgan?",
+  "cotton candy": "Ba'zi yangi uzum navlarining ta'mi paxta qandga o'xshaydi.",
+  "fairground": "Paxta qand — sayilgohlarda mashhur shirinlik.",
+  "grape": "Paxta qand ta'mli uzum — mevaning yangi turi.",
+  "leek": "Porey piyozi va kartoshka sho'rvasi — qishki mumtoz taom.",
+  "makeover": "Bryussel karamining qiyofasi butunlay yangilandi.",
+  "mingle": "Kalettada kale va Bryussel karamining ta'mlari bir-biriga qo'shilib ketadi.",
+  "mini": "Kalettelar kichkina karamlarga o'xshaydi.",
+  "mixing": "Kalette kale va Bryussel karamini chatishtirish natijasidir.",
+  "novelty": "Kalettening yangiligi xaridorlarni o'ziga jalb qiladi.",
+  "nutty": "Kalettelarning ta'mi shirin, yong'oqqa o'xshash.",
+  "pollinate": "Asalarilar ko'plab ekinlarimizni changlatadi.",
+  "pop group": "Kalette pop guruhning nomiga o'xshaydi.",
+  "pot": "Kalettelarni qaynayotgan suvli qozonga soling.",
+  "purple": "Kalettelarning yashil va binafsharang barglari bor.",
+  "shoot out": "Poyadan kichik kalettelar o'sib chiqadi.",
+  "stem": "Kalettelar Bryussel karami kabi baland poya bo'ylab o'sadi.",
+  "texture": "Kalettelar qarsildoq tuzilishga ega.",
+  "wacky": "Ba'zi yangi sabzavotlarning g'alati nomlari bor."
  }
 });

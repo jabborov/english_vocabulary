@@ -1,4 +1,4 @@
-// Part 1 topic 0357: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0357: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0357', {
  "A1": {
   "Rupert": "Bu Rupert.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0357', {
   "napkin": "Oddiy salfetkaning ham ajablanarli darajada murakkab odob qoidalari bor: uni qayerga qo'yishdan tortib, ketayotganda qanday buklashgacha.",
   "picky": "Birovning dasturxonida o'ta tanlovchan bo'lish, rad etishingiz qanchalik odobli bo'lmasin, noshukurlikdek ko'rinishi mumkin.",
   "slop": "Eski odob kitoblari sho'rvani to'kib yubormaslik uchun kosani o'zingizdan nariga qiyshaytirishni maslahat bergan."
+ },
+ "EX": {
+  "Rupert": "Rupertning aytishicha, yaxshi dasturxon odobi boshqalarga qulaylik yaratishdan iborat.",
+  "Samuel": "Samuel kundaligida o'zi borgan ziyofatlar haqida yozgan.",
+  "across": "Stol ustidan qo'l cho'zmang, birovdan tuzni uzatib yuborishini so'rang.",
+  "burp": "Britaniyada dasturxon atrofida kekirish odobsizlik hisoblanadi.",
+  "chewing": "Og'zingizni ochib chaynash odobsizlikdir.",
+  "clink": "Biz qadahlarni jiringlatib urishtirdik va \"Salomatlik uchun!\" dedik.",
+  "cutlery": "Iltimos, oshxona anjomlarini — pichoq, sanchqi va qoshiqlarni stolga qo'ying.",
+  "drinking glass": "Ichimlik stakanini oyoqchasidan ushlang.",
+  "glass in": "U qo'lida qadah bilan deraza yonida turib, mehmonlar bilan suhbatlashardi.",
+  "lap": "Salfetkani tizzangizga qo'ying.",
+  "make peace": "Birga ovqatlanish janjaldan keyin yarashishning yaxshi usulidir.",
+  "napkin": "Salfetkangizni tizzangizga qo'ying.",
+  "picky": "O'g'lim ovqat tanlashda juda injiq.",
+  "slop": "Sho'rvangizni dasturxonga to'kib yubormaslikka ehtiyot bo'ling."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0227: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0227: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0227', {
  "A1": {
   "beak": "Qushning sariq tumshug'i bor.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0227', {
   "systematically": "Itlar yo'lga chiqishdan oldin magnit sezgilarini muntazam ravishda sozlab olayotganga o'xshardi.",
   "territorial": "Hududiy instinktlar ko'chirilgan mushuklar nega tanish joyga qaytishga shunchalik qat'iy urinishini tushuntirishi mumkin.",
   "territory": "O'z hududini batafsil bilish hayvonlarga yo'l topishda yordam beradi, ammo uzoq masofadan uyga qaytishni tushuntirib bera olmaydi."
+ },
+ "EX": {
+  "beak": "Bir paytlar olimlar qushlar magnetizmni tumshug'i orqali sezadi deb o'ylashgan.",
+  "capability": "Mushuklar uyga yo'l topishda ajoyib qobiliyatga ega bo'lib ko'rinadi.",
+  "in no time": "Ba'zi itlar uyga yo'lni zum o'tmay topib kelishdi.",
+  "kg": "Itning bo'yinbog'idagi qurilma 1 kg dan kamroq og'irlikda.",
+  "kitty": "Ularning mushukchasi uyga qaytish uchun 300 kilometr yo'l bosdi.",
+  "landmark": "Itlar yo'lni topish uchun daraxtlar va binolar kabi mo'ljallardan foydalanishi mumkin.",
+  "lost": "Ularning mushugi bir necha hafta yo'qolib ketgan edi, lekin oxiri uyga qaytdi.",
+  "magnet": "Magnit kompas mili noto'g'ri tomonni ko'rsatishiga sabab bo'lishi mumkin.",
+  "magnetic force": "Ba'zi hayvonlar Yerning magnit kuchini sezishi mumkin.",
+  "rectangle": "Itlar to'g'ri to'rtburchak shaklidagi hududga qo'yib yuborildi.",
+  "signpost": "Hayvonlar yo'l ko'rsatkichlarini o'qiy olmaydi, xo'sh, ular yo'lni qanday topishadi?",
+  "steel": "Magnit po'lat va temirni tortadi.",
+  "systematic": "Yo'qolgan itlar tizimli tarzda qidirishga o'xshaydi.",
+  "systematically": "It uyga yugurishdan oldin atrofni tizimli ravishda tekshirib chiqdi.",
+  "territorial": "Mushuklar o'z hududini qattiq qo'riqlaydigan hayvonlardir.",
+  "territory": "Mushuklar o'z hududini juda yaxshi bilishadi."
  }
 });

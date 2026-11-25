@@ -1,4 +1,4 @@
-// Part 1 topic 0373: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0373: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0373', {
  "A1": {
   "angriest": "Otam eng ko'p jahli chiqqan kishi edi.",
@@ -41,5 +41,12 @@ VOCAB_TR_STORE('1', '0373', {
   "mist": "Psixologlar ko'zni qon bosishidan oldin xavf belgilarini payqash usullarini o'rgatadi.",
   "paced": "U har bir javobsiz qolgan qo'ng'iroqdan so'ng g'azabi kuchayib, betoqat holda u yoqdan-bu yoqqa yurardi.",
   "shove": "U yo'lovchilarni turtib o'tib ketish o'rniga o'zini to'xtashga va chuqur nafas olishga majbur qildi."
+ },
+ "EX": {
+  "angriest": "Tig'iz soatlarda haydovchilar ko'pincha yo'ldagi eng jahldor odamlar bo'lishadi.",
+  "curse": "U telefonini tushirib yuborganda baland ovozda so'kindi.",
+  "mist": "Kimdir uning oldidan navbatsiz kirib olsa, ko'zini qon bosadi.",
+  "paced": "U shunchalik g'azablangan ediki, joyida o'tira olmay xonada u yoqdan bu yoqqa yurardi.",
+  "shove": "U shunchalik jahli chiqdiki, haligi odamni yo'ldan itarib yubordi."
  }
 });

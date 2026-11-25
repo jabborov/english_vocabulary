@@ -1,4 +1,4 @@
-// Part 1 topic 0250: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0250: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0250', {
  "A1": {
   "binging": "Me'yoridan ortiq yeb-ichish yomon.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0250', {
   "path of least resistance": "Sog'liqni saqlash siyosati sog'lom tanlovni eng oson yo'lga aylantirishga harakat qiladi.",
   "swear": "Ko'plab yuz yoshlilar muayyan bir odatni qasam ichib maqtashadi, ammo fan kamdan-kam hollarda yagona sirni tasdiqlaydi.",
   "thoroughly": "U hayotdan to'la-to'kis zavqlandi va shunga qaramay yuz yoshgacha yashadi."
+ },
+ "EX": {
+  "binging": "Zararli ovqatlarni me'yoridan ortiq yeyish sog'lig'ingizga zarar.",
+  "equitable": "Adolatliroq sog'liqni saqlash tizimi odamlarning uzoqroq yashashiga yordam berishi mumkin.",
+  "exit": "Chiqishga liftda emas, zinadan tushing.",
+  "expectancy": "Xonada intiqlik kayfiyati hukm surardi.",
+  "high life": "Haddan tashqari dabdabali hayot umringizni qisqartirishi mumkin.",
+  "impartial": "Bizga sog'lom turmush tarzi haqida xolis maslahat kerak.",
+  "industrialise": "Mamlakatlar sanoatlashgani sari umr ko'rish davomiyligi odatda oshadi.",
+  "life expectancy": "Butun dunyoda umr ko'rish davomiyligi oshdi.",
+  "moderately": "Me'yorida mashq qiling va to'g'ri ovqatlaning.",
+  "motto": "Uning shiori — \"Yaxshi yasha, uzoq yasha\".",
+  "orange juice": "Bir stakan apelsin sharbati S vitaminiga boy.",
+  "path of least resistance": "Fast-fud ko'pincha eng oson yo'ldir.",
+  "swear": "Buvim har kuni sayr qilishning foydasiga qasam ichib ishonadi.",
+  "thoroughly": "U sog'lom turmush tarzidan to'liq zavq oladi."
  }
 });

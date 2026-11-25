@@ -1,4 +1,4 @@
-// Part 2 topic 0063: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0063: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0063', {
  "A1": {
   "arbitrary": "Tanlov o'zboshimchalik bilan qilingan.",
@@ -239,5 +239,45 @@ VOCAB_TR_STORE('2', '0063', {
   "texture": "U nafaqat ta'm, balki tuzilishni ham tasvirlaydi: ba'zi so'zlar qarsillagandek, boshqalari silliqdek tuyuladi.",
   "tongue": "Tilidagi tuyg'u shunchalik yaqqolki, u ba'zan uni yuvib yuborish uchun ichimlikka qo'l uzatadi.",
   "totally": "Sinestet uchun bu tajriba, boshqalarga qanchalik imkonsiz tuyulmasin, mutlaqo haqiqiydir."
+ },
+ "EX": {
+  "arbitrary": "So'zlar va ta'mlar o'rtasidagi bog'liqlik tasodifiy ko'rinadi.",
+  "articulate": "Bu kechinmani so'z bilan ifodalash unga qiyin.",
+  "base": "Ba'zi ta'mlar so'zdagi tovushlarga asoslangan bo'lishi mumkin.",
+  "bizarre": "Bu g'alati eshitiladi, lekin u haqiqatan ham so'zlarning ta'mini sezadi.",
+  "box in": "U o'zini yorliqlar bilan chegaralab qo'yishlarini xohlamaydi.",
+  "closely": "Ta'm va hid bir-biri bilan chambarchas bog'liq.",
+  "coffin": "Bu so'z unga eski tobutning ta'mini eslatdi.",
+  "combination": "Sinesteziya sezgilarning qo'shilishidir.",
+  "combine": "Sinesteziyada ikki sezgi birlashadi.",
+  "complex": "Ta'm sezish murakkab sezgidir.",
+  "distract": "Ta'mlar ba'zan uning diqqatini suhbatdan chalg'itadi.",
+  "distracting": "Ta'mlar juda chalg'ituvchi bo'lishi mumkin.",
+  "express": "U ta'mlarni juda batafsil ifodalaydi.",
+  "flavour": "Har bir so'zning o'z ta'mi bor.",
+  "foodstuff": "Har bir so'zning ta'mi ma'lum bir oziq-ovqat mahsulotiga o'xshaydi.",
+  "frustrating": "So'zning ta'mi jirkanch bo'lganda bu asabga tegishi mumkin.",
+  "general": "Sinesteziya aholi orasida kam uchraydi.",
+  "hearing": "Uning uchun eshitish va ta'm sezish bir-biriga bog'langan.",
+  "identify": "U har bir so'zning ta'mini aniqlay oladi.",
+  "independently": "Odatda sezgilarimiz bir-biridan mustaqil ishlaydi.",
+  "maintain": "Ta'mlar ko'p yillar davomida so'zlar bilan bir xil bog'liqlikni saqlab qoladi.",
+  "mix up": "Sinesteziyada sezgilar bir-biriga aralashib ketadi.",
+  "mixture": "So'zning ta'mi murabbo va qizartirilgan non aralashmasiga o'xshardi.",
+  "neurological": "Sinesteziya nevrologik holatdir.",
+  "one after another": "U gapirgan sari ta'mlar birin-ketin paydo bo'lardi.",
+  "related": "Uning sezgan ta'mlari ko'pincha so'zning tovushiga bog'liq bo'ladi.",
+  "rough": "Bir so'z uning tilida g'adir-budur tuyuldi.",
+  "run through": "Olim so'zlar ro'yxatini ko'zdan kechirib chiqdi.",
+  "sens": "Sinesteziyada sezgilar aralashib ketadi.",
+  "sensation": "Uning og'zida g'alati sezgi bor.",
+  "sex": "Sinesteziya ikkala jinsda ham uchraydi.",
+  "some other": "Ba'zi sinestetlar ranglarni ko'rishadi, boshqa ba'zi odamlar esa so'zlarning ta'mini sezishadi.",
+  "take in": "Biz ma'lumotni sezgilarimiz orqali qabul qilamiz.",
+  "taste": "U so'zlarning ta'mini seza oladi.",
+  "taste sensation": "Har bir so'z ta'm sezgisini uyg'otadi.",
+  "texture": "Ba'zi so'zlar uning uchun hatto tuzilishga ham ega.",
+  "tongue": "U ta'mni tilida sezadi.",
+  "totally": "Bu ta'mlar uning uchun mutlaqo haqiqiy."
  }
 });

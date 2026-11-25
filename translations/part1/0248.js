@@ -1,4 +1,4 @@
-// Part 1 topic 0248: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0248: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0248', {
  "A1": {
   "allegedly": "Aytishlaricha, u buni o'g'irlagan.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0248', {
   "serene": "Suv ostidagi ijrochilar bir necha daqiqa davomida nafasini ushlab turib, xotirjam ko'rinishlari kerak.",
   "stumble across": "Tadqiqotchilar vaqti-vaqti bilan kema jurnallarida suv parilari ko'rilgani haqidagi unutilgan qaydlarga tasodifan duch kelishadi.",
   "two weeks": "Ikki hafta ichida \"suv parisi\" minglab pullik tashrif buyuruvchilarni jalb qildi."
+ },
+ "EX": {
+  "allegedly": "Aytishlaricha, qirg'oq yaqinida suv parisi ko'rilgan.",
+  "confess": "Keyinchalik u suv parisi soxta ekanini tan oldi.",
+  "date from": "Suv parilari haqidagi hikoyalar qadim zamonlardan beri mavjud.",
+  "deception": "Soxta suv parisi ustalik bilan qilingan aldov edi.",
+  "entertain": "Professional suv parilari akvariumlarda odamlarni xursand qiladi.",
+  "gather in": "\"Suv parisi\"ni ko'rish uchun olomon to'planardi.",
+  "getaway": "Dengiz bo'yidagi dam olish suv parisidek suzishni o'rganish uchun ajoyib joy.",
+  "hit the nail on the head": "Siz ayni muddaoni aytdingiz — suv parilari bizning dengizga bo'lgan muhabbatimiz ifodasidir.",
+  "hoax": "\"Fiji suv parisi\" mashhur yolg'on edi.",
+  "kettle": "Choynakni qo'yib qo'yaman.",
+  "kettle of fish": "Suv parilariga ishonish — butunlay boshqa masala.",
+  "latex": "Zamonaviy suv parisi dumlari ko'pincha lateksdan tayyorlanadi.",
+  "lemonade": "Sohilda limonad ichdik.",
+  "lightbulb": "Dengiz sigirini ko'rish to'satdan hamma narsani tushunib yetgan lahza bo'ldi.",
+  "merely": "\"Suv parisi\" shunchaki dengiz sigiri bo'lib chiqdi.",
+  "merman": "Suv odami — suv parisining erkak ko'rinishi.",
+  "renowned": "Mashhur sayyoh suv parilarini ko'rganini aytgan.",
+  "serene": "Professional suv parisi suv ostida xotirjam ko'rinardi.",
+  "stumble across": "Tasodifan suv parilari haqidagi eski hikoyaga duch keldim.",
+  "two weeks": "Suv parisi shousi ikki hafta davom etadi."
  }
 });

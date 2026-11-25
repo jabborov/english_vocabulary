@@ -1,4 +1,4 @@
-// Part 2 topic 0019: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0019: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0019', {
  "A1": {
   "a sexual nature": "Hazil jinsiy mazmunda edi.",
@@ -221,5 +221,42 @@ VOCAB_TR_STORE('2', '0019', {
   "victim": "Juda ko'p hollarda ta'qibning oldini olish yuki jinoyatchiga emas, balki jabrlanuvchiga yuklatilgan.",
   "visual": "Ta'rifga vizual xatti-harakatlarning kiritilishi ta'qib ko'p shakllarda bo'lishini tobora ko'proq tan olinayotganini aks ettiradi.",
   "voiceover": "Diktor ovozining vazmin ohangi intervyu olingan ayollarning iztirobli guvohliklariga keskin zid keladi."
+ },
+ "EX": {
+  "a sexual nature": "Shilqimlik jinsiy xarakterdagi har qanday istalmagan xulqni o'z ichiga oladi.",
+  "affect": "Shilqimlik insonning ishi va salomatligiga jiddiy ta'sir ko'rsatishi mumkin.",
+  "avoid": "Ko'plab ayollar keraksiz e'tibordan qochish uchun maxsus vagonlarni tanladi.",
+  "banging into somebody": "Gavjum poyezdda kimgadir urilib ketmaslik qiyin.",
+  "bother": "Ayollar endi poyezdda erkaklar ularni bezovta qilishidan xavotirlanmasliklarini aytishdi.",
+  "brightly": "Faqat ayollar uchun vagonlar oson ko'zga tashlanishi uchun yorqin ranglarga bo'yalgan.",
+  "bump": "Liq to'la poyezdda yo'lovchilar doim bir-biriga turtinib ketadi.",
+  "carriage": "Ba'zi poyezdlarda endi faqat ayollar uchun maxsus vagon bor.",
+  "commuter": "Har kuni ertalab minglab qatnovchilar shaharga poyezdda kelishadi.",
+  "complaint": "Temir yo'l operatori ayol yo'lovchilardan yuzlab shikoyatlar oldi.",
+  "conduct": "Jinsiy xarakterdagi har qanday istalmagan xatti-harakat shilqimlik hisoblanadi.",
+  "cramped": "Tig'iz soatlardagi poyezdlardagi siqilinch sharoit shilqimlik qilishni osonlashtiradi.",
+  "definition": "Jinsiy shilqimlikning rasmiy ta'rifi og'zaki va vizual xatti-harakatlarni ham o'z ichiga oladi.",
+  "deliberately": "Gavjum vagonlarda ba'zi yo'lovchilarga ataylab tegishgan.",
+  "easy to spot": "Pushti belgilari tufayli vagonlarni oson ajratib olish mumkin.",
+  "employment": "Jabrlanuvchilar ba'zan shilqimlik ularning ish faoliyatiga ta'sir qilayotganini sezishadi.",
+  "festive season": "Bayram mavsumida poyezdlar yanada gavjum bo'ladi.",
+  "hopefully": "Umid qilamizki, yangi vagonlar ayollarga o'zlarini xavfsizroq his qilishlariga yordam beradi.",
+  "on purpose": "Ba'zi erkaklar ayollarga ataylab tegib, keyin buni tasodif deb ko'rsatishadi.",
+  "push into": "Eshiklar ochilgach, odamlar vagonga itarilib kira boshlashdi.",
+  "rejection": "Ba'zi jabrlanuvchilarga shilqimni rad etgani uchun yomon munosabatda bo'lishadi.",
+  "sexual harassment": "Faqat ayollar uchun mo'ljallangan vagonlar gavjum poyezdlarda jinsiy shilqimlikni kamaytirish uchun joriy etildi.",
+  "sexually harassed": "So'rovnoma ko'plab ayollar jamoat transportida jinsiy shilqimlikka uchraganini aniqladi.",
+  "spoken": "Shilqimlik og'zaki yoki yozma bo'lishi mumkin.",
+  "stand out": "Yorqin pushti vagonlar platformada haqiqatan ham yaqqol ajralib turadi.",
+  "state-run rail operator": "Davlat temir yo'l operatori ba'zi yo'nalishlarda faqat ayollar uchun vagonlarni joriy qildi.",
+  "suburb": "Ko'plab qatnovchilar shaharga chekka hududlardan kelishadi.",
+  "taking advantage": "Ba'zi erkaklar ayollarga tegish uchun gavjum poyezdlardan foydalanib qolishardi.",
+  "to pack with": "Tig'iz soatlarda poyezdlar qatnovchilar bilan liq to'la bo'ladi.",
+  "to raise awareness": "Kampaniya jamoat transportidagi jinsiy shilqimlik haqida xabardorlikni oshirishni maqsad qilgan.",
+  "unwelcome": "Jinsiy shilqimlik jinsiy xarakterdagi istalmagan xatti-harakat sifatida ta'riflanadi.",
+  "verbal": "Shilqimlik og'zaki bo'lishi mumkin, masalan, istalmagan izohlar.",
+  "victim": "Shilqimlik qurbonlari bu haqda politsiyaga xabar berishga undaladi.",
+  "visual": "Shilqimlik vizual ham bo'lishi mumkin, masalan, haqoratli rasmlarni ko'rsatish.",
+  "voiceover": "Reportajdagi ortdan eshitiladigan ovoz vagonlar nima uchun joriy etilganini tushuntiradi."
  }
 });

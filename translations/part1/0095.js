@@ -1,4 +1,4 @@
-// Part 1 topic 0095: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0095: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0095', {
  "A1": {
   "accompany": "Men sizga hamrohlik qilaman.",
@@ -245,5 +245,46 @@ VOCAB_TR_STORE('1', '0095', {
   "viral infection": "Haroratning ko'tarilishi bir qator virusli infeksiyalarning yuqishini tezlashtirishi mumkin.",
   "virus": "Isib borayotgan iqlim viruslarga ilgari ular uchun juda sovuq bo'lgan mintaqalarda o'rnashib olish imkonini berishi mumkin.",
   "yellow fever": "Dengue bilan bir xil chivin tashiydigan sariq isitma ham uning ortidan yangi mintaqalarga kirib kelishi mumkin."
+ },
+ "EX": {
+  "accompany": "Yuqori isitma ko'pincha bosh og'rig'i bilan birga kechadi.",
+  "body temperature": "Normal tana harorati taxminan 37°C.",
+  "borne": "Iqlim o'zgarishi tufayli chivinlar orqali yuqadigan kasalliklar tarqalmoqda.",
+  "breeding ground": "Turg'un suv chivinlar ko'payadigan joydir.",
+  "cholera": "Vabo iflos suv orqali tarqaladi.",
+  "cramped": "Tor va siqiq sharoitda yashaydigan odamlar kasalliklarni osonroq yuqtiradi.",
+  "critical": "Bola kasalxonada og'ir ahvolda edi.",
+  "dengue": "Denge kasallangan chivin chaqishi orqali yuqadi.",
+  "dengue fever": "Butun dunyoda denge isitmasi holatlari ko'paymoqda.",
+  "domino": "Bitta domino toshi yiqilsa, qolganlari ham yiqiladi.",
+  "domino effect": "Iqlim o'zgarishi sog'liqqa domino effekti kabi zanjirsimon ta'sir ko'rsatishi mumkin.",
+  "drinking water": "Toshqinlar ichimlik suvini ifloslantirishi mumkin.",
+  "early warning system": "Olimlar kasallik tarqalishlari uchun erta ogohlantirish tizimini ishlab chiqmoqda.",
+  "epidemiologist": "Bir epidemiolog iqlim kasalliklar tarqalishiga qanday ta'sir qilishini tushuntirib berdi.",
+  "fatal": "Bezgak davolanmasa, o'limga olib kelishi mumkin.",
+  "fever": "Bolaning isitmasi baland edi.",
+  "forefront": "Kambag'al mamlakatlardagi shifokorlar kasalliklarga qarshi kurashning oldingi safida turibdi.",
+  "heartbeat": "Tez yurak urishi jiddiy infeksiya belgisi bo'lishi mumkin.",
+  "high temperature": "Yuqori harorat chivinlarning tezroq ko'payishiga yordam beradi.",
+  "in advance": "Kasallik tarqalishi haqida oldindan bilsak, tayyorgarlik ko'rishimiz mumkin.",
+  "in detail": "Olimlar iqlim va kasalliklar o'rtasidagi bog'liqlikni batafsil o'rganishdi.",
+  "infected": "Kasallangan chivin virusni odamlarga yuqtirishi mumkin.",
+  "malaria": "Bezgak dunyodagi eng halokatli kasalliklardan biri.",
+  "mosquito": "Chivinlar xavfli kasalliklarni tarqatishi mumkin.",
+  "mosquito bite": "Bezgak chivin chaqishi orqali tarqaladi.",
+  "move into": "Dunyo isib borayotgani sari chivinlar yangi hududlarga kirib bormoqda.",
+  "outbreak": "Toshqindan keyin vabo tarqaldi.",
+  "paediatrician": "Bir pediatr issiqlik bolalar sog'lig'iga qanday ta'sir qilishini tushuntirib berdi.",
+  "parasite": "Bezgakni chivinlar tashiydigan parazit qo'zg'atadi.",
+  "replication": "Iliqroq havo chivinlar ichida viruslarning ko'payishini tezlashtiradi.",
+  "sanitation": "Yomon sanitariya vabo kabi kasalliklarning tarqalishiga yordam beradi.",
+  "surge": "Bu yil denge holatlari keskin ko'paydi.",
+  "take a look": "Keling, iqlim o'zgarishi sog'liqqa qanday ta'sir qilishini ko'rib chiqaylik.",
+  "unwelcome": "Haroratning ko'tarilishi chivinlar kabi noxush mehmonlarni olib keladi.",
+  "vaccine": "Endi dengega qarshi vaksina bor.",
+  "very fast": "Issiq havoda viruslar juda tez tarqalishi mumkin.",
+  "viral infection": "Denge — chivinlar tarqatadigan virusli infeksiya.",
+  "virus": "Denge kasalligini virus qo'zg'atadi.",
+  "yellow fever": "Ba'zi mamlakatlarga sayohat qilishdan oldin sariq isitmaga qarshi emlanishingiz kerak."
  }
 });

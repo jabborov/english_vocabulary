@@ -1,4 +1,4 @@
-// Part 1 topic 0231: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0231: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0231', {
  "A1": {
   "Cooper": "Janob Cooper mening o'qituvchim.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0231', {
   "twisted": "Buralib qolgan sharnir yoki titilgan kabel ko'pincha boshqa jihatdan butun qurilmani axlat qutisiga mahkum etadi.",
   "unscrew": "Vintini burab ochib, tuzatsa bo'ladigan mahsulot tashlab yuborish uchun loyihalangan mahsulotning aksidir.",
   "valid": "Rejalashtirilgan eskirish asosli biznes strategiyasimi yoki aldov shaklimi, bu hamon qizg'in muhokama qilinmoqda."
+ },
+ "EX": {
+  "Cooper": "Professor Kuper maishiy mahsulotlar qancha muddat xizmat qilishini o'rgangan.",
+  "cracked": "Ko'p odamlar ekrani yorilgan telefonlardan foydalanishda davom etishadi.",
+  "gizmo": "Oshxonadagi tortmam hech qachon ishlatmaydigan moslamalarga to'la.",
+  "glue": "Batareya yopishtirib qo'yilgan, shuning uchun uni osonlikcha almashtira olmaysiz.",
+  "glue on": "Ekran yopishtirilgan, shuning uchun uni olishga urinsangiz sinib ketadi.",
+  "keep quiet": "Ba'zi kompaniyalar o'z mahsulotlari qancha muddatga mo'ljallanganini sir tutishadi.",
+  "make up one's mind": "Eski telefonimni ta'mirlatishimni yoki yangisini sotib olishimni hal qila olmayapman.",
+  "millionaire": "Har yili yangi gadjetlar sotish ba'zi odamlarni millionerga aylantirdi.",
+  "responsibly": "Eski elektronikani mas'uliyat bilan utilizatsiya qilishimiz kerak.",
+  "screw": "Eski radiolar vintlar bilan mahkamlangan bo'lardi, shuning uchun ularni ochish mumkin edi.",
+  "screw on": "Panel vint bilan mahkamlangan, shuning uchun uni yechib, ta'mirlash oson.",
+  "strong belief": "U mahsulotlar uzoq muddatga chidaydigan qilib ishlab chiqarilishi kerakligiga qat'iy ishonadi.",
+  "throwaway": "Biz buzilgan narsalar ta'mirlanmasdan, almashtiriladigan \"ishlat-u tashla\" madaniyatida yashayapmiz.",
+  "tracker": "Fitnes trekerim o'n sakkiz oydan keyin ishlamay qoldi.",
+  "twisted": "Bor-yo'g'i bir yildan keyin kabel buralib, uzilib qoldi.",
+  "unscrew": "Agar orqa qopqoqni burab ocha olsangiz, batareyani o'zingiz almashtirishingiz mumkin.",
+  "valid": "Bu asosli fikr — nega telefon atigi ikki yil ishlashi kerak?"
  }
 });

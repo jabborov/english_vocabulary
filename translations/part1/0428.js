@@ -1,4 +1,4 @@
-// Part 1 topic 0428: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0428: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0428', {
  "A1": {
   "IMF": "XVF mamlakatlarga yordam beradi.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0428', {
   "subsidy": "Subsidiyalarni juda tez bekor qilish zaif xonadonlarni qaytadan qashshoqlik chegarasidan pastga tushirib yuborishi mumkin.",
   "terrain": "Mamlakatning og'ir yer relyefi uzoq vaqtdan beri iqtisodiy rivojlanish va bozorlarga chiqishga to'sqinlik qilib keladi.",
   "undertaking": "Tarqoq tog' qishloqlariga yordam yetkazish o'ta murakkab logistik vazifadir."
+ },
+ "EX": {
+  "IMF": "XVJ ma'lumotlariga ko'ra, Nepal Osiyodagi eng kambag'al mamlakatlardan biri.",
+  "allocate": "Hukumat kambag'al oilalarga yordam berish uchun mablag' ajratdi.",
+  "bribery": "Ba'zi davlat idoralarida poraxo'rlik jiddiy muammo hisoblanadi.",
+  "eligible": "Faqat qashshoqlik chegarasidan pastda yashaydigan oilalar to'lovlarni olish huquqiga ega.",
+  "financial support": "Kambag'al oilalar hukumatdan moliyaviy yordam oladi.",
+  "fraud": "Rasmiylar to'lov tizimidagi firibgarlikni to'xtatishga harakat qilmoqda.",
+  "health care": "Ko'plab qishloq aholisi oddiy tibbiy xizmatga ham pul to'lay olmaydi.",
+  "monetary fund": "Xalqaro valyuta jamg'armasi Nepalning sa'y-harakatlarini yuqori baholadi.",
+  "mountainous": "Nepal juda tog'li mamlakat.",
+  "pioneering": "Nepal eng kambag'al oilalarga yordam berish uchun yangi, kashshof dasturni boshladi.",
+  "poverty line": "Aholining to'rtdan bir qismi qashshoqlik chegarasidan pastda yashaydi.",
+  "subsidy": "Hukumat fermerlar uchun o'g'itga subsidiya to'laydi.",
+  "terrain": "Notekis yer relyefi chekka qishloqlarga yetib borishni qiyinlashtiradi.",
+  "undertaking": "Bunday tog'li mamlakatda qashshoqlikni kamaytirish juda katta ishdir."
  }
 });

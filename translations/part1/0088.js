@@ -1,4 +1,4 @@
-// Part 1 topic 0088: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0088: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0088', {
  "A1": {
   "Jordan": "Bu Jordan.",
@@ -197,5 +197,38 @@ VOCAB_TR_STORE('1', '0088', {
   "ten percent": "Alomatlarning hatto o'n foizga yaxshilanishi ham ko'plab bemorlar uchun klinik jihatdan ahamiyatli bo'lardi.",
   "twenty percent": "Xavfning yigirma foizga kamayishi u o'lchanayotgan past boshlang'ich darajani hisobga olmaguncha ta'sirli eshitiladi.",
   "upwards": "Tendensiya shubhasiz yuqoriga yo'nalgan, garchi uning asosiy sabablari bahsli bo'lib qolsa ham."
+ },
+ "EX": {
+  "Jordan": "Jordan ovqatlanish kayfiyatimizga qanday ta'sir qilishi mumkinligini tushuntirib berdi.",
+  "PhD": "U ovqatlanish psixiatriyasi bo'yicha falsafa doktori (PhD) darajasiga ega.",
+  "annoyance": "Ochlik tezda asabiylikka aylanishi mumkin.",
+  "boredom": "Ko'p odamlar zerikkanidan ovqat yeydi.",
+  "carbohydrate": "Non va makaron uglevodlarga boy.",
+  "cereal": "Har kuni ertalab bir kosa yorma yeyman.",
+  "chocolate eclair": "O'zimni shokoladli ekler bilan siyladim.",
+  "comfort": "Ko'p odamlar shirin taom yeyishdan taskin topadi.",
+  "comfort food": "Xafa bo'lganimda kartoshka pyuresi kabi ko'nglimni ko'taradigan taomlarga qo'l uzataman.",
+  "donut": "Donut sizga tezda shakar zarbasini beradi.",
+  "eclair": "Ekler — ichiga krem solingan fransuz pishirig'i.",
+  "feel down": "Kayfiyatim tushganda shokolad yeyman.",
+  "focused": "Yaxshi nonushta diqqatni jamlashga yordam beradi.",
+  "general practitioner": "Agar uzoq vaqt kayfiyatingiz tushkun bo'lsa, umumiy amaliyot shifokoringizga uchrashing.",
+  "hunger": "Ochlik sizni jizzaki qilib qo'yishi mumkin.",
+  "imaginable": "Do'konda tasavvur qilish mumkin bo'lgan barcha ta'mlar sotiladi.",
+  "medical specialist": "Shifokorim meni tor mutaxassisga yubordi.",
+  "olive": "Pitsamda zaytun bo'lishini yaxshi ko'raman.",
+  "olive oil": "O'rta yer dengizi parhezida zaytun moyi ko'p ishlatiladi.",
+  "on the go": "Doim yugur-yugurda bo'lsangiz, zararli yengil taomlarni olib qo'yish oson.",
+  "patronise": "Meni mensimay gapirmang: sog'lom ovqat nimaligini bilaman.",
+  "patronising": "Depressiyadagi odamlarga shunchaki ko'proq sabzavot yenglar, deyish ularni mensimaslikdir.",
+  "peanut": "Ba'zi odamlarda yeryong'oqqa allergiya bor.",
+  "peanut butter": "Kayfiyatim tushganda tostga yeryong'oq pastasini surtib yeyishni yaxshi ko'raman.",
+  "practitioner": "Tibbiyot amaliyotchilari ovqatlanishga jiddiyroq qaray boshlashmoqda.",
+  "propose": "Tadqiqotchilar ovqatlanish va depressiya o'rtasida bog'liqlik bor, degan fikrni ilgari surishmoqda.",
+  "psychiatry": "Ovqatlanish psixiatriyasi ovqat ruhiy salomatlikka qanday ta'sir qilishini o'rganadi.",
+  "simplistic": "Shakar sizni baxtli qiladi, deyish haddan tashqari soddalashtirishdir.",
+  "ten percent": "Odamlarning taxminan o'n foizi stressga tushganda ovqat yeyishini aytadi.",
+  "twenty percent": "Ko'ngillilarning yigirma foizi ovqatlanish tartibini o'zgartirdi.",
+  "upwards": "Bu yil oziq-ovqat narxlari yuqoriga ko'tarildi."
  }
 });

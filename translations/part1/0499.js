@@ -1,4 +1,4 @@
-// Part 1 topic 0499: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0499: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0499', {
  "A1": {
   "Taiwan": "Tayvan oroldir.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0499', {
   "throw back": "Qoidalarga ko'ra, baliqchilar tasodifan tutib olgan har qanday muhofaza ostidagi turni suvga qaytarib yuborishlari shart.",
   "toss": "Har yili millionlab akulalar okeanga uloqtirib yuboriladi, ular suza olmay, halok bo'lishga mahkum bo'ladi.",
   "whale shark": "Kitsimon akulalar suzgichlari uchun ovlangan, bu ularning soni keskin kamayishiga sabab bo'lgan."
+ },
+ "EX": {
+  "Taiwan": "Akula suzgichidan tayyorlangan sho'rva Tayvanda to'ylarda mashhur taomdir.",
+  "banquet": "Akula suzgichi sho'rvasi ko'pincha to'y ziyofatlarida tortiladi.",
+  "boycott": "Ba'zi mehmonxonalar akulalarni himoya qilish uchun akula suzgichi sho'rvasini boykot qiladi.",
+  "chop off": "Baliqchilar suzgichlarini kesib olib, akulalarni dengizga qaytarib tashlashadi.",
+  "hammerhead": "Baliqchilar bolg'abosh akula tutishdi.",
+  "hammerhead shark": "Bolg'abosh akulaning boshi juda g'alati.",
+  "lunar calendar": "Xitoy Yangi yili oy kalendariga asoslanadi.",
+  "must": "Ko'p yillar davomida akula suzgichi sho'rvasi Xitoy to'ylarida albatta bo'lishi shart bo'lgan taom edi.",
+  "throw back": "Akulalar suzgichlarisiz dengizga qaytarib tashlanadi.",
+  "toss": "Baliqchilar akulalarni suvga qaytarib uloqtirishadi.",
+  "whale shark": "Kitsimon akula dengizdagi eng katta baliqdir."
  }
 });

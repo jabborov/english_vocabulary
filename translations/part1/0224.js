@@ -1,4 +1,4 @@
-// Part 1 topic 0224: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0224: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0224', {
  "A1": {
   "Norman": "Uning ismi Norman.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0224', {
   "psychoanalysis": "Psixoanaliz ommabopligini yo'qotgan bo'lsa-da, uning suhbatga urg'u berishi keyingi barcha terapiya shakllarini shakllantirdi.",
   "psychoanalytic": "Zamonaviy terapiyalar tizimliroq bo'lsa-da, hamon psixoanalitik nazariyaga ko'p jihatdan qarzdor.",
   "upsetting": "Og'ir xotiralarni muhokama qilish azobli bo'lsa-da, ulardan qochish iztirobni uzaytirishga moyil."
+ },
+ "EX": {
+  "Norman": "Norman suhbat terapiyasi unga qanday yordam berganini tushuntiradi.",
+  "couch": "Freyd davrida bemorlar gapirayotganda kushetkada yotishardi.",
+  "daytime": "Terapiya mashg'ulotlari odatda kunduzi o'tkaziladi.",
+  "functioning": "Suhbat terapiyasi insonning kundalik faoliyatini yaxshilashi mumkin.",
+  "homework": "Ba'zi terapevtlar bemorlarga mashg'ulotlar oralig'ida uy vazifasi berishadi.",
+  "interrupt": "Yaxshi terapevt tinglaydi va gapni bo'lmaydi.",
+  "marked": "Bir necha mashg'ulotdan so'ng uning kayfiyati sezilarli darajada yaxshilandi.",
+  "medication": "Ba'zi odamlarga suhbat terapiyasi bilan bir qatorda dori-darmon ham kerak bo'ladi.",
+  "neurologist": "Freyd psixoanalizni ishlab chiqishdan oldin dastlab nevrolog bo'lib tayyorlangan.",
+  "psycho": "Kimnidir \"psix\" deb atash haqoratli bo'lib, ruhiy kasalliklarga nisbatan tamg'ani kuchaytiradi.",
+  "psychoanalysis": "Zigmund Freyd psixoanalizni Venada ishlab chiqqan.",
+  "psychoanalytic": "Psixoanalitik terapiya o'tmish hozirgi kunga qanday ta'sir qilishini o'rganadi.",
+  "upsetting": "Og'ir xotiralar haqida gapirish avvaliga qiyin bo'lishi mumkin."
  }
 });

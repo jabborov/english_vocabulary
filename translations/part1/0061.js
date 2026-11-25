@@ -1,4 +1,4 @@
-// Part 1 topic 0061: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0061: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0061', {
  "A1": {
   "boxer": "U bokschi.",
@@ -215,5 +215,41 @@ VOCAB_TR_STORE('1', '0061', {
   "unfortunately": "Afsuski, o'z nutqini eng ko'p moslashtirishi kerak bo'lgan so'zlovchilar ko'pincha buni eng kam anglaydiganlardir.",
   "university student": "Chet ellik universitet talabasi uchun o'qituvchining beixtiyor ishlatgan iborasi butun fikrni tushunarsiz qilib qo'yishi mumkin.",
   "viral": "Jargonning tez tarqalishi til o'zgarishini avvalgi avlodlar hech qachon ko'rmagan darajada tezlashtirdi."
+ },
+ "EX": {
+  "boxer": "Bokschi davom etish uchun juda charchagan edi.",
+  "boxing": "\"Sochiqni tashlash\" iborasi boksdan kelib chiqqan.",
+  "bring down": "Bitta kichik xato butun bitimni barbod qilishi mumkin.",
+  "coach": "Bokschining murabbiyi sochiqni tashladi.",
+  "crash": "U ingliz iboralari bo'yicha jadal kursni o'tdi.",
+  "embed": "Iboralar ingliz tiliga chuqur singib ketgan.",
+  "fashioned": "\"Spend a penny\" iborasi hozir ancha eskirgan.",
+  "give birth": "Internet ko'plab yangi iboralarni dunyoga keltirdi.",
+  "give in": "\"Throw in the towel\" iborasi \"taslim bo'lmoq\" bilan bir xil ma'noni anglatadi.",
+  "horse": "Inglizcha \"straight from the horse's mouth\", so'zma-so'z \"otning og'zidan\" iborasi gapni biladigan odamning o'zidan eshitganingizni bildiradi.",
+  "ironically": "Taajjubki, xalqaro uchrashuvlarda ko'pincha ona tili ingliz tili bo'lganlar eng yomon muloqot qiladi.",
+  "just about": "Uning nima deyayotganini zo'rg'a tushunyapman.",
+  "kick the bucket": "\"Kick the bucket\" iborasi \"o'lmoq\" so'zini aytishning hazilomuz usuli.",
+  "leant": "U menga engashib, men tushunmagan bir iborani pichirladi.",
+  "minor": "Bu shunchaki kichik muammo.",
+  "native speaker": "Ona tili ingliz tili bo'lganlar ko'pincha iboralarni o'ylamasdan ishlatadi.",
+  "outlet": "Ommaviy axborot vositalari so'rovnoma haqida xabar berdi.",
+  "public toilet": "Ilgari jamoat hojatxonasining eshigiga bir penni tashlashingiz kerak edi.",
+  "pull someone's leg": "Xavotir olmang, shunchaki hazillashyapman.",
+  "rely": "Iborani tushuntirish uchun har doim ham lug'atga tayanib bo'lmaydi.",
+  "rely on": "Ko'plab korxonalar xalqaro savdoda ingliz tiliga tayanadi.",
+  "sit up": "Natijalar o'qituvchilarni hushyor tortib, e'tibor qaratishga majbur qildi.",
+  "spend a penny": "Kechirasiz, ketishimizdan oldin hojatxonaga borib kelishim kerak.",
+  "stir": "Tadqiqot katta shov-shuvga sabab bo'ldi.",
+  "surrender": "Sochiqni tashlash taslim bo'lishni anglatadi.",
+  "take notice": "Ogohlantirishga hech kim e'tibor bermadi.",
+  "throw in the towel": "Uch soatdan keyin men taslim bo'ldim va yordam so'radim.",
+  "toilet": "Kechirasiz, hojatxona qayerda?",
+  "towel": "Murabbiy ringga sochiqni tashladi.",
+  "trivial": "Bu arzimas tuyulishi mumkin, ammo iboralar haqiqiy chalkashlikka sabab bo'lishi mumkin.",
+  "ubiquitous": "Ingliz tilidagi suhbatlarda iboralar hamma joyda uchraydi.",
+  "unfortunately": "Afsuski, ko'plab iboralar darsliklarda yo'q.",
+  "university student": "Chet eldan kelgan ko'plab universitet talabalarini ingliz iboralari chalg'itadi.",
+  "viral": "Chalkash iboralar haqidagi video tezda ommalashib ketdi."
  }
 });

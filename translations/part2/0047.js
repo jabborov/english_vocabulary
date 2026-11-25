@@ -1,4 +1,4 @@
-// Part 2 topic 0047: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0047: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0047', {
  "A1": {
   "a bit hairy": "Uning qo'llari biroz tukli.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('2', '0047', {
   "to mean get from someone else": "Uning kasallikdan xatti-harakatga kengayishi \"catch\" so'zi mikrob bo'ladimi yoki imo-ishora, boshqa birovdan yuqtirib olish ma'nosida qanchalik oson ishlatilishini ko'rsatadi.",
   "unpleasant": "Biz shunchaki yoqimsiz sezgi deb e'tiborsiz qoldiradigan narsa evolyutsion nuqtai nazardan hayotiy muhim himoya chizig'i bo'lgan bo'lishi mumkin.",
   "whether": "Yuquvchi qashlanish ijtimoiy yaqinlikni aks ettiradimi yoki shunchaki taqlidmi, degan savol tadqiqotchilarni ikkiga bo'lishda davom etmoqda."
+ },
+ "EX": {
+  "a bit hairy": "U bir hafta soqol olmagani uchun yuzi biroz tukli edi.",
+  "catch a scratch": "Kimningdir qashinayotganini ko'rsangiz, o'zingiz ham qashinishni yuqtirib olishingiz mumkin.",
+  "feed on": "Chivinlar va burgalar qonimiz bilan oziqlanadi.",
+  "it is indeed a beard scratch": "Suratga qarang: bu haqiqatan ham soqol qashish.",
+  "itch": "Orqamda qo'lim yetmaydigan joy qichishyapti.",
+  "itchier": "Qashiganim sari terim battarroq qichishadi.",
+  "itchy": "Bu jun sviter rosa qichishtiradi.",
+  "jumper": "Buvim menga badanimni qichishtiradigan jun sviter to'qib berdi.",
+  "loads": "Badanimiz qichishishining ko'plab sabablari bor.",
+  "parasite": "Qichishish terimizdagi parazitlarni sezishimizga yordam berishi mumkin.",
+  "scalp": "Bosh bitlari bosh terisini qattiq qichishtirishi mumkin.",
+  "scratch": "Chivin chaqqan joylarni qashimaslikka harakat qiling.",
+  "spontaneously": "Boshqa birovning qashinayotganini ko'rganimizda, ba'zan beixtiyor qashina boshlaymiz.",
+  "spot on": "Siz mutlaqo haq edingiz — qichishish haqiqatan ham yuqumli ekan.",
+  "to mean get from someone else": "Bu yerda \"catch\" so'zi xuddi shamollash yoki esnash kabi boshqa birovdan yuqtirib olish ma'nosida ishlatilgan.",
+  "unpleasant": "Qichishish odamni qashinishga undaydigan yoqimsiz tuyg'udir.",
+  "whether": "Olimlar qichishish yuqumli yoki yuqumli emasligini bilishni xohlashdi."
  }
 });

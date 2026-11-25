@@ -1,4 +1,4 @@
-// Part 1 topic 0270: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0270: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0270', {
  "A1": {
   "feasibility": "Biz amalga oshirish mumkinligini tekshirdik.",
@@ -35,5 +35,11 @@ VOCAB_TR_STORE('1', '0270', {
   "size of it": "Mohiyatiga qisqartirib aytganda, gap shunda: boy mamlakatlar kamroq iste'mol qilishi kerak.",
   "underestimate": "Tarafdorlarning ta'kidlashicha, biz uzluksiz o'sishning ekologik narxini doimo past baholaymiz.",
   "unfeasible": "Bugun siyosiy jihatdan amalga oshirib bo'lmaydigandek tuyulgan narsa iqlim halokati sharoitida zaruratga aylanishi mumkin."
+ },
+ "EX": {
+  "feasibility": "Ko'plab iqtisodchilar o'sishdan voz kechishning amalga oshirilishi mumkinligiga shubha qiladi.",
+  "size of it": "\"Demak, kamroq iste'mol qilishimiz kerakmi?\" \"Gap aynan shunda.\"",
+  "underestimate": "Iqtisodiyotni o'zgartirish qanchalik qiyinligini yerga urmasligimiz kerak.",
+  "unfeasible": "Ba'zilarning aytishicha, o'sishdan voz kechish iqtisodiy jihatdan amalga oshirib bo'lmaydigan ish."
  }
 });

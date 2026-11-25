@@ -1,4 +1,4 @@
-// Part 1 topic 0361: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0361: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0361', {
  "A1": {
   "branch out": "U faoliyatini kengaytirmoqchi.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0361', {
   "repulse": "Sodiq tarafdorlarni ruhlantiradigan aynan o'sha ritorika kampaniyaga kerak bo'lgan ikkilanayotgan saylovchilarni jirkantirishi mumkin.",
   "understand out": "Kontekstdan uzib olib tushunilgan gaplar muntazam ravishda aslida aytilgan narsaga deyarli aloqasi bo'lmagan g'azab to'lqinlarini qo'zg'aydi.",
   "uninterested": "Yoshlarni siyosatga qiziqmaydigan deb tamg'alash ularning masalalar bilan boshqa kanallar orqali qanday shug'ullanishini e'tiborsiz qoldiradi."
+ },
+ "EX": {
+  "branch out": "Ba'zi o'yin yulduzlari siyosiy sharhlovchilik sohasiga ham qo'l urishdi.",
+  "gaming": "Hozirda ko'plab siyosiy xabarlar yoshlarga o'yin striminglari orqali yetib boradi.",
+  "narrative": "Influenserlar siyosiy qarashni millionlab obunachilariga singdirishi mumkin.",
+  "rejection": "Yosh saylovchilarning an'anaviy ommaviy axborot vositalaridan yuz o'girishi influenserlarning ommalashishiga yordam berdi.",
+  "repulse": "Ba'zi tomoshabinlar influenserning haddan oshgan izohlaridan jirkanishdi.",
+  "understand out": "Qisqa kliplarni kontekstdan uzib olingan holda tushunish mumkin va ular tez tarqaladi.",
+  "uninterested": "Ko'plab yoshlar siyosatga qiziqmasliklarini aytishadi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0074: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0074: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0074', {
  "A1": {
   "DJ": "U DJ.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('1', '0074', {
   "tittle": "Hozir deyarli faqat \"tittle-tattle\" birikmasida uchraydigan \"tittle\" so'zi bir paytlar mitti belgi yoki zarrachani anglatgan.",
   "unkind": "G'iybat albatta yomon niyatli bo'lishi shart emas; uning katta qismi ijtimoiy ma'lumot almashish va ishonch qurishga xizmat qiladi.",
   "world record": "Suhbat bo'yicha jahon rekordini o'rnatishga urinishlar muloqotdan ko'ra ko'proq shunchaki chidamlilik haqida dalolat beradi."
+ },
+ "EX": {
+  "DJ": "Radio DJ tinglovchilar bilan suhbatlashishni juda yaxshi uddalaydi.",
+  "asleep": "Uning hikoyasi tugaguncha xonadagilarning yarmi uxlab qolgan edi.",
+  "bridge": "Suhbat avlodlar o'rtasidagi tafovutni yaqinlashtirishga yordam beradi.",
+  "chatter": "Dars boshlanishidan oldin talabalar baland ovozda chug'urlashishdi.",
+  "chatter away": "Ikki eski do'st soatlab gurunglashib o'tirishdi.",
+  "conservation": "Tabiatni muhofaza qilish ma'nosidagi \"conservation\" so'zini suhbat ma'nosidagi \"conversation\" so'zi bilan adashtirmang.",
+  "drown": "Uning ovozini olomon shovqini bosib ketdi.",
+  "drown out": "Baland musiqa suhbatimizni bosib ketdi.",
+  "enrich": "Yaxshi suhbat hayotimizni boyitishi mumkin.",
+  "entitle": "U \"Suhbat san'ati\" nomli kitob yozdi.",
+  "exchange": "Yaxshi suhbat g'oyalarning jonli almashinuvidir.",
+  "fall asleep": "U shunchalik zerikarli ediki, men deyarli uxlab qoldim.",
+  "forcefully": "U o'z fikrini qat'iyat bilan himoya qildi va boshqa hech kimga gapirishga imkon bermadi.",
+  "gossip": "Boshlig'imiz haqidagi so'nggi mish-mishni eshitdingizmi?",
+  "listen in": "Qo'shni stoldagi suhbatga beixtiyor quloq solib qoldim.",
+  "meet up with": "Bu dam olish kunlari eski do'stlarim bilan suhbatlashish uchun uchrashaman.",
+  "old school": "Yuzma-yuz gaplashish eskicha tuyulishi mumkin, ammo bu hali ham muloqotning eng yaxshi usuli.",
+  "partially": "Telefonimga qarab turganim uchun qisman tinglayotgan edim.",
+  "persistently": "U gapimni qayta-qayta bo'lib turdi.",
+  "predominantly": "Hozir suhbatlarimiz asosan onlayn tarzda bo'lmoqda.",
+  "talk over": "Odamlar gapirayotganda ularning gapini bo'lib, ustidan gapirish odobsizlikdir.",
+  "tattle": "Ular kechani do'stlari haqida g'iybat qilib o'tkazishdi.",
+  "telephone conversation": "Yoshlar telefonda gaplashishdan ko'ra xabar yozishni afzal ko'radi.",
+  "tittle": "Ularning suhbati qo'shnilar haqidagi bo'lmag'ur g'iybatdan iborat edi.",
+  "unkind": "G'iybat ba'zan shafqatsiz bo'lishi mumkin.",
+  "world record": "Eng uzoq davom etgan suhbat bo'yicha jahon rekordi 50 soatdan ortiq."
  }
 });

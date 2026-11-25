@@ -1,4 +1,4 @@
-// Part 1 topic 0425: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0425: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0425', {
  "A1": {
   "RNA": "RNK hujayralarimizda bor.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0425', {
   "modification": "Chorva mollarini genetik modifikatsiya qilish ilmiy savollar bilan bir qatorda axloqiy savollarni ham tug'diradi.",
   "rash": "Qusish bilan birga kechadigan keng tarqalgan toshma sutga kuchli allergiyadan dalolat berishi mumkin.",
   "shelf life": "Qo'shimchalarsiz saqlash muddatini uzaytirish sut sanoatining azaliy maqsadidir."
+ },
+ "EX": {
+  "RNA": "Olimlar genni o'chirish uchun RNKdan foydalanishdi.",
+  "allergic reaction": "Ba'zi odamlarda sutga nisbatan allergik reaksiya bo'ladi.",
+  "bad guy": "Sut allergiyasida asosiy yovuz qahramon aynan shu oqsildir.",
+  "beta": "Bu sigir beta-laktoglobulinsiz sut beradi.",
+  "culprit": "Asosiy aybdor beta-laktoglobulin deb ataladigan oqsildir.",
+  "disrupt": "Olimlar oqsilni hosil qiluvchi genning ishini buzishdi.",
+  "ease in": "Shifokorlar allergiyasi bor bolalar ratsioniga yangi taomlarni asta-sekin kiritishi mumkin.",
+  "interference": "Ular RNK interferensiyasi deb ataladigan usuldan foydalanishdi.",
+  "itchy": "Sut ba'zi bolalarning terisini qichishtiradi.",
+  "milk can": "Fermer sut bidonini to'ldirdi.",
+  "modification": "Hayvonlarni genetik modifikatsiya qilish munozarali masala.",
+  "rash": "Ba'zi chaqaloqlarda sigir suti ichganda toshma paydo bo'ladi.",
+  "shelf life": "Yangi sutning saqlanish muddati qisqa."
  }
 });

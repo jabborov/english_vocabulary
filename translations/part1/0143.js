@@ -1,4 +1,4 @@
-// Part 1 topic 0143: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0143: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0143', {
  "A1": {
   "burdensome": "Bu ish og'ir yuk.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0143', {
   "unknown": "Hali noma'lum sabablarga ko'ra ba'zi odamlar uchun sir saqlash boshqalarga qaraganda ancha ko'proq stress keltiradi.",
   "unwrap": "Kutilmagan sovg'aning zavqi ko'p jihatdan sir nihoyat ochilib, baham ko'rilgan lahzada yotadi.",
   "vibe": "Ziyofatda elektr kabi jo'shqin kayfiyat hukm surardi, qisman hamma syurprizdan xabardor bo'lgani uchun."
+ },
+ "EX": {
+  "burdensome": "Ba'zi sirlarni saqlash juda og'ir yuk bo'ladi.",
+  "cinnamon": "Dolchin maxfiy ingrediyentlardan biri deb taxmin qilinadi.",
+  "energise": "Ijobiy sirlar aslida bizga quvvat bag'ishlashi mumkin.",
+  "give away": "Uning tabassumi sirni fosh qilib qo'ydi.",
+  "grave": "U uning sirini go'rga olib ketishga va'da berdi.",
+  "intuition": "Ichki sezgim u nimanidir yashirayotganini aytdi.",
+  "luck through": "U hech narsani rejalashtirmagan edi - shunchaki omadi tufayli eplab ketdi.",
+  "marriage proposal": "U turmush qurish taklifini hammadan sir tutdi.",
+  "nutmeg": "Ozgina muskat yong'og'i ichimlikka o'ziga xos ta'm beradi.",
+  "proposal": "Uning kutilmagan taklifi qizni juda xursand qildi.",
+  "soft drink": "O'sha mashhur alkogolsiz ichimlikning retsepti qattiq saqlanadigan sir.",
+  "spill the beans": "Kutilmagan bayram haqidagi sirni oshkor qilib qo'yma!",
+  "troublesome": "Tashvishli sirni saqlash sog'lig'ingizga ta'sir qilishi mumkin.",
+  "unknown": "Maxfiy retsept jamoatchilikka noma'lumligicha qolmoqda.",
+  "unwrap": "Bolalar sovg'alarini ochishga sabrsizlanishardi.",
+  "vibe": "Xonada haqiqatan ham ijobiy kayfiyat hukm surardi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0268: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0268: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0268', {
  "A1": {
   "Harvey": "Harvey mening do'stim.",
@@ -179,5 +179,35 @@ VOCAB_TR_STORE('1', '0268', {
   "veterinary surgeon": "Velosipedni muhandis emas, balki veterinar inqilobiy tarzda o'zgartirgani qiziq fakt.",
   "voluminous": "O'sha davrning keng va hajmdor kiyimlari velosiped mexanikasiga mutlaqo mos kelmas edi.",
   "wheeler": "Katta g'ildirakli velosiped ilk velosipedchilikning xavfli, erkaklarga xos obrazini mujassam etgan."
+ },
+ "EX": {
+  "Harvey": "Harvey du Kros havo bilan to'ldiriladigan shinalar biznesini rivojlantirishga yordam bergan.",
+  "ankle": "Viktoriya davrida to'piqlarni ko'rsatish odamlarni hayratga solardi.",
+  "baggy": "Keng shimlar velosipedda yurish uchun qulayroq edi.",
+  "bicycle chain": "Uzun yubkalar velosiped zanjiriga ilinib qolishi mumkin edi.",
+  "boneshaker": "Ilk velosipedlar juda noqulay bo'lgani uchun \"suyak silkitgich\" deb atalgan.",
+  "cinch": "Keng ishtonlar to'piq qismidan qisib bog'langan.",
+  "cobblestone": "Tosh yotqizilgan yo'lda yurish juda silkinishli edi.",
+  "cyclist": "1890-yillarda yo'llar velosipedchilarga to'la edi.",
+  "emancipation": "Velosiped ayollar ozodligida muhim rol o'ynadi.",
+  "faddish": "Ba'zilar velosipedda yurishni o'tkinchi moda deb, u uzoqqa bormaydi deb o'ylashgan.",
+  "fitting": "Ayollar velosipedda yurish uchun tanaga yopishib turadigan kiyimlar kiya boshlashdi.",
+  "impractical": "Uzun ko'ylaklar velosipedda yurish uchun noqulay edi.",
+  "just in time": "Havo bilan to'ldiriladigan shina velosiped ommalashuvi boshlangan paytda aynan o'z vaqtida paydo bo'ldi.",
+  "lifelong": "U umrbod velosipedchi bo'lgan.",
+  "pantaloon": "Ba'zi velosipedchi ayollar yubka o'rniga keng ishton kiyishgan.",
+  "petticoat": "Ayollar yubkalari ostidan bir nechta ichki yubka kiyishgan.",
+  "pneumatic": "Havo bilan to'ldiriladigan shina velosipedda yurishni ancha qulay qildi.",
+  "pneumatic tyre": "Danlop havo bilan to'ldiriladigan shinani 1888-yilda ixtiro qilgan.",
+  "ride off": "U velosipediga o'tirib, haydab ketdi.",
+  "shore": "Ular qirg'oq bo'ylab velosipedda yurishdi.",
+  "shore up": "Velosiped ayollarning ko'proq erkinlik talab qiluvchi dalillarini mustahkamlashga yordam berdi.",
+  "skirt": "Uzun yubkalar velosipedda yurishni qiyin va xavfli qilardi.",
+  "tricycle": "Ba'zi ayollar o'zlarini xavfsizroq his qilgani uchun uch g'ildirakli velosiped haydashgan.",
+  "velocipede": "Velotsiped velosipedning ilk turlaridan biri edi.",
+  "veterinary": "U veterinariyani o'rgangan.",
+  "veterinary surgeon": "Veterinar jarroh Jon Boyd Danlop havo bilan to'ldiriladigan shinani ixtiro qilgan.",
+  "voluminous": "Viktoriya davri ayollari keng va hajmdor yubkalar kiyishgan.",
+  "wheeler": "\"Penni-farting\" velosipedi baland g'ildirakli velosiped deb ham atalgan."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0276: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0276: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0276', {
  "A1": {
   "bacterium": "Bakteriya juda kichik.",
@@ -179,5 +179,35 @@ VOCAB_TR_STORE('1', '0276', {
   "tuberculosis": "Dorilarga chidamli silning qaytishi infeksiyaga qarshi kurash hali tugashdan yiroq ekanini ko'rsatadi.",
   "unharmed": "Chidamli bakteriyalar antibiotik kursidan zarar ko'rmay o'tib, so'ng ko'payishi mumkin.",
   "wash up": "Olimning ketishdan oldin idishlarni yuvmagani tarixdagi baxtli tasodiflardan biridir."
+ },
+ "EX": {
+  "bacterium": "Birgina bakteriya juda tez ko'payishi mumkin.",
+  "big toe": "Uning bosh barmog'ida qavariq paydo bo'ldi.",
+  "blister": "O'tmishda yiringlagan qavariq hatto o'limga olib kelishi mumkin edi.",
+  "coffee cup": "Rakovinada qoldirilgan eski qahva finjonlarida mog'or paydo bo'lishi mumkin.",
+  "corps": "Birinchi jahon urushida Fleming Armiya tibbiyot korpusida xizmat qilgan.",
+  "dead body": "Bakteriyalar jasadni tezda parchalay boshlaydi.",
+  "extend": "Antibiotiklar umrimizni uzaytirishga yordam berdi.",
+  "fuzzy": "Mog'or tukli va yashil ko'rinardi.",
+  "gangrene": "Urushda ko'plab askarlar gangrena tufayli oyoqlaridan ayrilgan.",
+  "lifespan": "Antibiotiklar inson umrining davomiyligini oshirishga yordam berdi.",
+  "moist": "Mog'or iliq va nam joylarda yaxshi o'sadi.",
+  "mould": "Fleming mog'or atrofidagi bakteriyalarni o'ldirganini payqadi.",
+  "overuse": "Antibiotiklarni haddan tashqari ko'p qo'llash bakteriyalarni chidamli qilib qo'yadi.",
+  "pave": "Penitsillin boshqa ko'plab antibiotiklarga yo'l ochdi.",
+  "penicillin": "Penitsillinni 1928-yilda Aleksandr Fleming kashf etgan.",
+  "pneumonia": "Penitsillin kashf etilgunga qadar zotiljam keng tarqalgan o'lim sababi edi.",
+  "prevention": "Infeksiyaning oldini olish davolashdan yaxshiroq.",
+  "rattle": "Antibiotiklar paydo bo'lishidan oldin kichik bir infeksiya ham shifokorni jiddiy xavotirga solishi mumkin edi.",
+  "scarlet": "Bu kasallik terida qip-qizil toshma paydo qiladi.",
+  "scarlet fever": "Skarlatina ilgari xavfli bolalar kasalligi bo'lgan.",
+  "sobering": "Kichik infeksiyalardan qancha odam halok bo'lgani haqida o'ylash odamni hushyor torttiradi.",
+  "sweep out": "U qaytib kelib, laboratoriyani hech kim supurmaganini ko'rdi.",
+  "swell": "Infeksiyalar terining shishishi va qizarishiga sabab bo'lishi mumkin.",
+  "swell up": "Infeksiyadan keyin uning oyog'i shisha boshladi.",
+  "swelling": "Penitsillin shishni tezda qaytardi.",
+  "tuberculosis": "Antibiotiklar paydo bo'lgunga qadar sil millionlab odamlarning hayotiga zomin bo'lgan.",
+  "unharmed": "Idish chetidagi bakteriyalar zarar ko'rmagan edi.",
+  "wash up": "Fleming laboratoriya idishlarini yuvmasdan ta'tilga ketib qoldi."
  }
 });

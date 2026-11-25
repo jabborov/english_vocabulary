@@ -1,4 +1,4 @@
-// Part 1 topic 0482: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0482: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0482', {
  "A1": {
   "confidential information": "Maxfiy ma'lumotlarni xavfsiz saqlang.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0482', {
   "lucrative": "Ijtimoiy tarmoqlar firibgarlarni onlayn \"do'stlari\"ga ishonadigan qurbonlarning daromadli manbai bilan ta'minlaydi.",
   "pop music": "Firibgarlar zararli havolalarni tarqatish uchun muxlislarning pop musiqa yulduzlariga bo'lgan qiziqishidan foydalanadi.",
   "security intelligence": "Samarali xavfsizlik razvedkasi kompaniyalar va hukumatlar o'rtasida ma'lumotlarni tezkor almashishga bog'liq."
+ },
+ "EX": {
+  "confidential information": "Ijtimoiy tarmoqlarda hech qachon maxfiy ma'lumotlarni baham ko'rmang.",
+  "hotbed": "Ijtimoiy tarmoqlar firibgarlik o'chog'iga aylandi.",
+  "internet site": "Soxta internet saytlari haqiqiysidan farq qilmasligi mumkin.",
+  "keep one's eyes open": "Do'stlaringizdan keladigan g'alati xabarlardan ehtiyot bo'ling.",
+  "log off": "Jamoat kompyuteridan foydalanganingizda doim hisobingizdan chiqing.",
+  "lucrative": "Onlayn firibgarlik jinoyatchilar uchun daromadli biznesga aylandi.",
+  "pop music": "Firibgarlar ba'zan pop-musiqa yulduzlari haqidagi yolg'on yangiliklardan foydalanadi.",
+  "security intelligence": "Xavfsizlik bo'yicha razvedka hisobotida yangi firibgarlik usullari haqida ogohlantirildi."
  }
 });

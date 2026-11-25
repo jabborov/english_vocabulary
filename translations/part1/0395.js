@@ -1,4 +1,4 @@
-// Part 1 topic 0395: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0395: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0395', {
  "A1": {
   "auto": "Keling, avtorikshaga chiqaylik.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0395', {
   "motorbike": "Mototsikllar tirbandlikdan o'tib ketish imkonini beradi, ammo yo'l harakati xavfsizligi nuqtai nazaridan katta bahoga tushadi.",
   "potent": "Gavjum yo'llar haqiqatiga qaramay, shaxsiy avtomobil hamon erkinlikning kuchli ramzi bo'lib qolmoqda.",
   "rickshaw": "Bir paytlar qo'lda tortilgan rikshalar endi shahar hayotida markaziy o'rin tutadigan motorli parkni tashkil etadi."
+ },
+ "EX": {
+  "auto": "Biz shaharning narigi chetiga avtoriksha bilan bordik.",
+  "bumper": "Avtomagistralda mashinalar bamperma-bamper tiqilib turardi.",
+  "bumper car": "Bu shaharda mashina haydash xuddi urilib o'ynaladigan avtomobilchada yurishga o'xshaydi.",
+  "get behind": "Har yili millionlab yangi haydovchilar rulga o'tirishadi.",
+  "gridlock": "Shahar markazida transport butunlay tirbandlikka tiqilib qoldi.",
+  "guzzling": "Yoqilg'ini ko'p yeydigan mashinalar ifloslanishni kuchaytiradi.",
+  "maelstrom": "Shahar yo'llari avtomobillar, velosipedlar va rikshalarning girdobiga o'xshaydi.",
+  "motor": "U yangi mashinasi bilan juda faxrlanadi.",
+  "motor vehicle": "Dunyoda bir milliarddan ortiq avtotransport vositasi bor.",
+  "motorbike": "Mototsikllar tirbandlikdan avtomobillarga qaraganda osonroq o'tadi.",
+  "potent": "Avtomobil muvaffaqiyatning kuchli ramzidir.",
+  "rickshaw": "Osiyo shaharlarida rikshalar odatiy manzaradir."
  }
 });

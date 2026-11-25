@@ -1,4 +1,4 @@
-// Part 1 topic 0470: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0470: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0470', {
  "A1": {
   "beg off": "U sayohatdan uzr so'rab bosh tortdi.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0470', {
   "tour guide": "Ekskursiya rahbari hujjatlashtirilgan faktlarni ish atrofida paydo bo'lgan afsonalardan mohirona ajratib berdi.",
   "victimise": "Tanglikdagi jamiyatlar o'zini himoya qilishga eng kam qodir bo'lganlarni qayta-qayta jabrlab kelgan.",
   "witchcraft": "Jodugarlik ayblovlari ko'pincha jamiyat chekkasida yashagan kambag'al, keksa ayollarga qaratilgan."
+ },
+ "EX": {
+  "beg off": "U ekskursiyani o'tkazishi kerak edi, ammo so'nggi daqiqada uzr aytib voz kechdi.",
+  "brick in": "Kimdir mushukni devor ortiga g'isht bilan terib berkitib qo'ygan edi.",
+  "broomstick": "Bolalar kitoblarida jodugarlar odatda supurgida uchishadi.",
+  "cottage": "Pendl tepaligi yaqinida XVII asrga oid kulbaning qoldiqlari topildi.",
+  "cough up": "Tashrif buyuruvchilar kulbani ko'rish uchun istar-istamas o'n funt to'lashga majbur bo'lishdi.",
+  "execute": "1612-yilda jodugarlikda ayblangan o'n kishi qatl etilgan.",
+  "ghostly": "Tashrif buyuruvchilarning aytishicha, bu joyda arvohlarga xos sirli kayfiyat bor.",
+  "glory": "Endi kulbani butun ulug'vorligi bilan ko'rish mumkin.",
+  "hallway": "Kulbada kichik dahliz va bitta asosiy xona bor edi.",
+  "maintenance": "Kulbani suv omborida ta'mirlash ishlarini olib borayotgan ishchilar topishdi.",
+  "mummified": "Ishchilar devorlardan birining ichidan mumiyolangan mushuk topishdi.",
+  "mummify": "Jasadlar quruq joyda saqlansa, tabiiy ravishda mumiyolanishi mumkin.",
+  "persecute": "Boshqalardan farq qiladigan ayollar ko'pincha jodugar sifatida ta'qib qilingan.",
+  "seal": "Mushuk devor ichiga berkitib qo'yilgan edi.",
+  "speculation": "Kulbada kim yashagani haqida ko'p taxminlar bildirildi.",
+  "supernatural": "O'tmishda ko'pchilik jodugarlarda g'ayritabiiy kuchlar bor deb ishongan.",
+  "tour guide": "Gidimiz bizga Pendl jodugarlari haqidagi voqeani aytib berdi.",
+  "victimise": "Ayblangan ayollar qo'shnilari tomonidan ta'qib va zulmga uchragan.",
+  "witchcraft": "XVII asrda jodugarlik o'lim jazosi bilan jazolanishi mumkin bo'lgan jinoyat edi."
  }
 });

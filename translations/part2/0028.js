@@ -1,4 +1,4 @@
-// Part 2 topic 0028: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0028: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0028', {
  "A1": {
   "a bit more": "Men yana ozgina xohlayman.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('2', '0028', {
   "onwards": "Bu mashg'ulotning ilk kunlaridan boshlab kolleksionerlar ba'zi stikerlarga deyarli muqaddas darajada hurmat bilan qarab kelishgan.",
   "set you back": "Benuqson birinchi nashr sizga ko'pchilik ikkinchi qo'l mashinaga sarflaydigan puldan ham qimmatga tushadi.",
   "swing": "Kolleksionerlarning kayfiyati birgina cheklangan nashrning chiqishi bilan eyforiyadan umidsizlikka qadar keskin o'zgarishi mumkin."
+ },
+ "EX": {
+  "a bit more": "Noyob stikerlar odatda oddiylaridan biroz qimmatroq turadi.",
+  "a grand": "To'liq birinchi nashr albomi ming funtdan ortiq narxga sotilishi mumkin.",
+  "a sense of enjoyment": "Do'stlar bilan stiker almashish bolalarga zavq bag'ishlaydi.",
+  "appeal": "Stiker yig'ishning jozibasi har bir paketni ochishdagi hayajonda.",
+  "autograph": "Ba'zi muxlislar futbolchining avtografidan ko'ra stiker albomiga ega bo'lishni afzal ko'rishadi.",
+  "beforehand": "Kolleksionerlar paketlarni turnir boshlanishidan ancha oldin, haftalar avval sotib olishni boshlashadi.",
+  "disappoint": "Albomini to'ldira olmaganda bolalarning ko'ngli qolishi mumkin.",
+  "hence": "Ba'zi stikerlar kamroq miqdorda chop etiladi, shuning uchun ularning narxi baland.",
+  "impressive": "Unda qirq yil avvalgacha borib taqaladigan ajoyib stikerlar to'plami bor.",
+  "internationally": "Futbol stikerlari Braziliyadan Yaponiyagacha xalqaro miqyosda to'planadi.",
+  "kept": "U bolaligidan beri har bir stiker albomini saqlab kelgan.",
+  "let you down": "Bir xil stikerlar chiqaverganda, juda ko'p paket sotib olish hafsalangizni pir qilishi mumkin.",
+  "like gold dust": "Jamoa sardorining stikeri oltindek qimmatli va noyob edi.",
+  "live up": "Yangi albom muxlislarning kutganlarini oqladimi?",
+  "obsessive": "Ba'zi katta yoshli kolleksionerlar har bir albomni to'ldirishga mukkasidan ketishadi.",
+  "onwards": "1970-yillardan boshlab stiker albomlari juda ommalashdi.",
+  "set you back": "Butun albomni to'ldirish sizga yuzlab funt sterlingga tushishi mumkin.",
+  "swing": "Katta turnir oldidan noyob stikerlarning narxi keskin o'zgarib turishi mumkin."
  }
 });

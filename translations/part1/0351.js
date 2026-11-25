@@ -1,4 +1,4 @@
-// Part 1 topic 0351: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0351: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0351', {
  "A1": {
   "aftercare": "Do'konning sotuvdan keyingi xizmati yaxshi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0351', {
   "showroom": "Ayrim chakana savdogarlar bu tendensiyani qabul qilib, do'konlarini mol saqlash joyi emas, balki zamonaviy ko'rgazma zallari sifatida qayta jihozladi.",
   "tn": "Avtomatik vositalar yozuvdan so'zlar yoki qisqartmalarni kesib olganda ko'pincha \"tn\" kabi parchalar paydo bo'ladi.",
   "voucher": "Xaridor do'konni aylanib yurganida uning telefoniga yuboriladigan raqamli vaucherlar onlayn raqobatchilarga qarshi tobora kuchayib borayotgan quroldir."
+ },
+ "EX": {
+  "aftercare": "Biror nosozlik yuz bersa, do'kon sotuvdan keyingi yaxshi xizmat ko'rsatadi.",
+  "bargain hunter": "Arzon narsa izlovchilar chegirmali savdo boshlanishidan oldin do'kon oldida navbatda turishdi.",
+  "catalogue": "Men katalogdan kurtka buyurtma qildim.",
+  "discount": "Talabalarga o'n foizlik chegirma beriladi.",
+  "festive": "Bayram mavsumida do'konlar juda gavjum bo'ladi.",
+  "good deal": "Bu noutbukni foydali narxda sotib oldim.",
+  "newsagent": "Men har kuni ertalab gazeta do'konidan gazeta sotib olaman.",
+  "reassurance": "Ko'p xaridorlar mahsulotni sotib olishdan oldin uni ko'rib, ishonch hosil qilishni xohlashadi.",
+  "see in": "Mijozlar mahsulotlarni do'konda ko'rib, keyin internet orqali sotib olishadi.",
+  "shop around": "Yangi telefon sotib olishdan oldin turli do'konlardagi narxlarni solishtirib chiqish yaxshi fikr.",
+  "showroom": "Biz ko'rgazma zalida yangi avtomobillarni ko'rib chiqdik.",
+  "tn": "Eslatmada shunchaki \"tn\" deb yozilgan edi va bu nimani anglatishini hech kim bilmasdi.",
+  "voucher": "Ovqatimga chegirma olish uchun vaucherdan foydalandim."
  }
 });

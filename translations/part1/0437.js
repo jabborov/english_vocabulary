@@ -1,4 +1,4 @@
-// Part 1 topic 0437: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0437: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0437', {
  "A1": {
   "charitable": "Bu xayriya guruhi.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0437', {
   "summit": "Sammit ko'cha xayriya yig'imiga jamoatchilik ishonchini tiklashga qaratilgan xulq-atvor kodeksini ishlab chiqdi.",
   "unease": "Ko'chada xayriya so'rash borasidagi jamoatchilik xavotiri bir qancha xayriya tashkilotlarini o'z usullarini qayta ko'rib chiqishga undadi.",
   "unpopular": "Juda ommabop bo'lmasa-da, ko'chada xayriya so'rash davom etmoqda, chunki u katta mablag' to'playdi."
+ },
+ "EX": {
+  "charitable": "Pul xayriya maqsadlariga yo'naltiriladi.",
+  "chase away": "Ba'zi do'kon egalari mablag' yig'uvchilarni quvib yuborishadi.",
+  "chug": "Talabalar yozda pul topish uchun ko'pincha ko'chada xayriya uchun mablag' yig'ishadi.",
+  "chugging": "\"Chugging\" so'zi \"charity\" (xayriya) va \"mugging\" (talonchilik) so'zlarining qo'shilishidan hosil bo'lgan.",
+  "donor": "Xayriya tashkilotlariga kelajakni rejalashtirish uchun doimiy homiylar kerak.",
+  "fundraise": "Talabalar ko'pincha mahalliy xayriya tashkilotlari uchun mablag' yig'ishadi.",
+  "fundraiser": "Mablag' yig'uvchi mendan har oy besh funt berishimni so'radi.",
+  "fundraising": "Ko'chada mablag' yig'ish har yili xayriya tashkilotlari uchun millionlab pul to'playdi.",
+  "harass": "Ba'zi odamlar \"chagger\"lar ularga xira pashshadek yopishib olishini his qiladi.",
+  "harassing": "Ko'chada odamlarga xira pashshadek yopishib olish mumkin emas.",
+  "marathon runner": "Marafon yuguruvchisi bolalar xayriya tashkiloti uchun pul yig'di.",
+  "mugger": "\"Chagger\"ni hazillashib \"xayriya talonchisi\" deb atashadi.",
+  "mugging": "\"Chugging\" so'zi \"charity mugging\", ya'ni \"xayriya talonchiligi\"dan kelib chiqqan.",
+  "part with": "Odamlar ko'chada pullari bilan xayrlashishni yoqtirmaydi.",
+  "put under": "Odamlar pul berish uchun bosim ostiga qo'yilishni yoqtirmaydi.",
+  "stand in": "Xayriya uchun mablag' yig'uvchilar asosiy ko'chada turib, xaridorlarni to'xtatishadi.",
+  "summit": "Xayriya tashkilotlari rahbarlari \"chagging\" masalasini muhokama qilish uchun sammit o'tkazishdi.",
+  "unease": "\"Chagger\" yaqinlashganda ko'pchilik o'zini noqulay his qiladi.",
+  "unpopular": "Ko'plab xaridorlar \"chagger\"larni yoqtirmaydi."
  }
 });

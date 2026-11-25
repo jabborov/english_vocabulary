@@ -1,4 +1,4 @@
-// Part 1 topic 0468: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0468: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0468', {
  "A1": {
   "cognisant": "U bundan xabardor.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0468', {
   "managing": "Raqamli muloqotni boshqarish ko'pchilik kasblarning e'tirof etilmagan qismiga aylandi.",
   "messaging": "Elektron pochtadan messenjerlarga o'tish javob berish muddatlariga oid kutishlarni o'zgartirdi.",
   "spam": "Haqiqiy xabarlarni spamdan ajratish ish vaqtining hayratlanarli darajada ko'p qismini behuda sarflaydi."
+ },
+ "EX": {
+  "cognisant": "Rahbarlar elektron xatlar keltirib chiqaradigan stressdan xabardor bo'lishlari kerak.",
+  "emailing": "Elektron xat yozish ish kunining katta qismini egallaydi.",
+  "embedding": "Katta fayllarni xat ichiga joylash xatlar jo'natilishini sekinlashtiradi.",
+  "implanting": "Yangi odatlarni singdirish vaqt talab qiladi.",
+  "keeping": "Eski xatlarni saqlab qo'yish kompyuteringizni to'ldirib yuborishi mumkin.",
+  "lazily": "U erinchoqlik qilib xatga hammani nusxa qilib qo'shib yubordi.",
+  "managing": "Elektron xatlaringizni boshqarish har kuni soatlab vaqt olishi mumkin.",
+  "messaging": "Ba'zi kompaniyalar elektron pochta o'rniga tezkor xabar almashish dasturlaridan foydalanadi.",
+  "spam": "Pochta qutim spamga to'lib ketgan."
  }
 });

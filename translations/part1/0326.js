@@ -1,4 +1,4 @@
-// Part 1 topic 0326: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0326: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0326', {
  "A1": {
   "authorise": "Bunga kim ruxsat berdi?",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0326', {
   "sell out": "Gastrol chiptalari deyarli bir zumda sotilib ketdi, biroq minglab chiptalar qayta sotish saytlarida yana paydo bo'ldi.",
   "ticket tout": "Muxlislar chipta chayqovchilarini talabdan foydalanib, oddiy odamlarni jonli tadbirlardan narx orqali siqib chiqarishda ayblaydi.",
   "tout": "Onlayn chayqovchilar bir paytlar stadionlar oldida aylanib yuradigan odamlarning o'rnini deyarli butunlay egalladi."
+ },
+ "EX": {
+  "authorise": "Faqat tadbir o'tkaziladigan joy vakolat bergan sotuvchilardan sotib oling.",
+  "authorised": "Chiptalarni rasmiy vakolatli sotuvchidan sotib oling.",
+  "behalf": "U chiptalarni do'stlari nomidan sotib oldi.",
+  "box office": "Chiptalarni kassadan sotib olishingiz mumkin.",
+  "cheapskate": "Xasis bo'lmang, rasmiy chipta sotib oling.",
+  "face value": "Chiptalar nominal narxidan o'n baravar qimmatga sotildi.",
+  "inflate": "Chayqovchilar chiptalar narxini sun'iy ravishda oshirib yuborishadi.",
+  "inflated": "Chayqovchilar chiptalarni sun'iy oshirilgan narxlarda sotishadi.",
+  "legitimately": "Chiptangizni qonuniy yo'l bilan sotib olganingizga ishonch hosil qiling.",
+  "opera house": "Hatto opera teatri chiptalarini ham chayqovchilar sotishadi.",
+  "reputable": "Doimo obro'li sotuvchidan xarid qiling.",
+  "resell": "Chayqovchilar chiptalarni qimmatroq narxda qayta sotishadi.",
+  "restricted": "Ba'zi o'rindiqlardan sahna cheklangan holda ko'rinadi.",
+  "sell out": "Konsert chiptalari bir necha daqiqada sotilib tugadi.",
+  "ticket tout": "Chipta chayqovchilari chiptalarni sotib olib, foyda bilan qayta sotishadi.",
+  "tout": "Stadion oldidagi chayqovchi menga chipta taklif qildi."
  }
 });

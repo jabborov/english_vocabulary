@@ -1,4 +1,4 @@
-// Part 1 topic 0145: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0145: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0145', {
  "A1": {
   "Anderson": "Uning ismi Anderson.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0145', {
   "unchristian": "Muhabbatni targ'ib qilgan holda qullikdan foyda ko'rgan cherkovning ikkiyuzlamachiligi ko'pchilikka mutlaqo xristianlikka zid bo'lib tuyuldi.",
   "unhelpful": "Murakkab o'tmishni tushunishga urinayotganda odamlarni yovuz yoki qahramon deb tamg'alash foydasiz bo'lishi mumkin.",
   "violently": "Qul qilingan odamlar o'z uylaridan zo'ravonlik bilan uzib olinib, o'zliklaridan mahrum etilgan."
+ },
+ "EX": {
+  "Anderson": "Anderson o'z familiyasi ortidagi tarix haqida gapirib berdi.",
+  "admirable": "Cherkov o'z o'tmishiga yuzma-yuz qarayotgani tahsinga loyiq.",
+  "baggage": "Uning familiyasi og'ir tarixiy yukni o'zida tashiydi.",
+  "biblical": "Ko'plab qul qilingan odamlarga Injildan olingan ismlar berilgan.",
+  "bishop": "Episkop cherkovning qullik bilan aloqalari haqida gapirdi.",
+  "collaborator": "U ismlarni tadqiq qilish uchun hamkor bilan birga ishladi.",
+  "convert": "Missionerlar qul qilingan odamlarni xristian diniga kiritishga urinishgan.",
+  "dad": "Dadam familiyamiz qayerdan kelib chiqqani haqida hech qachon gapirmagan.",
+  "enslaved": "Qul qilingan odamlarga ko'pincha xo'jayinlarining familiyasi berilgan.",
+  "establishment": "Cherkov rahbariyati qullik bilan aloqalarini muhokama qilishga shoshilmadi.",
+  "exploitative": "Qul savdosi chuqur ekspluatatsiyaga asoslangan tizim edi.",
+  "feather": "Binoni qayta nomlash qarori ayrimlarning g'ashini keltirdi.",
+  "heart and soul": "U oilasi tarixini o'rganishga butun qalbini bag'ishladi.",
+  "morally": "Qul egalarini haykallar bilan sharaflash axloqan to'g'rimi?",
+  "noble": "Oila o'z familiyasining tarixi olijanob deb o'ylardi.",
+  "outdated": "Ba'zilar bu nomlarni eskirgan va o'zgartirilishi kerak deb hisoblaydi.",
+  "point in time": "O'sha paytda bu nomlarga kamdan-kam odam shubha bilan qarardi.",
+  "prophet": "Ko'plab qul qilingan odamlarga Injildagi payg'ambarlarning ismlari qo'yilgan.",
+  "resist": "Ko'plab qul qilingan odamlar qarshilik ko'rsatish yo'llarini topishgan.",
+  "resonate": "Uning hikoyasi ko'pchilikning qalbida aks-sado beradi.",
+  "ruffle": "Bu nomlar haqida gapirish ba'zilarning g'ashiga tegadi.",
+  "theologian": "Ilohiyotchi cherkov qullikni qanday oqlaganini tushuntirib berdi.",
+  "unchristian": "Qullik xristianlik ruhiga mutlaqo zid amaliyot edi.",
+  "unhelpful": "Ba'zilar narsalarni qayta nomlashni foydasiz deb hisoblaydi.",
+  "violently": "Qarshilik ko'rsatgan qullarga ko'pincha shafqatsizlarcha munosabatda bo'lingan."
  }
 });

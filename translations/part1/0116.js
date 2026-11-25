@@ -1,4 +1,4 @@
-// Part 1 topic 0116: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0116: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0116', {
  "A1": {
   "accounting": "U buxgalteriyada ishlaydi.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0116', {
   "transparency": "Haqiqiy shaffoflik banklardan kreditlarining to'liq uglerod izini oshkor qilishni talab qilgan bo'lardi.",
   "transparent": "Kamdan-kam muassasalar to'liq shaffof bo'lib, aniq ma'lumotlar o'rniga noaniq majburiyatlarni afzal ko'rishadi.",
   "worsen": "Tanqidchilar moliyaviy institutlar qazib olishni moliyalashtirib, inqirozni yanada chuqurlashtirgan, deb ta'kidlashadi."
+ },
+ "EX": {
+  "accounting": "Aniq buxgalteriya hisobi bank aslida qanchalik \"yashil\" ekanini ko'rsatib beradi.",
+  "as it were": "Jamg'armalarimiz, ta'bir joiz bo'lsa, neft sanoati uchun ishlamoqda.",
+  "balloon": "So'nggi yillarda yashil moliyaga qiziqish keskin oshib ketdi.",
+  "bandwagon": "Ba'zi banklar shunchaki yashil moliya modasiga ergashmoqda.",
+  "broaden": "Banklar taklif qilayotgan yashil mahsulotlar turini kengaytirmoqda.",
+  "corporation": "Yirik korporatsiyalarga ekologikroq bo'lish uchun bosim o'tkazilmoqda.",
+  "drilling": "Ba'zi banklar neft burg'ulash bilan shug'ullanadigan kompaniyalarga qarz beradi.",
+  "ethical": "Ko'proq odamlar jamg'armalari axloqiy investitsiyalarga yo'naltirilishini xohlashadi.",
+  "film director": "Bir kinorejissyor pulimiz qayerga ketishi haqida hujjatli film suratga oldi.",
+  "flying": "Jamg'armalaringizning uglerod izi samolyotda uchishingiznikidan kattaroq bo'lishi mumkin.",
+  "high street": "Ko'pchilik pulini oddiy shahar banklarida saqlaydi.",
+  "ignorant": "Ko'pchiligimiz pulimiz qayerga sarmoya qilinayotganidan bexabarmiz.",
+  "inexperienced": "Tajribasiz investorlar pullari nimani moliyalashtirayotganini bilmasligi mumkin.",
+  "investing": "Yashil sarmoya kiritish tobora ommalashib bormoqda.",
+  "jump on": "Ko'plab kompaniyalar \"yashil\" modaga ergashib ketishdi.",
+  "mattress": "O'tmishda ba'zi odamlar jamg'armalarini matras tagiga yashirishgan.",
+  "mechanism": "Banklarga pul qayerga sarmoya qilinganini ko'rsatadigan mexanizm kerak.",
+  "niche": "Ilgari yashil sarmoya tor doiradagi soha edi, endi esa u keng ommalashgan.",
+  "one time": "Bankingizni o'zgartirish — o'zgarish yasashi mumkin bo'lgan bir martalik qaror.",
+  "pension fund": "Pensiya jamg'armalari juda katta miqdorda pul sarmoya qiladi.",
+  "spotlight": "Hozir yashil moliya diqqat markazida.",
+  "stopping": "Qazilma yoqilg'ilarga sarmoya kiritishni to'xtatish asosiy maqsaddir.",
+  "transparency": "Mijozlar banklaridan ko'proq shaffoflik talab qilishmoqda.",
+  "transparent": "Banklar qayerga sarmoya kiritishlari haqida shaffof bo'lishlari kerak.",
+  "worsen": "Qazilma yoqilg'ilarga sarmoya kiritish iqlim o'zgarishini yanada kuchaytirishi mumkin."
  }
 });

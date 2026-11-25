@@ -1,4 +1,4 @@
-// Part 1 topic 0141: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0141: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0141', {
  "A1": {
   "comforting": "Issiq sho'rva ko'ngilga taskin beradi.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0141', {
   "psychotherapist": "Psixoterapevtning so'zlariga ko'ra, dasturxon atrofidagi suhbatlar ko'pincha oilalar boshqa paytlarda chetlab o'tadigan ziddiyatlarni fosh etadi.",
   "storyteller": "U eng oddiy voqeani ham maftunkor hikoyaga aylantira oladigan iste'dodli hikoyanavis edi.",
   "uncertain": "Tadqiqotchilar foyda taomlanishning o'zidan keladimi yoki uni birga baham ko'radigan oilalarning turidanmi, hali aniq bilishmaydi."
+ },
+ "EX": {
+  "comforting": "Yaxshi ko'rgan odamlaringiz bilan ovqatlanishda qandaydir taskin beruvchi narsa bor.",
+  "culture shock": "Jim-jit ovqatlanish u uchun haqiqiy madaniy zarba bo'ldi.",
+  "demarcation": "Ba'zi oilalarda bolalar va kattalar suhbati o'rtasida aniq chegara bor.",
+  "dinner table": "Ko'plab oilalar endi kechki dasturxon atrofida suhbatlashmaydi.",
+  "get together": "Biz har yakshanba katta ziyofat uchun yig'ilamiz.",
+  "mixed bag": "So'rovnoma natijalari biroz aralash-quralash bo'lib chiqdi.",
+  "overwhelmingly": "Odamlar mutlaq ko'pchilik holda oilaviy dasturxon ularni baxtliroq his qildirishini aytishdi.",
+  "prominent": "Ko'plab madaniyatlarda ovqat oilaviy hayotda muhim o'rin tutadi.",
+  "psychotherapist": "Psixoterapevt ovqat paytida suhbatlashish nega muhimligini tushuntirib berdi.",
+  "storyteller": "Bobom oilaviy dasturxon atrofida ajoyib hikoyalar so'zlab berardi.",
+  "uncertain": "Noaniq zamonlarda oilaviy dasturxon barqarorlik hissini berishi mumkin."
  }
 });

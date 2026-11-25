@@ -1,4 +1,4 @@
-// Part 2 topic 0003: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0003: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0003', {
  "A1": {
   "Bow": "Bou Londonda joylashgan.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('2', '0003', {
   "shave": "Ustara bilan soqol olish marosimi modaga e'tiborli shaharliklar orasida kutilmaganda qayta jonlandi.",
   "shirk": "Yutuqlarni o'ziga olib, javobgarlikdan bo'yin tovlash siyosatning o'zi kabi qadimiy hiyladir.",
   "slang": "O'z tabiatiga ko'ra o'tkinchi bo'lgan jargon davrning lingvistik ruhini rasmiy til kamdan-kam erisha oladigan yorqinlik bilan aks ettiradi."
+ },
+ "EX": {
+  "Bow": "Bou — Londonning East End qismidagi tuman.",
+  "Cockney": "Kokni — an'anaviy ravishda Londonning East End qismida so'zlashiladigan sheva.",
+  "East Enders": "East End aholisi o'ziga xos alohida so'zlashuv uslubini shakllantirgan.",
+  "bizarre": "Qofiyali jargonning ba'zi atamalari dastlab mutlaqo g'alati eshitiladi.",
+  "corned beef": "Konservalangan mol go'shti ishchilar oilalarida keng tarqalgan taom edi.",
+  "curator": "Muzey kuratori har bir eksponat ortidagi tarixni tushuntirib berdi.",
+  "delivering its services": "Muzey o'z xizmatlarini mahalliy jamoatchilikka yetkazishga e'tibor qaratadi.",
+  "descent": "East Enddagi ko'plab oilalar ishchilar sinfidan kelib chiqqan.",
+  "dialect": "Kokni Londonning eng oson taniladigan shevalaridan biridir.",
+  "dig": "Ishchilar yangi quvur uchun chuqur xandaqlar qazishiga to'g'ri keldi.",
+  "evolving": "Bu sheva asrlar davomida rivojlanib kelmoqda.",
+  "exaggerated": "Zarar haqidagi xabarlar bo'rttirilgan bo'lib chiqdi.",
+  "gradually": "Sheva ko'plab avlodlar davomida asta-sekin o'zgarib kelgan.",
+  "grave": "Kokni jargonida qabr uchun alohida so'z bor.",
+  "here": "Aynan shu yerda sheva o'zining betakror xususiyatini shakllantirgan.",
+  "imagine": "Londonni uning mashhur talaffuzlarisiz tasavvur qilish qiyin.",
+  "mate": "U eski oshnasi bilan do'stona qo'l berib ko'rishdi.",
+  "mi jam jar": "Kokni qofiyali jargonida \"jam jar\" (murabbo bankasi) \"car\" (mashina) degan ma'noni anglatishi mumkin.",
+  "rhyming": "Kokni qofiyali jargonida so'zlar ular bilan qofiyadosh iboralar bilan almashtiriladi.",
+  "ruling-class": "Hukmron tabaqaning urf-odatlari ko'pincha oddiy ishchilarnikidan juda farq qilgan.",
+  "sense of identity": "Sheva East End aholisiga kuchli o'zlik tuyg'usini beradi.",
+  "sensible": "Har oy ozgina pul jamg'arib borish oqilona ish.",
+  "shave": "U suhbatdan oldin soqol olishga qaror qildi.",
+  "shirk": "U ishdagi mas'uliyatidan bo'yin tovlashga urindi.",
+  "slang": "Kokni jargoni o'zining o'yinqaroq, yashirin ma'nolari bilan mashhur."
  }
 });

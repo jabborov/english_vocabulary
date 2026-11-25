@@ -1,4 +1,4 @@
-// Part 1 topic 0215: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0215: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0215', {
  "A1": {
   "Greece": "Gretsiya Yevropada joylashgan.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0215', {
   "sunflower": "Kungaboqar hosilidagi uzilishlar butun dunyoda o'simlik yog'i narxlariga ta'sir qilishi mumkin.",
   "sunflower oil": "Ba'zi tadqiqotchilar kungaboqar yog'ini yuqori haroratda qizdirish zararli birikmalar hosil qiladimi, degan savolni qo'yishadi.",
   "wok": "Vokning kuchli harorati tutun chiqish nuqtasi yuqori bo'lgan yog'larni talab qiladi."
+ },
+ "EX": {
+  "Greece": "Zaytun moyi Gretsiyada ovqatlanishning asosiy qismidir.",
+  "absolute": "Qaysi yog' eng yaxshi ekani haqida mutlaq javob yo'q.",
+  "coconut": "Kokos Tailand oshxonasida ommabop.",
+  "coconut oil": "Bir paytlar kokos yog'i superoziq sifatida targ'ib qilingan.",
+  "cooking oil": "Uyda qaysi o'simlik yog'idan foydalanasiz?",
+  "creamy": "Kokos yog'i karri taomlariga qaymoqsimon ta'm beradi.",
+  "frying": "Ovqatni qovurishga juda ko'p yog' ketadi.",
+  "hogwash": "Yog'lar haqidagi ba'zi sog'liq da'volari mutlaqo bema'nilik.",
+  "knock out": "Foydalilik jihatidan zaytun moyi raqiblarini ortda qoldiradi.",
+  "polyunsaturated": "Kungaboqar yog'ida ko'p to'yinmagan yog'lar bor.",
+  "roasting": "Zaytun moyi sabzavotlarni duxovkada pishirish uchun yaxshi.",
+  "sesame oil": "Kunjut yog'i Xitoy va Koreya oshxonasida ko'p ishlatiladi.",
+  "spend on": "O'simlik yog'iga qancha pul sarflaysiz?",
+  "spending money": "Qimmat yog'lar siz sarflaydigan pulga arzimaydi.",
+  "sunflower": "Kungaboqar dalalari yog'i uchun yetishtiriladi.",
+  "sunflower oil": "Kungaboqar yog'i arzon va qovurish uchun ommabop.",
+  "wok": "Sabzavotlarni qizdirilgan vokda qovuring."
  }
 });

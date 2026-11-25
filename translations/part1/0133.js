@@ -1,4 +1,4 @@
-// Part 1 topic 0133: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0133: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0133', {
  "A1": {
   "absorbent": "Sochiq suvni yaxshi shimadi.",
@@ -245,5 +245,46 @@ VOCAB_TR_STORE('1', '0133', {
   "unclean": "Hayz ko'rayotgan ayollar nopok degan e'tiqodlar ularni oshxonalar, ibodatxonalar va hatto maktablardan chetlatishga olib keladi.",
   "vagina": "Tibbiyot mutaxassislari qinning o'z-o'zini tozalashini va hech qanday maxsus vositalarga muhtoj emasligini ta'kidlaydi.",
   "wash": "Suv tanqis bo'lgan lagerlarda qayta foydalaniladigan mahsulotlarni gigiyenik tarzda yuvish imkoniyatini o'z-o'zidan bor deb hisoblab bo'lmaydi."
+ },
+ "EX": {
+  "absorbent": "Prokladkaning ichki qatlami juda yaxshi suyuqlik shimadigan bo'lishi kerak.",
+  "barely": "Ko'plab oilalar gigiyena vositalari u yoqda tursin, oziq-ovqatga ham zo'rg'a pul topadi.",
+  "chat away": "Ayollar tikish asnosida tinmay gaplashib o'tirishadi.",
+  "cotton": "Paxtadan tayyorlangan prokladkalar yumshoq va qulay.",
+  "curtain": "Prokladka yasash uchun eski pardalardan ham qayta foydalanish mumkin.",
+  "donate": "Odamlar loyihaga eski choyshab va matolarni hadya qilishadi.",
+  "fabric": "Hadya qilingan mato bichilib, prokladka qilib tikiladi.",
+  "flee": "Ko'plab oilalar urush sababli uylarini tashlab qochishga majbur bo'ldi.",
+  "fleece": "Bir qatlam flis prokladkadan suyuqlik o'tib ketishining oldini oladi.",
+  "go about": "Prokladkasiz ko'plab qizlar kundalik hayotini odatdagidek davom ettira olmaydi.",
+  "mean up": "Hayz qashshoqligi har oy bir haftagacha maktab qoldirilishini anglatishi mumkin.",
+  "menstrual": "Hayz salomatligi umumiy salomatlikning muhim qismidir.",
+  "menstrual blood": "Prokladkalar hayz qonini shimib olish uchun mo'ljallangan.",
+  "menstruate": "Dunyo aholisining qariyb yarmi hayotining qaysidir davrida hayz ko'radi.",
+  "menstruation": "Hayz ko'rish ko'pchilik ayollar har oy boshidan kechiradigan tabiiy jarayondir.",
+  "natural process": "Hayz ko'rish tabiiy jarayon, bundan uyalishning hojati yo'q.",
+  "needle": "Sizga faqat igna, ozgina ip va bir oz mato kerak bo'ladi.",
+  "pad": "Ko'ngillilar eski matodan yuviladigan prokladkalar tikishadi.",
+  "piece of material": "Har bir prokladka bir-biriga tikilgan bir necha bo'lak matodan tayyorlanadi.",
+  "present moment": "Ayni paytda guruh haftasiga yuzga yaqin prokladka tayyorlaydi.",
+  "refugee": "Ko'plab qochqin ayollarning gigiyena vositalari uchun puli yo'q.",
+  "repeatedly": "Qayta ishlatiladigan prokladkalarni qayta-qayta yuvib ishlatish mumkin.",
+  "reproductive": "Hayz ayollar reproduktiv tizimining bir qismidir.",
+  "reusable": "Qayta ishlatiladigan prokladkalar pulni tejaydi va chiqindini kamaytiradi.",
+  "sanitary": "Ko'plab qizlar gigiyena vositalarini sotib olishga qurbi yetmaydi.",
+  "scarcely": "Ba'zi lagerlarda toza suv deyarli yo'q.",
+  "sew": "U boshqa ayollar uchun prokladka tayyorlash maqsadida tikishni o'rgandi.",
+  "sewing": "Ko'ngillilar qayta ishlatiladigan prokladkalar tayyorlash uchun tikuvchilik mahoratidan foydalanadi.",
+  "sewing machine": "Guruh yig'ilgan pulga yangi tikuv mashinasi sotib oldi.",
+  "sheet": "Prokladka yasash uchun eski choyshablarni qirqib olish mumkin.",
+  "soak": "Prokladkalarni yuvishdan oldin sovuq suvga solib ivitib qo'ying.",
+  "soak up": "Paxta qatlamlari qonni shimib oladi.",
+  "tampon": "Ba'zi ayollar tamponni, boshqalari esa prokladkani afzal ko'radi.",
+  "ten": "Ba'zi qizlar hayz tufayli o'n kungacha maktabni qoldiradi.",
+  "to date": "Hozirgacha ko'ngillilar o'n mingdan ortiq prokladka tayyorlashdi.",
+  "typically": "Hayz odatda uch kundan yetti kungacha davom etadi.",
+  "unclean": "Ba'zi joylarda ayollar hayz paytida noto'g'ri ravishda nopok deb hisoblanadi.",
+  "vagina": "Hayz paytida qon tanadan qin orqali chiqadi.",
+  "wash": "Qayta ishlatiladigan prokladkalar ishlatilgandan keyin ehtiyotkorlik bilan yuvilishi kerak."
  }
 });

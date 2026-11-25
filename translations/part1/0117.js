@@ -1,4 +1,4 @@
-// Part 1 topic 0117: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0117: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0117', {
  "A1": {
   "Victor": "Victor fermer.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0117', {
   "thumbnail": "Bosh barmoq tirnog'idan katta bo'lmagan jonzotlarning olti tonnalik hayvonni to'xtata olishi ajoyib kinoyadir.",
   "way of life": "Chorvador jamoalar uchun chorva shunchaki daromad emas, balki butun bir turmush tarzidir.",
   "weigh": "Bir necha tonna og'irlikdagi hayvon to'siqni xuddi qog'ozdan qilingandek yer bilan yakson qilishi mumkin."
+ },
+ "EX": {
+  "Victor": "Viktor fillarni uzoqda tutish uchun fermerlar bilan ishlaydi.",
+  "angrily": "To'siq qimirlaganda asalarilar g'azab bilan uchib chiqadi.",
+  "beehive": "Ferma atrofidagi to'siqqa asalari uyalari osilgan.",
+  "break into": "Fillar ekinlarni yeyish uchun fermalarga bostirib kiradi.",
+  "deer": "Kiyiklar ba'zan fermerlarning ekinlarini yeb qo'yadi.",
+  "defend": "Fermerlar ekinlarini fillardan himoya qilishga harakat qilishadi.",
+  "fence": "Fermerlar fillarni to'xtatish uchun asalari uyalari bilan to'siqlar qurishadi.",
+  "fully grown": "To'liq voyaga yetgan fil juda kuchli bo'ladi.",
+  "honey": "Fermerlar asalari uyalaridan olingan asalni ham sotishlari mumkin.",
+  "install": "Loyiha fermalar atrofiga asalari uyali to'siqlar o'rnatadi.",
+  "kilogram": "Fil kuniga yuzlab kilogramm oziq yeyishi mumkin.",
+  "maize": "Fillar makkajo'xori yeyishni juda yaxshi ko'radi.",
+  "officer": "Yovvoyi tabiatni muhofaza qilish xodimi fermerlarga yordam beradi.",
+  "pasture": "Fillar va qoramollar ba'zan bitta yaylovdan foydalanishadi.",
+  "prize": "Sayyohlar fillarni juda qadrlaydi, lekin fermerlar har doim ham emas.",
+  "raid": "Fillarning hujumi fermerning butun hosilini yo'q qilishi mumkin.",
+  "rainy season": "Yomg'irli mavsumda, ekinlar o'sayotgan paytda, fillar fermalarga ko'proq bostirib kiradi.",
+  "ranch": "Chorvachilik fermasi milliy bog'ga yaqin joylashgan.",
+  "rub": "Fillar daraxt va to'siqlarga badanini ishqalaydi.",
+  "stumble": "Fillar ba'zan tasodifan oziq-ovqatga to'la fermalarga duch kelib qolishadi.",
+  "thumbnail": "Asalarilar bosh barmoq tirnog'idek kattalikda, lekin fillar ulardan qo'rqadi.",
+  "way of life": "Dehqonchilik bu jamoalar uchun turmush tarzidir.",
+  "weigh": "Voyaga yetgan filning vazni olti ming kilogrammdan oshishi mumkin."
  }
 });

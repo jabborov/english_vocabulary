@@ -1,4 +1,4 @@
-// Part 1 topic 0339: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0339: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0339', {
  "A1": {
   "affirm": "U o'z sevgisini tasdiqladi.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0339', {
   "scientific method": "Qat'iy qo'llanilganda ilmiy usul hatto eng taxminiy gipotezalarni ham tekshira oladi.",
   "technologically": "Texnologik jihatdan rivojlangan tsivilizatsiya biz tasavvur qilganimizdan ancha tezroq yo'q bo'lib ketishi mumkin.",
   "vanish": "Geologik vaqt davomida tsivilizatsiyaning deyarli barcha izlari sayyora yuzasidan yo'q bo'lib ketadi."
+ },
+ "EX": {
+  "affirm": "Tadqiqotchilar bunday sivilizatsiya mavjud bo'lganini tasdiqlamadilar.",
+  "astrophysicist": "Astrofizik bizdan oldin boshqa sivilizatsiya mavjud bo'lgan bo'lishi mumkinmi, degan savolni o'rtaga tashladi.",
+  "blink of an eye": "Insoniyat tarixi ko'z ochib yumguncha o'tgan bir lahzadir.",
+  "consensus": "Ilmiy konsensusga ko'ra, odamlar birinchi sivilizatsiya bo'lgan.",
+  "contradict": "Hech qanday dalil ilmiy konsensusga zid emas.",
+  "drop down": "Hayratdan jag'im osilib qoldi.",
+  "fossilised": "Toshga aylangan suyaklar qadimgi hayvonlar haqida ma'lumot beradi.",
+  "fraction": "Odamlar Yer tarixining juda kichik bir qismidagina mavjud bo'lgan.",
+  "geological time": "Geologik vaqt miqyosida odamlar juda yaqinda paydo bo'lgan.",
+  "geology": "Geologiya bizga Yer tarixi haqida so'zlab beradi.",
+  "jaw": "Bu g'oyadan og'zim ochilib qoldi.",
+  "objection": "Ba'zi olimlar bu g'oyaga e'tiroz bildirishdi.",
+  "prehistoric": "Biz tarixdan oldingi hayvonlar haqida qazilmalardan bilib olamiz.",
+  "push back": "Boshqa mutaxassislar bu nazariyaga qarshi chiqishdi.",
+  "scientific method": "Ilmiy uslub bizga g'alati g'oyalarni sinab ko'rishga yordam beradi.",
+  "technologically": "Bizdan oldin texnologik jihatdan rivojlangan jamiyat yashagan bo'lishi mumkinmi?",
+  "vanish": "Butun boshli sivilizatsiyalar izsiz yo'q bo'lib ketishi mumkin."
  }
 });

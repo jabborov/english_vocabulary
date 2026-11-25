@@ -1,4 +1,4 @@
-// Part 1 topic 0414: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0414: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0414', {
  "A1": {
   "Beijing": "Pekin Xitoyda joylashgan.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0414', {
   "racing": "Ko'chada poyga qilish, xoh ikki g'ildirakda, xoh to'rt g'ildirakda bo'lsin, yo'ldagi hammani xavf ostiga qo'yadi.",
   "spoke": "Kichik to'qnashuv orqa g'ildirakni egib, bir nechta kegaychasini sindirib yubordi.",
   "stretchy": "Cho'ziluvchan, tanaga yopishib turadigan kiyim tajovuzkor velosipedchi-yo'lovchining ramziga aylandi."
+ },
+ "EX": {
+  "Beijing": "Pekin bir paytlar millionlab velosipedlari bilan mashhur edi.",
+  "Jan": "Jan ob-havo qanday bo'lishidan qat'i nazar, har kuni ishga velosipedda boradi.",
+  "abreast": "Velosipedchilar ba'zan ikki qator yonma-yon haydashadi.",
+  "battalion": "Har kuni ertalab ko'prik ustidan butun bir batalyon velosipedchilar o'tib borardi.",
+  "comedy": "Velosipedchi va haydovchi o'rtasidagi janjal komediyadagi sahnaga o'xshardi.",
+  "drove": "Odamlar to'da-to'da bo'lib velosiped haydashga kirishmoqda.",
+  "dusk": "Velosipedchilar shom tushganda chiroqlarini yoqishlari kerak.",
+  "gladiator": "Londonda velosiped haydash o'zingizni gladiatordek his qilishingizga sabab bo'lishi mumkin.",
+  "go to war": "Ba'zan velosipedchilar va haydovchilar bir-biriga qarshi urush boshlagandek tuyuladi.",
+  "idiot": "Haydovchi velosipedchiga \"Ahmoq!\" deb baqirdi.",
+  "military unit": "Velosipedchilar transport oqimi orasidan xuddi harbiy qismdek harakatlanishdi.",
+  "mode": "Velosiped eng arzon transport turidir.",
+  "motorist": "Ba'zi haydovchilar velosipedchilarga yetarlicha joy qoldirmaydi.",
+  "racing": "Ba'zi velosipedchilar xuddi poygada qatnashayotgandek haydashadi.",
+  "spoke": "Old g'ildiragimning kegaylaridan biri singan.",
+  "stretchy": "Ko'plab velosipedchilar cho'ziluvchan likra kiyimlarini kiyishadi."
  }
 });

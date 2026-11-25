@@ -1,4 +1,4 @@
-// Part 1 topic 0129: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0129: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0129', {
  "A1": {
   "apartment": "Men kvartirada yashayman.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0129', {
   "together with": "Taom suhbat bilan birgalikda shahar hayoti zaiflashtirgan rishtalarni qayta tiklay oladi.",
   "tragic": "Gavjum shaharlarda odamlar hech kim sezmagan holda yolg'iz o'lib ketishi mumkinligi fojiali holdir.",
   "unconnected": "Paradoks shundaki, odamlar raqamli tarzda minglab kishilar bilan bog'langan bo'lsa ham, o'zlarini mutlaqo yolg'iz va aloqasiz his qilishlari mumkin."
+ },
+ "EX": {
+  "apartment": "U kichkina kvartirada yolg'iz yashaydi.",
+  "crave": "Yolg'iz odamlar hamroh bo'lishni juda qo'msaydi.",
+  "disconnected": "Yolg'iz yashash odamlarni o'zini jamiyatdan ajralib qolgandek his qildirishi mumkin.",
+  "epidemic": "Ba'zi mutaxassislar yolg'izlik epidemiyasi haqida gapirishadi.",
+  "exclude": "Sho'rva kechalaridan hech kim chetlatilmaydi.",
+  "free time": "U bo'sh vaqtini boshqalar uchun ovqat pishirishga sarflaydi.",
+  "grandma": "Unga sho'rva tayyorlashni buvisi o'rgatgan.",
+  "hometown": "U o'z ona shahridan uzoqqa ko'chib ketib, o'zini yolg'iz his qildi.",
+  "intensely": "Shaharga ko'chib kelganidan keyin u o'zini qattiq yolg'iz his qildi.",
+  "keep to oneself": "U uyatchan va odatda hech kim bilan aralashmaydi.",
+  "leave out": "Keksa odamlar o'zlarini jamiyat hayotidan chetda qolgandek his qilishi mumkin.",
+  "leisure time": "U bo'sh vaqtini qo'shnilari bilan o'tkazadi.",
+  "reach out": "Yolg'iz qo'shnilarga yordam qo'lini cho'zish muhim.",
+  "sometime": "Qachondir birga sho'rva ichaylik.",
+  "spark": "Bir kosa sho'rva suhbat boshlanishiga turtki bo'lishi mumkin.",
+  "together with": "U qo'shnilari bilan birga sho'rva pishiradi.",
+  "tragic": "Shuncha odam o'zini yolg'iz his qilayotgani fojiali.",
+  "unconnected": "Katta shaharlardagi ko'p odamlar o'zlarini boshqalardan uzilib qolgandek his qiladi."
  }
 });

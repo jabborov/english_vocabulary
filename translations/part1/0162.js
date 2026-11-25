@@ -1,4 +1,4 @@
-// Part 1 topic 0162: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0162: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0162', {
  "A1": {
   "cool off": "Keling, salqinlab olaylik.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0162', {
   "take care": "Uning fikricha, nikohga g'amxo'rlik qilish har qanday boshqa uzoq muddatli loyiha kabi ongli sa'y-harakatni talab qiladi.",
   "trapped": "Moliyaviy qaramlik nikoh buzilganidan keyin ham uzoq vaqt sherikni o'zini tuzoqqa tushgandek his qilishiga sabab bo'lishi mumkin.",
   "unresolvable": "Tadqiqotlarga ko'ra, er-xotin o'rtasidagi nizolarning qariyb uchdan ikki qismini amalda hal qilib bo'lmaydi."
+ },
+ "EX": {
+  "cool off": "Janjaldan keyin biroz vaqt ajratib, hovuridan tushish foydali.",
+  "counsellor": "Er-xotin oilaviy maslahatchiga borishdi.",
+  "divorce": "Ajrashish butun oila uchun juda og'riqli tajriba bo'lishi mumkin.",
+  "divorce lawyer": "Er-xotinning har biri ajrashish bo'yicha advokat yolladi.",
+  "enforce": "Ba'zi davlatlar ajrashishdan oldin majburiy kutish muddatini joriy qiladi.",
+  "intervene": "Hukumat ajrashishning oldini olish uchun aralashishi kerakmi?",
+  "invariably": "Ajrashish ishlarida pul haqidagi bahslar muqarrar ravishda ko'tariladi.",
+  "lawyer": "Biror narsaga imzo chekishdan oldin advokat bilan gaplashib olishingiz kerak.",
+  "marina": "Ular marinadagi qayiqda yashashadi.",
+  "married": "Ular yigirma yildan beri turmush qurishgan.",
+  "married couple": "Maslahatchi muammolarga duch kelgan er-xotinlarga yordam beradi.",
+  "reverse": "Munosabatlar buzila boshlagach, uni ortga qaytarish qiyin bo'lishi mumkin.",
+  "satisfactory": "Ular muammolariga qoniqarli yechim topa olishmadi.",
+  "take care": "Er-xotinlar faqat farzandlari haqida emas, o'zaro munosabatlari haqida ham g'amxo'rlik qilishlari kerak.",
+  "trapped": "Ba'zi odamlar baxtsiz nikohda tuzoqqa tushib qolgandek his qilishadi.",
+  "unresolvable": "Er-xotinlar o'rtasidagi ba'zi bahslarni hal qilib bo'lmaydi."
  }
 });

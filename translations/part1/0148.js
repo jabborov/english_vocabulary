@@ -1,4 +1,4 @@
-// Part 1 topic 0148: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0148: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0148', {
  "A1": {
   "additionally": "Bundan tashqari, u arzon.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0148', {
   "wade": "Botqoqlikda tizzagacha suvga botib borar ekan, tadqiqotchilar ifloslangan suvdan namunalar yig'ishdi.",
   "wade through": "Olimlar o'n yillik adabiyotlarni mashaqqat bilan titkilab chiqish o'rniga endi tegishli topilmalarni algoritmlarga topdirishlari mumkin.",
   "welfare": "Inson xavfsizligi va hayvonlar farovonligi o'rtasida muvozanat saqlash biotibbiyot etikasidagi eng chigal muammolardan biri bo'lib qolmoqda."
+ },
+ "EX": {
+  "additionally": "Bundan tashqari, sun'iy intellekt yordamidagi sinovlar arzonroq va tezroq.",
+  "al": "Sun'iy intellekt kimyoviy moddaning zaharli ekanligini hayvonlarda sinamasdan ham oldindan aytib bera oladi.",
+  "antibiotic": "Ko'plab antibiotiklar odamlarda qo'llanilishidan oldin hayvonlarda sinab ko'rilgan.",
+  "aspirin": "Aspirin ba'zi hayvonlar uchun zaharli, ammo ko'pchilik odamlar uchun xavfsiz.",
+  "ensure": "Mahsulotlar xavfsiz ekanligini ta'minlash uchun sinovlar kerak.",
+  "guinea": "Dengiz cho'chqasi nima uchun bunday atalishini hech kim aniq bilmaydi.",
+  "guinea pig": "Bir paytlar dorilarni sinash uchun dengiz cho'chqalaridan keng foydalanilgan.",
+  "ineffective": "Hayvonlarda samara beradigan ko'plab dorilar odamlarda samarasiz bo'lib chiqadi.",
+  "limitation": "Hayvonlar ustida sinov o'tkazishning jiddiy cheklovlari bor.",
+  "mouse": "Yangi dori avval sichqonlarda sinab ko'rildi.",
+  "precision": "Sun'iy intellekt zaharlilikni juda yuqori aniqlik bilan bashorat qildi.",
+  "rat": "Laboratoriya tajribalarida ko'pincha kalamushlardan foydalaniladi.",
+  "step forward": "Hayvonlar o'rniga sun'iy intellektdan foydalanish katta qadam oldinga.",
+  "testing": "Yangi dorilar xavfsizligini tekshirish uchun hamon hayvonlar ustida sinovlar o'tkaziladi.",
+  "toxicology": "Toksikologiya kimyoviy moddalar tirik organizmlarga qanday zarar yetkazishini o'rganuvchi fandir.",
+  "vice versa": "Ba'zi dorilar hayvonlar uchun xavfsiz, ammo odamlar uchun zararli, va aksincha.",
+  "wade": "Biz daryoni kechib o'tishimizga to'g'ri keldi.",
+  "wade through": "Sun'iy intellekt millionlab yozuvlarni soniyalar ichida ko'zdan kechirib chiqa oladi.",
+  "welfare": "Hayvonlar farovonligini himoya qiluvchi guruhlar tadqiqotlarda sun'iy intellektdan foydalanishni qo'llab-quvvatlaydi."
  }
 });

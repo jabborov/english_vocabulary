@@ -1,4 +1,4 @@
-// Part 1 topic 0462: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0462: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0462', {
  "A1": {
   "avian": "\"Avian\" qushlarga oid degan ma'noni bildiradi.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0462', {
   "stall": "Rasta ustidagi kurash shahar o'zgarishlari haqidagi kengroq xavotirlarning ramziga aylandi.",
   "thoroughfare": "Bir paytlar sokin ko'cha bo'lgan bu yer butiklar qator tizilgan gavjum, zamonaviy ko'chaga aylandi.",
   "undergo": "Gentrifikatsiyani boshdan kechirayotgan hududlarda ko'pincha eski va yangi aholi o'rtasida keskinlik kuzatiladi."
+ },
+ "EX": {
+  "avian": "Kabutarlar va boshqa qanotli mehmonlar rasta atrofida to'planishdi.",
+  "city council": "Shahar kengashi kolbasa rastasi masalasini muhokama qildi.",
+  "come up to": "Yangi restoranlar eski rastaga yetolmaydi.",
+  "croissant": "Yangi kafe qahva va kruassan sotadi.",
+  "elegant": "Endi ko'cha bo'ylab nafis do'konlar qator tizilgan.",
+  "exclusively": "Rastada faqat kolbasa sotiladi.",
+  "foreboding": "Rasta egasining ko'ngliga yomon bir narsa sezilib turardi.",
+  "gastric": "Juda ko'p yog'li ovqat oshqozon muammolariga sabab bo'lishi mumkin.",
+  "gentrification": "Gentrifikatsiya hududdagi ijara narxlarini oshirib yubordi.",
+  "gentrify": "So'nggi o'n yil ichida tuman gentrifikatsiyaga uchradi.",
+  "greasy": "Kolbasalar issiq va yog'li edi.",
+  "hot dog": "U xantal qo'shilgan hot-dog sotib oldi.",
+  "hung": "Havoda kolbasa hidi anqib turardi.",
+  "in the main": "Asosan odamlarga kolbasa rastasi yoqadi.",
+  "main road": "Rasta katta yo'lning naq yonida joylashgan.",
+  "main street": "Rasta asosiy ko'chada joylashgan.",
+  "metropolis": "Berlin gavjum megapolisdir.",
+  "mustard": "Kolbasangizga xantal qo'shaymi?",
+  "overflow": "Navbat ko'chaga toshib chiqdi.",
+  "salubrious": "Hudud ancha obod va yashash uchun qulay bo'lib qoldi.",
+  "sizzling": "Jizillab qovurilayotgan kolbasalar havoni o'z hidi bilan to'ldirdi.",
+  "smartene up": "Shahar kengashi ko'chaga ozoda va chiroyli tus bermoqchi.",
+  "stall": "Kolbasa rastasi u yerda o'nlab yillardan beri turibdi.",
+  "thoroughfare": "Rasta gavjum ko'chada turibdi.",
+  "undergo": "Hudud juda katta o'zgarishlarni boshdan kechirdi."
  }
 });

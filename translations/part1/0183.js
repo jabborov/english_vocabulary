@@ -1,4 +1,4 @@
-// Part 1 topic 0183: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0183: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0183', {
  "A1": {
   "determination": "Uning qat'iyati juda kuchli.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0183', {
   "milkshake": "Oddiy sutli kokteyl xorijda Amerika iste'mol madaniyatining ramziga aylandi.",
   "presenting": "Yaxshi taqdimot murakkab tarixni tinglovchilar uchun oson tushunarli qiladi.",
   "reception": "Xorijiy brendning qanday qabul qilinishi uning mahalliy didga moslashishi yoki o'z didini majburlashiga bog'liq."
+ },
+ "EX": {
+  "determination": "Uning qat'iyati kichik bir restoranni global tarmoqqa aylantirdi.",
+  "edit": "U tezkor taomlar tarixi haqidagi kitobni tahrir qildi.",
+  "frosty": "Yevropadagi ilk fast-fud restoranlari sovuq kutib olindi.",
+  "go wrong": "Chet elda burger bar ochishga qilingan har bir urinish ham silliq kechmadi — ba'zilari butunlay barbod bo'ldi.",
+  "milkshake": "U burger, kartoshka fri va shokoladli milkosheyk buyurtma qildi.",
+  "presenting": "U ko'p yillardan beri radioda boshlovchilik qilib keladi.",
+  "reception": "Fast-fud Fransiyaga ilk bor kirib kelganida turlicha qabul qilindi."
  }
 });

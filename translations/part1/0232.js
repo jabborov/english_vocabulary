@@ -1,4 +1,4 @@
-// Part 1 topic 0232: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0232: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0232', {
  "A1": {
   "advisory": "Uning ishi maslahat berish.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0232', {
   "suited": "Har bir usul har bir mijozga birdek mos kelmaydi, shuning uchun yagona yondashuv hamma uchun ish bermaydi.",
   "tense": "Hatto bir necha daqiqalik ongli nafas olish ham stressli kun davomida to'planadigan taranglashgan muskullarni bo'shashtirishi mumkin.",
   "think back": "Xatolarni cheksiz qayta-qayta eslab o'ylash onglilik amaliyoti yo'q qilishni maqsad qilgan odatlardan biridir."
+ },
+ "EX": {
+  "advisory": "U maktablardagi ruhiy salomatlik masalalari bo'yicha maslahat guruhi a'zosi.",
+  "chap": "U ofis xodimlariga ongli hozirlikni o'rgatadigan yoqimli yigit.",
+  "chill": "Bugun kechqurun shunchaki uyda dam olamiz.",
+  "chill out": "Uzun kundan keyin shunchaki dam olib, bo'shashishim kerak.",
+  "detailed": "Tadqiqot ongli hozirlik stressga qanday ta'sir qilishi haqida batafsil manzara beradi.",
+  "finish up": "Men xavotirlana boshladim va oxir-oqibat o'zimni yanada yomonroq his qildim.",
+  "in private": "Ongli hozirlik amaliyotini uyda yolg'iz o'zingiz bajarishingiz mumkin.",
+  "meditate": "U har kuni ertalab o'n daqiqa meditatsiya qiladi.",
+  "mindful": "Bir necha daqiqa davomida nafas olishingizni ongli ravishda kuzatishga harakat qiling.",
+  "mindfully": "Har bir ta'm va tuzilishni sezgan holda ongli ravishda ovqatlanib ko'ring.",
+  "mindfulness": "Hozir ba'zi maktablarda ongli hozirlik amaliyoti o'rgatiladi.",
+  "once in a while": "Ahyon-ahyonda yolg'iz o'zim sokin sayrga chiqaman.",
+  "panicked": "Vahimaga tushganimda nafas olishimga e'tibor qarataman.",
+  "present tense": "Ongli hozirlik amaliyoti go'yo hozirgi zamonda yashashga o'xshaydi.",
+  "primary school": "Ba'zi boshlang'ich maktablar bolalarga oddiy ongli hozirlik mashqlarini o'rgatadi.",
+  "relaxation": "Ongli hozirlik shunchaki dam olish emas — bu diqqatni jamlash demakdir.",
+  "secular": "Maktablarda o'rgatiladigan ongli hozirlik amaliyoti diniy emas, dunyoviy xarakterga ega.",
+  "suited": "Ongli hozirlik amaliyoti hammaga ham to'g'ri kelavermaydi.",
+  "tense": "Asabiylashganimda bir necha marta sekin nafas olish tinchlanishimga yordam beradi.",
+  "think back": "O'zingizni chinakam xotirjam his qilgan paytingizni eslang."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0158: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0158: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0158', {
  "A1": {
   "adjustment": "Men bir tuzatish kiritdim.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0158', {
   "trial and error": "Notanish oziq-ovqat madaniyatiga moslashish asosan sinov va xatolar jarayonidir.",
   "tweak": "Tanish retseptlarga kiritilgan kichik o'zgartirishlar muhojirlarga sog'lomroq ovqatlangan holda o'z merosini saqlab qolish imkonini beradi.",
   "well out": "O'zlari ko'nikkan muhitdan ancha uzoqda bo'lgani uchun ko'plab muhojirlar dastlab tanish taomlarga qaytishadi."
+ },
+ "EX": {
+  "adjustment": "Yangi mamlakatga ko'chib o'tish ko'p moslashishni talab qiladi.",
+  "by trial and error": "U Britaniya taomlarini pishirishni sinov va xatolar orqali o'rgandi.",
+  "comfort zone": "Yangi taomni tatib ko'rish o'zingizga qulay muhitdan chiqishni anglatadi.",
+  "dietitian": "Dietolog migrantlarga yangi mamlakatda sog'lom oziq-ovqat topishda yordam beradi.",
+  "in for": "U kechki ovqatda bunday kutilmagan holatga duch kelishini bilmagan edi.",
+  "integral": "Oziq-ovqat har qanday madaniyatning ajralmas qismidir.",
+  "replacement": "U topa olmagan masalliqlariga muqobil izladi.",
+  "scone": "Murabbo va qaymoq bilan yeyiladigan skonlar u uchun yangi tajriba bo'ldi.",
+  "sunny": "U quyoshli vatanining yangi mevalarini sog'inardi.",
+  "to be sure": "To'g'ri, avvaliga taomlar g'alati tuyuldi, lekin keyinchalik u ularni yaxshi ko'rib qoldi.",
+  "toad": "\"Toad in the hole\" - kolbasa bilan tayyorlanadigan an'anaviy Britaniya taomi.",
+  "trial and error": "Yangi masalliqlar bilan ovqat pishirishni o'rganish ko'plab sinov va xatolarni o'z ichiga oladi.",
+  "tweak": "U mahalliy masalliqlardan foydalanish uchun oilaviy retseptlariga biroz o'zgartirish kiritdi.",
+  "well out": "Yangi mamlakatga ko'chib o'tish uni o'ziga qulay muhitdan ancha uzoqlashtirdi."
  }
 });

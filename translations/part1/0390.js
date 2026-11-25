@@ -1,4 +1,4 @@
-// Part 1 topic 0390: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0390: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0390', {
  "A1": {
   "bathroom": "Hammom qayerda?",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0390', {
   "research out": "Barcha imkoniyatlarni sinchiklab o'rganib chiqqach, u mikrokvartira o'zi uchun yagona hamyonbop tanlov degan xulosaga keldi.",
   "stove": "Faqat ikki konforkali plita bilan murakkab taomlar tayyorlash rejalashtirish mashqiga aylanadi.",
   "television set": "Bunchalik kichik joyda hatto televizor ham ustuvorliklar masalasiga aylanadi."
+ },
+ "EX": {
+  "bathroom": "Kichkina kvartiraning hammomida dush bor, lekin vanna yo'q.",
+  "belonging": "Kichkina kvartirasiga sig'ishi uchun u ko'plab buyumlaridan qutulishga majbur bo'ldi.",
+  "best seller": "Uning kichkina uyda yashash haqidagi kitobi eng ko'p sotilgan kitobga aylandi.",
+  "halogen": "Kichkina oshxonada kichik galogen plita bor.",
+  "lamp": "Kichkina xonani kichik chiroq yoritib turardi.",
+  "living space": "Kvartiraning yashash maydoni atigi o'n kvadrat metr.",
+  "ornament": "Kichkina kvartirada bezak buyumlari uchun joy yo'q.",
+  "renovation": "Ta'mirlash natijasida eski garaj kichkina uyga aylandi.",
+  "research out": "U joyni tejashning eng yaxshi usullarini o'rganib chiqdi.",
+  "stove": "Kichkina oshxonada faqat kichik plita bor.",
+  "television set": "Kichkina kvartirada televizor uchun joy yo'q edi."
  }
 });

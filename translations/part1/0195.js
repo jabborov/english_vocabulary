@@ -1,4 +1,4 @@
-// Part 1 topic 0195: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0195: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0195', {
  "A1": {
   "Bhutan": "Butan kichik davlat.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0195', {
   "undamaged": "Kamdan-kam mamlakatlar o'zlarining tabiiy merosi rivojlanishdan bunchalik ko'p darajada zarar ko'rmay qolganini ayta oladi.",
   "unspoiled": "Butanning buzilmagan tabiati tasodif emas, balki ongli tabiatni muhofaza qilish siyosatining natijasidir.",
   "vibrant": "Mamlakatning jo'shqin ma'naviy an'analari faqat maxsus kunlarga atalmay, kundalik hayotga singib ketgan."
+ },
+ "EX": {
+  "Bhutan": "Butan faqat boyligini emas, xalqining baxtini ham o'lchaydi.",
+  "at any cost": "Butan har qanday narx evaziga iqtisodiy o'sishni istamaydi.",
+  "brain drain": "Yoshlar chet elga ketayotgani sababli Butan \"aql oqimi\" muammosiga duch kelmoqda.",
+  "briefly": "Yalpi milliy baxt nimani anglatishini qisqacha tushuntirib beray.",
+  "centre stage": "Butanda hukumat qarorlarida baxt markaziy o'rinni egallaydi.",
+  "colonised": "Butan hech qachon chet el davlati tomonidan mustamlaka qilinmagan.",
+  "economic growth": "Butan baxt iqtisodiy o'sishdan muhimroq deb hisoblaydi.",
+  "educated": "Ko'plab o'qimishli yoshlar chet elda ishlash uchun Butanni tark etmoqda.",
+  "hemisphere": "Ko'plab yosh butanliklar janubiy yarimshardagi Avstraliyaga ko'chib ketishmoqda.",
+  "intact": "Butan o'z madaniyati va o'rmonlarini asl holicha saqlab qolgan.",
+  "interactive": "Ba'zi Butan maktablarida baxt haqida interaktiv darslar o'tiladi.",
+  "modernise": "Butan an'analarini yo'qotmagan holda modernizatsiya qilishni xohlaydi.",
+  "spiritual": "Ma'naviy farovonlik Butanda baxtning muhim qismidir.",
+  "tho": "Bu baxtli mamlakat, ammo ko'plab yoshlar uni tark etmoqda.",
+  "undamaged": "Butan atrof-muhitini zarar ko'rmagan holda saqlashni xohlaydi.",
+  "unspoiled": "Butanda inson qo'li tegmagan tog'lar va o'rmonlar bor.",
+  "vibrant": "Butan rang-barang bayramlarga boy jo'shqin madaniyatga ega."
  }
 });

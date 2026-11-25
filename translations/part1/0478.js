@@ -1,4 +1,4 @@
-// Part 1 topic 0478: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0478: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0478', {
  "A1": {
   "academically": "U o'qishda yaxshi natijalarga erishadi.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0478', {
   "nervously": "Uyda stress ostida yashayotgan bolalar maktabda asabiy harakat qilishi va kattalarga ishonish qiyin bo'lishi mumkin.",
   "outwardly": "Tashqaridan quvnoq ko'rinadigan bolalar jiddiy qiyinchiliklarni yashirishi mumkin va o'qituvchilar buni osongina payqamay qolishi mumkin.",
   "school system": "Faqat maktab tizimini isloh qilish bilan oilaviy qashshoqlikdan kelib chiqadigan muammolarni hal qilib bo'lmaydi."
+ },
+ "EX": {
+  "academically": "Kambag'alroq bolalar ko'pincha o'qishda qiynaladi.",
+  "aimlessly": "Ba'zi o'smirlar ko'chalarda maqsadsiz sang'ib yurishadi.",
+  "disadvantaged": "Kam ta'minlangan oilalardan chiqqan bolalar ko'pincha maktabda yomonroq o'qiydi.",
+  "fidgety": "Och bolalar darsda tinch o'tira olmay qolishi mumkin.",
+  "nervously": "Qiz o'qituvchisiga xavotir bilan qaradi.",
+  "outwardly": "Tashqi ko'rinishdan u baxtli tuyulardi, lekin uyda qiynalayotgan edi.",
+  "school system": "Maktab tizimi boy-kambag'al, har bir bolaga yordam berishi kerak."
  }
 });

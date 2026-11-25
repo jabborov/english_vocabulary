@@ -1,4 +1,4 @@
-// Part 1 topic 0050: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0050: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0050', {
  "A1": {
   "appliance": "Bu jihoz yangi.",
@@ -239,5 +239,45 @@ VOCAB_TR_STORE('1', '0050', {
   "tycoon": "Biror magnat aktivni qo'llab-quvvatlasa, narxlar faqat kayfiyat ta'sirida o'zgarishi mumkin.",
   "working out": "Bunday hisob-kitoblar ortidagi mulohazalar energiya narxlari haqidagi ko'plab taxminlarga tayanadi.",
   "yearly": "Tarmoqning yillik uglerod izi unga qarshi asosiy dalilga aylandi."
+ },
+ "EX": {
+  "appliance": "Maishiy texnikadan foydalanmayotganingizda ularni o'chirib qo'ying.",
+  "as much as possible": "U imkon qadar ko'proq pul jamg'armoqchi.",
+  "assess": "Sarmoya kiritishdan oldin xavflarni baholash muhim.",
+  "averse": "Men Bitcoin sotib olish uchun haddan tashqari tavakkaldan qochaman.",
+  "awe": "Ba'zi odamlar Bitcoin haqida hayrat bilan gapiradi.",
+  "bill": "Bitcoin qazuvchilarning elektr hisoblari juda katta.",
+  "billionaire": "Ba'zi milliarderlar Bitcoin sotib olgan.",
+  "colossal": "Bitcoin qazib olish ulkan miqdorda energiya sarflaydi.",
+  "cup": "Ba'zi odamlar har kuni bir piyola qahvaga sarmoyaga qaraganda ko'proq pul sarflaydi.",
+  "currency": "Bitcoin raqamli valyutadir.",
+  "expenditure": "Bitcoinning energiya sarfi juda katta.",
+  "fund": "Uning nafaqa uchun alohida jamg'armasi bor.",
+  "home appliance": "Bitcoin ba'zi mamlakatlardagi barcha maishiy texnikadan ko'ra ko'proq energiya sarflaydi.",
+  "initial": "Bitcoinning dastlabki narxi deyarli nolga teng edi.",
+  "inspiring": "Sarflanadigan energiya miqdori kishini hayratga soladi.",
+  "invest": "Siz Bitcoinga sarmoya kiritgan bo'larmidingiz?",
+  "investment": "Bitcoin xavfli sarmoyadir.",
+  "lottery": "Bitcoinni erta sotib olish lotereyada yutib olish bilan barobar edi.",
+  "mining": "Bitcoin qazib olish juda katta miqdorda elektr energiyasi sarflaydi.",
+  "monstrous": "Bitcoin qazib olish dahshatli darajada katta elektr hisobini keltirib chiqaradi.",
+  "objective": "Bitcoin haqida xolis bo'lish qiyin.",
+  "on the one hand": "Bir tomondan, Bitcoin sizni boy qilishi mumkin; boshqa tomondan esa, hamma narsangizdan ayrilishingiz mumkin.",
+  "pastry": "U har kuni ertalab qahva va pishiriq sotib oladi.",
+  "pension": "Pensiyangizni Bitcoin ta'minlaydimi?",
+  "pension plan": "Pulingizni pensiya rejasiga qo'yish xavfsizroq.",
+  "release": "Bitcoin 2009-yilda chiqarilgan.",
+  "retire": "U Bitcoin tufayli erta nafaqaga chiqishga umid qiladi.",
+  "retirement": "U nafaqa yoshi uchun pul jamg'aryapti.",
+  "rich": "Bitcoinga ilk sarmoya kiritganlarning ba'zilari juda boy bo'lib ketdi.",
+  "risk": "Pulingizni yo'qotib qo'yishingiz xavfi katta.",
+  "salary": "Ba'zi odamlar maoshlarini Bitcoinda to'lashni so'ragan.",
+  "standby": "Ko'plab televizorlar tun bo'yi kutish rejimida qoldiriladi.",
+  "the true": "Bitcoin qazib olishning haqiqiy narxini kam odam biladi.",
+  "ticket": "U lotereya chiptasini sotib oldi.",
+  "toe": "U oz miqdorda Bitcoin sotib olib, suvga bir oyog'ini tiqib ko'rdi.",
+  "tycoon": "Texnologiya sohasidagi bir magnat Bitcoinga milliardlab sarmoya kiritdi.",
+  "working out": "Uning hisob-kitobiga ko'ra, bitta bitcoin qazib olish minglab dollarlik elektr energiyasiga tushadi.",
+  "yearly": "Bitcoinning yillik energiya sarfi juda ulkan."
  }
 });

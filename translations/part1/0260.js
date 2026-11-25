@@ -1,4 +1,4 @@
-// Part 1 topic 0260: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0260: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0260', {
  "A1": {
   "allow for": "Tirbandlikni hisobga oling.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0260', {
   "regain": "Introvertlar muvozanatini qo'shimcha ta'sirotlar orqali emas, balki sokin mulohaza orqali tiklaydi.",
   "speak out": "Introvertlar kamroq gapirib chiqishlari mumkin, ammo gapirganda ularning fikrlari ko'pincha puxta o'ylangan bo'ladi.",
   "stay in": "Introvertlar uchun uyda qolishni tanlash baxtsizlik belgisi emas, balki kuch-quvvatni tiklash usulidir."
+ },
+ "EX": {
+  "allow for": "Yaxshi rahbarlar xarakterlardagi farqlarni inobatga oladi.",
+  "easier": "Introvertlar uchun katta guruh bilan emas, bir kishi bilan gaplashish osonroq.",
+  "illustrate": "Keling, introvertlar va ekstravertlar o'rtasidagi farqni misol bilan tushuntirib beray.",
+  "inner resource": "Introvertlar kuch to'plash uchun ichki imkoniyatlariga tayanadi.",
+  "internally": "Introvertlar ko'pincha gapirishdan oldin narsalarni ichida o'ylab ko'rishadi.",
+  "lie with": "Introvertlarning kuchli tomonlari ko'pincha tinglash va puxta fikrlashda namoyon bo'ladi.",
+  "overpower": "Yig'ilishlardagi baland ovozlar kamgap hamkasblarni bosib ketishi mumkin.",
+  "pairing": "Introvert va ekstravertning juftlikda ishlashi juda yaxshi natija berishi mumkin.",
+  "recharge": "Introvertlarga kuch to'plash uchun yolg'iz qolish vaqti kerak.",
+  "regain": "Introvertlar yolg'iz qolib, quvvatini qayta tiklaydi.",
+  "speak out": "Introvertlarga yig'ilishlarda o'z fikrini ochiq aytish qiyin bo'lishi mumkin.",
+  "stay in": "Introvertlar ko'pincha juma oqshomini uyda o'tkazishni afzal ko'radi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0278: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0278: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0278', {
  "A1": {
   "Owen": "Do'stimning ismi Owen.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0278', {
   "unseasonably": "Mavsumga xos bo'lmagan darajada iliq kelgan bir necha oy iqlim o'zgarishining eng yaqqol kundalik belgilaridan biri bo'lishi mumkin.",
   "usable": "Qurg'oqchilik kuchaygan sari dengiz suvini foydalanishga yaroqli chuchuk suvga aylantirish muhimroq bo'lib bormoqda.",
   "warm up": "Agar Arktika shu sur'atda isishda davom etsa, uning yozgi muzliklari butunlay yo'qolib ketishi mumkin."
+ },
+ "EX": {
+  "Owen": "Ouen iqlim o'zgarishi iqtisodiyotga qanday ta'sir qilishini tushuntirdi.",
+  "banking": "U bank sohasida ishlaydi.",
+  "banking system": "Iqlim o'zgarishi bank tizimiga bosim o'tkazishi mumkin.",
+  "desalination": "Chuchuklashtirish zavodlari dengiz suvini ichimlik suviga aylantiradi.",
+  "harvesting": "Yomg'ir suvini yig'ish tobora ommalashmoqda.",
+  "homegrown": "O'zingiz yetishtirgan sabzavotlarni iste'mol qilish oziq-ovqat tashish masofasini qisqartirishi mumkin.",
+  "ice cap": "Qutb muz qoplamlari erimoqda.",
+  "logistic": "Suvni qurg'oqchil hududlarga yetkazish katta logistik muammodir.",
+  "mitigate": "Iqlim o'zgarishi oqibatlarini yumshatish uchun hozirdan harakat qilishimiz kerak.",
+  "mitigation": "Iqlim o'zgarishini yumshatish issiqxona gazlari chiqindilarini kamaytirishni anglatadi.",
+  "rainwater": "Biz bog'ni sug'orish uchun yomg'ir suvini yig'amiz.",
+  "seawater": "Dengiz suvini ichib bo'lmaydi, chunki u juda sho'r.",
+  "unseasonably": "Bu qish mavsumga xos bo'lmagan darajada iliq keldi.",
+  "usable": "Chuchuklashtirish dengiz suvini foydalanishga yaroqli suvga aylantiradi.",
+  "warm up": "Sayyora olimlar kutganidan tezroq isib bormoqda."
  }
 });

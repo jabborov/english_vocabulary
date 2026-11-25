@@ -1,4 +1,4 @@
-// Part 1 topic 0427: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0427: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0427', {
  "A1": {
   "angle": "Unga shu burchakdan qarang.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0427', {
   "treasured": "Biror buyumni qadrli qiladigan narsa kamdan-kam hollarda uning bozor qiymati, aksincha, u bilan bog'liq hikoyalardir.",
   "urbanised": "Tez urbanizatsiyalashgan muhitda oilaviy meros buyumlar qishloq o'tmishi bilan bog'lovchi oz sonli rishtalardan biriga aylandi.",
   "utensil": "Oddiy ro'zg'or buyumlari ko'pincha jamiyat haqida uning ulug'vor yodgorliklaridan ko'ra ko'proq narsa aytib beradi."
+ },
+ "EX": {
+  "angle": "Fotograf oilaviy hayotga yangi nuqtai nazardan qaradi.",
+  "consumer goods": "Bugungi oilalar bobo-buvilariga qaraganda ancha ko'p iste'mol tovarlariga ega.",
+  "cooker": "Eski pechka oilaviy oshxonaning yuragi edi.",
+  "cooking utensil": "Oila katta buvisiga tegishli bo'lgan eski oshxona anjomini saqlab kelgan.",
+  "dusty": "Biz chordoqdan chang bosgan fotosuratlar qutisini topdik.",
+  "dwelling": "Qishloq uy-joylari oddiy bir qavatli binolar edi.",
+  "glimpse": "Fotosuratlar oddiy oilalar hayotiga bir nazar tashlash imkonini beradi.",
+  "make way": "Yangi yo'lga joy ochish uchun eski uylar buzildi.",
+  "rural area": "Qishloq joylaridagi ko'plab odamlar shaharlarga ko'chib o'tmoqda.",
+  "slipper": "Bobomning eski shippaklari hamon kursisi yonida turibdi.",
+  "snapshot": "Ko'rgazma bugungi Xitoydagi oilaviy hayotning qisqacha manzarasini taqdim etadi.",
+  "tear down": "Yangi kvartiralar qurish uchun eski uylar buzib tashlandi.",
+  "tower block": "Ko'plab oilalar qishloq uylaridan ko'p qavatli uylarga ko'chib o'tdi.",
+  "treasured": "Bu eski soat oilamizning eng qadrli buyumlaridan biridir.",
+  "urbanised": "So'nggi o'n yilliklarda Xitoy ancha urbanlashdi.",
+  "utensil": "Qishloq uylarida yog'och oshxona anjomlari keng tarqalgan edi."
  }
 });

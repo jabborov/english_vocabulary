@@ -1,4 +1,4 @@
-// Part 1 topic 0160: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0160: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0160', {
  "A1": {
   "comparable": "Narxlar bir-biriga yaqin.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0160', {
   "velocity": "Yer harakatining eng yuqori tezligi seysmologlar silkinishni tavsiflashda foydalanadigan asosiy o'lchovlardan biridir.",
   "vibrate": "Ritmik bas butun inshootni o'lchash mumkin bo'lgan chastotada tebranishiga sabab bo'ldi.",
   "wiggly": "Seysmologlar tobora egri-bugri bo'lib borayotgan chiziqni olomon keltirib chiqargan ritmik yer harakati deb talqin qildi."
+ },
+ "EX": {
+  "comparable": "Silkinishni kichik zilzila bilan qiyoslash mumkin edi.",
+  "crust": "Yer qobig'i yirik plitalardan tashkil topgan.",
+  "evacuate": "Hech kimni evakuatsiya qilishga to'g'ri kelmadi, lekin odamlar silkinishni sezishdi.",
+  "flex": "Beton olomon og'irligi ostida biroz egiladi.",
+  "flex up": "Odamlar sakraganda yer yuqoriga va pastga egilishi mumkin.",
+  "graph": "Grafik yerning musiqaga hamohang silkinayotganini ko'rsatdi.",
+  "high point": "Kechaning eng yuqori nuqtasi uning eng mashhur qo'shig'i bo'ldi.",
+  "jumping up and down": "Muxlislar musiqa ostida sakrab-sakrab o'ynashardi.",
+  "magnitude": "Silkinish 2,3 magnitudali zilzilaga o'xshash edi.",
+  "nanometre": "Yer bor-yo'g'i bir necha nanometrga siljidi.",
+  "resident": "Mahalliy aholi konsert paytida yer silkinayotganini his qildi.",
+  "seismic": "Konsertda raqsga tushayotgan muxlislar seysmik faollik yuzaga keltirdi.",
+  "seismograph": "Stadion yaqinidagi seysmograf silkinishni qayd etdi.",
+  "seismologist": "Seysmolog muxlislar tufayli yuzaga kelgan silkinishni o'lchadi.",
+  "shake": "Konsert yerni silkitib yubordi.",
+  "tectonic": "Haqiqiy zilzilalar tektonik plitalarning harakatlanishi natijasida yuzaga keladi.",
+  "tour": "Teylor Svift jahon gastrollari uchun millionlab chiptalar sotildi.",
+  "velocity": "Asbob yer harakatining tezligini o'lchaydi.",
+  "vibrate": "Butun stadion tebranayotgandek tuyulardi.",
+  "wiggly": "Konsert davomida seysmograf ilon izi chiziqni ko'rsatdi."
  }
 });

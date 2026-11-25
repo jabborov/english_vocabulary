@@ -1,4 +1,4 @@
-// Part 1 topic 0304: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0304: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0304', {
  "A1": {
   "by nature": "U tabiatan mehribon.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0304', {
   "plain sailing": "Egizaklar o'rtasidagi munosabat yaqin, ammo, ayniqsa o'smirlikda, mutlaqo silliq kechmaydi.",
   "psychic": "G'ayritabiiy ruhiy aloqaga o'xshagan narsa shunchaki umumiy genlar va butun umr davomidagi umumiy tajriba natijasi bo'lishi mumkin.",
   "sailing": "Yelkanli sportga bo'lgan umumiy ishtiyoqi ularni milliy darajada birga musobaqalashishga olib keldi."
+ },
+ "EX": {
+  "by nature": "Singlim tabiatan uyatchan, men esa juda kirishimliman.",
+  "eerie": "Borligini bilmagan egizagingiz bilan uchrashishda qandaydir sirli va g'alati narsa bor.",
+  "eerily": "Tug'ilganda ajratib yuborilgan egizaklarning hayoti g'aroyib darajada bir-biriga o'xshash edi.",
+  "fertilised": "Bir xil egizaklar ikkiga bo'lingan bitta urug'langan tuxum hujayradan paydo bo'ladi.",
+  "fraternal": "Singlim ikkalamiz turli tuxumdan bo'lgan egizaklarmiz, shuning uchun bir-birimizga o'xshamaymiz.",
+  "milestone": "Egizaklar ko'pincha yurish va gapirish kabi muhim bosqichlarga turli vaqtda yetishadi.",
+  "plain sailing": "Egizak bo'lish har doim ham oson kechmaydi – biz ko'p janjallashamiz.",
+  "psychic": "Ba'zi egizaklar o'rtalarida g'ayritabiiy ruhiy bog'liqlik bor deb ishonishadi.",
+  "sailing": "Ikkala egizak ham yelkanli qayiqda suzishni yaxshi ko'radi va tez-tez birga qayiqda chiqishadi."
  }
 });

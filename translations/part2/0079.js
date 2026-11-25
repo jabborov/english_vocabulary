@@ -1,4 +1,4 @@
-// Part 2 topic 0079: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0079: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0079', {
  "A1": {
   "beehive": "Men asalari uyasini ko'ryapman.",
@@ -197,5 +197,38 @@ VOCAB_TR_STORE('2', '0079', {
   "strawberry": "Tadqiqotlar shuni ko'rsatadiki, asalarilar changlatgan qulupnaylar kattaroq, qattiqroq bo'ladi va peshtaxtada uzoqroq saqlanadi.",
   "tempt": "Boshlang'ich xarajatlarning pastligi ko'plab yangi kelganlarni asalarichilikka jalb qiladi, ammo ularning hammasi ham oxirigacha davom ettirmaydi.",
   "thrive": "Asalarilar dehqonchilik butazorlar va yovvoyi gullar uchun joy qoldiradigan yerlarda gullab-yashnaydi."
+ },
+ "EX": {
+  "beehive": "U bog'ida uchta asalari uyasini saqlaydi.",
+  "beekeeping": "Asalarichilik shaharlarda ommalashib bormoqda.",
+  "commercial": "Tijorat bilan shug'ullanadigan fermerlarga asalarilar kerak.",
+  "critically": "Ba'zi asalari turlari yo'qolib ketish xavfi ostida turibdi.",
+  "crop": "Asalarilar ko'plab ekinlarning o'sishiga yordam beradi.",
+  "crucially": "Eng muhimi, asalarilar oziq-ovqat ekinlarimizni changlatadi.",
+  "damage": "Ba'zi kimyoviy moddalar asalarilarga zarar yetkazadi.",
+  "decline": "Asalarilar soni keskin kamaydi.",
+  "derive": "Oziq-ovqatimizning katta qismi asalarilar changlatgan o'simliklardan olinadi.",
+  "dwindle": "So'nggi yillarda asalarilar soni qisqarib ketdi.",
+  "economically": "Asalarilar iqtisodiy jihatdan muhim.",
+  "enterprise": "Asalarichilik kichik biznes bo'lishi mumkin.",
+  "fertilise": "Asalarilar o'simliklarni urug'lantirishga yordam beradi.",
+  "habitat": "Asalarilar o'z yashash muhitini yo'qotmoqda.",
+  "oilseed": "Moyli ekinlarga asalarilar kerak.",
+  "organisation": "Asalarichilik tashkiloti yangi asalarichilarni o'qitmoqda.",
+  "pest": "Zararkunandalar va kasalliklar asalarilarni nobud qilmoqda.",
+  "pollen": "Asalarilar gul changini guldan gulga tashiydi.",
+  "pollinate": "Asalarilar gullarni changlatadi.",
+  "pollinator": "Asalarilar eng muhim changlatuvchilardir.",
+  "preservation": "Asalarilarni saqlab qolish juda muhim.",
+  "rape": "Bahorda rapsning sariq dalalari ko'p uchraydi.",
+  "raspberry": "Malina yaxshi o'sishi uchun asalarilar kerak.",
+  "rectify": "Asalarichilar vaziyatni tuzatishga harakat qilishmoqda.",
+  "run away": "Asalarilardan qochmang – xotirjam turing.",
+  "shrink": "Asalari oilalari kichrayib bormoqda.",
+  "so to speak": "Asalarilar, ta'bir joiz bo'lsa, dehqonlarning eng yaqin do'stlaridir.",
+  "species": "Asalarining ko'plab turlari bor.",
+  "strawberry": "Asalarilar qulupnayning o'sishiga yordam beradi.",
+  "tempt": "Bog'bonlar gullar yordamida asalarilarni jalb qilishi mumkin.",
+  "thrive": "Asalarilar gullari ko'p bog'larda yaxshi rivojlanadi."
  }
 });

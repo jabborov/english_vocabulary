@@ -1,4 +1,4 @@
-// Part 2 topic 0020: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0020: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0020', {
  "A1": {
   "adulthood": "Voyaga yetish hayotning yangi bosqichidir.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('2', '0020', {
   "til": "Bu oilaviy munosabatlarga qanchalik zo'riqish keltirmasin, u boshlang'ich to'lov uchun yetarli pul yig'magunicha uyda qolishga qaror qildi.",
   "vary": "Yoshlarning ota-ona yordamiga qay darajada tayanishi hudud, daromad va ijtimoiy kelib chiqishga qarab keskin farq qiladi.",
   "willing": "Hamma ota-onalar ham voyaga yetgan farzandlarini qo'llab-quvvatlash uchun o'zlarining pensiya rejalarini qurbon qilishga birdek tayyor emas."
+ },
+ "EX": {
+  "adulthood": "Ota-onangiz bilan yashash kattalik hayotining boshlanishini kechiktirishi mumkin.",
+  "boomerang": "Bumerang singari, ko'plab yoshlar uydan ketgach, yana qaytib kelishadi.",
+  "boomerang generation": "Bumerang avlod — ota-onasi bilan yana birga yashashga qaytgan yosh kattalardir.",
+  "booming": "Gullab-yashnayotgan uy-joy bozori yoshlar uy sotib olishga qurbi yetmasligini anglatadi.",
+  "defer": "Ko'plab yoshlar uy sotib olishni o'ttiz yoshlariga qadar kechiktirishadi.",
+  "flat-share": "Ba'zi yoshlar uyga qaytish o'rniga kvartirani boshqalar bilan birga ijaraga olishni tanlashadi.",
+  "privacy": "Ota-onangiz bilan yashash shaxsiy hayotingiz kamayishini anglatishi mumkin.",
+  "regiment": "Ularning xonadoni armiya polkidek boshqariladi, hamma uchun qat'iy qoidalar bor.",
+  "regimented": "Universitetdagi erkinlikdan keyin uydagi hayot qat'iy tartibga solingandek tuyulishi mumkin.",
+  "relieve": "Uyga qaytish yoshlar zimmasidagi moliyaviy bosimni yengillashtirishi mumkin.",
+  "sling out": "Ba'zi ota-onalar farzandlari uy ishlariga yordam bermasa, ularni uydan haydab chiqarish bilan qo'rqitishadi.",
+  "take on": "Yoshlar ipoteka xarajatlarini o'z zimmasiga olishni istamaydi.",
+  "til": "Ko'plab yosh kattalar endi o'ttiz yoshlarigacha uyda qolishadi.",
+  "vary": "Uyga qaytish sabablari har bir odamda turlicha bo'ladi.",
+  "willing": "Aksariyat ota-onalar farzandlarining uyga qaytishiga rozi."
  }
 });

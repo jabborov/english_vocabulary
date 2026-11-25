@@ -1,4 +1,4 @@
-// Part 1 topic 0076: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0076: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0076', {
  "A1": {
   "Helen": "Xelen mening dugonam.",
@@ -221,5 +221,42 @@ VOCAB_TR_STORE('1', '0076', {
   "slope": "O'sha qiyalikka tushib olgach, tijoriy inersiyani to'xtatib bo'lmasligi mumkin.",
   "underwater": "Tubsizlikning suv osti manzarasi boshqa sayyoradagi har qanday narsa kabi g'ayrioddiy.",
   "wind generation": "Shamol energiyasi ishlab chiqarishni zarur sur'atda kengaytirish mineral ta'minot zanjirlariga ulkan bosim o'tkazadi."
+ },
+ "EX": {
+  "Helen": "Helen olimlar nima uchun xavotirda ekanini tushuntirib berdi.",
+  "battery": "Batareya metallariga talab tez o'smoqda.",
+  "biodiversity": "Okean tubi kutilmagan darajada boy biologik xilma-xillikka ega.",
+  "bullet": "Afsonalarda bo'ri-odamni faqat kumush o'q bilan o'ldirish mumkin bo'lgan.",
+  "capacity": "Yashil energiyani saqlash uchun bizga ko'proq batareya sig'imi kerak.",
+  "car battery": "Dengiz tubidan olingan metallar avtomobil batareyalarida ishlatilishi mumkin.",
+  "cobalt": "Kobalt ko'plab qayta zaryadlanadigan batareyalarning asosiy tarkibiy qismidir.",
+  "conundrum": "Chuqur dengizda qazib olish ekologik jumboq tug'diradi.",
+  "copper": "Mis elektr simlari va batareyalar uchun kerak.",
+  "dream up": "Chuqur dengizda qazib olish ishlari ilmiy-fantastik film uchun o'ylab topilgan narsaga o'xshaydi.",
+  "ecosystem": "Qazib olish ishlari dengiz tubidagi nozik ekotizimlarni yo'q qilishi mumkin.",
+  "electric car": "Elektromobillar ko'payishi metallarga talabning oshishini anglatadi.",
+  "fragile": "Chuqur dengiz ekotizimlari nihoyatda nozik.",
+  "grid": "Batareyalar qayta tiklanadigan energiyani elektr tarmog'i uchun saqlashga yordam beradi.",
+  "lead down": "Qazib olish ishlari bizni xavfli yo'lga boshlab ketishi mumkin.",
+  "lump": "Dengiz tubi metallarga boy tosh bo'laklari bilan qoplangan.",
+  "marine": "Dengiz olimlari chuqur dengizdagi qazib olish ishlaridan xavotirda.",
+  "marine animal": "Ko'plab dengiz hayvonlari faqat chuqur dengiz tubida yashaydi.",
+  "nickel": "Konkretsiyalar tarkibida avtomobil batareyalarida ishlatiladigan nikel bor.",
+  "nodule": "Polimetall konkretsiyalar okeanning chuqur tubida sochilib yotadi.",
+  "oceanographer": "Okeanolog dengiz tubida qazib olish ishlarining xavflarini tushuntirib berdi.",
+  "outline": "Olim chuqur dengizda qazib olishning asosiy muammolarini qisqacha bayon qildi.",
+  "paradoxically": "Paradoks shundaki, sayyorani qutqarish okeanga zarar yetkazishni anglatishi mumkin.",
+  "permission": "Kompaniyalar dengiz tubida qazib olish ishlarini boshlashdan oldin ruxsat olishlari kerak.",
+  "permit": "Qazib olish uchun ilk ruxsatnomalar tez orada berilishi mumkin.",
+  "precious metal": "Dengiz tubidagi toshlar tarkibida qimmatbaho metallar bor.",
+  "raw": "Konkretsiyalar quruqlikka xom ruda sifatida tashiladi.",
+  "raw material": "Batareyalar uchun kobalt va nikel kabi xomashyo kerak.",
+  "scale": "Chuqur dengizda qazib olish ishlarining ko'lami juda katta bo'lishi mumkin.",
+  "silver": "Kumush elektronikada ishlatiladigan qimmatbaho metalldir.",
+  "silver bullet": "Chuqur dengizda qazib olish iqlim inqirozini bir zumda hal qiladigan mo'jizaviy yechim emas.",
+  "slippery": "Ba'zilarning fikricha, qazib olishga ruxsat berish xavfli yo'lning boshlanishidir.",
+  "slope": "Ko'pchilik chuqur dengizda qazib olishni oxiri yomon tugaydigan xavfli yo'l deb hisoblaydi.",
+  "underwater": "Konkretsiyalarni ulkan suv osti robotlari yig'adi.",
+  "wind generation": "Shamol energiyasini ishlab chiqarish katta miqdorda metall talab qiladi."
  }
 });

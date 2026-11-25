@@ -1,4 +1,4 @@
-// Part 1 topic 0256: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0256: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0256', {
  "A1": {
   "all at once": "Hammasini birdaniga qilmang.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0256', {
   "untidy": "Ba'zi tadqiqotlarga ko'ra, stoli tartibsiz odamlar ijodkorroq bo'lishi mumkin.",
   "unused": "Ishlatilmaydigan buyumlar ko'pincha yashirin xarajatga ega bo'lib, boshqa narsalarga sarflashimiz mumkin bo'lgan joy va e'tiborni egallaydi.",
   "uplifted": "Uyni tozalab bo'lgandan keyingi ruhiy ko'tarinkilik ba'zilar uchun haqiqiy, ammo tartibsizlik tez orada qaytsa, u so'nib ketishi mumkin."
+ },
+ "EX": {
+  "all at once": "Butun uyingizni birdaniga tozalashga urinmang.",
+  "bite off": "Kuchingiz yetmaydigan ishga qo'l urmang – bitta tortmadan boshlang.",
+  "chaos": "Uch bola bilan uyda to's-to'polon hukm surmoqda.",
+  "clear away": "Iltimos, kechki ovqatdan oldin narsalaringizni yig'ishtirib qo'ying.",
+  "clutter": "Tartibsiz uyilib yotgan narsalar uyda dam olishni qiyinlashtirishi mumkin.",
+  "cluttered": "Uning stoli shunchalik narsalarga to'lib ketganki, u hech narsani topa olmaydi.",
+  "cupboard": "Javon u hech qachon ishlatmagan narsalarga to'la edi.",
+  "disorganised": "Tartibsiz uy sizni stressga solishi mumkin.",
+  "gradual": "Ortiqcha narsalardan bosqichma-bosqich qutulish eng yaxshi natija beradi.",
+  "heap": "Yotoqxona polida bir uyum kiyim yotardi.",
+  "homily": "Ortiqcha narsalardan qutulish haqidagi bu kitob qanday yashash haqidagi uzun nasihatga o'xshaydi.",
+  "interior design": "U interyer dizaynini o'rgangan va endi odamlarga uylarini ortiqcha narsalardan tozalashda yordam beradi.",
+  "minimalist": "Uning uyi juda minimalistik bo'lib, unda deyarli mebel yo'q.",
+  "surrounding": "Atrofimizdagi muhit kayfiyatimizga katta ta'sir ko'rsatishi mumkin.",
+  "untidy": "Uning yotoqxonasi doim tartibsiz bo'ladi.",
+  "unused": "Uning javonlari ishlatilmagan sovg'alarga to'la.",
+  "uplifted": "Xonasini yig'ishtirgach, uning ruhi ko'tarildi."
  }
 });

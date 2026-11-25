@@ -1,4 +1,4 @@
-// Part 1 topic 0491: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0491: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0491', {
  "A1": {
   "canal": "Kanalga qarang.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0491', {
   "undisturbed": "Hech kim tegmagan ustaxona Vatt hayotining vaqt kapsulasiga aylandi.",
   "unparalleled": "Vattning sanoatga ta'siri o'z davrida tengsiz edi.",
   "workshop": "Tashrif buyuruvchilar Vatt umrining so'nggi yillarida tajribalar o'tkazgan ustaxonani ko'rishlari mumkin."
+ },
+ "EX": {
+  "canal": "Uatt kanallarda yer o'lchovchi bo'lib ham ishlagan.",
+  "chemist": "Uatt bir kimyogar bilan birga yangi tajribalar ustida ishlagan.",
+  "chronological": "Buyumlar xronologik tartibda namoyish etilgan.",
+  "classical mythology": "Uattning ba'zi haykallarida antik mifologiya qahramonlari tasvirlangan.",
+  "contraption": "Xonada Uatt o'zi yasagan g'alati moslamalar bor edi.",
+  "cornucopia": "Ustaxona asboblar, qog'ozlar va mashinalarning bitmas-tuganmas xazinasi edi.",
+  "hot air": "Uning va'dalari shunchaki quruq gap edi.",
+  "potter": "Mashhur kulol Josaya Vejvud Uatt davrasidagi do'stlardan biri edi.",
+  "reassemble": "Muzey ustaxonani qismma-qism qayta yig'ishiga to'g'ri keldi.",
+  "reassembled": "Qayta yig'ilgan ustaxona hozir Fan muzeyida turibdi.",
+  "rounded": "Uatt muhandislikdan tashqari ko'plab qiziqishlarga ega har tomonlama rivojlangan inson edi.",
+  "steam engine": "Uatt bug' mashinasini ancha takomillashtirdi.",
+  "treasure trove": "Ustaxona tarixchilar uchun haqiqiy xazinadir.",
+  "trove": "Tarixchilar ustaxonadan bir dasta xatlar topishdi.",
+  "undisturbed": "U vafot etganidan keyin ustaxonaga ko'p yillar davomida hech kim tegmadi.",
+  "unparalleled": "Ustaxona Uatt hayotiga misli ko'rilmagan nazar tashlash imkonini beradi.",
+  "workshop": "Uattning ustaxonasi asboblar va mashinalarga to'la edi."
  }
 });

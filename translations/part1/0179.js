@@ -1,4 +1,4 @@
-// Part 1 topic 0179: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0179: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0179', {
  "A1": {
   "Fuchsia": "Fuchsia bu ism.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0179', {
   "special interest": "Uning o'rta asrlar oshpazligiga alohida qiziqishi uni oziq-ovqatni saqlashning qadimiy usullarini tadqiq qilishga undadi.",
   "starter": "Novvoylar ko'pincha o'nlab yillik xamirturushi haqida restoran o'z sho'rvasiga ko'rsatgan faxr bilan gapirishadi.",
   "strictly": "Qat'iy aytganda, abadiy sho'rva yagona taomdan ko'ra uzluksiz yangilanish jarayonidir."
+ },
+ "EX": {
+  "Fuchsia": "Oziq-ovqat haqida yozuvchi Fuksiya abadiy dimlamalar tarixini tushuntirib berdi.",
+  "as needed": "Zarur bo'lganda ko'proq suv va ziravorlar qo'shiladi.",
+  "boiling": "Dimlama har kuni qayta qaynash darajasigacha olib chiqiladi.",
+  "caiman": "Boshlovchi bir paytlar ta'tilda kayman go'shtini tatib ko'rgan.",
+  "camel": "Ba'zi joylarda odamlar tuya go'shtidan dimlama pishirishadi.",
+  "continuously": "Qozon ellik yil davomida deyarli uzluksiz qaynab kelmoqda.",
+  "cookery": "U xitoy pazandachiligi haqida bir nechta kitob yozgan.",
+  "cumbersome": "Ulkan qozonni ko'chirish noqulay.",
+  "day after day": "Dimlama o'n yillar davomida kundan-kunga pishib kelmoqda.",
+  "from scratch": "Ko'pchilik oshpazlar har safar yangi dimlamani noldan tayyorlashadi.",
+  "hygiene": "Ba'zilar 50 yillik dimlamaning gigiyenasidan xavotirlanishadi.",
+  "hygienic": "Dimlamani har kuni qaynatish uni gigiyenik jihatdan toza saqlaydi.",
+  "medieval": "Abadiy dimlamalar o'rta asrlardagi karvonsaroylarda keng tarqalgan bo'lishi mumkin.",
+  "perpetual": "Abadiy dimlama hech qachon to'liq bo'shatilmaydi va to'xtatilmaydi.",
+  "replenish": "Oshpazlar har kuni qozonni yangi go'sht bilan to'ldirib turishadi.",
+  "restart": "Agar dimlama aynib qolsa, uni qaytadan boshlashga to'g'ri keladi.",
+  "rumour": "Dimlama yuz yildan ortiq vaqtdan beri pishayotgani haqida mish-mish bor.",
+  "scratch": "\"From scratch\" iborasidagi \"scratch\" so'zi dastlab start chizig'ini anglatgan.",
+  "simmer": "Dimlama kun bo'yi past olovda sekin qaynab turadi.",
+  "special interest": "Oziq-ovqat tarixi uning alohida qiziqish sohasi.",
+  "starter": "Xuddi xamirturush tomizg'isi kabi, dimlamaga ham har kuni yangi masalliq qo'shib turiladi.",
+  "strictly": "Qat'iy aytganda, bu endi o'sha dimlama emas."
  }
 });

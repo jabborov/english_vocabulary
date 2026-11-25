@@ -1,4 +1,4 @@
-// Part 1 topic 0151: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0151: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0151', {
  "A1": {
   "above": "Qush daraxt ustida.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0151', {
   "satisfy": "Ommaviy ishlab chiqarilgan supermarket tortlari endi farzandlari uchun noyob narsa istaydigan ota-onalarni qoniqtirmaydi.",
   "to be precise": "Tug'ilgan kun tortlari an'anasi ko'pchilik o'ylaganidan qadimiyroq, aniqrog'i, u XVIII asr Germaniyasiga borib taqaladi.",
   "work of art": "Bayram tortlari oddiy biskvitlardan taom va haykaltaroshlik o'rtasidagi chegarani yo'qqa chiqaradigan san'at asarlariga aylandi."
+ },
+ "EX": {
+  "above": "U narxi ming funtdan ortiq tortlar tayyorlagan.",
+  "bakery": "U Londonda o'z novvoyxonasini ochdi.",
+  "beautifully": "Tort qanddan yasalgan gullar bilan chiroyli bezatilgan edi.",
+  "beyond": "Uning tortlari ko'pchilik mumkin deb o'ylagan narsadan ham o'tib ketadi.",
+  "birthday party": "Har bir tug'ilgan kun bazmida shamli tort bo'lishi kerak.",
+  "client": "Ba'zi mijozlar juda g'ayrioddiy tortlar so'rashadi.",
+  "creatively": "Yangi tort dizaynini yaratishda u ijodiy fikrlaydi.",
+  "dame": "Dame Meri Berri o'z tortlari bilan mashhur.",
+  "finished": "Tayyor tort qal'aga o'xshardi.",
+  "jumble": "Oshxona idishlar, glazur va sepiladigan bezaklar bilan to'la tartibsiz ahvolda edi.",
+  "leeway": "Mijozlar dizayn bo'yicha unga biroz erkinlik berishsa, bu unga yoqadi.",
+  "orange": "U biskvitga yangi ta'm berish uchun apelsin qo'shdi.",
+  "over again": "Tort qulab tushgach, u ishni boshidan qayta boshlashiga to'g'ri keldi.",
+  "peak": "Dekabr bayram tortlari uchun eng qizg'in davr.",
+  "precise": "Pishiriq tayyorlash uchun shakar va unni aniq o'lchash kerak.",
+  "satisfy": "Har bir mijozni mamnun qilish qiyin.",
+  "to be precise": "U 500 dan ortiq tort pishirgan - aniqrog'i, 523 ta.",
+  "work of art": "Uning tug'ilgan kun tortlari haqiqiy san'at asarlaridir."
  }
 });

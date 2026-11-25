@@ -1,4 +1,4 @@
-// Part 1 topic 0105: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0105: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0105', {
  "A1": {
   "additional": "Bizga qo'shimcha stullar kerak.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0105', {
   "ranger": "Yerni yaxshi biladigan mahalliy qo'riqchilar hayotni saqlab qoladigan erta ogohlantirishlarni bera oladi.",
   "responsible for": "Ofatlarni rejalashtirishga mas'ul hukumatlar xarajatlarni kamdan-kam uchraydigan hodisalar xavfi bilan muvozanatlashi kerak.",
   "tsunamis": "Evakuatsiyani mashq qiladigan qirg'oqbo'yi jamoalarining tsunamilardan omon qolish imkoniyati ancha yuqori."
+ },
+ "EX": {
+  "additional": "Sohil bo'ylab qo'shimcha boshpanalar qurildi.",
+  "bicycle": "Ko'ngillilar qishloq aholisini bo'ron haqida ogohlantirish uchun velosipedda yurishadi.",
+  "cone": "Karnay konus shaklida bo'ladi.",
+  "cyclone": "Siklon Bangladesh sohiliga zarba berdi.",
+  "danger zone": "Xavfli hududda yashovchi odamlarga u yerni tark etish buyurildi.",
+  "earthquake": "Zilzila ko'plab binolarni vayron qildi.",
+  "emerge": "Ofatlarga tayyorgarlik ko'rish haqida yangi g'oyalar paydo bo'ldi.",
+  "evacuation": "Evakuatsiya bo'rondan ikki kun oldin boshlandi.",
+  "fatalism": "Taqdirga tan berish odamlarni ofatlarga tayyorgarlik ko'rishdan to'xtatishi mumkin.",
+  "fatalistic": "Ogohlantirish tizimi paydo bo'lgunga qadar odamlar siklonlarga taqdir deb qarashardi.",
+  "fold": "Ko'ngillilar ishlatib bo'lingach, ogohlantirish bayroqlarini taxlab qo'yishadi.",
+  "hopelessness": "Ba'zi odamlar ofatlar oldida umidsizlik tuyg'usini his qilishadi.",
+  "human death": "Maqsad — ofatlarda odamlar halok bo'lishining oldini olish.",
+  "introduction": "Ogohlantirish tizimlarining joriy etilishi ko'plab hayotlarni saqlab qoldi.",
+  "livelihood": "Bo'ronda ko'p odamlar tirikchilik manbaidan ayrildi.",
+  "megaphone": "Ular odamlarni siklon haqida ogohlantirish uchun karnaydan foydalanishdi.",
+  "natural event": "Zilzila tabiiy hodisa, ammo ofat har doim ham tabiiy bo'lavermaydi.",
+  "planning": "Yaxshi rejalashtirish hayotlarni saqlab qolishi mumkin.",
+  "populated": "Siklon aholi zich joylashgan hududga zarba berdi.",
+  "ranger": "Bog' qo'riqchisi odamlarni xavf haqida ogohlantirdi.",
+  "responsible for": "Odamlarni ogohlantirish uchun kim mas'ul?",
+  "tsunamis": "Dengiz ostidagi zilzilalar tsunamiga sabab bo'lishi mumkin."
  }
 });

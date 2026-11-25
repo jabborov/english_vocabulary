@@ -1,4 +1,4 @@
-// Part 1 topic 0240: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0240: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0240', {
  "A1": {
   "Edgar": "Edgar uning akasi.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0240', {
   "unprecedented": "Bunday balandlikdan yiqilib tirik qolish tibbiy adabiyotda deyarli misli ko'rilmagan holdir.",
   "unscathed": "U butunlay sog'-salomat qolmagan bo'lsa-da, oxir-oqibat yana yura oladigan darajada tuzaldi.",
   "window cleaner": "Osmono'par binolarda ishlaydigan deraza tozalovchilar shahardagi eng xavfli kasblardan birini bajaradi."
+ },
+ "EX": {
+  "Edgar": "Afsuski, uning akasi Edgar qulashda halok bo'ldi.",
+  "alleyway": "Platforma bino yonidagi tor ko'chaga qulab tushdi.",
+  "be after": "Jurnalistlar bir necha hafta davomida uning hikoyasini olish payida bo'lishdi.",
+  "believer": "Dindor ayol sifatida uning xotini bu mo'jiza ekanini aytdi.",
+  "bounce": "Platforma qulayotganda binoga urilib, sakrab ketgan bo'lishi mumkin.",
+  "canoe": "Ba'zilarning aytishicha, u platformada go'yo to'lqindagi qayiqdek pastga tushib kelgan.",
+  "climb on": "Ikki aka-uka ishni boshlash uchun platformaga chiqishdi.",
+  "clutch": "U yiqilayotganda metall romga mahkam yopishib oldi.",
+  "coma": "U baxtsiz hodisadan keyin bir necha hafta komada yotdi.",
+  "distraught": "Xabarni eshitib, uning xotini qattiq iztirobga tushdi.",
+  "fall through": "O'sha kungi rejalari eng yomon tarzda barbod bo'ldi.",
+  "firefighter": "Unga birinchi bo'lib o't o'chiruvchilar yetib kelishdi.",
+  "frame": "Platforma qulayotganda u uning metall romidan mahkam ushlab oldi.",
+  "garage": "Platforma garaj tomi yonidan o'tib, pastga qulab tushdi.",
+  "miraculous": "Uning 47-qavatdan yiqilib tirik qolgani mo'jiza edi.",
+  "onlooker": "Hayratda qolgan tomoshabinlar platformaning qulashini kuzatishdi.",
+  "pint": "Operatsiyalar davomida unga juda ko'p qon quyish kerak bo'ldi.",
+  "scaffold": "U turgan havoza birdan qulab tushdi.",
+  "scraper": "Deraza yuvuvchilar oynadagi kirni ketkazish uchun qirg'ichdan foydalanishadi.",
+  "speechless": "Uning tuzalib ketishi shifokorlarni hayratdan lol qoldirdi.",
+  "storey": "U binoning 47-qavatidan yiqilib tushdi.",
+  "straw": "Shifokorlar cho'kayotgan xasga yopishgandek umidsiz emas edi — ular uning yashab qolishiga ishonishardi.",
+  "unexplainable": "Ba'zi odamlar uning tirik qolishini tushuntirib bo'lmaydigan hodisa deb hisoblashadi.",
+  "uninjured": "Xayriyatki, yerdagi odamlar jarohat olmadi.",
+  "unprecedented": "Bunday balandlikdan yiqilib tirik qolish deyarli misli ko'rilmagan hol edi.",
+  "unscathed": "U sog'-salomat qolmadi — ko'plab suyaklari singan edi.",
+  "window cleaner": "Deraza yuvuvchi osmono'par bino ustida ishlayotganda yiqilib tushdi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0460: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0460: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0460', {
  "A1": {
   "Glenn": "Glenn astronavt edi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0460', {
   "spring chicken": "Yoshi ancha o'tib qolgani Glennga ikkinchi marta tarix yaratishiga to'sqinlik qilmadi.",
   "supremacy": "Sovuq urush davridagi texnologik ustunlik uchun kurash fanga ulkan sarmoyalar kiritilishiga turtki bo'ldi.",
   "touch on": "Hujjatli film astronavtlar duch kelgan xavflarga to'xtalib o'tadi, ammo ularni hech qachon to'liq yoritmaydi."
+ },
+ "EX": {
+  "Glenn": "Glenn Yer atrofida uch marta aylanib chiqdi.",
+  "VIP": "Tantanalarda Glennga juda hurmatli mehmon sifatida munosabatda bo'lishdi.",
+  "back and forth": "Glenn va parvozlarni boshqarish markazi o'rtasida xabarlar u yoqdan-bu yoqqa almashib turdi.",
+  "circle round": "Kapsula Yer atrofida uch marta aylandi.",
+  "fiftieth": "Bu Glennning parvoziga ellik yil to'lgan sana.",
+  "known": "Parvozidan keyin u butun dunyoga tanildi.",
+  "mouthful": "\"Supremacy\" so'zini talaffuz qilish ancha qiyin!",
+  "publicise": "NASA parvozni butun dunyoga keng ommalashtirdi.",
+  "space age": "Kosmik asr 1950-yillarda boshlangan.",
+  "sprightly": "90 yoshida ham Glenn ajablanarli darajada tetik edi.",
+  "spring chicken": "Kosmosga qaytganida 77 yoshli Glenn endi yosh emas edi.",
+  "supremacy": "AQSh va SSSR kosmosda ustunlik uchun kurashgan.",
+  "touch on": "Glenn nutqida missiya xavf-xatarlariga ham to'xtalib o'tdi."
  }
 });

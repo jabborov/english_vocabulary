@@ -1,4 +1,4 @@
-// Part 1 topic 0247: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0247: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0247', {
  "A1": {
   "Vietnamese": "Men Vyetnam taomlarini yaxshi ko'raman.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0247', {
   "timeless": "Sho'rva va non kabi ba'zi tushliklar abadiy jozibaga ega.",
   "utilitarian": "Tushlikka faqat amaliy nuqtai nazardan qarash uning ijtimoiy va psixologik ahamiyatini e'tiborsiz qoldiradi.",
   "yesterday": "Kecha ham xuddi o'tgan kungidek aynan bir xil sendvich yedim."
+ },
+ "EX": {
+  "Vietnamese": "U ko'pincha tushlikka Vyetnam taomlarini sotib oladi.",
+  "banter": "Tushlik — hamkasblar bilan hazil-mutoyiba qilish vaqti.",
+  "bin": "U sendvich o'ramini axlat qutisiga tashladi.",
+  "break in": "Tushlik ish kunidagi kutilgan tanaffusdir.",
+  "ditch": "Balki ish stolida tushlik qilishdan voz kechish vaqti kelgandir.",
+  "functional": "Ish stolingizda yeyilgan sendvich foydali, lekin qiziqarli emas.",
+  "get along": "Birga ovqatlanadigan hamkasblar o'zaro yaxshiroq til topishadi.",
+  "get the picture": "U har kuni ish stolida yolg'iz ovqatlanadi — tushunib turibsiz.",
+  "goalie": "Darvozabon to'pni ajoyib tarzda qaytardi.",
+  "goalkeeper": "Darvozabon doim o'z tushligini o'zi olib keladi.",
+  "makeshift": "U tushligini yasama stolda yedi.",
+  "metaphorical": "\"Ish stolida yolg'iz ovqatlanish\" ishda yakkalanib qolishning ko'chma ifodasi bo'lishi mumkin.",
+  "polo": "Polo — otda o'ynaladigan sport turi.",
+  "polo shirt": "U ofisga polo futbolka kiyib keldi.",
+  "run over": "Vaqtidan cho'zilib ketgan yig'ilishlar ko'pincha tushlik vaqtini ham egallab qo'yadi.",
+  "team spirit": "Birgalikda tushlik qilish jamoaviy ruhni mustahkamlaydi.",
+  "timeless": "Pishloqli sendvich — hech qachon eskirmaydigan tushlik.",
+  "utilitarian": "Ba'zi odamlar tushlikka juda amaliy nuqtai nazardan qarashadi — bu shunchaki yoqilg'i.",
+  "yesterday": "Kecha tushlikka nima yedingiz?"
  }
 });

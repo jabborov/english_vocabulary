@@ -1,4 +1,4 @@
-// Part 1 topic 0391: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0391: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0391', {
  "A1": {
   "acceptance": "Men qabul qilinishga umid qilaman.",
@@ -41,5 +41,12 @@ VOCAB_TR_STORE('1', '0391', {
   "motivational": "To'g'ri yo'naltirilgan kelishmovchilik ajablanarli darajada rag'batlantiruvchi bo'lib, bizni dalillarimizni charxlashga undashi mumkin.",
   "political scientist": "Siyosatshunoslar turli fikrlarga toqat qila olmaydigan jamiyat xavfli darajada qutblashib ketishi mumkinligi haqida ogohlantiradi.",
   "respectfully": "Hurmat bilan rozi bo'lmaslikni o'rganish, ehtimol, ommaviy bahsdagi eng qimmatli ko'nikmadir."
+ },
+ "EX": {
+  "acceptance": "Demokratiyada turli fikrlarni qabul qilish muhim.",
+  "divided": "Bu masalada mamlakat chuqur bo'lingan.",
+  "motivational": "U boshqalarni tinglash haqida ruhlantiruvchi ma'ruza qildi.",
+  "political scientist": "Siyosatshunos odamlar nima uchun bunchalik bo'linib ketishini tushuntirib berdi.",
+  "respectfully": "Hurmat bilan qilsangiz, rozi bo'lmaslik ham mumkin."
  }
 });

@@ -1,4 +1,4 @@
-// Part 2 topic 0012: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0012: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0012', {
  "A1": {
   "alerting": "Signal bizni ogohlantiryapti.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('2', '0012', {
   "make eye contact": "Ko'zma-ko'z qarash mumkin bo'lgan hech kim bo'lmaganda, piyodalar nozik, ammo hayotiy muhim xotirjamlik manbasidan mahrum bo'ladi.",
   "oncoming": "Velosipedchini chetlab o'tish uchun keskin burilgan avtomobil qarshidan kelayotgan yuk mashinasiga urilishdan zo'rg'a qutulib qoldi, bu esa uning qaror qabul qilish algoritmlari haqida savollar tug'dirdi.",
   "proceed": "Agar avtomobil haddan tashqari ehtiyotkorlik bilan harakatlansa, tirbandlik yuzaga keltirishi mumkin; haddan tashqari dadil harakatlansa, odamlar hayotini xavf ostiga qo'yadi."
+ },
+ "EX": {
+  "alerting": "Muhandislar piyodalarni mashina ularni ko'rgani haqida ogohlantirib, miltillaydigan chiroqlarni sinovdan o'tkazmoqda.",
+  "concern": "Asosiy xavotirlardan biri piyodalar haydovchisiz avtomobil ularni ko'rgan-ko'rmaganini qanday bilishi.",
+  "controversial": "Haydovchisiz avtomobillar ko'pchilik uchun hali ham munozarali g'oya.",
+  "glance": "Haydovchiga bir qur qarash yo'lni kesib o'tish xavfsiz yoki xavfsiz emasligini bildiradi.",
+  "intention": "Haydovchisiz avtomobillarga to'xtash yoki harakatni davom ettirish niyatini ko'rsatishning aniq usuli kerak.",
+  "jaywalking": "Agar haydovchisiz avtomobillar piyodalar uchun doim to'xtasa, yo'lni noto'g'ri joydan kesib o'tish ancha ko'payishi mumkin.",
+  "make eye contact": "Piyodalar odatda yo'lni kesib o'tishdan oldin haydovchilar bilan ko'z qarashib oladi.",
+  "oncoming": "Mashina qarshidan kelayotgan transport oldidan piyodani o'tkazib yuborish uchun sekinladi.",
+  "proceed": "Yo'l bo'sh bo'lganda mashina piyodalar o'tish joyidan sekin harakatlanib o'tadi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0380: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0380: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0380', {
  "A1": {
   "blackberry": "Men maymunjonni yaxshi ko'raman.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0380', {
   "scanning": "Tez ko'z yugurtirib ko'rish chalg'itishi mumkin, shuning uchun har bir topilmani keyinroq diqqat bilan tekshirish kerak.",
   "thorough": "Mutaxassislar plastinkalaridan tortib oyoqchasining asosigacha har bir belgini sinchiklab tekshirishni tavsiya qiladi.",
   "wild garlic": "Bargni ezib ko'rish eng xavfsiz sinovdir, chunki faqat yovvoyi sarimsoq ana shunday adashtirib bo'lmaydigan hid chiqaradi."
+ },
+ "EX": {
+  "blackberry": "Sentyabrda biz to'siq butalaridan maymunjon terdik.",
+  "caution": "Yovvoyi qo'ziqorinlarga doimo katta ehtiyotkorlik bilan munosabatda bo'ling.",
+  "certainty": "Yovvoyi qo'ziqorinni aniq bila olmasangiz, hech qachon uni yemang.",
+  "death cap": "Qo'ziqorindan zaharlanib o'lish holatlarining aksariyatiga oqish zamburug' sababchi.",
+  "identification": "Yaxshi qo'llanma kitob yovvoyi o'simliklarni aniqlashga yordam beradi.",
+  "malign": "Zararsizdek ko'rinadigan ba'zi o'simliklar tanaga zararli ta'sir ko'rsatadi.",
+  "misplace": "Qo'ziqorinlar haqidagi bilimingizga ishonchingiz noo'rin bo'lishi mumkin.",
+  "positive identification": "Hech qanday yovvoyi o'simlikni aniq tanib olmaguningizcha yemang.",
+  "scanning": "Yovvoyi o'simlik terish yer va butalarni sinchiklab ko'zdan kechirishni talab qiladi.",
+  "thorough": "Terib olgan narsangizni yeyishdan oldin puxta tekshirib chiqing.",
+  "wild garlic": "Bahorda nam o'rmonzorlarda yovvoyi sarimsoq o'sadi."
  }
 });

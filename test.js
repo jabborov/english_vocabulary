@@ -16,6 +16,33 @@ function rwEntry(w){
   assert.ok(it, 'word exists: ' + word);
   return { part: m[1], k: m[2], title: t.title, it, set: (ex[m[2]] || {})[word] };
 }
+// Popup example sentences of one meaning (.wi-m): compare with the examples of its source topic,
+// grouped A (A1, A2), B (B1, B2), C (C1, C2); only levels with a sentence, only groups with a sentence.
+function checkPopupExamples(w, m){
+  const src = m.querySelector('.wi-src a').getAttribute('href');
+  const q = new URLSearchParams(src.split('?')[1]), part = q.get('part') === '1' ? '1' : '2';
+  const set = (((part === '1' ? w.VOCAB_EXAMPLES_PART1 : w.VOCAB_EXAMPLES) || {})[q.get('topic')] || {})[q.get('word')];
+  const levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+  const want = ['A', 'B', 'C'].map(g => ({ g, rows: levels.map((lv, i) => ({ lv, en: set && set[i] })).filter(x => x.lv[0] === g && x.en) }))
+    .filter(x => x.rows.length);
+  const box = m.querySelector('.wi-exs');
+  if (!want.length) { assert.ok(!box, 'no example block without sentences: ' + src); return want; }
+  assert.ok(box, 'example block: ' + src);
+  // placed after the UZ / EN lines and before the source line
+  assert.strictEqual(box.nextElementSibling, m.querySelector('.wi-src'));
+  assert.ok(box.previousElementSibling.classList.contains('wi-row'));
+  const groups = [...box.children];
+  assert.deepStrictEqual(groups.map(g => g.className), want.map(() => 'wi-exg'));
+  assert.deepStrictEqual(groups.map(g => g.dataset.g), want.map(x => x.g), src);
+  groups.forEach((g, i) => {
+    assert.strictEqual(g.querySelector('.wi-g').textContent, want[i].g);
+    assert.strictEqual(g.querySelector('.wi-g').title, 'Level ' + want[i].g);
+    const rows = [...g.querySelectorAll('.wi-ex')];
+    assert.deepStrictEqual(rows.map(r => r.querySelector('.wi-lv').textContent), want[i].rows.map(x => x.lv), src);
+    assert.deepStrictEqual(rows.map(r => r.querySelector('.t').textContent), want[i].rows.map(x => x.en), src);
+  });
+  return want;
+}
 const exTexts = el => [...el.querySelectorAll('.entry-ex, .rw-ex')].map(e => (e.querySelector('.ex-t, .rw-t') || e).textContent);
 async function load(url, setup){
   const dom = await JSDOM.fromFile(path.join(__dirname, url.split('?')[0]), {
@@ -65,6 +92,19 @@ async function load(url, setup){
     assert.strictEqual(entries[0].querySelectorAll('.last-btn').length, 1);
     assert.ok(entries[0].querySelector('.dict-link').href.startsWith('https://www.oxfordlearnersdictionaries.com/search/english/?q='));
     assert.strictEqual(entries[0].querySelector('.entry-ex').textContent, topic.words[0].ex, name);
+    // Uzbek translation of the original example ("EX" in the topic's translation file): one for every word,
+    // shown directly under the English sentence (the English stays unchanged)
+    { const tr = await t.loadTopicTranslations(part, k);
+      await new Promise(r => setTimeout(r, 0));                 // the page redraws when the file has loaded
+      assert.deepStrictEqual(Object.keys(tr.EX || {}).sort(), topic.words.map(x => x.w).sort(), name + ': EX for every word');
+      [...t.document.querySelectorAll('.entry')].forEach((c, i) => {
+        const x = topic.words[i], ex = c.querySelector('.entry-ex');
+        assert.ok(tr.EX[x.w].trim() && tr.EX[x.w] !== x.ex, name + ' ' + x.w);
+        assert.strictEqual(ex.textContent, x.ex, name + ' ' + x.w);
+        assert.ok(ex.nextElementSibling && ex.nextElementSibling.classList.contains('entry-uzex'), name + ' ' + x.w + ': UZ line under the sentence');
+        assert.strictEqual(ex.nextElementSibling.querySelector('.uz').textContent, 'UZ' + tr.EX[x.w], name + ' ' + x.w);
+        assert.strictEqual(c.querySelectorAll('.entry-uzex').length, 1);
+      }); }
     // sequence number in the top-right corner: 1…n in topic order, one per card, hidden from screen readers
     const nos = [...entries].map(e => e.querySelectorAll('.entry-no'));
     assert.ok(nos.every(n => n.length === 1), name + ': one number per card');
@@ -214,7 +254,10 @@ async function load(url, setup){
       const en = d.getElementById('rw-en');
       if (e.it.tr) assert.strictEqual(en.textContent, e.it.def);
       else assert.ok(en.querySelector('a').href.includes('oxfordlearnersdictionaries.com'));
-      assert.strictEqual(d.getElementById('rw-ex').textContent, e.it.ex);
+      // the English sentence, plus its Uzbek line when the topic's translations are already loaded
+      assert.deepStrictEqual(exTexts(d.getElementById('rw-ex')), [e.it.ex]);
+      { const cached = w.getTopicTranslations(e.part, e.k), uzs = [...d.querySelectorAll('#rw-ex .rw-uzex')].map(u => u.textContent);
+        assert.deepStrictEqual(uzs, cached ? ['UZ' + cached.EX[e.it.w]] : []); }
       assert.strictEqual(d.getElementById('rw-topic').getAttribute('href'), `topic.html?topic=${e.k}${e.part === '1' ? '&part=1' : ''}`);
     }
     // 400 picks from 588 topics: both parts and many different topics (Part 2 alone has only 80)
@@ -611,8 +654,20 @@ async function load(url, setup){
         assert.strictEqual(a.textContent, `Part ${x.e.part} · ${x.e.k} · ${x.e.title} ↗`);
         assert.strictEqual(m.querySelector('.wi-src span') ? m.querySelector('.wi-src span').textContent : '',
           x.n > 1 ? `+${x.n - 1} more topic${x.n - 1 === 1 ? '' : 's'}` : '');
+        // example sentences of the source topic, grouped A / B / C
+        const groups = checkPopupExamples(w, m);
+        assert.deepStrictEqual(groups.map(g => g.g), ['A', 'B', 'C'], word + ': all three groups (full data)');
       });
     }
+    // the level buttons do not change the popup: all of A, B and C are shown whatever is selected
+    { const before = pop.querySelector('.wi-body').innerHTML;
+      d.getElementById('wi-close').click();
+      d.querySelector('.level-btn[data-level="B"]').click();
+      [...ga.querySelectorAll('.wi-link')].find(b => b.textContent === 'move around').click();
+      assert.strictEqual(pop.querySelector('.wi-body').innerHTML, before);
+      d.getElementById('wi-close').click();
+      d.querySelector('.level-btn[data-level="B"]').click();
+      link.click(); }
     const missing = gaRel.syn.concat(gaRel.ant).filter(x => !known(x));
     assert.strictEqual(pop.querySelector('.wi-none') ? pop.querySelector('.wi-none').textContent : '',
       missing.length ? 'Not in Part 1 or Part 2 yet: ' + missing.join(', ') : '');
@@ -638,6 +693,37 @@ async function load(url, setup){
       d.getElementById('wi-close').click();
     }
   }
+  // Popup examples when a word has only some levels, or none: only those groups / levels are shown
+  { // the sources of "move around" (Part 1 · 0004) and "travel" (Part 1 · 0008), as shown in the popup for "get around"
+    const cut = win => {
+      let v;
+      Object.defineProperty(win, 'VOCAB_EXAMPLES_PART1', { configurable: true, get: () => v, set: x => {
+        assert.ok(x['0004'] && x['0004']['move around'] && x['0008'] && x['0008']['travel'], 'test words still in Part 1');
+        x['0004']['move around'] = ['Only A1 here.', '', 'Only B1 here.', '', '', ''];
+        delete x['0008']['travel'];
+        v = x;
+      } });
+    };
+    w = await load('topic.html?topic=0004', cut);
+    const d = w.document;
+    const ga = [...d.querySelectorAll('.entry')].find(e => e.dataset.id === '0004|get around');
+    [...ga.querySelectorAll('.wi-link')].find(b => b.textContent === 'move around').click();
+    // the meaning of `word` whose source line starts with `src`
+    const meaning = (word, src) => {
+      const row = [...d.querySelectorAll('.wi-word')].find(r => r.dataset.w === word);
+      return row && [...row.querySelectorAll('.wi-m')].find(m => m.querySelector('.wi-src a').textContent.startsWith(src));
+    };
+    const ma = meaning('move around', 'Part 1 · 0004 · '), tr = meaning('travel', 'Part 1 · 0008 · ');
+    assert.ok(ma && tr, 'the two meanings are in the popup');
+    assert.deepStrictEqual(checkPopupExamples(w, ma).map(g => g.g + ':' + g.rows.map(r => r.lv).join(',')), ['A:A1', 'B:B1']);
+    assert.deepStrictEqual([...ma.querySelectorAll('.wi-ex .t')].map(e => e.textContent), ['Only A1 here.', 'Only B1 here.']);
+    assert.ok(!ma.querySelector('.wi-exg[data-g="C"]'), 'no empty C group');
+    assert.deepStrictEqual(checkPopupExamples(w, tr), []);
+    assert.ok(!tr.querySelector('.wi-exs'), 'no example block for a word without sentences');
+    assert.ok(tr.querySelector('.wi-tr') && tr.querySelector('.wi-src'), 'the rest of the meaning is still shown');
+    d.getElementById('wi-close').click();
+  }
+
   // Over the Today window and the Random box: Escape / click outside close only the popup
   w = await load('index.html');
   { const d = w.document, pop = d.querySelector('.wi-backdrop'), td = d.querySelector('.td-backdrop'), rw = d.querySelector('.rw-backdrop');
@@ -666,6 +752,58 @@ async function load(url, setup){
     w.VocabRandom.close();
   }
   store['vocab-today'] = '[]';
+
+  // ---- Uzbek translation of the original example sentence (A / B / C all off) ----
+  { store['vocab-level'] = '[]'; store['vocab-translate'] = 'on';
+    w = await load('topic.html?topic=0004');
+    const tr = await w.loadTopicTranslations('2', '0004'); await new Promise(r => setTimeout(r, 0));
+    const words = w.VOCAB_DATA['0004'].words, d = w.document;
+    const rows = c => [...c.querySelectorAll('.entry-ex, .entry-uzex')].map(e => e.classList.contains('entry-uzex') ? 'uz:' + e.querySelector('.uz').textContent.slice(2) : 'en:' + (e.querySelector('.ex-t') || e).textContent);
+    const card = i => d.querySelectorAll('.entry')[i];
+    assert.strictEqual(d.documentElement.getAttribute('data-translate'), 'on');
+    words.forEach((x, i) => assert.deepStrictEqual(rows(card(i)), ['en:' + x.ex, 'uz:' + tr.EX[x.w]], x.w));
+    // a level group on: its own sentences and translations, not the original one
+    d.querySelector('.level-btn[data-level="B"]').click();
+    const set0 = w.VOCAB_EXAMPLES['0004'][words[0].w];
+    assert.deepStrictEqual(rows(card(0)), ['en:' + set0[2], 'uz:' + tr.B1[words[0].w], 'en:' + set0[3], 'uz:' + tr.B2[words[0].w]]);
+    assert.ok(!rows(card(0)).includes('uz:' + tr.EX[words[0].w]));
+    d.querySelector('.level-btn[data-level="B"]').click();               // all off again: original + its Uzbek
+    assert.deepStrictEqual(rows(card(0)), ['en:' + words[0].ex, 'uz:' + tr.EX[words[0].w]]);
+    // Translate off: the lines are hidden by the page style (data-translate), the English is unchanged
+    d.getElementById('translate-toggle').click();
+    assert.strictEqual(d.documentElement.getAttribute('data-translate'), null);
+    assert.strictEqual(store['vocab-translate'], 'off');
+    assert.deepStrictEqual(exTexts(card(0)), [words[0].ex]);
+    d.getElementById('translate-toggle').click();
+    // search: the matching card keeps its English and Uzbek lines
+    const sbox = d.getElementById('search'); sbox.value = 'cramped'; sbox.dispatchEvent(new w.Event('input'));
+    const cr = words.find(x => x.w === 'cramped');
+    assert.deepStrictEqual(rows(card(0)), ['en:' + cr.ex, 'uz:' + tr.EX.cramped]);
+    sbox.value = ''; sbox.dispatchEvent(new w.Event('input'));
+
+    // Today window: original sentences of Part 1 and Part 2 words, each with its Uzbek line
+    const p1w = w.VOCAB_DATA_PART1['0001'].words[0];
+    store['vocab-today'] = JSON.stringify(['0004|cramped', 'p1:0001|' + p1w.w]);
+    w = await load('index.html');
+    const tr1 = await w.loadTopicTranslations('1', '0001'), tr2 = await w.loadTopicTranslations('2', '0004');
+    w.document.getElementById('today-open').click();
+    const tdRows = it => [...it.querySelectorAll('.td-ex, .td-uzex')].map(e => (e.classList.contains('td-uzex') ? 'uz:' : 'en:') + (e.classList.contains('td-uzex') ? e.textContent.slice(2) : e.textContent));
+    const items = [...w.document.querySelectorAll('.td-item')];
+    assert.deepStrictEqual(tdRows(items[0]), ['en:' + cr.ex, 'uz:' + tr2.EX.cramped]);
+    assert.deepStrictEqual(tdRows(items[1]), ['en:' + p1w.ex, 'uz:' + tr1.EX[p1w.w]]);
+    w.document.getElementById('td-close').click();
+
+    // Random box: a word whose topic file is loaded shows its Uzbek line straight away
+    let n = 0, e;
+    do { w.VocabRandom.show(); e = rwEntry(w); n++; } while (!w.getTopicTranslations(e.part, e.k) && n < 20000);
+    const cached = w.getTopicTranslations(e.part, e.k);
+    assert.ok(cached, 'found a random word from a loaded topic');
+    assert.deepStrictEqual([...w.document.getElementById('rw-ex').children].map(x => x.className + ':' + (x.classList.contains('rw-uzex') ? x.textContent.slice(2) : x.textContent)),
+      ['rw-ex:' + e.it.ex, 'rw-uzex has:' + cached.EX[e.it.w]]);
+    assert.strictEqual(w.document.getElementById('rw-ex-label').textContent, 'Example');
+    w.VocabRandom.close();
+    store['vocab-today'] = '[]';
+  }
 
   // ---- Extra space where a new level group starts (A → B, B → C): class "ex-grp" on that sentence ----
   { // expected: the levels shown, and which of them start a new group (not the first one)

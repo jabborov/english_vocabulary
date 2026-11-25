@@ -1,4 +1,4 @@
-// Part 1 topic 0372: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0372: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0372', {
  "A1": {
   "supplier": "Sizning yetkazib beruvchingiz kim?"
@@ -17,5 +17,8 @@ VOCAB_TR_STORE('1', '0372', {
  },
  "C2": {
   "supplier": "Ishlab chiqarish muddatlari qisqa bo'lganda asosiy yetkazib beruvchilar bilan yaxshi munosabatni saqlash juda muhim."
+ },
+ "EX": {
+  "supplier": "Yetkazib beruvchimiz noto'g'ri ehtiyot qismlarni yuborgani uchun uzr so'rashga majbur bo'ldik."
  }
 });

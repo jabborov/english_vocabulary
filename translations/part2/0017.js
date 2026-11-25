@@ -1,4 +1,4 @@
-// Part 2 topic 0017: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0017: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0017', {
  "A1": {
   "alienate": "Do'stlaringizni o'zingizdan uzoqlashtirmang.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('2', '0017', {
   "self-esteem": "Ba'zi psixologlar o'z-o'zini hurmat qilishga haddan tashqari e'tibor qaratish haqiqiy o'ziga ishonch o'rniga narsissizmni rag'batlantirishi mumkinligidan ogohlantiradi.",
   "self-help": "Tanqidchilarning ta'kidlashicha, o'z-o'zini rivojlantirish adabiyoti kengroq ijtimoiy va iqtisodiy omillarni e'tiborsiz qoldirib, shaxsiy mas'uliyatga ortiqcha urg'u beradi.",
   "wildly": "Muqovalarda berilgan va'dalar ko'pincha ichidagi kamtarona, sog'lom fikrga asoslangan maslahatlardan keskin farq qiladi."
+ },
+ "EX": {
+  "alienate": "Doim haddan tashqari ijobiy bo'lish atrofingizdagi odamlarni sizdan uzoqlashtirishi mumkin.",
+  "bad bits": "Hayotning yaxshi tomonlari ham, yomon tomonlari ham bor va hech bir kitob buni o'zgartira olmaydi.",
+  "boils": "Chigirtka va chipqon balolari ko'pchilikning kundalik hayotiga xos emas.",
+  "bulging": "Uning javonlari o'z-o'zini rivojlantirish kitoblariga to'lib-toshgan.",
+  "challenge": "Haqiqiy qiyinchilik maslahatni amalda qo'llashdir.",
+  "coaching": "Hayotiy kouching o'z-o'zini rivojlantirish kitoblariga ommabop muqobil bo'lib qoldi.",
+  "deserve": "Ko'plab o'z-o'zini rivojlantirish kitoblari o'quvchilarga ular baxtli bo'lishga loyiq ekanini aytadi.",
+  "entitle": "O'z-o'zini rivojlantirish kitobini sotib olish sizga mukammal hayotga haq bermaydi.",
+  "find out": "Bu kitoblar meni haqiqatan baxtliroq qila oladimi-yo'qmi, bilib olmoqchi edim.",
+  "flip": "Bir necha sahifani varaqlab chiqdim, lekin hech narsa e'tiborimni tortmadi.",
+  "get on with": "Ba'zan hayot haqida o'qishni to'xtatib, shunchaki yashashda davom etgan ma'qul.",
+  "grievance": "Ba'zi kitoblar o'quvchilarni eski gina-kuduratlardan voz kechishga undaydi.",
+  "healing": "Ba'zi o'z-o'zini rivojlantirish kitoblari hayotdagi og'ir davrdan keyin ruhiy shifo topishga e'tibor qaratadi.",
+  "heaven": "O'z-o'zini rivojlantirish kitoblari yer yuzida jannatni va'da qila olmaydi.",
+  "impressive": "O'z-o'zini rivojlantirish kitoblarining savdo ko'rsatkichlari chindan ham ta'sirli.",
+  "inspirational": "Ko'plab o'quvchilar bu kitoblardagi hikoyalarni ilhomlantiruvchi deb bilishadi.",
+  "junkies": "O'z-o'zini rivojlantirish kitoblariga ruju qo'yganlar doim javob izlab, kitob ketidan kitob sotib olishadi.",
+  "locust": "Injilda Misr chigirtkalar balosiga duchor bo'ladi.",
+  "low-point": "Odamlar ko'pincha hayotlarining eng og'ir nuqtasiga yetganda o'z-o'zini rivojlantirish kitoblariga murojaat qilishadi.",
+  "optimistic": "O'z-o'zini rivojlantirish kitoblari ishlar yomon ketayotganda ham optimist bo'lishni o'rgatadi.",
+  "plague": "Yozuvchi hayot faqat balo-qazo va ofatlardan iborat emas, deb hazillashdi.",
+  "recent": "Yaqinda o'tkazilgan tadqiqot o'z-o'zini rivojlantirish kitoblari odamlarning xulqini kamdan-kam o'zgartirishini aniqladi.",
+  "self-esteem": "Ko'plab o'z-o'zini rivojlantirish kitoblari odamlarga o'zini qadrlash hissini oshirishga yordam berishini da'vo qiladi.",
+  "self-help": "O'z-o'zini rivojlantirish kitoblari hayotingizni bir necha oddiy qadamda o'zgartirishni va'da qiladi.",
+  "wildly": "Ba'zi o'z-o'zini rivojlantirish kitoblari haddan tashqari optimistik va'dalar beradi."
  }
 });

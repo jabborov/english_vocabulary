@@ -1,4 +1,4 @@
-// Part 1 topic 0314: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0314: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0314', {
  "A1": {
   "dazzle": "Chiroqlar ko'zimni qamashtirdi.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0314', {
   "shortcut": "Mukammal tanaga eltuvchi qisqa yo'llarni izlash qo'shimchalar bozorining gullab-yashnashiga sabab bo'ldi.",
   "shortcuts": "Anabolik steroidlar kabi qisqa yo'llar kosmetik foydasidan ancha oshib ketadigan xavflarga ega.",
   "vanity": "Ba'zilar shunchaki manmanlik deb hisoblaydigan narsa aslida o'z qadrini his etishdagi chuqurroq ishonchsizliklarni aks ettirishi mumkin."
+ },
+ "EX": {
+  "dazzle": "U yangi mushaklari bilan hammani lol qoldirishga umid qilgan edi.",
+  "gimmick": "Ko'plab parhez mahsulotlari shunchaki reklama hiylasidir.",
+  "handsome": "U baland bo'yli va kelishgan.",
+  "hunk": "U haqiqiy barvasta yigit.",
+  "obese": "Semizlik yurak kasalliklari xavfini oshiradi.",
+  "padded": "Ba'zi erkaklar mushakdorroq ko'rinish uchun yostiqchali ko'ylak kiyishadi.",
+  "pectoral": "U ko'krak mushaklarini kattalashtirmoqchi edi.",
+  "pectoral muscle": "Yerdan turib-yotish ko'krak mushaklarini rivojlantirishga yordam beradi.",
+  "physique": "Uning qomati sportchinikiga o'xshaydi.",
+  "shortcut": "Sog'lom tanaga erishishning qisqa yo'li yo'q.",
+  "shortcuts": "U mushak o'stirish uchun xavfli oson yo'llarni tanladi.",
+  "vanity": "Sport zalida soatlab vaqt o'tkazish shunchaki manmanlikmi?"
  }
 });

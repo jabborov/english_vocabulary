@@ -1,4 +1,4 @@
-// Part 1 topic 0137: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0137: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0137', {
  "A1": {
   "CD": "Menda kompakt-disk bor.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0137', {
   "surgery": "Mahalliy poliklinika kamharakat turmush tarziga ega bemorlar uchun piyoda yurish guruhlarini taklif qila boshladi.",
   "tide": "Tobora ko'payib borayotgan dalillar to'lqini o'tirishni zararsiz odat deb chetga surib qo'yishni qiyinlashtirdi.",
   "vessel": "Kamharakat turmush tarzi tomirlarning ichki qavatini o'zgartirib, yurak-qon tomir kasalliklariga sabab bo'lishi mumkin."
+ },
+ "EX": {
+  "CD": "Ilgari odamlar kompakt-diskni almashtirish uchun o'rnidan turishiga to'g'ri kelardi.",
+  "GP": "Oilaviy shifokorim menga tez-tez turib, ko'proq harakat qilishni maslahat berdi.",
+  "add together": "O'tirib o'tkazadigan barcha soatlarimizni qo'shsak, jami juda katta bo'ladi.",
+  "blood vessel": "Haddan tashqari uzoq o'tirish qon tomirlaringizga ta'sir qilishi mumkin.",
+  "bum": "Biz dumbamizda o'tirib juda ko'p vaqt o'tkazamiz.",
+  "circulation": "Uzoq vaqt qimirlamay o'tirish qon aylanishi uchun zararli.",
+  "comfortably": "Ko'pchiligimiz kunning katta qismini qulay o'tirib o'tkazamiz.",
+  "engineer out": "Zamonaviy hayot jismoniy faoliyatning aksariyat qismini chetlab o'tadigan qilib tuzilgan.",
+  "glucose": "Ovqatdan keyin harakat qilish tanaga glyukozadan foydalanishga yordam beradi.",
+  "motorised": "Biz piyoda yurish o'rniga motorli transportdan foydalanamiz.",
+  "not to mention": "O'tirish belingiz u yoqda tursin, yuragingiz uchun ham zararli.",
+  "organised": "Sizga uyushtirilgan sport mashg'ulotlari shart emas - shunchaki kun davomida ko'proq harakat qiling.",
+  "surgery": "U shifokor qabulxonasida bir soat kutdi.",
+  "tide": "Ishda kun bo'yi o'tirishga qarshi vaziyat o'zgarib bormoqda.",
+  "vessel": "Qon butun tana bo'ylab tomirlar orqali oqadi."
  }
 });

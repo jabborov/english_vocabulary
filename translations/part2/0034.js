@@ -1,4 +1,4 @@
-// Part 2 topic 0034: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0034: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0034', {
  "A1": {
   "aim": "Mening maqsadim ingliz tilini o'rganish.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('2', '0034', {
   "promising": "Natijalar shubhasiz istiqbolli bo'lsa-da, ular ko'proq xilma-xil guruhlarda sinab ko'rilmaguncha ehtiyotkorlik bilan talqin qilinishi kerak.",
   "realistically": "Real baholanganda, ba'zi ilova ishlab chiquvchilarining da'volari lingvistik tadqiqotlardan ko'ra marketingga ko'proq tayanadi.",
   "tend": "Foydalanuvchilar tanishlikni mukammal bilish bilan aralashtirib yuborishga moyil bo'lib, so'zni tanishni uni qo'llay olish qobiliyati deb adashadi."
+ },
+ "EX": {
+  "aim": "Ilovaning maqsadi foydalanuvchilarga har kuni yangi so'zlarni o'rganishda yordam berishdir.",
+  "evidence": "Faqat ilovalarning o'zi sizni tilda erkin gapiradigan qila olishiga dalil kam.",
+  "explicit": "Grammatikani aniq va ochiq tushuntirish katta yoshli o'rganuvchilarga qoidalarni tushunishga yordam beradi.",
+  "fictional": "Tajribada ishtirokchilar tadqiqotchilar o'ylab topgan to'qima tilni o'rganishdi.",
+  "immersion": "Chet elda yashash sizni yangi til muhitiga to'liq sho'ng'itadi.",
+  "implicit": "Bolalar o'z ona tilini grammatika qoidalarini o'rganmasdan, yashirin, ongsiz o'rganish orqali egallaydi.",
+  "indeed": "Ilovalar haqiqatan ham so'z boyligini tez o'rganishga yordam berishi mumkin.",
+  "keep up": "Band bo'lganingizda kundalik mashg'ulotlarni davom ettirish qiyin.",
+  "key finding": "Tadqiqotning asosiy xulosalaridan biri shuki, ilova foydalanuvchilari grammatikani o'rgatilmasdan o'zlashtirgan.",
+  "mimic": "Ba'zi ilovalar ona tili egalari bilan haqiqiy suhbatlarga taqlid qilishga urinadi.",
+  "one particular": "Tadqiqotchilar millionlab o'rganuvchilar foydalanadigan muayyan bir ilovaga e'tibor qaratishdi.",
+  "promising": "Tadqiqotning dastlabki natijalari juda umidli.",
+  "realistically": "Real qaraganda, ilovada kuniga o'n daqiqa shug'ullanish sizni tilda erkin gapiradigan qilmaydi.",
+  "tend": "Odamlar bir necha haftadan so'ng til ilovalaridan voz kechishga moyil bo'lishadi."
  }
 });

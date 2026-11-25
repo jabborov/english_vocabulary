@@ -1,4 +1,4 @@
-// Part 1 topic 0503: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0503: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0503', {
  "A1": {
   "ask in": "Uni ichkariga taklif qiling.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0503', {
   "musicality": "Uning ijrosida shunchaki o'rgatib bo'lmaydigan tabiiy musiqiylik namoyon bo'lardi.",
   "musically": "Musiqiy jihatdan boy oilalarda o'sgan bolalarda ko'pincha yaxshi tinglash ko'nikmalari shakllanadi.",
   "placing": "Barcha hakamlar ballari tekshirib chiqilgach, yakuniy o'rinlar e'lon qilinadi."
+ },
+ "EX": {
+  "ask in": "U musiqachilarni bir piyola choyga ichkariga taklif qildi.",
+  "debunk": "Tadqiqot inson yo musiqiy, yo musiqiy emas degan fikrni puchga chiqaradi.",
+  "engender": "Musiqa darslari musiqaga umrbod muhabbat uyg'otishi mumkin.",
+  "genius": "Motsart musiqa dahosi edi.",
+  "hum": "U ishlayotib bir kuyni ming'irlab xirgoyi qildi.",
+  "incapable": "Ba'zi odamlar o'zlarini ohangga mos kuylashga qodir emas deb hisoblaydi.",
+  "musicality": "Test odamlarning musiqiyligini o'lchaydi.",
+  "musically": "Oilangizda musiqaga iste'dodlilar bormi?",
+  "placing": "Testdagi o'rningiz qanchalik musiqiy ekaningizni ko'rsatadi."
  }
 });

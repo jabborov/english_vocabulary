@@ -1,4 +1,4 @@
-// Part 1 topic 0277: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0277: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0277', {
  "A1": {
   "adhere": "Qoidalarga rioya qiling.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0277', {
   "twenty": "Tadqiqotchilar bunday kontentga eng ko'p o'n to'qqiz-yigirma yoshlar va yigirma yoshdan oshgan erkaklar duch kelishini aniqladi.",
   "unknowingly": "Ko'plab yigitlar bunga bilmagan holda tortiladi: fitnes maslahatlaridan boshlab, dushmanona qarashlar bilan yakunlaydi.",
   "unnatural": "Erkaklardan barcha his-tuyg'ularni bostirishni talab qilish nafaqat g'ayritabiiy, balki ularning sog'lig'iga ham zararlidir."
+ },
+ "EX": {
+  "adhere": "Ba'zi erkaklar erkak kishi qanday yurish-turishi kerakligi haqidagi qat'iy qoidalarga amal qilishlari shart deb hisoblashadi.",
+  "bravado": "Internetdagi kuchli ko'rinish ortida ko'plab yigitlar o'zlarini yolg'iz his qilishadi.",
+  "do one's best": "Ota-onalar farzandlarini internetda himoya qilish uchun qo'llaridan kelganicha harakat qilishadi.",
+  "hold down": "Ba'zi kuzatuvchilar ishda yoki munosabatlarda uzoq qola olmay qiynalishadi.",
+  "marker": "Pul va mushaklar ba'zan muvaffaqiyat belgisi sifatida qaraladi.",
+  "masculinity": "Erkaklik haqidagi tasavvurlar vaqt o'tishi bilan o'zgaradi.",
+  "misshapen": "Ba'zi tanqidchilar bu g'oyalarni erkak qanday bo'lishi kerakligi haqidagi buzilgan qarash deb atashadi.",
+  "rigid": "Bu jamoalarda ko'pincha erkaklar va ayollar haqida qotib qolgan qarashlar bo'ladi.",
+  "twenty": "Bu saytlarning ko'plab kuzatuvchilari yigirma yoshlardagi odamlardir.",
+  "unknowingly": "Ba'zi o'g'il bolalar o'zlari bilmagan holda zararli videolarni ko'ra boshlaydi.",
+  "unnatural": "Erkaklardan hech qachon his-tuyg'u ko'rsatmasliklarini kutish g'ayritabiiydir."
  }
 });

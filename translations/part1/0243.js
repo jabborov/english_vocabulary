@@ -1,4 +1,4 @@
-// Part 1 topic 0243: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0243: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0243', {
  "A1": {
   "balancing": "Muvozanatni saqlash qiyin.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0243', {
   "portfolio": "Portfel karyera xilma-xillik va xavfsizlik beradi, biroq u katta o'z-o'zini tarbiyalashni talab qiladi.",
   "serial murderer": "\"Slasher\" degan o'yinqaroq atama qo'rqinchli filmlardagi seriyali qotil atamasidan ancha ma'yus tarzda olingan.",
   "wise to": "Yosh xodimlar ish o'rni kafolatlanmaganidan yaxshi xabardor."
+ },
+ "EX": {
+  "balancing": "Uchta ishga ega bo'lish ehtiyotkorlik bilan muvozanat saqlashni talab qiladi.",
+  "bind": "Agar bitta ish tugasa, qiyin ahvolda qolmaysiz, chunki boshqalari bor.",
+  "bow": "Dasturlashni o'rganish unga yana bir qo'shimcha imkoniyat beradi.",
+  "dissatisfied": "Ko'p odamlar faqat bitta ishga ega bo'lishdan norozi.",
+  "entrepreneur": "U ikkita kichik biznesni boshqaradigan tadbirkor.",
+  "entrepreneurial": "Bir nechta kasbni boshqarish uchun tadbirkorlik ruhi kerak.",
+  "have in mind": "Qanday ishni ko'zlayapsiz?",
+  "murderer": "Qotil qamoqqa jo'natildi.",
+  "ne": "\"Ne'er-do-well\" — dangasa odam, ya'ni band \"slesher\"ning aksi.",
+  "ninja": "U o'zini marketing ninjasi deb ataydi.",
+  "oh": "Oh, uchta ishing borligini bilmagan ekanman!",
+  "once more": "\"Slesher\" kimligini yana bir bor tushuntirib beray.",
+  "peasant": "O'tmishda dehqonlar ko'pincha bir necha xil ish bilan shug'ullanishgan.",
+  "popularise": "\"Slasher\" atamasini AQShdagi bir yozuvchi ommalashtirgan.",
+  "portfolio": "U yozuvchi, o'qituvchi va dizayner sifatida bir nechta kasbni qo'shib olib boradi.",
+  "serial murderer": "\"Slasher\" ketma-ket qotilni anglatishi mumkin, lekin bu yerda ko'p ishli odamni bildiradi.",
+  "wise to": "Ish beruvchilar endi moslashuvchan xodimlarning afzalliklarini yaxshi tushunishadi."
  }
 });

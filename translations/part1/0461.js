@@ -1,4 +1,4 @@
-// Part 1 topic 0461: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0461: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0461', {
  "A1": {
   "assault": "Bu hujum edi.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0461', {
   "terrorism": "Kiberterrorizmni ta'riflash qiyin, chunki hujumchilarning maqsadlari ko'pincha noaniq bo'ladi.",
   "unofficial": "Hukumat norasmiy kiberfaollar bilan har qanday aloqasini rad etdi.",
   "warfare": "Kiberjinoyat va davlat homiyligidagi urush harakatlari o'rtasidagi chegara tobora xiralashib bormoqda."
+ },
+ "EX": {
+  "assault": "Veb-saytlar keng ko'lamli hujumga uchradi.",
+  "await": "Biz hujum haqida qo'shimcha xabarlarni kutmoqdamiz.",
+  "civilian": "Kiberhujumlar askarlargagina emas, tinch aholiga ham zarar yetkazishi mumkin.",
+  "cyberspace": "Endi urushlar kibermakonda ham olib borilishi mumkin.",
+  "governing": "Hukmron partiya hujumni qoraladi.",
+  "hacker": "Xakerlar hukumat veb-saytlarini buzib kirishdi.",
+  "in that respect": "Shu jihatdan kibermakon real dunyoga o'xshaydi.",
+  "information system": "Davlat axborot tizimlari yaxshiroq himoyaga muhtoj.",
+  "registration": "Veb-sayt ro'yxatdan o'tkazilgan ma'lumotlar uning egasini aniqlashga yordam berishi mumkin.",
+  "specify": "Hisobotda xakerlar kim ekani aniq ko'rsatilmagan.",
+  "speculate": "Mutaxassislar hujum ortida kim turgani haqida taxminlar qilishdi.",
+  "terrorism": "Ba'zi mutaxassislar bu hujumlarni kiberterrorizm deb ataydi.",
+  "unofficial": "Xakerlar norasmiy guruhning a'zolari edi.",
+  "warfare": "Kiber urush tobora kuchayib borayotgan tahdiddir."
  }
 });

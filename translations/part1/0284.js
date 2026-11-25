@@ -1,4 +1,4 @@
-// Part 1 topic 0284: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0284: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0284', {
  "A1": {
   "BA": "Uning bakalavr darajasi bor.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0284', {
   "staying power": "Yangi yasalgan so'zlarning faqat kichik bir qismigina standart lug'atlarga kirish uchun zarur bo'lgan yashovchanlikni namoyon etadi.",
   "survival of the fittest": "Til o'zgarishini eng kuchlilarning omon qolishi deb ta'riflash raqobatdagi shakllarning qanday yuksalib, qanday tushishini yaxshi ifodalaydi.",
   "win out": "Tarix shuni ko'rsatadiki, til bahslarida deyarli har doim amaldagi qo'llanish me'yoriy qoidalar ustidan g'alaba qozonadi."
+ },
+ "EX": {
+  "BA": "U ingliz tili va tilshunoslik bo'yicha bakalavr darajasiga ega.",
+  "advertising campaign": "\"I'm loving it\" iborasi reklama kampaniyasi orqali mashhur bo'ldi.",
+  "authoritarian": "\"Siz buni qilishingiz shart\" degan gap avtoritar ohangda eshitilishi mumkin.",
+  "baffle": "Yangi jargon ko'pincha ota-onalarni hayron qoldiradi.",
+  "baffling": "Ingliz tili grammatikasidagi ba'zi o'zgarishlar keksa avlodni hayron qoldiradi.",
+  "feel up": "Bugun yangi grammatika qoidalarini o'rganishga holim yo'q.",
+  "five hundred": "So'nggi besh yuz yil ichida ingliz tili juda ko'p o'zgardi.",
+  "interrogative": "\"Who\" va \"what\" so'roq olmoshlaridir.",
+  "modal": "\"May\" va \"might\" ehtimollikni bildiruvchi modal ma'noga ega.",
+  "modal verb": "\"Shall\" – odamlar tobora kamroq ishlatadigan modal fe'l.",
+  "nicer": "\"Could you…?\" iborasi \"You must…\"ga qaraganda yoqimliroq eshitiladi.",
+  "obedience": "O'tmishda jamiyat ko'proq itoatkorlikni kutardi.",
+  "oldie": "Bobom o'zini zamonaviy jargondan ortda qolgan qariya deb ataydi.",
+  "permanent": "Grammatikadagi bu o'zgarish doimiymi?",
+  "plo": "\"Plo\" so'zi epizodning lug'at ro'yxatida uchraydi, ammo uning aniq ma'nosi noma'lum.",
+  "progressive tense": "\"I'm loving it\" iborasida holat fe'li davomli zamonda ishlatilgan.",
+  "pronoun": "\"They\" – hozir ko'pincha bir kishiga nisbatan ishlatiladigan olmosh.",
+  "push out": "Grammatikaning yangi shakllari eskilarini siqib chiqarishi mumkin.",
+  "shy away from": "Odamlar o'ta buyruqbozdek ko'rinishdan qochishadi.",
+  "shying": "\"Must\" so'zidan bunday qochish yaqinda paydo bo'lgan o'zgarishdir.",
+  "similarly": "Xuddi shunday, \"shall\" ham tobora kamroq ishlatilmoqda.",
+  "soften": "Iltimoslarimizni yumshatish uchun \"balki\" kabi so'zlardan foydalanamiz.",
+  "stative": "\"Know\" va \"love\" holat fe'llaridir.",
+  "staying": "Yangi so'zlarning tilda saqlanib qolishi haqida so'rang.",
+  "staying power": "Ba'zi yangi so'zlar uzoq yashamaydi.",
+  "survival of the fittest": "Tildagi o'zgarishlar eng kuchlining omon qolishiga o'xshaydi — foydali shakllar saqlanib qoladi.",
+  "win out": "Oxir-oqibat odatda soddaroq shakl g'olib chiqadi."
  }
 });

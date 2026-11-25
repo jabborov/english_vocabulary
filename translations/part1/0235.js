@@ -1,4 +1,4 @@
-// Part 1 topic 0235: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0235: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0235', {
  "A1": {
   "abandon": "Itingizni tashlab ketmang.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0235', {
   "rear": "Dunyoning ko'plab qurg'oqchil hududlarida chorva boqish hamon yagona hayotiy tirikchilik manbai bo'lib qolmoqda.",
   "red meat": "Qizil go'sht iste'molini kamaytirish shaxslar o'z chiqindilarini kamaytirishining eng oddiy usullaridan biridir.",
   "wrap up": "Xulosa qilib aytganda, vegan dunyo maqbul bo'lishi mumkin, ammo u jiddiy amaliy savollarni tug'diradi."
+ },
+ "EX": {
+  "abandon": "Ko'chmanchi chorvadorlar o'z hayvonlarini shunchaki tashlab keta olmaydi.",
+  "animal product": "Veganlar hech qanday hayvon mahsulotlarini iste'mol qilmaydi va ishlatmaydi.",
+  "arid": "Qurg'oqchil hududlarda hayvonlar ko'pincha yagona oziq-ovqat manbaidir.",
+  "asset": "Ko'plab oilalar uchun hayvonlar eng muhim boylikdir.",
+  "consideration": "Ovqatlanish tartibini o'zgartirishda narx muhim omil hisoblanadi.",
+  "cruelty": "Ko'p odamlar fermalardagi hayvonlarga nisbatan shafqatsizlik sababli veganlikka o'tishadi.",
+  "digestion": "Kletchatkaga boy vegan ratsioni hazm qilish uchun foydali bo'lishi mumkin.",
+  "farm animal": "Yer yuzida yovvoyi sutemizuvchilarga qaraganda uy hayvonlari ancha ko'p.",
+  "healthcare": "Agar vegan ratsioni yurak kasalliklarini kamaytirsa, sog'liqni saqlash xarajatlarini qisqartirishi mumkin.",
+  "leather": "Veganlar charm poyabzal yoki kamar taqishmaydi.",
+  "nomadic": "Ko'chmanchi jamoalar omon qolish uchun o'z podalariga tayanadi.",
+  "practicable": "Vegan dunyosi haqiqatan ham amalga oshirib bo'ladigan narsami?",
+  "productivity": "Sog'liqning yaxshilanishi ishdagi samaradorlikni ham oshirishi mumkin.",
+  "rear": "Fermerlar go'sht va sut uchun sigir va qo'y boqishadi.",
+  "red meat": "Juda ko'p qizil go'sht yeyish sog'lig'ingizga zarar qilishi mumkin.",
+  "wrap up": "Keling, veganlik haqidagi bugungi muhokamamizni yakunlaylik."
  }
 });

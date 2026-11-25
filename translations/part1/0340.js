@@ -1,4 +1,4 @@
-// Part 1 topic 0340: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0340: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0340', {
  "A1": {
   "auditorium": "Tomosha zali katta.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('1', '0340', {
   "screening": "Ovqat yeyish taqiqlangan jimjit seanslar kino ixlosmandlari orasida ommalashib ketdi.",
   "torch": "Qorong'i zalda telefon chirog'ining yarqirashi kinoteatr odobining zamonaviy buzilishidir.",
   "wrapper": "Ishlab chiqaruvchilar hatto kinoteatr tomoshabinlari uchun maxsus shovqinsizroq o'ramlar ishlab chiqishgan."
+ },
+ "EX": {
+  "auditorium": "Film boshlanganda tomosha zali jim bo'lib qoldi.",
+  "babysitter": "Kinoga borishimiz uchun bolaga qarab turadigan enaga yolladik.",
+  "bad manners": "Film paytida gaplashish odobsizlikdir.",
+  "bugbear": "Meni eng ko'p g'ashimga tegadigan narsa kinoteatrda telefondan foydalanadigan odamlar.",
+  "code of conduct": "Kinoteatrda mijozlar uchun xulq-atvor qoidalari mavjud.",
+  "crackle": "Chips paketining qarsillashi kinoteatrning narigi chetida ham eshitiladi.",
+  "cubic metre": "Kinoteatr har kecha bir necha kub metr axlatni tashlab yuboradi.",
+  "dining room": "Kinoteatr ovqatlanish xonasi emas.",
+  "draw up": "Kinoteatr qoidalar ro'yxatini tuzib chiqdi.",
+  "dual": "Kinoteatr ham ovqatlanish, ham film ko'rish joyi sifatida ikki tomonlama vazifani bajaradi.",
+  "enjoyment": "Shovqin bilan ovqatlanadiganlar boshqalarning filmdan zavqlanishiga xalaqit beradi.",
+  "front room": "Uyda, mehmonxonada film paytida gaplashsangiz bo'ladi.",
+  "loudspeaker": "Film ovozi ulkan karnaylar orqali yangradi.",
+  "makeup": "Kinoteatr tomoshabinlarining tarkibi o'zgargan.",
+  "messy": "Qorong'ida popkorn yeyish ancha tartibsiz bo'lishi mumkin.",
+  "moaning": "Kinoteatrdagi shovqinli odamlar haqida ko'p noliishlar bo'ldi.",
+  "moviegoer": "Ko'plab kinoteatr tomoshabinlari shovqinli gazaklarni yoqtirmaydi.",
+  "multiplex": "Biz filmni mahalliy multipleks kinoteatrda tomosha qildik.",
+  "munching": "Popkornning kurs-kurs chaynalishi uning jig'iga tegdi.",
+  "noisily": "U popkornini shovqin bilan yedi.",
+  "odour": "Kinoteatrni issiq ovqatning hidi tutib ketdi.",
+  "projection": "Film namoyishi kech boshlandi.",
+  "removal": "Kinoteatr shovqin qiluvchi mijozlarni zaldan chiqarib yuborishni buyurishi mumkin.",
+  "screening": "Biz kechki seansga bordik.",
+  "torch": "Kimdir film davomida telefonini chiroq sifatida ishlatdi.",
+  "wrapper": "Shitirlaydigan konfet qog'ozi hammaning jig'iga tegdi."
  }
 });

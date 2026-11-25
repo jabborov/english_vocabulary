@@ -1,4 +1,4 @@
-// Part 1 topic 0489: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0489: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0489', {
  "A1": {
   "alteration": "O'zgartirish kiriting.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0489', {
   "parental": "Ota-onaning kelib chiqishi muvaffaqiyatni oldindan belgilovchi eng kuchli omillardan biri bo'lib qolmoqda.",
   "take hold of": "Haqiqiy o'zgarish faqat jamoalar o'z taraqqiyotini o'z qo'llariga olganidagina ro'y beradi.",
   "transition": "Ta'limdan ishga silliq o'tish ijtimoiy harakatchanlikni oshiradi."
+ },
+ "EX": {
+  "alteration": "Tizimga kiritiladigan ba'zi o'zgarishlar ko'proq bolalarga yordam berishi mumkin.",
+  "coalition": "Koalitsion hukumat ijtimoiy harakatchanlikni yaxshilashga va'da berdi.",
+  "correlation": "Ota-onalar daromadi bilan farzandlar daromadi o'rtasida kuchli bog'liqlik bor.",
+  "fairer": "Hukumat adolatliroq jamiyat qurishni istaydi.",
+  "get ahead": "Qattiq mehnat sizga hayotda oldinga chiqishga yordam berishi mumkin.",
+  "hinge": "Muvaffaqiyat ota-onangiz kimligiga bog'liq bo'lmasligi kerak.",
+  "lower class": "Quyi tabaqa bolalarining imkoniyatlari ko'pincha kamroq bo'ladi.",
+  "mobility": "Ijtimoiy harakatchanlik odamlar o'zlari tug'ilgan tabaqadan yuqoriga ko'tarila olishini anglatadi.",
+  "occupation": "Ota-onangizning kasbi hayotdagi imkoniyatlaringizga ta'sir qilishi mumkin.",
+  "parental": "Ota-onaning daromadi bolalarning muvaffaqiyatiga katta ta'sir ko'rsatadi.",
+  "take hold of": "Yoshlar o'z kelajaklarini o'z qo'llariga olishlari kerak.",
+  "transition": "Maktabdan ishga o'tish qiyin bo'lishi mumkin."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0234: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0234: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0234', {
  "A1": {
   "alkali": "Sovun ishqordir.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0234', {
   "smug": "Ekologik ustunlikning manmanlik tuyg'usi aks holda ishontirish mumkin bo'lgan odamlarni o'zidan uzoqlashtirishi mumkin.",
   "tile": "Kafel, daraxt yoki shisha munchoq kabi ijodiy yodgorliklar an'anaviy qabrlardan uzoqlashishni aks ettiradi.",
   "toxin": "Suvli kremasiya qisman an'anaviy usullarga qaraganda ancha kam zaharli moddalar chiqargani uchun targ'ib qilinadi."
+ },
+ "EX": {
+  "alkali": "Suvda dafn qilishda jasadni parchalash uchun suv va ishqordan foydalaniladi.",
+  "artificial heart": "Suvda dafn qilingandan keyin sun'iy yurak kabi metall qismlar olib tashlanadi.",
+  "cemetery": "Ko'plab shahar qabristonlarida joy tugab bormoqda.",
+  "centigrade": "Harorat Selsiy shkalasida berilgan.",
+  "come with": "Har bir usulning o'ziga xos ekologik zarari bor.",
+  "cremation": "Murdani kuydirish karbonat angidrid va boshqa ifloslanishlarni keltirib chiqaradi.",
+  "crockery": "Suyak kukuni maydalangan chinni idishga biroz o'xshaydi.",
+  "degree centigrade": "Suv taxminan 150 gradus Selsiygacha isitiladi.",
+  "dispose": "Suvda dafn qilishdan keyin qolgan suyuqlik xavfsiz tarzda yo'q qilinadi.",
+  "dispose of": "Bizga sayyoraga zarar yetkazmasdan marhumlarni dafn etishning yaxshiroq usullari kerak.",
+  "good part": "Yaxshi tomoni shundaki, suvda dafn qilish ancha kam energiya sarflaydi.",
+  "graf": "\"Graf\" so'zi bu epizodda uchraydi, ehtimol uzunroq so'z yoki ismning bir qismi sifatida.",
+  "grind up": "Qolgan suyaklar maydalanib, oq kukunga aylantiriladi.",
+  "have up": "Olimlarning yana bir nechta yashil g'oyalari zaxirada bor.",
+  "mercury": "Jasad kuydirilganda tish plombalaridagi simob ajralib chiqadi.",
+  "overcrowded": "Katta shaharlardagi qabristonlar haddan tashqari to'lib bormoqda.",
+  "poison": "Dafn marosimida ishlatiladigan ba'zi kimyoviy moddalar tuproqni zaharlashi mumkin.",
+  "sleeve": "Uning yana bir kutilmagan sovg'asi zaxirada ekani aniq edi.",
+  "smug": "U eng ekologik toza dafn marosimini tanlagani uchun biroz o'zidan mamnun edi.",
+  "tile": "Kulni hatto koshin yoki bog' toshiga ham aralashtirish mumkin.",
+  "toxin": "Jasadlarni yoqish havoga zaharli moddalar chiqarishi mumkin."
  }
 });

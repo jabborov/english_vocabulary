@@ -1,4 +1,4 @@
-// Part 1 topic 0207: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0207: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0207', {
  "A1": {
   "detective": "U detektiv.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0207', {
   "murder mystery": "Qotillik sirlari janri o'quvchilar detektiv bilan aql bellashishni yoqtirgani uchun uzoq yashab kelmoqda.",
   "police work": "Kuzatuv kameralari yozuvlarini ko'rib chiqish kabi kundalik politsiya ishining katta qismini avtomatlashtirish mumkin bo'lsa ajab emas.",
   "renaissance": "Ba'zi mutaxassislar yangi tahliliy vositalar tufayli ochilmagan eski jinoyatlarni tergov qilishda uyg'onish davri bo'lishini bashorat qilishadi."
+ },
+ "EX": {
+  "detective": "Tergovchi ishni ochib bergan dalilni topdi.",
+  "fictional": "Sherlok Xolms — mashhur to'qima detektiv.",
+  "fingerprint": "Politsiya derazada uning barmoq izlarini topdi.",
+  "footwear": "Sun'iy intellekt tizimi oyoq izidan poyabzal turini aniqlay oladi.",
+  "forensic": "Sud-tibbiyot mutaxassislari poldagi qonni tekshirishdi.",
+  "in evidence": "Voqea joyida politsiyachilar juda ko'p ko'zga tashlanardi.",
+  "investigation": "Politsiya o'g'irlik bo'yicha tergov boshladi.",
+  "murder mystery": "Kecha televizorda qotillik haqidagi detektiv film ko'rdik.",
+  "police work": "Politsiya ishining aksariyati hayajonli emas, balki sekin va sinchkov mehnatdir.",
+  "renaissance": "Detektiv adabiyot qayta gullab-yashnamoqda."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0504: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0504: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0504', {
  "A1": {
   "cancelling": "Onlayn bekor qilish oson.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0504', {
   "medical care": "Davolanishdan qo'rqish tibbiy yordamga murojaat qilishga jiddiy to'siq bo'ladi.",
   "tense up": "\"Ukol\" so'zi tilga olinishi bilanoq u tarang tortilib qoldi.",
   "tighten up": "Hukumat reklama qoidalarini kuchaytirishga va'da berdi."
+ },
+ "EX": {
+  "cancelling": "Tish shifokoridan qo'rqish ko'pincha qabulni bekor qilishga olib keladi.",
+  "clench": "Tish shifokori ishni boshlaganda u mushtlarini qattiq qisdi.",
+  "clench up": "Bormashina ovozini eshitganimda butun tanam qisilib, tarang tortiladi.",
+  "consulting": "U tish shifokorining qabul xonasida xavotir bilan o'tirardi.",
+  "even off": "U bo'shasha boshlagach, yurak urishi bir maromga tushdi.",
+  "medical care": "Qo'rquv ba'zi odamlarga zarur tibbiy yordamni olishga to'sqinlik qiladi.",
+  "tense up": "Ko'p odamlar bormashina ovozini eshitganda tarang tortilib qoladi.",
+  "tighten up": "Qo'rqqaningizda mushaklaringiz tarang tortiladi."
  }
 });

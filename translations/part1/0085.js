@@ -1,4 +1,4 @@
-// Part 1 topic 0085: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0085: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0085', {
  "A1": {
   "act on": "Maslahatimga amal qiling.",
@@ -185,5 +185,36 @@ VOCAB_TR_STORE('1', '0085', {
   "threat": "Vazifani tahdid deb qabul qilgan bodomsimon tana sog'lom fikrimizni egallab olib, bizni chalg'ituvchi narsalarga yo'naltirishi mumkin.",
   "threatened": "Miya qo'rqinchli topshiriqni tahdid deb biladi va biz har qanday xavfga bo'lgani kabi qochish orqali javob qaytaramiz.",
   "work off": "Ba'zi odamlar xavotirini jismoniy mashqlar bilan chiqaradilar, bu esa o'z navbatida samarali paysalga solishning bir turiga aylanishi mumkin."
+ },
+ "EX": {
+  "act on": "Biz ko'pincha o'ylamay, his-hayajonimizga berilib harakat qilamiz.",
+  "acting": "Bir lahzalik istak bilan harakat qilish ko'pincha ishni paysalga solishga olib keladi.",
+  "calmly": "Vazifani xotirjamlik bilan kichik qadamlarga bo'lishga harakat qiling.",
+  "comedian": "Bir komediyachi bir paytlar o'zining ishni paysalga solishi haqida hazil qilgan edi.",
+  "delaying": "Vazifani kechiktirish ko'pincha uni yanada stressli qiladi.",
+  "done with": "Shu inshoni tezroq tugatib qutulmoqchiman, xolos.",
+  "forgive": "Ishni paysalga solganingiz uchun o'zingizni kechiring va qaytadan boshlang.",
+  "gratification": "Ishni paysalga soluvchilar darhol qoniqish olishni afzal ko'radi.",
+  "hang on": "Shoshmang, avval telefonimni bir tekshirib olay.",
+  "impulse": "Ishlash o'rniga telefonimni tekshirgim kelib qoldi.",
+  "impulsive": "Shoshqaloq, o'ylamay ish qiladigan odamlar ishni paysalga solishga ko'proq moyil bo'ladi.",
+  "instinctively": "Biz o'zimizni yomon his qildiradigan narsalardan beixtiyor qochamiz.",
+  "last minute": "U doim ishini so'nggi daqiqada tugatadi.",
+  "procrastinate": "Insho yozishim kerak bo'lsa, doim ishni orqaga suraman.",
+  "procrastinating": "Ishni paysalga solishni bas qiling va ishlashni boshlang!",
+  "procrastination": "Ishni paysalga solish vaqt o'g'risidir.",
+  "procrastinator": "Men ishni paysalga solishda tengi yo'q odamman.",
+  "put off": "Uy vazifangizni ortga surishni bas qiling!",
+  "run out of": "Ishni paysalga soluvchilarning vaqti ko'pincha yetmay qoladi.",
+  "rush off": "U qiziqroq ish bilan shug'ullanish uchun shoshib ketib qoldi.",
+  "satisfaction": "Vazifani o'z vaqtida tugatishda chinakam mamnuniyat bor.",
+  "serenity": "Vazifani tugatish unga xotirjamlik tuyg'usini bag'ishladi.",
+  "shadow": "Tugallanmagan vazifa uning dam olish kunlariga soya soldi.",
+  "spontaneous": "Ishni paysalga soluvchilar ko'pincha o'z-o'zidan, o'ylamay qaror qabul qiladi.",
+  "squarely": "Aybning hammasi dangasalikda emas, aynan his-tuyg'ularimizda.",
+  "stressed": "Ishni paysalga solish meni asabiylashtiradi.",
+  "threat": "Miyamiz qiyin vazifani tahdid deb qabul qiladi.",
+  "threatened": "Vazifa bizga tahdiddek tuyulganda, uni paysalga solamiz.",
+  "work off": "Stressimni chiqarish uchun yugurishga chiqdim."
  }
 });

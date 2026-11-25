@@ -1,4 +1,4 @@
-// Part 1 topic 0421: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0421: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0421', {
  "A1": {
   "burrow": "Quyonlar yerda in qazishadi.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0421', {
   "seventeenth": "XVII asrga oid manbalarda tinglovchilarni kunlab \"ta'qib qilgan\" kuylar tasvirlangan.",
   "uninvited": "\"Quloq qurtlari\" ta'rifiga ko'ra chaqirilmagan mehmonlardir: ular bizning xohishimizdan qat'i nazar kirib keladi.",
   "worm": "Qurt metaforasi bunday kuylarning qanday qilib ichkariga kirib olib, chiqmay qo'yishini yaxshi ifodalaydi."
+ },
+ "EX": {
+  "burrow": "Bu kuy go'yo miyangizga kirib, in qurib oladi.",
+  "earwig": "Bir paytlar odamlar quloqqurtlar odamlarning quloqlariga kirib oladi deb ishonishgan.",
+  "film industry": "Kino sanoati filmlarni sotish uchun yodda qoluvchi musiqadan foydalanadi.",
+  "jig": "Guruh Irlandiya xalq raqsi — jig kuyini chaldi.",
+  "musical phrase": "Qisqa musiqiy jumla soatlab kallangizda takrorlanishi mumkin.",
+  "seventeenth": "Bu kuy o'n yettinchi asrga borib taqaladi.",
+  "uninvited": "\"Quloq qurtlari\" kallamizdagi chaqirilmagan mehmonlardir.",
+  "worm": "Kallangizga o'rnashib qolgan qo'shiq \"quloq qurti\" deb ataladi."
  }
 });

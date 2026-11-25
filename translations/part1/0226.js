@@ -1,4 +1,4 @@
-// Part 1 topic 0226: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0226: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0226', {
  "A1": {
   "canteen": "Biz oshxonada ovqatlanamiz.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0226', {
   "monk": "Rohibning jamiyatdan uzlatga chekinishini o'ziga xos tanlangan ko'rinmaslik deb ko'rish mumkin.",
   "observational": "Faqat kuzatuvga asoslangan dalillar sabab va oqibatni aniqlay olmaydi, shuning uchun tajribalar ham kerak.",
   "question time": "Savol-javob vaqtida tadqiqotchi haqiqiy ko'rinmaslik hamon ilmiy fantastika bo'lib qolayotganini tan oldi."
+ },
+ "EX": {
+  "canteen": "Gavjum oshxonaga kirib borayotganingizni va sizni hech kim ko'rmayotganini tasavvur qiling.",
+  "garment": "Olimlar narsalarni ko'zdan yashira oladigan kiyim ishlab chiqmoqda.",
+  "haircut": "U hamma uning yangi soch turmagiga tikilib qarayapti deb o'yladi.",
+  "illusion": "Tajriba odamlarda tanalari g'oyib bo'lgandek illyuziya hosil qildi.",
+  "invisibility": "Olimlar virtual reallik ko'zoynagi yordamida ko'rinmaslik illyuziyasini yaratishdi.",
+  "magic spell": "Ertaklarda sehrli afsun odamlarni ko'rinmas qilib qo'yishi mumkin.",
+  "mismatch": "Illyuziya ko'rayotgan narsangiz bilan his qilayotgan narsangiz o'rtasida nomuvofiqlik yaratish orqali ishlaydi.",
+  "monk": "Hikoyada ko'rinmas bo'lishni orzu qilgan rohib haqida so'z boradi.",
+  "observational": "Kuzatuv tadqiqotlari odamlarning real hayotda o'zini qanday tutishini kuzatadi.",
+  "question time": "Savol-javob vaqtida tinglovchilar olimdan ko'rinmaslik haqida so'rashdi."
  }
 });

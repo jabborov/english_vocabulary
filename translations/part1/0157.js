@@ -1,4 +1,4 @@
-// Part 1 topic 0157: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0157: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0157', {
  "A1": {
   "Anthony": "Anthony fermer.",
@@ -203,5 +203,39 @@ VOCAB_TR_STORE('1', '0157', {
   "turn on": "Cho'l jamoalari uchun shunchaki jo'mrakni ochish ham qimmatga tushadigan muhandislik yutug'idir.",
   "unspecified": "Bitim noma'lum summaga tuzildi va bu uning haqiqiy qiymati haqidagi taxminlarni kuchaytirdi.",
   "water supply": "Ishonchli suv ta'minotini kafolatlash Fors ko'rfazi davlatlari hukumatlari uchun asosiy ustuvor vazifaga aylandi."
+ },
+ "EX": {
+  "Anthony": "Entoni loy bilan ishlov berish qanday ishlashini tushuntirib berdi.",
+  "acre": "Ferma yuzlab akr cho'l hududini egallaydi.",
+  "clay": "Qumga suyuq loy aralashtirish uning suvni ushlab qolishiga yordam beradi.",
+  "cling": "Loy har bir qum zarrasiga yopishib oladi.",
+  "date palm": "Xurmo daraxtlari Arabiston cho'lining hamma yerida yetishtiriladi.",
+  "desert soil": "Cho'l tuprog'i suvni to'g'ridan-to'g'ri o'tkazib yuboradi.",
+  "drain": "Qumda suv ildizlar undan foydalanishga ulgurmasdan sizib ketadi.",
+  "efficiently": "Yangi usul suvdan ancha samarali foydalanadi.",
+  "flow away": "Oddiy qumda suv shunchaki oqib ketadi.",
+  "fresh water": "Cho'lda chuchuk suv juda kam.",
+  "fruit tree": "Ular loyni mevali daraxtlarda ham sinab ko'rishdi.",
+  "halve": "Bu usul fermerlar sarflaydigan suv miqdorini ikki baravar kamaytirishi mumkin.",
+  "hold water": "Qumning o'zi suvni ushlab tura olmaydi.",
+  "litre": "Bitta daraxtga kuniga yuzlab litr suv kerak bo'lishi mumkin.",
+  "make back": "Fermerlar loyga ketgan xarajatni tejalgan suv hisobiga qoplab olishlari mumkin.",
+  "manipulate": "Olimlar tuproq ko'proq suv ushlab turishi uchun unga ishlov bera oladi.",
+  "microbiology": "U cho'l dehqonchiligi ustida ishlashdan oldin mikrobiologiyani o'rgangan.",
+  "mud": "Loy va suv birgalikda o'ziga xos balchiq hosil qiladi.",
+  "palm": "Har bir palma kuniga yuzlab litr suv ichishi mumkin.",
+  "palm tree": "Vohada qator-qator palma daraxtlari o'sadi.",
+  "pour out": "Dalalarga juda katta miqdorda suv quyiladi.",
+  "root system": "Suv daraxtlarning ildiz tizimi yaqinida qoladi.",
+  "sandy": "Qumloq tuproqdan suv tez sizib o'tib ketadi.",
+  "scarcity": "Suv tanqisligi cho'l mamlakatlari uchun ulkan muammo.",
+  "sponge": "Loy qumni xuddi gubkadek qiladi.",
+  "sticky": "Loy qumni biroz yopishqoq qiladi.",
+  "thankfully": "Xayriyatki, olimlar qumda suvni ushlab qolish usulini topishdi.",
+  "thirsty": "Xurmo daraxtlari juda ko'p suv talab qiladigan suvsevar daraxtlardir.",
+  "tightly": "Loy suvni qum atrofida mahkam ushlab turadi.",
+  "turn on": "Ko'pchiligimiz suv haqida o'ylamay, shunchaki jo'mrakni ochamiz.",
+  "unspecified": "Loyiha noma'lum miqdorda mablag' oldi.",
+  "water supply": "Dehqonchilik mamlakatning suv zaxirasining katta qismini sarflaydi."
  }
 });

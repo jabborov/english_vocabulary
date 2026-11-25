@@ -1,4 +1,4 @@
-// Part 1 topic 0434: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0434: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0434', {
  "A1": {
   "BMI": "Tana massasi indeksingiz qancha?",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0434', {
   "prescribe": "Ba'zi klinitsistlar bu dorilar turmush tarzini yetarlicha qo'llab-quvvatlamasdan buyurilayotganidan xavotirda.",
   "the devil": "Bitta ozuqa moddasini iblis qilib ko'rsatish semizlikning murakkab sabablarini haddan tashqari soddalashtiradi.",
   "whispering": "Bemorlar dori bir paytlar fikrlarini egallab olgan tinimsiz shivirlashni o'chirib qo'yganini ta'riflashadi."
+ },
+ "EX": {
+  "BMI": "Shifokorlar vazn yo'qotish dorilarini kimga berish mumkinligini aniqlash uchun TMIdan foydalanadi.",
+  "bad person": "Ortiqcha vaznga ega bo'lish sizni yomon odam qilib qo'ymaydi.",
+  "body mass index": "Tana massasi indeksi vazningiz va bo'yingizdan hisoblanadi.",
+  "conflicted": "U vazn yo'qotish dorisini ichish-ichmaslik haqida ikkilanib qoldi.",
+  "devil": "Yelkamda o'tirgan kichkina shayton menga yana bitta pechenye yeyishni aytib turadi.",
+  "ether": "Ovqat haqidagi fikrlar go'yo havoga singib ketgandek yo'qoldi.",
+  "intrusive": "Ovqat haqidagi xayolga beixtiyor keluvchi fikrlar odamni holdan toydirishi mumkin.",
+  "prescribe": "Shifokorlar bu dorini semizligi bor bemorlarga buyurishi mumkin.",
+  "the devil": "Odamlar ba'zan shakarni shaytonning o'zi deyishadi.",
+  "whispering": "Unga ko'proq ovqat yeyishni pichirlab turgan ovoz nihoyat tindi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0203: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0203: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0203', {
  "A1": {
   "accommodate": "Mehmonxona sizni joylashtira oladi.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0203', {
   "sure thing": "Uning beparvo \"albatta\" degani oshxona uning allergiyasiga jiddiy qarashiga ayolni ishontirdi.",
   "tolerance": "Immun bardoshlilikni hosil qilish zamonaviy allergiya tadqiqotlarining asosiy maqsadlaridan biri bo'lib qolmoqda.",
   "tuna": "Allergologlarning ta'kidlashicha, tunets kabi bitta baliqqa reaksiya boshqa baliqlarga ham reaksiya bo'lishini har doim ham bildirmaydi."
+ },
+ "EX": {
+  "accommodate": "Ko'plab restoranlar endi oziq-ovqat allergiyasi bor mijozlarning ehtiyojlarini hisobga olishadi.",
+  "allergen": "Yong'oqlar eng keng tarqalgan allergenlardan biri.",
+  "allergic": "Akamda yeryong'oqqa allergiya bor.",
+  "asthma": "U astmasi borligi uchun doim ingalyator olib yuradi.",
+  "burden": "Jiddiy allergiya bilan yashash haqiqiy yuk bo'lishi mumkin.",
+  "codfish": "Treska balig'i baliq allergiyasining keng tarqalgan sababidir.",
+  "hay": "Fermer otlarga biroz pichan berdi.",
+  "hay fever": "Iyun oyida pichan isitmam juda qattiq qo'zg'aydi.",
+  "immunotherapy": "Immunoterapiya ba'zi odamlarda gul changiga allergiyani kamaytirishga yordam beradi.",
+  "inconvenienced": "Har safar tashqarida ovqatlanganimizda noqulaylik tortishni istamayman.",
+  "interviewer": "Suhbatdosh shifokordan allergiyani davolash usullari haqida so'radi.",
+  "intolerance": "Uning organizmi laktozani ko'tarmaydi, shuning uchun u sut icha olmaydi.",
+  "pollen": "Gul changining ko'pligi ko'zlarimni qichishtiradi.",
+  "sure thing": "\"Bunda yong'oq bor-yo'qligini tekshirib bera olasizmi?\" \"Albatta.\"",
+  "tolerance": "Davolash organizmda allergenga nisbatan chidamlilik hosil qilishga yordam beradi.",
+  "tuna": "Menda ba'zi baliqlarga allergiya bor, lekin tunets yeya olaman."
  }
 });

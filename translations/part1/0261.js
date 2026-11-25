@@ -1,4 +1,4 @@
-// Part 1 topic 0261: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0261: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0261', {
  "A1": {
   "cube": "Bu kub.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0261', {
   "rubber": "Arzon sintetik rezina sakrovchi shar kabi ommaviy ishlab chiqariladigan mashhur o'yinchoqlarni tijorat jihatidan foydali qildi.",
   "rubber band": "Bir hovuch rezina halqachalar butun bir avlodni maftun eta olgani ommaviy ishtiyoqlarning oldindan aytib bo'lmasligi haqida ko'p narsa aytadi.",
   "see through": "Yetarlicha odam yangilikning mohiyatini anglab yetgach, ommaviy ishtiyoq hayratlanarli tezlikda so'nadi."
+ },
+ "EX": {
+  "cube": "Rubik kubigi 1980-yillar boshida juda urf bo'lgan edi.",
+  "fabricate": "Ba'zi kompaniyalar ayyorona reklama orqali sun'iy urf yaratishga urinadi.",
+  "fad": "Ko'pchilik fidget spinnerni shunchaki o'tkinchi moda deb o'ylagan edi.",
+  "hopper": "1970-yillarda har bir bola sakraydigan rezina sharni xohlaganga o'xshardi.",
+  "insecure": "O'ziga ishonchi yo'q odamlar boshqalarga moslashish uchun urfga ergashishi mumkin.",
+  "join in": "Maktabda hammada urfdagi o'yinchoq bo'lsa, bolalar ham ularga qo'shilishni xohlaydi.",
+  "loom": "2014-yilda hamma joyda bolalar to'quv rezinkalaridan bilaguzuklar yasashardi.",
+  "mentality": "Podaga ergashish mentaliteti urfning juda tez tarqalishiga sabab bo'lishi mumkin.",
+  "of all time": "Rubik kubigi barcha davrlarning eng ko'p sotilgan o'yinchoqlaridan biridir.",
+  "participate": "Urflar tarqaladi, chunki odamlar boshqalar qilayotgan ishda ishtirok etishni xohlaydi.",
+  "patch": "Ota-onalar Cabbage Patch qo'g'irchoqlarini sotib olish uchun do'konlarda janjallashishgan.",
+  "ponytail": "Ba'zi bolalar to'quv rezinkalari bilan sochlarini dumcha qilib bog'lashardi.",
+  "rubber": "Sakraydigan sharlar qalin rezinadan yasaladi.",
+  "rubber band": "To'quv rezinkalari – kichik, rang-barang rezina halqachalar.",
+  "see through": "Bolalar shunchaki ayyorona marketingdan iborat o'yinchoqlarning mohiyatini tezda anglab olishadi."
  }
 });

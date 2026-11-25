@@ -1,4 +1,4 @@
-// Part 1 topic 0119: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0119: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0119', {
  "A1": {
   "addictive": "Bu o'yin odamni o'ziga qaram qiladi.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0119', {
   "time period": "Bunday vaqt oralig'ida ijtimoiy tarmoqlar ta'sirini alohida ajratib olish uslubiy jihatdan murakkab.",
   "user": "Foydalanuvchilarga mijoz emas, mahsulot sifatida qarash chuqur axloqiy savollarni tug'diradi.",
   "young girl": "Yosh qizlarga oid ma'lumotlar tartibga solish haqidagi siyosiy bahslarning katta qismiga turtki bo'ldi."
+ },
+ "EX": {
+  "addictive": "Ijtimoiy tarmoq ilovalari odamni o'ziga qaram qiladigan qilib yaratilgan.",
+  "adolescent": "O'smirlar kuniga ko'p soatlarini telefonlarida o'tkazishadi.",
+  "adulthood": "O'smirlik yillarida shakllangan odatlar katta yoshda ham davom etishi mumkin.",
+  "chronic": "Ba'zi o'smirlar surunkali xavotirdan aziyat chekishadi.",
+  "eating disorder": "Ba'zi ilovalar ovqatlanish buzilishlari bilan bog'liq deb topilgan.",
+  "gamble": "Ba'zi o'yinlar bolalarga go'yo qimor o'ynayotgandek tuyg'u beradi.",
+  "navigate": "O'smirlarga onlayn dunyoda yo'l topishda yordam kerak.",
+  "onus": "Yosh foydalanuvchilarni himoya qilish mas'uliyati texnologiya kompaniyalari zimmasida bo'lishi kerak.",
+  "prioritise": "Kompaniyalar foydadan ko'ra bolalar xavfsizligini birinchi o'ringa qo'yishlari kerak.",
+  "revenue": "Ijtimoiy tarmoq kompaniyalari reklamadan juda katta daromad olishadi.",
+  "teen": "Aksariyat o'smirlarning smartfoni bor.",
+  "time period": "Tadqiqot yoshlarni uzoq vaqt davomida kuzatib bordi.",
+  "user": "Ilovaning bir milliarddan ortiq foydalanuvchisi bor.",
+  "young girl": "Ijtimoiy tarmoqlar eng ko'p yosh qizlarga ta'sir qilishi mumkin."
  }
 });

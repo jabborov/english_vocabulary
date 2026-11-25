@@ -1,4 +1,4 @@
-// Part 1 topic 0230: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0230: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0230', {
  "A1": {
   "Brad": "Uning ismi Brad.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0230', {
   "plaza": "Markaziy maydonni qayta qurish shaharning tiklanish ramziga aylandi.",
   "resilient": "Chidamli bo'lish iztirobni his qilmaslikni emas, balki unga qaramay o'zini tiklab olishni anglatadi.",
   "silver lining": "Fojiada yaxshi tomon topa bilish psixologik tiklanishning muhim qismi bo'lishi mumkin."
+ },
+ "EX": {
+  "Brad": "Bred o'rmon yong'ini shahriga qanday ta'sir qilganini so'zlab beradi.",
+  "LA": "Los-Anjeles yaqinidagi o'rmon yong'inlari minglab odamlarni uylarini tark etishga majbur qildi.",
+  "heal": "Ofatdan keyin jamoaning yaralari bitishi uchun yillar kerak bo'lishi mumkin.",
+  "hurdle": "Ko'plab omon qolganlar uchun yordam olish birinchi to'siq bo'ldi.",
+  "knit": "Yong'indan keyin jamoa bir-birini qo'llab-quvvatlash uchun jipslashdi.",
+  "lining": "Paltomning astari yirtilgan.",
+  "plaza": "Yong'indan keyin odamlar shahar maydoniga yig'ilishdi.",
+  "resilient": "Jamoalar ofatdan keyin yanada bardoshli bo'lishi mumkin.",
+  "silver lining": "Yaxshi tomoni shundaki, jamoa bir-biriga yaqinroq bo'lib qoldi."
  }
 });

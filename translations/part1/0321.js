@@ -1,4 +1,4 @@
-// Part 1 topic 0321: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0321: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0321', {
  "A1": {
   "accusation": "Bu yolg'on ayblov.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0321', {
   "necklace": "Hatto oddiy marjon ham agar qabristondan olingan bo'lsa, ulkan madaniy qiymatga ega bo'lishi mumkin.",
   "repatriation": "Vataniga qaytarish haqidagi bahslar egalik, meros va o'tmishni namoyish etishga kim haqli ekani haqida murakkab savollarni tug'diradi.",
   "rocking horse": "Antikvar buyumlar bozori oddiy tebranma otchalardan tortib bebaho yodgorliklargacha qamrab oladi va har bir buyumning tarixi ham toza emas."
+ },
+ "EX": {
+  "accusation": "Muzey o'g'irlangan buyumlarni saqlayotgani haqidagi ayblovni rad etdi.",
+  "antiquity": "Har yili arxeologik joylardan minglab antik buyumlar o'g'irlanadi.",
+  "bottleneck": "Tergovchilarning aytishicha, bir nechta savdo markazlari kontrabanda zanjirida tor bo'g'iz vazifasini bajaradi.",
+  "buying": "Talon-taroj qilingan buyumlarni sotib olish va sotish jinoiy guruhlarni moliyalashtiradi.",
+  "country of origin": "Haykal o'zi kelib chiqqan mamlakatga qaytarildi.",
+  "expansive": "Antik buyumlarning noqonuniy savdosi keng qamrovli global tarmoqdir.",
+  "fine arts": "Auksion uylari antik buyumlarni tasviriy san'at asarlari bilan birga sotadi.",
+  "illegally": "Buyumlarning ko'pchiligi noqonuniy ravishda olib chiqib ketilgan.",
+  "in store": "O'g'irlangan haykallarni qanday taqdir kutayotganini hech kim bilmaydi.",
+  "intermediary": "Buyumlar xaridorga yetib borguncha bir nechta vositachilar qo'lidan o'tadi.",
+  "judicious": "Oqil xaridor buyum qayerdan kelganini doim tekshiradi.",
+  "knowingly": "Kamdan-kam kolleksionerlar o'g'irlangan buyumlarni bila turib sotib olganini tan oladi.",
+  "loot": "Qurolli guruhlar qadimiy joylarni talon-taroj qilib, buyumlarni chet elga sotishdi.",
+  "modern era": "Zamonaviy davrda antik buyumlar kontrabandasi har qachongidan tezroq o'sdi.",
+  "necklace": "Xususiy kolleksiyadan qadimiy oltin marjon topildi.",
+  "repatriation": "Faollar talon-taroj qilingan buyumlarni vataniga qaytarishga chaqirmoqda.",
+  "rocking horse": "Kolleksionerlar tangalardan tortib Viktoriya davriga oid tebranadigan o'yinchoq otgacha deyarli har qanday eski narsani sotib olishadi."
  }
 });

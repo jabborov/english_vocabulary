@@ -1,4 +1,4 @@
-// Part 1 topic 0130: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0130: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0130', {
  "A1": {
   "almond": "Men bodom yeyman.",
@@ -185,5 +185,36 @@ VOCAB_TR_STORE('1', '0130', {
   "take for": "Ko'plab jamiyatlar tug'ruqdan keyingi parvarishni to'g'ri moliyalashtirish o'rniga uni o'z-o'zidan tushunarli narsa deb qabul qilib kelgan.",
   "trotter": "Cho'chqa tuyoqlari tarkibidagi kollagen tufayli tug'ruqdan keyin juda qadrlanadi, chunki u tiklanishga yordam beradi deb hisoblanadi.",
   "tummy": "Homiladorlikdan keyin ayol qornidagi o'zgarishlar barqarorlashishi uchun ko'p oylar kerak bo'lishi mumkin."
+ },
+ "EX": {
+  "almond": "Bodom yangi onalar uchun energiyaga boy.",
+  "breastfeed": "Emizikli onalarga qo'shimcha energiya kerak.",
+  "cashew": "Hindistonda yangi onalarga keshyu va bodom kabi yong'oqlar beriladi.",
+  "chicken soup": "Ko'plab madaniyatlarda yangi ona bo'lgan ayollarga tovuq sho'rva beriladi.",
+  "childbirth": "Ayollar tug'ish paytida juda ko'p kuch sarflaydi.",
+  "collagen": "Pochalar kollagenga boy.",
+  "cuppa": "Tug'ruqdan keyin u bir piyola yaxshi choyga juda tashna edi.",
+  "daze": "Tug'ruqdan keyingi dastlabki kunlar xuddi tuman ichida o'tdi.",
+  "defining": "Ona bo'lish ayol hayotidagi hal qiluvchi lahzadir.",
+  "disturbed": "Yangi onalarning uyqusi juda notinch bo'ladi.",
+  "drink in": "U o'tirib, yangi tug'ilgan chaqalog'iga to'yib-to'yib tikilardi.",
+  "exclamation": "\"Voy xudoyim!\" - bu undov.",
+  "fall apart": "Yordamsiz qolgan ba'zi yangi onalar o'zlarini butunlay ado bo'layotgandek his qiladi.",
+  "giving birth": "Tug'gandan keyin ayollar tiklanishi uchun yaxshi ovqatlanishi kerak.",
+  "healing": "Yaxshi ovqat tug'ruqdan keyin tuzalishga yordam beradi.",
+  "juggler": "Yangi ona bo'lish sizni haqiqiy jonglyorga aylantiradi.",
+  "leave up": "U ovqat pishirishni onasining ixtiyoriga qoldirdi.",
+  "lung": "Chaqaloq o'pkasini havoga to'ldirib, baland ovozda yig'ladi.",
+  "melon": "Ba'zi an'analarga ko'ra, yangi onalar qovun kabi sovuq taomlardan saqlanishi kerak.",
+  "nourishing": "Yangi ona bo'lgan ayollarga to'yimli ovqat kerak.",
+  "organize": "Do'stlari yangi ona uchun ovqat tashkil qilishdi.",
+  "painkiller": "Tug'ruqdan keyin unga og'riq qoldiruvchi dorilar kerak bo'ldi.",
+  "postpartum": "Tug'ruqdan keyingi davr yangi onalar uchun og'ir bo'lishi mumkin.",
+  "recover": "Yaxshi ovqat yangi onalarga tug'ruqdan keyin tiklanishga yordam beradi.",
+  "roast": "Britaniyada yangi ona bo'lgan ayol qovurilgan go'shtli tushlikdan bahramand bo'lishi mumkin.",
+  "spicy": "Ba'zi yangi onalar achchiq taomlardan saqlanadi.",
+  "take for": "Biz ko'pincha onalarimizning g'amxo'rligini o'z-o'zidan bo'ladigan narsa deb qabul qilamiz.",
+  "trotter": "Ba'zi xitoy an'analarida yangi onalar zanjabil va sirka bilan pishirilgan cho'chqa pochasini yeydi.",
+  "tummy": "Tug'ruqdan keyin uning qorni og'rib turdi."
  }
 });

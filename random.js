@@ -160,7 +160,7 @@
     }
     $('rw-uz').textContent = f.uz;
     $('rw-ex-label').textContent = f.level ? `Example · ${f.level}` : 'Example';
-    // Each sentence, followed by its Uzbek translation (level sentences only, not the original example).
+    // Each sentence, followed by its Uzbek translation (level sentences, and the original example under "EX").
     // The topic's translation file is loaded on demand the first time.
     const fillEx = data => {
       const box = $('rw-ex');
@@ -175,7 +175,7 @@
           ex.append(lv, t);
         } else ex.textContent = x.en;
         box.appendChild(ex);
-        const uz = x.lv ? ((data || {})[x.lv] || {})[it.w] : null;
+        const uz = ((data || {})[x.lv || 'EX'] || {})[it.w];   // "EX" = the original example (no level selected)
         if(uz){
           const u = document.createElement('div');
           u.className = 'rw-uzex has';
@@ -186,7 +186,7 @@
     };
     const cached = window.getTopicTranslations ? window.getTopicTranslations(entry.part, entry.topicKey) : null;
     fillEx(cached);
-    if(!cached && f.level && window.loadTopicTranslations){
+    if(!cached && window.loadTopicTranslations){
       window.loadTopicTranslations(entry.part, entry.topicKey).then(d => { if(lastIndex === i) fillEx(d); });
     }
     $('rw-oxford').href = oxfordUrl(it.w);

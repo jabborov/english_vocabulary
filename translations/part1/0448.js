@@ -1,4 +1,4 @@
-// Part 1 topic 0448: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0448: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0448', {
  "A1": {
   "Hollywood": "Gollivud Amerikada joylashgan.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0448', {
   "rainforest": "Tropik o'rmonning ichkarisida u yordamga yetib borish uchun daryolarga tayandi.",
   "rescue operation": "Qutqaruv operatsiyasi sifatida boshlangan ish bedarak yo'qolgan ofitserlarni umidsiz qidirishga aylandi.",
   "unevenly": "Holdan toygan u qalin butazor orasida notekis odimlab, tez-tez dam olish uchun to'xtab borardi."
+ },
+ "EX": {
+  "Hollywood": "Uning hikoyasi Gollivud filmidagi voqeaga o'xshaydi.",
+  "bandage": "Hamshira uning oyog'iga toza bint bog'ladi.",
+  "bandaged": "U kasalxonaga oyog'i bint bilan bog'langan holda keldi.",
+  "communist": "Isyonchilar eski kommunistik guruhga mansub.",
+  "hail": "U uyiga qaytganda qahramon sifatida olqishlandi.",
+  "handling": "Hukumat qutqaruv ishlarini olib borish uslubi uchun tanqid qilindi.",
+  "injure": "U qutqaruv operatsiyasi paytida jarohatlandi.",
+  "jungle": "U o'rmon changalzorida ikki haftadan ortiq yolg'iz o'zi omon qoldi.",
+  "kidnap": "Isyonchilar changalzorda bir guruh ishchilarni o'g'irlab ketishdi.",
+  "limp": "U og'ir jarohatlangan oyog'i bilan oqsoqlanib changalzordan chiqdi.",
+  "military plane": "Harbiy samolyot uni poytaxtga olib bordi.",
+  "police force": "U milliy politsiya xizmatining xodimi.",
+  "rainforest": "Amazon tropik o'rmoni Peru sharqining katta qismini egallaydi.",
+  "rescue operation": "Garovga olinganlarni ozod qilish uchun qutqaruv operatsiyasi boshlandi.",
+  "unevenly": "U jarohatlangan oyog'i tufayli notekis yurardi."
  }
 });

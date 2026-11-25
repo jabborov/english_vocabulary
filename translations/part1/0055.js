@@ -1,4 +1,4 @@
-// Part 1 topic 0055: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0055: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0055', {
  "A1": {
   "James": "Uning ismi Jeyms.",
@@ -275,5 +275,51 @@ VOCAB_TR_STORE('1', '0055', {
   "tall": "Mijozlar, xodimlar va egalar manfaatlarini muvofiqlashtirish har qanday qonunchilik uchun mushkul vazifadir.",
   "tipping": "Choychaqa madaniyati restoran xodimlariga kim haq to'lashi kerakligi haqida noqulay savollar tug'diradi.",
   "waiter": "Choychaqa tartiblari noaniq bo'lganda, kam asosiy maosh oladigan ofitsiantlar ayniqsa himoyasiz bo'lib qoladi."
+ },
+ "EX": {
+  "James": "James restoranlarda choychaqa qanday ishlashini tushuntirib berdi.",
+  "across the country": "Butun mamlakat bo'ylab restoranlarning choychaqa siyosati turlicha.",
+  "all in": "Hammasi bo'lib 80 funt sterling bo'ldi.",
+  "bank": "U choychaqasini hisobiga qo'yish uchun bankka bordi.",
+  "bank account": "Karta orqali berilgan choychaqa avval restoranning bank hisobiga tushadi.",
+  "cash": "Ba'zi mijozlar choychaqani naqd pulda qoldiradi.",
+  "consistent": "Buyuk Britaniyada choychaqaga nisbatan yagona yondashuv yo'q.",
+  "credit": "Hozir ko'pchilik qarzga to'laydi.",
+  "credit card": "Hisob va choychaqani kredit karta orqali to'ladim.",
+  "dine": "Biz kichkina italyan restoranida tushlik qildik.",
+  "dine out": "Biz taxminan oyiga bir marta tashqarida ovqatlanamiz.",
+  "discretionary": "Buyuk Britaniyada xizmat haqi odatda ixtiyoriy bo'ladi.",
+  "distribute": "Menejer oy oxirida choychaqalarni taqsimlaydi.",
+  "earn": "Ko'plab ofitsiantlar maoshidan ko'ra choychaqadan ko'proq pul topadi.",
+  "exceptionally": "Agar xizmat juda ham yaxshi bo'lsa, ko'proq choychaqa qoldiraman.",
+  "expected": "AQShda taxminan 20 foiz choychaqa berilishi kutiladi.",
+  "fairly": "Choychaqa xodimlar o'rtasida adolatli taqsimlanishi kerak.",
+  "first off": "Avvalo, qancha choychaqa berish kerak?",
+  "food for thought": "Ko'rsatuv meni choychaqa haqida o'ylashga undadi.",
+  "gratuity": "Hisobga 10 foiz choychaqa qo'shiladi.",
+  "high up": "Yaxshi xizmat ko'pchilik mijozlarning ustuvor vazifalari ro'yxatida yuqori o'rinda turadi.",
+  "impose": "Ba'zi restoranlar katta guruhlarga xizmat haqi joriy qiladi.",
+  "in the air": "Choychaqa tizimida o'zgarishlar yaqinlashib qolgan.",
+  "increasingly": "Odamlar tobora ko'proq naqd pul o'rniga karta orqali to'lamoqda.",
+  "independent": "Choychaqa qanday taqsimlanishini mustaqil shaxs hal qiladi.",
+  "jar": "Peshtaxtada choychaqa uchun banka turardi.",
+  "management": "Ba'zi rahbariyatlar choychaqaning bir qismini o'zlarida olib qoladi.",
+  "mandatory": "Ba'zi mamlakatlarda xizmat haqi majburiydir.",
+  "negatively": "Noaniq choychaqa siyosati xodimlarga salbiy ta'sir ko'rsatishi mumkin.",
+  "obligation": "Siz xizmat haqini to'lashga majbur emassiz.",
+  "obligatory": "Buyuk Britaniyada choychaqa berish majburiy emas.",
+  "over and over again": "Choychaqa haqidagi bir xil shikoyatlar qayta-qayta takrorlanadi.",
+  "payment": "Ko'pchilik mijozlar to'lovni karta orqali amalga oshiradi.",
+  "pool": "Xodimlar choychaqalarini bir joyga yig'ib, hafta oxirida bo'lishib olishadi.",
+  "present": "Hozirgi tizimda choychaqa har doim ham xodimlarga yetib bormaydi.",
+  "protocol": "Choychaqa berishning qat'iy tartibi yo'q.",
+  "representative": "Restoran xodimlarining vakili choychaqa haqida gapirdi.",
+  "separate": "Choychaqa alohida hisobda saqlanishi kerak.",
+  "server": "AQShda ofitsiantlar daromadining katta qismi uchun choychaqaga tayanadi.",
+  "service charge": "Hisobimizga 12,5 foiz xizmat haqi qo'shildi.",
+  "split": "Choychaqa barcha xodimlar o'rtasida bo'linadi.",
+  "tall": "Choychaqa masalasida hammani bir fikrga keltirish juda qiyin vazifa.",
+  "tipping": "Choychaqa berish odatlari mamlakatdan mamlakatga farq qiladi.",
+  "waiter": "Biz ofitsiantga choychaqa qoldirdik."
  }
 });

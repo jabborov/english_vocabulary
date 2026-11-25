@@ -1,4 +1,4 @@
-// Part 2 topic 0078: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0078: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0078', {
  "A1": {
   "also known as": "Robert, Bob nomi bilan ham tanilgan, shu yerda.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('2', '0078', {
   "temper": "Tashqi ko'rinish haqidagi eski stereotiplar fakt sifatida takrorlanganda, jahllar tezda chiqadi.",
   "treatment": "Genetik farqlarga moslashtirilgan davolash tibbiy tadqiqotlarning tobora rivojlanayotgan sohasidir.",
   "worth": "Qo'shimcha behushlik dorisi xavfga arziydimi yoki yo'qmi, buni shifokorlar har bir holatda alohida hal qilishlari kerak."
+ },
+ "EX": {
+  "also known as": "\"Jinjer\" deb ham ataladigan malla sochlilar ko'pincha masxara qilinadi.",
+  "anaesthetic": "Malla sochlilarga ko'proq og'riqsizlantiruvchi kerak bo'lishi mumkin.",
+  "characteristic": "Oqish teri ko'plab malla sochlilarning o'ziga xos belgisidir.",
+  "confirm": "Yangi tadqiqot malla sochlilarga ko'proq og'riqsizlantiruvchi kerakligini tasdiqlaydi.",
+  "dental": "Ba'zi malla sochlilar tish davolatishdan qochishadi.",
+  "extent": "Olimlar bu ta'sirning to'liq ko'lamini bilishmaydi.",
+  "fiery": "Odamlar malla sochlilarning jahli tez deyishadi.",
+  "general anaesthesia": "Operatsiya umumiy narkoz ostida o'tkazildi.",
+  "ginger": "Uning sochi yorqin malla rangda.",
+  "haired": "Malla sochli odamlar ko'proq og'riq his qilishi mumkin.",
+  "have a go": "Odamlar ba'zan malla sochlilarga tegajoqlik qilishadi.",
+  "just as": "Malla sochlilar ham boshqalar kabi jasur.",
+  "newly": "Yangi chop etilgan tadqiqot malla sochlilar va og'riq mavzusini o'rganadi.",
+  "painkiller": "Ba'zi og'riq qoldiruvchi dorilar malla sochlilarga unchalik yaxshi ta'sir qilmaydi.",
+  "phenotype": "Malla soch fenotipga misoldir.",
+  "prove": "Olimlar malla sochlilar og'riqni boshqacha his qilishini isbotlashdi.",
+  "redhead": "Malla sochlilar og'riqni boshqacha his qilishi mumkin.",
+  "reputation": "Malla sochlilar jizzaki degan nom chiqargan.",
+  "require": "Malla sochlilar ko'proq og'riqsizlantiruvchi talab qilishi mumkin.",
+  "requirement": "Malla sochlilarning og'riqsizlantiruvchiga ehtiyoji yuqoriroq.",
+  "sensitive": "Malla sochlilar og'riqqa sezgirroq bo'lishi mumkin.",
+  "stay away": "Ba'zi malla sochlilar tish shifokoridan uzoqroq yurishadi.",
+  "surgery": "Jarrohlik amaliyoti paytida malla sochlilarga ko'proq og'riqsizlantiruvchi kerak bo'lishi mumkin.",
+  "temper": "Uning fe'li yomon, tez jahli chiqadi.",
+  "treatment": "Tish davolash og'riqli bo'lishi mumkin.",
+  "worth": "Bu haqda tish shifokoringizdan so'rab ko'rishga arziydi."
  }
 });

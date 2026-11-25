@@ -1,4 +1,4 @@
-// Part 2 topic 0015: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0015: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0015', {
  "A1": {
   "Anglophone": "Kanadada ingliz tilida so'zlashuvchi hududlar bor.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('2', '0015', {
   "therefore": "Reytinglar asosan ilmiy natijalarga tayanadi va shu sababli tabiatan yirik, yaxshi moliyalashtiriladigan muassasalar foydasiga og'adi.",
   "top spot": "Osiyo universitetlari tadqiqotlar va xalqaro ishga qabul qilishga katta mablag' sarflagani sari birinchi o'rin uchun raqobat kuchaydi.",
   "two-and-a-half times": "Aholi jon boshiga xarajatlardagi ikki yarim baravarlik farqni faqat samaradorlik hisobiga tejash orqali qoplab bo'lmaydi."
+ },
+ "EX": {
+  "Anglophone": "Ingliz tilli universitetlar ustunlikka ega, chunki ingliz tili xalqaro tadqiqotlar tilidir.",
+  "Gross Domestic Product (GDP)": "Mamlakat yalpi ichki mahsulotining (YaIM) taxminan uch foizini universitetlarga sarflaydi.",
+  "dominate": "Amerika va Britaniya universitetlari jahon reytinglarining yuqori qismida ustunlik qiladi.",
+  "elsewhere": "Yevropaning boshqa joylaridagi universitetlar amerikaliklar bilan raqobatlashishda qiynaladi.",
+  "establishment": "Oksford dunyodagi eng qadimiy ta'lim muassasalaridan biridir.",
+  "factor": "Moliyalashtirish universitet muvaffaqiyatidagi eng muhim omildir.",
+  "funding": "Amerika universitetlari Yevropadagi ko'pchilik universitetlarga qaraganda ancha ko'p mablag' oladi.",
+  "mainland": "Kontinental Yevropadagi universitetlar reytinglarning eng yuqori pog'onasiga kamdan-kam chiqadi.",
+  "particularly": "AQSh ayniqsa fan va muhandislik sohalarida yaxshi natijalarga erishadi.",
+  "renown": "Universitet tibbiyot sohasidagi tadqiqotlari bilan xalqaro shuhrat qozongan.",
+  "represent": "Oliy ta'limga sarflanadigan xarajatlar mamlakat YaIMning qariyb uch foizini tashkil etadi.",
+  "surprisingly": "Ajablanarli emaski, boy mamlakatlardagi universitetlar reytinglarda odatda eng yaxshi natija ko'rsatadi.",
+  "therefore": "Amerika universitetlarida pul ko'proq, shuning uchun ular eng yaxshi tadqiqotchilarni jalb qila oladi.",
+  "top spot": "Garvard bir necha yildan beri reytinglarda birinchi o'rinni egallab kelmoqda.",
+  "two-and-a-half times": "AQSh oliy ta'limga Yevropa o'rtacha ko'rsatkichidan ikki yarim baravar ko'p mablag' sarflaydi."
  }
 });

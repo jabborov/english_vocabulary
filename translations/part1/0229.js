@@ -1,4 +1,4 @@
-// Part 1 topic 0229: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0229: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0229', {
  "A1": {
   "attractiveness": "Ba'zi odamlar uchun jozibadorlik muhim.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0229', {
   "symphony orchestra": "Simfonik orkestr misoli yuzni yashirish tanlovdagi xolislikni qanday kamaytirishi mumkinligini ko'rsatadi.",
   "take under": "Kimni o'z qanotimiz ostiga olishimiz munosiblikdan ko'ra ilk taassurotlarga ko'proq bog'liq bo'lishi mumkin.",
   "trustworthy": "Afsuski, ishonchli ko'rinish haqiqatan ishonchli bo'lish bilan deyarli bog'liq emas."
+ },
+ "EX": {
+  "attractiveness": "Jozibadorlik kimningdir ishga olinish-olinmasligiga ta'sir qilishi mumkin.",
+  "attribute": "Biz odamlarga yuzlariga qarab muayyan xarakter xususiyatlarini nisbat beramiz.",
+  "audition": "Ko'r tinglovlarda hakamlar musiqachini ko'ra olmaydi.",
+  "competence": "Saylovchilar ko'pincha nomzodning malakasiga uning yuziga qarab baho berishadi.",
+  "dominant": "Jag'i baquvvat odamlar ko'pincha hukmron deb qabul qilinadi.",
+  "electoral": "Yuzlar saylov natijalariga ta'sir qilishi mumkin.",
+  "extrovert": "Ekstrovert odatda yangi odamlar bilan tanishishdan zavqlanadi.",
+  "extroverted": "Jilmayib turadigan odamlar ko'pincha ekstrovert deb qabul qilinadi.",
+  "in practice": "Nazariy jihatdan biz tashqi ko'rinishga qarab baho bermaymiz, lekin amalda shunday qilamiz.",
+  "masculine": "Erkakchasimon yuz ko'pincha hukmronroq deb qabul qilinadi.",
+  "mental state": "Yuzimiz muayyan paytdagi ruhiy holatimizni ko'rsatadi.",
+  "minimise": "Ba'zi orkestrlar xolislikni ta'minlash uchun tinglovlarni parda ortida o'tkazadi.",
+  "predictive": "Yuzlardan olingan ilk taassurotlar saylov natijalarini oldindan bashorat qilgan.",
+  "strongest": "Eng kuchli ilk taassurotlar yuzdan kelib chiqadi.",
+  "symphony orchestra": "U simfonik orkestrda skripka chaladi.",
+  "take under": "Katta menejer yangi xodimni o'z homiyligiga oldi.",
+  "trustworthy": "Odamlar biror yuz ishonchli ko'rinishini bir soniyadan kamroq vaqtda aniqlashadi."
  }
 });

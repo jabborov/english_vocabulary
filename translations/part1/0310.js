@@ -1,4 +1,4 @@
-// Part 1 topic 0310: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0310: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0310', {
  "A1": {
   "bookworm": "U kitobxon.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0310', {
   "recherche": "Kamdan-kam kitobxon Prustning \"À la recherche du temps perdu\" asarining yetti jildini to'liq o'qib chiqqan.",
   "remembrance": "Prustning \"O'tgan zamonlarni eslab\" asari kichik bir ta'm qanday qilib kuchli xotiralarni qaytarishi mumkinligini o'rganadi.",
   "school teacher": "Ko'pchilik adabiyotga bo'lgan muhabbatini ilk bor uyg'otgan qahramon sifatida maktab o'qituvchisini tilga oladi."
+ },
+ "EX": {
+  "bookworm": "Bolaligimda haqiqiy kitobxon edim.",
+  "compass": "Kitoblar unga axloqiy yo'l-yo'riq berdi.",
+  "dyslexia": "Yozuvchi disleksiyadan aziyat chekadi, lekin shunga qaramay romannavis bo'ldi.",
+  "novelist": "Yozuvchining aytishicha, kitoblarni sevishiga bir kutubxonachi sababchi bo'lgan.",
+  "novella": "U bir qissani bir tushdan keyin o'qib tugatdi.",
+  "recherche": "\"À la recherche du temps perdu\" Prustning eng buyuk asaridir.",
+  "remembrance": "\"Yo'qotilgan vaqt izidan\" Marsel Prustning mashhur romanidir.",
+  "school teacher": "Maktab o'qituvchim menda kitob o'qishga muhabbat uyg'otgan."
  }
 });

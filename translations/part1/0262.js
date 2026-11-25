@@ -1,4 +1,4 @@
-// Part 1 topic 0262: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0262: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0262', {
  "A1": {
   "adjust": "Moslashishim uchun vaqt kerak.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0262', {
   "time of day": "Tadqiqotchilar kognitiv testlar kunning qaysi vaqtida o'tkazilishiga tobora ko'proq e'tibor bermoqda.",
   "time zone": "Yagona milliy vaqt mintaqasi uzoq g'arbdagi odamlarni quyosh chiqishidan ancha oldin uyg'onishga majbur qilishi mumkin.",
   "timing": "Maktab darslari boshlanish vaqtidagi hatto kichik o'zgarishlar ham o'smirlar farovonligiga o'lchanadigan ta'sir ko'rsatadi."
+ },
+ "EX": {
+  "adjust": "Organizmingiz yangi vaqt mintaqasiga moslashishi uchun bir necha kun kerak bo'lishi mumkin.",
+  "against the clock": "Tungi navbatdagi shifokorlar ko'pincha vaqt bilan poyga qilib ishlashadi.",
+  "caffeine": "Kofein uyg'oq turishga yordam berishi mumkin, lekin keyinroq uxlashingizga xalal berishi mumkin.",
+  "circadian": "Miyangizdagi sirkad soat qachon charchaganingizni boshqaradi.",
+  "circadian rhythm": "Sirkad ritmimiz kechasi bizni uyqusiratadi.",
+  "endogenous": "Biologik soat endogen, ya'ni ichki bo'lgani uchun kunduzgi yorug'liksiz ham ishlayveradi.",
+  "forth": "Ular yo'lak bo'ylab u yoqdan-bu yoqqa yurishdi.",
+  "jet lag": "Yaponiyaga uchib borganimdan keyin vaqt farqi tufayli ahvolim juda yomon bo'ldi.",
+  "lag": "Organizmingiz yangi vaqtga moslashguncha biroz kechikish bo'ladi.",
+  "modulate": "Yorug'lik uyqu gormoni melatoninning ajralishini tartibga soladi.",
+  "move back and forth": "Mayatnik bir maromda oldinga va orqaga tebranadi.",
+  "night shift": "Tungi navbatdagi hamshiralar kunduzi uxlashlari kerak.",
+  "oscillate": "Hushyorligimiz kun davomida tebranib, goh oshib, goh pasayib turadi.",
+  "predictable": "Tushdan keyin erta soatlarda uyqu bosishi ancha oldindan aytib bo'ladigan holat.",
+  "range in": "Odamlarning uxlash uchun ideal vaqti kechki 9 dan yarim tundan keyingacha bo'lgan oraliqda farq qiladi.",
+  "short sleep": "Tushlikdan keyin qisqa uxlab olish sizni hushyorroq qilishi mumkin.",
+  "time of day": "Kunning qaysi vaqtida sizni ko'proq uyqu bosadi?",
+  "time zone": "Ko'plab vaqt mintaqalarini kesib uchish biologik soatingizni chalkashtirib yuborishi mumkin.",
+  "timing": "Ovqatlanish vaqtingiz uyqungizga ta'sir qilishi mumkin."
  }
 });

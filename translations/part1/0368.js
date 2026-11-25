@@ -1,4 +1,4 @@
-// Part 1 topic 0368: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0368: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0368', {
  "A1": {
   "Mitchell": "Mitchell chipsni yaxshi ko'radi.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0368', {
   "tortilla": "Asrlar davomida Meksika oshxonasining asosiy mahsuloti bo'lgan oddiy tortilya global gazakning paydo bo'lishiga asos bo'ldi.",
   "tortilla chip": "Tortilya chipslari asosan Meksika taomlarining mashhurligi tufayli dunyodagi eng ko'p sotiladigan gazaklardan biriga aylandi.",
   "vendor": "Ko'cha sotuvchilari ko'pincha keyinchalik ommaviy ishlab chiqariladigan mahsulotga aylangan gazaklar bilan birinchi bo'lib tajriba qilgan."
+ },
+ "EX": {
+  "Mitchell": "Mitchell chipslar Britaniyada qanday qilib bunchalik mashhur bo'lib ketganini tushuntirib berdi.",
+  "broken in": "Paket tubidagi chipslar maydalanib, bo'lak-bo'lak bo'lib ketgan edi.",
+  "chipotle": "Chipotle ta'mli tortilya chipslari dudlangan va achchiq ta'mga ega.",
+  "corn chip": "Makkajo'xori chipslari souslar bilan birga mashhur.",
+  "dependent": "Ko'plab kichik fermer xo'jaliklari chips kompaniyalari bilan tuzilgan shartnomalarga qaram.",
+  "dependent on": "Chips ishlab chiqaruvchilar yaxshi kartoshka hosiliga bog'liq.",
+  "guacamole": "Gvakamole tortilya chipslari uchun mazali sousdir.",
+  "mashed": "Kartoshka pyuresidan ba'zi turdagi chipslarni tayyorlash mumkin.",
+  "parcel": "Ilk chipslar kichkina ko'k qog'oz o'ramdagi tuz bilan birga sotilgan.",
+  "paste": "Ba'zi gazaklar shakl berilib qovuriladigan kartoshka pastasidan tayyorlanadi.",
+  "potato chip": "Amerikaliklar \"potato chips\" deyishadi, inglizlar esa \"crisps\" deyishadi.",
+  "rely upon": "Chips ishlab chiqaruvchilar sifatli kartoshka uchun fermerlarga tayanishadi.",
+  "salsa": "Chipslaringizni achchiq salsaga botiring.",
+  "snowball": "Urushdan keyin chips biznesi qor ko'chkisidek tez o'sib ketdi.",
+  "sour cream": "Smetana va piyoz ta'mi chipslarning mashhur ta'mlaridan biridir.",
+  "tortilla": "Tortilya chipslari tortilyalarni uchburchak shaklida kesib, qovurish orqali tayyorlanadi.",
+  "tortilla chip": "Biz tortilya chipslarini gvakamole bilan yedik.",
+  "vendor": "Meksikadagi ko'cha sotuvchilari yangi tortilya chipslarini sotishadi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0407: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0407: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0407', {
  "A1": {
   "Mars": "Mars qizil rangda.",
@@ -35,5 +35,11 @@ VOCAB_TR_STORE('1', '0407', {
   "diameter": "Diametri Yernikidan taxminan ikki baravar kichik bo'lgan Marsning tortishish kuchi ancha zaif bo'lib, bu ko'chib boruvchilarning suyaklarini zaiflashtirishi mumkin.",
   "settle on": "Bir tomonlama safarga kim borishini tanlash chuqur axloqiy savollarni tug'diradi.",
   "viewing": "Bir tomonlama kosmik missiyani ko'zni uzib bo'lmaydigan tomoshaga aylantirish ekspluatatsiya haqida savollar tug'dirdi."
+ },
+ "EX": {
+  "Mars": "Marsni ko'pincha Qizil sayyora deb atashadi.",
+  "diameter": "Marsning diametri Yernikidan taxminan ikki baravar kichik.",
+  "settle on": "Loyiha nihoyat Marsga yuboriladigan to'rt kishini tanlab oldi.",
+  "viewing": "Missiya televizorda omma tomosha qilishi uchun suratga olinadi."
  }
 });

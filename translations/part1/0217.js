@@ -1,4 +1,4 @@
-// Part 1 topic 0217: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0217: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0217', {
  "A1": {
   "Pink Lady": "Men Pink Lady olmalarini yaxshi ko'raman.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0217', {
   "scrambled eggs": "Oshpazlar ko'pincha quymoq kabi yumshoq taomlarni qiziqarliroq qilish uchun ularga qarsildoq narsa qo'shishadi.",
   "termite": "Primatlar, jumladan ilk odamlar, termitlarni yeyish orqali qarsillashga moyillik hosil qilgan bo'lishi mumkin.",
   "ton": "Ishlab chiqaruvchilar qarsillash ovqatdan zavqlanishimizga qanday ta'sir qilishi haqida tonnalab ma'lumot to'plashgan."
+ },
+ "EX": {
+  "Pink Lady": "Pink Lady — qarsildoq, shirin olma navi.",
+  "backpack": "Ryukzagimda doim qarsildoq gazak bo'ladi.",
+  "beetle": "Ba'zi mamlakatlarda odamlar qovurilgan qo'ng'izlarni gazak sifatida yeyishadi.",
+  "celery": "Selderey tishlaganingizda qattiq qarsillaydi.",
+  "cricket": "Qovurilgan chigirtkalar qarsildoq bo'lib, oqsilga boy.",
+  "crunch down": "U qarsildoq olmani qarsillatib tishladi.",
+  "freshness": "Qattiq qarsillash yangilikdan dalolat beradi.",
+  "grasshopper": "Qovurilgan chigirtkalar Meksikada ommabop.",
+  "grind": "Chigirtkalarni maydalab, unga aylantirish mumkin.",
+  "locust": "Ba'zi mamlakatlarda chigirtkalar qovurib yeyiladi.",
+  "scrambled": "U tuxumni qovurilgan holda emas, aralashtirib pishirilgan holda yoqtiradi.",
+  "scrambled eggs": "Tuxum quymoq yumshoq bo'ladi, qarsildoq emas.",
+  "termite": "Afrikaning ayrim hududlarida termitlar qarsildoq gazak sifatida yeyiladi.",
+  "ton": "Qarsildoq gazaklar tonnalab sotiladi."
  }
 });

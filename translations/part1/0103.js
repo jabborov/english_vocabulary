@@ -1,4 +1,4 @@
-// Part 1 topic 0103: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0103: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0103', {
  "A1": {
   "above all": "Eng muhimi, mehribon bo'ling.",
@@ -239,5 +239,45 @@ VOCAB_TR_STORE('1', '0103', {
   "treasure hunt": "Yovvoyi ne'mat terishning jozibasi qisman ovqatning o'zida emas, balki xazina qidirish hayajonida.",
   "unattainable": "Erishib bo'lmaydigan me'yorlarni belgilaydigan maslahatlar odamlarni kichik, real o'zgarishlar qilishdan sovitib qo'yishi mumkin.",
   "unprocessed": "O'ta qayta ishlangan ovqatlar davrida qayta ishlanmagan yovvoyi oziq-ovqat yaqqol muqobil hisoblanadi."
+ },
+ "EX": {
+  "above all": "Eng muhimi, hech qachon o'zingiz aniqlay olmaydigan o'simlikni yemang.",
+  "appreciation": "Yovvoyi o'simlik terish odamlarga tabiatni chuqurroq qadrlashni o'rgatadi.",
+  "bacteria": "Yovvoyi oziq-ovqat ichakimizdagi foydali bakteriyalarga yordam berishi mumkin.",
+  "berry": "O'rmonda yovvoyi rezavorlar terdik.",
+  "buy into": "Ko'p odamlar yovvoyi oziq-ovqat sog'lomroq degan g'oyaga ishonib qolgan.",
+  "chestnut": "Kuzda kashtan terdik.",
+  "coastline": "Dengiz sohili suvo'tlarini terish uchun ajoyib joy.",
+  "convinced": "U yovvoyi o'simlik terish sog'lig'iga foydali ekaniga amin.",
+  "culinary": "Yovvoyi o'simliklar taomlarga qiziqarli pazandalik ta'mlarini qo'shishi mumkin.",
+  "defence": "Ichakdagi sog'lom bakteriyalar organizmning kasalliklarga qarshi himoyasining bir qismidir.",
+  "digestive system": "Yovvoyi o'simliklar ovqat hazm qilish tizimingiz uchun foydali bo'lishi mumkin.",
+  "encompass": "Yovvoyi tabiatdan terish o'simliklar, rezavorlar, qo'ziqorinlar va suvo'tlarini o'z ichiga oladi.",
+  "energy level": "Ko'plab teruvchilar quvvatlari oshganini aytishadi.",
+  "experienced": "Yovvoyi o'simlik terishga tajribali yo'lboshchi bilan boring.",
+  "fly in": "Oziq-ovqatimizning katta qismi chet eldan samolyotda olib kelinadi.",
+  "forage": "Tobora ko'proq odamlar yovvoyi tabiatdan oziq-ovqat terishni o'rganmoqda.",
+  "forager": "Tajribali teruvchi deyarli hamma joydan oziq-ovqat topa oladi.",
+  "foraging": "Britaniyada yovvoyi o'simlik terish juda ommalashib ketdi.",
+  "fungi": "Ba'zi qo'ziqorinlar mazali, boshqalari esa o'ldiradigan darajada zaharli.",
+  "handbook": "Yaxshi yovvoyi o'simlik terish qo'llanmasi o'simliklarni aniqlashga yordam beradi.",
+  "healthier": "Yovvoyi oziq-ovqat supermarketdagi oziq-ovqatdan sog'lomroqmi?",
+  "incorporate": "Taomlaringizga bir nechta yovvoyi o'simlikni qo'shishga harakat qiling.",
+  "launch": "U Britaniyada yovvoyi o'simlik terish bo'yicha qo'llanmani chiqardi.",
+  "micronutrient": "Yovvoyi o'simliklar ko'pincha mikroelementlarga boy bo'ladi.",
+  "mo": "Bir daqiqa to'xtang — menimcha, bu o'simlik yovvoyi sarimsoq.",
+  "nearby": "Yaqin atrofdagi bog'da ko'pincha yovvoyi oziq-ovqat topishingiz mumkin.",
+  "nutritious": "Gazanda kutilmaganda to'yimli.",
+  "poisonous": "Ba'zi yovvoyi qo'ziqorinlar zaharli.",
+  "poisonous plant": "Yovvoyi o'simlik teruvchilar zaharli o'simliklarni tanib olishni o'rganishlari kerak.",
+  "primarily": "Yovvoyi tabiatdan terish asosan o'simliklar, rezavorlar va qo'ziqorinlarga tegishli.",
+  "seaweed": "Dengiz suvo'tlari vitamin va minerallarga boy.",
+  "set off": "Yovvoyi rezavorlarni izlash uchun erta yo'lga chiqdik.",
+  "shopping list": "Yovvoyi o'simlik terish xarid ro'yxatingizdan bir nechta mahsulotni qisqartirishi mumkin.",
+  "stinging nettle": "Chaqqi gazandadan mazali sho'rva tayyorlanadi.",
+  "strengthen": "Yovvoyi oziq-ovqat immunitet tizimingizni mustahkamlashga yordam berishi mumkin.",
+  "treasure hunt": "Yovvoyi o'simlik terish xazina izlashga o'xshaydi.",
+  "unattainable": "Ko'plab shahar aholisi uchun faqat yovvoyi oziq-ovqat yeyish erishib bo'lmaydigan narsa.",
+  "unprocessed": "Yovvoyi oziq-ovqat umuman qayta ishlanmagan."
  }
 });

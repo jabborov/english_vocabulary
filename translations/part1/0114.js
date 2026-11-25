@@ -1,4 +1,4 @@
-// Part 1 topic 0114: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0114: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0114', {
  "A1": {
   "Aboriginal": "Bu aborigenlar san'ati.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0114', {
   "upside down": "Tarix ostin-ustun bo'ldi: missionerning yozuvlari endi u almashtirmoqchi bo'lgan narsani qayta tiklashga xizmat qilmoqda.",
   "wink": "Ko'z qisish jiddiy ko'ringan gapni kinoyali gapga aylantirishi mumkin.",
   "wink at": "So'zni qo'shtirnoqqa olish o'quvchiga ko'z qisib, kinoyali masofani bildirish usulidir."
+ },
+ "EX": {
+  "Aboriginal": "Barngarla tili — Janubiy Avstraliyadagi aborigenlar tili.",
+  "Christianise": "Missionerlar aborigenlarni nasroniylikka kiritish uchun kelishgan.",
+  "arrive": "Yevropaliklar kelganida Avstraliyada 250 ga yaqin til bor edi.",
+  "bring back": "Bir tilshunos jamoaga o'z tilini qayta tiklashda yordam bermoqda.",
+  "brutal": "Avstraliyaning mustamlaka qilinishi ko'pincha shafqatsiz bo'lgan.",
+  "cruel": "Bolalarni oilalaridan tortib olish shafqatsizlik edi.",
+  "dead language": "Lotin tili ko'pincha o'lik til deb ataladi.",
+  "destruction": "Aborigen tillarining yo'q qilinishi juda tez sodir bo'ldi.",
+  "diametrically": "Missionerning maqsadi bugungi jamoaning maqsadiga mutlaqo qarama-qarshi edi.",
+  "die out": "Har asrda yuzlab tillar yo'qolib ketadi.",
+  "disorganise": "Mustamlakachilik an'anaviy aborigen jamiyatining tartibini buzib yubordi.",
+  "disorganise right": "Bularning hammasi juda tartibsizdek tuyuladi, to'g'rimi?",
+  "foreign country": "Missioner chet eldan — Germaniyadan kelgan edi.",
+  "heathen": "Missionerlar mahalliy aholini \"majusiylar\" deb atashgan.",
+  "hello": "Qadimiy tilda \"salom\" deyishni o'rganish birinchi qadam bo'ldi.",
+  "injustice": "Tilini yo'qotish aborigenlar uchun katta adolatsizlik edi.",
+  "ironic": "Missionerning lug'ati tilni saqlab qolayotgani kinoyali holdir.",
+  "linguistic": "Avstraliya o'zining til xilma-xilligining katta qismini yo'qotgan.",
+  "linguistically": "Bir vaqtlar Avstraliya til jihatidan juda xilma-xil bo'lgan.",
+  "missionary": "Nemis missioneri 1840-yillarda bu tilning lug'atini yozgan.",
+  "misuse": "Missionerlarning hokimiyatni suiiste'mol qilishi jamoaga zarar yetkazdi.",
+  "quotation": "Boshlovchi missionerning kundaligidan iqtibos o'qib berdi.",
+  "quotation mark": "U \"heathen\" so'zini qo'shtirnoq ichiga oldi.",
+  "scepticism": "Dastlab odamlar til loyihasini shubha bilan qarshi olishdi.",
+  "settler": "Yevropalik ko'chmanchilar Avstraliyaga XVIII asrda kelishgan.",
+  "unite": "Til loyihasi jamoani birlashtirdi.",
+  "upside": "Yaxshi tomoni shundaki, missioner minglab so'zlarni yozib qoldirgan.",
+  "upside down": "Mustamlakachilik xalqning dunyosini ostin-ustin qilib yubordi.",
+  "wink": "Hazillashayotganini bildirish uchun u ko'z qisib qo'ydi.",
+  "wink at": "Missionerning so'zlarini o'qiyotib, u tomoshabinlarga ko'z qisib qo'ydi."
  }
 });

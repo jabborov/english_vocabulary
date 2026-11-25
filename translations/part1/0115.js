@@ -1,4 +1,4 @@
-// Part 1 topic 0115: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0115: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0115', {
  "A1": {
   "arrival": "Biz uning kelishini kutdik.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0115', {
   "put out": "Firmalar mahsulotlarni olimlar ular haqidagi da'volarni sinab ko'rishga ulgurmasdan tezroq chiqarishadi.",
   "rediscover": "Har bir avlod dorivor zamburug'larni qaytadan kashf etayotgandek tuyuladi, ko'pincha dalildan ko'ra ishtiyoq bilan.",
   "zoo": "Sog'lomlashtirish sanoati raqobatlashuvchi da'volarning hayvonot bog'iga aylandi va ulardan kamdan-kami dalillarga asoslangan."
+ },
+ "EX": {
+  "arrival": "Qo'ziqorinli qahvaning supermarketlarda paydo bo'lishi ular qanchalik ommalashganini ko'rsatadi.",
+  "bioluminescent": "Ba'zi qo'ziqorinlar bioluminessent bo'lib, qorong'ida nur sochadi.",
+  "chamomile": "U yaxshi uxlash uchun moychechak choyi ichadi.",
+  "clinical trial": "Qo'ziqorinli qo'shimchalar juda kam klinik sinovlarda tekshirilgan.",
+  "confusion": "Qo'ziqorinli qo'shimchalar nimaga qodirligi haqida chalkashlik ko'p.",
+  "distrust": "Ba'zi odamlarning zamonaviy tibbiyotga ishonchsizligi ularni qo'ziqorinlarga murojaat qilishga undaydi.",
+  "functionality": "Aytishlaricha, \"funksional qo'ziqorinlar\" ovqatga qo'shimcha foydali xususiyatlar qo'shadi.",
+  "hairy": "Sher yolini — katta, oq, tukli qo'ziqorin.",
+  "holistic": "Ba'zi odamlar sog'liqqa yaxlit yondashuvni afzal ko'rishadi.",
+  "knowledge base": "An'anaviy tibbiyotda qo'ziqorinlar haqida katta bilimlar zaxirasi bor.",
+  "label": "Qo'shimchani qabul qilishdan oldin doim yorlig'ini o'qing.",
+  "legally": "Qo'shimchalar ular samarali ekanligiga dalil bo'lmasa ham qonuniy ravishda sotilishi mumkin.",
+  "medicinal": "Ba'zi qo'ziqorinlar ming yillar davomida shifobaxsh maqsadlarda ishlatilgan.",
+  "overblown": "Ba'zi mutaxassislarning aytishicha, qo'ziqorinlarning foydasi haqidagi da'volar bo'rttirilgan.",
+  "property": "Aytishlaricha, ba'zi qo'ziqorinlar shifobaxsh xususiyatlarga ega.",
+  "put out": "Hozir ko'plab kompaniyalar qo'ziqorinli qahva va choylar chiqarmoqda.",
+  "rediscover": "Odamlar an'anaviy tibbiyotda ishlatilgan qo'ziqorinlarni qayta kashf etishmoqda.",
+  "zoo": "Qo'ziqorinli qo'shimchalar olami biroz tartibsiz bozorga o'xshaydi."
  }
 });

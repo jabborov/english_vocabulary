@@ -1,4 +1,4 @@
-// Part 1 topic 0311: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0311: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0311', {
  "A1": {
   "anvil": "Sandoncha kichik suyakdir.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0311', {
   "vibration": "Eshitishimiz havodagi tebranishlarni miya dekodlay oladigan nerv impulslariga aylantirishga bog'liq.",
   "wax": "Quloq kirining oddiy to'planishi bo'g'iq eshitishning eng keng tarqalgan va oson davolanadigan sabablaridan biridir.",
   "wear and tear": "Biz qarish deb ataydigan narsaning ko'p qismi shunchaki o'nlab yillik foydalanish natijasida to'plangan yeyilishdir."
+ },
+ "EX": {
+  "anvil": "Sandon inson tanasidagi eng kichik suyaklardan biridir.",
+  "backup system": "Tukli hujayralar shikastlansa, quloqda zaxira tizim yo'q.",
+  "beginner": "Quloq qanday ishlashi haqidagi bu qo'llanma yangi boshlovchilar uchun juda mos.",
+  "computation": "Tovush qayerdan kelayotganini aniqlash uchun miya murakkab hisob-kitoblarni bajaradi.",
+  "destine": "Hamma ham qariganda eshitish qobiliyatini yo'qotishga mahkum emas.",
+  "downward": "Eshitish qobiliyatining pasayishi yolg'izlikning tobora chuqurlashib boruvchi girdobini boshlab yuborishi mumkin.",
+  "eardrum": "Juda kuchli gumbur nog'ora pardangizga zarar yetkazishi mumkin.",
+  "exclaim": "\"Yana eshita olyapman!\" deb xitob qildi u.",
+  "funnel": "Tashqi quloq tovush uchun voronka vazifasini bajaradi.",
+  "funnel in": "Tashqi quloq tovushni voronka kabi nog'ora parda tomon yo'naltiradi.",
+  "hearing aid": "Buvim eshitish apparatini taqib yuradi.",
+  "hearing loss": "Ko'p yillar davomida baland musiqa tinglash eshitish qobiliyatining pasayishiga olib kelishi mumkin.",
+  "inner ear": "Baland shovqin ichki quloqning mayda tukli hujayralariga zarar yetkazishi mumkin.",
+  "listen up": "Hammaga diqqat – bugun quloqlarimiz haqida gaplashamiz!",
+  "middle ear": "Bolalarda ko'pincha o'rta quloq yallig'lanadi.",
+  "outer ear": "Tashqi quloq tovushni yig'ib, uni nog'ora pardaga yo'naltiradi.",
+  "pinna": "Quloq suprasi – quloqning biz ko'ra oladigan qismi.",
+  "pneumatic drill": "Quloq himoyasisiz otbaqa bilan ishlash eshitishingizga zarar yetkazishi mumkin.",
+  "sense of hearing": "Itlarning eshitish qobiliyati odamlarnikidan ancha kuchli.",
+  "sense organ": "Quloq ajoyib sezgi a'zosidir.",
+  "spiral": "Ichki quloqdagi chig'anoq spiral shakliga ega.",
+  "split up": "Quloqni uchta asosiy qismga ajratish mumkin.",
+  "stirrup": "Uzangi inson tanasidagi eng kichik suyakdir.",
+  "sympathetically": "Quloqdagi mayda suyakchalar nog'ora parda bilan hamohang tebranadi.",
+  "vibration": "Tovush aslida havoda tarqaladigan tebranishdir.",
+  "wax": "Quloqda kir to'planib qolishi eshitishni qiyinlashtirishi mumkin.",
+  "wear and tear": "Eshitishning ba'zi pasayishi shunchaki yosh ulg'aygani sari organizmning yeyilishi bilan bog'liq."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0198: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0198: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0198', {
  "A1": {
   "application": "Menda bu ilova bor.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0198', {
   "squatter": "Kichik kafe egalari uchun kun bo'yi stollarni egallab o'tiradigan bosqinchilar biznesni zarar ko'radigan qilib qo'yishi mumkin.",
   "stimulating": "Qahvaxona kofein va suhbatning ikki karra rag'batlantiruvchi uyg'unligini taklif qilardi.",
   "wifi": "Bepul wifi tarqalishi kafelarni masofadan ishlovchilar avlodi uchun ish joyiga aylantirdi."
+ },
+ "EX": {
+  "application": "U qahvasiga telefonidagi ilova orqali buyurtma berdi.",
+  "blockbuster": "U qahvaxonada shov-shuvli asar yozayotgan edi.",
+  "bring on": "Haddan tashqari ko'p qahva bosh og'rig'iga sabab bo'lishi mumkin.",
+  "bump into": "Qahvaxonada tasodifan biror do'stingizni uchratib qolishingiz mumkin.",
+  "byte": "Kompyuter xotirasi baytlarda o'lchanadi.",
+  "comfy": "U kafedagi qulay kreslolardan biriga o'tirdi.",
+  "debating": "Qahvaxonalar bahs-munozaralari bilan mashhur edi.",
+  "hog": "Kun bo'yi stolni egallab o'tirmang.",
+  "hogging": "Stolni uzoq egallab olish ko'plab kafelar uchun muammo.",
+  "intellectual": "Qahvaxonalar ilmiy-ma'rifiy suhbatlari bilan mashhur edi.",
+  "kitten": "Hatto mushukchalar bilan o'ynash mumkin bo'lgan mushuk kafelari ham bor.",
+  "lively": "Qahvaxonalar bir paytlar munozaralar qaynaydigan jonli joylar edi.",
+  "meeting place": "Qahvaxona muhim uchrashuv joyi edi.",
+  "mess about": "Talabalar kafeda telefonlari bilan vaqtni bekorga o'tkazishardi.",
+  "plug in": "Ko'p odamlar qahvaxonalarda noutbuklarini quvvatga ulashadi.",
+  "plug into": "U noutbukini deraza yonidagi rozetkaga ulab qo'ydi.",
+  "rent": "Kafelar shahar markazida baland ijara haqi to'laydi.",
+  "selfish": "Bitta qahva uchun katta stolni egallash xudbinlikdir.",
+  "squat": "Ba'zi odamlar noutbuklari bilan kun bo'yi kafelarda o'tirib olishadi.",
+  "squatter": "Kafe egalari noutbuk bilan stolni egallab oladiganlardan shikoyat qilishadi.",
+  "stimulating": "Qahva tetiklashtiruvchi ichimlikdir.",
+  "wifi": "Ko'pchilik qahvaxonalar bepul wifi taklif qiladi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0348: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0348: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0348', {
  "A1": {
   "aggression": "Tajovuzkorlik yomon.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0348', {
   "scurvy": "Singa oxir-oqibat sarimsoq bilan emas, balki C vitaminiga boy sitrus mevalar bilan yengilgan.",
   "unimaginable": "Ko'plab oshxonalarda sarimsoqsiz taomni tasavvur qilib bo'lmaydi.",
   "uproot": "Sarimsoq yerdan sug'urib olingach, oylab saqlanishi uchun quritishga qo'yiladi."
+ },
+ "EX": {
+  "aggression": "Rim askarlari sarimsoq ularga jasorat va jangovarlik beradi, deb ishonib uni yeyishgan.",
+  "ailment": "Sarimsoq ko'plab xastaliklarni davolashda ishlatilgan.",
+  "aphrodisiac": "O'tmishda sarimsoq shahvatni qo'zg'atuvchi vosita deb hisoblangan.",
+  "clove": "Sousga ikki bo'lak sarimsoq qo'shing.",
+  "plague": "Odamlar sarimsoq ularni vabodan himoya qilishi mumkin deb o'ylashgan.",
+  "robin": "Bog'dagi sarimsoq o'simliklari ustiga malinovka qo'ndi.",
+  "rocambole": "Rokambol ta'mi boy bo'lgan sarimsoq turidir.",
+  "scurvy": "Bir paytlar dengizchilar singa kasalligidan saqlanish uchun sarimsoq yeyishgan.",
+  "unimaginable": "Ba'zi oshpazlar uchun sarimsoqsiz taomni tasavvur qilib bo'lmaydi.",
+  "uproot": "Dehqonlar yozda sarimsoqni sug'urib olishadi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0146: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0146: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0146', {
  "A1": {
   "boot": "Bular mening yangi etiklarim.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0146', {
   "toddler": "Kichkintoyning xatti-harakati shunchaki betartiblik emas, balki hali boshqara olmaydigan hissiyotlar bilan kurashayotgan ongni aks ettiradi.",
   "two": "\"Dahshatli ikki yosh\" deb ataladigan davr sho'xlik bosqichidan ko'ra iroda va cheklangan nutq o'rtasidagi to'qnashuvdir.",
   "uncontrolled": "Kichkintoyning nazoratsiz jahl otiga minishi rivojlanish nuqtai nazaridan me'yoriy hol; kattada esa bu nimadir izdan chiqqanidan dalolat beradi."
+ },
+ "EX": {
+  "boot": "Qizaloq etigini o'zi kiyishni xohlardi.",
+  "disappointed": "Bog' yopiq bo'lganida u hafsalasi pir bo'ldi.",
+  "get dressed": "O'g'limga ertalab kiyinish uchun ko'p vaqt ketadi.",
+  "glove": "U barmoqlarini qo'lqopga kirgiza olmadi.",
+  "grown": "Hatto katta yoshli odamlar ham ba'zan kichkintoylardek tutishadi.",
+  "little girl": "Qo'lqopi kirmagani uchun qizaloq xafa bo'lgan edi.",
+  "look down": "U loy bo'lgan etiklariga pastga qarab qo'ydi.",
+  "mitt": "Kichkintoy qo'lini qo'lqopga kirgiza olmadi.",
+  "out loud": "Kichkintoylar his qilayotganlarini ovoz chiqarib aytishadi.",
+  "outburst": "Uning g'azab bilan portlashi xonadagi hammani hayron qoldirdi.",
+  "putting": "U etigini kiyayotganda yig'lab yubordi.",
+  "resemble": "Kattalar jahli chiqqanda ba'zan kichkintoylarga o'xshab qolishadi.",
+  "squish": "Kichkintoy bananni qo'lida ezg'ilab tashladi.",
+  "talk out": "His-tuyg'ularingiz haqida ishongan odamingiz bilan gaplashib olish yordam beradi.",
+  "tantrum": "Pechenye berishmagani uchun u jazavaga tushdi.",
+  "toddle": "Kichkina bola xona bo'ylab gandiraklab onasining oldiga bordi.",
+  "toddler": "Kichkintoylar ko'pincha nimani his qilsa, aynan shuni aytadi.",
+  "two": "Ko'plab bolalar ikki yoshida injiqlik qilib, jazavaga tushadi.",
+  "uncontrolled": "Kichkintoylarda ko'pincha his-tuyg'ularning nazoratsiz portlashlari kuzatiladi."
  }
 });

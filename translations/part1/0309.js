@@ -1,4 +1,4 @@
-// Part 1 topic 0309: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0309: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0309', {
  "A1": {
   "Finn": "U finlandiyalik.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0309', {
   "frontier": "Okean tubi sayyoramizdagi eng kam o'rganilgan chegaralardan biri bo'lib qolmoqda.",
   "simulate": "Kompyuter modellari iqlim isishi bilan okean oqimlari qanday o'zgarishini simulyatsiya qila oladi.",
   "undersea": "Suv osti yashash joyida yashash olimlarga rifni kechayu kunduz o'rganish imkonini berdi."
+ },
+ "EX": {
+  "Finn": "Finn bir oy suv osti laboratoriyasida yashadi.",
+  "breathe out": "G'avvoslar yuzaga ko'tarilayotganda nafaslarini sekin chiqarishlari kerak.",
+  "canned food": "G'avvoslar u yerda bo'lgan paytda asosan konserva ovqatlar bilan ovqatlanishdi.",
+  "decompress": "G'avvoslar yuzaga qaytishdan oldin sekin-asta dekompressiyadan o'tishlari kerak.",
+  "decompressing": "Dekompressiya g'avvoslarga o'n besh soatdan ko'proq vaqt oldi.",
+  "diver": "G'avvoslar suv osti bazasida bir oy vaqt o'tkazishdi.",
+  "dry land": "Bir oy suv ostida bo'lgandan keyin u quruqlikka qaytganidan xursand bo'ldi.",
+  "feat": "31 kun suv ostida yashash chinakam jasorat edi.",
+  "frontier": "Okean Yerdagi so'nggi buyuk o'rganilmagan hududdir.",
+  "simulate": "Suv ostida yashash kosmik stansiyadagi hayotni taqlid qilishi mumkin.",
+  "undersea": "Olimlar 31 kun dengiz ostidagi laboratoriyada yashashdi."
  }
 });

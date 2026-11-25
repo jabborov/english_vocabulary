@@ -1,4 +1,4 @@
-// Part 1 topic 0109: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0109: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0109', {
  "A1": {
   "Hebrew": "Ivrit bu til.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0109', {
   "social status": "Ismlar azaldan boylik, tabaqa yoki kastani bildiruvchi ijtimoiy maqom belgisi sifatida ishlatilgan.",
   "surname": "Turmushga chiqqanda familiyani o'zgartirish hali ham keng tarqalgan, garchi bu odat tobora ko'proq shubha ostiga olinsa-da.",
   "thread": "Familiyalar bugungi oilalarni olis joylar va zamonlar bilan bog'lovchi ip vazifasini o'taydi."
+ },
+ "EX": {
+  "Hebrew": "Xanna ismi ibroniy tilidan kelib chiqqan va \"marhamat\" degan ma'noni bildiradi.",
+  "anglicise": "Ba'zi muhojirlar ismlarini inglizchalashtirishni tanlashgan.",
+  "anglicised": "Ko'plab muhojirlar ismlarining inglizchalashtirilgan shaklidan foydalanishgan.",
+  "association": "Tarix tufayli ba'zi ismlar salbiy tasavvurlar uyg'otadi.",
+  "automatically": "Odamlar ismingizga qarab siz haqingizda beixtiyor taxmin qilishadi.",
+  "caste": "Hindistonda ba'zi familiyalar insonning kastasini ko'rsatadi.",
+  "colonial": "Mustamlaka davrida ko'plab mahalliy nomlar o'zgartirilgan.",
+  "family name": "Smit Angliyada keng tarqalgan familiya.",
+  "geographical": "Ba'zi familiyalar Hill yoki Brook kabi geografik kelib chiqishga ega.",
+  "geographical area": "Ba'zi ismlar faqat bitta geografik hududda keng tarqalgan.",
+  "go in": "Chuqurroq kirib borsangiz, ism sizga butun bir oila tarixini aytib berishi mumkin.",
+  "graceful": "Uning ismi ibroniy tilida \"nafis\" degan ma'noni bildiradi.",
+  "hidden": "Ismlarimizda yashirin hikoyalar bor.",
+  "migration": "Ko'plab familiyalar ko'chish tarixini hikoya qiladi.",
+  "mixed": "Ismimni o'zgartirish haqida qarama-qarshi his-tuyg'ularim bor.",
+  "modern times": "Hozirgi zamonda odamlar o'z ismlarini o'zlari tanlashlari mumkin.",
+  "oppression": "Ba'zi ismlar zulm tarixi bilan bog'liq.",
+  "over here": "Bobom va buvim bu yerga kelganlarida familiyalarini o'zgartirishgan.",
+  "pull at": "Ismingiz ipining uchidan tortsangiz, ko'plab hikoyalarni topasiz.",
+  "row": "Bu ism ketma-ket uchinchi yil eng mashhur bo'ldi.",
+  "signify": "Ba'zi madaniyatlarda ism insonning dinini anglatishi mumkin.",
+  "sixth": "Smit eng keng tarqalgan familiya, Jons esa ba'zi ro'yxatlarda oltinchi o'rinda turadi.",
+  "social status": "O'tmishda familiyangiz ijtimoiy mavqeingizni ko'rsatishi mumkin edi.",
+  "surname": "Ko'plab familiyalar Beyker (novvoy) kabi odamlarning kasbidan kelib chiqqan.",
+  "thread": "Ismlar bizni o'tmishimiz bilan bog'laydigan ipdir."
  }
 });

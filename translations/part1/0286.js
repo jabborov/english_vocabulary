@@ -1,4 +1,4 @@
-// Part 1 topic 0286: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0286: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0286', {
  "A1": {
   "backwards": "Orqaga qarab yuring.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0286', {
   "stream of consciousness": "Faylasuflar ong oqimimiz haqiqatan uzluksizmi yoki tezkor suratlardan iboratmi, degan masalada bahslashadilar.",
   "stretch": "Vaqt hissimiz his-tuyg'u, diqqat va yangilikka qarab cho'zilishi yoki qisqarishi mumkin.",
   "stretch out": "Yangi tajribalar xotirada cho'zilib ketadi, chunki miya batafsilroq xotiralarni saqlaydi."
+ },
+ "EX": {
+  "backwards": "Vaqt orqaga qaytmaydi.",
+  "big tree": "Bolalar katta daraxt o'sishi uchun bir umr kerak bo'lgan deb o'ylashadi.",
+  "bruise": "U yiqilganda katta ko'kargan joy paydo bo'ldi.",
+  "buzz off": "\"Yo'qol!\" deb qichqirdi u pashshaga.",
+  "drag": "Uzoq avtomobil safarlari bolalar uchun juda cho'zilib ketadi.",
+  "gunman": "Guvohlarning aytishicha, qurollangan odam xuddi sekinlashtirilgan kadrdagidek harakatlanayotganga o'xshagan.",
+  "high frequency": "Pashshalar dunyoni yuqori chastotada ko'rishadi.",
+  "nippy": "Pashshalar chaqqon mitti hasharotlardir.",
+  "open fire": "Qurollangan odam o'q uzganda hamma narsa sekinlashib qolgandek tuyuldi.",
+  "overdrive": "Inqiroz paytida miya kuchaytirilgan rejimga o'tadi.",
+  "pass in": "Avariya paytida vaqt sekinlashtirilgan kadrdagidek o'tayotgandek tuyulishi mumkin.",
+  "petrified": "Mashina sirpana boshlaganda qo'rquvdan qotib qoldim.",
+  "petrify": "Balandlik meni dahshatga soladi.",
+  "philosophical": "Vaqtning tabiati chuqur falsafiy savoldir.",
+  "predator": "Yirtqich hujum qilganda hayvonning miyasi juda tez ishlaydi.",
+  "run along": "\"Qani, endi boringlar,\" dedi o'qituvchi.",
+  "slow motion": "Gol sekinlashtirilgan tasvirda yana ko'rsatildi.",
+  "stream of consciousness": "Vaqtni his qilishimiz ong oqimiga o'xshaydi.",
+  "stretch": "Kutayotganingizda vaqt cho'zilib ketgandek tuyuladi.",
+  "stretch out": "Xotirada qo'rqinchli lahzalar cho'zilib ketgandek tuyuladi."
  }
 });

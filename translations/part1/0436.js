@@ -1,4 +1,4 @@
-// Part 1 topic 0436: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0436: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0436', {
  "A1": {
   "cattle": "Qoramollar dalada.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0436', {
   "of import": "Bu tanlovlar yerni meros qilib oladigan avlodlar uchun katta ahamiyatga ega.",
   "stark": "Achchiq haqiqat shundaki, hozirgi dehqonchilik usullari o'sib borayotgan aholini barqaror tarzda boqa olmaydi.",
   "tractor": "O'zi yuradigan traktorlar tez orada fermerlarga dalalarni ancha kam ishchi kuchi bilan ishlash imkonini berishi mumkin."
+ },
+ "EX": {
+  "cattle": "Qoramol boqish ko'p yer va suv talab qiladi.",
+  "chew over": "Bu siyosatchilar puxta o'ylab ko'rishi kerak bo'lgan masala.",
+  "chunk": "Dunyo yerlarining katta qismi dehqonchilik uchun ishlatiladi.",
+  "degradation": "Tuproqning yemirilishi oziq-ovqat ishlab chiqarishga jiddiy tahdid soladi.",
+  "farmland": "Shaharlar unumdor qishloq xo'jaligi yerlariga qarab kengaymoqda.",
+  "fertiliser": "Fermerlar kattaroq hosil olish uchun o'g'itdan foydalanadi.",
+  "geopolitical": "Urushlar va boshqa geosiyosiy muammolar oziq-ovqat narxlarini oshirishi mumkin.",
+  "landowner": "Mintaqadagi qishloq xo'jaligi yerlarining katta qismini yirik yer egalari nazorat qiladi.",
+  "of import": "Bu barchamiz uchun juda muhim ahamiyatga ega masala.",
+  "stark": "Hisobotda dehqonchilik kelajagi haqida keskin ogohlantirish berilgan.",
+  "tractor": "Fermer traktorini dala bo'ylab haydab o'tdi."
  }
 });

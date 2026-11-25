@@ -1,4 +1,4 @@
-// Part 1 topic 0189: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0189: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0189', {
  "A1": {
   "amplify": "Ovozni kuchaytiring.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0189', {
   "stir up": "Internetda nifoq qo'zg'atish daromadli biznes modeli ekani isbotlandi.",
   "strategist": "Siyosiy strateglar internetda tarafdorlarini safarbar qilish uchun g'azabdan foydalanishni o'rganib olishgan.",
   "tactic": "Bu taktika qisqa muddatda samarali, ammo uzoq muddatda ishonchni yemirish xavfini tug'diradi."
+ },
+ "EX": {
+  "amplify": "Algoritmlar g'azabli postlarni kuchaytiradi.",
+  "bait": "G'azab o'ljasi — sizni jahlingizni chiqarish uchun yaratilgan kontent.",
+  "baiting": "G'azab qo'zg'atish ijtimoiy tarmoqlarda keng tarqalgan usul.",
+  "computer software": "Qaysi postlarni ko'rishimizni kompyuter dasturlari hal qiladi.",
+  "engagement": "G'azabli izohlar faollikni oshiradi.",
+  "eyeball": "G'azab o'ljasining asl maqsadi — ko'proq ko'zlarni jalb qilish.",
+  "hateful": "Video nafratga to'la izohlarni jalb qildi.",
+  "incite": "Post g'azab qo'zg'atish uchun yaratilganga o'xshardi.",
+  "manipulative": "G'azab o'ljasi — e'tibor tortishning manipulyativ usuli.",
+  "marketer": "Marketologlar g'azab sotilishini yaxshi bilishadi.",
+  "outrage": "Post internetda katta norozilikka sabab bo'ldi.",
+  "outraged": "Minglab g'azablangan tomoshabinlar izoh qoldirishdi.",
+  "outrageous": "U e'tibor tortish uchun aqlga sig'maydigan da'vo qildi.",
+  "plastic surgery": "Videoda kimningdir haddan tashqari plastik jarrohligi ko'rsatilgan edi.",
+  "provocative": "U ovqat haqida bahs-munozara qo'zg'atuvchi izoh yozdi.",
+  "rouse": "Post odamlarning g'azabini uyg'otishga mo'ljallangan edi.",
+  "share around": "Jahl chiqaruvchi video millionlab marta ulashildi.",
+  "stir up": "G'azab o'ljasi jahlni qo'zg'atish uchun yaratiladi.",
+  "strategist": "Ijtimoiy tarmoqlar bo'yicha strateg g'azab o'ljasi qanday ishlashini tushuntirdi.",
+  "tactic": "G'azab o'ljasi — marketing taktikasi."
  }
 });

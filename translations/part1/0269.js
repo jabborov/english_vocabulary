@@ -1,4 +1,4 @@
-// Part 1 topic 0269: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0269: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0269', {
  "A1": {
   "blooper": "Bu kulgili xato edi.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0269', {
   "tweeting": "Tinimsiz tvit yozish onlayn auditoriyadan doimiy tasdiq olish ehtiyojini aks ettirishi mumkin.",
   "unaddicted": "Bizni ilintirib olish uchun yaratilgan diqqat iqtisodiyotida qaram bo'lib qolmaslik ongli harakat talab qiladi.",
   "wordsmith": "Onlayn olamning kamgap so'z ustasi hayotda tortinchoq va ikkilanuvchan bo'lishi mumkin."
+ },
+ "EX": {
+  "blooper": "U kulgili muvaffaqiyatsiz kadrlar videosini joyladi.",
+  "boarding": "U skeytbordda bajargan nayranglarining videolarini internetda baham ko'radi.",
+  "forum": "U skeytbording haqidagi onlayn forumga qo'shildi.",
+  "know nothing": "Obunachilaringiz sizning haqiqiy hayotingiz haqida hech narsa bilishmaydi.",
+  "playground": "Ijtimoiy tarmoqlar o'smirlar uchun o'yin maydonchasiga o'xshaydi.",
+  "posting": "Uning so'nggi posti minglab layk oldi.",
+  "psyche": "Ijtimoiy tarmoqlar ruhiyatimizga kuchli ta'sir ko'rsatishi mumkin.",
+  "public domain": "Internetga biror narsa joylaganingizdan so'ng, u hammaga ochiq bo'lib qoladi.",
+  "skate": "U bog'da skeytda uchishni yaxshi ko'radi.",
+  "tweeting": "U har kuni soatlab tvit yozadi.",
+  "unaddicted": "Juda kam yoshlar telefonlariga mutlaqo qaram emas.",
+  "wordsmith": "U internetda haqiqiy so'z ustasi, doim aqlli postlar yozadi."
  }
 });

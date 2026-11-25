@@ -1,4 +1,4 @@
-// Part 1 topic 0318: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0318: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0318', {
  "A1": {
   "aback": "Men taajjublanib qoldim.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0318', {
   "take aback": "Robot avvalgi suhbatlar tafsilotlarini eslab qolganida ko'plab foydalanuvchilar hayratda qoldi.",
   "unexciting": "Muhandislar shunchaki itoatkor robot qiziqarsiz bo'lishini his qilib, unga xarakter berishdi.",
   "uninhabited": "Robotlar dastlab uy hamrohi sifatida emas, balki xavfli yoki odam yashamaydigan muhitlar uchun ishlab chiqilgan."
+ },
+ "EX": {
+  "aback": "U robotning savolidan dovdirab qoldi.",
+  "brighten": "Robot salom berganida uning chehrasi yorishib ketdi.",
+  "brighten up": "Suhbatdosh robot yolg'iz odamning kunini yorituvchi bo'lishi mumkin.",
+  "garbage": "Robot axlatni chiqarib tashlay oladi.",
+  "grace": "Robot unchalik nafis harakat qilmaydi.",
+  "independently": "Robot uy bo'ylab mustaqil harakatlana oladi.",
+  "inquisitive": "Robot qiziquvchan va ko'p savollar beradi.",
+  "sassy": "Robot surbetlarcha javob berdi.",
+  "take aback": "Robot menga gap qaytarganida hayron qoldim.",
+  "unexciting": "Faqat uy ishlarini bajaradigan robotlar ancha zerikarli tuyuladi.",
+  "uninhabited": "Robot odam yashamaydigan joylarni tadqiq qilish uchun yaratilgan."
  }
 });

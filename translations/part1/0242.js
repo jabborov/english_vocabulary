@@ -1,4 +1,4 @@
-// Part 1 topic 0242: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0242: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0242', {
  "A1": {
   "Graham": "Graham mening do'stim.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0242', {
   "pork sausage": "Ko'r-ko'rona tatib ko'rishda ba'zilar o'simlik asosidagi variantni cho'chqa go'shtidan qilingan kolbasadan ajrata olmadi.",
   "soy": "Soya asosidagi mahsulotlar qanchalik qayta ishlangani jihatidan bir-biridan juda katta farq qiladi.",
   "veggie": "Har qanday vegetarian mahsulot o'zi o'rnini bosayotgan go'shtdan avtomatik ravishda foydaliroq emas."
+ },
+ "EX": {
+  "Graham": "Greyem o'simlik asosidagi kolbasalarning ta'mi kutilmaganda yaxshi deb hisoblaydi.",
+  "additive": "O'simlik asosidagi ba'zi oziq-ovqatlarda ko'plab qo'shimchalar bor.",
+  "banger": "Kartoshka pyuresi bilan kolbasa — klassik Britaniya taomi.",
+  "barbecue": "Barbekyu paytida vegetarian kolbasalar yedik.",
+  "brunch": "Nonushta-tushlikda vegetarian kolbasalar yedik.",
+  "curious": "Vegetarian burgerda nima borligini bilishga qiziqaman.",
+  "fermentation": "Ba'zi go'sht o'rnini bosuvchi mahsulotlar fermentatsiya yordamida tayyorlanadi.",
+  "flavouring": "Dudlangan ta'm beruvchi qo'shimcha vegetarian bekonning ta'mini haqiqiydek qiladi.",
+  "improve over": "So'nggi bir necha yil ichida o'simlik asosidagi go'sht ancha yaxshilandi.",
+  "instinctive": "Bizning beixtiyor munosabatimiz — o'simlik mahsulotlarini foydaliroq deb o'ylash.",
+  "logically": "Mantiqan olganda, ko'proq o'simlik mahsulotlarini yeyish sog'lomroq bo'lishi kerak — lekin bu ovqatga bog'liq.",
+  "mash": "Ular vegan kolbasalarni kartoshka pyuresi va sous bilan tortishdi.",
+  "pork sausage": "Vegetarian kolbasaning ta'mi deyarli cho'chqa go'shtli kolbasanikiga o'xshardi.",
+  "soy": "Ko'plab go'sht o'rnini bosuvchi mahsulotlar soyadan tayyorlanadi.",
+  "veggie": "Men vegetarian burger buyurtma qildim."
  }
 });

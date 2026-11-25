@@ -1,4 +1,4 @@
-// Part 1 topic 0177: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0177: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0177', {
  "A1": {
   "France": "Parij Fransiyada joylashgan.",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('1', '0177', {
   "trouser": "Bu ibora shim xonadondagi erkak hokimiyatini ramziy ifodalagan davrga borib taqaladi.",
   "unseen": "An'ananing ko'rinmas og'irligi ko'pchilik ayollar qonuniy erkinligiga qaramay nega hamon familiyasini o'zgartirishini tushuntiradi.",
   "wear the trousers": "Oilada \"kim shim kiyishi\" haqidagi hazillarning saqlanib qolishi nikohdagi hokimiyat haqidagi tasavvurlarimiz hamon jinsga bog'liq ekanini ko'rsatadi."
+ },
+ "EX": {
+  "France": "Fransiyada ayolning tug'ilgandagi familiyasi uning rasmiy familiyasi bo'lib qoladi.",
+  "Rachel": "Reychel turmushga chiqqanida o'z familiyasini saqlab qoldi.",
+  "acknowledge": "Ikkala familiyani saqlab qolish ikkala oilani ham e'tirof etish demakdir.",
+  "article": "Men familiyasini saqlab qolayotgan ayollar haqida maqola o'qidim.",
+  "barrel": "Ular ikkalasining ismini o'z ichiga olgan qo'sh familiyani tanlashdi.",
+  "citizen": "Ba'zi davlatlarda fuqarolar tug'ilgandagi ismini saqlab qolishi shart.",
+  "elect": "Ba'zi juftliklar familiyalarini birlashtirishni tanlashadi.",
+  "fall into": "Familiya masalasida juftliklar bir necha guruhga bo'linadi.",
+  "family unit": "Ba'zi juftliklar yagona oila ekanliklarini ko'rsatish uchun bitta familiyani olishadi.",
+  "formerly": "Avvalgi familiyasi Smit bo'lgan Jons xonim ishda ikkala familiyani ham saqlab qoldi.",
+  "hi": "Salom, men Reychelman, bu esa \"6 Minute English\" dasturi.",
+  "hyphen": "Ularning yangi familiyasi o'rtasida chiziqcha bor.",
+  "instructor": "U yoga va meditatsiya bo'yicha murabbiy.",
+  "maiden": "\"Maiden name\" iborasidagi \"maiden\" so'zi turmushga chiqmagan qizni bildiruvchi eski so'zdir.",
+  "maiden name": "Endi ko'proq ayollar turmushga chiqqandan keyin qizlik familiyasini saqlab qolishmoqda.",
+  "married man": "An'anaga ko'ra, uylangan erkak o'z familiyasini saqlab qolgan.",
+  "matriarchal": "Matriarxal jamiyatda bolalar onasining familiyasini olishi mumkin.",
+  "meditation": "U o'z familiyasi bilan meditatsiya o'qituvchisi bo'lib ishlaydi.",
+  "millennial": "Ming yillik avlodi vakillari eski an'analarga shubha bilan qarashga ko'proq moyil.",
+  "patriarchal": "Ba'zilar familiyani o'zgartirish an'anasini patriarxal deb biladi.",
+  "strategic": "Ba'zi ayollar uchun o'z familiyasini saqlab qolish martaba bo'yicha strategik qarordir.",
+  "trouser": "\"Wear the trousers\" iborasi shim erkaklar kiyimi bo'lganidan kelib chiqqan.",
+  "unseen": "Ayollarga familiyasini o'zgartirish uchun ko'zga ko'rinmas bosim bor.",
+  "wear the trousers": "Erkak xotinining familiyasini olsa, odamlar \"uyda shimni xotin kiyadi\" deb hazillashishadi."
  }
 });

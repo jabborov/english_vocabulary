@@ -1,4 +1,4 @@
-// Part 1 topic 0464: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0464: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0464', {
  "A1": {
   "Douglas": "Duglas bu ism.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0464', {
   "to the south": "Janubga qo'ygan har bir qadami ularni xavfsizlik va zaxiralardan yanada uzoqlashtirardi.",
   "woollen": "Jun qatlamlar nam bo'lganda ham samaradorligini yo'qotmasdi, bu esa muz ustida hal qiluvchi ahamiyatga ega edi.",
   "wore": "Zamonaviy sinovlar ular kiygan kiyimlar sovuqqa qarshi hayratlanarli darajada samarali bo'lganini ko'rsatdi."
+ },
+ "EX": {
+  "Douglas": "Duglas muz ustidagi hayotni tasvirlab berdi.",
+  "balaclava": "U yuzini himoya qilish uchun balaklava kiyib olgan edi.",
+  "emperor penguin": "Jamoaning bir qismi imperator pingvinlarining tuxumlarini yig'ish uchun ketdi.",
+  "endeavour": "Ekspeditsiya jasoratli urinish edi.",
+  "epic": "Skottning sayohati ulkan, dostonlarga xos sarguzasht edi.",
+  "flask": "U termosdan issiq choy ichdi.",
+  "gallant": "Bu qutbga yetib borish uchun qilingan mardona urinish edi.",
+  "hardship": "Odamlar dahshatli mashaqqatlarni boshdan kechirishdi.",
+  "hood": "U shamoldan saqlanish uchun kapyushonini boshiga tortdi.",
+  "thermal": "Zamonaviy tadqiqotchilar issiqlik saqlovchi ichki kiyim kiyishadi.",
+  "to the south": "Ular janub tomonga yuzlab mil yo'l bosishdi.",
+  "woollen": "Ular jun sviterlar va qo'lqoplar kiyib olishgan edi.",
+  "wore": "Tadqiqotchilar qalin jun kiyimlar kiyib olishgan edi."
  }
 });

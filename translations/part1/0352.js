@@ -1,4 +1,4 @@
-// Part 1 topic 0352: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0352: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0352', {
  "A1": {
   "administration": "Men ma'muriy ishlarni yoqtirmayman.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0352', {
   "rota": "Navbatchilik jadvallarini avtomatik tuzadigan dasturlar rahbar ishining qanchalik qismini avtomatlashtirish mumkin, degan savolni tug'diradi.",
   "sir": "Bugungi kunda kamdan-kam xodim rahbarini \"ser\" deb atashni xayoliga keltirishi ish joyi madaniyati qanchalik tenglashganidan ko'p narsa anglatadi.",
   "technician": "Ko'plab tashkilotlar endi alohida martaba yo'llarini taklif qiladi, toki malakali texniklar o'sish uchun rahbarlikka o'tishga majbur bo'lmasin."
+ },
+ "EX": {
+  "administration": "Rahbarlar ma'muriy ishlarga ko'p vaqt sarflashadi.",
+  "administrator": "U kasalxonada ma'mur bo'lib ishlaydi.",
+  "all important": "So'ngra eng muhim savol tug'iladi: kim mas'ul?",
+  "conductor": "Dirijyor qo'llarini ko'tardi va musiqa boshlandi.",
+  "hierarchy": "Kompaniyada qat'iy ierarxiya mavjud.",
+  "look up to": "Ko'plab yosh xodimlar yaxshi rahbarni o'zlariga ibrat deb bilishadi.",
+  "managerial": "Uning boshqaruv sohasida katta tajribasi bor.",
+  "rota": "Rahbar har hafta xodimlarning navbatchilik jadvalini devorga ilib qo'yadi.",
+  "sir": "\"Sizga yordam bera olamanmi, janob?\" — deb so'radi sotuvchi.",
+  "technician": "Kompyuterni tuzatish uchun texnik keldi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 2 topic 0061: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0061: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0061', {
  "A1": {
   "address": "Unga qanday murojaat qilay?",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('2', '0061', {
   "trouser": "Shimli kostyum ayollarning kasbiy hayotdagi o'sib borayotgan ishtirokining ramziga aylandi.",
   "underling": "Ism bilan murojaat qilish kichik xodimlarning o'zlarini oddiy qo'l ostidagilar deb his qilishini kamaytirishi mumkin.",
   "work on": "Tadqiqotchilar kiyim ishdagi xulq-atvorga qanday ta'sir qilishi haqidagi tadqiqot ustida ishlamoqda."
+ },
+ "EX": {
+  "address": "Rahbarimga qanday murojaat qilishim kerak?",
+  "allow in": "Kalta shim kiygan holda sizni ichkariga kiritishmaydi.",
+  "at work": "Ishda qanday kiyinasiz?",
+  "be given": "Yangi xodimlarga qoidalar nusxasi beriladi.",
+  "behave": "Odamlar ko'pincha boshliqlari bilan rasmiyroq muomala qilishadi.",
+  "carry out": "Ofis xodimlari o'rtasida so'rovnoma o'tkazildi.",
+  "casual": "Ofisimizda juma kunlari erkin kiyinish kunlari.",
+  "clothe": "U qora kostyum kiygan edi.",
+  "colleague": "Hamkasblaringizni ismlari bilan chaqirasizmi?",
+  "corduroy": "U ofisga eski velvet shim kiyib keldi.",
+  "distant": "Familiya bilan murojaat qilish odamlarni begonadek ko'rsatishi mumkin.",
+  "formal": "Suhbatga rasmiy kiyimda borishingiz kerak.",
+  "formality": "Ofislarda rasmiyatchilik ilgarigidan kamroq.",
+  "formally": "U uchrashuvlarga doim rasmiy kiyinadi.",
+  "in that": "Bu ishning g'ayrioddiy tomoni shundaki, xodimlar xohlagan narsani kiyishlari mumkin.",
+  "informal": "Ofisimizda muhit juda erkin – hamma jinsi shim kiyadi.",
+  "jean": "Ba'zi ofislarda jinsi shim kiyishga ruxsat berilmaydi.",
+  "newsreader": "Yangiliklar boshlovchisi doim kostyum-shim va galstukda bo'ladi.",
+  "occasion": "Kostyum rasmiy tadbir uchun mos keladi.",
+  "on the other hand": "Jinsi shim qulay; boshqa tomondan, u unchalik chiroyli ko'rinmaydi.",
+  "other than": "Galstukdan tashqari, uning kiyimi ancha oddiy edi.",
+  "out of the question": "Bankka jinsi shim kiyib borish mutlaqo mumkin emas.",
+  "policy": "Kompaniyada kiyinish bo'yicha qat'iy qoida bor.",
+  "reminder": "Elektron xat kiyinish qoidalarini eslatib qo'ydi.",
+  "rest": "Yangiliklar boshlovchisi galstuk taqadi, lekin jamoaning qolgan a'zolari erkin kiyinishadi.",
+  "studio": "Yangiliklar boshlovchisi studiyada o'tiradi.",
+  "tie": "Ishda galstuk taqishingiz shartmi?",
+  "trouser": "Erkaklar odatda ofisga chiroyli shim kiyib borishadi.",
+  "underling": "Boshliq qo'l ostidagilarga juda rasmiy munosabatda bo'lardi.",
+  "work on": "U ofis madaniyati haqida hisobot ustida ishlayapti."
  }
 });

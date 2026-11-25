@@ -1,4 +1,4 @@
-// Part 1 topic 0057: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0057: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0057', {
  "A1": {
   "Erica": "Erika o'qituvchi.",
@@ -227,5 +227,43 @@ VOCAB_TR_STORE('1', '0057', {
   "teenage": "O'smirlikdagi ishonchsizliklar, agar ularga e'tibor berilmasa, kishining muloqot uslubini kattalik yillarigacha shakllantirishi mumkin.",
   "water cooler": "Mazmunan arzimas bo'lsa-da, \"suv sovutgich yonidagi\" deb ataladigan suhbatlar tashkilotning jipsligi uchun hal qiluvchi ahamiyatga ega.",
   "water fountain": "Ichimlik suvi favvorachasi bo'ladimi yoki suv sovutgichi, bu joylar ofis ma'lumotlarining norasmiy markazlari vazifasini bajargan."
+ },
+ "EX": {
+  "Erica": "Ericaning aytishicha, raqamli dunyo uchun bizga yangi tana tili kerak.",
+  "accessibility": "Onlayn uchrashuvlar safar qila olmaydigan odamlar uchun qulaylikni oshiradi.",
+  "beat": "U uyatchanligini yengib, yaxshi notiqqa aylandi.",
+  "body language": "Onlayn uchrashuvlarda tana tilini tushunish qiyinroq.",
+  "brainstorm": "Keling, loyiha uchun birgalikda bir nechta g'oya o'ylab topaylik.",
+  "brainstorming": "Video orqali birgalikda g'oyalar ishlab chiqish qiyinroq.",
+  "chat": "Oshxonada hamkasblar bilan qisqa gurunglashishni sog'indim.",
+  "classmate": "U sinfdoshlari bilan gaplashishga uyalardi.",
+  "colleague": "Men hamkasblarim bilan ko'pincha video qo'ng'iroq orqali suhbatlashaman.",
+  "come up": "Muhokamada ko'plab yaxshi g'oyalar o'rtaga tashlandi.",
+  "communicator": "Endi u o'ziga ishongan suhbatdoshdir.",
+  "conquer": "U omma oldida nutq so'zlash qo'rquvini yengdi.",
+  "cooler": "Qisqa suhbat uchun suv sovutgich yonida uchrashaylik.",
+  "distancing": "Ijtimoiy masofa saqlash tufayli ko'plab uchrashuvlar onlayn shaklga o'tdi.",
+  "eye contact": "Video qo'ng'iroqda ko'zma-ko'z qarash qiyin.",
+  "feed off": "Xonada so'zlovchilar tinglovchilarning energiyasidan quvvat oladi.",
+  "fountain": "Bolalar bog'dagi favvora yonida o'ynashdi.",
+  "group discussion": "Onlayn guruh muhokamalarida kim gapirishi haqida aniq qoidalar bo'lishi kerak.",
+  "in unison": "Kechikish tufayli video qo'ng'iroqda bir vaqtda kulish qiyin.",
+  "kill off": "Ba'zilar video qo'ng'iroqlar ijodkorlikni yo'q qilib yuborishidan xavotirda.",
+  "last but not least": "Va nihoyat, eng muhimi, gapirishdan oldin mikrofoningizni yoqishni unutmang.",
+  "laughing": "Birga kulish odamlarga o'zaro yaqinlikni his qilishga yordam beradi.",
+  "mute": "Gapirmayotganingizda mikrofoningizni o'chirib qo'ying.",
+  "on camera": "Ba'zi odamlar kamera oldida o'zlarini noqulay his qiladi.",
+  "pause": "Boshqalar gapira olishi uchun qisqa tanaffus qiling.",
+  "public speaking": "Ko'pchilik omma oldida nutq so'zlashdan qo'rqadi.",
+  "recording": "Keling, onlayn muloqot bo'yicha mutaxassisning yozuvini tinglaymiz.",
+  "roll": "Kamera oldida ko'zlarni aylantirish aniq salbiy ma'no anglatadi.",
+  "schoolgirl": "Maktab o'quvchisi bo'lgan paytida u qo'l ko'tarishga ham uyalardi.",
+  "shy": "Bolaligimda juda uyatchan edim va sinfda gapirishni yomon ko'rardim.",
+  "shyness": "Uyatchanligi tufayli unga guruh ichida gapirish qiyin edi.",
+  "slouch": "Video uchrashuvlar paytida stulda bukchayib o'tirmaslikka harakat qiling.",
+  "speaking": "Kamera oldida gapirish xonada gapirishdan farq qiladi.",
+  "teenage": "O'smirlik yillarida u juda uyatchan edi.",
+  "water cooler": "Odamlar suv sovutgich atrofida qilgan suhbatlarini sog'inadi.",
+  "water fountain": "AQShda ofisdagi suhbatlar suv favvorachasi atrofida bo'ladi."
  }
 });

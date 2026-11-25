@@ -1,4 +1,4 @@
-// Part 1 topic 0315: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0315: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0315', {
  "A1": {
   "GM": "Bu GM oziq-ovqat.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0315', {
   "ripen": "Ba'zi mevalar xom holida terilib, supermarketga tashilayotganda pishishiga qo'yib beriladi.",
   "ripening": "Pishishni nazorat qilish mevalarni buzilmasdan uzoq masofalarga tashish imkonini beradi.",
   "supportive": "Yevropada hukumatlar GM texnologiyasini Amerika qit'asidagiga qaraganda kamroq qo'llab-quvvatlagan."
+ },
+ "EX": {
+  "GM": "Genetik modifikatsiyalangan pomidorni yer edingizmi?",
+  "antioxidant": "Binafsha rang pomidorlar tarkibida antioksidantlar ko'p.",
+  "commercially": "Binafsha rang pomidorlar hali tijorat maqsadida yetishtirilmaydi.",
+  "cranberry": "Klyukva antioksidantlarga boy.",
+  "decaying": "Binafsha rang pomidorlar chirishni kechroq boshlaydi.",
+  "ketchup": "Men kartoshka friga ketchup qo'shib yeyishni yaxshi ko'raman.",
+  "pigment": "Pomidorlardagi binafsha pigment kasalliklarga qarshi kurashishga yordam berishi mumkin.",
+  "rape": "Ba'zi mamlakatlarda genetik modifikatsiyalangan raps moyi uchun yetishtiriladi.",
+  "reasonably": "Pomidorlarning ta'mi ancha yaxshi.",
+  "ripen": "Pomidorlar quyosh ostida pishadi.",
+  "ripening": "Olimlar pomidorlarning pishishini sekinlashtirishdi.",
+  "supportive": "Ba'zi xaridorlar genetik modifikatsiyalangan oziq-ovqatni qo'llab-quvvatlaydi."
  }
 });

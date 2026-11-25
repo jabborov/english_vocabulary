@@ -1,4 +1,4 @@
-// Part 1 topic 0077: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0077: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0077', {
  "A1": {
   "artistry": "Uning mahorati menga yoqadi.",
@@ -179,5 +179,35 @@ VOCAB_TR_STORE('1', '0077', {
   "underneath": "Shov-shuv ortida hali ham sekin va qimmat texnologiya yotibdi.",
   "until now": "Shu paytgacha bu texnologiya mashinalarning qimmatligi va sekinligi tufayli rivojlana olmay kelgan.",
   "wooden": "Oddiy yog'och qolip o'z davrida har qanday zamonaviy printer kabi inqilobiy edi."
+ },
+ "EX": {
+  "artistry": "Printer haykaltaroshning mahoratini almashtira olmaydi.",
+  "bespoke": "3D printerlar har bir mijoz uchun buyurtma asosida buyumlar yasay oladi.",
+  "carelessly": "Ehtiyotsizlik bilan foydalanilsa, 3D printerlar xavfli buyumlar yasashi mumkin.",
+  "chip away at": "Haykaltarosh oylar davomida marmarni yo'nib ishladi.",
+  "concrete": "Endi ulkan 3D printerlar betondan uylarni chop eta oladi.",
+  "expire": "Patent muddati tugadi, shuning uchun bunday printerlarni istalgan kishi yasay olardi.",
+  "facility": "Kompaniya ulkan bosma ishlab chiqarish majmuasini ochdi.",
+  "hold on": "To'xtang, printer haqiqatan ham uy qura oladimi?",
+  "ink": "Ilk kitob bosuvchilar qog'ozni siyoh surtilgan qoliplarga bosishgan.",
+  "laser": "Ba'zi 3D printerlar metall kukunini eritish uchun lazerdan foydalanadi.",
+  "laser printer": "Lazerli printerlar chop etishni tez va arzon qildi.",
+  "love letter": "Kitob bosish paydo bo'lishidan oldin hatto sevgi maktublari ham qo'lda ko'chirilishi kerak edi.",
+  "millennium": "Kitob bosish ming yildan ortiq vaqtdan beri mavjud.",
+  "muck": "Uning etiklari loyga belangan edi.",
+  "muck about": "Ko'pchilik uyda 3D printerlar bilan shunchaki ermak qiladi.",
+  "oldest": "\"Olmos sutra\" sanasi ko'rsatilgan eng qadimgi bosma kitobdir.",
+  "operate on": "Jarrohlar bemorlarni operatsiya qilishdan oldin chop etilgan modellarda mashq qiladi.",
+  "patent": "Patentlar muddati tugagach, 3D printerlar arzonlashdi.",
+  "printer": "3D printer buyumlarni qatlamma-qatlam yasay oladi.",
+  "prosthetic": "Bir bolaga 3D printerda chop etilgan protez qo'l berildi.",
+  "prosthetics": "3D bosma protezlash sohasini tubdan o'zgartirdi.",
+  "prototype": "Muhandislar prototiplarni tez yasash uchun 3D printerlardan foydalanadi.",
+  "religious text": "Eng qadimgi bosma kitob diniy matndir.",
+  "sculptor": "Haykaltarosh haykal yasash uchun toshni asta-sekin yo'nadi.",
+  "sutra": "\"Olmos sutra\" milodiy 868-yilda Xitoyda chop etilgan.",
+  "underneath": "Printer pastdagi qatlam ustiga yangi qatlam qo'shadi.",
+  "until now": "Hozirgacha uylar qo'lda qurilgan.",
+  "wooden": "Kitob bosish ixtiro qilinishidan oldin kitoblar yog'och qoliplar yordamida tayyorlangan."
  }
 });

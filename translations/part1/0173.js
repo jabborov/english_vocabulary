@@ -1,4 +1,4 @@
-// Part 1 topic 0173: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0173: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0173', {
  "A1": {
   "aerial": "Bu havodan olingan surat.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0173', {
   "surveillance": "Arzon kuzatuv texnologiyalarining tarqalishi fuqarolik erkinliklari haqida murakkab savollarni keltirib chiqaradi.",
   "unaided": "Samolyotlarning gavjum osmonda hech qanday yordamsiz harakatlanishi g'oyasi hamon ko'plab tartibga soluvchilarni tashvishga solmoqda.",
   "unmanned": "Ekipajsiz tizimlar inson hayotini xavf ostiga qo'ymasdan xavfli vazifalarni bajara oladi."
+ },
+ "EX": {
+  "aerial": "Dronlar havodan suratga olish uchun juda qulay.",
+  "aircraft": "Dronlar uchuvchisiz kichik uchish apparatlaridir.",
+  "authentic": "Dastur haqiqiy yangiliklar reportajlaridagi asl ingliz tilidan foydalanadi.",
+  "changer": "Dronlar yetkazib berish sohasida tub burilish yasashi mumkin.",
+  "domestic": "Dronlar mamlakat ichidagi yetkazib berishlar uchun ishlatiladi.",
+  "drone": "Hozirda dronlar posilkalarni yetkazish va tadbirlarni suratga olish uchun ishlatiladi.",
+  "drone on": "Iltimos, kun bo'yi dronlar haqida zerikarli qilib vaysayvermang!",
+  "harmonised": "Hozirda Yevropada dronlar uchun yagona, uyg'unlashtirilgan qoidalar mavjud.",
+  "hazard": "Aeroportlar yaqinida uchayotgan dronlar jiddiy xavf tug'diradi.",
+  "inspect": "Muhandislar shamol turbinalarini tekshirish uchun dronlardan foydalanishadi.",
+  "inspection": "Dronlar ko'priklarni tekshirishni ancha xavfsiz qiladi.",
+  "jewellery": "O'g'rilar o'g'irlikdan oldin zargarlik do'konini dron yordamida ko'zdan kechirishgan.",
+  "leak": "Dronlar quvurlar va tomlardagi oqish joylarini topa oladi.",
+  "lifeguard": "Qutqaruvchilar qiyin ahvolga tushgan suzuvchilarga dronlar yordamida qutqaruv vositalarini tashlashadi.",
+  "military personnel": "Dronlar harbiy xizmatchilarni xavfdan uzoqroq saqlashga yordam beradi.",
+  "near miss": "Dronlar va samolyotlar o'rtasida bir necha marta to'qnashuvga oz qolgan holatlar bo'lgan.",
+  "operational": "Dron orqali yetkazib berish xizmati kelasi yil ishga tushadi.",
+  "personnel": "Aeroport yaqinida dronlarni faqat tayyorgarlikdan o'tgan xodimlar uchirishi mumkin.",
+  "pilotless": "Uchuvchisiz samolyotlar yerdan boshqariladi.",
+  "pilotless aircraft": "Dron - uchuvchisiz uchish apparati.",
+  "plane": "Dron yo'lovchi samolyotiga juda yaqinlashib keldi.",
+  "proportionate": "Dronlarga oid qoidalar xavf darajasiga mutanosib bo'lishi kerak.",
+  "regulation": "Dronlarni qayerda uchirish mumkinligi bo'yicha qat'iy qoidalar mavjud.",
+  "robbery": "Dron politsiyaga o'g'rilikni ochishda yordam berdi.",
+  "smuggle": "Jinoyatchilar qamoqxonalarga telefonlarni yashirincha olib kirish uchun dronlardan foydalanishgan.",
+  "spectacular": "Dronlar havodan ajoyib manzaralarni suratga olishi mumkin.",
+  "spy": "Odamlar qo'shnilari dronlar yordamida ularni josuslik bilan kuzatishi mumkinligidan xavotirlanishadi.",
+  "surveillance": "Ba'zilar dronlar kuzatuv uchun ishlatilishidan xavotirda.",
+  "unaided": "Ba'zi dronlar endi inson boshqaruvisiz, mustaqil ravishda ucha oladi.",
+  "unmanned": "Dronlar ekipajsiz uchish apparatlaridir."
  }
 });

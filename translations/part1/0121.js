@@ -1,4 +1,4 @@
-// Part 1 topic 0121: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0121: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0121', {
  "A1": {
   "aquatic": "Baliqlar suvda yashovchi hayvonlar.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0121', {
   "unattractive": "Muqobillar arzonlashmasa, plastiksiz turmush tarzi ko'pchilik iste'molchilar uchun jozibasiz bo'lib qolaveradi.",
   "unsightly": "Olis qirg'oqlarga oqib keladigan xunuk chiqindilar ancha katta muammoning ko'rinadigan kichik qismi xolos.",
   "water system": "Plastik zarrachalar suv tizimiga tushgach, ular ulkan masofalarga tarqalib, oziq-ovqat zanjirida to'planishi mumkin."
+ },
+ "EX": {
+  "aquatic": "Plastik chiqindilar baliq va toshbaqa kabi suv hayvonlariga zarar yetkazadi.",
+  "at hand": "Biz qo'l ostimizda bo'lgan yechimlardan foydalanishimiz kerak.",
+  "biodegrade": "Aksariyat plastmassalar tabiiy ravishda parchalanmaydi.",
+  "breast": "Olimlar hatto ona sutida ham mayda plastmassa zarralarini topishgan.",
+  "chew": "Ovqatingizni yaxshilab chaynang.",
+  "chew up": "Hayvonlar ba'zan plastmassani ovqat deb o'ylab, chaynab tashlashadi.",
+  "coal": "Ilk plastmassalarning ba'zilari ko'mirdan olingan kimyoviy moddalar yordamida tayyorlangan.",
+  "decay": "Yog'ochdan farqli o'laroq, plastmassa tabiiy ravishda chirimaydi.",
+  "emphasis": "Endi qayta ishlashga ko'proq e'tibor qaratilmoqda.",
+  "hairbrush": "Hatto taroq va tish cho'tkam ham plastmassadan yasalgan.",
+  "harmlessly": "Bizga zararsiz parchalanadigan materiallar kerak.",
+  "look around": "Xonangiz atrofiga nazar tashlang va qancha narsa plastmassadan yasalganini sanang.",
+  "moulding": "Plastmassaga qoliplash orqali osongina shakl berish mumkin.",
+  "natural resource": "Plastmassa neftdan, ya'ni tugab qoladigan tabiiy resursdan tayyorlanadi.",
+  "on the side": "U ofisda ishlaydi, lekin qo'shimcha ravishda qo'lda yasalgan sovun sotadi.",
+  "packaging": "Biz tashlab yuboradigan plastmassaning katta qismi oziq-ovqat qadoqlaridir.",
+  "paper bag": "Qog'oz paket haqiqatan ham atrof-muhit uchun plastik paketdan yaxshiroqmi?",
+  "particle": "Mayda plastmassa zarralari hamma joyda uchraydi.",
+  "personal care": "Ko'plab shaxsiy gigiyena vositalari plastik shishalarda sotiladi.",
+  "scrub": "Ilgari ba'zi yuz skrablari tarkibida mayda plastmassa donachalari bo'lgan.",
+  "shopping bag": "Hozir ko'p odamlar supermarketga o'z xarid sumkasini olib kelishadi.",
+  "snooker": "Ilk plastmassalardan biri snuker sharlaridagi fil suyagi o'rnini bosish uchun ixtiro qilingan.",
+  "soil": "Mayda plastmassa bo'laklari tuproqda yuzlab yillar saqlanib qolishi mumkin.",
+  "synthetic": "Plastmassa — kimyoviy moddalardan tayyorlangan sintetik material.",
+  "telegram": "Ilk plastmassalar dengiz ostidan telegrammalarni uzatgan kabellarni himoya qilishga yordam bergan.",
+  "transportation": "Plastmassa yengil, shuning uchun u tashish xarajatlarini kamaytiradi.",
+  "turn back": "Biz vaqtni orqaga qaytarib, plastmassasiz dunyoga qayta olmaymiz.",
+  "unattractive": "Plastmassasiz muqobillar qimmatroq tursa, jozibasiz tuyulishi mumkin.",
+  "unsightly": "Sohillardagi plastik chiqindilar zararli bo'lishi bilan birga ko'rimsiz ham.",
+  "water system": "Mikroplastik suv tizimiga kirib bo'lgan."
  }
 });

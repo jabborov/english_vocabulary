@@ -1,4 +1,4 @@
-// Part 2 topic 0022: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0022: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0022', {
  "A1": {
   "What on earth…?": "Bu nima o'zi?",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('2', '0022', {
   "to spar": "Raqiblari bilan so'z jangiga kirishish imkoniyatidan zavqlanadigan bosh vazirlar ko'pincha parlamentning teatrona muhitida gullab-yashnaydi.",
   "unlikely": "U har qanday o'lchov bilan qaraganda kutilmagan yetakchi edi: uyatchan, noqulay va bu rol odatda talab qiladigan jozibadan butunlay mahrum.",
   "willingness": "Noqulay haqiqatlarga yuzma-yuz kelishga tayyorligi uni ko'proq obro'si bilan band bo'lgan zamondoshlaridan ajratib turardi."
+ },
+ "EX": {
+  "What on earth…?": "Endi gazetalar u haqida nima deb yozar ekan-a?",
+  "Who on earth…?": "Uchrashuv haqida matbuotga kim aytdi o'zi?",
+  "Why on earth…?": "Nima uchun ham kimdir Bosh vazir bo'lishni istaydi?",
+  "affect": "Janjal uning obro'siga jiddiy ta'sir ko'rsatdi.",
+  "appropriately": "U marosimda munosib kiyinmagani uchun tanqid qilindi.",
+  "approve": "Ko'plab saylovchilar uning inqirozni boshqarish usulini ma'qullamadi.",
+  "criticise": "Bosh vazir va'dalarini bajarmagani uchun tanqid qilindi.",
+  "delivery": "Uning nutqlari yaxshi yozilgan edi, ammo ularni so'zlash uslubi ancha zerikarli edi.",
+  "enduring": "Uning eng uzoq saqlanib qolgan yutug'i sog'liqni saqlash xizmatini isloh qilish edi.",
+  "enduring marriage": "Juftlikning uzoq yillik mustahkam nikohi ko'pchilikning havasini keltirardi.",
+  "failing": "Uning eng katta kamchiligi hech qachon maslahatga quloq solmasligi edi.",
+  "fashion sense": "Matbuot ko'pincha uning kiyinishdagi didi yo'qligi haqida fikr bildirardi.",
+  "gentle arguments": "Siyosat haqidagi muloyim bahslari nikohlarini jonli saqlab turardi.",
+  "inability": "Tanqidchilar uning tez qaror qabul qila olmasligiga ishora qilishdi.",
+  "known": "U o'tkir hazilkashligi bilan tanilgan edi.",
+  "now (that) you are Prime Minister": "Endi siz Bosh vazir bo'lganingizdan keyin qilgan har bir ishingiz diqqat bilan kuzatiladi.",
+  "occasions": "U bir necha marta o'z vazirlarining ismlarini unutib qo'ydi.",
+  "parliament": "Bosh vazir har hafta parlamentda savollarga javob beradi.",
+  "parliamentary": "U Bosh vazir bo'lishdan oldin uzoq parlamentlik faoliyatini o'tagan edi.",
+  "reveal": "Tarjimai hol vazirning siyosat borasidagi shaxsiy shubhalarini ochib beradi.",
+  "spills the beans": "Bosh vazirning sobiq maslahatchisi yangi kitobida Dauning-stritdagi hayot sirlarini oshkor qiladi.",
+  "to spar": "U matbuot anjumanlarida jurnalistlar bilan so'z olishishni yaxshi ko'rardi.",
+  "unlikely": "Uning yana bir saylovda g'alaba qozonishi dargumon.",
+  "willingness": "Saylovchilar uning o'z xatolarini tan olishga tayyorligiga qoyil qolishdi."
  }
 });

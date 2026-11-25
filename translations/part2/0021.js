@@ -1,4 +1,4 @@
-// Part 2 topic 0021: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0021: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0021', {
  "A1": {
   "RSI": "Unda RSI, ya'ni takroriy zo'riqish shikasti bor.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('2', '0021', {
   "strain": "Zamonaviy kamharakat turmush tarzi keltiradigan jamlangan zo'riqish nomutanosib ravishda umurtqa pog'onasi va uni tutib turuvchi mushaklar zimmasiga tushadi.",
   "tension": "Tanamizda olib yuradigan zo'riqish ko'pincha kundalik odatlar bilan sokin mustahkamlanib boradigan ruhiy taranglikning ongsiz ko'rinishidir.",
   "tied up with": "O'zlik tuyg'umiz jismoniy qomatimiz bilan uzviy bog'liq bo'lib, psixologlar bu bog'liqlikni endigina o'lchay boshlashmoqda."
+ },
+ "EX": {
+  "RSI": "Uzoq soatlar davomida tanaffussiz matn terish takroriy zo'riqish jarohatiga olib kelishi mumkin.",
+  "alignment": "Umurtqa pog'onasining to'g'ri joylashuvi bel og'rig'ining oldini olishga yordam beradi.",
+  "deportment": "Bir paytlar maktabdagi qizlarga o'zini tutish va qaddi-qomatni to'g'ri saqlash bo'yicha darslar o'tilgan.",
+  "held": "U xonaga kirib kelarkan, boshini baland tutib turardi.",
+  "hunch": "U soatlab tanaffussiz noutbuki ustiga engashib o'tirdi.",
+  "makes sense": "Ish stolidan muntazam tanaffus qilib turish mantiqan to'g'ri.",
+  "natural alignment": "Yoga kabi mashqlar tanangizga tabiiy holatiga qaytishga yordam beradi.",
+  "odd": "Qaddingizni tik tutish dastlab g'alati tuyulishi mumkin.",
+  "perceive": "Qaddini tik tutgan odamlar ko'pincha o'ziga ishonchliroq deb qabul qilinadi.",
+  "pick the knees up": "Yurganingizda tizzalaringizni biroz balandroq ko'tarishga harakat qiling.",
+  "postural": "Ko'plab ofis xodimlari qad-qomat bilan bog'liq muammolardan aziyat chekadi.",
+  "posture": "Kun bo'yi stol ortida o'tirish qomatingizga zarar yetkazishi mumkin.",
+  "properly": "To'g'ri o'tirmasangiz, belingiz og'rishi mumkin.",
+  "repetitive strain injury": "Takroriy zo'riqish jarohati kun bo'yi kompyuterdan foydalanadigan odamlarda keng tarqalgan.",
+  "shorten your step": "Qadamingizni qisqartiring va belingizni tik tuting.",
+  "slightly": "Stuldan turayotganda biroz oldinga engashing.",
+  "slouch": "Kompyuter oldida o'tirganingizda bukchaymaslikka harakat qiling.",
+  "stay off": "Shifokor unga bir hafta jarohatlangan oyog'iga og'irlik tushirmaslikni aytdi.",
+  "strain": "Noto'g'ri qad-qomat belingizga qo'shimcha zo'riqish tushiradi.",
+  "tension": "Noto'g'ri qad-qomat bo'yin va yelkalarda zo'riqish keltirib chiqarishi mumkin.",
+  "tied up with": "Bel og'rig'i ko'pincha qanday o'tirishimiz bilan bog'liq bo'ladi."
  }
 });

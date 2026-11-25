@@ -1,4 +1,4 @@
-// Part 1 topic 0322: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0322: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0322', {
  "A1": {
   "cheek": "U yuzimdan o'pdi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0322', {
   "sideburn": "Tadqiqotchilar yuzlarni solishtirishda soqol va chakka soqoli kabi belgilarni hisobga olishga majbur bo'ldi.",
   "stamina": "Evolyutsion nuqtai nazardan, chidamlilik sherikning ov qilish yoki oilani boqish qobiliyatidan darak bergan bo'lishi mumkin.",
   "wipe off": "Bitta umidsiz natija uning haftalab mashg'ulotlarda orttirgan ishonchini yo'qqa chiqarishga yetarli bo'ldi."
+ },
+ "EX": {
+  "cheek": "Baquvvat yonoq suyaklari ba'zan jozibali hisoblanadi.",
+  "deflate": "Uning ustidan kulib, ishonchini so'ndirmang.",
+  "deflated": "U poygada yutqazgandan keyin tushkunlikka tushdi.",
+  "km": "\"Tur de Frans\" ishtirokchilari uch hafta ichida 3000 km dan ortiq masofani velosipedda bosib o'tishadi.",
+  "likeable": "U yoqimtoy inson, lekin eng tez velosipedchi emas.",
+  "pedal off": "U velosipediga minib, pedal bosgancha jo'nab ketdi.",
+  "rider": "Ayollarga velosipedchilarning yuzlari tasvirlangan suratlar ko'rsatildi.",
+  "sideburn": "Suratlardagi ba'zi velosipedchilarning soqoli yoki chakka soqoli bor edi.",
+  "stamina": "\"Tur de Frans\"da velosiped haydash katta chidamlilikni talab qiladi.",
+  "wipe off": "Bu xabar uning yuzidagi tabassumni o'chirib yuboradi."
  }
 });

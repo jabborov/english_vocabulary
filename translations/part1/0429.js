@@ -1,4 +1,4 @@
-// Part 1 topic 0429: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0429: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0429', {
  "A1": {
   "amphora": "Bu amfora.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0429', {
   "sink in": "Ikki ming yillik kema qoldig'ining ahamiyati jamoa a'zolari ongiga faqat asta-sekin yetib bordi.",
   "two hundred": "G'avvoslar hatto pastki palubaga yetib bormasdan oldinoq ikki yuzta amfora ro'yxatga olindi.",
   "wrecked": "Ajablanarli darajada butun saqlangan halokatga uchragan kema Rim savdosi haqida kamyob ma'lumot berdi."
+ },
+ "EX": {
+  "amphora": "G'avvoslar bir paytlar sharob saqlangan Rim amforasini topishdi.",
+  "breakable": "Sopol buyumlar kabi sinuvchan mollar ehtiyotkorlik bilan joylangan.",
+  "cargo": "Kema yuki orasida yuzlab ko'zalar bor edi.",
+  "cargo ship": "Rim yuk kemasi qirg'oq yaqinida cho'kib ketdi.",
+  "commercial activity": "Cho'kkan kema Rim davrida savdo faoliyati qanchalik keng bo'lganini ko'rsatadi.",
+  "engulf": "Kemani to'lqinlar yutib yubordi va u cho'kib ketdi.",
+  "pick out": "G'avvoslar dengiz tubidagi kemaning shaklini ajrata olishdi.",
+  "pottery": "Kemada ko'plab sopol buyumlar ortilgan edi.",
+  "send down": "Olimlar cho'kkan kemani suratga olish uchun suv ostiga robot tushirishdi.",
+  "sink in": "Kashfiyotning ahamiyatini anglab yetish uchun biroz vaqt kerak bo'ldi.",
+  "two hundred": "Cho'kkan kemadan ikki yuzga yaqin ko'za topildi.",
+  "wrecked": "G'avvoslar halokatga uchragan kemani tekshirishdi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0389: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0389: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0389', {
  "A1": {
   "alarming": "Bu xavotirli xabar.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0389', {
   "say farewell": "Sun'iy yo'ldosh bilan mas'uliyat bilan xayrlashish uni boshqariladigan, xavfsiz qayta kirishga yo'naltirishni anglatadi.",
   "vacuum cleaner": "Kosmik changyutgich g'oyasi jozibali, ammo haqiqatda bu ishda to'rlar, garpunlar va robot qo'llar ishlatiladi.",
   "weather forecasting": "Hozir biz odatiy hol deb biladigan aniq ob-havo prognozi orbitaning gavjumlashuvi tufayli xavf ostida qolishi mumkin."
+ },
+ "EX": {
+  "alarming": "Kosmik chiqindilar miqdori xavotirli sur'atda o'sib bormoqda.",
+  "back down": "Eski sun'iy yo'ldoshlarning aksariyati oxir-oqibat Yerga qaytib tushadi.",
+  "burn up": "Chiqindilarning aksariyati atmosferaga kirganda yonib ketadi.",
+  "collide": "2009-yilda ikki sun'iy yo'ldosh to'qnashib ketgan.",
+  "collision": "Koinotdagi to'qnashuv minglab chiqindi bo'laklarini hosil qilishi mumkin.",
+  "debris": "Yer atrofida minglab kosmik chiqindi bo'laklari aylanib yuradi.",
+  "dominating": "Chiqindilar kosmik agentliklar uchun asosiy muammoga aylanib bormoqda.",
+  "downwards": "Chiqindilar asta-sekin pastga, Yer tomon tushadi.",
+  "farewell": "Eski kosmik stansiya bilan olovli xayrlashuv bo'ldi.",
+  "film over": "Kamera linzasini chang qoplab oldi.",
+  "forecasting": "Sun'iy yo'ldoshlar bo'ronlarni oldindan aytish uchun ishlatiladi.",
+  "fragment": "Eski raketa parchasi kosmik stansiyaning yonginasidan o'tib ketdi.",
+  "gather up": "Sun'iy yo'ldosh chiqindilarni to'r bilan yig'ib olishi mumkin.",
+  "intent": "Missiyaning maqsadi katta chiqindi bo'lagini olib tashlashdir.",
+  "navigation": "Sun'iy yo'ldoshlar avtomobillar va samolyotlar uchun navigatsiyani ta'minlaydi.",
+  "put away": "Kosmik agentliklar eski sun'iy yo'ldoshlarni o'yinchoqlardek yig'ishtirib qo'ya olmaydi.",
+  "reassuring": "Olimlar bu muammo ustida ishlayotgani ko'ngilni tinchlantiradi.",
+  "redundant": "Keraksiz bo'lib qolgan sun'iy yo'ldoshlar ko'p yillar davomida orbitada qoladi.",
+  "say farewell": "Eski sun'iy yo'ldoshlar bilan xayrlashish vaqti keldi.",
+  "vacuum cleaner": "Bizga koinot uchun o'ziga xos changyutgich kerak.",
+  "weather forecasting": "Sun'iy yo'ldoshlar ob-havoni bashorat qilish uchun zarur."
  }
 });

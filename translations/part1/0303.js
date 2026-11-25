@@ -1,4 +1,4 @@
-// Part 1 topic 0303: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0303: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0303', {
  "A1": {
   "at rest": "Mashina tinch holatda.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0303', {
   "rest stop": "Qisqa dam olish to'xtashi charchagan holda davom etishdan ko'ra diqqatni ancha yaxshi tiklaydi.",
   "right hand": "Oddiy vazifalarda o'ng qo'ldan chap qo'lga o'tish miyani yangi bog'lanishlar hosil qilishga majbur qiladi.",
   "utilize": "Miyani skanerlash biz miyaning deyarli hammasidan foydalanishimizni ko'rsatadi, garchi bir vaqtning o'zida emas bo'lsa ham."
+ },
+ "EX": {
+  "at rest": "Hatto dam olish holatida ham miya ko'p energiya sarflaydi.",
+  "attentional": "Ba'zi o'yinlar diqqat bilan bog'liq ko'nikmalarni yaxshilashi mumkin.",
+  "bilingualism": "Ikki tillilik demensiya belgilarining paydo bo'lishini kechiktirishi mumkin.",
+  "brain cell": "Biz butun umrimiz davomida yangi miya hujayralarini hosil qilib boramiz.",
+  "brainpower": "Kompyuter o'yinlari haqiqatan ham aqliy qobiliyatingizni oshira oladimi?",
+  "chocolate cake": "Ba'zi tadqiqotchilar shokoladli tort miyaga foydali deb da'vo qilishadi.",
+  "coke": "Bir stakan kola ichish miyangizga qisqa muddatli quvvat berishi mumkin.",
+  "crossword": "U gazetadagi krossvordni o'n daqiqada yechib bo'la oladi.",
+  "crossword puzzle": "Buvim har kuni ertalab krossvord yechadi.",
+  "language lesson": "Til darslarini olish miyangizni sog'lom saqlashga yordam berishi mumkin.",
+  "left hand": "U chap qo'li bilan yozishni o'rganyapti.",
+  "memorize": "Aktyorlar yuzlab satrlarni yodlab olishlari kerak.",
+  "problem solving": "Boshqotirmalar muammolarni hal qilish ko'nikmalarini rivojlantirishga yordam beradi.",
+  "rest stop": "Taksi haydovchilari shahardagi har bir dam olish joyining qayerdaligini o'rganib olishadi.",
+  "right hand": "Tishlaringizni o'ng qo'lingiz o'rniga chap qo'lingiz bilan yuvib ko'ring.",
+  "utilize": "Biz miyamiz salohiyatining faqat bir qismidan foydalanamiz – yoki bu noto'g'rimi?"
  }
 });

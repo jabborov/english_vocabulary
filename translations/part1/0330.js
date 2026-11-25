@@ -1,4 +1,4 @@
-// Part 1 topic 0330: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0330: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0330', {
  "A1": {
   "II": "Bu Ikkinchi jahon urushi.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0330', {
   "terror": "Yodgorliklar begunoh tinch aholiga solingan dahshat xotirasini saqlashga yordam beradi.",
   "tunnel": "Bir paytlar bombardimondan boshpana bo'lgan tunnellar tarmog'i endi Vyetnamning eng mashhur sayyohlik maskanlaridan biri.",
   "zero in": "Hisobot xotirlash va tijoriy manfaat o'rtasidagi ziddiyatga diqqatni qaratadi."
+ },
+ "EX": {
+  "II": "\"Qora turizm\" joylarining ko'pchiligi Ikkinchi jahon urushi bilan bog'liq.",
+  "brutality": "Muzey rejimning shafqatsizligini namoyish etadi.",
+  "cash in on": "Ba'zi kompaniyalar esdalik sovg'alari sotib, fojiadan foyda ko'rishadi.",
+  "crawl": "Sayyohlar urushda foydalanilgan tunnellar bo'ylab emaklab o'tishlari mumkin.",
+  "execution": "Tashrif buyuruvchilar qatl qilingan joyni ko'rishlari mumkin.",
+  "ground zero": "Millionlab odamlar Nyu-Yorkdagi Ground Zero'ni ziyorat qilishgan.",
+  "imprison": "Bu yerda minglab odamlar qamoqqa tashlangan.",
+  "killing field": "Sayyohlar Kambodjadagi qatliom maydonlariga borishadi.",
+  "macabre": "Ba'zi sayyohlarda o'limga nisbatan dahshatli qiziqish bor.",
+  "memorialisation": "Fojiani xotirlash odamlarga qurbonlarni yodda saqlashga yordam beradi.",
+  "morbid": "Ba'zilar \"qora turizm\"ni g'ayritabiiy, o'limga o'ch narsa deb hisoblashadi.",
+  "package up": "Fojia ba'zan ko'ngilochar mahsulot sifatida taqdim etiladi.",
+  "postcard": "Sobiq qamoqxonadan otkritka yuborgan bo'larmidingiz?",
+  "shut down": "Qamoqxona o'nlab yillar oldin yopilgan va hozir muzeyga aylantirilgan.",
+  "sightseeing": "Hamma ham o'lim sodir bo'lgan joylarni tomosha qilishni xohlamaydi.",
+  "sinister": "Eski qamoqxonada vahimali muhit hukm suradi.",
+  "souvenir": "Fojia sodir bo'lgan joyda esdalik sovg'alari sotish to'g'rimi?",
+  "terror": "Odamlar rejim davrida dahshat ichida yashashgan.",
+  "tunnel": "Vyetnamdagi Kuti tunnellari mashhur diqqatga sazovor joydir.",
+  "zero in": "Tadqiqotchilar odamlar bu joylarga nima uchun borishi masalasiga diqqatini qaratishdi."
  }
 });

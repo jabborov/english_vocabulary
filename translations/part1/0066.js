@@ -1,4 +1,4 @@
-// Part 1 topic 0066: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0066: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0066', {
  "A1": {
   "advert": "Men televizorda reklama ko'rdim.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0066', {
   "pub": "Ko'pchilik uchun Britaniya pabi ehtiyotkorona birinchi uchrashuv uchun odatiy joy bo'lib qolmoqda.",
   "sense of humour": "Umumiy hazil tuyg'usi ko'pincha munosabatlar uchun umumiy qiziqishlardan ko'ra mustahkamroq poydevor bo'lib chiqadi.",
   "spending": "Tanishuv ilovalariga sarflanadigan mablag'larning o'sishi ishqiy munosabatlar raqamli iqtisodiyotga qanchalik to'liq singib ketganini aks ettiradi."
+ },
+ "EX": {
+  "advert": "Ba'zilar tanishuv sahifasidagi profilini o'zining reklamasi deb ta'riflaydi.",
+  "brief": "Profilingizni qisqa va samimiy qiling.",
+  "dating": "Onlayn tanishuv juftlik topishning juda ommabop usuliga aylandi.",
+  "deceptive": "Profildagi suratlar aldamchi bo'lishi mumkin.",
+  "disappointing": "Ularning birinchi uchrashuvi biroz umidsizlantiradigan bo'ldi.",
+  "disappointment": "Yigitning suratidagiga o'xshamagani qizning hafsalasini pir qildi.",
+  "exaggerate": "Ko'pchilik tanishuv profillarida qiziqishlarini bo'rttirib ko'rsatadi.",
+  "exaggeration": "Uning barcha sport turlarini yaxshi ko'rishini aytishi mubolag'a.",
+  "good sense": "Qiz aqllilik qilib, yigit bilan jamoat joyida uchrashdi.",
+  "hair": "Ba'zi erkaklar sochlari qanchalik to'kilganini yashirish uchun eski suratlardan foydalanadi.",
+  "hang": "Keling, shunchaki menikida vaqt o'tkazaylik.",
+  "hang out": "Dam olish kunlari do'stlarim bilan vaqt o'tkazishni yaxshi ko'raman.",
+  "liberal": "U o'z qarashlarini liberal deb ta'riflaydi.",
+  "lie about": "Ba'zi odamlar tanishuv saytlarida yoshi haqida yolg'on gapiradi.",
+  "newly": "U o'zini yaqinda yolg'iz qolgan deb ta'rifladi.",
+  "occasionally": "Ba'zan sport zaliga boraman.",
+  "potential": "Bo'lajak juftlarda yaxshi taassurot qoldirishni xohlaysiz.",
+  "progressive": "U oilaviy hayotga ilg'or qarashlari borligini aytadi.",
+  "pub": "Ularning birinchi uchrashuvi sokin bir pabda bo'lib o'tdi.",
+  "sense of humour": "Ko'pchilik hazilni tushunadigan juft istashini aytadi.",
+  "spending": "Odamlarning tanishuv ilovalariga sarflayotgan mablag'i oshdi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0360: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0360: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0360', {
  "A1": {
   "chapter": "Birinchi bobni o'qing.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0360', {
   "upbringing": "Sotsiologlar tarbiyaning sinfiy o'zlikka ta'siri inson daromadi o'zgargandan keyin ham uzoq saqlanib qolishi mumkinligini ta'kidlaydi.",
   "upgrading": "Avtomobil, uy va gadjetlarni doimiy ravishda yangisiga almashtirish ba'zan o'zining sinfiy mavqeini namoyish etish usuli sifatida qaraladi.",
   "upper class": "Yuqori sinfga mansublik bir paytlar asosan kelib chiqish bilan belgilangan, garchi hozir boylik tobora ko'zga ko'rinarli rol o'ynasa-da."
+ },
+ "EX": {
+  "chapter": "Bugun kechqurun birinchi bobni o'qing.",
+  "credit crunch": "Kredit inqirozida ko'plab oilalar pul yo'qotdi.",
+  "every last": "U so'nggi tiyinigacha farzandlarining ta'limiga sarfladi.",
+  "industrialisation": "Sanoatlashtirish odamlarning yashash va ishlash tarzini o'zgartirib yubordi.",
+  "privileged": "U imtiyozli oilada ulg'aygan.",
+  "spare": "Oy oxirida ortiqcha pulingiz qoladimi?",
+  "train ticket": "Manchesterga poyezd chiptasi sotib oldim.",
+  "upbringing": "U qattiq tarbiya olgan.",
+  "upgrading": "Birinchi klassga o'tkazish qo'shimcha yigirma funt turadi.",
+  "upper class": "U yuqori tabaqa vakillariga xos talaffuz bilan gapiradi."
  }
 });

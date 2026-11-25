@@ -1,4 +1,4 @@
-// Part 1 topic 0096: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0096: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0096', {
  "A1": {
   "NGO": "U nodavlat notijorat tashkilotida ishlaydi.",
@@ -203,5 +203,39 @@ VOCAB_TR_STORE('1', '0096', {
   "tourism": "Turizm ikki tig'li qilich: u daromad keltiradi, ammo o'zi tayanadigan haqiqiylikni yemiradi.",
   "two dozen": "Yigirma to'rtta hayvon kam tuyulishi mumkin, ammo bunday hududda bu sezilarli populyatsiyani tashkil etadi.",
   "ungulate": "Sog'lom tuyoqli hayvonlar podalari to'g'ri ishlayotgan tog' ekotizimining ishonchli ko'rsatkichidir."
+ },
+ "EX": {
+  "NGO": "Qor qoploni loyihasini bir nodavlat tashkilot mahalliy qishloq aholisi bilan birga boshqaradi.",
+  "captive": "Ko'ngilochar joylarda asirlikdagi hayvonlar ko'pincha azob chekadi.",
+  "chained": "Ba'zi fillar kunning ko'p qismida zanjirband holda saqlanadi.",
+  "drugged": "Sayyohlar yo'lbarslarga dori berilganini sezmasligi mumkin.",
+  "ecotourism": "Ekoturizm sayohatchilarga yovvoyi hayvonlarni ko'rish bilan birga ularni himoya qilishga yordam berish imkonini beradi.",
+  "expedition": "Ular qor qoplonlarini izlash ekspeditsiyasiga qo'shilishdi.",
+  "genuinely": "Ba'zi loyihalar mahalliy yovvoyi hayvonlarga chindan ham yordam beradi.",
+  "go a long way": "Safardan oldin biroz izlanish qilish katta foyda keltirishi mumkin.",
+  "governmental": "Nodavlat tashkilotlar yovvoyi tabiatni himoya qilishga yordam beradi.",
+  "grassroots": "Loyiha mahalliy aholi tomonidan boshqariladigan quyi bo'g'in tashkilotidir.",
+  "gun": "Endi sayyohlar hayvonlarni miltiq bilan emas, kamera bilan \"otishadi\".",
+  "habitat": "Sayyohlar haddan tashqari ko'p bo'lsa, hayvonlarning tabiiy yashash muhitiga zarar yetishi mumkin.",
+  "hunting": "Ko'p mamlakatlarda ermak uchun ov qilish taqiqlangan.",
+  "irresponsible": "Fillarda sayr qilish ko'pincha mas'uliyatsiz turizm deb qaraladi.",
+  "irresponsibly": "Ba'zi turoperatorlar hayvonlarga nisbatan mas'uliyatsiz munosabatda bo'ladi.",
+  "leopard": "Daraxtda dam olayotgan qoplonni ko'rib qolganimiz omadimiz bo'ldi.",
+  "lion": "Ba'zi bog'larda sayyohlar sherlar bilan birga sayr qilish uchun pul to'laydi.",
+  "markhor": "Morxo'r — Pokistonning milliy hayvoni.",
+  "massively": "Yovvoyi tabiat bilan bog'liq ta'tilga chiqadigan odamlar soni keskin oshdi.",
+  "observe": "Hayvonlarni ko'rishning eng yaxshi usuli — ularni tabiiy muhitda kuzatish.",
+  "responsible": "Mas'uliyatli sayohatchilar yovvoyi hayvonlar ko'rsatiladigan joylarda hayvonlarga yaxshi munosabatda bo'lishlarini tekshiradi.",
+  "riding": "Fil minish mashhur, lekin bahsli mashg'ulot.",
+  "run by": "Eng yaxshi loyihalarni mahalliy aholi boshqaradi.",
+  "safari": "Keniyada safariga borib, sherlar va fillarni ko'rdik.",
+  "slide": "Qoidalar bo'lmasa, turizm asta-sekin ekspluatatsiyaga aylanib ketishi mumkin.",
+  "sliding scale": "Ekoturizm juda yaxshidan to ancha zararligacha bo'lgan turli darajalarga ega.",
+  "snow leopard": "Sayyohlar qor qoplonini ko'rish umidida Himoloyga sayohat qilishadi.",
+  "taken with": "Ko'p sayyohlar yovvoyi hayvonlarga yaqinlashish g'oyasiga maftun bo'lishadi.",
+  "tiger": "Ba'zi ko'ngilochar joylarda tashrif buyuruvchilar dori berilgan yo'lbarslar bilan suratga tushishadi.",
+  "tourism": "Turizm mintaqa uchun muhim daromad manbaidir.",
+  "two dozen": "Bu hududda atigi yigirma to'rttacha qor qoploni yashaydi.",
+  "ungulate": "Qor qoplonlari morxo'r kabi tuyoqli hayvonlarni ovlaydi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0306: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0306: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0306', {
  "A1": {
   "antidepressant": "U antidepressant ichadi.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0306', {
   "rodent": "Tuproq bakteriyalari ta'siriga uchragan kemiruvchilarda xavotir belgilari kamroq kuzatildi.",
   "sunshine": "Bog'dorchilikning kayfiyatni ko'taruvchi ta'sirining bir qismi shunchaki quyosh nuridan kelishi mumkin.",
   "undecided": "Mutaxassislar sichqonlardagi natijalar odamlarda ham kuzatiladimi-yo'qmi, degan masalada hali qarorga kelmagan."
+ },
+ "EX": {
+  "antidepressant": "Tuproq tabiiy antidepressant bo'lishi mumkinmi?",
+  "antidepressant drug": "Bakteriyalar antidepressant dori kabi ta'sir qilganga o'xshadi.",
+  "beaker": "Olim suyuqlikni menzurkaga quydi.",
+  "cl": "Har bir o'simlikni taxminan 20 sl suv bilan sug'oring.",
+  "cut in": "Gapingizni bo'lganim uchun uzr, sichqonlar qanday munosabat bildirdi?",
+  "expel": "Oxir-oqibat organizm bakteriyalarni tashqariga chiqarib yuboradi.",
+  "gardening": "Bog'dorchilik ham tana, ham ruh uchun foydali.",
+  "green fingers": "Buvimning qo'li gul – nima eksa, hammasi o'sadi.",
+  "hm": "Hmm, tuproq bakteriyalari haqiqatan ham kayfiyatni ko'tara olishiga ishonchim komil emas.",
+  "ingest": "Bog'bonlar tuproq bakteriyalarini yutib yuborishi yoki nafas bilan ichiga olishi mumkin.",
+  "inject": "Olimlar sichqonlarga tuproq bakteriyalarini ukol qilib yuborishdi.",
+  "opt": "Tobora ko'proq odamlar o'z sabzavotlarini o'zlari yetishtirishni tanlashmoqda.",
+  "placebo": "Ba'zi sichqonlarga bakteriya, boshqalariga esa platsebo berildi.",
+  "rodent": "Tadqiqot odamlarda emas, kemiruvchilarda o'tkazilgan.",
+  "sunshine": "Quyosh nurida tashqarida ishlash kayfiyatingizni yaxshilashi mumkin.",
+  "undecided": "Tuproq haqiqatan ham odamni baxtli qiladimi, bu haqda hali bir qarorga kelmadim."
  }
 });

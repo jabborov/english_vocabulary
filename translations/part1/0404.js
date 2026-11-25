@@ -1,4 +1,4 @@
-// Part 1 topic 0404: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0404: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0404', {
  "A1": {
   "Canada": "Kanada juda katta.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0404', {
   "tambala": "Tambala yillar davomidagi inflyatsiya tufayli ahamiyatini yo'qotgan tangalarning yaxshi namunasidir.",
   "till": "Eng kichik tangani olib tashlash kassada to'lovlarni tezlashtirib, korxonalarning vaqti va pulini tejaydi.",
   "unavoidable": "Inflyatsiya kichik tangalarni qadrsizlantirib borar ekan, ularning oxir-oqibat muomaladan chiqarilishi deyarli muqarrar bo'lib qoladi."
+ },
+ "EX": {
+  "Canada": "Kanada 2012-yilda penni tangalarini zarb qilishni to'xtatdi.",
+  "Canadian": "Kanada penni tangasi endi zarb qilinmaydi.",
+  "Madagascar": "Madagaskarda ariari deb ataladigan valyuta qo'llaniladi.",
+  "Malawi": "Malavida eng kichik tanga tambaladir.",
+  "dealer": "Tanga savdogarlari eski penni tangalari qimmatlashishini kutishmoqda.",
+  "fourteenth": "Angliyada penni tangalari o'n to'rtinchi asrdan ancha oldin ham ishlatilgan.",
+  "inconvenience": "Narxlarni yaxlitlash juda kam noqulaylik tug'diradi.",
+  "lawfully": "Eski penni tangalari bilan hali ham qonuniy ravishda to'lov qilish mumkin.",
+  "monetary": "Markaziy banklar pul-kredit qarorlarini qabul qiladi.",
+  "monetary value": "Bu tanganing pul qiymati juda kichik.",
+  "news magazine": "Yangiliklar jurnali penni tangasining tugatilishi haqida xabar berdi.",
+  "nuisance": "Ko'p odamlar mayda tangalarni ortiqcha tashvish deb hisoblashadi.",
+  "numismatist": "Numizmat penni tangasining tarixini tushuntirib berdi.",
+  "penny pincher": "Bobom haqiqiy xasis edi.",
+  "pinching": "Har bir tiyinni sanash pul sarflamaslikka astoydil harakat qilishni anglatadi.",
+  "proper name": "\"Canada\" atoqli ot, shuning uchun u bosh harf bilan boshlanadi.",
+  "round down": "1,02 dollarlik narx pastga qarab 1,00 dollargacha yaxlitlanadi.",
+  "round out": "Do'konlar narxlarni eng yaqin besh sentgacha yaxlitlashadi.",
+  "tambala": "Tambala shunchalik arzimas qiymatga egaki, u deyarli ishlatilmaydi.",
+  "till": "Kassada endi penni tangalari yo'q.",
+  "unavoidable": "Narxlarni ma'lum darajada yaxlitlash muqarrar."
  }
 });

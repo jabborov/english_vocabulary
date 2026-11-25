@@ -1,4 +1,4 @@
-// Part 2 topic 0057: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0057: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0057', {
  "A1": {
   "Rebecca": "Rebecca shu yerda.",
@@ -197,5 +197,38 @@ VOCAB_TR_STORE('2', '0057', {
   "various": "Ijtimoiy tarmoqlarning hayratlanarli tezlikda tarqalishiga turli izohlar berilgan.",
   "vice": "\"Vice\" so'zi yovuz xatti-harakatni ham anglatsa-da, \"vice-chair\" kabi unvonlarda u shunchaki o'rinbosarni bildiradi.",
   "vice president": "Vitse-prezidentning so'zlari soha qanday o'zgarganiga ichkaridan kamdan-kam uchraydigan nazar tashlash imkonini berdi."
+ },
+ "EX": {
+  "Rebecca": "Rebekka ijtimoiy tarmoqlar odamlar hayotini qanday o'zgartirganini tushuntirib berdi.",
+  "able": "Endi biz dunyoning istalgan joyidagi do'stlar bilan gaplasha olamiz.",
+  "afterwards": "Biz videoni ko'rdik va keyin u haqda gaplashdik.",
+  "arrive at": "Qanday qilib har kimda telefon bor dunyoga kelib qoldik?",
+  "ask for it": "Agar barcha shaxsiy ma'lumotlaringizni internetga joylasangiz, o'zingizni balo-qazoga duchor qilasiz.",
+  "aspect": "Texnologiya hayotimizning deyarli har bir jihatini o'zgartirdi.",
+  "at home": "Endi ko'proq odamlar internet orqali uyda ishlaydi.",
+  "be full": "Internet foydali ma'lumotlarga to'la.",
+  "cast": "Xayolingizni 2000-yilga qaytaring – o'shanda mobil telefoningiz bormidi?",
+  "change over": "Ko'p odamlar plyonkali fotoapparatlardan raqamli fotoapparatlarga o'tdi.",
+  "design": "O'n yillik davomida telefonlarning dizayni butunlay o'zgardi.",
+  "document": "Endi hujjatlarni onlayn tarzda bir zumda ulashish mumkin.",
+  "download": "Endi odamlar CD sotib olish o'rniga musiqani yuklab olishadi.",
+  "dramatically": "Muloqot qilish usulimiz keskin o'zgardi.",
+  "huge": "Musiqa tinglash usulimizda ulkan o'zgarish yuz berdi.",
+  "keep in": "Ijtimoiy tarmoqlar odamlarga eski do'stlari bilan aloqada bo'lishga yordam beradi.",
+  "more or less": "Men taniydigan deyarli hammaning mobil telefoni bor.",
+  "networking": "So'nggi o'n yillikda ijtimoiy tarmoqlar juda ommalashdi.",
+  "nought": "Ba'zilar 2000-yildan 2009-yilgacha bo'lgan o'n yillikni \"nolinchi yillar\" deb atashadi.",
+  "or so": "So'nggi o'n yil chamasida texnologiya juda katta o'zgardi.",
+  "possibility": "Internet uydan ishlash uchun yangi imkoniyatlar ochdi.",
+  "president": "Kompaniya prezidenti yangi xizmatni e'lon qildi.",
+  "pretty much": "Hozir deyarli hamma internetdan foydalanadi.",
+  "service": "Ko'plab onlayn xizmatlardan bepul foydalanish mumkin.",
+  "suddenly": "Birdaniga hammada smartfon paydo bo'lganday tuyuldi.",
+  "unimaginable": "O'n yil oldin bunday texnologiyani tasavvur qilib bo'lmas edi.",
+  "upload": "Millionlab odamlar har kuni rasmlarni internetga yuklaydi.",
+  "user": "Saytning hozir millionlab foydalanuvchilari bor.",
+  "various": "So'nggi o'n yil ichida texnologiya hayotimizni turli yo'llar bilan o'zgartirdi.",
+  "vice": "\"Vitse-prezident\"dagi \"vitse\" so'zi shu odam lavozim bo'yicha ikkinchi ekanini bildiradi.",
+  "vice president": "Rebekka texnologiya kompaniyasida vitse-prezident."
  }
 });

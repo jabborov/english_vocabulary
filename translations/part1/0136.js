@@ -1,4 +1,4 @@
-// Part 1 topic 0136: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0136: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0136', {
  "A1": {
   "choke": "U finalda hayajondan bo'shashib qoldi.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0136', {
   "underdog": "Zaif tomonga hamdardligimiz biron bir oqilona hisob-kitobdan emas, balki chuqur ildiz otgan adolat tuyg'usidan kelib chiqishi mumkin.",
   "underperform": "Zaif jamoaning muvaffaqiyati ko'pincha uning o'z mahoratiga bo'lgani kabi raqiblarning kutilganidan yomon o'ynashiga ham bog'liq.",
   "victory": "Ikki klub o'rtasidagi resurslardagi ulkan tafovutni hisobga olsak, bu g'alaba yanada hayratlanarli edi."
+ },
+ "EX": {
+  "choke": "Favoritlar ba'zan g'alaba kutilayotgani bosimi ostida esankirab qolishadi.",
+  "elite": "Kuchsizning g'alabasi haqidagi hikoya doim elita yutadi deb hisoblaydigan odamlarga yoqadi.",
+  "flip side": "Kuchsizni yaxshi ko'rishning teskari tomoni yetakchini yoqtirmaslikdir.",
+  "football season": "Angliyada futbol mavsumi avgustda boshlanadi.",
+  "league": "\"Lester Siti\" 2016-yilda Premer-ligada g'olib chiqdi.",
+  "merit": "Odamlar muvaffaqiyat puldan emas, balki xizmatdan keladi, deb o'ylashni yoqtiradi.",
+  "relegate": "Bir yil oldin jamoa quyi ligaga tushib keta yozgan edi.",
+  "relegate down": "Oxirgi o'rinni egallagan jamoa quyi ligaga tushirib yuboriladi.",
+  "relegation": "Ligada g'olib chiqishidan bir yil oldin jamoa quyi ligaga tushib ketmaslik uchun kurashgan edi.",
+  "superstar": "Boy klubning jamoasi superyulduzlarga to'la.",
+  "top dog": "Hamma yetakchini mag'lub etishni xohlaydi.",
+  "underdog": "Ko'plab muxlislar katta o'yinda kuchsizroq tomonni qo'llab-quvvatlashni yaxshi ko'radi.",
+  "underperform": "Boy klub butun mavsum davomida kutilganidan yomon o'ynadi.",
+  "victory": "Jamoa chempionlar ustidan kutilmagan g'alabani nishonladi."
  }
 });

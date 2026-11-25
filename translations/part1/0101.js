@@ -1,4 +1,4 @@
-// Part 1 topic 0101: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0101: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0101', {
  "A1": {
   "accuracy": "Aniqlik muhim.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0101', {
   "sentient": "Chatbotlar ongli mavjudotmi yoki yo'qmi degan bahs mashinalarning o'zidan ko'ra insonning o'z tuyg'ularini ularga ko'chirishi haqida ko'proq narsa ochib beradi.",
   "sounding": "Natija qanchalik tabiiy jaranglasa, uning ortida hech kim yo'qligini eslab qolish shunchalik qiyinlashadi.",
   "written text": "Mashinalar endi biznikidan farqlab bo'lmaydigan yozma matn yarata oladi, bu esa mualliflik haqidagi tasavvurlarimizni larzaga soladi."
+ },
+ "EX": {
+  "accuracy": "Mutaxassislar chatbot javoblarining aniqligiga shubha bilan qarashadi.",
+  "alert": "Chatbotlar xavfiga nisbatan hushyor bo'lishimiz kerak.",
+  "assistant": "Ba'zi odamlar chatbotdan shaxsiy yozuv yordamchisi sifatida foydalanadi.",
+  "authoritative": "Chatbotlar xato qilganda ham o'ziga ishongan, nufuzli ohangda yozadi.",
+  "coherent": "Chatbot uzun va izchil javoblar yoza oladi.",
+  "computational linguistics": "U kompyuter lingvistikasi professori.",
+  "computer program": "Chatbot — suhbat qura oladigan kompyuter dasturi.",
+  "computer technology": "Chatbotlar kompyuter texnologiyalaridagi eng so'nggi qadamdir.",
+  "entity": "Ba'zi odamlar chatbotlar bilan go'yo ular tirik mavjudotdek gaplashishadi.",
+  "essay": "O'qituvchilar talabalar chatbotlardan insholarini yozib berishni so'rashidan xavotirda.",
+  "grammatical": "Chatbotning javoblari doim grammatik jihatdan to'g'ri.",
+  "guard": "Chatbot javoblarini o'qiyotganda hushyorlikni yo'qotmang.",
+  "interacting": "Hozir har kuni millionlab odamlar chatbotlar bilan muloqot qilmoqda.",
+  "on guard": "Mutaxassislarning aytishicha, chatbotlardan keladigan yolg'on ma'lumotlardan ehtiyot bo'lishimiz kerak.",
+  "parry": "Chatbot noqulay savollardan noaniq, xushmuomala javoblar bilan chetlab o'tdi.",
+  "plausible": "Chatbotlar ishonarli tuyuladigan, lekin butunlay noto'g'ri javoblar berishi mumkin.",
+  "prim": "Chatbot javoblari biroz rasmiyatchi va haddan tashqari xushmuomala tuyulishi mumkin.",
+  "respected": "Hurmatli bir olim chatbotlar xavfi haqida ogohlantirdi.",
+  "sentence structure": "Chatbotlar millionlab inson matnlarining gap tuzilishidan nusxa oladi.",
+  "sentient": "Mutaxassislar bugungi chatbotlar ongli emasligiga qo'shiladi.",
+  "sounding": "Chatbotlar inson gapiga o'xshagan javoblar beradi.",
+  "written text": "Chatbotlar juda katta hajmdagi yozma matnlardan o'rganadi."
  }
 });

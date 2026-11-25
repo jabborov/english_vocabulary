@@ -1,4 +1,4 @@
-// Part 1 topic 0170: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0170: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0170', {
  "A1": {
   "database": "Bu katta ma'lumotlar bazasi.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0170', {
   "send off": "DNK namunangizni jo'natib yuborganingizdan so'ng, kompaniya undan qanday foydalanishini nazorat qilish imkoniyatingiz cheklangan bo'ladi.",
   "tree diagram": "Daraxtsimon diagrammalar oila tarixini soddalashtirib, asosiy dalillardagi bo'shliq va noaniqliklarni yashiradi.",
   "variation": "Turli kompaniyalar taxminlari o'rtasidagi tafovut ularning taqqoslash ma'lumotlar bazalaridagi farqlarni aks ettiradi."
+ },
+ "EX": {
+  "database": "DNKingiz kompaniyaning ma'lumotlar bazasi bilan solishtiriladi.",
+  "diagram": "Natijalarda ajdodlaringiz qayerda yashagani ko'rsatilgan diagramma bo'ladi.",
+  "emigrate": "Uning katta bobosi va katta buvisi Irlandiyadan Amerikaga ko'chib ketishgan.",
+  "ethnicity": "To'plam sizning etnik kelib chiqishingiz haqida taxminiy ma'lumot beradi.",
+  "explicitly": "Kompaniya o'z natijalari qanchalik aniqligini ochiq-oydin tushuntirishi kerak.",
+  "family tree": "U shajarasini tuzish uchun DNK to'plamidan foydalandi.",
+  "forebear": "Uning ajdodlari Shotlandiyada dehqon bo'lishgan.",
+  "genealogist": "Nasabshunos unga ajdodlarini aniqlashda yordam berdi.",
+  "geography": "DNK aloqalari oilangiz o'tmishining geografiyasini ko'rsatib berishi mumkin.",
+  "glitch": "Tizimdagi nosozlik tufayli ba'zi mijozlarga noto'g'ri natijalar berildi.",
+  "historical record": "Nasabshunoslar DNK bilan bir qatorda tarixiy hujjatlardan ham foydalanishadi.",
+  "in line": "Natijalar uning oilasi haqida bilganlariga mos keldi.",
+  "kit": "DNK to'plamidagi probirkaga tupurib, uni pochta orqali qaytarib yuborasiz.",
+  "long ago": "Ajdodlaringiz uzoq o'tmishda, ehtimol turli joylarda yashashgan.",
+  "send off": "Siz so'lagingizdan namunani laboratoriyaga jo'natasiz.",
+  "tree diagram": "Daraxtsimon diagramma qarindoshlar qanday bog'langanini ko'rsatadi.",
+  "variation": "Kompaniyalar o'rtasida natijalar bir-biridan ancha farq qiladi."
  }
 });

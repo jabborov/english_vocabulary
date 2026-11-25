@@ -1,4 +1,4 @@
-// Part 1 topic 0072: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0072: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0072', {
  "A1": {
   "apprentice": "U shogird.",
@@ -269,5 +269,50 @@ VOCAB_TR_STORE('1', '0072', {
   "white chocolate": "Oq shokolad va ikraning kutilmagan uyg'unligi ikkalasida umumiy bo'lgan molekulalarga asoslanadi.",
   "wicked": "Odamlar yeyishdan to'xtay olmaydigan darajada mazali ta'm yaratishda qandaydir yengil shumlik bor.",
   "world war": "Ikkinchi jahon urushi davridagi tanqislik sintetik ta'm o'rinbosarlari bo'yicha tadqiqotlarni tezlashtirdi."
+ },
+ "EX": {
+  "apprentice": "Shogird ta'm ustasi taxminan yetti yil tahsil oladi.",
+  "apprenticeship": "Ta'm ustasi bo'lish uchun uzoq shogirdlik qilish talab etiladi.",
+  "artisan": "Ta'm ustalari o'zlarini hunarmand deb biladi.",
+  "black art": "Ilgari ta'm yaratish sirli san'at deb hisoblangan.",
+  "buy in": "Ko'plab oziq-ovqat kompaniyalari ta'mlarni ixtisoslashgan firmalardan sotib oladi.",
+  "caviar": "Ikra juda qimmat va sho'r taomdir.",
+  "chemistry": "Ta'm ustalari kimyoni yaxshi bilishi kerak.",
+  "club": "Ta'm ustalari kichik va tanlangan klubga o'xshaydi.",
+  "craft": "Ta'm yaratish ham fan, ham hunardir.",
+  "dark chocolate": "Achchiq shokoladning ta'mi kuchliroq va achchiqroq.",
+  "division": "U yirik kompaniyaning ta'mlar bo'limida ishlaydi.",
+  "dozen": "Bitta ta'm o'nlab kimyoviy moddalardan iborat bo'lishi mumkin.",
+  "food company": "Oziq-ovqat kompaniyasi yangi pishloq ta'mini buyurtma qildi.",
+  "fragrance": "Ta'm ustalari va atir ishlab chiqaruvchilar ko'plab bir xil kimyoviy moddalardan foydalanadi.",
+  "fridge": "Ba'zi ta'm namunalari muzlatgichda saqlanishi kerak.",
+  "guild": "Britaniyadagi ta'm ustalari kasbiy uyushmaga a'zo.",
+  "handful": "Dunyoda bu ish bilan juda oz sonli odam shug'ullanadi.",
+  "happening": "Ta'm yaratish kimyo va san'at o'rtasidagi g'alati hodisadir.",
+  "lime": "Ta'm ustasi xuddi laym ta'midagi shirinlikni yaratdi.",
+  "mango": "Mango ichimliklarda mashhur ta'mdir.",
+  "marriage": "Bu taom shirin va sho'r ta'mning mukammal uyg'unligidir.",
+  "master": "Ko'p yillardan keyin u mohir ta'm ustasiga aylandi.",
+  "milk chocolate": "Bolalar odatda sutli shokoladni afzal ko'radi.",
+  "molecule": "Har bir hid turli molekulalardan kelib chiqadi.",
+  "or so": "Buyuk Britaniyada yuzga yaqin ta'm ustasi bor.",
+  "organization": "Uyushma professional ta'm ustalari tashkilotidir.",
+  "overlap": "Ba'zi mevalarning hidlari bir-biriga o'xshab ketadi, shuning uchun ularda umumiy kimyoviy moddalar bor.",
+  "perfect": "Yangi ta'mni mukammal holga keltirish uchun unga ikki yil kerak bo'ldi.",
+  "pinch": "Ta'mni ochish uchun bir chimdim tuz qo'shing.",
+  "pineapple": "Shirinlikning ananas ta'mi kuchli.",
+  "red wine": "Mutaxassislar qizil vinoda ko'plab turli ta'mlarni sezishi mumkin.",
+  "salty": "Ikraning ta'mi sho'r.",
+  "secretive": "Ta'm sanoati juda sirli soha.",
+  "skilled": "Ta'm ustalari yuqori malakali mutaxassislardir.",
+  "smell": "Biz ta'm deb ataydigan narsaning katta qismi aslida hiddan keladi.",
+  "strawberry": "Qulupnay dunyodagi eng mashhur ta'mlardan biridir.",
+  "to begin with": "Dastlab shogird faqat juda oddiy ta'mlarni aralashtiradi.",
+  "toothpaste": "Ta'm ustalari tish pastasidagi yalpiz ta'mini ham yaratadi.",
+  "twelve": "Qutida o'n ikki xil ta'm bor.",
+  "weirdly": "Qizig'i shundaki, ba'zi ta'mlar butunlay boshqa oziq-ovqatlardagi kimyoviy moddalardan tayyorlanadi.",
+  "white chocolate": "Ajablanarlisi, oq shokolad va ikrada ba'zi umumiy ta'm beruvchi kimyoviy moddalar bor.",
+  "wicked": "Ba'zilar ta'm sanoati bizni aldab, yomon ish qilyapti deb hisoblaydi.",
+  "world war": "Sun'iy ta'mlar Ikkinchi jahon urushidan keyin keng tarqaldi."
  }
 });

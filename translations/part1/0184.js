@@ -1,4 +1,4 @@
-// Part 1 topic 0184: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0184: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0184', {
  "A1": {
   "agenda": "Kun tartibida nima bor?",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0184', {
   "trade in": "Raqamli valyutalar savdosi bilan shug'ullanadigan kompaniyalar tartibga soluvchilarning tobora kuchayib borayotgan nazoratiga duch kelmoqda.",
   "transaction": "Har bir tranzaksiya blokcheyn deb ataladigan ochiq reyestrda doimiy ravishda qayd etiladi.",
   "verify": "To'lovlarni hech qanday bank tasdiqlamagani uchun tizim umumiy ochiq yozuvga tayanadi."
+ },
+ "EX": {
+  "agenda": "Raqamli pul ko'plab banklarning kun tartibida muhim o'rin tutadi.",
+  "baht": "Bitkoinni onlayn tarzda Tailand batiga almashtirish mumkin.",
+  "bet on": "Ba'zi investorlar Bitkoin qimmatlashishiga pul tikishadi.",
+  "cryptic": "\"Kripto\" so'zi \"cryptic\", ya'ni \"yashirin, sirli\" so'zi bilan bir o'zakdan kelib chiqqan.",
+  "exception": "Ayrim istisnolarni hisobga olmaganda, ko'pchilik davlatlar Bitkoinni rasmiy pul sifatida taqiqlaydi.",
+  "fool": "Faqat ahmoqqina butun jamg'armasini Bitkoinga tikadi.",
+  "futures contract": "Investorlar endi Bitkoinga bog'liq fyuchers shartnomasini sotib olishlari mumkin.",
+  "legal tender": "Ko'pchilik mamlakatlarda Bitkoin qonuniy to'lov vositasi hisoblanmaydi.",
+  "presumably": "Ehtimol, Bitkoinning qiymati o'zgarib turaveradi.",
+  "pun": "\"Bit by bit\" — Bitkoin haqidagi so'z o'yini.",
+  "rich people": "Bitkoinni ilk sotib olganlar deyarli bir kechada boy odamlarga aylanishdi.",
+  "riddle": "Bitkoinni kim ixtiro qilgani hamon jumboq bo'lib qolmoqda.",
+  "right on": "\"Demak, Bitkoin shunchaki kompyuter kodimi?\" \"Xuddi shunday!\"",
+  "rope": "Agar Bitkoinda yangi bo'lsangiz, uning sir-asrorlarini o'rganishga vaqt ajrating.",
+  "rupee": "Bitkoinni dollar, yevro yoki rupiyga almashtirish mumkin.",
+  "smart money": "Tajribali investorlar endi raqamli valyutalarga sarmoya kiritmoqda.",
+  "stock": "Ba'zi odamlar Bitkoin o'rniga aksiyalarga sarmoya kiritishni afzal ko'radi.",
+  "stock exchange": "Bitkoin London fond birjasida savdo qilinmaydi.",
+  "stock market": "Bitkoin fond bozoridan ham beqarorroq.",
+  "trade in": "Ba'zi veb-saytlar Bitkoin va boshqa raqamli valyutalar savdosi bilan shug'ullanadi.",
+  "transaction": "Har bir Bitkoin tranzaksiyasi onlayn qayd etiladi.",
+  "verify": "Kompyuterlar har bir Bitkoin to'lovini tasdiqlaydi."
  }
 });

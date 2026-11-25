@@ -1,4 +1,4 @@
-// Part 1 topic 0481: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0481: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0481', {
  "A1": {
   "airfare": "Aviachipta narxi baland.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0481', {
   "office staff": "Ofis xodimlari kamroq bo'lgani uchun kompaniya mijozlar bilan ishlashda asosan o'z veb-saytiga tayanadi.",
   "press on": "Chalkash variantlardan cho'chimay, u eng arzon yo'nalishni topgunicha davom etaverdi.",
   "pricing": "Murakkab narxlash tuzilmalari iste'molchilarga foydali bitim qilayotganini bilishni qiyinlashtiradi."
+ },
+ "EX": {
+  "airfare": "Aviachiptalar internetda ko'pincha arzonroq bo'ladi.",
+  "azure": "Veb-saytda moviy dengizlar va oppoq sohillar suratlari ko'rsatilgan edi.",
+  "boon": "Onlayn bron qilish sayohatchilar uchun katta qulaylik bo'ldi.",
+  "budget for": "Biz aviachiptalar uchun besh yuz funt mablag' ajratdik.",
+  "computer mouse": "Kompyuter sichqonchasini bir necha marta bosish bilan ta'til sayohatini band qilish mumkin.",
+  "fare": "Poyezd chiptasi samolyot chiptasidan qimmatroq edi.",
+  "hotel room": "Men bir necha daqiqada internet orqali mehmonxona xonasini band qildim.",
+  "office staff": "Odamlar internet orqali band qila boshlagach, sayyohlik agentliklari ofis xodimlarini qisqartirishga majbur bo'ldi.",
+  "press on": "Veb-sayt sekin ishlardi, lekin men davom etaverib, sayohatni band qildim.",
+  "pricing": "Aviakompaniyalarning narx belgilash tizimi juda chalkash bo'lishi mumkin."
  }
 });

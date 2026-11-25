@@ -1,4 +1,4 @@
-// Part 1 topic 0507: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0507: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0507', {
  "A1": {
   "contestant": "U tanlov ishtirokchisi.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0507', {
   "read about": "Tadqiqot haqida o'qib chiqqach, men o'z oilam haqida boshqacha o'ylay boshladim.",
   "spare time": "Band ota-onalar ish ularga farzandlari bilan o'tkazish uchun deyarli bo'sh vaqt qoldirmasligidan shikoyat qiladi.",
   "wary": "Aksiyalar narxi yaqinda tushib ketganidan keyin investorlar ehtiyotkorlikni saqlab qolmoqda."
+ },
+ "EX": {
+  "contestant": "Ishtirokchi teleko'rsatuvda avtomobil yutib oldi.",
+  "divorced": "Uning ota-onasi ajrashgan.",
+  "engagement ring": "U unga nikoh uzugini sovg'a qildi.",
+  "pawn": "Ajrashishda bolalardan qo'g'irchoq sifatida foydalanmaslik kerak.",
+  "read about": "Men bu tadqiqot haqida gazetada o'qidim.",
+  "spare time": "Bo'sh vaqtingizda nima bilan shug'ullanasiz?",
+  "wary": "Bolalar ota yoki onasining yangi turmush o'rtog'iga ehtiyotkorlik bilan munosabatda bo'lishi mumkin."
  }
 });

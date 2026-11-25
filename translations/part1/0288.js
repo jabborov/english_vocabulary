@@ -1,4 +1,4 @@
-// Part 1 topic 0288: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0288: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0288', {
  "A1": {
   "big bucks": "U katta pul topadi.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0288', {
   "kidney failure": "Ko'plab mamlakatlarda diabet buyrak yetishmovchiligining asosiy sababi bo'lib qolmoqda.",
   "physical exercise": "Jismoniy mashqlar tanaga insulindan samaraliroq foydalanishga yordam berib, qondagi shakar miqdorini kamaytiradi.",
   "run around": "Bolalarni ochiq havoda yugurib o'ynashga undash 2-tur diabetga qarshi oddiy himoya vositasidir."
+ },
+ "EX": {
+  "big bucks": "Qandli diabetni davolash sog'liqni saqlash xizmatlariga katta pul turadi.",
+  "blindness": "Qandli diabet ko'rlikka olib kelishi mumkin.",
+  "blood sugar": "Qandli diabeti bor odamlar qondagi qand miqdorini nazorat qilishlari kerak.",
+  "breast feeding": "Ko'krak suti bilan emizish bolaning qandli diabetga chalinish xavfini kamaytirishi mumkin.",
+  "can": "Bir banka gazli ichimlikda juda ko'p shakar bor.",
+  "continuum": "Qondagi qand miqdori uzluksiz shkalada joylashadi.",
+  "diabetic": "Amakim qandli diabet bilan og'riydi va qonidagi qand miqdorini tekshirib turishi kerak.",
+  "feeding": "Chaqaloqlarni har bir necha soatda ovqatlantirish kerak.",
+  "heart attack": "Qandli diabet yurak xuruji xavfini oshiradi.",
+  "herbal": "Ba'zi odamlar qandli diabetga qarshi o'simliklardan tayyorlangan dorilarni sinab ko'rishadi.",
+  "herbal tea": "O'simlik choyi shirin ichimliklarga yaxshi muqobildir.",
+  "hydrate": "Organizmdagi suv miqdorini shirin ichimliklar bilan emas, suv bilan to'ldirish muhim.",
+  "joint": "Ortiqcha vazn bo'g'imlaringizga bosim o'tkazishi mumkin.",
+  "kidney failure": "Qandli diabet buyrak yetishmovchiligining keng tarqalgan sababidir.",
+  "physical exercise": "Jismoniy mashqlar qandli diabetning oldini olishga yordam beradi.",
+  "run around": "Bolalar tashqarida yugurib o'ynashlari kerak."
  }
 });

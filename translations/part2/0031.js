@@ -1,4 +1,4 @@
-// Part 2 topic 0031: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0031: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0031', {
  "A1": {
   "Off which part of Australia": "Orol Avstraliyaning qaysi qismi yaqinida joylashgan?",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('2', '0031', {
   "stuck on": "Asboblarning jarrohlik yo'li bilan biriktirilmay, shunchaki yopishtirib qo'yilishi axloqiy xavotirlarni ma'lum darajada yengillashtiradi.",
   "to cover": "Tyulenlarning bunday ulkan masofalarni bosib o'tish qobiliyati ularni uzoq vaqt kema xarajatlari bilan cheklanib kelgan fan uchun bebaho qiladi.",
   "transmit": "Bunday olis suvlardan ma'lumotlarni deyarli real vaqtda uzatish qobiliyati okeanografiyadagi sokin inqilobdir."
+ },
+ "EX": {
+  "Off which part of Australia": "Katta to'siq rifi Avstraliyaning qaysi qismi yaqinida joylashgan?",
+  "a keen scuba diver": "Akam dunyo bo'ylab riflarni o'rgangan ashaddiy akvalang ishqibozi.",
+  "a rare glimpse into the world beneath the waves": "Tyulen kameralari to'lqinlar ostidagi olamni kamdan-kam ko'rish imkonini beradi.",
+  "beneath": "Tyulenlar hayotining katta qismini dengiz yuzasi ostida o'tkazadi.",
+  "change off": "Tyulenlar tullaganda belgilar tushib ketadi, shuning uchun ular abadiy qolmaydi.",
+  "coral": "Rif marjondan tashkil topgan.",
+  "dive": "Dengiz fillari 1000 metrdan ortiq chuqurlikka sho'ng'iydi.",
+  "diver": "Bir tyulen ularning yoniga suzib kelganida g'avvoslar hayron qolishdi.",
+  "down under": "Avstraliyadagi olimlar okeanni o'rganish uchun tyulenlardan foydalanishmoqda.",
+  "elephant seal": "Dengiz fili suv yuzasidan bir kilometrdan ham chuqurroqqa sho'ng'iy oladi.",
+  "foraging": "Tyulenlar oylab dengizda ozuqa izlab yurishadi.",
+  "get back": "Olimlar ma'lumotlarni faqat tyulenlar sohilga qaytib kelganda olishlari mumkin.",
+  "indeed": "Tyulenlar haqiqatan ham ajoyib sho'ng'uvchilardir.",
+  "inquisitive": "Tyulenlar juda qiziquvchan bo'lib, ko'pincha g'avvoslar yoniga suzib kelishadi.",
+  "measurement": "Sensorlar suv haroratini o'lchaydi.",
+  "natural wonder": "Katta to'siq rifi dunyoning eng buyuk tabiat mo'jizalaridan biridir.",
+  "precursor to": "Tadqiqot yanada yirik okean tadqiqot loyihalarining debochasi bo'lishi mumkin.",
+  "rare glimpse": "Kameralar bizga okean tubidagi hayotni kamdan-kam ko'rish imkonini beradi.",
+  "recruit": "Olimlar okeanni o'rganishda yordam berishi uchun tyulenlarni jalb qilishdi.",
+  "reef": "Katta to'siq rifi minglab baliq turlari uchun makon hisoblanadi.",
+  "salinity": "Sensorlar dengiz suvining sho'rligini o'lchaydi.",
+  "squid": "Dengiz fillari asosan baliq va kalmar bilan oziqlanadi.",
+  "stuck on": "Tyulenlarning boshiga kichik kameralar yopishtirildi.",
+  "to cover": "Tyulenlar bir necha oy ichida minglab kilometr masofani bosib o'ta oladi.",
+  "transmit": "Tyulenlar nafas olish uchun suv yuzasiga chiqqanda, belgilar sun'iy yo'ldoshlarga ma'lumot uzatadi."
  }
 });

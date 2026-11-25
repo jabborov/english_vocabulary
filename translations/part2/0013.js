@@ -1,4 +1,4 @@
-// Part 2 topic 0013: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0013: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0013', {
  "A1": {
   "biodiversity": "O'rmonlarda biologik xilma-xillik boy.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('2', '0013', {
   "rarest": "Eng noyob turlar ko'pincha yagona, mo'rt yashash muhiti bilan cheklangan bo'lib, bu ularni hatto kichik o'zgarishlarga nisbatan ham o'ta zaif qiladi.",
   "species": "Har bir tur o'rnini bosib bo'lmaydigan genetik ma'lumotlar xazinasi bo'lib, uning qadriga ehtimol faqat yo'qotgandan keyin yetamiz.",
   "threaten": "Nazoratsiz shahar kengayishi rivojlanishi uchun ming yillar kerak bo'lgan ekotizimlarni yo'q qilib yuborish xavfini tug'dirmoqda."
+ },
+ "EX": {
+  "biodiversity": "Urug'lar banklari dunyoning biologik xilma-xilligini kelajak avlodlar uchun saqlashga yordam beradi.",
+  "bloom": "Bu noyob o'simliklarning ba'zilari bir necha yilda bir marta gullaydi.",
+  "centigrade": "Urug'lar quritiladi, so'ngra minus yigirma daraja Selsiyda saqlanadi.",
+  "end up": "Muhofaza qilinmasa, ko'plab noyob o'simliklar oxir-oqibat butunlay yo'q bo'lib ketadi.",
+  "exist": "Ba'zi o'simliklar endi faqat urug'lar bankidagi urug'lar sifatida mavjud.",
+  "extinction": "Inson faoliyati tufayli minglab o'simlik turlari yo'q bo'lib ketish xavfi ostida.",
+  "far too long for": "Yovvoyi o'simliklarga shu qadar uzoq vaqt e'tibor berilmaganki, ularning kelajagi haqida hech kim xotirjam bo'la olmaydi.",
+  "jar after jar": "Sovuq xonada uzun metall javonlarda ketma-ket qator idishlarda urug'lar saqlanadi.",
+  "land use change": "Yerdan foydalanishning o'zgarishi yovvoyi o'simliklar uchun eng katta tahdidlardan biridir.",
+  "rare": "Bu noyob o'simlik dunyoda faqat bitta vodiyda o'sadi.",
+  "rarest": "Urug'lar banki Yer yuzidagi eng noyob o'simliklarning urug'larini saqlaydi.",
+  "species": "Loyiha dunyodagi o'simlik turlarining to'rtdan biridan urug' to'plashni maqsad qilgan.",
+  "threaten": "Ifloslanish va iqlim o'zgarishi dunyodagi ko'plab yovvoyi o'simliklarga tahdid soladi."
  }
 });

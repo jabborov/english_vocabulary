@@ -1,4 +1,4 @@
-// Part 1 topic 0385: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0385: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0385', {
  "A1": {
   "block out": "Yorug'likni to'sish uchun pardalarni yoping.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0385', {
   "touch base": "Ba'zi hamkasblar uchun \"touch base\" (aloqaga chiqish) va \"circle back\" (keyinroq qaytish) kabi iboralar har qanday jismoniy odat kabi asabga tegadi.",
   "unwashed": "Bitta yuvilmagan krujka bilan boshlangan narsa tez orada jamoadagi umumiy e'tiborsizlikning ramziga aylandi.",
   "willingness": "Umumiy ish joyidagi totuvlik oxir-oqibat har kimning boshqalar uchun o'z xatti-harakatini o'zgartirishga tayyorligiga bog'liq."
+ },
+ "EX": {
+  "block out": "Shovqinni to'sish uchun quloq tiqinlaridan foydalanaman.",
+  "distracting": "Ochiq rejali ofisda baland ovozdagi telefon suhbatlari diqqatni juda chalg'itadi.",
+  "get under one's skin": "Uning tinimsiz ming'irlab kuylashi rosa asabimga tegadi.",
+  "grievance": "Ofisdagi kichik noroziliklar vaqt o'tishi bilan to'planib borishi mumkin.",
+  "headphone": "Ba'zi odamlar ishda shovqinni to'sish uchun quloqchin taqishadi.",
+  "imaginatively": "Ba'zi ofislar iflos krujkalar muammosini ijodiy tarzda hal qilishadi.",
+  "lie around": "Hujjatlaringizni boshqalarning stollarida sochib qoldirmang.",
+  "stand by": "Hamkasbingizga adolatsiz munosabatda bo'linayotganda shunchaki chetda kuzatib turolmaysiz.",
+  "tapping": "Uning ruchkasini tinimsiz taqillatishi hammani jinni qildi.",
+  "tolerant": "Umumiy ofisda boshqalarning odatlariga bag'rikeng bo'lishingiz kerak.",
+  "touch base": "Keling, loyiha yuzasidan kelasi hafta aloqaga chiqaylik.",
+  "unwashed": "Ofis oshxonasidagi yuvilmagan krujkalar uyumi ko'plab xodimlarning jig'iga tegadi.",
+  "willingness": "Murosaga kelishga tayyorlik hamkasblarga yaxshi munosabatda bo'lishga yordam beradi."
  }
 });

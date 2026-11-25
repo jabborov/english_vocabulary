@@ -1,4 +1,4 @@
-// Part 1 topic 0320: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0320: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0320', {
  "A1": {
   "Robert": "Robert o'qituvchi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0320', {
   "piece of paper": "Valyuta odamlar uni shunchaki bir parcha qog'ozdan ko'proq narsa deb ishongandagina qimmatga ega.",
   "reis": "Zamonaviy real o'z nomini Braziliyada asrlar davomida qo'llanilgan tarixiy reys pul birligidan olgan.",
   "tax system": "Iqtisodchilarning ta'kidlashicha, Braziliyaning murakkab soliq tizimi investitsiyalarni susaytiradi."
+ },
+ "EX": {
+  "Robert": "Robert Braziliya iqtisodiyoti qanday o'zgarganini tushuntirib berdi.",
+  "analyst": "Tahlilchilar Braziliya iqtisodiyoti kelasi yili o'sadi, deb hisoblashadi.",
+  "centavos": "Braziliya realida yuz sentavo bor.",
+  "coconut water": "Braziliyada odamlar sohilda kokos suvi ichishadi.",
+  "crossroad": "Braziliya iqtisodiyoti chorrahada turibdi.",
+  "flow in": "Xorijiy pullar kirib kela boshladi.",
+  "footing": "Iqtisodiyot endi mustahkamroq asosga ega.",
+  "guarani": "Guarani Paragvayning pul birligidir.",
+  "paper money": "Braziliya juda ko'p turdagi qog'oz pullarni chop etgan.",
+  "peso": "Peso Argentina va Meksikada qo'llaniladi.",
+  "piece of paper": "Agar odamlar ishonmasa, pul shunchaki bir parcha qog'ozdir.",
+  "reis": "Braziliya bir paytlar reys deb ataladigan valyutadan foydalangan.",
+  "tax system": "Braziliyaning soliq tizimi juda murakkab."
  }
 });

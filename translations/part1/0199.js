@@ -1,4 +1,4 @@
-// Part 1 topic 0199: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0199: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0199', {
  "A1": {
   "Georgia": "Georgia oshpaz.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0199', {
   "read out": "Narxlarni ovoz chiqarib o'qish hammaga taom qanchalik arzon ekanini anglatdi.",
   "sicker": "Tadqiqotlar kambag'al hududlardagi odamlar badavlat hududlardagilarga qaraganda ko'proq kasal bo'lishi va yoshroq vafot etishini ko'rsatadi.",
   "younger": "Kambag'allarning yoshroq vafot etishi sog'liqdagi tengsizlikning eng yaqqol ko'rsatkichlaridan biridir."
+ },
+ "EX": {
+  "Georgia": "Jorjiya pazandalik kursi qanday ishlashini tushuntirdi.",
+  "ally": "Yaxshi murabbiy oshxonada ishonchli hamrohdir.",
+  "chop": "Piyozni mayda qilib to'g'rang.",
+  "food shop": "Haftalik oziq-ovqat xaridi ko'plab oilalar uchun qimmatga tushadi.",
+  "handed": "U ovqatni bir o'zi pishirdi.",
+  "inequality": "Oziq-ovqatdagi tengsizlik jiddiy muammodir.",
+  "mentor": "Har bir oilaning ovqat pishirishga yordam beradigan murabbiyi bor.",
+  "neat": "U sabzavotlarni bir tekis bo'laklarga kesdi.",
+  "participant": "Har bir ishtirokchi sog'lom taom tayyorlashni o'rgandi.",
+  "read out": "O'qituvchi retseptni sinfga ovoz chiqarib o'qib berdi.",
+  "sicker": "Kam daromadli odamlar ko'pincha boyroq odamlarga qaraganda ko'proq kasal bo'lishadi.",
+  "younger": "Kambag'alroq hududlarda odamlar yoshroq vafot etishadi."
  }
 });

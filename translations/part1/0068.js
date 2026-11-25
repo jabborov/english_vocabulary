@@ -1,4 +1,4 @@
-// Part 1 topic 0068: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0068: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0068', {
  "A1": {
   "Mike": "Mayk mening do'stim.",
@@ -227,5 +227,43 @@ VOCAB_TR_STORE('1', '0068', {
   "ride": "Velosiped haydashni o'rganish kabi ko'nikmalar avtomatik tus olib, e'tiborni boshqa vazifalar uchun bo'shatadi.",
   "saccade": "Biz manzarani yaxlit holda idrok etsak-da, ko'rish aslida bir qator sakkadalar va fiksatsiyalardan tikib chiqiladi.",
   "third": "Qobiliyatdagi farqlarning taxminan uchdan biri faqat mashq bilan izohlanadigandek tuyuldi."
+ },
+ "EX": {
+  "Mike": "Mike tadqiqotda ishtirok etgan rassom.",
+  "Mozart": "Motsart o'zining ilk musiqasini atigi besh yoshida yozgan.",
+  "Rebecca": "Rebecca rassomlarning dunyoga qanday qarashini o'rganadi.",
+  "also known as": "Ko'zning tezkor sakrashlari, ya'ni sakkadalar, juda tez sodir bo'ladi.",
+  "art teacher": "Rasm o'qituvchim menga diqqat bilan qarashni maslahat berdi.",
+  "artistic": "Ijodkor odamlarning miyasi boshqalarnikidan farq qiladimi?",
+  "bath": "Vannada cho'milayotganimda qo'shiq aytaman.",
+  "child prodigy": "Motsart vunderkind bola edi.",
+  "compose": "Motsart besh yoshida musiqa bastalay boshlagan.",
+  "composer": "Motsart tarixdagi eng mashhur bastakorlardan biridir.",
+  "confirm": "Tadqiqot rassomlar dunyoni boshqacha ko'rishini tasdiqladi.",
+  "dance": "U raqs tushishni juda yaxshi ko'radi.",
+  "external": "Ko'zlarimiz tashqi dunyodan ma'lumot qabul qiladi.",
+  "eye movement": "Tadqiqotchilar ishtirokchilarning ko'z harakatlarini yozib olishdi.",
+  "fill in": "Miya biz ko'rgan narsalardagi bo'shliqlarni to'ldiradi.",
+  "fixation": "Sakkadalar orasida ko'z qisqa muddat bir nuqtaga tikiladi.",
+  "gist": "Ko'pchilik suratning faqat umumiy mazmunini ilg'aydi.",
+  "guitar": "U gitara chalishni mustaqil o'rgangan.",
+  "human face": "Inson yuzini chizish juda qiyin.",
+  "impressed": "Uning chizgan rasmlari menda katta taassurot qoldirdi.",
+  "impression": "Biz ko'rgan narsamiz haqida tezda taassurot hosil qilamiz.",
+  "jigsaw": "Jumboqning ba'zi bo'laklari yetishmayapti.",
+  "jigsaw puzzle": "Ko'rish jumboq bo'laklarini yig'ishga o'xshaydi.",
+  "missing": "Miya yetishmayotgan ma'lumotlarni to'ldiradi.",
+  "musical": "U musiqaga juda qobiliyatli oiladan chiqqan.",
+  "neuroscience": "Nevrologiya ijodkorlikni tushunishimizga yordam bermoqda.",
+  "painter": "Rassom har bir tafsilotga diqqat bilan qaradi.",
+  "photographic film": "Ko'zlarimiz fotoplyonka kabi ishlamaydi.",
+  "piano": "Motsart yoshligidayoq pianino chala olgan.",
+  "piece of music": "Motsart o'zining ilk musiqiy asarini besh yoshida yozgan.",
+  "pleasantly": "Chizgan rasmim meni yoqimli hayratga soldi.",
+  "processing": "Ko'rish orqali olingan ma'lumotni qayta ishlash juda tez kechadi.",
+  "proof": "Rassomlarning miyasi boshqacha ekaniga dalil bormi?",
+  "ride": "Rasm chizishni o'rganish velosiped haydashni o'rganishga o'xshaydi.",
+  "saccade": "Ko'zlarimiz har soniyada bir necha marta sakkadik harakat qiladi.",
+  "third": "Ishtirokchilarning faqat uchdan bir qismi rassom edi."
  }
 });

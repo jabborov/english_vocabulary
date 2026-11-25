@@ -1,4 +1,4 @@
-// Part 2 topic 0036: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0036: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0036', {
  "A1": {
   "band of Merry Men": "Robinning quvnoq yigitlardan iborat guruhi bor.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('2', '0036', {
   "tearing": "Qahramonning har bir quvish sahnasida kostyumini yirtib olishi ehtimoli dizaynerlarni libosni butunlay qayta o'ylashga undadi.",
   "to give the guy some dignity": "Paypoqlardan voz kechish qarori yarim hazil tarzda nihoyat yigitga biroz qadr-qimmat berish urinishi sifatida taqdim etildi.",
   "warrior": "Robinning quvnoq hiylagardan charchagan jangchiga aylanishi qahramonlik haqidagi madaniy g'oyalarning o'zgarishini aks ettiradi."
+ },
+ "EX": {
+  "band of Merry Men": "Robin Gud va uning Quvnoq yigitlar to'dasi Shervud o'rmonida yashagan.",
+  "bandit": "Qaroqchilar o'rmon yo'llarida boy sayyohlarga hujum qilishardi.",
+  "battle": "Film Robinning odamlari va askarlar o'rtasidagi ulkan jang bilan yakunlanadi.",
+  "brambles": "O'rmon bo'ylab yugurayotganda oyoqlarini maymunjon butalari tirnab tashladi.",
+  "close-fitting": "Eski filmlarda Robin Gud badanga yopishib turadigan yashil kolgotka kiyardi.",
+  "coloured": "Avvalgi filmlarda Robin Gud yorqin rangli kiyimlarda ko'rsatilgan.",
+  "dignity": "Yangi kostyum qahramonga ko'proq salobat bag'ishlaydi.",
+  "doubt": "Robin Gud haqiqatan yashaganmi-yo'qmi, degan borada ba'zi shubhalar bor.",
+  "dramatic": "Filmda juda ta'sirli jang sahnalari bor.",
+  "fighter": "U ham qilich, ham kamon bilan mohir jang qiluvchi edi.",
+  "gang": "Robin Gud boylardan o'g'irlaydigan qochoqlar to'dasiga boshchilik qilgan.",
+  "get torn": "O'rmonda kolgotka tezda yirtilib ketardi.",
+  "getting a ladder in your tights": "Tasavvur qiling-a, o'rmonda jang qilayotgan Robin Gudning kolgotkasi so'kilib ketsa!",
+  "gorse bushes": "Qochoqlar qochib qutulish uchun tikanli butalar orasidan yugurishlari kerak edi.",
+  "gritty": "Yangi film Robin Gud hikoyasining hayotiy va shafqatsiz talqinidir.",
+  "hold on": "Shoshmang — Robin Gud hech qachon kolgotka kiymagan demoqchimisiz?",
+  "otherwise": "Kostyum qulay bo'lishi kerak edi, aks holda aktyor o'rmon bo'ylab yugura olmasdi.",
+  "outlaw": "Robin Gud Shervud o'rmonida yashagan qonundan tashqari qochoq edi.",
+  "practicality": "Qulaylik uchun yangi Robin Gud kolgotka o'rniga charm kiyadi.",
+  "proximity": "O'tkir butalarga yaqin joyda yupqa kiyim uzoqqa bormasdi.",
+  "romping": "Quvnoq yigitlar ko'pincha o'rmon bo'ylab sho'xlik qilib chopib yurgan holda ko'rsatilardi.",
+  "sharp bits": "O'rmondagi butalar kiyimingizni yirtib yuboradigan o'tkir tikanlarga to'la.",
+  "springs": "Robin Gud haqida o'ylaganingizda, ko'z oldingizga darhol yashil kolgotkalar keladi.",
+  "swordsman": "Robin Gud ko'pincha mohir qilichboz sifatida tasvirlanadi.",
+  "tearing": "Tikanli butalar orasidan yugurish kiyimlaringizni yirtish bilan barobar bo'lardi.",
+  "to give the guy some dignity": "Dizaynerlar yigitga biroz salobat berish uchun Robinni charm kiyimda kiyintirishdi.",
+  "warrior": "Yangi filmda Robin Gud chayir jangchi sifatida tasvirlangan."
  }
 });

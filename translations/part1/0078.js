@@ -1,4 +1,4 @@
-// Part 1 topic 0078: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0078: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0078', {
  "A1": {
   "adverb": "\"Quickly\" ravishdir.",
@@ -233,5 +233,44 @@ VOCAB_TR_STORE('1', '0078', {
   "truck": "Qisqaroq ta'minot zanjirlari kamroq yuk mashinalari va yo'lda kamroq buziladigan oziq-ovqatni anglatadi.",
   "uniform": "Tabiat bir xil hosil bermaydi; bizning buni talab qilishimiz isrofgarchilikdir.",
   "use by": "\"Iste'mol muddati\" yorliqlarini aniqroq qilish yiliga yuz minglab tonna isrofning oldini olishi mumkin."
+ },
+ "EX": {
+  "adverb": "\"Locally\" ravishdir.",
+  "business people": "Kompaniyaga yosh tadbirkorlar asos solgan.",
+  "buy food": "Biz faqat haqiqatan ham yeydigan oziq-ovqatni sotib olishimiz kerak.",
+  "buy it": "Agar yemasangiz, sotib olmang.",
+  "calculate": "Tadqiqotchilar har bir xonadon qancha oziq-ovqatni isrof qilishini hisoblab chiqishdi.",
+  "cautious": "Odamlar ko'pincha yaroqlilik muddatlariga haddan tashqari ehtiyotkorlik bilan qaraydi.",
+  "come by": "Qishda yangi, mahalliy sabzavotlarni topish qiyin bo'lishi mumkin.",
+  "commission": "Vositachi har bir savdodan komissiya oladi.",
+  "container": "Ortib qolgan ovqatni zich yopiladigan idishda saqlang.",
+  "cucumber": "Supermarketlarda bodringlar ko'pincha plastikka o'ralgan bo'ladi.",
+  "customer": "Xaridorlar tashqi ko'rinishi benuqson mevalarni kutadi.",
+  "food poisoning": "Odamlar ovqatdan zaharlanishdan qo'rqib, oziq-ovqatni tashlab yuboradi.",
+  "food waste": "Ishlab chiqariladigan barcha oziq-ovqatning uchdan bir qismi isrof bo'ladi.",
+  "fresh food": "Yangi uzilgan mahsulotlar to'g'ri saqlanmasa, tez buziladi.",
+  "grocery": "Hozir ko'pchilik oziq-ovqat mahsulotlarini onlayn sotib oladi.",
+  "grower": "Loyiha ortiqcha mevalarni to'g'ridan-to'g'ri yetishtiruvchilardan sotib oladi.",
+  "guilty": "Ovqatni tashlab yuborganimda o'zimni aybdor his qilaman.",
+  "import": "Buyuk Britaniya ko'plab meva va sabzavotlarni import qiladi.",
+  "kale": "Jingalak barg karam Britaniya qishida yaxshi o'sadi.",
+  "lettuce": "Salat bargi eng ko'p isrof qilinadigan oziq-ovqatlardan biridir.",
+  "locally": "Biz mahalliy yetishtirilgan oziq-ovqatni ko'proq sotib olishimiz kerak.",
+  "middleman": "Kompaniya vositachini chetlab o'tib, to'g'ridan-to'g'ri fermerlardan sotib oladi.",
+  "poisoning": "Ovqatdan zaharlanish keksalar uchun jiddiy bo'lishi mumkin.",
+  "producer": "Kompaniya ishlab chiqaruvchilarni to'g'ridan-to'g'ri iste'molchilar bilan bog'laydi.",
+  "reach into": "U qo'lini muzlatgichga tiqib, eski salat bargini chiqarib oldi.",
+  "refrigerator": "Ko'pchilik muzlatgichning orqa tomonidagi oziq-ovqatni unutib qo'yadi.",
+  "rhubarb": "Rovoch Britaniyaning mavsumiy mahsulotidir.",
+  "scenario": "Eng yomon holatda oziq-ovqat isrofi o'sishda davom etadi.",
+  "seasonal": "Mavsumiy oziq-ovqat sotib olish isrofgarchilikni kamaytirishga yordam beradi.",
+  "sell on": "Kompaniya oziq-ovqatni fermerlardan sotib olib, xaridorlarga qayta sotadi.",
+  "slogan": "Kampaniyaning shiori: \"Ovqatni sev, isrofni yomon ko'r\".",
+  "stick to": "Xaridlar ro'yxatini tuzing va unga qat'iy amal qiling.",
+  "throw away": "Biz sotib olgan oziq-ovqatimizning taxminan uchdan bir qismini tashlab yuboramiz.",
+  "tropical": "Mango kabi tropik mevalar uzoq yurtlardan samolyotda olib kelinadi.",
+  "truck": "Yuk mashinalari sabzavotlarni fermadan shaharga olib boradi.",
+  "uniform": "Supermarketlar hajmi va shakli bir xil bo'lgan mevalarni xohlaydi.",
+  "use by": "Yeyishdan oldin iste'mol muddatini tekshiring."
  }
 });

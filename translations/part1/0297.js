@@ -1,4 +1,4 @@
-// Part 1 topic 0297: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0297: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0297', {
  "A1": {
   "cassava": "Kassava ildizmevadir.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0297', {
   "popcorn": "Kinoteatrlarda popkornning mashhurligi Buyuk depressiya davriga borib taqaladi.",
   "snack food": "Jahon tamaddi mahsulotlari sanoati jozibadorlikni oshirish uchun tuzilish va ta'mni puxta ishlab chiqadi.",
   "snack on": "Dietologlar uzoqroq to'q yurish uchun oqsilga boy ovqatlar bilan tamaddi qilishni maslahat beradilar."
+ },
+ "EX": {
+  "cassava": "Ba'zi mamlakatlarda odamlar qovurilgan kassava chipslari bilan tamaddi qilishadi.",
+  "clarity": "Ba'zilarning aytishicha, foydali tamaddi ularga aniqroq fikrlash imkonini beradi.",
+  "confectionery": "Supermarketda butun bir qator qandolat mahsulotlariga ajratilgan.",
+  "eat on": "Yengil tamaddilarni yo'lda yurib yeyish oson.",
+  "foggy": "Shirin tamaddidan keyin boshim tumanlanib qoladi.",
+  "indulge": "Ba'zan kechki ovqatdan keyin o'zimga bir plitka shokolad yeyishga ruxsat beraman.",
+  "nibble on": "U kutib turganda bir necha kraker chimdib yeb turdi.",
+  "package": "Tamaddida qancha tuz borligini bilish uchun qadoqni diqqat bilan o'qing.",
+  "popcorn": "Biz kinoteatrda doim popkorn yeymiz.",
+  "snack food": "Tamaddi mahsulotlarida ko'pincha tuz va shakar ko'p bo'ladi.",
+  "snack on": "Men odatda tushdan keyin meva bilan tamaddi qilaman."
  }
 });

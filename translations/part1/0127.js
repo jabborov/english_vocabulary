@@ -1,4 +1,4 @@
-// Part 1 topic 0127: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0127: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0127', {
  "A1": {
   "art school": "U san'at maktabida o'qiydi.",
@@ -185,5 +185,36 @@ VOCAB_TR_STORE('1', '0127', {
   "tender": "Tadqiqotchilar arzonroq restoranlar \"yumshoq\" kabi so'zlarga tayanishini, qimmat restoranlar esa sifatni o'z-o'zidan tushunarli deb bilishini aniqladilar.",
   "walk out": "Mijozlarni o'zidan uzoqlashtiradigan menyu ularning hatto buyurtma bermasdanoq chiqib ketishiga sabab bo'lishi mumkin.",
   "walk out of": "Menyu sababli restorandan chiqib ketadigan mijozlar kam, ammo ko'pchilik u yerga boshqa qaytmaslikka indamay qaror qiladi."
+ },
+ "EX": {
+  "art school": "U oshpaz bo'lishidan oldin san'at maktabida o'qigan.",
+  "burger": "Oddiy burger gurmanlar burgeridan arzonroq.",
+  "classically": "Qimmat menyularda an'anaviy ravishda fransuzcha so'zlar ishlatiladi.",
+  "culinary art": "Ba'zi oshpazlar ovqat tayyorlashni pazandachilik san'ati deb biladi.",
+  "decorative": "Qimmat menyularda ko'proq bezakli til ishlatiladi.",
+  "exclusive": "Murakkab so'zlar restoranni faqat tanlanganlar uchun mo'ljallangandek ko'rsatishi mumkin.",
+  "fancier": "Hashamatliroq restoranlar menyularida uzunroq so'zlar ishlatadi.",
+  "fried": "Arzonroq menyularda taom ko'pincha qovurilgan deb tasvirlanadi.",
+  "gourmet": "Kafeda gurmanlar uchun maxsus burgerlar sotiladi.",
+  "gravy": "Qovurilgan mol go'shti ko'pincha sous bilan tortiladi.",
+  "haute cuisine": "Yuksak oshxona restoranlari menyularida ko'pincha fransuzcha so'zlar ishlatiladi.",
+  "insulting": "Ba'zi mijozlar haddan tashqari murakkab menyularni haqoratli deb biladi.",
+  "make fun": "Odamlar ba'zan menyudagi hashamatli tilni masxara qilishadi.",
+  "menu": "Menyudagi til qancha pul sarflashimizga ta'sir qilishi mumkin.",
+  "menus": "Tilshunoslar minglab restoran menyularini o'rganishdi.",
+  "mocking": "Tanqidchi menyu haqida masxaraomuz taqriz yozdi.",
+  "oily": "Hech kim yog'li deb tasvirlangan taomni xohlamaydi.",
+  "poetic": "Ba'zi menyular taomlarni tasvirlash uchun she'riy tildan foydalanadi.",
+  "posh": "Dabdabali restoranlar menyularida murakkabroq so'zlar ishlatadi.",
+  "poulet": "Ba'zi restoranlar dabdabali ko'rinish uchun \"chicken\" o'rniga \"poulet\" deb yozadi.",
+  "pretentious": "Ba'zilar menyudagi uzun fransuzcha so'zlarni o'zini ko'z-ko'z qilish deb hisoblaydi.",
+  "profitable": "Restoranlar mijozlarni eng daromadli taomlarni tanlashga undashga harakat qiladi.",
+  "raspberry": "Shirinlik malina sousi bilan tortildi.",
+  "sauce": "Arzon va qimmat menyular sousni turlicha tasvirlaydi.",
+  "tempting": "Tavsif shirinlikni juda jozibali qilib ko'rsatdi.",
+  "tendency": "Arzonroq restoranlar \"mazali\" kabi so'zlarni ishlatishga moyil.",
+  "tender": "Steyk yumshoq va sersuv deb tasvirlangan edi.",
+  "walk out": "Narxlar juda baland bo'lsa, ba'zi mijozlar shunchaki chiqib ketadi.",
+  "walk out of": "Ba'zi mijozlar menyusi chalkash restorandan chiqib ketishi mumkin."
  }
 });

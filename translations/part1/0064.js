@@ -1,4 +1,4 @@
-// Part 1 topic 0064: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0064: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0064', {
  "A1": {
   "Celt": "U kelt.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0064', {
   "tailor": "Tikuvchilik kabi an'anaviy kasblar o'n yil oldin mavjud bo'lmagan kasblarga o'rin bo'shatmoqda.",
   "tutorial": "Onlayn video darslik bir paytlar faqat mutaxassislar qo'lida bo'lgan bilimlarni hamma uchun ochiq qildi.",
   "unexpected": "Kutilmagan muvaffaqiyat muvaffaqiyatsizlik kabi esankiratib qo'yishi mumkin."
+ },
+ "EX": {
+  "Celt": "Qadimgi keltlar terisini bo'yash uchun o'simliklardan foydalanishgan.",
+  "baker": "Novvoy har kuni ertalab yangi non yopadi.",
+  "beauty": "U internetga go'zallik bo'yicha videolar joylaydi.",
+  "blogger": "U go'zallik bo'yicha blogger sifatida ish boshlagan.",
+  "boundary": "Obunachilar bilan chegara belgilash muhim.",
+  "butcher": "Qassob, novvoy, duradgor - bular an'anaviy kasblardir.",
+  "carpenter": "Bu stolni duradgor yasagan.",
+  "champagne": "Ular bir million obunachini shampan vinosi bilan nishonlashdi.",
+  "colourful": "Uning pardozlari har doim rang-barang bo'ladi.",
+  "depression": "U o'zining depressiyasi haqida ochiq gapirgan.",
+  "eyebrow": "U tomoshabinlarga qoshlarini qanday shakllantirishni ko'rsatdi.",
+  "get started": "Influenser sifatida faoliyatingizni qanday boshlagansiz?",
+  "humour": "Uning videolari hazilga to'la.",
+  "intrigue": "Uning muvaffaqiyati ko'pchilikni qiziqtirib qo'ydi.",
+  "intrigued": "Uning qanday boshlagani menga qiziq tuyuldi.",
+  "lip": "Rangni labingizga surting.",
+  "lipstick": "U qizil labbo'yoqning yangi tusini sinab ko'rdi.",
+  "photographer": "U professional fotograf bilan ishlaydi.",
+  "prior": "Uning go'zallik sohasida avvalgi tajribasi yo'q edi.",
+  "tailor": "Tikuvchi unga yangi kostyum tikib berdi.",
+  "tutorial": "U YouTube'da pardoz bo'yicha video darslikni tomosha qildi.",
+  "unexpected": "Uning muvaffaqiyati mutlaqo kutilmagan edi."
  }
 });

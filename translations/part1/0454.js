@@ -1,4 +1,4 @@
-// Part 1 topic 0454: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0454: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0454', {
  "A1": {
   "VI": "VI olti degan ma'noni bildiradi.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0454', {
   "rule over": "U asta-sekin kengroq demokratiya sari harakatlanayotgan mamlakatni boshqargan.",
   "spread over": "Tonga aholisi Tinch okeanining janubidagi o'nlab orollarga tarqalgan.",
   "weave": "An'anaviy bo'yralarni to'qish mahorati tongalik ayollar avlodlari orqali meros bo'lib o'tadi."
+ },
+ "EX": {
+  "VI": "Uning ukasi yangi qirol — Tupou VI bo'ldi.",
+  "XIV": "Fransiya qiroli Lyudovik XIV tarixdagi eng uzoq hukmronlik qilgan qirollardan biri edi.",
+  "ascend": "Uning ukasi taxtga o'tiradi.",
+  "bearer": "Qirolning tobutini yuzlab tobut ko'taruvchilar olib borishdi.",
+  "dignitary": "Dafn marosimiga ko'plab mamlakatlardan oliy martabali mehmonlar keldi.",
+  "eccentric": "Qirol monokl taqishi kabi g'alati uslubi bilan tanilgan edi.",
+  "endear": "Hokimiyatdan voz kechish haqidagi qarori uni ko'pchilikka yoqtirib qo'ydi.",
+  "mat": "Motamdorlar bellariga to'qilgan bo'yralar bog'lab olishgan edi.",
+  "monarchs": "Dafn marosimiga bir necha monarx keldi.",
+  "monocle": "Qirol ko'pincha monokl taqib yurardi.",
+  "mourn": "Butun xalq qirolining vafoti uchun motam tutdi.",
+  "mourning": "Qirol vafot etganidan keyin mamlakatda motam davri boshlandi.",
+  "one at a time": "Motamdorlar tobut yonidan birin-ketin o'tishdi.",
+  "pall": "Qirolning tobuti qirollik yopinchig'i bilan yopilgan edi.",
+  "riot": "2006-yildagi g'alayonlar ko'proq demokratiya talablariga sabab bo'ldi.",
+  "rule over": "Qirol Tongada olti yil hukmronlik qildi.",
+  "spread over": "Dafn marosimlari bir necha kunga cho'zildi.",
+  "weave": "Ayollar palma barglaridan bo'yra to'qishadi."
  }
 });

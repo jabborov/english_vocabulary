@@ -1,4 +1,4 @@
-// Part 1 topic 0123: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0123: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0123', {
  "A1": {
   "Bangladeshi": "U bangladeshlik.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0123', {
   "union": "Uyushma ayollarga hech bir dehqon yolg'iz o'zi erisha olmaydigan jamoaviy savdolashish kuchini beradi.",
   "vegetable garden": "Hatto kichkina sabzavot bog'i ham qishloq joylardagi oilalar uchun muhim daromad va oziq-ovqat manbai bo'lishi mumkin.",
   "weed": "Begona o'tlarni qo'lda yulish ayol dehqonlar bajaradigan eng mashaqqatli va eng kam e'tirof etiladigan ishlardan biridir."
+ },
+ "EX": {
+  "Bangladeshi": "Bangladeshlik ayol fermerlar o'z guruhlarini tuzishgan.",
+  "add up": "Kichik jamg'armalar vaqt o'tishi bilan to'planib, katta summaga aylanadi.",
+  "chip in": "Har bir ayol har oy ozgina pul qo'shib turadi.",
+  "come home": "U bozordan charchagan, lekin xursand holda uyga qaytadi.",
+  "commerce": "Ayollar mahalliy savdodan adolatliroq ulush olishni xohlashadi.",
+  "credit union": "Ayollar o'zlarining kredit uyushmasini tashkil qilishdi.",
+  "dig into": "Keling, ayol fermerlar duch keladigan muammolarni chuqurroq o'rganaylik.",
+  "fight back": "Ayol fermerlar jinsiy kamsitishga qarshi kurashmoqda.",
+  "finance": "Ayollarga ko'pincha moliyaviy mablag' olish qiyin bo'ladi.",
+  "financial organisation": "Kredit uyushmasi — moliyaviy tashkilotning bir turi.",
+  "fluctuate": "Sabzavot narxlari yil davomida o'zgarib turadi.",
+  "harassment": "Ko'plab ayollar bozorda tazyiq va shilqimlikka duch kelishadi.",
+  "household": "Ayollar ko'pincha oila byudjetini boshqarishadi.",
+  "in the long run": "Pul jamg'arish ularga uzoq muddatda yordam beradi.",
+  "lend": "Banklar ko'pincha ayol fermerlarga qarz berishdan bosh tortishadi.",
+  "loan": "U urug' sotib olish uchun qarz oldi.",
+  "marketplace": "Bozorda erkaklar hukmronlik qiladi.",
+  "meantime": "Shu orada ayollar har hafta ozgina pul jamg'arib borishadi.",
+  "mistreatment": "Ko'plab ayollar bozorda mahsulot sotganda yomon munosabatga duch kelishadi.",
+  "okra": "Bamiya Janubiy Osiyoda mashhur sabzavot.",
+  "onion": "U kichik fermasida piyoz va qalampir yetishtiradi.",
+  "pepper": "Issiq havoda ko'k qalampir yaxshi o'sadi.",
+  "poppy": "Ba'zi fermerlar urug'i uchun ko'knori yetishtirishadi.",
+  "saving": "Har bir ayol jamg'armasining bir qismini guruhga qo'shadi.",
+  "significantly": "Ularning daromadi sezilarli darajada oshdi.",
+  "spinach": "Ismaloq tez o'sadi va yaxshi sotiladi.",
+  "thereby": "Ular birgalikda sotishadi va shu tariqa yaxshiroq narx olishadi.",
+  "union": "Fermerlar birgalikda uyushma tuzishdi.",
+  "vegetable garden": "U oilasi uchun poliz-tomorqada oziq-ovqat yetishtiradi.",
+  "weed": "U dalasidan begona o'tlarni yulib, soatlab vaqt o'tkazadi."
  }
 });

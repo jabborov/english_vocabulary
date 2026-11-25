@@ -1,4 +1,4 @@
-// Part 1 topic 0502: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0502: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0502', {
  "A1": {
   "characterise": "Uni qanday ta'riflagan bo'lardingiz?",
@@ -35,5 +35,11 @@ VOCAB_TR_STORE('1', '0502', {
   "market place": "Kichik ishlab chiqaruvchilar yirik kompaniyalar hukmron bo'lgan bozorda raqobatlashishga qiynaladi.",
   "population growth": "Aholining tez o'sishi suv ta'minoti va davlat xizmatlariga og'ir yuk tushirishi mumkin.",
   "refrigeration": "Muzlatish texnologiyasi yangi go'sht va baliqni yil bo'yi topish imkonini berib, ovqatlanishni tubdan o'zgartirdi."
+ },
+ "EX": {
+  "characterise": "Yigirmanchi asr aholining tez o'sishi bilan ajralib turgan.",
+  "market place": "Eski bozor maydoni oziq-ovqat sotayotgan savdogarlar bilan to'la edi.",
+  "population growth": "Yaxshiroq oziq-ovqat va tibbiyot aholining tez o'sishiga olib keldi.",
+  "refrigeration": "Muzlatish tufayli oziq-ovqatni uzoqroq yangi holda saqlash mumkin."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0375: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0375: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0375', {
  "A1": {
   "brushing": "Ot tarashni yaxshi ko'radi.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0375', {
   "umbrella": "\"Farovonlik\" degan umumiy nom ostida bemorlarga sifati juda turlicha bo'lgan dasturlar taklif etiladi.",
   "unanswered": "Kengroq sinovlar o'tkazilmaguncha, bu savollar kishini afsuslantiradigan darajada javobsiz qolaveradi.",
   "work through": "Qayg'uni shoshiltirib bo'lmaydi; odamlarga uni yengib o'tish uchun vaqt va qo'llab-quvvatlash kerak."
+ },
+ "EX": {
+  "brushing": "Muloyim taroqlash ham otni, ham bemorni tinchlantiradi.",
+  "cerebral palsy": "Otga minish serebral falaj bilan og'rigan bolalarga muvozanatni yaxshilashda yordam beradi.",
+  "equine": "Ot bilan davolash kasalxona va maktablarda tobora ommalashib bormoqda.",
+  "gentleness": "Otlar bolalarga nisbatan muloyimligiga qarab tanlanadi.",
+  "grooming": "Otlarni parvarishlash terapiyaning muhim qismidir.",
+  "heart rate": "Otlar bilan vaqt o'tkazish yurak urish tezligini pasaytirishi mumkin.",
+  "majestic": "Ot — salobatli hayvon.",
+  "make over": "Dastur odamlarning nafaqat chavandozlik mahoratini, balki o'ziga bo'lgan ishonchini ham tubdan o'zgartirishni maqsad qilgan.",
+  "pony": "Kichik bolalar odatda poni minishdan boshlashadi.",
+  "reliance": "Terapiya bemorlarning dori-darmonlarga qaramligini kamaytirishga qaratilgan.",
+  "riding horse": "Markazda terapiya mashg'ulotlari uchun oltita minish oti bor.",
+  "umbrella": "Ot terapiyasi otlar bilan bog'liq ko'plab turli mashg'ulotlarni o'z ichiga olgan umumiy atamadir.",
+  "unanswered": "Ot terapiyasi qanday ishlashi haqidagi ko'plab savollar hali ham javobsiz qolmoqda.",
+  "work through": "Otlar bilan ishlash odamlarga hissiy muammolarini yengib o'tishga yordam beradi."
  }
 });

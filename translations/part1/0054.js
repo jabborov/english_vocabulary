@@ -1,4 +1,4 @@
-// Part 1 topic 0054: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0054: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0054', {
  "A1": {
   "ache": "Boshim og'riyapti.",
@@ -185,5 +185,36 @@ VOCAB_TR_STORE('1', '0054', {
   "stick with": "Nega ba'zi arzimas tafsilotlar xotiramizda qolib, muhim faktlar esa yo'qolib ketishi hanuzgacha qandaydir sir bo'lib qolmoqda.",
   "useless": "Unutish befoyda emas; u miyaga endi kerak bo'lmagan ma'lumotlardan xalos bo'lishga yordam beradi.",
   "wallet": "Hamyonni qayerga qo'yganini unutish odatda xotiraning emas, balki e'tiborning nuqsonidir."
+ },
+ "EX": {
+  "ache": "Juda ko'p o'qiganimdan boshim og'riyapti.",
+  "as it is": "Shundoq ham eslab qolishim kerak bo'lgan narsalar yetarli.",
+  "deeply": "Biror narsa haqida chuqur o'ylasangiz, uni eslab qolish ehtimolingiz ortadi.",
+  "digit": "Telefon raqami taxminan o'n bir raqamdan iborat.",
+  "educational": "Unutish ta'lim tizimlari uchun katta muammodir.",
+  "equation": "Maktabda ko'plab tenglamalarni o'rgandim, lekin hammasini unutib yubordim.",
+  "exam": "Imtihondan oldin tun bo'yi o'qidim.",
+  "immediate": "Qisqa muddatli xotiramiz faqat bir nechta narsani saqlay oladi.",
+  "immediately": "O'rganganlarimizning katta qismini deyarli darhol unutamiz.",
+  "meaningful": "Biz uchun ahamiyatli bo'lgan narsalarni yaxshiroq eslab qolamiz.",
+  "memorise": "Aktyorlar o'z so'zlarini yod olishlari kerak.",
+  "middle name": "Do'stimning ikkinchi ismini hech eslay olmayman.",
+  "neuroscientist": "Bir nevrolog nima uchun narsalarni unutishimizni tushuntirib berdi.",
+  "parrot": "Talabalar ba'zan faktlarni tushunmasdan to'tiqushdek takrorlaydi.",
+  "phone number": "O'z telefon raqamimni eslay olmayman.",
+  "photograph": "Eski fotosuratga qarash xotiralarni qaytarishi mumkin.",
+  "photographic": "Sizda fotografik xotira bormi?",
+  "pi": "Pi sonini eslab qolish bo'yicha jahon rekordi 70 000 dan ortiq raqamni tashkil etadi.",
+  "pretty much": "Maktabda o'rganganlarimning deyarli hammasini unutib yuborganman.",
+  "recite": "Ba'zi odamlar pi sonining minglab raqamlarini yoddan aytib bera oladi.",
+  "remembering": "Eslab qolish har doim ham oson emas.",
+  "repetition": "Takrorlash yangi so'zlarni eslab qolishga yordam beradi.",
+  "revise": "Imtihonlarim uchun takrorlashim kerak.",
+  "slim": "Hamma narsani eslab qolish ehtimoli juda kam.",
+  "so long": "Xayr, tinglaganingiz uchun rahmat!",
+  "stay up": "Imtihonga tayyorlanib, tun bo'yi uxlamay chiqdim.",
+  "stick with": "Ba'zi xotiralar umr bo'yi siz bilan birga qoladi.",
+  "useless": "Men ismlarni eslab qolishga mutlaqo qobiliyatsizman.",
+  "wallet": "Hamyonimni qayerga qo'yganimni doim unutib qo'yaman."
  }
 });

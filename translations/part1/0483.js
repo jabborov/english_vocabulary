@@ -1,4 +1,4 @@
-// Part 1 topic 0483: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0483: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0483', {
  "A1": {
   "Davy": "Deyvi mening do'stim.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0483', {
   "receipt": "Chek bo'lmagani uchun do'kon nosoz mahsulotni almashtirishdan bosh tortdi.",
   "research director": "Tadqiqot direktori bunday kichik tanlanmadan qat'iy xulosalar chiqarishdan ogohlantirdi.",
   "unsteady": "Nima bo'lganini tushuntirishga urinarkan, uning ovozi titrab turardi."
+ },
+ "EX": {
+  "Davy": "Deyvi do'konlar qaysi ranglardan foydalanishni qanday hal qilishini tushuntirib berdi.",
+  "costly": "Har bir bola uchun alohida pushti va ko'k o'yinchoqlar sotib olish ota-onalarga qimmatga tushishi mumkin.",
+  "dainty": "Qo'g'irchoq nafis pushti tufli kiygan edi.",
+  "daydream": "U pushti ko'ylakdagi malika bo'lishni orzu qilib xayol surardi.",
+  "daydreaming": "Yosh bolalar uchun darsda biroz xayol surish odatiy hol.",
+  "dizzy": "O'yin maydonchasida gir aylanaverib, qizchaning boshi aylanib qoldi.",
+  "get in touch": "Savolingiz bo'lsa, biz bilan elektron pochta orqali bog'laning.",
+  "merchandise": "Do'konda qizlar uchun ko'plab pushti mollar sotiladi.",
+  "merchandising": "Mohirona savdo marketingi bolalarda pushti o'yinchoqlarga ishtiyoq uyg'otadi.",
+  "receipt": "Agar unga pushti sviter yoqmasa, deb chekni saqlab qo'ying.",
+  "research director": "Tadqiqot direktorining aytishicha, bolalar tabiatan pushti yoki ko'k rangni afzal ko'rmaydi.",
+  "unsteady": "Kichkintoy yangi tuflisida bir necha qadam gandiraklab yurdi."
  }
 });

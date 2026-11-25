@@ -1,4 +1,4 @@
-// Part 1 topic 0272: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0272: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0272', {
  "A1": {
   "aesthetically": "Xona estetik jihatdan chiroyli.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0272', {
   "ratio": "Go'zallikni yagona universal tana nisbati belgilaydi, degan da'volar madaniyatlararo tadqiqotlar tomonidan shubha ostiga olingan.",
   "sniff out": "Odamlar mos juftni haqiqatan ham hid orqali topadimi, bu tadqiqotlarning munozarali sohasi bo'lib qolmoqda.",
   "universally": "Kamdan-kam go'zallik me'yorlari hamma uchun umumiy; aksariyati madaniyatlar va davrlarga qarab farq qiladi."
+ },
+ "EX": {
+  "aesthetically": "Odamlar o'zlariga estetik jihatdan yoqadigan sheriklarni tanlashadi.",
+  "aid": "Hid bilish sherik tanlashda bizga yordam berishi mumkin.",
+  "approachable": "Tabassum sizni muloqotga ochiqroq ko'rsatadi.",
+  "bolt out": "Uni ko'rganda, u xonadan otilib chiqib ketgisi keldi.",
+  "circulate": "Gormonlar qonda aylanib yuradi.",
+  "compatibility": "Tanishuv ilovalari odamlar o'rtasidagi moslikni o'lchay olishini da'vo qiladi.",
+  "conceive": "Tadqiqotda ayollar qanchalik oson homilador bo'la olishi o'rganildi.",
+  "correlate": "O'xshash qiziqishlar baxtliroq munosabatlar bilan bog'liq.",
+  "curve": "Rassomlarni doimo inson tanasining egri chiziqlari maftun etib kelgan.",
+  "curvy": "Moda olami asta-sekin to'laroq qomatli modellardan ko'proq foydalanmoqda.",
+  "fecundity": "Ba'zi olimlarning fikricha, tana shakli bir paytlar serpushtlik belgisi bo'lgan.",
+  "good health": "Toza teri sog'lom ekanlik belgisi bo'lishi mumkin.",
+  "hourglass": "\"Qum soat\" deb ataladigan qomat ko'plab madaniyatlarda maqtalgan.",
+  "indicator": "Simmetrik yuz yaxshi genlar ko'rsatkichi bo'lishi mumkin.",
+  "irresistible": "U yigitning tabassumini qarshilik qilib bo'lmas darajada jozibali deb bildi.",
+  "oestrogen": "Estrogen darajasi ayolning hayoti davomida o'zgarib turadi.",
+  "ratio": "Ba'zi tadqiqotlar bel va son o'lchamlari nisbatini o'rgangan.",
+  "sniff out": "Ba'zi tadqiqotlarga ko'ra, biz boshqacha genlarga ega sherikni hidimizdan bilib olishimiz mumkin.",
+  "universally": "Mehribonlik deyarli hamma joyda jozibali sifat sifatida qabul qilinadi."
  }
 });

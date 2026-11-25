@@ -1,4 +1,4 @@
-// Part 2 topic 0016: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0016: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0016', {
  "A1": {
   "advantageous": "Bu bitim foydali.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('2', '0016', {
   "to sort that out": "Ketma-ket hukumatlar muammoni tan olgan, biroq hech biri uni hal qilish uchun zarur siyosiy jasoratni ko'rsatmagan.",
   "unemployed": "Keksa saylovchilarning xavotirlari ustun bo'lgan bahsda ishsiz yoshlarning og'ir ahvoli deyarli e'tibordan chetda qoldi.",
   "unfair": "Bir avlod adolatsiz deb bilgan narsani boshqasi butun umr qo'shgan hissasi uchun haqli mukofot deb hisoblashi mumkin."
+ },
+ "EX": {
+  "advantageous": "Eski pensiya qoidalari erta nafaqaga chiqqanlar uchun juda foydali edi.",
+  "annoyed": "Ko'plab yoshlar keksa avlodlarning bunchalik saxiy pensiyalari borligidan norozi.",
+  "arise": "Keksalarning pensiyalarini to'lash uchun yosh ishchilar yetarli bo'lmaganda muammolar yuzaga keladi.",
+  "blame": "Pensiya inqirozida keksa avlodni ayblash oson.",
+  "complain": "Yoshlar ota-onalaridan ancha uzoqroq ishlashlariga to'g'ri kelishidan shikoyat qilishadi.",
+  "frightened": "Ko'plab ishchilar pensiyalari bilan nima bo'lishidan qo'rqishadi.",
+  "generational": "Pensiya haqidagi bahs yoshlar va keksalar o'rtasida avlodlararo keskinlik yuzaga keltirdi.",
+  "generous": "Keksa ishchilar yoshlar hech qachon ololmaydigan saxiy pensiyalar bilan nafaqaga chiqishdi.",
+  "grateful": "Keksalar o'z pensiyalari uchun pul to'laydigan yosh ishchilardan minnatdor bo'lishlari kerak.",
+  "guilty": "Ba'zi keksalar yoshlar ularning pensiyalari uchun pul to'lashiga to'g'ri kelishidan o'zlarini aybdor his qilishadi.",
+  "injustice": "Ko'plab yoshlar hozirgi pensiya tizimini katta adolatsizlik deb biladi.",
+  "overall": "Pensiyalarning umumiy xarajati har yili oshib bormoqda.",
+  "pension": "Ko'plab yoshlar nafaqaga chiqqanlarida o'zlariga pensiya qolmasligidan xavotirda.",
+  "proposal": "Hukumatning pensiya yoshini oshirish haqidagi taklifi juda ommabop bo'lmadi.",
+  "prospect": "Yetmish yoshgacha ishlash istiqboli ko'plab yoshlarga yoqmaydi.",
+  "retirement": "Odamlar uzoqroq yashayapti, shuning uchun nafaqada ancha ko'p yil o'tkazishadi.",
+  "spread": "Hukumat pensiya xarajatlarini avlodlar o'rtasida adolatliroq taqsimlamoqchi.",
+  "strike": "Fransiya bo'ylab ishchilar pensiya yoshini oshirish rejasiga qarshi ish tashlash bilan tahdid qilishdi.",
+  "terrified": "Ba'zi keksalar yashash uchun pullari yetmay qolishidan dahshatga tushishadi.",
+  "to fuss": "Biz tashrif buyurganimizda buvim har bir mayda tafsilot ustida kuymalanishni yaxshi ko'radi.",
+  "to sort that out": "Pensiya tizimi qiyin ahvolda va hukumat bu muammoni tezda hal qilishi kerak.",
+  "unemployed": "Ko'plab yoshlar ishsiz, lekin baribir soliqlar orqali keksa avlodni boqishga majbur.",
+  "unfair": "Ko'plab yoshlar boshqalarning pensiyasi uchun pul to'lashlari adolatsiz deb hisoblaydi."
  }
 });

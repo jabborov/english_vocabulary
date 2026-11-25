@@ -1,4 +1,4 @@
-// Part 1 topic 0441: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0441: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0441', {
  "A1": {
   "Croatia": "Xorvatiya Yevropada joylashgan.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0441', {
   "unaltered": "Daryoning bu o'zgartirilmagan qismlari olimlarga Yevropa suv yo'llari bir vaqtlar qanday ishlaganini ko'rish uchun kamyob imkoniyat beradi.",
   "waterway": "Ilonizi daryoni to'g'ri tijorat suv yo'liga aylantirish ming yillar davomida shakllangan yashash muhitlarini yo'q qilishi mumkin.",
   "willow": "Daryo muntazam suv bosib turadigan qadimiy tol o'rmonzori toshqin tekisligining eng boy yashash muhitlaridan birini tashkil etadi."
+ },
+ "EX": {
+  "Croatia": "Xorvatiyada Yevropaning eng yovvoyi daryolaridan ba'zilari bor.",
+  "adjacent": "Daryoga tutash o'rmonlarni har yili suv bosadi.",
+  "biosphere": "Bu hudud YUNESKOning ulkan biosfera qo'riqxonasi tarkibiga kiradi.",
+  "black stork": "Hurkovuch qora laylak qayirning sokin o'rmonlarida yashirinadi.",
+  "devoid": "Toshqinlar bo'lmasa, o'rmonlar tez orada hayotdan mahrum bo'lib qolardi.",
+  "drop in": "Olimlar suv sathining pasayishi o'rmonlarni quritib qo'yishidan xavotirda.",
+  "eagle": "Oq dumli burgut daryo bo'yidagi baland daraxtlarda in quradi.",
+  "floodplain": "Har bahorda daryo qayir bo'ylab yoyilib, ulkan botqoqlik hosil qiladi.",
+  "ground water": "Qayirdagi daraxtlarga yer osti suvlarining yuqori sathi kerak.",
+  "groyne": "Muhandislar kemalar uchun daryoni chuqurroq qilish maqsadida to'g'onchalar qurmoqchi.",
+  "internationally": "Qayir qushlar uchun xalqaro miqyosda muhim ahamiyatga ega.",
+  "riverbank": "Biz daryo qirg'og'i bo'ylab sayr qilib, qushlarni tomosha qildik.",
+  "riverbed": "Daryo o'zanini chuqurlashtirish suv sathini pasaytiradi.",
+  "shipping": "Reja daryoni kema qatnovi uchun qulayroq qilishdan iborat.",
+  "stork": "Xorvatiya qishloqlarida laylaklar tomlar ustiga katta in quradi.",
+  "unaltered": "Daryoning katta qismlari asrlar davomida o'zgarmay qolgan.",
+  "waterway": "Dunay Yevropaning eng muhim suv yo'llaridan biridir.",
+  "willow": "Daryo qirg'oqlari bo'ylab baland majnuntollar qator bo'lib o'sgan."
  }
 });

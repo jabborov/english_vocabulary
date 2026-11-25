@@ -1,4 +1,4 @@
-// Part 1 topic 0451: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0451: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0451', {
  "A1": {
   "call for": "Ular yordamga chaqirishdi.",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('1', '0451', {
   "think tank": "Tahlil markazlari jamoatchilik muhokamasining shartlarini belgilash orqali hukumat siyosatini shakllantirishi mumkin.",
   "treaty": "BMTning giyohvand moddalarni nazorat qilish bo'yicha shartnomalari har qanday alohida mamlakat o'z qonunlarini qanchalik erkinlashtira olishini cheklaydi.",
   "waste one's time": "Hisobot adliya tizimi muvaffaqiyatsiz yondashuvga vaqti va pulini behuda sarflayotganini taxmin qiladi."
+ },
+ "EX": {
+  "call for": "Hisobotda giyohvand moddalarga nisbatan yangi yondashuvga chaqiriladi.",
+  "cocaine": "Kokain noqonuniy va kuchli qaramlik keltirib chiqaruvchi giyohvand moddadir.",
+  "control system": "Giyohvand moddalarni nazorat qilishning xalqaro tizimi o'nlab yillar oldin yaratilgan.",
+  "controlled": "Geroin nazorat ostidagi moddadir.",
+  "crack cocaine": "Krek-kokain o'ta kuchli qaramlik keltirib chiqaradi.",
+  "decriminalisation": "Giyohvand moddalar iste'molini dekriminalizatsiya qilish Portugaliyada yaxshi natija berdi.",
+  "decriminalise": "Hisobotda hukumatdan shaxsiy giyohvand moddalar iste'molini jinoyat toifasidan chiqarish so'raladi.",
+  "dependence": "Giyohvand moddalarga qaramlik sog'liq muammosi sifatida davolanishi kerak.",
+  "ecstasy": "Ba'zi yoshlar xavfini bilmay ekstazi iste'mol qiladi.",
+  "foreign minister": "Sobiq tashqi ishlar vaziri hisobotni qo'llab-quvvatladi.",
+  "hard drug": "Geroin kabi og'ir giyohvand moddalar iste'molchilarga katta zarar yetkazadi.",
+  "have a go": "Siyosatchilar ko'pincha giyohvandlarga yordam berish o'rniga ularni qoralashadi.",
+  "heroin": "Geroin eng xavfli giyohvand moddalardan biridir.",
+  "legalise": "Ba'zi mutaxassislar hukumat ayrim giyohvand moddalarni qonuniylashtirishini istaydi.",
+  "morphine": "Shifokorlar og'riqni qoldirish uchun unga morfin berishdi.",
+  "narcotic": "Geroin va morfin narkotik moddalardir.",
+  "opium": "Geroin ham, morfin ham afyundan tayyorlanadi.",
+  "opium poppy": "Tasmaniyada dori-darmon uchun afyun ko'knori qonuniy ravishda yetishtiriladi.",
+  "overdose": "Ko'plab yoshlar giyohvand moddalarning haddan ortiq dozasidan vafot etadi.",
+  "sank": "Kema bo'ronda cho'kib ketdi.",
+  "soft drug": "Qonun yengil giyohvand moddalarga og'ir giyohvand moddalardan boshqacha munosabatda bo'ladi.",
+  "think tank": "Hisobotni giyohvandlik siyosati bo'yicha tahliliy markaz yozgan.",
+  "treaty": "Xalqaro shartnomalar biror davlatning o'z giyohvandlik qonunlarini o'zgartirishini qiyinlashtiradi.",
+  "waste one's time": "Ba'zi mutaxassislarning fikricha, politsiya giyohvandlarni hibsga olib, vaqtini behuda sarflamoqda."
  }
 });

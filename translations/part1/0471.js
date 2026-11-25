@@ -1,4 +1,4 @@
-// Part 1 topic 0471: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0471: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0471', {
  "A1": {
   "car factory": "U avtomobil zavodida ishlaydi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0471', {
   "replica": "O'z yaratuvchisining vahimali darajada jonli nusxasi bo'lgan robot shaxsiyat haqida savollar tug'diradi.",
   "science museum": "Fan muzeylari jamoatchilikka yangi texnologiyalarni tushunishga yordam berishda muhim rol o'ynaydi.",
   "unnerving": "Tadqiqotchilar insonga yaqin robotlarga nisbatan bunday bezovta qiluvchi munosabatni \"g'ayritabiiy vodiy\" deb ataydi."
+ },
+ "EX": {
+  "car factory": "Robotlar ko'p yillardan beri avtomobil zavodlarida ishlab kelmoqda.",
+  "creepier": "Robot qanchalik insonga o'xshasa, shunchalik vahimaliroq tuyulishi mumkin.",
+  "creepy": "Ba'zi odamlarga inson yuzli robotlar vahimali tuyuladi.",
+  "forced": "Robotning tabassumi zo'rma-zo'raki va g'ayritabiiy ko'rinardi.",
+  "humanlike": "Muhandislar insonga tobora o'xshashroq robotlar yasashmoqda.",
+  "ironing": "Dazmol qila oladigan robotim bo'lishini juda xohlardim.",
+  "labourer": "Robotlar ko'plab sohalarda qora ishchilar o'rnini egallashi mumkin.",
+  "replica": "Robot haqiqiy insonning aynan nusxasidir.",
+  "science museum": "Yangi robot fan muzeyida namoyish etilmoqda.",
+  "unnerving": "Xuddi odamning o'ziga o'xshaydigan robot bilan gaplashish kishini bezovta qiladi."
  }
 });

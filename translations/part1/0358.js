@@ -1,4 +1,4 @@
-// Part 1 topic 0358: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0358: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0358', {
  "A1": {
   "hard drive": "Qattiq diskim to'lib qolgan.",
@@ -35,5 +35,11 @@ VOCAB_TR_STORE('1', '0358', {
   "information technology": "Axborot texnologiyalari nafaqat qanday ishlashimizni, balki qayerda va qachon aloqada bo'lishimiz kutilishini ham o'zgartirib yubordi.",
   "operating": "Texnologiya eng katta foydani ko'pincha shov-shuvli innovatsiyalarda emas, balki ishlash samaradorligida beradi.",
   "operating system": "Moslik muammolari ko'pincha bitta operatsion tizim uchun ishlab chiqilgan dastur boshqasida ishga tushirilganda yuzaga keladi."
+ },
+ "EX": {
+  "hard drive": "Faylni qattiq diskingizga saqlang.",
+  "information technology": "U axborot texnologiyalari sohasida ishlaydi.",
+  "operating": "Yangi dasturiy ta'minot joriy xarajatlarimizni qisqartirdi.",
+  "operating system": "Kompyuterga yangi operatsion tizim kerak."
  }
 });

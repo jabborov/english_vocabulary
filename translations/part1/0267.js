@@ -1,4 +1,4 @@
-// Part 1 topic 0267: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0267: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0267', {
  "A1": {
   "apparel": "Ular kiyim-kechak sotishadi.",
@@ -179,5 +179,35 @@ VOCAB_TR_STORE('1', '0267', {
   "usher": "Mehmonlar zalga kuzatib olib kirildi, u yerda har bir juft poyabzal krossovkadek ko'rinardi.",
   "usher in": "Mashhurlarning reklamasi krossovkalar orzu obyektiga aylangan davrni boshlab berdi.",
   "wedge": "Ilk yugurish poyabzallaridagi rezina ponacha amortizatsiyada muhim yangilik edi."
+ },
+ "EX": {
+  "apparel": "Kompaniya sport kiyimlari va krossovkalar sotadi.",
+  "athletic": "Krossovkalar dastlab sport poyabzali sifatida yaratilgan.",
+  "basketball": "1980-yillarda basketbol poyabzallari juda urfga kirdi.",
+  "casual": "Krossovkalar kundalik kiyim uchun juda mos.",
+  "conspicuously": "Ba'zi odamlar ko'zga yaqqol tashlanadigan darajada qimmat krossovkalar kiyishadi.",
+  "consumer research": "Iste'molchilar tadqiqotlari yoshlar krossovkalarga ko'p pul sarflashini ko'rsatadi.",
+  "dress down": "Hozir ko'plab ofislar xodimlarga juma kunlari erkin kiyinishga ruxsat beradi.",
+  "emergence": "Xip-xopning paydo bo'lishi krossovkalarni yanada ommalashtirdi.",
+  "fledged": "Krossovkalar to'laqonli moda buyumiga aylandi.",
+  "globe": "Hozir krossovkalar butun dunyoda kiyiladi.",
+  "limited edition": "Cheklangan sonda chiqarilgan krossovkalar juda katta narxlarda sotilishi mumkin.",
+  "mid": "Krossovkaga bo'lgan ishtiyoq 1970-yillarning o'rtalarida boshlangan.",
+  "middle class": "Bir paytlar krossovkalar o'rta sinf vakillari uchun nomunosib deb hisoblangan.",
+  "nineteenth": "Rezina tagli birinchi sport poyabzallari o'n to'qqizinchi asrda paydo bo'lgan.",
+  "pensioner": "Hozir nafaqaxo'rlar ham, o'smirlar ham krossovka kiyishadi.",
+  "retro": "1980-yillarning retro krossovkalari yana urfga kirdi.",
+  "sartorial": "Bir paytlar kostyum bilan krossovka kiyish kiyinishdagi xato hisoblangan.",
+  "slang term": "\"Kicks\" – krossovkalarning jargondagi nomi.",
+  "sneaker": "AQShda krossovkalarni \"sneakers\" deb atashadi.",
+  "social class": "Hozir krossovkalarni barcha ijtimoiy tabaqa vakillari kiyadi.",
+  "tatty": "Uning krossovkalari eskirib, teshik-teshik bo'lib ketgan edi.",
+  "tennis shoe": "Birinchi krossovkalar tennis poyabzallari bo'lgan.",
+  "trainer": "Hozirgi kunda deyarli hammada bir juft krossovka bor.",
+  "triangular": "Logotip uchburchak shaklida edi.",
+  "unbranded": "Brendsiz krossovkalar ancha arzon.",
+  "usher": "Joy ko'rsatuvchi bizni o'rindiqlarimizga kuzatib qo'ydi.",
+  "usher in": "1980-yillar krossovkalar uchun yangi davrni boshlab berdi.",
+  "wedge": "Ba'zi krossovkalarning tagi ponasimon bo'ladi."
  }
 });

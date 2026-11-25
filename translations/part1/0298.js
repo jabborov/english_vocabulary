@@ -1,4 +1,4 @@
-// Part 1 topic 0298: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0298: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0298', {
  "A1": {
   "bookcase": "Kitob javoni to'la.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0298', {
   "peeler": "Bir xil sabzavot tozalagichlarga to'la tortma haddan tashqari iste'molning kichik, ammo yaqqol belgisidir.",
   "schoolboy": "Ko'plab kattalar hamon maktab o'quvchisi bo'lgan davrlaridan qolgan buyumlarni saqlab yuradilar.",
   "sentimental": "Hissiy bog'liqlik odamlar nega hech qanday amaliy foydasi bo'lmagan buyumlarni saqlashini tushuntiradi."
+ },
+ "EX": {
+  "bookcase": "Kitob javonim hech qachon o'qimagan kitoblarimga to'la.",
+  "existentialism": "Ekzistensializm hayotda ma'noni qanday topishimiz kerakligini so'raydi.",
+  "materialism": "Moddiyatparastlik har doim ham baxtga olib kelmaydi.",
+  "metaphysics": "Nega narsalarga egalik qilishimiz haqida o'ylash metafizika savollariga olib kelishi mumkin.",
+  "out of hand": "Eski poyabzallarim to'plami nazoratdan chiqib ketyapti.",
+  "overlook": "Biz ko'pincha allaqachon qancha narsamiz borligini e'tibordan chetda qoldiramiz.",
+  "peel": "Kartoshkani pishirishdan oldin po'stini arching.",
+  "peeler": "Oshxona tortmamdan uchta kartoshka tozalagich topdim!",
+  "schoolboy": "Maktab o'quvchisi bo'lganida u futbol kartochkalarini to'plagan.",
+  "sentimental": "Men uni tashlab yubora olmayman; u men uchun aziz xotira."
  }
 });

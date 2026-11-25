@@ -1,4 +1,4 @@
-// Part 1 topic 0379: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0379: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0379', {
  "A1": {
   "cameraman": "U operator.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0379', {
   "pronunciation": "Talaffuzdagi mintaqaviy farqlar nutqni aniqlash dasturlarini kamroq ishonchli qilib qo'yishi mumkin.",
   "spec": "Ko'zoynakni kun bo'yi taqib yurish uchun yetarlicha yengil qilish maqsadida muhandislar texnik shartlarni bir necha bor qayta yozishga majbur bo'ldi.",
   "wearable": "Shaxsiy daxlsizlik tarafdorlari taqiladigan kameralar odamlarni roziligisiz suratga olishni haddan tashqari osonlashtirishidan xavotirda."
+ },
+ "EX": {
+  "cameraman": "Kamerali ko'zoynak bilan har kim o'zi uchun operator bo'lishi mumkin.",
+  "casino": "Ba'zi kazinolar o'yinchilar firibgarlik qilishi mumkinligi sababli kompyuter ko'zoynaklarini taqiqlagan.",
+  "cybernetic": "Ilmiy-fantastik filmlar kibernetik odamlarga to'la.",
+  "cyborg": "Tanqidchilar ko'zoynak taqqan odamlar kiborgga o'xshaydi, deb hazillashishdi.",
+  "hang in": "Ko'zingiz oldida kichkina ekran havoda osilib turgandek tuyuladi.",
+  "pronunciation": "Boshlovchilar ba'zi qiyin so'zlarning talaffuzini muhokama qilishdi.",
+  "spec": "U ko'zoynagini taqib, ekranga qaradi.",
+  "wearable": "Aqlli soat va ko'zoynak kabi taqiladigan texnologiyalar ommalashib bormoqda."
  }
 });

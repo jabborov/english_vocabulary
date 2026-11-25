@@ -1,4 +1,4 @@
-// Part 1 topic 0181: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0181: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0181', {
  "A1": {
   "IT": "Men informatika darslarini yaxshi ko'raman.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0181', {
   "segregate": "Dalillar shuni ko'rsatadiki, tizim o'quvchilarni qobiliyatiga ko'ra qanchalik kam ajratsa, uning natijalari shunchalik teng bo'ladi.",
   "service industry": "Xizmat ko'rsatish sohasiga asoslangan iqtisodiyot an'anaviy imtihonlar kamdan-kam tekshiradigan ko'nikmalarni talab qiladi.",
   "upcoming": "Siyosatchilar yaqinlashib kelayotgan ta'lim tahlilidan oldin o'z pozitsiyalarini egallab olmoqda."
+ },
+ "EX": {
+  "IT": "Ko'plab davlatlarda maktablar endi axborot texnologiyalarini yoshlikdan o'rgatadi.",
+  "PISA": "PISA testlarini 80 ga yaqin davlatda o'n besh yoshli o'quvchilar topshiradi.",
+  "Singapore": "Singapur ko'pincha xalqaro maktablar reytingida birinchi o'rinni egallaydi.",
+  "contentious": "Maktablar reytingi o'qituvchilar orasida bahsli mavzu.",
+  "historically": "Tarixan Finlyandiya reytinglarda juda yaxshi natijalar ko'rsatib kelgan.",
+  "international organisation": "OECD - PISA testlarini o'tkazadigan xalqaro tashkilot.",
+  "keep apart": "Ba'zi maktablar turli qobiliyatli o'quvchilarni bir-biridan alohida o'qitadi.",
+  "outpace": "Ba'zi Osiyo davlatlaridagi o'quvchilar matematikada yevropalik tengdoshlaridan o'zib ketadi.",
+  "outperform": "Deyarli barcha davlatlarda qizlar o'qish bo'yicha o'g'il bolalardan yaxshiroq natija ko'rsatadi.",
+  "principal": "Direktor muvaffaqiyat kaliti o'qituvchilar ekanini aytdi.",
+  "school principal": "Maktab direktori o'quvchilar testlarga qanday tayyorlanishini tushuntirib berdi.",
+  "segregate": "Ba'zi tizimlar o'quvchilarni yoshligidan qobiliyatiga qarab ajratadi.",
+  "service industry": "Aksariyat yoshlar xizmat ko'rsatish sohasida ishlaydi.",
+  "upcoming": "O'qituvchilar o'quvchilarni yaqinlashib kelayotgan testlarga tayyorlamoqda."
  }
 });

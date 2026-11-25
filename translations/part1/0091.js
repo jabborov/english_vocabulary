@@ -1,4 +1,4 @@
-// Part 1 topic 0091: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0091: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0091', {
  "A1": {
   "acute": "Og'riq o'tkir.",
@@ -227,5 +227,43 @@ VOCAB_TR_STORE('1', '0091', {
   "uniquely": "Hissiy vazminlik ko'pincha faqat britaniyaliklarga xos deb ko'rsatiladi, garchi boshqa ko'plab madaniyatlar ham uni qadrlasa-da.",
   "upper": "Tarixan hissiy vazminlik eng ko'p yuqori tabaqalar bilan bog'langan.",
   "wobble": "Uning xotirjamligidagi bir lahzalik titrash u qanchalik ko'p narsani ichida saqlayotganini ochib qo'ydi."
+ },
+ "EX": {
+  "acute": "U judolikni o'tkir his qildi.",
+  "artistically": "Flamenkoda qayg'u badiiy tarzda ifodalanadi.",
+  "bottle up": "His-tuyg'ularingizni ichingizga yutib yurish sog'lik uchun yaxshi emas.",
+  "by": "Qayg'u madaniyat tomonidan shakllantiriladi.",
+  "by and large": "Umuman olganda, britaniyaliklar odamlar oldida yig'lamaydi.",
+  "characterization": "Britaniyaliklarni hissiyotsiz deb tavsiflash unchalik adolatli emas.",
+  "crying": "Ba'zi madaniyatlarda odamlar oldida yig'lash odatiy hol, boshqalarida esa yo'q.",
+  "fed up": "Bu yomg'irli havodan to'ydim.",
+  "feed up": "Kasal bo'lganimdan keyin buvim meni yaxshilab boqib, semirtirmoqchi bo'ldi.",
+  "flamenco": "Flamenko qo'shiqlari ko'pincha qayg'u va ehtirosga to'la bo'ladi.",
+  "get married": "Xolam turmushga chiqqanida xursandchilikdan yig'lagan.",
+  "give rise": "Qayg'uni yashirish boshqa muammolarni keltirib chiqarishi mumkin.",
+  "go around": "Ishda doim yig'lab yurishingiz mumkin emas.",
+  "grief": "Otasi vafot etganda u qattiq qayg'uga botdi.",
+  "look back": "O'tmishga nazar tashlasam, qayg'umni qanchalik tez-tez yashirganimni anglayman.",
+  "melancholy": "Portugal fado musiqasida chuqur mungli kayfiyat bor.",
+  "might": "Yaxshilab yig'lab olsangiz, o'zingizni yaxshiroq his qilishingiz mumkin.",
+  "miserable": "Yomon xabardan keyin u o'zini juda baxtsiz his qildi.",
+  "mourner": "Dafn marosimida aza tutuvchilar ochiqchasiga yig'ladi.",
+  "performer": "Flamenko ijrochisi judolik va yurak og'rig'i haqida kuyladi.",
+  "poem": "U buvisi haqida g'amgin she'r yozdi.",
+  "repress": "U ishda qayg'usini bosib turishga harakat qildi.",
+  "repressed": "U his-tuyg'ularini ichiga yutib yuradigan odam edi va hech qachon ular haqida gapirmasdi.",
+  "sated": "Mo'l-ko'l ziyofatdan keyin hamma to'yib qoldi.",
+  "shameful": "Ba'zi odamlar boshqalar oldida yig'lashni uyatli ish deb hisoblaydi.",
+  "song and dance": "U qanchalik xafa ekanini katta shov-shuvga aylantirishni xohlamadi.",
+  "sorrow": "Qo'shiq yaqin insonni yo'qotish qayg'usini ifodalardi.",
+  "stiff upper lip": "Britaniyaliklar qiyin vaziyatda ham his-tuyg'ularini sir boy bermasligi bilan mashhur.",
+  "superior": "Ba'zi odamlar his-tuyg'ularni yashirish ularni ko'rsatishdan ustunroq, deb o'ylaydi.",
+  "superiority": "U hissiyotli odamlarga yuqoridan qarashida o'zini ustun qo'yish sezilib turardi.",
+  "thoughtful": "G'amgin musiqa ko'pincha meni o'yga cho'mdiradi.",
+  "three year old": "Uch yoshligimda onam xonadan chiqib ketgan har safar yig'lardim.",
+  "tired of": "Hammasi joyida, deb o'zimni ko'rsatishdan charchadim.",
+  "uniquely": "Sir boy bermaslik ko'pincha faqat britaniyaliklarga xos xususiyat deb qaraladi.",
+  "upper": "Yig'lamaslikka urinar ekan, uning yuqori labi titradi.",
+  "wobble": "Otasi haqida gapirganida uning ovozi titray boshladi."
  }
 });

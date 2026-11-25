@@ -1,4 +1,4 @@
-// Part 1 topic 0474: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0474: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0474', {
  "A1": {
   "bring along": "Do'stingizni ham olib keling.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0474', {
   "tented": "Hashamatli chodirli lagerlar ortiqcha noqulayliklarsiz sarguzasht istagan sayyohlar orasida mashhur bo'lib qoldi.",
   "troubled": "Notinch o'tmishiga qaramay, mintaqa yana sarguzasht izlovchi sayyohlarni jalb qila boshladi.",
   "white water": "Hayajon izlovchilar sharshara-ostona suvlarini zabt etish va faol vulqonlarga chiqish uchun minglab mil yo'l bosadi."
+ },
+ "EX": {
+  "bring along": "Iliq kiyimlarni o'zingiz bilan olib keling, chunki cho'qqida sovuq bo'ladi.",
+  "burst out": "Yerdan issiq gaz otilib chiqdi.",
+  "camp": "Biz lagerga qorong'i tushishidan sal oldin yetib keldik.",
+  "descent": "Vulqondan pastga tushish uch soat davom etdi.",
+  "erupting": "Sayyohlar otilayotgan vulqonni xavfsiz masofadan tomosha qilishlari mumkin.",
+  "eruption": "So'nggi kuchli otilish yaqin atrofdagi shaharning bir qismini vayron qildi.",
+  "flock": "Sayyohlar yana to'da-to'da bo'lib vulqonga oqib kelmoqda.",
+  "insanely": "Tog'ga chiqish aql bovar qilmas darajada qiyin bo'ldi, lekin bunga arzirdi.",
+  "lava": "Kechasi kraterda qizil lava yonib turganini ko'rish mumkin.",
+  "lawless": "Yillar davomida bu hudud qonunsiz va xavfli edi.",
+  "miner": "Vulqon yaqinidagi tepaliklarda ko'plab konchilar ishlaydi.",
+  "mineral resources": "Mintaqa foydali qazilmalarga boy.",
+  "molten": "Krater erigan tog' jinslariga to'la.",
+  "mountain gorilla": "Tashrif buyuruvchilar milliy bog'da tog' gorillalarini ham ko'rishlari mumkin.",
+  "proximity": "Vulqonning shaharga yaqinligi katta xavf tug'diradi.",
+  "raft": "Sakkiz kishi bo'lib solni daryo bo'ylab eshkak eshib haydadik.",
+  "ravage": "Mintaqa urush va vulqon otilishlari tufayli vayron bo'lgan.",
+  "scenery": "Vulqon atrofidagi manzara hayratlanarli.",
+  "spew": "Krater ichidan lava otilib chiqdi.",
+  "spew out": "Vulqon issiq lava va tutun otib chiqardi.",
+  "tented": "Tashrif buyuruvchilar cho'qqi yaqinidagi chodirli lagerda tunashadi.",
+  "troubled": "Sayyohlar Afrikaning bu notinch hududiga qaytmoqda.",
+  "white water": "Vulqonga chiqishdan oldin biz shiddatli tog' daryosida rafting qildik."
  }
 });

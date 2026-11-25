@@ -1,4 +1,4 @@
-// Part 1 topic 0236: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0236: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0236', {
  "A1": {
   "contexts": "So'zlar turli kontekstlarda keladi.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0236', {
   "lecturer": "O'qituvchilar diqqat qandaydir qat'iy muddatga emas, ko'proq qiziqishga bog'liqligini azaldan payqab kelishgan.",
   "mere": "Da'voning tez-tez takrorlanishining o'zigina uni ilmiy asosli qilmaydi.",
   "reportedly": "Aytilishicha, bu statistika Microsoft tadqiqotidan olingan, ammo uning asl manbasini topish qiyin bo'lib chiqdi."
+ },
+ "EX": {
+  "contexts": "Diqqatimiz turli vaziyatlarda o'zgaradi.",
+  "distracted": "Telefonlarimiz bizni doim chalg'itadi.",
+  "fallen": "Ma'lumotlarga ko'ra, so'nggi yillarda o'rtacha diqqatimizni jamlash davomiyligi qisqargan.",
+  "fishy": "Oltin baliqning xotirasi haqidagi da'vo biroz shubhali eshitiladi.",
+  "highlight down": "Tadqiqot diqqatimizni jamlash qobiliyati qanchalik pasayganini ta'kidlash uchun ishlatildi.",
+  "lecturer": "Psixologiya o'qituvchisi oltin baliq haqidagi da'vo nega afsona ekanini tushuntirdi.",
+  "mere": "Go'yoki oltin baliqlar narsalarni atigi uch soniya eslab qolar emish.",
+  "reportedly": "Aytishlaricha, odamlarning diqqatni jamlash davomiyligi oltin baliqnikidan ham qisqa ekan."
  }
 });

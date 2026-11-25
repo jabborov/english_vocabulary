@@ -1,4 +1,4 @@
-// Part 1 topic 0497: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0497: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0497', {
  "A1": {
   "artery": "Bu arteriya.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0497', {
   "sleepwalk": "Tanqidchilar mamlakat inqirozga o'zi bilmagan holda, xuddi uyquda yurgandek borayotganidan ogohlantirdi.",
   "sleepwalker": "Tadqiqotchilar uyquda yuruvchi odam qanday qilib hushsiz holda zinadan yura olishini hamon tushuntirib berolmayapti.",
   "sleepwalking": "Uyquda yurish odatda zararsiz bo'lsa-da, u ba'zan jinoyat sudlarida himoya dalili sifatida keltirilgan."
+ },
+ "EX": {
+  "artery": "Yurak qonni arteriyalar orqali haydaydi.",
+  "defective": "Olimlar uyquda yuruvchilar oilalarida nuqsonli genni topishdi.",
+  "dos": "Uyquda yuruvchi bilan muomala qilishda nima qilish kerak va nima qilmaslik kerakligi haqida bir necha maslahat.",
+  "down the stairs": "U uxlagan holicha zinadan pastga tushib, old eshikdan chiqib ketdi.",
+  "fall down": "U yiqilib, tizzasini lat yedirdi.",
+  "faulty": "Ba'zi odamlarning uyquda yurishiga nosoz gen sabab bo'lishi mumkin.",
+  "freeway": "U uyqusida uydan chiqib, gavjum avtomagistralga borib qoldi.",
+  "genetic code": "Olimlarning fikricha, uyquda yurish genetik kodimizga yozilgan bo'lishi mumkin.",
+  "great grandparent": "Bu oilada uyquda yurish katta bobo-buvilardan beri uchrab keladi.",
+  "radial": "Bilak nervi qo'ldagi ba'zi mushaklarni boshqaradi.",
+  "radial artery": "Hamshira uning bilagidagi bilak arteriyasidan tomir urishini o'lchadi.",
+  "rapid eye movement": "Tushlarning aksariyati uyquning tez ko'z harakati bosqichida ko'riladi.",
+  "sever": "Singan shisha uning qo'lidagi arteriyani kesib yubordi.",
+  "sleepwalk": "U bolaligida uyqusida yurardi.",
+  "sleepwalker": "Uyquda yuruvchi bog'da uyg'onib ketdi va u yerga qanday kelib qolganini bilmasdi.",
+  "sleepwalking": "Uyqida yurish kattalarga qaraganda bolalarda ko'proq uchraydi."
  }
 });

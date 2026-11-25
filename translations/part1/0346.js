@@ -1,4 +1,4 @@
-// Part 1 topic 0346: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0346: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0346', {
  "A1": {
   "Oscar": "Oscar ism.",
@@ -41,5 +41,12 @@ VOCAB_TR_STORE('1', '0346', {
   "optimist": "Optimist bo'lish muammolarni e'tiborsiz qoldirish emas, balki ularni yengish mumkinligiga ishonishdir.",
   "pessimism": "Tadqiqotchilar surunkali pessimizmni aslida moslashuvchan bo'lishi mumkin bo'lgan amaliy ehtiyotkorlikdan farqlaydi.",
   "pessimist": "Himoyaviy pessimist xavotirni boshqarish va oldindan rejalashtirish uchun past kutishlardan foydalanadi."
+ },
+ "EX": {
+  "Oscar": "Optimistlar haqidagi mashhur gap ko'pincha Oscar Wildega nisbat beriladi.",
+  "optimism": "Nikbinlik sog'lig'ingiz uchun foydali bo'lishi mumkin.",
+  "optimist": "Optimist stakanni yarmi to'la deb biladi.",
+  "pessimism": "Uning tushkunlikka moyilligi har bir narsadan xavotirlanishiga sabab bo'lardi.",
+  "pessimist": "Pessimist stakanni yarmi bo'sh deb biladi."
  }
 });

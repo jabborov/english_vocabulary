@@ -1,4 +1,4 @@
-// Part 2 topic 0004: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0004: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0004', {
  "A1": {
   "a constant soundtrack": "Musiqa doimiy hamroh ovozdir.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('2', '0004', {
   "the Tube": "O'zining mashhur xaritasi bilan London metrosi londonliklarning nafaqat qanday yurishini, balki o'z shaharlarini qanday tasavvur qilishini ham shakllantirgan.",
   "unreliable": "Surunkali kam sarmoya tufayli liniya shu qadar ishonchsiz bo'lib qolganki, yo'lovchilar endi o'z vaqtida yetib borishni kutmay ham qo'yishgan.",
   "vary": "Taxminlar shu qadar keskin farq qiladiki, raqamlar faktlardan ko'ra ularning mualliflari haqida ko'proq narsa aytadi, degan xulosaga kelgisi keladi."
+ },
+ "EX": {
+  "a constant soundtrack": "Poyezdlarning gumburlashi va taqillashi shahardagi kundalik hayotning doimiy fon ovoziga aylangan.",
+  "a love-hate relationship": "Ko'plab aholi metro bilan \"sevaman ham, yomon ham ko'raman\" munosabatida: unga har kuni tayanadi, ammo doim undan noliydi.",
+  "armpit": "Tig'iz soatlarda deyarli notanish odamning qo'ltig'iga qisilib turasiz, bu esa yo'lni unchalik yoqimli qilmaydi.",
+  "clack": "G'ildiraklarning relslarga urilib chiqargan ritmik taqillashi birozdan keyin deyarli sehrlab qo'yardi.",
+  "compartment": "Poyezd bekatga kirib kelganda yo'lovchilar har bir bo'sh kupega siqilib kirishdi.",
+  "cramped": "Vagon ichidagi tiqilinch sharoit gazeta o'qish u yoqda tursin, qimirlashni ham deyarli imkonsiz qilardi.",
+  "eye contact": "Yo'lovchilar bir-birining ko'ziga qarashdan ataylab qochishadi — bu odat faqat britaniyaliklarga xosdek tuyuladi.",
+  "get around": "Doimiy kechikishlarga qaramay, ko'pchilik londonliklar shahar bo'ylab samarali qatnash uchun hamon jamoat transportiga tayanadi.",
+  "get on with it": "Ko'pchilik yo'lovchilar shikoyat qilish o'rniga shunchaki ko'nikib, kundalik noqulayliklarni qabul qilishadi.",
+  "moon and back": "U bekatiga nihoyat yetib kelguncha go'yo Oyga borib kelgandek bo'ldim, deb hazillashdi.",
+  "poetic piece": "Hujjatli film shahar yo'lovchilarining maromini tasvirlovchi kutilmaganda she'riy parcha bilan boshlandi.",
+  "properly": "Ertalabki tig'iz paytda o'rindiq topib, haqiqatan ham bemalol o'tirish kamdan-kam uchraydi.",
+  "rumble": "Yaqinlashib kelayotgan poyezdning olisdan eshitilgan gumburlashi platforma tez orada odamlarga to'lishidan darak berdi.",
+  "severe": "Ba'zi liniyalardagi haddan tashqari tirbandlik tarmoqqa katta sarmoya kiritish talablarini keltirib chiqardi.",
+  "squeeze into a carriage": "Yo'lovchilar allaqachon sig'imidan ancha ortiq odam bilan to'lib ketgan vagonga siqilib kirishlariga to'g'ri keldi.",
+  "stomach": "Har kuni ertalab odam to'la vagonga siqilib kirish noqulayligiga hamma ham chiday olmaydi.",
+  "take for granted": "Jamoat transportining qulayligini u to'satdan ishdan chiqmaguncha o'z-o'zidan tushunarli narsa deb qabul qilish oson.",
+  "the Tube": "Tig'iz soatlarda London metrosi chidab bo'lmas darajada gavjum bo'lishiga qaramay, u Londonni kesib o'tishning eng tez yo'li bo'lib qolmoqda.",
+  "unreliable": "Yo'lovchilar ko'pincha ta'mirlash ishlari bo'lganda xizmat tobora ishonchsiz bo'lib qolishidan shikoyat qilishadi.",
+  "vary": "Kutish vaqti kunning qaysi paytiga va qaysi liniyadan foydalanayotganingizga qarab ancha farq qilishi mumkin."
  }
 });

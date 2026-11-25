@@ -1,4 +1,4 @@
-// Part 1 topic 0334: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0334: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0334', {
  "A1": {
   "Irishman": "U irlandiyalik erkak.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0334', {
   "powder": "Oqsil kukuni savdosi keskin oshdi, garchi unga iste'molchilarning ozchiligigina haqiqatan muhtoj bo'lsa-da.",
   "spoonful": "Bir qoshiq kukunda butun bir ovqatdagichalik oqsil bo'lishi mumkin, bu esa ortiqcha iste'mol haqida savollar tug'diradi.",
   "wheat flour": "Buyuk Britaniyada bug'doy uni qonunga ko'ra ayrim ozuqa moddalari bilan boyitilishi shart."
+ },
+ "EX": {
+  "Irishman": "Ko'rsatuvdagi mutaxassis irlandiyalik erkak.",
+  "NHS": "NHS bizga qancha oqsil kerakligi haqida maslahat beradi.",
+  "Scott": "Scott bizga haqiqatda qancha oqsil kerakligini tushuntiradi.",
+  "aisle": "Hozir supermarketda butun bir qator oqsilli mahsulotlarga ajratilgan.",
+  "bodybuilding": "Oqsilli kokteyllar dastlab bodibildingda mashhur bo'lgan.",
+  "breakfast food": "Hozirda ko'plab nonushta mahsulotlariga oqsil qo'shiladi.",
+  "chickpea": "No'xatda oqsil ko'p.",
+  "fixate": "Ko'plab xaridorlar oziq-ovqat yorliqlarini o'qiganda faqat oqsilga e'tibor qaratishadi.",
+  "fortify": "Ba'zi yormalar oqsil va vitaminlar bilan boyitiladi.",
+  "gluten": "Ba'zi odamlar kleykovina iste'mol qila olmaydi.",
+  "lentil": "Yasmiq arzon oqsil manbaidir.",
+  "obsession": "Ba'zi mutaxassislar oqsilga bo'lgan qiziqishimizni o'ta berilib ketish deb atashadi.",
+  "optimise": "Sportchilar oqsil yordamida ratsionini eng maqbul holga keltirishga harakat qilishadi.",
+  "overestimate": "Ko'p odamlar o'zlariga qancha oqsil kerakligini oshirib baholashadi.",
+  "powder": "Oqsil kukuni sport zaliga qatnaydiganlar orasida mashhur.",
+  "spoonful": "Sutingizga bir qoshiq oqsil kukuni qo'shing.",
+  "wheat flour": "Non bug'doy unidan tayyorlanadi."
  }
 });

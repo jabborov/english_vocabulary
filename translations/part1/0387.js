@@ -1,4 +1,4 @@
-// Part 1 topic 0387: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0387: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0387', {
  "A1": {
   "Christmas": "Rojdestvo bilan!",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0387', {
   "queue up": "Sovg'alar uchun qorda navbatda turgan xotiralar o'sha paytdagidan ko'ra ortga nazar tashlaganda iliqroq tuyuladi.",
   "tint": "Xotira o'tmishga xushomadgo'y tus berib, uning qiyinchiliklarini yumshatadi va quvonchlarini bo'rttiradi.",
   "wait on": "Keksa qarindoshlar ko'pincha ishni o'zlari qilish o'rniga, ularga har tomonlama xizmat qilingan Rojdestvo bayramlarini eslashadi."
+ },
+ "EX": {
+  "Christmas": "Ko'pchilik Rojdestvo ular bolaligida yaxshiroq bo'lgan, deb o'ylaydi.",
+  "cognitive neuroscience": "Kognitiv neyrofan nima uchun o'tmishni iliqlik bilan eslashimizni tushuntirishga yordam beradi.",
+  "conversational": "Dastur so'zlashuv uslubida yozilgan.",
+  "factual": "Rojdestvo haqidagi xotiralarimiz har doim ham haqiqatga mos kelavermaydi.",
+  "queue up": "Odamlar Rojdestvo chegirmalarida soatlab navbatda turishadi.",
+  "tint": "Biz ko'pincha o'tmishga pushti ko'zoynak orqali qaraymiz.",
+  "wait on": "Rojdestvoda buvim kun bo'yi hammaning xizmatida bo'lardi."
  }
 });

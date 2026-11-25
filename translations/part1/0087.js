@@ -1,4 +1,4 @@
-// Part 1 topic 0087: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0087: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0087', {
  "A1": {
   "at times": "Ba'zan men g'amgin bo'laman.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0087', {
   "patience": "Sabr-toqat ishontirish fazilati sifatida yetarlicha qadrlanmaydi; fikrlar kamdan-kam hollarda bitta suhbatda o'zgaradi.",
   "social psychology": "Ijtimoiy psixologiya e'tiqod dalil masalasi bo'lganidek, mansublik masalasi ham ekanini qayta-qayta ko'rsatgan.",
   "verse": "Agar tinglovchining qadriyatlarini e'tiborsiz qoldirsangiz, ma'lumotlarni yaxshi bilish ishontira olishingizga kafolat bermaydi."
+ },
+ "EX": {
+  "at times": "Ba'zan bahsda xotirjam qolish qiyin bo'lishi mumkin.",
+  "backfire": "Odamlarga baqirib faktlarni aytish teskari natija berishi mumkin.",
+  "blown": "Kelishmovchilik haqiqiy janjalga aylanib ketdi.",
+  "commit": "Mamlakatlar chiqindilarini qisqartirish majburiyatini olgan.",
+  "committed": "U o'z ishiga sodiq ekologiya himoyachisi.",
+  "confront": "Agar odamlar bilan tajovuzkorona to'qnashsangiz, ular sizni tinglashni to'xtatadi.",
+  "denial": "Iqlim o'zgarishini inkor qilish avvalgidek keng tarqalgan emas.",
+  "denier": "Iqlim o'zgarishini inkor qiluvchi odam bilan qanday gaplashish kerak?",
+  "dense": "Odamlar sizga qo'shilmagani uchungina ularni kalla-kalta deb hisoblamang.",
+  "disinformation": "Internetda iqlim o'zgarishi haqida juda ko'p qasddan tarqatilgan yolg'on ma'lumotlar bor.",
+  "distinction": "Noto'g'ri ma'lumot bilan qasddan tarqatilgan yolg'on ma'lumot o'rtasida muhim farq bor.",
+  "distinguish": "Faktlar bilan fikrlarni farqlay bilish muhim.",
+  "firmly": "Ba'zi odamlar iqlim o'zgarishiga inson sabab emas, deb qat'iy ishonadi.",
+  "genuine": "Boshqa odam nima deb o'ylashiga chin dildan qiziqish bildiring.",
+  "hurtful": "Uning gaplari ko'ngilni og'ritadigan edi.",
+  "inform": "Maqsad odamlarga hujum qilish emas, balki ularni xabardor qilish.",
+  "informed": "Biz odamlar ongli, yetarli ma'lumotga asoslangan qarorlar qabul qilishini istaymiz.",
+  "litter": "Iltimos, bog'da axlat tashlamang.",
+  "mistrust": "Ba'zi odamlar olimlarga nisbatan chuqur ishonchsizlik bilan qaraydi.",
+  "mother tongue": "O'zbek tili mening ona tilim, lekin ishda ingliz tilida gaplashaman.",
+  "offensive": "Odamlarni ahmoq deb atash haqoratli va bu foyda bermaydi.",
+  "overwhelming": "Iqlim o'zgarishi borasidagi dalillar juda ko'p va inkor etib bo'lmaydi.",
+  "patience": "Birovning fikrini o'zgartirish uchun sabr-toqat kerak.",
+  "social psychology": "Ijtimoiy psixologiya nega faqat faktlarning o'zi odamlarning fikrini o'zgartirmasligini tushuntirishga yordam beradi.",
+  "verse": "U iqlimshunoslikni yaxshi biladi."
  }
 });

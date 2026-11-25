@@ -1,4 +1,4 @@
-// Part 1 topic 0333: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0333: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0333', {
  "A1": {
   "alcohol abuse": "Spirtli ichimliklarni suiiste'mol qilish xavfli.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0333', {
   "stew over": "Har bir onlayn surat haqida qayg'urib yuradigan o'smirlar kameraga tushib qolishdan qo'rqib, ichishdan o'zini tiyishi mumkin.",
   "tank": "Tahlil markazi ichish kamayishi chuqurroq ijtimoiy o'zgarishlarni aks ettiradi, deb ta'kidladi.",
   "underage": "Shaxsni tasdiqlovchi hujjatlarning qattiqroq tekshirilishi voyaga yetmaganlarning ichishini bir avlod avvalgiga qaraganda ancha qiyinlashtirdi."
+ },
+ "EX": {
+  "alcohol abuse": "Spirtli ichimliklarni suiiste'mol qilish ko'plab sog'liq muammolarini keltirib chiqaradi.",
+  "cut back": "Ko'plab yoshlar spirtli ichimlikni kamaytirmoqda.",
+  "intoxicate": "Spirtli ichimlik yoshlarni juda tez mast qilib qo'yishi mumkin.",
+  "ml": "Kichik qadah vino taxminan 125 ml bo'ladi.",
+  "parlour": "Yoshlar endi pablar o'rniga qahvaxonalar va muzqaymoq kafelarida uchrashishadi.",
+  "publicity": "Haddan tashqari ko'p ichishga qarshi kampaniyalar katta shov-shuvga sabab bo'ldi.",
+  "religious belief": "Ba'zi yoshlar diniy e'tiqodlari tufayli ichishmaydi.",
+  "sober": "Tobora ko'proq yoshlar hushyor qolishni, ya'ni spirtli ichimlik ichmaslikni tanlamoqda.",
+  "stew over": "Noto'g'ri qaror haqida uzoq vaqt kuyunib o'tirmang.",
+  "tank": "Tahliliy markaz yoshlar va spirtli ichimliklar haqida hisobot e'lon qildi.",
+  "underage": "So'nggi yillarda voyaga yetmaganlar orasida ichkilikbozlik kamaydi."
  }
 });

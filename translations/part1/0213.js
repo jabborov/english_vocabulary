@@ -1,4 +1,4 @@
-// Part 1 topic 0213: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0213: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0213', {
  "A1": {
   "abnormal": "Bu g'ayritabiiy.",
@@ -197,5 +197,38 @@ VOCAB_TR_STORE('1', '0213', {
   "willingly": "Parvarishlovchilar endi hayvonlar tibbiy muolajalarga o'z ixtiyori bilan ko'nishi uchun mukofotlardan foydalanishadi.",
   "zoologist": "Zoologlar hayvonot bog'lari zarardan ko'ra ko'proq foyda keltiradimi, degan masalada hamon ikkiga bo'lingan.",
   "zoos": "Tanqidchilar hayvonot bog'lari keng hududda yashovchi hayvonlarga kerakli narsani bera oladimi, degan savolni qo'yishadi."
+ },
+ "EX": {
+  "abnormal": "Ba'zi hayvonot bog'i hayvonlarida g'ayritabiiy xatti-harakatlar kuzatiladi.",
+  "aquarium": "Akvariumda akulalar va toshbaqalar bor.",
+  "bob": "Ayiq boshini tinimsiz tepaga-pastga silkitardi.",
+  "buss": "U uning yuzidan tez bir o'pib qo'ydi.",
+  "cage": "Eski hayvonot bog'lari hayvonlarni kichik qafaslarda saqlashardi.",
+  "cage in": "Qushlar o'z xavfsizligi uchun qafasga qamaldi.",
+  "enclose": "Hayvonlar baland panjaralar ortida qamab qo'yilgan.",
+  "enclosure": "Sherlarning katta qo'rasi bor.",
+  "endangered species": "Hayvonot bog'lari yo'qolib ketish xavfi ostidagi turlarni himoya qilishga yordam beradi.",
+  "hesitant": "Ba'zi mutaxassislar barcha hayvonot bog'larini tanqid qilishga ikkilanishadi.",
+  "in a bad way": "Ayiq olib kelinganida ahvoli juda yomon edi.",
+  "in circles": "Ayiq kun bo'yi aylana bo'ylab yurdi.",
+  "lock up": "Yovvoyi hayvonlarni hayvonot bog'larida qamab qo'yish to'g'rimi?",
+  "notoriously": "Pandalarni ko'paytirish qiyinligi bilan nom chiqargan.",
+  "pacing": "Bir joyda u yoqdan-bu yoqqa yurish hayvonning baxtsiz ekanidan dalolat beradi.",
+  "panda": "Pandalarni hayvonot bog'larida ko'paytirish qiyinligi hammaga ma'lum.",
+  "polar": "Qutb hayvonlariga juda sovuq muhit kerak.",
+  "polar bear": "Oq ayiqlarda hayvonot bog'larida ko'pincha stress belgilari kuzatiladi.",
+  "pro": "Keling, hayvonot bog'larining ijobiy va salbiy tomonlarini ko'rib chiqaylik.",
+  "purposeless": "Ayiqning harakatlari maqsadsiz edi.",
+  "reluctant": "Pandalar asirlikda juftlashishni istamaydi.",
+  "remember oneself": "U baqirib yubormoqchi edi, lekin o'zini tutib oldi.",
+  "reproduction": "Asirlik hayvonlarning ko'payishiga ta'sir qilishi mumkin.",
+  "solitary": "Yovvoyi tabiatda pandalar yolg'iz yashaydigan hayvonlardir.",
+  "stereotypical": "U yoqdan-bu yoqqa yurish va tebranish stereotipik xatti-harakatlardir.",
+  "sway": "Fil u yoqdan-bu yoqqa tebranardi.",
+  "swaying": "Tebranish fillarda stress belgisidir.",
+  "tango": "Pandalarni ko'paytirish masalasida bir qo'l bilan qarsak chalib bo'lmaydi.",
+  "willingly": "Hech bir hayvon o'z ixtiyori bilan qafasda yashamagan bo'lardi.",
+  "zoologist": "Zoolog ba'zi hayvonlar nega u yoqdan-bu yoqqa yurishini tushuntirdi.",
+  "zoos": "Zamonaviy hayvonot bog'lari o'zlarining asosiy vazifasi tabiatni muhofaza qilish ekanini aytishadi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0445: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0445: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0445', {
  "A1": {
   "activation": "Faollashtirish tez amalga oshadi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0445', {
   "symbolic": "Insonlar g'oyalarni avloddan avlodga yetkazish uchun yozuv kabi ramziy tizimlardan foydalanishda yagona mavjudotdir.",
   "visual area": "Savodxonlik bir vaqtlar yuzlar va narsalarni tanishga xizmat qilgan ko'rish sohasining bir qismini jalb qilar ekan.",
   "vocal cord": "Miya skanerlari o'qish ovoz paychalari bilan bog'liq sohalarni faollashtirishini, go'yo biz gapirishga tayyorlanayotgandek ekanini ko'rsatadi."
+ },
+ "EX": {
+  "activation": "Miya tasvirlari o'qiganimizda ba'zi sohalarning kuchli faollashishini ko'rsatadi.",
+  "alphabet": "Ingliz alifbosida 26 ta harf bor.",
+  "circuit": "O'qish jarayonida miyaning o'zaro bog'langan sohalari zanjiridan foydalaniladi.",
+  "connectivity": "Kitob o'qish miyaning turli qismlari o'rtasidagi bog'lanishni yaxshilaydi.",
+  "cord": "Ovoz paychalari — tomoqdagi ikkita ingichka mushak tolasi.",
+  "intricate": "Miya nerv hujayralarining murakkab tarmog'idir.",
+  "letter of the alphabet": "Bolalar avval alifboning har bir harfini taniy olishni o'rganadi.",
+  "symbolic": "Yozuv nutqni ifodalovchi ramziy tizimdir.",
+  "visual area": "Miyaning maxsus ko'rish sohasi yozma so'zlarni taniydi.",
+  "vocal cord": "Gapirganimizda ovoz paychalarimiz tebranadi."
  }
 });

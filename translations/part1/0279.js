@@ -1,4 +1,4 @@
-// Part 1 topic 0279: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0279: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0279', {
  "A1": {
   "DVD": "Keling, DVD ko'raylik.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0279', {
   "streaming": "Paradoksal tarzda, striming xizmatlarining yuksalishi vinilning qayta jonlanishiga turtki berdi, chunki muxlislar egalik qiladigan narsa izlaydi.",
   "turntable": "Audiofillar sifatli aylanma disk qurilmasi striming xizmatlari yo'qotadigan tafsilotlarni ochib berishini ta'kidlaydilar.",
   "vinyl": "Vinilning qayta jonlanishi odamlar hali ham moddiy buyumga egalik qilishni qadrlashini ko'rsatadi."
+ },
+ "EX": {
+  "DVD": "Biz har juma kechasi DVD ijaraga olardik.",
+  "GB": "Telefonimning xotirasi 128 GB.",
+  "audiotape": "Intervyu magnit tasmaga yozib olindi.",
+  "carve out": "Vinil raqamli musiqa bozorida o'ziga xos o'rin egalladi.",
+  "cassette tape": "Men radiodagi qo'shiqlarni audiokassetaga yozib olardim.",
+  "come after": "Kompakt-disklar audiokassetalardan keyin paydo bo'ldi.",
+  "compile": "U o'zining sevimli qo'shiqlari ro'yxatini tuzib chiqdi.",
+  "decent": "Vinildan zavq olish uchun sizga yaxshi grammofon kerak.",
+  "flare": "Vinil plastinkalar bilan birga 1970-yillarning pastga qarab kengayib boradigan shimlari ham yana modaga qaytdi.",
+  "knowledgeable": "Plastinka do'konidagi xodimlar juda bilimdon.",
+  "magnetically": "Audiokassetada tovush magnit usulida saqlanadi.",
+  "nostalgia": "Odamlarning vinil sotib olishlariga sabablardan biri – o'tmishni sog'inish.",
+  "record player": "Bobom hanuz musiqani grammofonda tinglaydi.",
+  "rental": "DVD ijarasi do'konlari deyarli yo'qolib ketdi.",
+  "resurgence": "Vinil plastinkalar savdosi yana jonlandi.",
+  "revolving": "Plastinka aylanuvchi disk ustida turadi.",
+  "spokesperson": "Musiqa sanoati vakili eng so'nggi raqamlarni e'lon qildi.",
+  "steadily": "Vinil savdosi o'n besh yildan ortiq vaqt davomida barqaror o'sib kelmoqda.",
+  "streaming": "Hozir ko'pchilik musiqani striming orqali tinglaydi.",
+  "turntable": "U plastinkani aylanuvchi diskka qo'ydi.",
+  "vinyl": "Vinil plastinkalar savdosi o'nlab yillardagi eng yuqori darajaga yetdi."
  }
 });

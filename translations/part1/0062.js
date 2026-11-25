@@ -1,4 +1,4 @@
-// Part 1 topic 0062: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0062: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0062', {
  "A1": {
   "broadband": "Bizda keng polosali internet bor.",
@@ -275,5 +275,51 @@ VOCAB_TR_STORE('1', '0062', {
   "villager": "Uzoq vaqt raqamli dunyodan chetda qolgan qishloq aholisi uchun aloqa fuqarolikning yangi shaklini anglatardi.",
   "word meaning": "So'z ma'nosi uni ishlatadigan jamoaga qarab nozik tarzda o'zgarishi mumkin.",
   "write down": "Mahalliy bilimlarning ko'p qismi hech qachon yozib olinmagan va faqat xotirada saqlanib qolgan."
+ },
+ "EX": {
+  "broadband": "Ko'plab qishloq hududlarida hali ham tezkor keng polosali internet yo'q.",
+  "browser": "Brauzeringizni oching va manzilni kiriting.",
+  "cable": "Muhandislar qishloqqa yangi kabel tortishdi.",
+  "cabling": "Keng polosali internet uchun zarur kabel tarmog'i qimmatga tushadi.",
+  "climatic": "Fermerlar telefonlari orqali iqlimga oid ma'lumotlarni olishlari mumkin.",
+  "connected": "Endi ko'proq qishloqlar internetga ulangan.",
+  "conventional": "An'anaviy kabellar chekka hududlar uchun juda qimmat.",
+  "crop": "Fermerlar ekinlarini himoya qilish uchun ob-havoni tekshirib turishi mumkin.",
+  "dial": "Ilgari kompyuteringiz internetga ulanish uchun telefon raqamini terishi kerak edi.",
+  "directly": "Endi fermerlar mahsulotlarini to'g'ridan-to'g'ri xaridorlarga sotishlari mumkin.",
+  "dodgy": "Qishloqning internet aloqasi ancha ishonchsiz.",
+  "dramatically": "Internet tezligi keskin oshdi.",
+  "farming": "Mobil telefonlar Afrika qishloqlarida dehqonchilikni o'zgartirmoqda.",
+  "fertile": "Qishloq unumdor yerlar bilan o'ralgan.",
+  "fibre": "Qishloq optik tolali keng polosali internetni kutmoqda.",
+  "fibre optics": "Optik tolalar ma'lumotlarni yorug'lik impulslari ko'rinishida uzatadi.",
+  "gadget": "Mobil telefon fermerga tegishli bo'lishi mumkin bo'lgan eng foydali qurilmadir.",
+  "get off": "\"Internetdan chiq, menga telefon kerak!\"",
+  "handshake": "Chiyillagan ovoz modemlarning bir-biri bilan aloqa o'rnatishi edi.",
+  "harvest": "Ob-havo haqidagi yaxshi ma'lumot fermerlarga hosilni oshirishga yordam berishi mumkin.",
+  "idealistic": "Ba'zilarning fikricha, har bir qishloqni ulash xayoliy orzudir.",
+  "interconnect": "Internet millionlab kompyuterlarni o'zaro bog'laydi.",
+  "irregular": "Qishloqdagi signal notekis.",
+  "isolated": "Chekka qishloqlarda ko'pincha internet yomon bo'ladi.",
+  "listener": "Ba'zi tinglovchilar kommutatsiyali internetni eslashlari mumkin.",
+  "load": "Veb-sahifalar juda uzoq yuklanardi.",
+  "near": "Eng yaqin shahar ellik kilometr uzoqlikda.",
+  "optic": "Optik kabellar ma'lumotni yorug'lik ko'rinishida uzatadi.",
+  "pass by": "Internet inqilobi ba'zi qishloqlarni chetlab o'tdi.",
+  "rural": "Qishloq hududlarida internet ko'pincha sekinroq bo'ladi.",
+  "somewhat": "Aloqa avvalgidan biroz yaxshiroq.",
+  "spasmodic": "Qishloqdagi internet aloqasi uzilib-uzilib ishlaydi.",
+  "squeak": "Modem ulanayotganda uning chiyillashini eshitish mumkin edi.",
+  "telephone": "Ilk internet ulanishlari telefon orqali amalga oshirilardi.",
+  "telephone line": "Kommutatsiyali internet oddiy telefon liniyasidan foydalanardi.",
+  "tower": "Qishloq yaqinida yangi mobil aloqa minorasi qurildi.",
+  "transmission": "Minora mobil signallarni uzatish imkonini beradi.",
+  "underground": "Kabellar yer ostidan yotqiziladi.",
+  "unreliable": "Qishloqdagi keng polosali internet ko'pincha ishonchsiz bo'ladi.",
+  "untrustworthy": "Aloqaga ishonib bo'lmaydi: u tez-tez uzilib qoladi.",
+  "verbally": "Ilgari ma'lumot qishloqdan qishloqqa og'zaki yetkazilardi.",
+  "villager": "Qishloq aholisi yangi ulanishdan juda xursand bo'ldi.",
+  "word meaning": "Keling, \"spasmodic\" so'zining ma'nosini ko'rib chiqamiz.",
+  "write down": "Yangi so'zlarni yozib oling."
  }
 });

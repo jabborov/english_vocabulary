@@ -1,4 +1,4 @@
-// Part 1 topic 0239: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0239: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0239', {
  "A1": {
   "Vietnam": "Vyetnam Osiyoda joylashgan.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0239', {
   "wisely": "O'ta boylar o'z boyliklaridan oqilona foydalanadimi, bu jamoatchilik orasida tobora ko'proq muhokama qilinmoqda.",
   "yacht": "Eng katta yaxtaga ega bo'lish poygasi o'ta boylar orasidagi raqobatli sarf-xarajatning yaqqol namunasidir.",
   "yachting": "Yaxtachilik azaldan tanlanganlik bilan bog'lanib kelgan, uning xarajatlari amalda boylardan boshqa hammaga yo'lni yopib qo'ygan."
+ },
+ "EX": {
+  "Vietnam": "Vyetnamda juda boy odamlar soni keskin oshdi.",
+  "accrue": "O'ta boylar boylikni boshqalarga qaraganda ancha tez to'playdi.",
+  "art collection": "Uning san'at kolleksiyasi millionlab pul turadi.",
+  "black hole": "Yaxta pulni yutib yuboradigan qora tuynuk bo'lishi mumkin.",
+  "clear up": "Keling, \"o'ta boylar\" deganda nimani nazarda tutayotganimizni aniqlashtirib olaylik.",
+  "conspicuous": "Boylar ko'pincha o'z boyliklarini ko'z-ko'z qilishadi.",
+  "conspicuous consumption": "Ulkan yaxta sotib olish ko'z-ko'z qilish uchun iste'mol qilishning klassik namunasidir.",
+  "conversationally": "So'zlashuvda juda boy odamni \"loaded\" deb atashadi.",
+  "gravity": "Xuddi tortishish kuchi kabi, pul yana ko'proq pulni o'ziga tortadiganga o'xshaydi.",
+  "mansion": "Uning Londonda bitta, Nyu-Yorkda yana bitta qasri bor.",
+  "peck": "Tovuqlar kim boshliq ekanini ko'rsatish uchun bir-birini cho'qishadi.",
+  "pecking": "\"Pecking order\" atamasi tovuqlarning bir-birini cho'qishidan kelib chiqqan.",
+  "pecking order": "Milliarderlar orasida aniq ierarxiya mavjud.",
+  "sail": "Ular har qishda Karib dengizi bo'ylab suzib sayohat qilishadi.",
+  "sail off": "Milliarder yoz uchun yaxtasida suzib ketdi.",
+  "toy": "Milliarderlar uchun yaxta shunchaki navbatdagi qimmatbaho o'yinchoq.",
+  "ultimate": "Superyaxta — maqomning eng oliy ramzi.",
+  "wisely": "Ba'zi boylar pullarini oqilona, xayriyaga sarflashadi.",
+  "yacht": "Milliarder yozni yaxtasida o'tkazadi.",
+  "yachting": "Yaxtada sayr qilish faqat o'ta boylar qurbi yetadigan mashg'ulot."
  }
 });

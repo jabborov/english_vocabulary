@@ -1,4 +1,4 @@
-// Part 1 topic 0316: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0316: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0316', {
  "A1": {
   "about turn": "Hukumat keskin burilish qildi.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0316', {
   "neglect": "Atrof-muhit haroratining semizlikdagi roli yaqin vaqtgacha tadqiqotchilar tomonidan deyarli e'tiborsiz qoldirilgan.",
   "shiver": "Bizni titratishga yetmaydigan yengil sovuq ham moddalar almashinuvi tezligini oshirishi mumkin.",
   "turn in": "U sovuq yotoqxona moddalar almashinuvini kuchaytirishini sinab ko'rishga ahd qilib, erta yotdi."
+ },
+ "EX": {
+  "about turn": "Odamlarga isitishni pasaytirishni aytish issiq saqlanish haqidagi maslahatdan butunlay keskin burilishdir.",
+  "accustomed": "Biz issiq uylarga o'rganib qolganmiz.",
+  "burn off": "Titrash kaloriyalarni yoqishga yordam beradi.",
+  "central heating": "Markaziy isitishni pasaytirish yog' yoqishimizga yordam berishi mumkin.",
+  "chemical process": "Yog'ning yonishi kimyoviy jarayondir.",
+  "cooling system": "Terlash tananing tabiiy sovutish tizimidir.",
+  "couch potato": "Divanda yotaveradigan dangasa bo'lmang, jismoniy mashq qiling!",
+  "environmental condition": "Tanamiz sovuq kabi atrof-muhit sharoitlariga moslashadi.",
+  "fat cell": "Qo'ng'ir yog' hujayralari issiqlik hosil qilish uchun energiya sarflaydi.",
+  "heating": "Isitish tizimi ishlamayapti.",
+  "hibernate": "Ayiqlar qishda qish uyqusiga ketadi.",
+  "metabolism": "Sovuq harorat moddalar almashinuvini tezlashtirishi mumkin.",
+  "neglect": "Biz vazn ortishida haroratning rolini e'tiborsiz qoldirdik.",
+  "shiver": "Titraganimizda mushaklarimiz issiqlik hosil qilish uchun energiya sarflaydi.",
+  "turn in": "Kech bo'ldi, men uxlagani yotsam kerak."
  }
 });

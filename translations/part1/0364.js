@@ -1,4 +1,4 @@
-// Part 1 topic 0364: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0364: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0364', {
  "A1": {
   "abdication": "Taxtdan voz kechish katta yangilik bo'ldi.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0364', {
   "professional football": "Professional futbol chidamlilik va jamoaviy ishlash kabi korporativ dunyoga yaxshi ko'chadigan ko'nikmalarni o'rgatadi.",
   "regular payment": "Qirollik xonadoni davlatdan muntazam to'lov orqali moliyalashtiriladi va bu fakt ko'pincha jamoatchilik bahsiga sabab bo'ladi.",
   "sportsman": "Uning sportchi sifatidagi o'tmishi intizom va halollikka asoslangan boshqaruv uslubini shakllantirdi."
+ },
+ "EX": {
+  "abdication": "Ishxonada hamma qirolning taxtdan voz kechishi haqida gapirardi.",
+  "dory": "Men xuddi Dorining o'zginasiman — hammaning ismini unutib qo'yaveraman!",
+  "hand over": "Ta'tilga chiqishdan oldin loyihalarimni sizga topshiraman.",
+  "heartfelt": "U jamoani tark etayotganda samimiy nutq so'zladi.",
+  "hereditary": "Britaniya monarxiyasi meros orqali o'tadi.",
+  "professional football": "U kompaniyaga qo'shilishdan oldin professional futbol o'ynagan.",
+  "regular payment": "Pensiya har oy to'lanadigan muntazam to'lovdir.",
+  "sportsman": "Yangi hamkasbimiz ilgari professional sportchi bo'lgan."
  }
 });

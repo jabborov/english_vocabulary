@@ -1,4 +1,4 @@
-// Part 1 topic 0099: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0099: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0099', {
  "A1": {
   "Charles": "Charlz professor.",
@@ -215,5 +215,41 @@ VOCAB_TR_STORE('1', '0099', {
   "visually": "Ko'zni qamashtiruvchi taqdimot mijozlarni yanada nafisroq ta'm kutishga tayyorlaydi.",
   "whisky": "Tajriba bir xil viski fon musiqasiga qarab yog'ochsimon yoki shirin deb qabul qilinishi mumkinligini ko'rsatdi.",
   "zoom": "\"Zoom\" kabi so'zlar o'zlari tasvirlayotgan harakatni gavdalantiradi."
+ },
+ "EX": {
+  "Charles": "Charlz sezgilarimiz qanday hamkorlikda ishlashini o'rganadi.",
+  "appealing": "Taom ishtahani qo'zg'atadigan ko'rinishda edi.",
+  "appetizing": "Jizillagan ovoz bifshteksni yanada ishtahaliroq qildi.",
+  "bacon": "Jizillab qovurilayotgan bekonning ovozi uni yanada mazali qiladi.",
+  "bagpipe": "Volinka sadolari ostida ovqatlanish taomni ko'proq shotlandcha qilib ko'rsatishi mumkin.",
+  "classical music": "Restoranda mumtoz musiqa qo'yish taomni qimmatroq tuyulishiga olib kelishi mumkin.",
+  "cue": "Tovush bizga yeyayotgan taomimiz haqida ishoralar beradi.",
+  "eat out": "Tashqarida ovqatlanganimizda musiqa taomimizga ta'sir qiladi.",
+  "experimental psychology": "U eksperimental psixologiya professori.",
+  "gurgle": "Quyilayotgan qahvaning qultillashini eshitdim.",
+  "have a good time": "Mehmonlarimiz yaxshi vaqt o'tkazishini xohlaymiz.",
+  "hiss": "Ichimlik ochilganda vishillagan ovoz eshitildi.",
+  "hot plate": "Taom issiq tovada hali ham jizillagancha keltirildi.",
+  "intensify": "Musiqa taomning ta'mini kuchaytirishi mumkin.",
+  "jazz": "Jaz musiqasi ba'zi taomlarga mos kelishi mumkin.",
+  "linger": "Sekin musiqa mijozlarning uzoqroq o'tirib qolishiga sabab bo'ladi.",
+  "moo": "Mol go'shti yeyayotganda sigirning mo'ragan ovozini eshitish ishtahangizni bo'g'ishi mumkin.",
+  "onomatopoeia": "\"Sizzle\" va \"hiss\" so'zlari onomatopeyaga, ya'ni tovushga taqlid qiluvchi so'zlarga misol.",
+  "perceive": "Musiqa taom ta'mini qanday qabul qilishimizni o'zgartiradi.",
+  "picker": "Musiqa tanlovchi taomga mos qo'shiqlarni tanlaydi.",
+  "playlist": "Ba'zi restoranlar har bir taomga mos musiqa ro'yxatini tanlaydi.",
+  "seasoning": "Musiqa taomning ta'mini o'zgartiradigan ziravor vazifasini bajarishi mumkin.",
+  "seeing": "Taomni ko'rish uning ta'mi haqidagi tasavvurimizni o'zgartirishi mumkin.",
+  "sense of taste": "Ta'm bilish tuyg'umizga eshitgan narsalarimiz ta'sir qiladi.",
+  "singleton": "Yolg'iz yashovchilar ko'pincha quloqchinda musiqa tinglab, yolg'iz ovqatlanishadi.",
+  "sizzle": "Bifshteksning jizillashi odamlarning qornini ochiradi.",
+  "smooth": "Musiqa viskining ta'mini yumshoqroq qildi.",
+  "sonic": "Tovushli ziravor — taom ta'mini o'zgartirish uchun tovushlardan foydalanish demakdir.",
+  "steam": "Issiq sho'rvadan bug' ko'tarildi.",
+  "symbolise": "Baland notalar miyamiz uchun shirinlik ramzi bo'lishi mumkin.",
+  "tastebud": "Tilimizdagi ta'm bilish so'rg'ichlari shirin, sho'r va achchiq ta'mlarni sezadi.",
+  "visually": "Taom ko'rinishidan hayratlanarli edi.",
+  "whisky": "Turli musiqa viskining ta'mini har xil qilib yubordi.",
+  "zoom": "\"Zoom\" — ma'nosiga o'xshab eshitiladigan so'z."
  }
 });

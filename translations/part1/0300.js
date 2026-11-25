@@ -1,4 +1,4 @@
-// Part 1 topic 0300: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0300: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0300', {
  "A1": {
   "Leo": "Uning ismi Leo.",
@@ -263,5 +263,49 @@ VOCAB_TR_STORE('1', '0300', {
   "unmarried": "Ko'pincha uylanmagan va yersiz bo'lgan kenja o'g'illar baxt izlagan bezovta ritsarlar tabaqasini tashkil etgan.",
   "unmarried woman": "Saroy muhabbati she'riyati ko'pincha turmushga chiqmagan ayolni emas, balki erishib bo'lmaydigan, ba'zan turmushli ayolni ulug'lagan.",
   "warrior": "Ritsarlikka professional jangchilar tabaqasini madaniylashtirishga urinish sifatida qarash mumkin."
+ },
+ "EX": {
+  "Leo": "Leo bizga doim boshqalar uchun eshikni ochib turishini aytdi.",
+  "adventure": "O'rta asr hikoyalari jasur ritsarlarning sarguzashtlariga to'la.",
+  "archery": "Ritsarlar chavandozlik bilan birga kamondan o'q otishni ham mashq qilishgan.",
+  "aristocrat": "Ritsarlarning aksariyati yer egasi bo'lgan aristokratlar edi.",
+  "armour": "To'liq sovutning og'irligi 20 kilogrammdan oshishi mumkin edi.",
+  "associate professor": "Tarix fanlari dotsenti ritsarlikning kelib chiqishini tushuntirib berdi.",
+  "at any rate": "Har holda, bugungi ritsarona odob O'rta asrlardagidan ancha farq qiladi.",
+  "audibly": "U yigit eshikni ochib turmaganida qiz eshitilarli tarzda xo'rsindi.",
+  "battlefield": "Ritsarlar jang maydonida o'z jasoratlarini namoyon etishgan.",
+  "cardboard": "Bolaligimizda kartondan qilich va sovut yasardik.",
+  "castle": "Ritsarlar tepalik cho'qqisidagi qasrda yashashardi.",
+  "chivalry": "Ba'zilar erkaklar endi ayollar uchun eshikni ochib turmayotgani sababli ritsarona odob o'lib ketgan deyishadi.",
+  "courtly": "U saroy odobiga xos tarzda ta'zim qildi.",
+  "courtly love": "Saroy ishqi O'rta asr she'rlari va qo'shiqlarida mashhur mavzu bo'lgan.",
+  "crossbow": "Arbalet O'rta asr janglarida kuchli qurol edi.",
+  "damsel": "Hikoyalarda ritsar doim baloga qolgan go'zal qizni qutqaradi.",
+  "don": "Ritsar turnir oldidan sovutini kiydi.",
+  "dressing": "To'liq sovut kiyish uzoq vaqt olardi va buning uchun yordam kerak bo'lardi.",
+  "enactment": "Biz O'rta asr ritsarlar nayza bellashuvining sahnalashtirilgan ijrosini tomosha qildik.",
+  "faithful": "Yaxshi ritsar o'z qiroliga va xonimiga sodiq bo'lgan.",
+  "fetch": "Yosh mulozim xo'jayinining sovutini olib kelishi kerak edi.",
+  "fetching": "U O'rta asr libosida juda jozibali ko'rinardi.",
+  "horseback": "Ritsarlar odatda ot ustida jang qilishgan.",
+  "intertwine": "Ritsarlik, din va urush bir-biri bilan chambarchas bog'langan edi.",
+  "joust": "Ikki ritsar qirol oldida nayza bilan bellashdi.",
+  "jousting": "Nayza bellashuvi O'rta asr ritsarlari orasida mashhur sport turi edi.",
+  "kicking": "Ba'zilarning fikricha, ritsarona odob hali ham tirik va barhayot.",
+  "knight": "Ritsar og'ir sovut kiyib jangga ot choptirdi.",
+  "knightly": "Jasorat va sadoqat ritsarlarga xos fazilatlar hisoblangan.",
+  "lance": "Ritsar nayzasini o'qtalib oldinga otildi.",
+  "literary": "Ritsarlik haqida bilganlarimizning ko'p qismi adabiy manbalardan olingan.",
+  "love affair": "Lanselot va Ginevra hikoyasi – mashhur O'rta asr ishq qissasi.",
+  "muddle": "Ritsarlik haqidagi tasavvurlarimiz tarix va to'qimaning chalkash aralashmasidir.",
+  "pole": "Nayza – asosan uchi metalldan bo'lgan uzun yog'och xoda.",
+  "prowess": "Ritsarlarni jangdagi mahoratlari uchun hurmat qilishgan.",
+  "rusty": "Eski sovut zanglab ketgan edi.",
+  "social rank": "O'rta asrlarda ijtimoiy mavqeingiz hayotingizdagi deyarli hamma narsani belgilab berardi.",
+  "teammate": "U jarohatlangan jamoadoshiga yordam berib, haqiqiy ritsarona olijanoblik ko'rsatdi.",
+  "uncomfortably": "Yozda sovut ichida noqulay darajada issiq bo'lardi.",
+  "unmarried": "Ko'plab yosh ritsarlar zodagon oilalarning uylanmagan kenja o'g'illari edi.",
+  "unmarried woman": "Eski hikoyalarda \"damsel\" – turmushga chiqmagan yosh qiz.",
+  "warrior": "Ritsarlar avvalo jangchi, keyingina janoblar edi."
  }
 });

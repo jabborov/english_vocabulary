@@ -1,4 +1,4 @@
-// Part 1 topic 0479: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0479: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0479', {
  "A1": {
   "Dubai": "Dubayda havo issiq.",
@@ -29,5 +29,10 @@ VOCAB_TR_STORE('1', '0479', {
   "Dubai": "Agar velosiped Dubayning o'ta jaziramasida ommalasha olsa, salqinroq shaharlar buni uddalay olmaydi, deb da'vo qilish qiyin.",
   "Meredith": "Meredit velosipedda yurishni shunchaki xobbi emas, balki jiddiy transport turi sifatida ko'rish kerak, deb hisoblaydi.",
   "rest area": "To'g'ri joylashtirilgan dam olish maskanlari uzoqroq velosiped yo'nalishlarini har qanday jismoniy tayyorgarlikdagi odamlar uchun qulay qilishi mumkin."
+ },
+ "EX": {
+  "Dubai": "Hatto havo juda issiq bo'lgan Dubayda ham odamlar velosipedda yura boshlashmoqda.",
+  "Meredith": "Meredit har kuni ishga velosipedda boradi.",
+  "rest area": "Velosiped yo'lagida suv bilan ta'minlangan soyali dam olish joylari bor."
  }
 });

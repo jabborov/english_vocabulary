@@ -1,4 +1,4 @@
-// Part 1 topic 0051: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0051: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0051', {
  "A1": {
   "add on": "Ozgina tuz qo'shing.",
@@ -275,5 +275,51 @@ VOCAB_TR_STORE('1', '0051', {
   "visible": "Ish joyi siyosatida menopauzani ko'proq ko'zga tashlanadigan qilish mutlaqo oddiy tajribani odatiy holga keltirishning bir qismidir.",
   "whammy": "Uch karra zarba deb ataluvchi holat ko'plab ayollarda ish joyi shunchaki ularni hisobga olmasdan yaratilgan, degan tuyg'u uyg'otadi.",
   "workspace": "Jismoniy ish joyini moslashtirish ish beruvchi qila oladigan eng arzon va eng samarali o'zgarishlardan biridir."
+ },
+ "EX": {
+  "add on": "Bunga menopauzani ham qo'shsangiz, ayollar duch keladigan bosim yanada kattaroq bo'ladi.",
+  "ageing": "Menopauza qarishning tabiiy qismidir.",
+  "ageism": "Keksa ayollar ishda ham jinsiy, ham yosh bo'yicha kamsitishga duch kelishi mumkin.",
+  "bodily": "Issiqlik to'lqinlari va terlash tanadagi o'zgarishlardir.",
+  "bodily process": "Menopauza tanadagi tabiiy jarayondir.",
+  "career": "Ba'zi ayollar menopauza belgilari sababli kasbini tark etadi.",
+  "caregiver": "Bu yoshdagi ko'plab ayollar keksa ota-onalariga ham g'amxo'rlik qiladi.",
+  "complication": "Menopauzaning uzoq muddatli asoratlariga suyaklarning zaiflashuvi kirishi mumkin.",
+  "decline": "Menopauza gormonlar darajasining pasayishi tufayli yuz beradi.",
+  "discriminate": "Ishchilarni yoshiga qarab kamsitish qonunga ziddir.",
+  "discrimination": "Ayollar menopauza sababli kamsitishga duch kelishi mumkin.",
+  "excess": "Tungi terlash tanadagi ortiqcha issiqlik tufayli yuzaga keladi.",
+  "family doctor": "U o'z belgilari yuzasidan oilaviy shifokoriga uchrashgani bordi.",
+  "first lady": "AQShning sobiq birinchi xonimi menopauza bo'yicha o'z tajribasi haqida ochiq gapirdi.",
+  "flush": "Issiqlik to'lqinlari menopauzaning eng keng tarqalgan belgilaridan biridir.",
+  "forbid": "Ayollarga bu haqda gapirishni hech kim taqiqlamaydi, ammo ko'pchilik hamon gapira olmaydigandek his qiladi.",
+  "hot": "Majlis paytida u birdan qattiq isib ketdi.",
+  "isolate": "Ishxonada menopauza haqida gapira olmasalar, ayollar o'zlarini yolg'iz his qilishlari mumkin.",
+  "jump": "So'nggi o'n yilliklarda ishlayotgan keksa ayollar soni keskin oshdi.",
+  "menopausal": "Menopauza davridagi ayollar ishda qo'shimcha yordamga muhtoj bo'lishi mumkin.",
+  "menopause": "Ko'plab ayollar hali ishlab yurgan paytida menopauzani boshdan kechiradi.",
+  "monthly": "Menopauza ayolning oylik hayz ko'rishi tugashini anglatadi.",
+  "newsletter": "Kompaniya menopauza bo'yicha maslahatlar yozilgan axborot byulletenini yubordi.",
+  "occur": "Menopauza odatda 45 yoshdan 55 yoshgacha bo'lgan davrda yuz beradi.",
+  "openly": "U menopauza bo'yicha o'z tajribasi haqida ochiq gapirdi.",
+  "physical process": "Menopauza har bir ayol boshdan kechiradigan jismoniy jarayondir.",
+  "productive": "Ayollar menopauza davrida ham ishda juda samarali bo'lib qolishi mumkin.",
+  "professionally": "Menopauza ayollarga shaxsiy hayotda ham, kasbiy jihatdan ham ta'sir qilishi mumkin.",
+  "profile": "Mashhur ayollar bu haqda gapirgani tufayli bu masala endi ko'proq e'tibor qozonmoqda.",
+  "provider": "Ko'plab oilalarda asosiy boquvchi ayol hisoblanadi.",
+  "racism": "Ba'zi ayollar jinsiy va yoshga ko'ra kamsitish ustiga irqchilikka ham duch keladi.",
+  "role": "Ayollar ko'pincha ko'p rolni bajaradi: xodim, ona va g'amxo'r.",
+  "sexism": "Ko'plab ish joylarida jinsiy kamsitish hamon mavjud.",
+  "speak up": "Endi ko'proq ayollar menopauza haqida ochiq gapirishmoqda.",
+  "surplus": "U ishxonada o'zini ortiqcha, keraksiz odam sifatida ko'rishayotgandek his qildi.",
+  "sweat": "Menopauza davrida ba'zi ayollar kechasi qattiq terlaydi.",
+  "symptom": "Issiqlik to'lqinlari va yomon uyqu menopauzaning keng tarqalgan belgilaridir.",
+  "taboo": "Uzoq vaqt davomida ishxonada menopauza haqida gapirish taqiqlangan mavzu edi.",
+  "uncomfortable": "Ko'pchilik menopauza haqida gapirishdan noqulay his qiladi.",
+  "unequal": "Ayollar ishda hamon tengsiz munosabatga duch kelmoqda.",
+  "vary": "Menopauza belgilari har bir ayolda turlicha bo'ladi.",
+  "visible": "Menopauzaning ba'zi belgilari hamkasblarga ko'rinib turadi.",
+  "whammy": "Keksa ayollar jinsiy kamsitish, yoshga ko'ra kamsitish va menopauzadan iborat uch tomonlama zarbaga duch keladi.",
+  "workspace": "Salqinroq ish joyi issiqlik to'lqinlaridan aziyat chekayotgan ayollarga yordam berishi mumkin."
  }
 });

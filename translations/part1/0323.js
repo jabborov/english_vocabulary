@@ -1,4 +1,4 @@
-// Part 1 topic 0323: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0323: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0323', {
  "A1": {
   "acidification": "Kislotalanish muammodir.",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('1', '0323', {
   "vaquita": "Vakitaning ayanchli ahvoli kit ovlashni taqiqlashning o'zi har bir kitsimon turini himoya qila olmasligini ko'rsatadi.",
   "whaler": "Zamonaviy kit ovlovchilarning sanoat samaradorligi yigirmanchi asrda ko'plab turlarni yo'q bo'lib ketish yoqasiga keltirdi.",
   "whaling": "Kit ovlashning tanazzulga uchrashi jamiyatning dengiz hayotiga munosabatidagi tub o'zgarishni aks ettiradi."
+ },
+ "EX": {
+  "acidification": "Okeanning kislotalanishi kitlar yeydigan ozuqaga tahdid soladi.",
+  "at sea": "Kit ovchilari oylab dengizda bo'lishardi.",
+  "badger": "Bo'rsiqdan farqli o'laroq, kitni tabiatda ko'rish juda qiyin.",
+  "beluga": "Beluga Arktika dengizlarida uchraydigan kichik oq kitdir.",
+  "convey": "Kitlarning qo'shiqlari uzoq masofalarga ma'lumot yetkazishi mumkin.",
+  "devastation": "Kit ovlash kitlar populyatsiyasiga katta vayronagarchilik keltirdi.",
+  "harpoon": "Kit ovchilari kitlarni o'ldirish uchun garpunlardan foydalanishgan.",
+  "hr": "Ba'zi kitlar 1 soatdan ko'proq vaqt suv ostida sho'ng'ib yura oladi.",
+  "humpback": "Biz bukri kitning dengizdan sakrab chiqqanini ko'rdik.",
+  "humpback whale": "Bukri kitlar o'z qo'shiqlari bilan mashhur.",
+  "killing": "O'tmishda foyda uchun kitlarni o'ldirish keng tarqalgan edi.",
+  "moratorium": "Tijorat maqsadida kit ovlashga moratoriy 1986-yilda boshlangan.",
+  "public opinion": "1970-yillarda jamoatchilik fikri kit ovlashga qarshi bo'lib qoldi.",
+  "pygmy": "Pakana silliq kit mo'ylovli kitlarning eng kichigidir.",
+  "rare earth": "Dengiz tubidan noyob yer metallarini qazib olish kitlarga zarar yetkazishi mumkin.",
+  "rib": "Kitning qovurg'alari ulkan bo'ladi.",
+  "right whale": "Silliq kit o'z nomini ovchilar uni o'ldirish uchun \"to'g'ri\" kit deb hisoblaganlari uchun olgan.",
+  "skilful": "Kit ovchilari mohir dengizchilar edi.",
+  "suspension": "Moratoriy tijorat maqsadida kit ovlashni to'xtatib qo'yish edi.",
+  "turning": "Bandargohga yetib borish uchun chapdagi ikkinchi burilishga buriling.",
+  "turning point": "Moratoriy kitlar uchun burilish nuqtasi bo'ldi.",
+  "vaquita": "Vakita dunyodagi eng noyob dengiz sutemizuvchilaridan biridir.",
+  "whaler": "Bir paytlar kit ovchilari har yili minglab kitlarni ovlashgan.",
+  "whaling": "Ko'pchilik mamlakatlarda tijorat maqsadida kit ovlash taqiqlangan."
  }
 });

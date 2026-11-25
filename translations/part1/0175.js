@@ -1,4 +1,4 @@
-// Part 1 topic 0175: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0175: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0175', {
  "A1": {
   "China": "Xitoy katta.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0175', {
   "unbelievable": "Bir avlod uchun aql bovar qilmaydigan narsa ko'pincha keyingi avlod uchun o'z-o'zidan tushunarli bo'lib qoladi.",
   "vacuum": "Yuzlab kilometrlik quvurda deyarli vakuum holatini saqlab turish juda katta muammodir.",
   "vacuum tube": "Butun mamlakatlar bo'ylab vakuum quvurlarini qurish tasavvur qilib bo'lmaydigan mablag'larni talab qiladi."
+ },
+ "EX": {
+  "China": "Xitoy dunyodagi eng katta tezyurar temir yo'l tarmog'iga ega.",
+  "Japan": "Yaponiya tezyurar poyezdlari bilan mashhur.",
+  "air travel": "Havo orqali sayohat tez, lekin atrof-muhit uchun zararli.",
+  "automation": "Avtomatlashtirish poyezd va mashinalarni boshqarish usulini o'zgartiradi.",
+  "build on": "Kelajak transporti bugungi texnologiyalarga asoslanadi.",
+  "cart": "Qadimda odamlar ot-aravada sayohat qilishgan.",
+  "coffee shop": "Kelajak poyezdlari g'ildirakli qahvaxonaga o'xshab qolishi mumkin.",
+  "commonplace": "Haydovchisiz avtomobillar tez orada odatiy holga aylanishi mumkin.",
+  "engineering": "Maglev poyezdlari muhandislikning ajoyib namunasidir.",
+  "fetched": "Vakuum quvurida sayohat qilish g'oyasi eshitilganidek aqlga sig'maydigan narsa emas.",
+  "freight": "Kelajak poyezdlari yuklarni yuqori tezlikda tashishi mumkin.",
+  "freight train": "Yuk poyezdi mamlakat bo'ylab tovarlar tashiydi.",
+  "in large quantities": "Yuk poyezdlari tovarlarni katta hajmlarda tashiydi.",
+  "insert": "Chiptangizni apparatga kiriting.",
+  "intervention": "Haydovchisiz poyezdlar inson aralashuvisiz harakatlanadi.",
+  "kilometres per hour": "Maglev poyezdlari soatiga 600 kilometr tezlikda harakatlana oladi.",
+  "levitation": "Magnitlar poyezdning havoda muallaq turishini ta'minlaydi.",
+  "maglev": "Maglev poyezdi relsdan yuqorida havoda suzib boradi.",
+  "magnetic levitation": "Maglev - magnit levitatsiyasining qisqartmasi.",
+  "prevalent": "Avtomobillar hamon eng keng tarqalgan transport turi bo'lib qolmoqda.",
+  "priority": "Kelajak transportida xavfsizlik birinchi o'rindagi ustuvor masala.",
+  "quicker": "Maglev poyezdlari oddiy poyezdlardan tezroq.",
+  "rail": "Oddiy poyezdlar metall relslarda yuradi.",
+  "resistance": "Havo qarshiligi tezyurar poyezdlarni sekinlashtiradi.",
+  "unbelievable": "Maglev poyezdlarining tezligi aql bovar qilmas darajada.",
+  "vacuum": "Vakuumda havo qarshiligi bo'lmaydi.",
+  "vacuum tube": "Yo'lovchilar vakuum quvuri orqali yuqori tezlikda sayohat qilishlari mumkin."
  }
 });

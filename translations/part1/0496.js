@@ -1,4 +1,4 @@
-// Part 1 topic 0496: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0496: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0496', {
  "A1": {
   "Peter": "Piter muxbir.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0496', {
   "trusted": "Ishonchli manba sifatida obro' qozonish uchun yillar kerak bo'ladi, uni esa bir kechada yo'qotish mumkin.",
   "upper hand": "Muzokaralarda tomonlarning hech biri ustunlikka erisha olmadi.",
   "verifier": "Professional tekshiruvchilar endi har bir yirik tahririyatning muhim qismiga aylangan."
+ },
+ "EX": {
+  "Peter": "Piter axborot tashkilotlari aholidan kelgan videolarni qanday tekshirishini tushuntirib berdi.",
+  "analyser": "Endi jurnalistning vazifasi — axborot tahlilchisi bo'lish.",
+  "democratisation": "Internet yangiliklarning demokratlashuviga olib keldi.",
+  "finder": "Endi jurnalistlar jamoatchilik allaqachon tarqatgan voqealarni topuvchilardir.",
+  "mediator": "Jurnalistlar jamoatchilik va faktlar o'rtasida vositachi vazifasini bajaradi.",
+  "penetration": "Smartfonlarning keng tarqalishi fuqarolik jurnalistikasini mumkin qildi.",
+  "redact": "Hisobotdagi ba'zi ismlar qora bo'yoq bilan berkitilgan edi.",
+  "time and time again": "Qayta-qayta oddiy odamlar voqealarni jurnalistlar yetib kelmasidan oldin suratga olishadi.",
+  "trusted": "Odamlar hamon yangiliklarni ishonchli manbadan olishni afzal ko'rishadi.",
+  "upper hand": "Ijtimoiy tarmoqlar tezkor yangiliklarda fuqarolarga ustunlik beradi.",
+  "verifier": "Axborot tashkilotlari aholidan kelgan videolarni tekshirish uchun tekshiruvchilarni ishga oladi."
  }
 });

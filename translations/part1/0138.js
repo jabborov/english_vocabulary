@@ -1,4 +1,4 @@
-// Part 1 topic 0138: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0138: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0138', {
  "A1": {
   "advantageous": "Bu foydali.",
@@ -227,5 +227,43 @@ VOCAB_TR_STORE('1', '0138', {
   "smash": "Nazariyaga ko'ra, birgina sindirilgan deraza qarovsizlikdan darak berib, yangi vandalizmga yo'l ochadi.",
   "subtle": "Turtkilar shu qadar nozik bo'lgani uchun tanqidchilar ularni manipulyatsiya bo'lishi mumkin deb ta'kidlashadi.",
   "undermine": "Haddan tashqari ko'p qo'llanilsa, turtki berish o'zi hurmat qilaman deb da'vo qiladigan mustaqillikning o'ziga putur yetkazishi mumkin."
+ },
+ "EX": {
+  "advantageous": "Bu turtki do'konlar uchun ham, jamoatchilik uchun ham foydali.",
+  "advertiser": "Reklama beruvchilar yillar davomida turtkilardan foydalanib kelishgan.",
+  "antisocial": "Turtkilar axlat tashlash kabi jamiyatga zid xatti-harakatlarni kamaytirishi mumkin.",
+  "appointment": "SMS-eslatmalar odamlarga shifokor qabulini eslab qolishga yordam beradi.",
+  "authority": "Odamlar hokimiyat tomonidan nima qilish kerakligini aytishlarini har doim ham yoqtirishmaydi.",
+  "autonomy": "Odamlar o'z mustaqilligini qadrlaydi va o'zlarini manipulyatsiya qilishlarini yoqtirmaydi.",
+  "bark": "It hurganini eshitib, o'g'ri qochib qoldi.",
+  "beneficial": "Turtkilar ular yo'naltirilgan odamlarga foyda keltirishi kerak.",
+  "breaker": "Qoidabuzarlar o'zlarini kuzatilayotgandek his qilganda, qoidani buzishga kamroq jur'at qiladi.",
+  "brightly": "Panjurlar yorqin ranglarga bo'yalgan edi.",
+  "button": "\"Hozir sotib olish\" tugmasi bejiz katta va yorqin qilinmagan.",
+  "checkout": "Supermarketlar shokoladni kassa yoniga qo'yadi.",
+  "chocolate bar": "Navbatda turganda shokolad batonchigini olmaslik qiyin.",
+  "coloured": "Do'konlar rang-barang panjurlar o'rnatishdi.",
+  "concentrate on": "Hukumatlar odamlarga yordam beradigan turtkilarga e'tibor qaratishi kerak.",
+  "executive": "U xulq-atvor fanlari bo'yicha kompaniyada rahbar lavozimida ishlaydi.",
+  "filthy": "Eski panjurlar juda iflos va graffiti bilan qoplangan edi.",
+  "gently": "Turtkilar odamlarni yumshoqlik bilan yaxshiroq tanlovga undaydi.",
+  "impulsively": "Kassa yonidagi shirinliklar bizni o'ylamasdan xarid qilishga undaydi.",
+  "local authority": "Mahalliy hokimiyat panjurlarni tezda ta'mirladi.",
+  "looking": "Ular ularni chiroyliroq ko'rinishdagi panjurlarga almashtirishdi.",
+  "make good": "Kengash zararni tezda bartaraf etdi.",
+  "manky": "Panjurlar iflos va graffiti bilan qoplangan edi.",
+  "morality": "Ba'zilar turtki usulining axloqiyligiga shubha bildiradi.",
+  "nicely": "Panjurlar chiroyli qilib bo'yalgan edi.",
+  "nudge": "Yaxshi turtki odamlarga sog'lomroq tanlov qilishga yordam berishi mumkin.",
+  "nudging": "Hozirda ko'plab hukumatlar turtki usulidan foydalanadi.",
+  "out of sight": "Agar shirinliklar ko'z oldimizda bo'lmasa, ularni kamroq yeymiz.",
+  "paternalistic": "Tanqidchilar turtki usulini homiylik qiluvchi, odamlarga ota-onadek aralashuvchi yondashuv deb aytishadi.",
+  "persuasion": "Turtkilar ishontirishning yumshoq shaklidir.",
+  "publication": "Turtki nazariyasi 2008-yilda bir kitob nashr etilganidan keyin mashhur bo'ldi.",
+  "shop window": "Singan do'kon oynasi ko'chani xavfli ko'rsatardi.",
+  "shutter": "Do'konlar kechasi temir panjurlarini tushirib qo'yishdi.",
+  "smash": "Kecha kimdir derazani sindirib tashladi.",
+  "subtle": "Turtkilar sezilmas darajada nozik bo'ladi - ko'pincha ularni payqamaysiz ham.",
+  "undermine": "Tanqidchilar turtkilar odamlarning erkinligiga putur yetkazishi mumkinligidan xavotirda."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0495: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0495: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0495', {
  "A1": {
   "air pump": "Menga havo nasosi kerak.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0495', {
   "syndrome": "Ushbu sindromga chalingan bemorlar ko'pincha oxir-oqibat transplantatsiyaga muhtoj bo'ladi.",
   "transplant": "Tibbiyotdagi yutuqlar transplantatsiyalarni avvalgidan ancha xavfsizroq qildi.",
   "valve": "Nosoz klapanlar yurakni odatdagidan ancha ko'proq zo'riqib ishlashga majbur qilishi mumkin."
+ },
+ "EX": {
+  "air pump": "Sun'iy yurakni havo nasosi harakatga keltiradi.",
+  "cardiologist": "Kardiolog sun'iy yurak qanday ishlashini tushuntirib berdi.",
+  "compressed": "Ryukzagidagi nasos siqilgan havo bilan ishlaydi.",
+  "liver": "Shifokorlar uning jigari va buyraklarini ham tekshirishdi.",
+  "mechanical device": "Mexanik qurilma qonni uning tanasi bo'ylab haydardi.",
+  "organ donor": "U mos keladigan organ donorini kutdi.",
+  "pastor": "Pastor kasalxonadagi bemorni ko'rgani bordi.",
+  "pressurised": "Nasos bosim ostidagi havoni naychalar orqali yuboradi.",
+  "rucksack": "U o'zini hayotda saqlab turgan apparatni ryukzakda olib yurardi.",
+  "spiritually": "Uning aytishicha, operatsiyadan keyin o'zini ruhan kuchliroq his qilgan.",
+  "syndrome": "Unda yurakning noyob sindromi bor edi.",
+  "transplant": "U yurak ko'chirib o'tkazilishini oylab kutdi.",
+  "valve": "Yurak klapanlaridan biri yaxshi ishlamayotgan edi."
  }
 });

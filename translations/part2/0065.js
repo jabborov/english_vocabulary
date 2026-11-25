@@ -1,4 +1,4 @@
-// Part 2 topic 0065: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0065: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0065', {
  "A1": {
   "Beaux Arts": "Bu Beaux Arts uslubida.",
@@ -269,5 +269,50 @@ VOCAB_TR_STORE('2', '0065', {
   "stir": "Kamdan-kam binolar Raytning spiralsimon muzeyi kabi ko'p bahs-munozaraga sabab bo'lgan.",
   "to date": "Hozirgi kunga qadar boshqa hech bir muzey uning dizaynini muvaffaqiyatli takrorlay olmagan.",
   "variety": "Bino hayratdan tortib ochiq dushmanlikkacha bo'lgan turli xil munosabatlarni uyg'otgan."
+ },
+ "EX": {
+  "Beaux Arts": "Ko'plab eski muzeylar Bozar uslubida qurilgan.",
+  "altogether": "Bu mutlaqo yangi turdagi bino edi.",
+  "artistic style": "Har bir badiiy uslubning o'z qoidalari bor.",
+  "bulbous": "Ba'zilarga bino qavarib chiqqandek tuyuldi.",
+  "come off": "G'ayrioddiy dizayn o'zini oqladimi?",
+  "construct": "Muzey 1950-yillarda qurilgan.",
+  "controversy": "Muzey ochilganida bahs-munozaralarga sabab bo'lgan.",
+  "creation": "Muzey Frank Lloyd Raytning so'nggi buyuk ijodi edi.",
+  "creator": "Frank Lloyd Rayt muzeyning yaratuvchisi edi.",
+  "cripple": "Tanqidchilar dizayn san'at asarlarini namoyish etishni izdan chiqaradi, deyishdi.",
+  "critic": "Ba'zi tanqidchilar avvaliga binoni yomon ko'rishgan.",
+  "current": "Hozirgi ko'rgazma zamonaviy rangtasvirga bag'ishlangan.",
+  "curve": "Muzey devorlari mayin egri chiziq bo'ylab davom etadi.",
+  "definite": "Rayt dizayn haqida juda aniq g'oyalarga ega edi.",
+  "deform": "Qiya devorlar rasmlarni buzib ko'rsatayotgandek tuyulardi.",
+  "do well": "So'nggi 50 yil davomida muzey muvaffaqiyatli faoliyat yuritdi.",
+  "envisage": "Rayt tashrif buyuruvchilar liftda tepaga chiqib, pastga piyoda tushishlarini ko'zda tutgan.",
+  "fire": "Bino ochilganida tanqidchilarning qattiq tanqidiga uchradi.",
+  "get it": "Ba'zi tashrif buyuruvchilar buni shunchaki tushunishmaydi.",
+  "gist": "Har bir so'zni tushunmadim, lekin asosiy mazmunini angladim.",
+  "have in mind": "Rayt uni loyihalashtirganda nimani nazarda tutgan edi?",
+  "highly": "Bino juda g'ayrioddiy.",
+  "imaginative": "Bu juda ijodiy fikr bilan qurilgan bino.",
+  "landmark": "Muzey hozir Nyu-Yorkning mashhur diqqatga sazovor joyidir.",
+  "look across": "Qiya yo'lakdan narigi tomonga qarash mumkin.",
+  "look like": "Ba'zilar muzey kir yuvish mashinasiga o'xshaydi deyishdi.",
+  "maim": "Rassomlar egri devorlar rasmlarini mayib qiladi, deb shikoyat qilishdi.",
+  "normally": "Muzeylar odatda to'rtburchak binolar bo'ladi.",
+  "overlook": "Muzeydan Markaziy bog' ko'rinib turadi.",
+  "previously": "Ilgari muzeylar odatda to'g'ri to'rtburchak shaklida bo'lardi.",
+  "railway": "Temir yo'l shahar yonidan o'tadi.",
+  "railway station": "Ba'zi eski muzeylar temir yo'l vokzaliga o'xshaydi.",
+  "reasoning": "Rayt spiral dizayn ortidagi mulohazalarini tushuntirib berdi.",
+  "reinvent": "Rayt muzeyni yangicha talqin qilmoqchi edi.",
+  "revamp": "Muzey 50 yilligi munosabati bilan yangilandi.",
+  "shed": "Rayt an'anaviy muzeylar omborxonaga o'xshaydi, degan.",
+  "sociable": "Ochiq dizayn muzeyda samimiy muhit yaratadi.",
+  "spacious": "Muzeyning markaziy qismi juda keng.",
+  "sphere": "Bino dumaloq, lekin u shar emas.",
+  "spiral": "Muzey spiral shaklida qurilgan.",
+  "stir": "Dizayn ko'plab bahs-munozaralarga sabab bo'ldi.",
+  "to date": "Bu hozirgacha Nyu-Yorkdagi eng mashhur binolardan biri hisoblanadi.",
+  "variety": "Muzeyda turli xil zamonaviy san'at asarlari namoyish etiladi."
  }
 });

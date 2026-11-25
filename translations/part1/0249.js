@@ -1,4 +1,4 @@
-// Part 1 topic 0249: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0249: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0249', {
  "A1": {
   "Korea": "Men Koreyaga borishni xohlayman.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0249', {
   "palace": "Qirollik saroylarining uzrlari qat'iy va puxta qoidalarga amal qiladi.",
   "tug": "Quloq solinchoqlarini tortish uzrga hamroh bo'ladigan ramziy o'z-o'zini jazolash harakatidir.",
   "upfront": "Tez va halol aytilgan ochiqchasiga uzr ko'pincha eng samarali bo'ladi."
+ },
+ "EX": {
+  "Korea": "Koreyada qanday uzr so'rashingiz kim bilan gaplashayotganingizga bog'liq.",
+  "Liza": "Liza o'z mamlakatida odamlar qanday uzr so'rashini tushuntirdi.",
+  "bow down": "Yaponiyada odamlar uzr so'rash uchun egilib ta'zim qilishadi.",
+  "dictate": "Qanday uzr so'rashimizni madaniyat belgilaydi.",
+  "disrespectful": "To'g'ri uzr so'ramaslik hurmatsizlik bo'lib tuyulishi mumkin.",
+  "earlobe": "Hindistonning ayrim hududlarida odamlar uzr so'rash uchun quloq solinchaklarini tortishlari mumkin.",
+  "honorific": "Koreys tilida kattalardan uzr so'raganda hurmat shakllari ishlatiladi.",
+  "honour": "Ba'zi madaniyatlarda to'g'ri uzr so'rash sha'ningizni tiklaydi.",
+  "kneel": "U uzr so'rash uchun tiz cho'kishga majbur bo'ldi.",
+  "kneel down": "Ba'zi madaniyatlarda odamlar uzr so'rash uchun tiz cho'kishadi.",
+  "lob": "Kimgadir shunchaki shoshib \"kechirasiz\" deb otib yubormang.",
+  "palace": "Saroy matbuot kotibi uzr so'radi.",
+  "tug": "U uzr so'rash uchun quloq solinchaklarini tortdi.",
+  "upfront": "Ochiqchasiga aytib, xatoingizni tan olgan yaxshiroq."
  }
 });

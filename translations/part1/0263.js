@@ -1,4 +1,4 @@
-// Part 1 topic 0263: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0263: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0263', {
  "A1": {
   "Cleopatra": "Kleopatra malika bo'lgan.",
@@ -209,5 +209,40 @@ VOCAB_TR_STORE('1', '0263', {
   "tragedy": "Fojia nafaqat ularning o'limida, balki mustaqil Misrning barham topishidadir.",
   "underrate": "Kleopatraning davlat boshqaruvi mahoratini past baholash uning Rimlik dushmanlari rivoyatini tanqidsiz qabul qilish demakdir.",
   "wily": "Kleopatraning ayyor degan obro'si uning haqiqiy xatti-harakatlaridan ko'ra Rimning dushmanligiga ko'proq bog'liq."
+ },
+ "EX": {
+  "Cleopatra": "Kleopatra ko'plab tillarda gapirgan va mohir hukmdor bo'lgan.",
+  "alliance": "Kleopatra Yuliy Sezar bilan ittifoq tuzdi.",
+  "ancient history": "Kleopatra qadimgi tarixdagi eng mashhur shaxslardan biridir.",
+  "arguably": "Kleopatrani qadimgi tarixdagi eng mashhur ayol deyish mumkin.",
+  "asp": "Rivoyatga ko'ra, Kleopatra Misr ko'zoynakli iloni chaqishidan vafot etgan.",
+  "astronomy": "Kleopatra fanga, jumladan astronomiyaga qiziqqan.",
+  "barge": "Kleopatra Antoniy bilan uchrashish uchun hashamatli kemada suzib bordi.",
+  "basket": "Xizmatkor unga bir savat meva olib keldi.",
+  "calculated": "Uning ta'sirli kirib kelishi Sezarni hayratga solish uchun puxta o'ylangan qadam edi.",
+  "carpet": "Rivoyatga ko'ra, Kleopatrani gilamga o'rab, Yuliy Sezarning huzuriga olib kelishgan.",
+  "estimation": "Ko'plab tarixchilarning bahosiga ko'ra, Kleopatra ajoyib hukmdor bo'lgan.",
+  "fatally": "Rivoyatga ko'ra, Kleopatrani ilon chaqib, halok qilgan.",
+  "fig": "Aytishlaricha, ilon anjir to'la savatga yashirilgan ekan.",
+  "god": "Misr hukmdorlari tirik xudolar deb qaralgan.",
+  "golden": "Kleopatra oltin kemada yetib keldi.",
+  "gorgeous": "Filmlarda Kleopatra odatda nihoyatda go'zal qilib ko'rsatiladi.",
+  "hairpin": "U zaharni ichi bo'sh soch to'g'nag'ichiga yashirgan bo'lishi mumkin.",
+  "jury": "Kleopatra aslida qanchalik go'zal bo'lgani haqida hali bir to'xtamga kelinmagan.",
+  "linen": "Kleopatrani zig'ir matosidan tikilgan qopda yashirincha olib kirishgan bo'lishi mumkin.",
+  "mistakenly": "Mark Antoniy adashib, Kleopatrani o'lgan deb o'yladi.",
+  "oratory": "Kleopatra notiqlik san'ati va yoqimli ovozi bilan mashhur edi.",
+  "poisoned": "Ba'zi tarixchilar u zaharlangan soch to'g'nag'ichidan foydalangan deb hisoblaydi.",
+  "portrait": "Tangalarda Kleopatraning katta burunli portreti tasvirlangan.",
+  "regard as": "Kleopatra ko'pincha buyuk go'zal deb hisoblanadi.",
+  "sack": "Uni qop ichiga yashirib, saroyga olib kirishdi.",
+  "shimmering": "Uning kemasida yaltiroq binafsharang yelkanlar bor edi.",
+  "snake": "Kleopatra ko'pincha qo'lida ilon ushlagan holda tasvirlanadi.",
+  "sole": "Akasi vafot etgach, Kleopatra Misrning yagona hukmdoriga aylandi.",
+  "spectacle": "Kleopatraning Mark Antoniy bilan uchrashuvga kelishi ajoyib tomosha bo'lgan.",
+  "tomb": "Kleopatraning maqbarasi hali hanuz topilmagan.",
+  "tragedy": "Antoniy va Kleopatra hikoyasi fojia bilan tugaydi.",
+  "underrate": "Tarixchilarning fikricha, Kleopatraning aql-zakovati yetarlicha baholanmagan.",
+  "wily": "Kleopatra hokimiyatni qanday saqlab qolishni biladigan ayyor siyosatchi edi."
  }
 });

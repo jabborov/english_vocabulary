@@ -1,4 +1,4 @@
-// Part 1 topic 0347: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0347: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0347', {
  "A1": {
   "accountant": "U buxgalter.",
@@ -35,5 +35,11 @@ VOCAB_TR_STORE('1', '0347', {
   "bb": "\"Bb\" kabi norasmiy qisqartmalar xalqaro biznes muloqotida tushunmovchilikning keng tarqalgan manbaidir.",
   "call back": "Qachon qayta qo'ng'iroq qilishingizni aniq tasdiqlash ofislar o'rtasidagi ko'p chalkashlikning oldini olishi mumkin.",
   "golden rule": "Madaniyatlararo muloqotning oltin qoidasi — aytmoqchi bo'lgan fikringiz o'z-o'zidan ravshan deb hech qachon taxmin qilmaslik."
+ },
+ "EX": {
+  "accountant": "Hisobchi ko'rsatmalarni noto'g'ri tushunib qoldi.",
+  "bb": "Xabarlardagi \"bb\" kabi qisqartmalar tushunmovchiliklarga olib kelishi mumkin.",
+  "call back": "Keyinroq qayta qo'ng'iroq qila olasizmi, iltimos?",
+  "golden rule": "Oltin qoida — to'g'ri tushunganingizni tekshirib ko'rish."
  }
 });

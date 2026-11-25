@@ -1,4 +1,4 @@
-// Part 2 topic 0074: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0074: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0074', {
  "A1": {
   "advert": "Men reklamani ko'rdim.",
@@ -239,5 +239,45 @@ VOCAB_TR_STORE('2', '0074', {
   "tablet": "Shifokorlar qaramlik xavfi tufayli uyqu tabletkalarini buyurishdan ehtiyot bo'ladilar.",
   "tart": "Nordon olcha sharbati ko'pincha uyqusizlikka qarshi tabiiy vosita sifatida reklama qilinadi.",
   "will": "Birgina iroda kamdan kam hollarda yetarli bo'ladi; muhit qo'llab-quvvatlaganda odatlarni o'zgartirish osonroq."
+ },
+ "EX": {
+  "advert": "Uyqu dorilari reklamasini ko'rdim.",
+  "at large": "Yomon uyqu butun jamiyat uchun muammodir.",
+  "bullet": "Sog'lom ovqatlanish ham mo'jizaviy yechim emas.",
+  "cherry": "Gilos tarkibida tabiiy uyqu gormoni bor.",
+  "consumable": "Ovqat, ichimlik va qo'shimchalar – bularning barchasi iste'mol mahsulotlari.",
+  "contain": "Sut tarkibida uyquga yordam berishi mumkin bo'lgan modda bor.",
+  "continuously": "Yetti soat uzluksiz uxlashga harakat qiling.",
+  "dairy": "Sut kabi sut mahsulotlari uxlashga yordam berishi mumkin.",
+  "dairy product": "Pishloq sut mahsulotidir.",
+  "effective": "Sut uxlashga yordam beradigan samarali vositami?",
+  "evaluate": "Olimlar ovqatlanish uyquga qanday ta'sir qilishini baholashdi.",
+  "feed": "Tanamizni nima bilan oziqlantirishimiz uyqumizga ta'sir qiladi.",
+  "fibre": "Ko'proq kletchatka iste'mol qilish qattiq uxlashga yordam berishi mumkin.",
+  "for a while": "Bir muddat uyg'oq yotdim.",
+  "get in": "Sakkiz soat uxlab olishga harakat qiling.",
+  "go to sleep": "Juda kech ovqatlansam, uxlay olmayman.",
+  "grain": "Butun donli mahsulotlar sog'liq uchun foydali.",
+  "immediately": "Darhol uxlab qolishni kutmang.",
+  "in reality": "Odamlar iliq sut yordam beradi deb o'ylashadi, lekin aslida uning ta'siri kichik.",
+  "intake": "Yaxshiroq uxlash uchun shakar iste'molini kamaytiring.",
+  "kiwi": "Uxlashdan oldin bitta kivi yeng.",
+  "kiwi fruit": "Uxlashdan oldin kivi mevasini yeyish uyquni yaxshilashi mumkin.",
+  "lab": "Tadqiqot uyqu laboratoriyasida o'tkazildi.",
+  "laboratory": "Olimlar uyquni laboratoriyada o'rganishdi.",
+  "lie in": "Yakshanba kunlari ertalab to'shakda uzoqroq yotishni yaxshi ko'raman.",
+  "look for": "Ko'p odamlar yaxshiroq uxlashning tezkor yo'lini izlashadi.",
+  "magic bullet": "Yaxshiroq uxlash uchun mo'jizaviy yechim yo'q.",
+  "magical": "Uxlatib qo'yadigan sehrli ovqat yo'q.",
+  "nutrient": "Ba'zi ozuqa moddalari uxlashga yordam berishi mumkin.",
+  "period of time": "Uzoq vaqt davomida uxlashingiz kerak.",
+  "powder": "U ichimligiga uyqu kukunini aralashtirdi.",
+  "saturate": "To'yingan yog'larga boy ovqat uyquni buzishi mumkin.",
+  "sleep in": "Shanba kunlari odatda kech turaman.",
+  "struggle": "Ko'p odamlar uxlab qolishga qiynaladi.",
+  "supplement": "Ba'zi odamlar uxlashga yordam berishi uchun biologik faol qo'shimcha ichishadi.",
+  "tablet": "Uxlashdan oldin bitta tabletka iching.",
+  "tart": "Nordon olcha sharbati uxlashga yordam berishi mumkin.",
+  "will": "Ovqatlanishni o'zgartirish uchun iroda kerak."
  }
 });

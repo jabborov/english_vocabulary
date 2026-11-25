@@ -1,4 +1,4 @@
-// Part 1 topic 0377: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0377: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0377', {
  "A1": {
   "birdsong": "Men qushlarning sayrashini yaxshi ko'raman.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0377', {
   "warbler": "Ba'zi chittaklar tashqi ko'rinishdan deyarli bir xil bo'lib, ularni faqat sayrashiga qarab farqlash mumkin.",
   "whitethroat": "Bo'zchittakning g'adir-budur, g'ayratli sayrashi yoz boshida butazorlarning mumtoz tovushidir.",
   "wood warbler": "O'rmon chittagining tobora tezlashib boruvchi sayrashi eman o'rmonining eng o'ziga xos tovushlaridan biridir."
+ },
+ "EX": {
+  "birdsong": "Ko'p odamlar qushlarning sayrashini juda tinchlantiruvchi deb bilishadi.",
+  "blackbird": "Qoraqush Britaniyadagi eng go'zal sayraydigan qushlardan biridir.",
+  "chirp": "Tashqarida chumchuqlarning chirqillashi eshitilib turardi.",
+  "chorus": "Qushlarning tonggi xori quyosh chiqishidan sal oldin boshlanadi.",
+  "cognitively": "Ba'zi qushlar kognitiv jihatdan juda rivojlangan.",
+  "high pitch": "Ba'zi qushlarning sayrashi shunchalik baland chastotadaki, keksa odamlar ularni eshita olmaydi.",
+  "nightjar": "Echkiemar shom paytida g'alati g'uvillagan ovoz chiqaradi.",
+  "radio station": "Dastur milliy radiostansiyada efirga uzatildi.",
+  "scavenger": "Qarg'alar deyarli hamma narsani yeydigan aqlli o'limtikxo'rlardir.",
+  "screech": "Boyqush qorong'ida dahshatli chiyilladi.",
+  "springtime": "Bahorda qushlar juft topish uchun sayrashadi.",
+  "sunrise": "Qushlar quyosh chiqishidan bir soat oldin sayray boshlaydi.",
+  "trill": "Qush qo'shig'ini uzun sayrash bilan yakunladi.",
+  "warbler": "Har bahorda Britaniyaga qo'shiqchi qushlarning bir necha turi uchib keladi.",
+  "whitethroat": "Bo'z qo'shiqchi buta tepasida turib sayraydi.",
+  "wood warbler": "O'rmon qo'shiqchisining sayrashi aylanayotgan tanga ovoziga o'xshaydi."
  }
 });

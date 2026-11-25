@@ -1,4 +1,4 @@
-// Part 1 topic 0359: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0359: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0359', {
  "A1": {
   "face to face": "Keling, yuzma-yuz gaplashaylik.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0359', {
   "sum up": "Uning javobi ishdagi samimiylik va professionallik o'rtasidagi nozik muvozanatni mujassam etdi.",
   "time off": "Ko'plab firmalar endi xodimlarga tafsilotlarni tushuntirmasdan ruhiy salomatlik uchun dam olish kunlari olishga ruxsat beradi.",
   "work time": "Masofadan ishlash bilan ish vaqti va shaxsiy vaqt o'rtasidagi chegara tobora xiralashib bormoqda."
+ },
+ "EX": {
+  "face to face": "Shaxsiy savollarni yuzma-yuz berish yaxshiroq.",
+  "lately": "So'nggi paytlarda bandmisiz?",
+  "pull through": "Uning otasi juda og'ir kasal edi, lekin tuzalib ketdi.",
+  "stunning": "Bu ko'ylakda juda ajoyib ko'rinyapsiz!",
+  "sum up": "Xulosa qilib aytganda, xushmuomala bo'ling va o'ta shaxsiy narsalarni so'ramang.",
+  "time off": "Kelasi hafta biroz dam olaman.",
+  "work time": "Iltimos, ish vaqtida shaxsiy telefon qo'ng'iroqlarini qilmang."
  }
 });

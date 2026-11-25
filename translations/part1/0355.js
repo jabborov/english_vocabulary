@@ -1,4 +1,4 @@
-// Part 1 topic 0355: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0355: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0355', {
  "A1": {
   "final decision": "Bu mening yakuniy qarorim.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0355', {
   "railway system": "Yaxshi uyg'unlashtirilgan temir yo'l tizimi bir vaqtning o'zida avtomobil tirbandligini va uglerod chiqindilarini kamaytirishi mumkin.",
   "sedate": "Ayrim yo'lovchilar zamonaviy tezyurar poyezdlarning shoshqaloqligidan ko'ra sekinroq poyezdlarning osoyishta maromini afzal ko'radi.",
   "whisk": "Yo'lovchilarni mamlakat bo'ylab bir necha daqiqada yelday yetkazish va'dasi qurilishning ulkan xarajati bilan solishtirib baholanishi kerak."
+ },
+ "EX": {
+  "final decision": "Yangi temir yo'l bo'yicha yakuniy qaror kelasi yili qabul qilinadi.",
+  "new line": "Hukumat shimolga yangi liniya qurmoqchi.",
+  "overcrowd": "Temir yo'l kompaniyalari poyezdlarini odamlar bilan haddan tashqari to'ldirmasliklari kerak.",
+  "overcrowding": "Tig'iz soatlarda poyezdlardagi odam gavjumligi katta muammodir.",
+  "rail line": "Ikki shahar o'rtasida yangi temir yo'l liniyasi qurilmoqda.",
+  "railway": "Britaniya dunyodagi birinchi umumiy foydalanishdagi temir yo'lni qurgan.",
+  "railway system": "Yaponiyada dunyodagi eng yaxshi temir yo'l tizimlaridan biri bor.",
+  "sedate": "Biz eski bug' poyezdida shoshilmasdan, osuda sayohat qildik.",
+  "whisk": "Tezyurar poyezdlar yo'lovchilarni Londondan shimolga bir soatda yetkazib qo'yishi mumkin."
  }
 });

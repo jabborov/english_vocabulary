@@ -1,4 +1,4 @@
-// Part 1 topic 0106: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0106: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0106', {
  "A1": {
   "activist": "U ijtimoiy faol.",
@@ -179,5 +179,35 @@ VOCAB_TR_STORE('1', '0106', {
   "tremendous": "Muammoning ulkan ko'lami u haqida har kuni o'ylaydiganlarga juda katta ruhiy yuk yuklaydi.",
   "urge": "U tinglovchilarni o'z xavotirlarini chekinish sababi emas, balki harakatga chorlovchi ishora deb bilishga da'vat etdi.",
   "veteran": "Hatto iqlim harakatining faxriylari ham eko-xavotir hozir har qachongidan keng tarqalganini tan olishadi."
+ },
+ "EX": {
+  "activist": "Iqlim faoli yoshlarni umidni so'ndirmaslikka chaqirdi.",
+  "antidote": "Harakat qilish ekologik xavotirga qarshi eng yaxshi davodir.",
+  "ball game": "Iqlim o'zgarishiga global miqyosda qarshi kurashish — butunlay boshqa masala.",
+  "birthday present": "U tug'ilgan kuni sovg'asi sifatida daraxt ekib berishni so'radi.",
+  "combat": "Hukumatlar iqlim o'zgarishiga qarshi kurashish uchun birgalikda ishlashi kerak.",
+  "dementia": "Uning buvisi demensiyaga chalingan va ko'pincha narsalarni unutadi.",
+  "earless": "Dasht quloqsiz ajdarchasi ellik yildan ko'proq vaqt o'tib qayta topildi.",
+  "east": "Kaltakesak Melburnning sharqidagi dashtda topildi.",
+  "emotionally": "Har kuni iqlim o'zgarishi haqida o'ylash ruhan holdan toydirishi mumkin.",
+  "environmentalist": "Ekologiya himoyachisi umid xavotirga qarshi eng yaxshi davo ekanini aytdi.",
+  "extinct": "Kaltakesak qayta topilgunga qadar yo'qolib ketgan deb hisoblangan.",
+  "get on with": "Xavotirlanish o'rniga u biror foydali ish bilan shug'ullanishga qaror qildi.",
+  "grassland": "Kaltakesak Avstraliya janubi-sharqidagi dashtlarda yashaydi.",
+  "guilt": "Ko'plab yoshlar sayyoraga yetkazilgan zarar uchun o'zlarini aybdor his qilishadi.",
+  "hopefulness": "Kaltakesakning qayta topilishi umid tuyg'usini uyg'otdi.",
+  "impassioned": "Yosh faol iqlim haqida jo'shqin nutq so'zladi.",
+  "leave in": "Sayyorani biz uni qanday holatda topgan bo'lsak, undan yomonroq ahvolda qoldirmasligimiz kerak.",
+  "lizard": "Avstraliyada kichkina kaltakesak — dasht quloqsiz ajdarchasi topildi.",
+  "mess": "Yoshlar keksa avlodlar sayyorani ayanchli ahvolda qoldirgan deb hisoblashadi.",
+  "motivated": "Umid odamlarni qo'rquvdan ko'ra ko'proq harakatga undaydi.",
+  "optimistic": "Yomon xabarlarga qaramay, u sayyoramizning kelajagiga optimistik qaraydi.",
+  "poll": "So'rovnoma yoshlarning aksariyati iqlim o'zgarishidan xavotirda ekanini ko'rsatdi.",
+  "prepared": "Ko'p odamlar sayyoraga yordam berish uchun turmush tarzini o'zgartirishga tayyor.",
+  "stabilise": "Olimlar chiqindilarni qisqartirish orqali global haroratni barqarorlashtirishga umid qilishadi.",
+  "survivor": "Kaltakesak yo'qolib ketgan tur emas, balki omon qolgan tur bo'lib chiqdi.",
+  "tremendous": "Iqlim o'zgarishi yoshlar orasida juda katta xavotirga sabab bo'lmoqda.",
+  "urge": "Mutaxassislar odamlarni umidni yo'qotmaslikka undashadi.",
+  "veteran": "U qirq yildan beri kurash olib borayotgan tajribali ekologiya himoyachisi."
  }
 });

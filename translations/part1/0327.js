@@ -1,4 +1,4 @@
-// Part 1 topic 0327: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0327: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0327', {
  "A1": {
   "discreet": "U kamgap va ehtiyotkor odam.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0327', {
   "simplifying": "Murakkab ritmlarni omma uchun soddalashtirish musiqani o'ziga xos qilgan narsani yo'qotish xavfini tug'diradi.",
   "smoother": "Bossa novaning silliqroq va samimiyroq ovozi ko'cha paradlariga emas, kichik klublarga mos tushardi.",
   "understated": "Bossa novaning vazmin nafosati unga chet eldagi jaz musiqachilari orasida muxlislar orttirdi."
+ },
+ "EX": {
+  "discreet": "Gitara ovoz ortida bilinar-bilinmas ritm chaladi.",
+  "flatten": "Globallashuv madaniyatlar orasidagi farqlarni yo'qqa chiqarishi mumkin.",
+  "flattening": "Ba'zilar dunyo bo'ylab musiqiy farqlarning tekislanib ketishidan qo'rqishadi.",
+  "full of life": "Samba baland ovozli, rang-barang va hayotga to'la.",
+  "funky": "Guruh sambani fank uslubidagi bas partiyalari bilan aralashtiradi.",
+  "globalisation": "Ba'zilar globallashuv tufayli musiqa hamma joyda bir xil yangramoqda, deb xavotirlanishadi.",
+  "groove": "Qo'shiqning ritmi juda ajoyib.",
+  "musical style": "Bossa-nova sambadan kelib chiqqan yumshoq musiqiy uslubdir.",
+  "samba": "Samba Braziliya karnavalining musiqasidir.",
+  "simplifying": "Pop versiyalarda murakkab ritmlar soddalashtiriladi.",
+  "smoother": "Bossa-nova sambaga nisbatan silliqroq va sokinroq.",
+  "understated": "Bossa-nova sambaga qaraganda ancha vazminroq."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0325: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0325: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0325', {
  "A1": {
   "ECT": "EKT davolash usulidir.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0325', {
   "strapped": "Kamarlar bilan bog'lab qo'yilgan dahshatga tushgan bemor qiyofasi zamonaviy tibbiyotdan ko'ra Gollivudga ko'proq qarzdor.",
   "terrified": "Mashhur filmlar ko'pchilikni aslida ancha yumshoq bo'lgan davolash usulidan dahshatga tushirib qo'ygan.",
   "unaffected": "Tegilmagan xotiraga ta'sir yetmagani bu ta'sir juda o'ziga xos ekanini ko'rsatdi."
+ },
+ "EX": {
+  "ECT": "EKT og'ir depressiyani davolashda qo'llanib kelinadi.",
+  "causing": "Olimlar zarar yetkazmagan holda yomon xotiralarni zaiflashtirishni xohlashadi.",
+  "delete": "Kelajakda olimlar yoqimsiz xotiralarni o'chirib tashlashga qodir bo'lishlari mumkin.",
+  "electroconvulsive therapy": "Elektr-tutqanoq terapiyasi umumiy narkoz ostida o'tkaziladi.",
+  "last resort": "EKT odatda so'nggi chora sifatida qo'llaniladi.",
+  "picture card": "Bemorlarga hikoyani bayon qiluvchi bir qator rasmli kartalar ko'rsatildi.",
+  "pulse": "Miya orqali qisqa elektr impulsi o'tkaziladi.",
+  "reactivate": "Xotirani eslash uni qayta faollashtirishi va mo'rt qilib qo'yishi mumkin.",
+  "resort": "Ular boshqa barcha choralar natija bermaganidan keyingina EKTga murojaat qilishdi.",
+  "strapped": "Eski filmlarda bemorlar karavotga bog'lab qo'yilgan holda ko'rsatiladi.",
+  "terrified": "Ko'p odamlar elektr toki urishi haqidagi fikrdan dahshatga tushishadi.",
+  "unaffected": "Eslanmagan xotiraga hech qanday ta'sir bo'lmadi."
  }
 });

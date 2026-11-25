@@ -1,4 +1,4 @@
-// Part 1 topic 0438: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0438: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0438', {
  "A1": {
   "atheist": "U ateist.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0438', {
   "reggae": "Olimlar ba'zan turlarni reggi afsonalaridan tortib rok yulduzlarigacha bo'lgan musiqachilar sharafiga nomlaydi.",
   "shell": "Jonzotning shaffof chig'anog'i uni dengiz tubida deyarli ko'rinmas qilib qo'ygan edi.",
   "trail": "Tadqiqotchilar yangi turni uning eng yaqin qarindoshlari bilan bog'lovchi dalillar izini kuzatib chiqdi."
+ },
+ "EX": {
+  "atheist": "Yangi jonzotga mashhur ateist nomi berildi.",
+  "crab": "Qisqichbaqa sohil bo'ylab yonboshlab yuradi.",
+  "crustacean": "Yangi tur — mitti qisqichbaqasimon.",
+  "delightful": "Bu juda yoqimli kichkina jonzot.",
+  "devote": "U hayotini mayda dengiz jonzotlarini o'rganishga bag'ishladi.",
+  "devoted": "U evolyutsiyani o'rganishga butun qalbi bilan berilgan edi.",
+  "filament": "Jonzotning boshida uzun ipsimon o'simtalar bor.",
+  "finish off": "Keling, bugungi savolga javob bilan yakunlaymiz.",
+  "freshwater": "Yangi tur chuchuk suvli ko'llarda yashaydi.",
+  "genus": "Yangi tur mayda dengiz jonzotlari turkumiga mansub.",
+  "get onto": "Keling, bugungi mavzuga o'tamiz: yangi turlarga nom berish.",
+  "immortality": "Biror turga sizning ismingiz berilishi o'ziga xos bir abadiylikdir.",
+  "lobster": "Omarlar pishirilganda qizarib ketadi.",
+  "reggae": "Kichkina hayvonga regi yulduzi nomi berildi.",
+  "shell": "Qisqichbaqa va omarlarning qattiq chanog'i bor.",
+  "trail": "Hayvon ortida shilimshiq iz qoldiradi."
  }
 });

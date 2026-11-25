@@ -1,4 +1,4 @@
-// Part 1 topic 0422: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0422: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0422', {
  "A1": {
   "audio recording": "Audioyozuvni tinglang.",
@@ -47,5 +47,13 @@ VOCAB_TR_STORE('1', '0422', {
   "slight": "Nutq va tarjima o'rtasidagi ozgina kechikish suhbatning tabiiy ritmini buzishi mumkin.",
   "talk into": "Foydalanuvchilar shunchaki telefonga gapirishadi, sintezlangan ovoz esa ularning so'zlarini maqsadli tilda takrorlaydi.",
   "time machine": "Vaqt mashinasi singari, universal tarjimon ham uzoq vaqt ilmiy fantastikaning doimiy mavzusi bo'lib kelgan."
+ },
+ "EX": {
+  "audio recording": "Tizim minglab audioyozuvlar yordamida o'qitilgan.",
+  "machine translation": "Mashina tarjimasi ancha yaxshilandi.",
+  "real time": "Dastur so'zlaringizni real vaqt rejimida tarjima qiladi.",
+  "slight": "Tarjima eshitilishidan oldin biroz kechikish bo'ladi.",
+  "talk into": "Siz telefonga gapirasiz, u esa xitoycha so'zlaydi.",
+  "time machine": "Bir paytlar bir zumda tarjima qilish vaqt mashinasi kabi aql bovar qilmas tuyulardi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0374: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0374: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0374', {
  "A1": {
   "baby talk": "U o'g'li bilan chaqaloqcha tilda gaplashadi.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0374', {
   "nanny": "Nufuzli kollejlarda an'anaviy tarzda tayyorlangan enagalarga butun dunyodagi badavlat oilalar orasida talab yuqori.",
   "newsreader": "Tajribali diktor e'lon paytida odatdagidan ko'ra hissiyotli eshitilgani uchun tanqid qilindi.",
   "send out": "Rasmiylar jamoatchilikning kutishlarini boshqarish uchun puxta tuzilgan press-relizni tarqatishdi."
+ },
+ "EX": {
+  "baby talk": "Ko'pchilik ota-onalar o'ylab ham o'tirmay, chaqaloqlarcha gapirishadi.",
+  "diaper": "AQShda odamlar tagliqni \"diaper\" deyishadi, Buyuk Britaniyada esa \"nappy\" deyishadi.",
+  "fasten": "Tagliqni to'g'ri mahkamlaganingizga ishonch hosil qiling.",
+  "maternity": "Chaqaloq London kasalxonalaridan birining tug'ruq bo'limida tug'ildi.",
+  "may": "Yangi shahzoda bir kun kelib qirol bo'lishi mumkin.",
+  "nanny": "Ko'plab qirollik oilalari bolalarga qarashda yordam berish uchun enaga yollashadi.",
+  "newsreader": "Diktor qirollik oilasida chaqaloq tug'ilganini e'lon qildi.",
+  "send out": "Chaqaloq tug'ilganida saroy bayonot e'lon qiladi."
  }
 });

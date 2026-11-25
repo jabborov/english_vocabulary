@@ -1,4 +1,4 @@
-// Part 1 topic 0216: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0216: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0216', {
  "A1": {
   "ambulance": "Tez yordam chaqiring!",
@@ -155,5 +155,31 @@ VOCAB_TR_STORE('1', '0216', {
   "sunglass": "Tadqiqotlar ko'rsatishicha, quyosh ko'zoynaklari ko'zni yashirib, odamlarni o'z harakatlari uchun kamroq javobgar his qildirishi mumkin.",
   "top hat": "Bir paytlar janoblarning kundalik kiyimi bo'lgan silindr shlyapa endi asosan tantanali libos sifatida saqlanib qolgan.",
   "try on": "Bolalar o'zlarini o't o'chiruvchi yoki uchuvchi deb tasavvur qilib, kattalar formasini kiyib ko'rishni yaxshi ko'rishadi."
+ },
+ "EX": {
+  "ambulance": "Tez yordam xodimlari yashil forma kiyishadi.",
+  "apron": "Oshpaz oq fartuk taqib olgan edi.",
+  "blazer": "O'quvchilar maktab nishoni tushirilgan to'q ko'k pidjak kiyishadi.",
+  "brass buttons": "Eshik og'asining paltosida yaltiroq latun tugmalar bor edi.",
+  "brigade": "U mahalliy o't o'chirish komandasiga qo'shildi.",
+  "cap": "Politsiyachi furajkasini kiydi.",
+  "captain": "Kapitanning formasida to'rtta oltin rangli yo'l bor.",
+  "chatty": "Styuardessa juda gapdon edi.",
+  "climb": "Lavozimingiz ko'tarilgan sari formangiz ham o'zgaradi.",
+  "confer": "Forma uni kiygan odamga obro'-e'tibor bag'ishlashi mumkin.",
+  "fire brigade": "O't o'chirish xizmati bir necha daqiqada yetib keldi.",
+  "funnily": "Qizig'i shundaki, men ham ilgari forma kiyardim.",
+  "key word": "Forma haqida gapirganda \"o'ziga xoslik\" kalit so'z hisoblanadi.",
+  "liberate": "Forma sizni moda haqida qayg'urishdan ozod qilishi mumkin.",
+  "liberating": "Ba'zi odamlar forma kiyishni o'zlarini erkin his qilishga yordam beradi deb bilishadi.",
+  "local time": "Biz mahalliy vaqt bilan soat 18:00 da qo'namiz.",
+  "nun": "Rohiba uzun qora libos kiygan edi.",
+  "persona": "Forma kiyish unga professional qiyofaga kirishga yordam beradi.",
+  "shirt": "Forma oq ko'ylak va ko'k galstukdan iborat.",
+  "shortly": "Poyezd tez orada yetib keladi.",
+  "stand out": "Yorqin formalar xodimlarning ko'zga tashlanishiga yordam beradi.",
+  "sunglass": "Uchuvchilar ko'pincha o'z qiyofasining bir qismi sifatida quyosh ko'zoynagi taqishadi.",
+  "top hat": "Ba'zi eshik og'alari hali ham silindr shlyapa kiyishadi.",
+  "try on": "Bu kurtkani kiyib ko'rsam bo'ladimi?"
  }
 });

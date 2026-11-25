@@ -1,4 +1,4 @@
-// Part 1 topic 0212: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0212: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0212', {
  "A1": {
   "aging": "Qarish tabiiy jarayon.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0212', {
   "shaving": "Keng tarqalgan e'tiqodga qaramay, soqol olish sochning qalinroq o'sishiga olib kelmaydi.",
   "stem cell": "O'zak hujayralar bo'yicha tadqiqotlar nafaqat kallik, balki umuman regenerativ tibbiyot uchun ham istiqbolli.",
   "waxing": "Mum bilan tuk olib tashlash go'zallik haqidagi o'zgaruvchan qarashlarga asoslangan ko'p millionlik sanoatga aylandi."
+ },
+ "EX": {
+  "aging": "Oqargan sochlar qarishning tabiiy qismidir.",
+  "bald": "Bobom qirq yoshida kal bo'lib qolgan.",
+  "baldness": "Kal bo'lish keksa erkaklarda juda keng tarqalgan.",
+  "body hair": "Odamlarning tanasida boshqa maymunlarga qaraganda tuk ancha kam.",
+  "damaged": "Shikastlangan follikulalar soch ishlab chiqarishni to'xtatib qo'yishi mumkin.",
+  "facial hair": "Soqol va yuzdagi boshqa tuklar yana modaga kirdi.",
+  "fluff": "Qush bolalari yumshoq mayin pat bilan qoplangan bo'ladi.",
+  "fluff up": "Qushlar isinish uchun patlarini hurpaytiradi.",
+  "follicle": "Follikuladagi ildiz hujayralar sochning qayta o'sishiga yordam beradi.",
+  "goose": "\"Goose bumps\" (g'oz terisi) iborasi patlari yulingan g'ozning terisidan olingan.",
+  "goose bump": "O'sha qo'shiqni eshitganimda badanim jimirlab ketadi.",
+  "goosebump": "Filmning oxiri meni hayajondan jimirlatib yubordi.",
+  "grandpa": "Bobom yoshligidayoq sochidan ayrilgan.",
+  "hair follicle": "Har bir soch tolasi soch follikulasidan o'sib chiqadi.",
+  "head of hair": "U yetmish yoshida ham qalin sochga ega.",
+  "manhood": "Ba'zilar uchun soqol erkaklik belgisidir.",
+  "plucking": "Qoshlarni ko'pincha terib, ingichkalashadi.",
+  "raising": "Tanadagi tuklarning tikkayishi sovuq yoki qo'rquvga javob reaksiyasidir.",
+  "regenerate": "Soch follikulalari hayotimiz davomida ko'p marta qayta tiklanishi mumkin.",
+  "regeneration": "Yoshimiz ulg'aygan sari sochning qayta tiklanishi sekinlashadi.",
+  "shaving": "Soqol olish tukni yo'qotishning eng keng tarqalgan usuli.",
+  "stem cell": "Follikuladagi ildiz hujayralar sochning qayta o'sishiga imkon beradi.",
+  "waxing": "Mum bilan epilyatsiya tuklarni ildizi bilan sug'urib oladi."
  }
 });

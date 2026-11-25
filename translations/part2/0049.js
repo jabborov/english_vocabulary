@@ -1,4 +1,4 @@
-// Part 2 topic 0049: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0049: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0049', {
  "A1": {
   "Yet two weeks ago": "Holbuki ikki hafta oldin havo sovuq edi.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('2', '0049', {
   "resettlement": "Faqat jazo emas, balki jamiyatga qayta moslashtirish tobora takroriy jinoyatlar zanjirini uzishning kaliti sifatida qaralmoqda.",
   "sake": "Tanqidchilarning fikricha, jazo uchun jazo jamoatchilik g'azabini qondirishdan boshqa deyarli hech narsaga erishmaydi.",
   "to tempt": "Jamoatchilikni ichkariga kirishga shunchaki undash uchun ham qamoqxonalar va u yerda saqlanayotganlar haqidagi chuqur ildiz otgan xurofotlarni yengish kerak."
+ },
+ "EX": {
+  "Yet two weeks ago": "Biroq ikki hafta oldin restoran jiddiy muammoga duch keldi.",
+  "a posh name": "Menyudagi ko'plab taomlarning dabdabali nomi bor.",
+  "bravery": "Ba'zilarning fikricha, mahbuslar boshqaradigan restoranda ovqatlanish uchun jasorat kerak.",
+  "canteen": "Mahbuslar odatda ovqatlarini qamoqxona oshxonasida yeyishadi.",
+  "clink": "Restoran \"The Clink\" deb ataladi, bu qamoqxonani anglatuvchi jargon so'z.",
+  "commitment": "Tinglovchilar ovqat pishirishni o'rganishga chinakam sadoqat ko'rsatishadi.",
+  "cos in many countries": "Qamoqxona ovqati ko'pincha sifatsiz bo'ladi, chunki ko'plab mamlakatlarda unga juda kam pul ajratiladi.",
+  "court": "Sud uni uch yilga qamoq jazosiga hukm qildi.",
+  "depressing": "Qamoqxona juda tushkunlikka soladigan joy bo'lishi mumkin.",
+  "exclusive": "Mehmonlar oldindan joy band qilishi va xavfsizlik tekshiruvidan o'tishi kerakligi sababli bu restoran tanlanganlar uchun mo'ljallangandek tuyuladi.",
+  "get for": "U bankni o'g'irlagani uchun qancha muddatga qamaldi?",
+  "give out by the court": "Og'ir jinoyatlar uchun sud tayinlaydigan jazolar uzoq bo'lishi mumkin.",
+  "gloomy": "Eski qamoqxona binosi tashqaridan g'amgin ko'rinardi.",
+  "gloomy economic times": "Iqtisodiy jihatdan og'ir davrda yangi restoran ochish xavfli.",
+  "governor": "Qamoqxona boshlig'i restoran loyihasini qo'llab-quvvatlaydi.",
+  "inmate": "Barcha taomlarni mahbuslar pishiradi va tortadi.",
+  "prison sentence": "Ofitsiantlarning barchasi qamoq jazosini o'tamoqda.",
+  "release": "Ko'plab mahbuslar ozodlikka chiqqanlaridan keyin restoranlarda ish topishadi.",
+  "relocate": "Ba'zi sobiq mahbuslar hayotni qaytadan boshlash uchun yangi shaharga ko'chib o'tishadi.",
+  "resettlement": "Xayriya tashkiloti mahbuslarga ozodlikka chiqqanlaridan keyin jamiyatga qayta moslashishda yordam beradi.",
+  "sake": "U farzandlari uchun hayotini o'zgartirishga qaror qildi.",
+  "to tempt": "Oshpazlar mehmonlarni yangi, mavsumiy taomlar bilan o'ziga jalb qilishga umid qilishadi."
  }
 });

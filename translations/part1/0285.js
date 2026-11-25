@@ -1,4 +1,4 @@
-// Part 1 topic 0285: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0285: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0285', {
  "A1": {
   "UNESCO": "YUNESKO BMTning bir qismi.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0285', {
   "thorn": "O'z nomiga munosib tikanli toj dengiz yulduzi rifni muhofaza qiluvchilar uchun doimiy ko'z tikani bo'lib kelmoqda.",
   "tramp": "Bir xil yo'ldan og'ir qadam tashlab o'tgan ziyoratchilarning avlodlari tosh zinapoyalarda chuqur o'yiqlar qoldirgan.",
   "tramp around": "Millionlab tashrif buyuruvchilar nozik obyektlar bo'ylab oyoq ostida izg'ib yurganda, eroziya ularning saqlanib qolishiga jiddiy xavf tug'diradi."
+ },
+ "EX": {
+  "UNESCO": "UNESCO ro'yxatida mingdan ortiq Jahon merosi obyekti bor.",
+  "aesthetic": "Rif katta estetik qimmatga ega.",
+  "awesome": "Manta skatlari bilan suzish ajoyib bo'ldi!",
+  "barrier reef": "Katta to'siq rifi dunyodagi eng katta to'siq rifidir.",
+  "civilisation": "Ba'zi meros obyektlari qadimgi sivilizatsiyalar qanday yashaganini ko'rsatadi.",
+  "considerably": "Rif sezilarli darajada kichrayib ketdi.",
+  "constitute": "Iqlim o'zgarishi rif uchun eng katta xavfni tashkil qiladi.",
+  "coral": "Iliq suv marjonlarning oqarib ketishiga sabab bo'ladi.",
+  "crown": "Tikanli toj dengiz yulduzi marjonlarni yeydi.",
+  "cuttlefish": "Karakatitsa ko'z oldimizda rangini o'zgartirdi.",
+  "encroach": "Mehmonxonalar va yo'llar obyekt hududiga suqilib kirmoqda.",
+  "harm by": "Marjonlarga iliq suv va ifloslanish zarar yetkazishi mumkin.",
+  "ice age": "Rif oxirgi muzlik davridan beri saqlanib kelmoqda.",
+  "jellyfish": "Suzayotganda meduzalardan ehtiyot bo'ling.",
+  "manta": "Biz rif yonidan sirpanib o'tayotgan ikkita mantani ko'rdik.",
+  "manta ray": "Manta skati yonimizdan suzib o'tdi.",
+  "minimize": "Sayyohlar yetkazayotgan zararni minimal darajaga tushirishimiz kerak.",
+  "pose": "Iqlim o'zgarishi rif uchun jiddiy xavf tug'diradi.",
+  "prey": "Ba'zi dengiz yulduzlari marjonlarni ovlab yeydi.",
+  "reef": "Rif minglab turlar uchun makondir.",
+  "scribble": "Ba'zi sayyohlar qadimiy devorlarga o'z ismlarini chizib qo'yishadi.",
+  "scuba diving": "Biz Katta to'siq rifida akvalang bilan sho'ng'idik.",
+  "sea creature": "Rif minglab dengiz jonzotlari uchun makondir.",
+  "starfish": "Biz sohilda dengiz yulduzini topdik.",
+  "thorn": "Dengiz yulduzi tikanga o'xshash ignalar bilan qoplangan.",
+  "tramp": "Biz soatlab loy kechib yurdik.",
+  "tramp around": "Sayyohlar har kuni xarobalar bo'ylab sanqib yurishadi."
  }
 });

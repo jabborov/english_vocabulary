@@ -1,4 +1,4 @@
-// Part 2 topic 0066: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0066: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0066', {
  "A1": {
   "Luddite": "Bobom yangi texnologiyalarga qarshi.",
@@ -209,5 +209,40 @@ VOCAB_TR_STORE('2', '0066', {
   "unwilling": "Bosma kitobdan voz kechishni istamaydigan o'quvchilar taraqqiyotga qarshilik qilishdan ko'ra qadrli marosimni himoya qilishmoqda.",
   "valuable": "Ajablanarlisi, elektron kitoblarning ommalashuvi yaxshi saqlangan bosma nashrlarni yanada qimmatliroq qilishi mumkin.",
   "volume": "Antikvar 1700-yillarda chop etilgan charm muqovali jild sahifalarini mehr bilan varaqladi."
+ },
+ "EX": {
+  "Luddite": "Men biroz yangilikni yoqtirmaydigan odamman – hali ham qog'oz kitoblarni afzal ko'raman.",
+  "adjustment": "Ekrandan o'qishga biroz moslashish kerak bo'ladi.",
+  "antiquarian": "U eski shahar qismida antikvar kitob do'konini yuritadi.",
+  "available": "Hozir minglab nomdagi kitoblar elektron shaklda mavjud.",
+  "averse": "Ba'zi kitobxonlar yangi texnologiyalardan foydalanishni xush ko'rmaydi.",
+  "bent": "Yumshoq muqovali eski kitobim yillar davomida o'qilaverib, bukilib, titilib ketgan.",
+  "bring up": "U elektron kitoblar qog'oz kitoblar o'rnini egallaydimi, degan masalani ko'tardi.",
+  "capable": "Elektron kitob o'qish qurilmasi yuzlab kitoblarni saqlashga qodir.",
+  "carry around": "Butun bir kutubxonani cho'ntagingizda olib yurishingiz mumkin.",
+  "concept": "Kitob tushunchasi o'zgarib bormoqda.",
+  "control": "Elektron o'qish qurilmasidagi boshqaruv tugmalaridan foydalanish oson.",
+  "deserving": "Eski kitoblar hurmatimizga loyiq.",
+  "emotional": "Ko'plab kitobxonlar qog'oz kitoblarga hissiy bog'langan.",
+  "fashioned": "Ba'zilar qog'oz kitoblarni eskicha deb hisoblashadi.",
+  "free up": "Elektron kitoblarga o'tish kvartiramda ancha joy bo'shatdi.",
+  "go into": "Elektron o'qish qurilmalari qanday ishlashining barcha tafsilotlariga to'xtalishga vaqtimiz yo'q.",
+  "handle": "Eski kitobni qo'limda ushlab, sahifalarini his qilishni yaxshi ko'raman.",
+  "handy": "Sayohat qilganingizda elektron o'qish qurilmasi juda qo'l keladi.",
+  "holy": "Muqaddas kitoblar eng birinchi bosilgan kitoblar qatorida bo'lgan.",
+  "keen": "Men kitoblarni ekrandan o'qishni unchalik yoqtirmayman.",
+  "mechanic": "Elektron o'qish qurilmasi qanday ishlashi mexanizmini tushunmayman.",
+  "more and more": "Tobora ko'proq odamlar elektron kitob o'qimoqda.",
+  "narrative": "Qog'ozda o'qisangiz ham, ekranda o'qisangiz ham hikoya bir xil.",
+  "nosed": "Hissiyotga berilmaydigan tadbirkor kitoblarni faqat mahsulot deb biladi.",
+  "not to mention": "Elektron kitoblar arzonroq, ko'tarib yurish uchun yengilligini aytmasa ham bo'ladi.",
+  "refuse": "Buvim elektron o'qish qurilmasidan foydalanishni rad etadi.",
+  "respect": "Men kitoblarimga katta hurmat bilan munosabatda bo'laman.",
+  "run over": "Keling, bugungi dasturning asosiy fikrlarini yana bir bor ko'rib chiqamiz.",
+  "sacred": "Ba'zi odamlar uchun kitoblar deyarli muqaddas narsadir.",
+  "tail": "Onlayn do'konlar kamroq mashhur kitoblarning uzun ro'yxatidan pul ishlashadi.",
+  "unwilling": "Ko'p odamlar qog'oz kitoblaridan voz kechishni istamaydi.",
+  "valuable": "Ba'zi eski kitoblar juda qimmatli.",
+  "volume": "Elektron o'qish qurilmamda kitob javonimdagidan ko'ra ko'proq jild bor."
  }
 });

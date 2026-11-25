@@ -1,4 +1,4 @@
-// Part 1 topic 0132: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0132: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0132', {
  "A1": {
   "annually": "Biz har yili uchrashamiz.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0132', {
   "snap": "Takroriy qayta ishlash natijasida zaiflashgan plastik egilish o'rniga qarsillab sinishga moyil bo'lib, bu uning foydaliligini cheklaydi.",
   "walk in": "Shovqinli qayta ishlash zavodini kutib kirgan tashrif buyuruvchilar fermentativ jarayonning qanchalik sokin ekanidan hayratga tushadi.",
   "waste product": "Chiqindi mahsulotlarni resurs sifatida qayta idrok etish aylanma iqtisodiyot g'oyasining markazida turadi."
+ },
+ "EX": {
+  "annually": "Har yili millionlab tonna plastik ishlab chiqariladi.",
+  "branch": "Barglar shoxlardan to'kilib, chiriy boshladi.",
+  "breakthrough": "Plastikni yeydigan ferment qayta ishlashda katta yutuq bo'lishi mumkin.",
+  "brittle": "Qayta ishlangan plastik mo'rt va zaif bo'lib qolishi mumkin.",
+  "chemical bond": "Ferment plastikni bir-biriga bog'lab turgan kimyoviy bog'larni uzadi.",
+  "compost": "Ferment kompost uyumidan topilgan.",
+  "enzyme": "Olimlar plastikni parchalay oladigan ferment topishdi.",
+  "fit in": "Plastik fermentga xuddi qulfga kalit tushgandek joylashadi.",
+  "going away": "Plastik chiqindilar yaqin orada yo'qolib ketmaydi.",
+  "gone": "Bir necha kundan keyin plastik butunlay yo'q bo'lib ketdi.",
+  "incinerate": "Plastikning katta qismi yoqib yuboriladi yoki chiqindixonaga ko'miladi.",
+  "lab": "Laboratoriyada ferment plastikni bor-yo'g'i bir necha soatda parchalab tashladi.",
+  "low quality": "Qayta ishlash ko'pincha plastikni sifati past mahsulotlarga aylantiradi.",
+  "melt down": "Qayta ishlangan plastikning aksariyati eritilib, yangi buyumlarga aylantiriladi.",
+  "microorganism": "Ba'zi mikroorganizmlar plastikni hazm qila oladi.",
+  "nylon": "Neylon kiyimlarda ishlatiladigan plastik turidir.",
+  "overnight": "Plastikning bir qismi deyarli bir kechada parchalandi.",
+  "recycled": "Bu shisha qayta ishlangan plastikdan yasalgan.",
+  "remould": "Eritilgan plastikdan qayta qoliplab yangi mahsulotlar yasash mumkin.",
+  "rotting": "Bu ferment ilk bor chirib borayotgan barglardan topilgan.",
+  "snap": "Eski qayta ishlangan plastik oson sinib ketishi mumkin.",
+  "walk in": "Plastikni fermentlar yeb tugatadigan zavodga kirib borishingiz mumkinligini tasavvur qiling.",
+  "waste product": "Plastik asrlar davomida saqlanib qoladigan chiqindi mahsulotdir."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0166: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0166: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0166', {
  "A1": {
   "Mediterranean": "Men O'rta yer dengizi taomlarini yaxshi ko'raman.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0166', {
   "statistic": "Uzoq umr ko'rish haqidagi har bir statistik ko'rsatkich ortida genetika, atrof-muhit va turmush tarzining murakkab uyg'unligi yotadi.",
   "wrinkle": "Ajinlar haqida haddan tashqari qayg'urish qanday qarishimizni haqiqatan belgilaydigan omillardan chalg'itadi.",
   "youthful": "Tadqiqotlarga ko'ra, o'zini ruhan yosh his qiladigan odamlar pessimistroq tengdoshlariga qaraganda uzoqroq yashaydi."
+ },
+ "EX": {
+  "Mediterranean": "O'rta yer dengizi parhezi sabzavot, baliq va zaytun moyiga boy.",
+  "communal": "Jamoaviy dasturxonlar keksalarga o'zini yolg'iz emasdek his qilishga yordam beradi.",
+  "head over": "Keling, dunyodagi eng keksa odamlar bilan uchrashish uchun Sardiniyaga yo'l olamiz.",
+  "lady": "Keksa ayol hali ham har kuni bozorga piyoda boradi.",
+  "old age": "Ko'pchilik qarilikkacha faol bo'lib qolishni xohlaydi.",
+  "outdoor": "Ochiq havodagi mehnat ko'plab keksa qishloqdoshlarni baquvvat saqlaydi.",
+  "ripe": "U 102 yoshdek keksa yoshgacha umr ko'rdi.",
+  "spite": "Yoshiga qaramay, u hali ham har hafta suzishga boradi.",
+  "statistic": "Statistik ma'lumotlardan biri ba'zi mintaqalarda odamlar ancha uzoq yashashini ko'rsatadi.",
+  "wrinkle": "Uning ko'zlari atrofida bir nechta ajin bor, lekin u o'zini yosh his qiladi.",
+  "youthful": "To'qson yoshida ham uning hayotga munosabati yoshlarnikidek."
  }
 });

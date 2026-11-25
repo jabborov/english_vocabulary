@@ -80,6 +80,18 @@
   .wi-src a{ color:var(--muted); }
   .wi-src a:hover{ color:var(--accent); }
   .wi-none{ font-size:13px; color:var(--muted); margin-top:14px; }
+  /* Example sentences by level group: A (A1, A2), B (B1, B2), C (C1, C2) */
+  .wi-exs{ margin-top:8px; }
+  .wi-exg{ display:flex; gap:8px; }
+  .wi-exg + .wi-exg{ margin-top:8px; }
+  .wi-g{ flex:0 0 auto; width:17px; height:17px; line-height:17px; margin-top:2px; text-align:center; border-radius:4px;
+    font-family:'JetBrains Mono',monospace; font-size:11px; font-weight:500; color:var(--bg); background:var(--accent); }
+  .wi-exl{ flex:1; min-width:0; }
+  .wi-ex{ font-size:14px; color:var(--muted); font-style:italic; }
+  .wi-ex + .wi-ex{ margin-top:3px; }
+  .wi-ex .wi-lv{ font-family:'JetBrains Mono',monospace; font-style:normal; font-size:10.5px; color:var(--muted);
+    border:1px solid var(--line); border-radius:4px; padding:0 4px; margin-right:6px; }
+  .wi-ex .t::before{ content:"\\201C"; } .wi-ex .t::after{ content:"\\201D"; }
   @media print{ .wi-backdrop{ display:none !important; } .wi-link{ text-decoration:none; } }`;
   document.head.appendChild(style);
 
@@ -98,6 +110,21 @@
   document.body.appendChild(backdrop);
   const $ = id => backdrop.querySelector('#' + id);
 
+  // Example sentences of a word in its topic, grouped A / B / C (empty if the topic has none).
+  const LEVELS = ['A1','A2','B1','B2','C1','C2'];
+  function examplesHTML(src){
+    const all = src.part === '1' ? window.VOCAB_EXAMPLES_PART1 : window.VOCAB_EXAMPLES;
+    const set = ((all || {})[src.topicKey] || {})[src.item.w];
+    if(!set) return '';
+    const groups = ['A', 'B', 'C'].map(g => {
+      const rows = LEVELS.map((lv, i) => ({ lv, en: set[i] })).filter(x => x.lv[0] === g && x.en);
+      return rows.length ? `<div class="wi-exg" data-g="${g}"><span class="wi-g" title="Level ${g}">${g}</span><div class="wi-exl">` +
+        rows.map(x => `<div class="wi-ex"><i class="wi-lv">${x.lv}</i><span class="t">${esc(x.en)}</span></div>`).join('') +
+        `</div></div>` : '';
+    }).join('');
+    return groups ? `<div class="wi-exs">${groups}</div>` : '';
+  }
+
   function wordHTML(w, current){
     const ms = meanings(w);
     return `<div class="wi-word${current ? ' wi-current' : ''}" data-w="${esc(w)}">
@@ -109,6 +136,7 @@
           <div class="wi-mtop"><span class="wi-pos">${esc(m.p)}</span><span class="wi-ipa">${esc(m.ipa || '')}</span></div>
           <div class="wi-row"><span class="wi-lbl">UZ</span><span class="wi-tr">${esc(m.tr)}</span></div>
           ${m.def ? `<div class="wi-row"><span class="wi-lbl">EN</span><span class="wi-def">${esc(m.def)}</span></div>` : ''}
+          ${examplesHTML(s)}
           <div class="wi-src"><a href="${href}">Part ${s.part} · ${s.topicKey} · ${esc(s.title)} ↗</a>${more > 0 ? ` <span>+${more} more topic${more === 1 ? '' : 's'}</span>` : ''}</div>
         </div>`;
       }).join('')}

@@ -1,4 +1,4 @@
-// Part 2 topic 0038: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0038: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0038', {
  "A1": {
   "aspiration": "Mening bir intilishim bor.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('2', '0038', {
   "tinsel town": "\"Yaltiroq shahar\" laqabi Gollivudning ko'zni qamashtiruvchi tashqi ko'rinish va shubhali mazmundan iborat o'ziga xos aralashmasini aniq ifodalaydi.",
   "whatever": "Kino sanoatiga qanday qarashingizdan qat'i nazar, uning ramziy qudratini inkor etish qiyin.",
   "witness": "Kam diqqatga sazovor joylar Amerika orzusining mifologiyasi va undan hafsala pir bo'lishiga bunchalik yaqindan guvoh bo'lgan."
+ },
+ "EX": {
+  "aspiration": "Ko'pchilik uchun bu yozuv yulduz bo'lish orzusini ifodalaydi.",
+  "blockbusters": "Gollivud katta byudjetli blokbasterlar yaratishi bilan mashhur.",
+  "er": "Bu, hm, Los-Anjelesdagi eng ko'p suratga olinadigan joylardan biri.",
+  "frankly": "Ochig'ini aytganda, yozuv hayotda filmlardagidan kichikroq ko'rinadi.",
+  "iconic symbol": "Gollivud yozuvi kino sanoatining timsoliy ramziga aylangan.",
+  "influence": "Gollivud filmlari dunyo bo'ylab ommaviy madaniyatga ulkan ta'sir ko'rsatgan.",
+  "involvement": "1970-yillarda yozuvni saqlab qolishda bir nechta mashhur shaxslar ishtirok etgan.",
+  "nearly": "Yozuv 1978-yilda ta'mirlanishidan oldin qulab tushishiga oz qolgan edi.",
+  "pilgrimage": "Kino ixlosmandlari mashhur yozuvni ko'rish uchun Gollivudga ziyoratga borishadi.",
+  "possibly": "Ehtimol, bu dunyodagi eng mashhur yozuvdir.",
+  "put up": "Yozuv birinchi marta 1923-yilda yangi uylarni reklama qilish uchun o'rnatilgan.",
+  "scrubby": "Mashhur yozuv Los-Anjeles uzra butazor tepalikda turibdi.",
+  "tinsel town": "Har yili minglab yosh aktyorlar mashhur bo'lish umidida kino poytaxti Gollivudga ko'chib kelishadi.",
+  "whatever": "Gollivud haqida qanday fikrda bo'lmang, bu yozuvni e'tiborsiz qoldirish qiyin.",
+  "witness": "Yozuv ko'plab kino yulduzlarining yuksalishi va tanazzuliga guvoh bo'lgan."
  }
 });

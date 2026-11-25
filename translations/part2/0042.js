@@ -1,4 +1,4 @@
-// Part 2 topic 0042: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0042: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0042', {
  "A1": {
   "Yiddish": "U idish tilida gapiradi.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('2', '0042', {
   "spiel": "Yod olingan balandparvoz gaplaridan tozalangach, taklif mohiyatan juda kam narsa berishi ma'lum bo'ldi.",
   "spieler": "Iqtidorli gap ustasi bo'lgan u musiqa biznesida yaxshi hikoya ko'pincha qo'shiqlardan ham muhimroq ekanini tushunardi.",
   "stage name": "Sahna taxallusi uning obrazidan shu qadar ajralmas bo'lib qoldiki, kam muxlislar uning asl ismi Jon Laydon ekanini bilishardi."
+ },
+ "EX": {
+  "Yiddish": "\"Spiel\" va \"spieler\" so'zlari idish tilidan kelib chiqqan.",
+  "articulate": "Intervyularda xonanda kutilmaganda fikrini ravon va aniq ifodalardi.",
+  "charmer": "G'azabli obraziga qaramay, xonanda haqiqiy maftunkor bo'la olardi.",
+  "establishment": "Pank hukmron tuzumga qarshi isyon edi.",
+  "likeable": "Sahnadan tashqarida u yoqimtoy va kulgili odam edi.",
+  "lively": "Pank konsertlari shovqinli, jo'shqin va ba'zan tartibsiz bo'lardi.",
+  "lover": "Musiqa ixlosmandlari hali ham qaysi pank guruh eng yaxshisi bo'lgani haqida bahslashishadi.",
+  "pistol": "Guruh xavfli eshitilishi uchun o'z nomini to'pponcha so'zidan oldi.",
+  "punk": "Pank 1976-yilda Britaniya musiqa sahnasiga portlashdek kirib keldi.",
+  "spiel": "Sotuvchi bizga mahsulot haqidagi odatiy uzundan-uzun maqtov gaplarini aytdi.",
+  "spieler": "Guruh menejeri har qanday narsani sota oladigan mashhur gapdon edi.",
+  "stage name": "Jonni Rotten guruh bosh xonandasining sahna taxallusi edi."
  }
 });

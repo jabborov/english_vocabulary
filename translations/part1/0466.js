@@ -1,4 +1,4 @@
-// Part 1 topic 0466: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0466: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0466', {
  "A1": {
   "Kat": "Ket mening dugonam.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0466', {
   "research project": "Universitetning tadqiqot loyihasi nima uchun ritm til o'rganishga yordam berishini o'rgandi.",
   "simile": "Haddan tashqari ko'p ishlatilgan o'xshatishlar tezda yozuvchi uslubini zaiflashtiradigan qolip iboralarga aylanadi.",
   "string of words": "Esda qolarli satr - bu ritmi xotiraga o'rnashib qoladigan so'zlar tizmasidir."
+ },
+ "EX": {
+  "Kat": "Ket o'zining sevimli she'rini ovoz chiqarib o'qidi.",
+  "alliteration": "\"Big brown bear\" alliteratsiyaga misoldir.",
+  "assonance": "\"Fleet feet sweep by sleeping geese\" jumlasi unli tovushlar uyg'unligi — assonansga boy.",
+  "blue murder": "Chaqaloq tun bo'yi dodlab, jon-jahdi bilan qichqirdi.",
+  "come in handy": "Bir nechta she'rni yoddan bilish asqotib qolishi mumkin.",
+  "dearly": "Men oilamni juda qattiq yaxshi ko'raman.",
+  "impenetrable": "Ba'zi zamonaviy she'rlar tushunib bo'lmaydigandek tuyuladi.",
+  "precipitation": "Ob-havo ma'lumotida kuchli yog'ingarchilik kutilayotgani aytilgan.",
+  "research project": "Tadqiqot loyihasi she'riyatning miyaga ta'sirini o'rgandi.",
+  "simile": "\"Ariday mehnatkash\" — bu o'xshatish.",
+  "string of words": "She'r shunchaki so'zlar tizmasidan iborat emas."
  }
 });

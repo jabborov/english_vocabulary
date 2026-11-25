@@ -1,4 +1,4 @@
-// Part 1 topic 0174: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0174: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0174', {
  "A1": {
   "agent": "U agent.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0174', {
   "queue": "Telefondagi uzun navbatlar mijozlar noroziligining eng keng tarqalgan sabablaridan biridir.",
   "uncertainty": "Sun'iy intellektning ish o'rinlariga ta'siri jiddiy noaniqlik manbai bo'lib qolmoqda.",
   "yelling": "Norozi mijozlarning doimiy baqir-chaqirlari koll-markaz xodimlari orasidagi yuqori stressga sabab bo'ladi."
+ },
+ "EX": {
+  "agent": "Qo'ng'iroqlar markazi operatori mijozlarning savollariga javob beradi.",
+  "aggravate": "Qo'pol javob jahli chiqqan mijozni yanada g'azablantiradi, xolos.",
+  "as a matter of fact": "Aslini olganda, men o'zim ham sun'iy intellekt operatori bilan gaplashganman.",
+  "calm down": "Operator mijozga tinchlanishga yordam berdi.",
+  "displace": "Sun'iy intellekt minglab qo'ng'iroqlar markazi xodimlarining o'rnini egallashi mumkin.",
+  "empathetic": "Mijozlar hamdardlik bildira oladigan operatorni xohlashadi.",
+  "filler": "Sun'iy intellekt ovozlari insonnikiga o'xshash bo'lishi uchun \"hmm\" kabi to'ldiruvchi so'zlar qo'shadi.",
+  "frustrate": "Telefonda uzoq kutish mijozlarning jig'iga tegadi.",
+  "pacify": "Yaxshi operator jahli chiqqan qo'ng'iroq qiluvchini qanday tinchlantirishni biladi.",
+  "phone up": "Bankimga qo'ng'iroq qilsam, ko'pincha kutishimga to'g'ri keladi.",
+  "queue": "Telefonda yarim soat navbatda kutib turdim.",
+  "uncertainty": "To'ldiruvchi so'zlar nutqdagi ikkilanishni ko'rsatishi mumkin.",
+  "yelling": "Qo'ng'iroqlar markazi xodimlari ba'zan baqir-chaqirga duch kelishadi."
  }
 });

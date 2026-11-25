@@ -1,4 +1,4 @@
-// Part 1 topic 0187: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0187: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0187', {
  "A1": {
   "Tristan": "Uning ismi Tristan.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0187', {
   "sleep in": "Bolalikdagi yotoqxonada ertalab bemalol uxlab yotish rohati hissiy xotiralar sel bo'lib qaytishiga sabab bo'ladi.",
   "soap": "Brendlar mijozlar bilan hissiy rishta o'rnatish uchun sovunlariga ataylab o'ziga xos xushbo'y hid beradi.",
   "toast": "Ko'plab britaniyaliklar uchun yangi qizartirilgan non hidi uy qulayligining sinonimidir."
+ },
+ "EX": {
+  "Tristan": "Tristan miyamiz hidlar va xotiralarni qanday bog'lashini tushuntirdi.",
+  "anosmic": "Virusdan keyin u bir necha oy davomida hid bilmay qoldi.",
+  "breathe in": "Chuqur nafas oling va qanday hidni sezayotganingizni ayting.",
+  "close up": "Yaqindan qaraganda gulning hidi ajoyib edi.",
+  "entangle": "Hidlar xotiralarimiz bilan chambarchas bog'lanib ketadi.",
+  "exceptional": "Itlarning hid bilish qobiliyati juda kuchli.",
+  "filter": "Burun biz nafas oladigan havoni filtrlaydi.",
+  "filter out": "Miyamiz o'z uyimizning hidini e'tiborsiz qoldiradi.",
+  "front door": "Kirish eshigini ochishim bilan kechki ovqat hidini sezdim.",
+  "grandad": "Bobomning uyidan doim trubka tutunining hidi kelardi.",
+  "identifier": "Hid biror joyni aniqlab beruvchi kuchli belgi bo'lishi mumkin.",
+  "kick in": "Tanish hidni sezganingizda xotiralar jonlana boshlaydi.",
+  "likelihood": "Hid kayfiyatga ta'sir qilishi ehtimoli katta.",
+  "limbic": "Miyaning limbik qismi his-tuyg'ularni boshqaradi.",
+  "limbic system": "Hid to'g'ridan-to'g'ri limbik tizimga boradi.",
+  "mom": "\"Onamning atiri uyning hidini beradi\", dedi u.",
+  "musty": "Eski uyda dimiqqan, mog'or hidi bor edi.",
+  "not bad": "\"Hidi qanaqa?\" \"Yomon emas!\"",
+  "olfactory": "Hid hid bilish tizimi tomonidan qayta ishlanadi.",
+  "olfactory organ": "Burun — bizning hid bilish a'zoimiz.",
+  "perfume": "U doim bir xil atir sepadi.",
+  "pine": "Uydan qarag'ay va o'tin tutunining hidi kelardi.",
+  "preferred": "Qahva — ertalab men eng yoqtiradigan hid.",
+  "scent": "Har bir uyning o'ziga xos hidi bor.",
+  "sleep in": "Yakshanba kunlari men uzoqroq uxlashni yaxshi ko'raman.",
+  "soap": "Hammomdan sovun hidi kelardi.",
+  "toast": "Qizarib pishgan non hidi menga o'zimni uydagidek his qildiradi."
  }
 });

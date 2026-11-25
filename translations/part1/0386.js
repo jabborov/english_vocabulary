@@ -1,4 +1,4 @@
-// Part 1 topic 0386: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0386: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0386', {
  "A1": {
   "affluent": "Ular badavlat hududda yashashadi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0386', {
   "simplify": "Gazeta sarlavhalari tadqiqotlarni soddalashtirishga moyil bo'lib, uyqu haqidagi nozik xulosalarni bitta shov-shuvli da'voga aylantirib qo'yadi.",
   "take account": "Har qanday oqilona ta'lim siyosati o'smirlarning uyqu sikllaridagi biologik o'zgarishlarni hisobga olishi kerak.",
   "tetchy": "Uyqusiz qolgan kichkintoylarning ota-onalari o'tkazib yuborilgan kunduzgi uyqudan keyingi injiq, yig'loqi kayfiyatni yaxshi bilishadi."
+ },
+ "EX": {
+  "affluent": "Badavlat oilalardagi bolalar har doim ham ko'proq uxlashmaydi.",
+  "ambitious": "Shuhratparast ota-onalar ko'pincha farzandlarini tunda kechgacha o'qishga majbur qilishadi.",
+  "cleverer": "Ko'proq uxlaydigan bolalar aqlliroq bo'ladimi?",
+  "deprive": "Kechasi telefondan foydalanish bolalarni uyqudan mahrum qilishi mumkin.",
+  "get down": "Uyqusizlik odamning ruhini juda tushirib yuborishi mumkin.",
+  "go to sleep": "Har kecha bir vaqtda uxlashga harakat qiling.",
+  "hit the sack": "Juda charchadim, yotib uxlayman.",
+  "lacking": "Ko'plab o'smirlar yetarlicha uxlamaydi.",
+  "pinball": "Charchaganimda miyam xuddi pinbol mashinasidek bo'ladi.",
+  "siesta": "Ispaniyada ko'p odamlar an'anaga ko'ra tushlikdan keyin siyesta qilishadi.",
+  "simplify": "Keling, tushuntirishni siz uchun soddalashtiray.",
+  "take account": "Maktablar o'smirlarning uyqu tartibini hisobga olishlari kerak.",
+  "tetchy": "Bolalar yetarlicha uxlamasa, jizzaki bo'lib qolishadi."
  }
 });

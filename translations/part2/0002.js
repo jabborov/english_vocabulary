@@ -1,4 +1,4 @@
-// Part 2 topic 0002: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0002: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0002', {
  "A1": {
   "addict": "U choyga mukkasidan ketgan.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('2', '0002', {
   "staggering": "Iste'mol qilinadigan choyning aql bovar qilmas hajmi unga bo'lgan befarqlik bilangina tenglasha oladi.",
   "sweetened by": "Hatto eng keskin tanqid ham samimiy e'tirof bilan yumshatilgan bo'lsa, xushmuomalalik bilan qabul qilinishi mumkin.",
   "unremarkable": "Aynan choy ichish britaniyaliklar uchun shu qadar odatiy, e'tiborga molik bo'lmagan hol bo'lgani sababli uning madaniy ahamiyati odatda o'rganilmay qoladi."
+ },
+ "EX": {
+  "addict": "Yillar davomida har kuni qahva ichib, u kofeinga qaram bo'lib qoldi.",
+  "antiseptic": "Hamshira jarohatni bog'lashdan oldin uni antiseptik bilan tozaladi.",
+  "beer": "Ko'p odamlar ishdan keyin bir krujka pivo ichishni yoqtiradi.",
+  "cappuccinos": "Kafe o'zining qaymoqli kapuchinolari bilan mashhur.",
+  "desire": "Ishchilar orasida yuqoriroq maoshga bo'lgan intilish kuchayib borardi.",
+  "dissent": "Hukumat yangi siyosat yuzasidan kuchayib borayotgan noroziliklarga duch keldi.",
+  "gin": "Jin ko'plab kokteyllarda ishlatiladigan mashhur spirtli ichimlik.",
+  "industrious": "Mehnatkash ishchilar loyihani muddatidan oldin tugatishdi.",
+  "institution": "Asrlar davomida pab Britaniyaning o'ziga xos an'anaviy muassasasiga aylangan.",
+  "lattes": "U ikkita latte va bir bo'lak tort buyurtma qildi.",
+  "port": "Portvein — ko'pincha kechki ovqatdan keyin tortiladigan kuchli, shirin vino.",
+  "ruling": "Hukmron tabaqa davlat siyosatiga sezilarli ta'sir ko'rsatgan.",
+  "sober": "U butun oqshom davomida mast bo'lmay, hushyor qoldi.",
+  "sobriety": "Kampaniya yosh haydovchilarni hushyorlikka, ya'ni ichmaslikka undaydi.",
+  "staggering": "Yangi stadionning narxi aql bovar qilmas darajada edi.",
+  "sweetened by": "Choy bir qoshiq asal bilan shirin qilingan edi.",
+  "unremarkable": "Bino tashqaridan mutlaqo e'tiborga molik ko'rinmasdi."
  }
 });

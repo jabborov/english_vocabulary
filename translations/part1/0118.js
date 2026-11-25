@@ -1,4 +1,4 @@
-// Part 1 topic 0118: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0118: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0118', {
  "A1": {
   "UFO": "NUJni ko'rdingizmi?",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0118', {
   "twist": "Har bir yangi burilish bizni javobga yaqinlashtirmasdan, taxminlarni kuchaytiradi.",
   "unidentified": "Biror narsaning noma'lumligicha qolishi uning yerdan tashqari ekanligini anglatmaydi.",
   "universe": "NUJlar o'zga sayyoralik bo'ladimi yoki yo'qmi, koinot bu savolni qonuniy qiladigan darajada ulkan."
+ },
+ "EX": {
+  "UFO": "AQSh hukumati NUJlar haqida hisobot e'lon qildi.",
+  "anomalous": "Olimlar uchuvchilar ko'rgan g'ayrioddiy jismlarni o'rganishadi.",
+  "catch on": "\"Uchar likopcha\" atamasi 1940-yillarda ommalashdi.",
+  "definitive": "Hisobot aniq javob bermadi.",
+  "disc": "Ba'zi guvohlar yaltiroq disk ko'rganliklarini aytishdi.",
+  "extraterrestrial": "Ko'p odamlar NUJlar yerdan tashqari sivilizatsiyaga tegishli deb ishonishadi.",
+  "fighter": "Qiruvchi samolyot uchuvchisi okean ustida bir jismni ko'rdi.",
+  "fly by": "Bir jism katta tezlikda samolyot yonidan uchib o'tdi.",
+  "flying saucer": "Ilgari odamlar NUJlarni uchar likopchalar deb atashardi.",
+  "footage": "Harbiy-dengiz floti g'alati jismlarning video tasvirlarini e'lon qildi.",
+  "handle": "Hukumat bu masalani yaxshi hal qilmadi.",
+  "honesty": "Biz uchuvchilarni ularning halolligiga qarab baholashimiz kerak.",
+  "integrity": "Uchuvchilar halol va vijdonli odamlardir.",
+  "jet": "Jismni kuzatib borish uchun ikkita reaktiv samolyot yuborildi.",
+  "moral": "U haqiqatni aytishni axloqiy burchi deb bildi.",
+  "moral principle": "Haqiqatni aytish — muhim axloqiy tamoyil.",
+  "oval": "Jism oq va oval shaklida edi.",
+  "phenomenon": "NUJlarni ko'rish holatlari — g'alati hodisa.",
+  "principle": "U printsipial ravishda yolg'on gapirishdan bosh tortdi.",
+  "review": "Hukumat tekshiruvi 144 ta kuzatuv holatini ko'rib chiqdi.",
+  "saucer": "Jism likopchaga o'xshardi.",
+  "seemingly": "Jism har qanday samolyotdan ham tezroq harakatlanayotgandek tuyulardi.",
+  "sighting": "O'tgan yili NUJlarni ko'rish holatlari ko'p bo'ldi.",
+  "stare": "Uchuvchilar g'alati jismga tikilib qolishdi.",
+  "supposedly": "Go'yoki bu jism kosmik kema bo'lgan.",
+  "terrestrial": "Aksariyat NUJlarning yerdagi oddiy izohi borligi ma'lum bo'ladi.",
+  "testimony": "Uchuvchi Kongressda guvohlik berdi.",
+  "twist": "Kutilmagan burilishda hukumat ba'zi kuzatuvlarni tushuntira olmasligini tan oldi.",
+  "unidentified": "Uchuvchilar osmonda noma'lum jismni ko'rishdi.",
+  "universe": "Koinotda yolg'izmizmi?"
  }
 });

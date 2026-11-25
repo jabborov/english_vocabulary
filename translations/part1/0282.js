@@ -1,4 +1,4 @@
-// Part 1 topic 0282: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0282: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0282', {
  "A1": {
   "and so forth": "Men olma, nok va shu kabilarni yaxshi ko'raman.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0282', {
   "thou": "Eskirgan \"thou\" (sen) olmoshi murojaatlarga tantanavorlik baxsh etib, zamonaviy yozuvchilarni qadimiy she'riy an'anaga bog'laydi.",
   "toothbrush": "G'oyalar ko'pincha zerikarli oddiy lahzalarda, masalan, qo'lda tish cho'tkasi bilan rakovina oldida turganda, aql ular uchun zo'riqmayotgan paytda keladi.",
   "unstructured": "Muddatlardan xoli, tuzilmasiz vaqt ko'pincha qat'iy rejalashtirish bostirib qo'yadigan g'oyalarning yuzaga chiqishiga imkon beradi."
+ },
+ "EX": {
+  "and so forth": "Biz syujetlar, qahramonlar, voqealar joyi va hokazolarni muhokama qildik.",
+  "answer for": "Ko'p muammolarga mukammallikka intilish aybdor.",
+  "blockage": "Yozuvchi to'xtalishi – bu o'ziga xos ruhiy to'siq.",
+  "bundle": "U chordoqdan bir bog'lam eski xatlarni topdi.",
+  "cut away": "Yaxshi tahrir – keraksiz hamma narsani kesib tashlash demakdir.",
+  "dry up": "Birinchi romanidan keyin uning g'oyalari shunchaki tugab qoldi.",
+  "drying up": "G'oyalarining tugab qolgani uning muharririni xavotirga soldi.",
+  "elbow": "Tirsagimni eshikka urib oldim.",
+  "enlighten": "G'oyalaringizni qanday topishingiz haqida menga tushuntirib bera olasizmi?",
+  "externalise": "Fikrlarni qog'ozga tushirish tashvishlaringizni tashqariga chiqarishga yordam beradi.",
+  "fluid": "To'siq yo'qolgach, u yana ravon yoza boshladi.",
+  "golfer": "Hatto eng kuchli golfchilar ham ba'zan o'zlariga bo'lgan ishonchni yo'qotishadi.",
+  "impediment": "Muvaffaqiyatsizlikdan qo'rqish yozish yo'lidagi eng katta to'siqdir.",
+  "invoke": "Qadimgi shoirlar she'r boshida muzalarga murojaat qilishgan.",
+  "marathon": "Roman yozish – qisqa yugurish emas, marafon.",
+  "muse": "Ba'zi yozuvchilar shunchaki yozishni boshlash o'rniga ilhom parisini kutishadi.",
+  "objectified": "Qog'ozda uning qo'rquvlari aniq shaklga kirib, ular bilan kurashish osonlashdi.",
+  "psychoanalyst": "\"Yozuvchi to'xtalishi\" atamasini bir psixoanalitik ommalashtirgan.",
+  "psychological condition": "Ba'zi mutaxassislar ijodiy to'xtalishni psixologik holat deb hisoblashadi.",
+  "rut": "U o'zini bir xillik botqog'iga botib qolgandek his qildi va yangi hech narsa yoza olmadi.",
+  "sheaf": "Uning qo'lida bir dasta toza qog'oz bor edi.",
+  "symbolize": "Bo'sh sahifa yozuvchining qo'rquvini ramziy ifodalaydi.",
+  "tennis elbow": "U tirsak og'rig'i tufayli o'ynashni to'xtatishga majbur bo'ldi.",
+  "thalamus": "Olimlar ijodkorlikni tushunish uchun talamusni o'rganishgan.",
+  "thou": "\"Thou\" – \"you\" so'zining she'rlarda va Injilda ishlatiladigan eski shakli.",
+  "toothbrush": "Menga yangi tish cho'tkasi kerak.",
+  "unstructured": "Har kuni ertalab o'n daqiqa erkin, tuzilmasiz yozib ko'ring."
  }
 });

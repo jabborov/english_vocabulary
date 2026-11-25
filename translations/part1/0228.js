@@ -1,4 +1,4 @@
-// Part 1 topic 0228: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0228: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0228', {
  "A1": {
   "bookshop": "Men kitob do'koniga bordim.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0228', {
   "rid of": "Salbiy fikrlardan shunchaki qutulish mumkin degan va'da inson psixologiyasini haddan tashqari soddalashtiradi.",
   "tidy up": "Ba'zilarning fikricha, tartibga keltirish buyumlardan ko'ra o'z hayotini boshqarish tuyg'usini qayta tiklash bilan bog'liq.",
   "tidying": "Tartibga keltirish ishtiyoqi o'z-o'zini rivojlantirish uy hayotining har bir burchagiga kirib borganini ko'rsatadi."
+ },
+ "EX": {
+  "bookshop": "Har bir kitob do'konida o'z-o'zini rivojlantirish kitoblari butun-butun javonlarni to'ldirib turadi.",
+  "coaching": "Hayotiy kouching ulkan biznesga aylandi.",
+  "dwindle": "Bir necha haftadan so'ng ishtiyoqim so'na boshladi.",
+  "get even": "O'z-o'zini rivojlantirish kitoblari odatda sizni xafa qilgan odamlardan o'ch olishga urinmaslikni maslahat beradi.",
+  "go far": "Qattiq mehnat qilsangiz, katta yutuqlarga erishasiz.",
+  "influential": "Bu hozirgacha yozilgan eng nufuzli o'z-o'zini rivojlantirish kitoblaridan biri.",
+  "resistant": "Ba'zi odamlar qancha kitob o'qishmasin, o'zgarishlarga qarshilik ko'rsatishadi.",
+  "rid of": "Kitob sizni baxtli qilmaydigan har qanday narsadan qutulishni maslahat beradi.",
+  "tidy up": "U dam olish kunlarini uyini yig'ishtirishga sarfladi.",
+  "tidying": "Tartib-intizomga keltirish haqidagi kitob butun dunyoda bestsellerga aylandi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0149: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0149: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0149', {
  "A1": {
   "activate": "Kartangizni faollashtiring.",
@@ -179,5 +179,35 @@ VOCAB_TR_STORE('1', '0149', {
   "span": "Insoniyat tarixining davomiyligi bilan solishtirganda, ommaviy savodxonlik ajablanarli darajada yaqinda erishilgan yutuqdir.",
   "superficially": "Yuzaki o'qib, biz ma'lumotni hech qachon tushunchaga aylantirmasdan o'zlashtiramiz.",
   "volume": "Tobora ortib borayotgan matnlar hajmiga duch kelgan o'quvchilar ularni maza qilib o'qish o'rniga tobora ko'proq shunchaki tatib ko'rishmoqda."
+ },
+ "EX": {
+  "activate": "Kitob o'qish miyaning ko'plab sohalarini faollashtiradi.",
+  "analogy": "U o'qish miyani qanday o'zgartirishini tushuntirish uchun o'xshatishdan foydalandi.",
+  "analytic": "Kitob o'qish tahliliy ko'nikmalarimizni yaxshilaydi.",
+  "attention span": "Ba'zilar diqqatimizni jamlash muddati qisqarib borayotganidan xavotirda.",
+  "availability": "Telefonlarning hamma uchun mavjudligi odamlar kamroq kitob o'qishiga olib keladi.",
+  "bombard": "Har kuni bizni axborot bilan bombardimon qilishadi.",
+  "cerebral": "Kitob o'qish aqliy faoliyatdir.",
+  "cerebral cortex": "Kitob o'qish miya po'stlog'ining ko'plab qismlarini faollashtiradi.",
+  "comparison": "Kitoblar bilan taqqoslaganda, ijtimoiy tarmoqlar juda tez.",
+  "concentrated": "Roman o'qish jamlangan diqqatni talab qiladi.",
+  "cortex": "Po'stloq miyaning biz fikrlash uchun foydalanadigan qismidir.",
+  "depth": "Kitoblar bizga qisqa postlar bera olmaydigan chuqur tushunchani beradi.",
+  "empathic": "Badiiy adabiyot o'qish bizni boshqalarga ko'proq hamdard qilishi mumkin.",
+  "human beings": "Insonlar o'qish qobiliyati bilan tug'ilmagan; bu biz o'rganadigan narsa.",
+  "infer": "Yaxshi kitobxonlar muallif nima demoqchi ekanini xulosa qilib anglay oladi.",
+  "inference": "Kitob o'qish xulosa chiqarish kabi ko'nikmalarni rivojlantirishga yordam beradi.",
+  "literacy": "Savodxonlik inson ega bo'lishi mumkin bo'lgan eng muhim ko'nikmalardan biridir.",
+  "magical power": "Ba'zilarning aytishicha, kitoblar fikrlash tarzimizni o'zgartiradigan sehrli kuchga ega.",
+  "notification": "Kitob o'qimoqchi bo'lganimda bildirishnomalarni o'chirib qo'yaman.",
+  "ping": "Telefonimdan kelgan har bir signal diqqatimni bo'ladi.",
+  "prison": "Qamoqxonalardagi kitobxonlik dasturlari mahbuslarga hayotini o'zgartirishga yordam berishi mumkin.",
+  "propensity": "Ekrandan o'qiganda biz matnni yuzaki ko'z yugurtirib chiqishga moyilmiz.",
+  "pump": "Telefonlarimiz kun bo'yi bizga axborot quyib turadi.",
+  "sheer": "Internetdagi axborotning naqadar ko'pligi odamni toliqtiradi.",
+  "skim": "Ekranlarda biz chuqur o'qish o'rniga ko'z yugurtirib chiqishga moyilmiz.",
+  "span": "Qisqa vaqt oralig'ida kitob o'qish odatlari ancha o'zgardi.",
+  "superficially": "Hozir ko'pchilik yuzaki o'qiydi.",
+  "volume": "Internetdagi axborotning ulkan hajmi odamni toliqtirib qo'yishi mumkin."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0362: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0362: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0362', {
  "A1": {
   "city centre": "Men shahar markazida ishlayman.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0362', {
   "insurance": "Uchinchi shaxs oldidagi javobgarlik sug'urtasi velosipedchilarni piyodaga shikast yetkazgan taqdirda xonavayron qiluvchi da'volardan himoya qiladi.",
   "insurance company": "Sug'urta kompaniyalari xavfsizlik kurslarini o'tagan velosipedchilarni tobora arzonroq sug'urta badallari bilan rag'batlantirmoqda.",
   "peace of mind": "Kamtarona yillik xarajat to'liq sug'urta beradigan xotirjamlik uchun arzimas narxdir."
+ },
+ "EX": {
+  "city centre": "Tig'iz soatlarda shahar markazida velosiped haydash xavfli bo'lishi mumkin.",
+  "dangerously": "Ba'zi haydovchilar velosipedchilarning xavfli darajada yaqinidan o'tib ketishadi.",
+  "fluorescent": "Haydovchilar sizni ko'rishi uchun yorqin rangli kurtka kiying.",
+  "fold up": "Velosiped yigirma soniyadan kamroq vaqtda yig'iladi.",
+  "folding": "U har kuni yig'ma velosipedini poyezdga olib chiqadi.",
+  "insurance": "Qimmat velosipedni sug'urta qildirish yaxshi fikr.",
+  "insurance company": "Sug'urta kompaniyasi yangi velosiped uchun pul to'ladi.",
+  "peace of mind": "Sug'urta yo'lda bo'lganingizda xotirjamlik beradi."
  }
 });

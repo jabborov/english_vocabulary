@@ -1,4 +1,4 @@
-// Part 1 topic 0065: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0065: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0065', {
  "A1": {
   "ant": "Men chumolini ko'ryapman.",
@@ -215,5 +215,41 @@ VOCAB_TR_STORE('1', '0065', {
   "tendon": "Uzun va prujinasimon paylarimiz uzoq masofaga yugurish uchun muhim evolyutsion moslashuvdir.",
   "upriver": "Daryo bo'ylab yuqoriga suzish to'plangan energiyadan favqulodda samarali foydalanishni talab qiladi.",
   "you said it": "\"Samaradorlik tezlikdan muhimroq.\" \"To'g'ri aytdingiz, gap ham aynan shunda.\""
+ },
+ "EX": {
+  "ant": "Chumolilar juda samarali ishchilardir.",
+  "ape": "Odamsimon maymunlar yurish uchun odamlarga qaraganda ko'proq energiya sarflaydi.",
+  "beast": "Kim samaraliroq - inson yoki hayvon?",
+  "bend": "Burilishdan oldin tezlikni pasaytiring.",
+  "bent over": "Shimpanzelar bukchayib yuradi.",
+  "champion": "U 100 metrga yugurish bo'yicha Olimpiya chempioni.",
+  "cheetah": "Gepard quruqlikdagi eng tez hayvondir.",
+  "chimpanzee": "Shimpanzelar yurish uchun odamlarga qaraganda taxminan to'rt baravar ko'p energiya sarflaydi.",
+  "composition": "Sprinterlar va marafonchilarning mushak tarkibi bir-biridan farq qiladi.",
+  "crouch": "Yuguruvchi start chizig'ida cho'nqayib oldi.",
+  "dogleg": "So'qmoq chap tomonga keskin burilib ketadi.",
+  "drop off": "Juda yuqori tezlikda samaradorlik pasayib ketadi.",
+  "efficiency": "Olimlar hayvonlar harakatining samaradorligini o'rganadi.",
+  "elasticity": "Paylarimizning elastikligi yugurishimizga yordam beradi.",
+  "evolve": "Odamlar uzoq masofalarga yugurishga moslashib, evolyutsiyalashgan.",
+  "forwards": "Yugurayotganingizda biroz oldinga engashing.",
+  "gorilla": "Gorilla eng yirik odamsimon maymundir.",
+  "input": "Samaradorlik sarflangan va hosil bo'lgan energiya bilan bog'liq.",
+  "kilo": "Gepard taxminan ellik kilogramm keladi.",
+  "lean": "Yuguruvchilar biroz oldinga engashadi.",
+  "move on": "Keling, keyingi savolga o'tamiz.",
+  "optimal": "Samarali yugurish uchun eng maqbul tezlik mavjud.",
+  "output": "Qanchalik kam energiya sarflab ko'proq natija olsangiz, shunchalik samaraliroq bo'lasiz.",
+  "physiologist": "Fiziolog odamlar nima uchun yaxshi yuguruvchi ekanini tushuntirib berdi.",
+  "remarkably": "Odamlar ajoyib darajada samarali yuguruvchilardir.",
+  "run for": "Odamlar to'xtamasdan soatlab yugura oladi.",
+  "runner": "Odamlar uzoq masofaga a'lo darajada yuguradi.",
+  "running": "Uzoq masofalarga yugurish odamlar yaxshi uddalaydigan ishdir.",
+  "salmon": "Losos baliqlari tuxum qo'yish uchun daryo bo'ylab yuqoriga suzadi.",
+  "sharp": "Yo'lda keskin burilish bor.",
+  "sprinter": "Hatto eng yaxshi yuguruvchi inson ham gepardga qaraganda sekinroq.",
+  "tendon": "Axilles payi prujina kabi ishlaydi.",
+  "upriver": "Losos baliqlari har yili daryo oqimiga qarshi suzadi.",
+  "you said it": "\"Marafon yugurish og'ir mehnat!\" \"Rost aytasiz!\""
  }
 });

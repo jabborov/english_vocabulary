@@ -1,4 +1,4 @@
-// Part 1 topic 0161: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0161: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0161', {
  "A1": {
   "cassette": "Menda eski qo'shiqlar yozilgan kasseta bor.",
@@ -233,5 +233,44 @@ VOCAB_TR_STORE('1', '0161', {
   "wind up": "Meni jahlimni chiqarishga urinishni bas qil — floppi disklar haqida shunchaki hazillashayotganingni bilaman.",
   "wound": "E'tibor bering: \"wind\" (burab qo'ymoq) fe'lidan kelgan \"wound\" /waʊnd/ \"jarohat\" ma'nosidagi \"wound\" /wuːnd/ so'zidan boshqacha talaffuz qilinadi.",
   "wound up": "Qurilmaga batareya kerak emas: bir marta buralgach, u to'plangan mexanik energiya hisobiga soatlab ishlay oladi."
+ },
+ "EX": {
+  "cassette": "Ba'zi guruhlar endi yangi albomlarini kassetada chiqarmoqda.",
+  "cassette player": "O'smirlar yana qo'lda ishlatilgan kasseta pleyerlarini sotib ola boshlashdi.",
+  "clockwork": "Muhandislar Venerani tadqiq qilish uchun prujinali mexanizmda ishlaydigan rover taklif qilishdi.",
+  "comeback": "Vinil plastinkalar va kassetalar yana urfga qaytmoqda.",
+  "computer keyboard": "Stenograf mashinasida kompyuter klaviaturasiga qaraganda ancha kam tugma bor.",
+  "court": "Sudda har bir so'z stenografist tomonidan yozib olinadi.",
+  "curator": "Muzey kuratori ba'zi eski texnologiyalar nega saqlanib qolishini tushuntirib berdi.",
+  "disk": "Kompyuterni o'chirishdan oldin faylni diskka saqlang.",
+  "fax": "Ko'plab shifoxonalar hamon bemorlar hujjatlarini faks orqali yuboradi.",
+  "floppy": "Ilk disketlar haqiqatan ham egiluvchan bo'lgan, chunki ular yupqa, bukiladigan plastikdan yasalgan edi.",
+  "floppy disk": "Ba'zi davlat idoralari yaqin-yaqingacha disketlardan foydalanib kelgan.",
+  "for the moment": "Hozircha stenograf mashinasidan hamon foydalanilmoqda.",
+  "home computer": "Ilk uy kompyuterlari dasturlarni kassetalarda saqlagan.",
+  "in use": "Ba'zi joylarda disketlar hamon ishlatilmoqda.",
+  "inch": "Eski disketlarning eni uch yarim dyuym edi.",
+  "inhospitable": "Venera Quyosh tizimidagi hayot uchun eng noqulay joylardan biridir.",
+  "kilobyte": "Ilk uy kompyuterlarining xotirasi bor-yo'g'i bir necha kilobayt edi.",
+  "machinery": "Eski zavod uskunalari ko'pincha hamon disketlarga tayanadi.",
+  "magnetic": "Axborot lentaning magnitli yuzasida saqlanadi.",
+  "magnetic tape": "Ulkan hajmdagi ma'lumotlar hali ham magnit lentada saqlanadi.",
+  "obsolete": "Eskirgandek tuyulgan texnologiya ba'zi vaziyatlarda hali ham foydali bo'lishi mumkin.",
+  "official document": "Odamlar rasmiy hujjatlarni disketda topshirishlari kerak edi.",
+  "physics laboratory": "Fizika laboratoriyasidagi ba'zi eski apparatlar hamon disketlardan foydalanadi.",
+  "plug": "Prujinali mexanizmlarga vilka ham, batareya ham kerak emas.",
+  "reel": "Eski kompyuter ma'lumotlari katta lenta g'altaklarida saqlangan.",
+  "rover": "Boshqa sayyorani tadqiq qilayotgan rover juda og'ir sharoitlarga bardosh berishi kerak.",
+  "satisfactorily": "Eski tizim hali ham qoniqarli ishlayapti, shuning uchun uni hech kim o'zgartirishni xohlamaydi.",
+  "standardise": "Hukumatlar hujjatlarni yuborish tartibini standartlashtirishga harakat qilmoqda.",
+  "stenographer": "Stenografist guvohning aytgan har bir so'zini yozib bordi.",
+  "takedown": "Stenografistning sud jarayonini yozib olgan matni mutlaqo aniq edi.",
+  "tape": "Ma'lumotlar har kecha lentaga ko'chiriladi.",
+  "total darkness": "Elektr o'chganda xona zim-ziyo qorong'ilikka cho'mdi.",
+  "verbatim": "Sud stenografistlari aytilgan hamma narsaning so'zma-so'z yozuvini tayyorlaydi.",
+  "wheel": "Soat ichidagi g'ildirakchalar sekin aylanadi.",
+  "wind up": "Radioni ishlatishdan oldin uni burab qo'yishingiz kerak.",
+  "wound": "U har yakshanba ertalab eski soatni burab qo'yardi.",
+  "wound up": "Prujina buralgach, o'yinchoq o'z-o'zidan harakatlana oladi."
  }
 });

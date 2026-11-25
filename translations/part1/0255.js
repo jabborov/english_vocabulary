@@ -1,4 +1,4 @@
-// Part 1 topic 0255: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0255: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0255', {
  "A1": {
   "III": "Georg III qirol bo'lgan.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0255', {
   "skeleton in the closet": "Aksariyat oila tarixlarida noqonuniy farzandlardan tortib sudlanganlikkacha bo'lgan kamida bitta yashirin sir bor.",
   "waste of money": "Ajdodlarni aniqlovchi testlar pulni behuda sovurishmi yoki yo'qmi, ko'p jihatdan odamlar ulardan nimani bilishni umid qilishiga bog'liq.",
   "working class": "Oila tarixchilari ko'pincha tarix kitoblarida kamdan-kam aks etadigan ishchilar sinfining yashirin hayotini ochib berishadi."
+ },
+ "EX": {
+  "III": "Qirol Georg III Britaniyani oltmish yil boshqargan.",
+  "closet": "U shkafning orqa tomonida eski xatlarni topdi.",
+  "descendent": "U o'zining mashhur bir dengizchining avlodi ekanini bilib qoldi.",
+  "digitise": "Ko'plab eski hujjatlar raqamlashtirilib, internetga joylandi.",
+  "distantly": "U mashhur bir aktyorga uzoqdan qarindosh ekanini bilib qoldi.",
+  "gateway": "DNK testi oila tarixingizni kashf etishga eshik ochishi mumkin.",
+  "genealogy": "Genealogiya juda ommabop mashg'ulotga aylandi.",
+  "great grandfather": "U katta bobosining suratini topib oldi.",
+  "immigration": "Immigratsiya hujjatlari ajdodlaringizni topishda yordam berishi mumkin.",
+  "lore": "Oilaviy rivoyatlarga ko'ra, biz mashhur bir shoirga qarindosh ekanmiz.",
+  "mystery story": "Oilangizni tadqiq qilish detektiv hikoya o'qishga o'xshab ketishi mumkin.",
+  "saliva": "DNK tahlili uchun so'lagingizdan namuna yuborasiz.",
+  "skeleton in the closet": "Oilangiz tarixini o'rganish yashirin sharmandali sirni fosh qilishi mumkin.",
+  "waste of money": "Ba'zilar DNK orqali nasl-nasabni aniqlash testlarini pulni behuda sovurish deb hisoblaydi.",
+  "working class": "Ko'pchilik ajdodlari ishchilar sinfiga mansub bo'lganini bilib oladi."
  }
 });

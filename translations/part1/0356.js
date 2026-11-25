@@ -1,4 +1,4 @@
-// Part 1 topic 0356: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0356: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0356', {
  "A1": {
   "freshen": "Xonani shamollating.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0356', {
   "punctual": "O'ta vaqtga rioya qiluvchi bo'lish tahsinga loyiq, garchi ayrim madaniyatlarda ijtimoiy tadbirga aynan belgilangan vaqtda kelish biroz g'alati hisoblansa-da.",
   "punctuality": "Bir paytlar professionallik belgisi bo'lgan qat'iy vaqtga rioya qilish zamonaviy moslashuvchan ish tartiblariga unchalik mos kelmaydi.",
   "standstill": "Metrodagi ish tashlashlar poytaxtning katta qismini deyarli to'liq to'xtab qolishiga olib keldi."
+ },
+ "EX": {
+  "freshen": "Havoni yangilash uchun derazani oching.",
+  "freshen up": "Yig'ilishdan oldin yuvinib, o'zimni tartibga keltirib olmoqchiman.",
+  "hang around": "Uni kutib, bir soat bekorga turishimizga to'g'ri keldi.",
+  "lateness": "Uning kechikishi butun jamoaning jahlini chiqardi.",
+  "panicky": "Kechikishimni tushunganimda vahimaga tushdim.",
+  "punctual": "U yig'ilishlarga doim o'z vaqtida keladi.",
+  "punctuality": "Biznesda vaqtga rioya qilish juda muhim.",
+  "standstill": "Avtomagistralda transport harakati butunlay to'xtab qoldi."
  }
 });

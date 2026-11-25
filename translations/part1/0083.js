@@ -1,4 +1,4 @@
-// Part 1 topic 0083: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0083: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0083', {
  "A1": {
   "accomplish": "Men maqsadimga erishdim.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0083', {
   "structured": "Ko'plab sog'liq foydalariga hech qanday rasmiy, tizimli mashg'ulot dasturisiz erishish mumkin.",
   "trade": "Murosa aniq: daqiqalarda tejaganingizni kuch-g'ayrat bilan to'lashingiz kerak.",
   "treadmill": "Ko'pchilik uchun yugurish yo'lakchasi ularni sportdan butunlay sovutadigan zerikarli takrorlanishning timsolidir."
+ },
+ "EX": {
+  "accomplish": "O'n daqiqalik mashg'ulotda ko'p narsaga erishishingiz mumkin.",
+  "bang": "Yuqori jadallikdagi mashqlar sarflagan kuchingizga yarasha ko'proq naf beradi.",
+  "buck": "Zinapoyadan yugurib chiqish yurishdan ko'ra sarflangan pulga ko'proq naf beradi.",
+  "burst": "Qisqa muddatli shiddatli mashqlar juda samarali bo'lishi mumkin.",
+  "disadvantage": "Jadal mashqlarning kamchiligi shundaki, bu og'ir mehnat.",
+  "downgrade": "Mutaxassislar sizga kerakli mashq miqdorini kamaytirishdi.",
+  "feel out": "Mashq qilganda nafasingiz qisilishi kerak.",
+  "get away": "Kuniga bor-yo'g'i bir necha daqiqa mashq qilib qutulib keta olasizmi?",
+  "intensive": "Jadal mashqlar sizni qattiq nafas olishga majbur qiladi.",
+  "lazy": "Sport zaliga borishga juda dangasalik qilaman.",
+  "lifestyle": "Sog'lom turmush tarziga muntazam jismoniy mashqlar ham kiradi.",
+  "literature": "Jismoniy mashqlar haqidagi ilmiy adabiyotlar juda ko'p.",
+  "minimum": "Men qilishim kerak bo'lgan eng kam mashq miqdori qancha?",
+  "moderate": "Shifokorlar haftasiga 150 daqiqa o'rtacha jismoniy mashq qilishni tavsiya qiladi.",
+  "put in": "Nimaga qancha kuch sarflasangiz, shuncha natija olasiz.",
+  "resolution": "Yangi yilda o'zimga bergan va'dam — sog'lom va baquvvat bo'lish.",
+  "run on": "Sog'lom bo'lish uchun yugurish yo'lakchasida soatlab yugurishingiz shart emas.",
+  "sedentary": "Bugungi kunda ko'p odamlar kam harakatli ishlarda ishlaydi.",
+  "stair": "Liftga emas, zinadan chiqing.",
+  "structured": "Sizga har doim ham sport zalidagi mashg'ulot kabi tartibli mashqlar kerak emas.",
+  "trade": "Qancha uzoq va qancha qattiq mashq qilish o'rtasida murosa bor.",
+  "treadmill": "Yugurish yo'lakchasida yugurish menga juda zerikarli tuyuladi."
  }
 });

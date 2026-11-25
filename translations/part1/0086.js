@@ -1,4 +1,4 @@
-// Part 1 topic 0086: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0086: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0086', {
  "A1": {
   "bake": "Men tort pishiraman.",
@@ -203,5 +203,39 @@ VOCAB_TR_STORE('1', '0086', {
   "waistline": "Kengayib borayotgan bel o'lchamlari ortiqcha ovqatlanishni rag'batlantirish uchun yaratilgan muhitning ko'zga ko'rinadigan alomatidir.",
   "yoghurt": "Ta'mli yogurtlarda ko'pincha shu qadar ko'p qo'shilgan shakar bo'ladiki, u tarkibidagi meva foydasini yo'qqa chiqaradi.",
   "yogurt": "\"Yogurt\" ham, \"yoghurt\" ham qabul qilingan imlo shakllari, ammo xalqaro miqyosda hozir birinchisi keng tarqalgan."
+ },
+ "EX": {
+  "bake": "Olmalarni ozgina dolchin bilan pishirishingiz mumkin.",
+  "banana": "Banan va olma sog'lom yengil tamaddi bo'ladi.",
+  "blood pressure": "Olma yeyish qon bosimini pasaytirishga yordam berishi mumkin.",
+  "blueberry": "Ko'k mevalar (chernika) ham flavonoidlarga boy.",
+  "body weight": "Olma yeyish tana vaznini nazorat qilishga yordam berishi mumkin.",
+  "chemical compound": "Flavonoidlar o'simliklarda uchraydigan kimyoviy birikmalardir.",
+  "compound": "Olmalarda yurakni himoya qilishi mumkin bo'lgan birikmalar bor.",
+  "dessert": "Pishirilgan olmalar oddiy va foydali shirinlik bo'ladi.",
+  "eating apple": "Gala — qarsildoq yeyiladigan olma navi.",
+  "exotic": "Olmalar mangochalik ekzotik bo'lmasligi mumkin, lekin ular ham xuddi shunday foydali.",
+  "flavonoid": "Olmalar flavonoidlarga boy bo'lib, ular yurak uchun foydali bo'lishi mumkin.",
+  "flow": "Flavonoidlar qon aylanishini yaxshilashi mumkin.",
+  "following": "Olmalar haqidagi quyidagi parchani tinglang.",
+  "louder": "Iltimos, buni biroz balandroq ayta olasizmi?",
+  "occasional": "Vaqti-vaqti bilan shirinlik yeyish mayli, lekin har kuni olma yegan yaxshiroq.",
+  "oven": "Olmalarni yigirma daqiqaga duxovkaga qo'ying.",
+  "pack": "Olmalar vitaminlar va kletchatkaga to'la.",
+  "pear": "Nok va olmada o'xshash foydali birikmalar bor.",
+  "peckish": "Biroz qornim ochdi, bitta olma yeb olaman.",
+  "pippin": "Cox's Orange Pippin — Britaniyada mashhur bo'lgan yeyiladigan olma navi.",
+  "porridge": "Bo'tqamga qirg'ichdan o'tkazilgan olma qo'shaman.",
+  "proverb": "\"Kuniga bitta olma yesang, shifokorga ishing tushmaydi\" — mashhur ingliz maqoli.",
+  "slice": "Salatingizga bir necha bo'lak olma qo'shing.",
+  "smoothie": "Olmalarni smuzi qilib aralashtirishingiz mumkin.",
+  "trim": "Olmalar belingizni ingichkalashtirishga yordam berishi mumkin.",
+  "unfamiliar": "Ba'zi olma navlari sizga notanish bo'lishi mumkin.",
+  "versatile": "Olmalar juda ko'p maqsadda ishlatiladi: ularni xom, pishirilgan yoki pirog ichida yeyish mumkin.",
+  "vitamin": "Olmada C vitamini bor.",
+  "waist": "Bu shim belda juda tor.",
+  "waistline": "Olmalar bel o'lchamingiz uchun foydali.",
+  "yoghurt": "To'g'ralgan olma yogurt bilan juda mazali.",
+  "yogurt": "Yogurtingiz ustiga olma va asal qo'ying."
  }
 });

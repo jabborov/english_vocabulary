@@ -1,4 +1,4 @@
-// Part 2 topic 0048: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0048: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0048', {
  "A1": {
   "Exactly": "\"Bu daraxtmi?\" \"Xuddi shunday.\"",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('2', '0048', {
   "tree climbing centres across the world": "Butun dunyo bo'ylab daraxtga chiqish markazlarining ko'payishi bir paytlar bolalarcha deb rad etilgan mashg'ulot balog'atga yetganidan dalolat beradi.",
   "well-documented": "O'rmon muhitining fiziologik foydalari yaxshi hujjatlashtirilgan bo'lsa-da, ularning aniq mexanizmlari hamon bahsli.",
   "woody arms": "Yozuvchi o'rmonning yog'och qo'llarini hech bir inson inshooti takrorlay olmaydigan o'ziga xos quchoq sifatida tasvirladi."
+ },
+ "EX": {
+  "Exactly": "\"Demak, bu qoyaga chiqishga o'xshaydi-yu, faqat daraxtlardami?\" \"Xuddi shunday.\"",
+  "absorb": "Daraxtlar ildizlari orqali suv va ozuqa moddalarini so'radi.",
+  "aroma": "Havoni qarag'ay smolasining xushbo'y hidi tutib ketgan edi.",
+  "associated with": "Alpinizm odatda qoyalar yoki tog'lar bilan bog'lanadi.",
+  "bark": "Qarag'ayning po'stlog'i qo'llarim ostida g'adir-budur edi.",
+  "by default": "Qoyaga chiqish uning sevimli mashg'ulotiga o'z-o'zidan aylandi — yaqin atrofda boshqa imkoniyat yo'q edi.",
+  "come off the bark": "Po'stloqdan chiqayotgan smolaning hidini sezishingiz mumkin.",
+  "competitor": "Har bir ishtirokchi daraxtga iloji boricha tez chiqishi kerak edi.",
+  "cones": "Biz tirmashib chiqayotganimizda qarag'ay qubbalari yerga tushardi.",
+  "foliage": "Biz qalin yashil barglar orasiga tirmashib chiqdik.",
+  "fragrance": "O'rmon qarag'ayning xushbo'y hidiga to'la edi.",
+  "furry-tailed": "Momiq dumli olmaxon shoxdan bizni kuzatib turardi.",
+  "nutrient": "Daraxtlar tuproqdan ozuqa moddalarini oladi.",
+  "pine tree": "Biz o'rmondagi baland qarag'ayga chiqdik.",
+  "resin": "Qarag'aylar ajoyib hid taratadigan smola ishlab chiqaradi.",
+  "resinous": "Havo smola hidiga to'la edi.",
+  "rocks or mountaineering": "Odamlar alpinizm haqida o'ylaganda, qoyalar yoki tog'ga chiqishni ko'z oldiga keltirishadi.",
+  "sap": "Ko'tarilishdan keyin qo'llarim daraxt shirasidan yopishqoq bo'lib qoldi.",
+  "scampered": "Bolalar daraxtga chaqqonlik bilan tirmashib chiqishdi.",
+  "scampered like squirrels": "Bolalar keksa eman daraxtiga olmaxonlardek chaqqon tirmashib chiqishdi.",
+  "to be into climbing": "Akam klubga a'zo bo'lganidan beri alpinizmga qiziqib qoldi.",
+  "to choose something by default": "Ko'pchilik daraxtga chiqish haqida hech eshitmagani uchun noiloj qoyaga chiqishni tanlaydi.",
+  "to scamper": "Olmaxonlar daraxtlarda yuqoriga-pastga chopqillashni yaxshi ko'radi.",
+  "tough climb": "Ulkan sekvoyaga chiqish qiyin bo'ldi, ammo manzara bunga arzirdi.",
+  "tree climbing centres across the world": "Hozir butun dunyo bo'ylab daraxtga chiqish markazlari mavjud.",
+  "well-documented": "Tabiat qo'ynida bo'lishning sog'liqqa foydasi yaxshi isbotlangan.",
+  "woody arms": "Keksa eman bizni o'zining yog'och qo'llarida tutib turdi."
  }
 });

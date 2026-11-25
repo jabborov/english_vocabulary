@@ -1,4 +1,4 @@
-// Part 1 topic 0493: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0493: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0493', {
  "A1": {
   "Antony": "Antonining mashinasi bor.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0493', {
   "steep": "Tik yo'lak hech qachon og'ir transport vositalari uchun mo'ljallanmagan.",
   "subtly": "Reklama beruvchilar nimani sotib olishimizga sezdirmasdan ta'sir ko'rsatadi.",
   "transmitter": "Har bir sun'iy yo'ldosh uzatgich va o'ta aniq soatni olib yuradi."
+ },
+ "EX": {
+  "Antony": "Entonining aytishicha, u uzoq safardan oldin doim xaritani tekshiradi.",
+  "GPS": "Avtomobil GPS'i unga chapga burilib, daryoga kirishni aytdi.",
+  "accidental": "Uning boshqa shaharga borib qolishi mutlaqo tasodifiy edi.",
+  "alarmingly": "Xavotirli darajada ko'p haydovchilar navigatoriga to'liq ishonadi.",
+  "archway": "Yuk mashinasi tor ravoq ostida tiqilib qoldi.",
+  "drive down": "U tor ko'cha bo'ylab mashina haydab ketib, tiqilib qoldi.",
+  "high ground": "Ba'zi navigatorlar qishda haydovchilarni baland tog'li joylar orqali yo'naltiradi.",
+  "inland": "Navigator ularni qirg'oq o'rniga ichkari hududlarga, uzoqqa olib ketdi.",
+  "jammed": "Yuk mashinasi ikki bino orasida qisilib qoldi.",
+  "mayhem": "Tiqilib qolgan yuk mashinasi qishloqda to's-to'polon keltirib chiqardi.",
+  "positioning": "Sun'iy yo'ldosh orqali joylashuvni aniqlash bir necha metr aniqlikda bo'ladi.",
+  "reliant": "Ko'plab haydovchilar navigatorlariga haddan tashqari tayanib qolishgan.",
+  "reverse on": "Haydovchi adashib orqaga yurib, temir yo'l izlariga chiqib qoldi.",
+  "sat": "U sun'iy yo'ldosh navigatoriga ergashib, tor so'qmoqqa burildi.",
+  "shortening": "Yo'l vaqtining qisqarishi navigatorlarning afzalliklaridan biridir.",
+  "steep": "Navigator ularni tik va tor so'qmoqdan pastga yo'naltirdi.",
+  "subtly": "Navigatorlar joylar haqidagi tasavvurimizni sezdirmasdan o'zgartirishi mumkin.",
+  "transmitter": "Sun'iy yo'ldoshda Yerga signal yuboradigan uzatkich bor."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0494: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0494: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0494', {
  "A1": {
   "Celtic": "Bugun \"Seltik\" g'alaba qozondi.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0494', {
   "spill over": "Politsiya raqobat o'yindan keyin zo'ravonlikka aylanib ketishidan xavotirda.",
   "televise": "Ko'proq o'yinlarni televizorda ko'rsatish muxlislarning futbolni kuzatish usulini o'zgartirdi.",
   "whistle": "Yakuniy hushtakdan bir necha daqiqa o'tib, janjal boshlanib ketdi."
+ },
+ "EX": {
+  "Celtic": "\"Seltik\" va \"Reynjers\" futboldagi eng qadimiy raqobatlardan biriga ega.",
+  "clash": "O'yindan keyin raqib muxlislar o'rtasida to'qnashuv bo'ldi.",
+  "confrontation": "Politsiya raqib muxlislar o'rtasidagi har qanday to'qnashuvning oldini olishni istaydi.",
+  "derby": "Glazgo derbisi dunyodagi eng mashhur derbilardan biridir.",
+  "direct correlation": "Tadqiqotchilar yirik o'yinlar va hibsga olishlar o'rtasida bevosita bog'liqlik topishdi.",
+  "domestic violence": "Tadqiqotlar yirik o'yinlar va oiladagi zo'ravonlik o'rtasidagi bog'liqlikni o'rgangan.",
+  "fixture": "Derbi mavsumning eng katta o'yinidir.",
+  "heated": "Derbi har doim qizg'in o'yin bo'ladi.",
+  "licensing": "Litsenziyalash qonunlari o'yin kunlari pablar spirtli ichimlik sotishi mumkin bo'lgan vaqtni cheklaydi.",
+  "match play": "Muxlislar maydonda yaxshi o'yinni ko'rishni xohlashadi.",
+  "midweek": "Chorshanba kuni hafta o'rtasidagi o'yin bor.",
+  "spill over": "Ba'zan raqobat zo'ravonlikka aylanib ketadi.",
+  "televise": "Derbi butun dunyo bo'ylab televizorda ko'rsatiladi.",
+  "whistle": "Muxlislar yakuniy hushtakdan oldin mushtlasha boshlashdi."
  }
 });

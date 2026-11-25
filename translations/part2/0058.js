@@ -1,4 +1,4 @@
-// Part 2 topic 0058: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0058: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0058', {
  "A1": {
   "a little": "Men biroz sovqotyapman.",
@@ -233,5 +233,44 @@ VOCAB_TR_STORE('2', '0058', {
   "sleigh": "Santaning uchuvchi chanasi obrazi Rojdestvoning eng taniqli ramzlaridan biriga aylangan.",
   "stocking": "Paypoq uchidan apelsin topish kambag'alroq zamonlarga borib taqaladigan an'anadir.",
   "typical": "Bugungi odatiy Santa ikki asr davomida ishlagan rassomlar, shoirlar va reklamachilar mahsulidir."
+ },
+ "EX": {
+  "a little": "Rojdestvodan keyin Santa biroz charchagan ko'rinadi.",
+  "at least": "Santa kamida yuz yildan beri qizil kiyimda tasvirlanadi.",
+  "bleach": "Quyosh qizil kostyumni rangsizlantirib, pushti qilib qo'ygan edi.",
+  "bleached": "Santaning soqoli deyarli oqartirilgandek oppoq ko'rinadi.",
+  "boot": "Santa katta qora etik kiyadi.",
+  "clothing": "Santaning kiyimi qizil va oq rangda.",
+  "come round": "Har yili Rojdestvo kelganda bolalar Santani kutishadi.",
+  "come to": "Santa qanday qilib qizil kiyadigan bo'lib qolgan?",
+  "convincing": "U juda ishonarli Santa bo'ladi.",
+  "costume": "Santa kostyumi oq mo'ynali qizil rangda.",
+  "cosy": "Santaning uyi shinam kulba sifatida tasvirlanadi.",
+  "deliver": "Santa Rojdestvo arafasida bolalarga sovg'alar yetkazib beradi.",
+  "dress up": "Amakim har yili Santa qiyofasida kiyinadi.",
+  "fabulous": "Bolalar Santa bilan uchrashib, ajoyib vaqt o'tkazishdi.",
+  "get into": "Santa kostyumini kiyib olishi uchun unga o'n daqiqa kerak bo'ladi.",
+  "hang up": "Bolalar Santa to'ldirishi uchun paypoqlarni osib qo'yishadi.",
+  "ho": "\"Xo-xo-xo!\" deb kuldi Santa.",
+  "horn": "Shimol bug'ularining shoxlar deb ataladigan katta shoxlari bor.",
+  "impression": "Qizil kostyum iliqlik va quvnoqlik taassurotini beradi.",
+  "in the first place": "Aslida Santa nega qizil kiyimda?",
+  "make it": "Santa tonggacha har bir uyga yetib bora oladimi?",
+  "outdoorsman": "Etiklari va qalin paltosi bilan Santa chayir ovchi-sayyohga o'xshaydi.",
+  "persona": "U Santa rolini o'ynaganda quvnoq qiyofaga kiradi.",
+  "personify": "Santa saxovat ruhini o'zida mujassam etadi.",
+  "pick up": "Santa sovg'alar solingan qopini olib, mo'ridan pastga tushadi.",
+  "pure": "Oq rang ko'pincha sof ezgulik ramzi hisoblanadi.",
+  "purity": "Ko'plab madaniyatlarda oq rang poklikni ifodalaydi.",
+  "reindeer": "Santaning chanasini shimol bug'ulari tortadi.",
+  "remove": "Oqartiruvchi vosita matodan rangni ketkazadi.",
+  "run up": "Rojdestvo arafasida savdo markazlari Santa rolini o'ynaydiganlarni ishga olishadi.",
+  "rustic": "Eski rasmlarda Santa jigarrang mo'yna kiygan qishloqi qiyofada tasvirlangan.",
+  "sack": "Santa sovg'alarni katta qopda olib yuradi.",
+  "signify": "Santa paltosining rangi nimani anglatadi?",
+  "sized": "Do'konlarda odam bo'yidagi Santa haykalchalari sotiladi.",
+  "sleigh": "Santa osmonda chanada uchib yuradi.",
+  "stocking": "Ertalab paypoqlar kichik sovg'alarga to'la edi.",
+  "typical": "Odatdagi Santaning oq soqoli va qizil kostyumi bo'ladi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0400: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0400: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0400', {
  "A1": {
   "assessment": "Bugun bizda baholash bor.",
@@ -41,5 +41,12 @@ VOCAB_TR_STORE('1', '0400', {
   "han": "Han singari ko'plab o'rganuvchilar ovoz chiqarib ayta olaman deb his qilganidan ancha ko'proq narsani tushunadi.",
   "joiner": "Tabiatan guruhlarga qo'shilishni yoqtirmaydigan odamlar uchun buning o'rniga yakkama-yakka suhbat mashqlari foydali bo'lishi mumkin.",
   "modifier": "\"Slightly\" yoki \"somewhat\" kabi nozik aniqlovchi so'zlarni o'zlashtirish o'rganuvchilarga tabiiyroq gapirishga yordam beradi."
+ },
+ "EX": {
+  "assessment": "Og'zaki nutq testlari baholashning muhim qismidir.",
+  "evaluation": "O'qituvchi og'zaki nutq ko'nikmalarim haqida baho yozib berdi.",
+  "han": "Hanning aytishicha, u har safar ingliz tilida gapirishga to'g'ri kelganda hayajonlanardi.",
+  "joiner": "Bobom eshik va derazalar yasaydigan duradgor edi.",
+  "modifier": "\"Very nervous\" birikmasida \"very\" so'zi aniqlovchi vazifasini bajaradi."
  }
 });

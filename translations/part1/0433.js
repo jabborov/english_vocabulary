@@ -1,4 +1,4 @@
-// Part 1 topic 0433: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0433: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0433', {
  "A1": {
   "bathhouse": "Biz hammomga bordik.",
@@ -41,5 +41,12 @@ VOCAB_TR_STORE('1', '0433', {
   "randomise": "Randomizatsiyalangan sinovlarsiz saunalar sog'liq uchun foyda keltirishini, shunchaki u bilan birga kelmasligini isbotlash qiyin.",
   "sauna": "Finlar uchun sauna hashamatdan ko'ra kundalik hayotga singib ketgan madaniy instituttir.",
   "saunas": "Taxminan uch million saunasi bilan Finlyandiyada har ikki aholiga taxminan bitta sauna to'g'ri keladi."
+ },
+ "EX": {
+  "bathhouse": "Qadimgi rimliklar do'stlari bilan hammomda uchrashishardi.",
+  "crack up": "U saunada uxlab qolgani haqida gapirib berganda, hammamiz qotib-qotib kuldik.",
+  "randomise": "Tadqiqotchilar ko'ngillilarni tasodifiy tarzda ikki guruhga ajratishdi.",
+  "sauna": "Finlyandiyada deyarli har bir uyda sauna bor.",
+  "saunas": "Finlyandiyada saunalar avtomobillardan ko'p."
  }
 });

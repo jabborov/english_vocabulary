@@ -1,4 +1,4 @@
-// Part 1 topic 0113: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0113: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0113', {
  "A1": {
   "blackboard": "Doskaga yozing.",
@@ -197,5 +197,38 @@ VOCAB_TR_STORE('1', '0113', {
   "unbearable": "Ko'pchilik tinglovchilar uchun arzimas shovqin mizofoniyadan aziyat chekuvchi kishi uchun chinakamiga chidab bo'lmas bo'lishi mumkin.",
   "uncontrollable": "Aziyat chekuvchilar shovqinning kattaligiga hech qanday aloqasi bo'lmagan, jilovlab bo'lmaydigan g'azab to'lqinini tasvirlashadi.",
   "utter": "Aziyat chekuvchilar uchun faqat burun tortish bilan buziladigan uzoq va jimjit imtihon mutlaq azob bo'lishi mumkin."
+ },
+ "EX": {
+  "blackboard": "Tirnoqlarning doskaga ishqalanish tovushi o'ta yoqimsizligi bilan mashhur.",
+  "brake": "Tormozlarning chiyillashi ko'p odamlar yomon ko'radigan tovush.",
+  "chase down": "U chiqillayotgan tovush manbaini izlab topdi.",
+  "coughing": "Ofisdagi to'xtovsiz yo'tal uning diqqatini jamlashini qiyinlashtiradi.",
+  "dinner plate": "Pichoqning likopchaga ishqalanish ovozi uning etini junjiktiradi.",
+  "disguise": "Dugonasi chaynay boshlaganda u jahlini yashirishga urindi.",
+  "distressing": "Qo'zg'atuvchi tovushlar bu dardga chalinganlar uchun juda azobli bo'lishi mumkin.",
+  "euphemistic": "\"Tovushga sezgirlik\" — uning g'azabini ancha yumshatib ifodalaydigan ibora.",
+  "frequently": "Mizofoniya ko'pincha bolalikda boshlanadi.",
+  "helicopter": "Vertolyot shovqini uni chaynash ovozichalik bezovta qilmadi.",
+  "immediacy": "Reaksiyaning shu zahoti yuz berishi bu kasallikdan aziyat chekuvchilarni hayron qoldiradi.",
+  "inability": "Shovqinga e'tibor bermaslikka qodir emasligi ishini qiyinlashtirdi.",
+  "inescapable": "Umumiy ofisda bu tovushlardan qochib qutulib bo'lmaydigandek tuyuladi.",
+  "innocuous": "Ko'pchilik uchun chaynash ovozi zararsiz tovush.",
+  "journal": "Tadqiqot ilmiy jurnalda chop etildi.",
+  "rage": "Kimningdir chaynayotganini eshitish uning g'azabini qaynatib yuborishi mumkin.",
+  "repetitive": "Ruchka chiqillashi kabi takrorlanuvchi tovushlar ko'p uchraydigan qo'zg'atuvchilardir.",
+  "running away": "Ko'pincha tovushdan qochib ketish yagona yengillik bo'ladi.",
+  "rustle": "Yonimdagi odam chips paketini tinmay shitirlatardi.",
+  "sip": "Hatto kimningdir choyni ho'playotganini eshitish ham uning asabiga tegishi mumkin.",
+  "slurp": "Iltimos, sho'rvangizni ho'plab, shovqin qilib ichmang!",
+  "sneeze": "Aksirish odatda uni bezovta qilmaydigan tovushlardan biri.",
+  "snort": "U pishqirib kulib yubordi, qiz esa yuzini burishtirdi.",
+  "squeaking": "Stulning g'ichirlashi uni jinni qilib yuborayotgan edi.",
+  "squeaky": "G'ichirlaydigan eshik hammaning jonidan to'ydirdi.",
+  "sufferer": "Mizofoniyadan aziyat chekuvchilarning ko'pchiligi o'zlarini tushunilmagandek his qilishadi.",
+  "threatening": "Miya ba'zi tovushlarni tahdid sifatida qabul qilishi mumkin.",
+  "torture": "Shovqin qilib ovqatlanadigan odamning yonida o'tirish u uchun azob.",
+  "unbearable": "Ba'zi odamlar uchun chaynash ovozi chidab bo'lmas darajada yoqimsiz.",
+  "uncontrollable": "U xonani tark etish uchun jilovlab bo'lmas istakni his qildi.",
+  "utter": "O'sha jimjit ofisda o'tirish u uchun mutlaq azob edi."
  }
 });

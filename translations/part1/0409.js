@@ -1,4 +1,4 @@
-// Part 1 topic 0409: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0409: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0409', {
  "A1": {
   "altruistic": "U boshqalar uchun o'zini ayamaydi.",
@@ -47,5 +47,13 @@ VOCAB_TR_STORE('1', '0409', {
   "keep one's hands off": "Mehribonlik ko'rsatish ba'zan aralashmaslik va odamlarga ishlarni o'zlari bajarishiga imkon berishni anglatadi.",
   "nominate": "Kichik bir yaxshilik uchun begonalar tomonidan nomzod qilib ko'rsatilish har qanday rasmiy mukofotdan ham qadrliroq bo'lishi mumkin.",
   "selfless": "Psixologlar biror harakat haqiqatan ham beg'araz bo'lishi mumkinmi, degan masalada bahslashadi, chunki yordam berish bizga ham yoqimli his bag'ishlaydi."
+ },
+ "EX": {
+  "altruistic": "Beg'araz yaxshiliklar o'zingizning farovonligingizni ham yaxshilashi mumkin.",
+  "cuddle": "Ba'zan quchoqlash berishingiz mumkin bo'lgan eng mehribon narsadir.",
+  "junk food": "U mehribonlik namunasi sifatida uysiz odamga fast-fud sotib olib berdi.",
+  "keep one's hands off": "Shokoladimga qo'l tekkizma!",
+  "nominate": "Odamlar mehribonlik ko'rsatgani uchun notanish kishini nomzod qilib ko'rsatishlari mumkin.",
+  "selfless": "Notanish odamga yordam berish fidokorona ishdir."
  }
 });

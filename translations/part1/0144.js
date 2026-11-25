@@ -1,4 +1,4 @@
-// Part 1 topic 0144: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0144: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0144', {
  "A1": {
   "aged": "Besh yoshli bola.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0144', {
   "singular": "Birlikdagi \"phenomenon\" va ko'plikdagi \"phenomena\" so'zlarini hatto ona tili ingliz tili bo'lganlar ham ko'pincha chalkashtirib yuborishadi.",
   "thirty": "Bir paytlar o'ttiz yosh birinchi homiladorlik uchun kech hisoblanardi, ammo ijtimoiy me'yorlar sezilarli darajada o'zgardi.",
   "young woman": "U yosh ayol bo'lgan paytida faoliyatiga e'tibor qaratib, farzand ko'rishni keyinga qoldirgan edi."
+ },
+ "EX": {
+  "aged": "40 yoshdan oshgan ayollar orasida farzand ko'radiganlar soni ikki baravar oshdi.",
+  "bless": "Ular sog'lom chaqaloq bilan siylanganliklarini his qilishdi.",
+  "concept": "Farzand ko'rish uchun \"to'g'ri yosh\" tushunchasi o'zgarmoqda.",
+  "congratulation": "Farzandingiz tug'ilgani bilan tabriklayman!",
+  "eighth": "U sakkizinchi farzandini 45 yoshida dunyoga keltirdi.",
+  "eighty": "U sakson yoshida ota bo'ldi.",
+  "fertility": "Ayolning tug'ish qobiliyati yosh o'tgan sari kamayadi.",
+  "fifty": "U ellik yoshida ona bo'ldi.",
+  "forty": "Qirq yoshdan keyin farzand ko'rayotgan ayollar ko'paymoqda.",
+  "geriatric": "Shifokorlar bir paytlar 35 yoshdan oshgan ayollar uchun \"keksa yoshdagi homiladorlik\" atamasini ishlatishgan.",
+  "old man": "Ba'zilar uni yangi ota bo'lish uchun juda qari deb o'ylashadi.",
+  "pat": "U homilador qornini silab, jilmaydi.",
+  "phenomena": "Keksaroq yoshda ona bo'lish o'zgarib borayotgan turmush tarzi bilan bog'liq bir qancha ijtimoiy hodisalardan biridir.",
+  "plural form": "\"Phenomena\" so'zi \"phenomenon\"ning ko'plik shaklidir.",
+  "pray": "Ular farzand ko'rish uchun yillar davomida duo qilishdi.",
+  "recorded": "U tarixda qayd etilgan eng keksa onalardan biri.",
+  "rolling": "Ma'lumotlar har yili uzluksiz ravishda to'planadi.",
+  "seventy": "Yangiliklarda xabar qilinishicha, yetmish yoshli ayol farzand ko'rgan.",
+  "sharply": "35 yoshdan keyin tug'ish qobiliyati keskin pasayadi.",
+  "singular": "\"Phenomenon\" birlik, \"phenomena\" esa ko'plik shaklidir.",
+  "thirty": "Birinchi marta ona bo'layotgan ayollarning o'rtacha yoshi hozir o'ttizdan oshgan.",
+  "young woman": "Yosh ayol bo'lgan paytida u farzand ko'rishga tayyor emas edi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0252: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0252: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0252', {
  "A1": {
   "benchmark": "Bu mezon.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0252', {
   "romanticism": "Romantizm merosi sevgi ham ehtirosli, ham abadiy bo'lishi kerak, degan zamonaviy ishonchda ko'rinadi.",
   "smack": "Kundalik oilaviy hayotdagi hafsalasizlik ertakdagi kabi ishqni kutganlarga qattiq zarba berishi mumkin.",
   "zeitgeist": "Roman zamon ruhini shu qadar aniq aks ettirdiki, butun bir avlod uchun mezonga aylandi."
+ },
+ "EX": {
+  "benchmark": "Romantik filmlar sevgi uchun haqiqiy juftliklar erisha olmaydigan mezon o'rnatadi.",
+  "bluntly": "Ochig'ini aytganda, hech kim mukammal emas.",
+  "carriage": "U poyezd vagonining narigi chetida go'zal notanish ayolni ko'rdi.",
+  "flawed": "Hammamizning kamchiliklarimiz bor, shuning uchun mukammal sherik kutmasligimiz kerak.",
+  "gritty": "Haqiqiy sevgi filmlardagi sevgidan ko'ra ancha qo'pol va hayotiyroqdir.",
+  "hopeless": "U bir ko'rishda sevib qolishga ishonadigan tuzalmas romantik.",
+  "idealised": "Biz ko'pincha sevgi qanday bo'lishi kerakligi haqida ideallashtirilgan tasavvurga ega bo'lamiz.",
+  "imperfect": "Ikki nomukammal inson o'rtasidagi sevgi ham ajoyib bo'lishi mumkin.",
+  "moody": "Har kimning, hatto siz sevgan insonning ham, ba'zan kayfiyati buziladi.",
+  "perfection": "Sherikdan mukammallik izlash sizni faqat baxtsiz qiladi.",
+  "public transport": "Filmlarda odamlar ko'pincha jamoat transportida notanish odamni sevib qolishadi.",
+  "romanticism": "Ba'zi faylasuflar sevgi haqida bizda noreal tasavvurlar paydo bo'lishida romantizmni ayblaydilar.",
+  "smack": "Haqiqiy sevgi kimnidir uchratgan zahotingiz sizni yuzingizga shapaloq urgandek qilib bosib olmaydi.",
+  "zeitgeist": "Sevgi haqidagi romantik tasavvur zamon ruhining bir qismidir."
  }
 });

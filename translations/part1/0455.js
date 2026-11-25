@@ -1,4 +1,4 @@
-// Part 1 topic 0455: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0455: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0455', {
  "A1": {
   "Denver": "Denver Amerikada joylashgan.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0455', {
   "runway": "Muxoliflar uchinchi uchish-qo'nish yo'lagi shaharni o'nlab yillar davomida aviatsiya chiqindilarining o'sishiga mahkum etadi, deb hisoblaydi.",
   "seabed": "Olimlar dengiz tubini bezovta qilish o'nlab yillar davomida tegilmay yotgan ifloslantiruvchi moddalarni chiqarib yuborishi mumkinligidan ogohlantiradi.",
   "transporting": "Tobora ko'proq yo'lovchilarni tashish muqarrar ravishda chiqindilar va shovqin haqida savollar tug'diradi."
+ },
+ "EX": {
+  "Denver": "Denver xalqaro aeroporti juda katta maydonni egallaydi.",
+  "departure": "Chiqish darvozangiz raqamini jo'nash jadvalidan tekshiring.",
+  "expansion": "Aeroportning kengaytirilishi yiliga millionlab qo'shimcha yo'lovchiga xizmat ko'rsatish imkonini beradi.",
+  "noise pollution": "Aeroport yaqinida yashovchilar shovqin ifloslanishidan shikoyat qiladi.",
+  "piece of work": "Yangi uchish-qo'nish yo'lagi muhandislikning ta'sirli namunasi bo'ladi.",
+  "province": "Guandun provinsiyasi Gonkong bilan chegaraning narigi tomonida joylashgan.",
+  "reclaim": "Ular dengizdan 650 gektar yer o'zlashtirishni rejalashtirmoqda.",
+  "reclamation": "Yangi uchish-qo'nish yo'lagi uchun joy dengizdan yer o'zlashtirish orqali yaratildi.",
+  "runway": "Aeroport uchinchi uchish-qo'nish yo'lagini qurmoqchi.",
+  "seabed": "Yangi quruqlik hosil qilish uchun dengiz tubiga qum to'kiladi.",
+  "transporting": "Yuklarni havo orqali tashish tez, lekin qimmat."
  }
 });

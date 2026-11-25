@@ -1,4 +1,4 @@
-// Part 1 topic 0393: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0393: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0393', {
  "A1": {
   "gargle": "Sho'r suv bilan tomoq chayqang.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0393', {
   "smacking": "Primatlardagi lab chapillatish og'zaki nutq sari evolyutsion bosqich bo'lishi mumkin.",
   "small talk": "Insonlar o'rtasidagi yengil suhbat singari, bu do'stona chaqiruvlar ham ma'lumot almashishdan ko'ra ijtimoiy aloqalarni saqlashga xizmat qiladiganga o'xshaydi.",
   "vocalisation": "Primatlarning ovozli signallarini inson nutqi bilan solishtirish til qanday rivojlangan bo'lishi mumkinligini ochib berishga yordam beradi."
+ },
+ "EX": {
+  "gargle": "Ba'zi maymunlar xuddi g'arg'ara qilayotgandek ovoz chiqarishadi.",
+  "gargling": "Olimlar maymunlarning g'alati g'arg'arasimon ovozini yozib olishdi.",
+  "monkey business": "Bu yerda qandaydir shumlik bo'lyaptimi?",
+  "physical structure": "Maymun tomog'ining jismoniy tuzilishi biznikidan farq qiladi.",
+  "safe and sound": "Maymun bolasi sog'-salomat topildi.",
+  "smacking": "Lablarni chapillatish maymunlar orasida do'stona ishoradir.",
+  "small talk": "Maymunlar bir-biri bilan o'ziga xos yengil suhbat qilayotganga o'xshaydi.",
+  "vocalisation": "Tadqiqotchilar gelada maymunlarining ovozli signallarini o'rganishdi."
  }
 });

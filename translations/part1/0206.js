@@ -1,4 +1,4 @@
-// Part 1 topic 0206: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0206: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0206', {
  "A1": {
   "bottled": "Bu shishaga quyilgan sharbat.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0206', {
   "vend": "Kompaniya o'z avtomatlar tarmog'i orqali yiliga millionlab shisha sotadi.",
   "vending machine": "Savdo avtomatlarining hamma joyda bo'lishi shishalangan ichimliklarni deyarli istalgan joyda, istalgan soatda topish imkonini berdi.",
   "water company": "Ba'zi suv ta'minoti kompaniyalari odamlarni shishalarni jo'mrakdan to'ldirishga undovchi kampaniyalarni boshladi."
+ },
+ "EX": {
+  "bottled": "Stadionda faqat shishadagi ichimliklar sotiladi.",
+  "bottled water": "Shishadagi suv vodoprovod suvidan ming barobar qimmat turishi mumkin.",
+  "burglar": "Hurayotgan it o'g'rini qo'rqitib yuborishi mumkin.",
+  "cola": "Kolada juda ko'p shakar bor.",
+  "enriched": "Ba'zi brendlar vitaminlar bilan boyitilgan suv sotadi.",
+  "fiercely": "Shishadagi suv ishlab chiqaruvchi kompaniyalar mijozlar uchun qattiq raqobatlashadi.",
+  "grade": "Bu oziq-ovqat uchun mo'ljallangan plastik.",
+  "iceberg": "Ba'zi hashamatli suvlar erigan aysberg muzidan tayyorlanadi.",
+  "manufacture": "Plastik shishalar ishlab chiqarishga juda ko'p neft sarflanadi.",
+  "pop out": "Bir chiqib, suv olib kelaman.",
+  "refreshing": "Issiq kunda bir stakan sovuq suv odamni juda tetiklashtiradi.",
+  "regulated": "Ko'plab mamlakatlarda vodoprovod suvi qat'iy nazorat qilinadi.",
+  "scar off": "Yomon xabar ba'zi mijozlarni cho'chitib yubordi.",
+  "scare off": "Iflos suv haqidagi xabarlar odamlarni jo'mrak suvini ichishdan cho'chitadi.",
+  "set out": "Kampaniya odamlarni vodoprovod suvini ichishga ko'ndirishni maqsad qilgan edi.",
+  "tap water": "Buyuk Britaniyada vodoprovod suvini ichish xavfsiz.",
+  "trump": "Ko'p odamlar uchun qulaylik narxdan ustun turadi.",
+  "vend": "Bu avtomatlar ichimlik va gazaklar sotadi.",
+  "vending machine": "Men savdo avtomatidan bir shisha suv sotib oldim.",
+  "water company": "Suv kompaniyasi vodoprovod suvini har kuni tekshiradi."
  }
 });

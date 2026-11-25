@@ -1,4 +1,4 @@
-// Part 1 topic 0480: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0480: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0480', {
  "A1": {
   "bow tie": "Menga uning kapalak galstugi yoqadi.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0480', {
   "shoelace": "Bond gadjetlarining zukkoligi halokatli qurilmalarni ruchka yoki poyabzal ipi kabi kundalik buyumlar qiyofasida yashirishdadir.",
   "unsurpassed": "Franshizaning tijoratdagi uzoq umrbo'qiyligi kinoda tengsiz ekanini kam kishi inkor etadi.",
   "villain": "Esda qolarli yovuz qahramon Bondga munosib va rang-barang raqib bergani uchun formulaning ajralmas qismidir."
+ },
+ "EX": {
+  "bow tie": "U kechki kostyumi bilan qora kapalak-galstuk taqib olgan edi.",
+  "carte blanche": "Yangi rejissyorga qahramonni o'zgartirish uchun to'liq erkinlik berildi.",
+  "dinner jacket": "Jeyms Bond kechki kostyumda doim ko'rkam ko'rinadi.",
+  "eavesdrop": "Josuslar ko'pincha shaxsiy suhbatlarni yashirincha tinglashadi.",
+  "fascinated": "Tomoshabinlar hamon Jeyms Bondga maftun.",
+  "franchise": "Bond franshizasi milliardlab dollar daromad keltirgan.",
+  "pull over": "Politsiya Bondga mashinani yo'l chetiga to'xtatishni buyurdi.",
+  "reinvent": "Har bir yangi aktyor Jeyms Bond obrazini yangicha yaratadi.",
+  "rule in": "Prodyuserlar ayol Bond bo'lishini na tasdiqlashdi, na rad etishdi.",
+  "shoelace": "Bondning moslamalari orasida tuflisiga yashirilgan pichoq ham bo'lgan, hatto poyabzal ipi ham qurolga aylanishi mumkin edi.",
+  "unsurpassed": "Bond filmlarining muvaffaqiyatiga hech kim yetolmagan.",
+  "villain": "Har bir Bond filmida yovuz qahramon bor."
  }
 });

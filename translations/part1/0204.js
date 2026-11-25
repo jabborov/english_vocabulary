@@ -1,4 +1,4 @@
-// Part 1 topic 0204: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0204: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0204', {
  "A1": {
   "Jenny": "Jenny mening do'stim.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0204', {
   "vertical": "Yuqoridan qaralganda yo'laklar basseyn bo'ylab tekis vertikal chiziqlarni hosil qiladi.",
   "vertical section": "Basseynni vertikal bo'laklarga ajratish turli qobiliyatdagi suzuvchilarni boshqarishga yordam beradi.",
   "wrongly": "Odamlar ko'pincha basseynning yozilmagan qoidalarini hamma biladi deb noto'g'ri taxmin qilishadi."
+ },
+ "EX": {
+  "Jenny": "Jenni har kuni ertalab ishdan oldin suzadi.",
+  "anticlockwise": "Ba'zi yo'laklarda suzuvchilar soat miliga teskari yo'nalishda suzishadi.",
+  "clockwise": "Bu yo'lakda soat mili yo'nalishida suzishingiz kerak.",
+  "collar": "U isib ketgani uchun yoqasini yechdi.",
+  "curtsy": "U turtib yuborgani uchun uzr so'rab, biroz ta'zim qildi.",
+  "dare": "Basseynda meni turtib o'tib ketishga qanday jur'at etdi!",
+  "diving": "Sayoz qismda sakrab sho'ng'ish taqiqlanadi.",
+  "ego": "Ba'zi suzuvchilar manmanligi tufayli tezkor yo'lakni tanlashadi.",
+  "etiquette": "Jamoat basseynlarida suzishning o'ziga xos odobi bor.",
+  "fast lane": "Tezkor yo'lakdan faqat kuchli suzuvchilar foydalanishi kerak.",
+  "germ": "Basseyndagi mikroblarni kamaytirish uchun suzishdan oldin dush qabul qiling.",
+  "hot under the collar": "Tezkor yo'lakdagi sekin suzuvchilar uning jahlini chiqaradi.",
+  "lane": "Iltimos, tezligingizga mos keladigan yo'lakni tanlang.",
+  "lorry": "Uning ortidan suzish sekin yuk mashinasi ortidan haydashdek edi.",
+  "medallist": "Olimpiada medali sohibi basseyn odobi bo'yicha maslahatlar berdi.",
+  "or else": "O'z tomoningizda suzing, aks holda kimgadir urilib ketasiz.",
+  "shallow": "Bolalar basseynning sayoz qismida turishlari kerak.",
+  "talking": "Yo'lak oxirida gaplashish mumkin emas.",
+  "vertical": "Sahifaga vertikal chiziq chizing.",
+  "vertical section": "Basseyn arqonlar bilan bo'ylama bo'laklarga ajratilgan.",
+  "wrongly": "U o'zini eng tez suzuvchi deb noto'g'ri o'ylagan edi."
  }
 });

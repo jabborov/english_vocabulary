@@ -1,4 +1,4 @@
-// Part 1 topic 0176: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0176: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0176', {
  "A1": {
   "assure": "Sizni ishontirib aytamanki, hammasi joyida.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0176', {
   "sensitively": "Bemorning sirini nozik muomala bilan qabul qilish ham klinik mahorat, ham chinakam hamdardlikni talab qiladi.",
   "tone": "Bemorlar ko'pincha tibbiy tafsilotlarni unutib yuborganlaridan keyin ham uzoq vaqt maslahat ohangini eslab qolishadi.",
   "tone of voice": "Iliq, shoshilmasdan gapirish ohangi bemorning tashvishlari jiddiy qabul qilinayotganini bildiradi."
+ },
+ "EX": {
+  "assure": "Shifokorlar bemorlarni bunday gaplarni avval ham ko'p eshitganliklariga ishontirishadi.",
+  "blush": "Ba'zi bemorlar o'z alomatlarini tasvirlashga to'g'ri kelganda qizarib ketishadi.",
+  "blushing": "Shaxsiy narsalar haqida gapirganda qizarib ketish tabiiy reaksiyadir.",
+  "clinic": "U nihoyat mahalliy klinikaga qabulga yozildi.",
+  "confidential": "Shifokoringizga aytgan hamma narsangiz maxfiy saqlanadi.",
+  "diagnose": "Agar muammoni tasvirlamasangiz, shifokor tashxis qo'ya olmaydi.",
+  "ease": "Mehribon shifokor bemorning xavotirlarini yengillashtirishi mumkin.",
+  "intimate": "Odamlarga ko'pincha shaxsiy, nozik muammolar haqida gapirish qiyin bo'ladi.",
+  "medical examination": "Ba'zi odamlar tibbiy ko'rikdan o'tishdan xavotirlanishadi.",
+  "no end": "Odamlar jiddiy alomatlarga e'tibor bermasligi meni behad xavotirga soladi.",
+  "nonjudgmental": "Yaxshi shifokor xotirjam bo'ladi va hech kimni ayblamaydi.",
+  "nonverbal": "Shifokorlar bemorning so'zsiz ishoralarini ham payqashadi.",
+  "postpone": "Ko'pchilik uyalgani uchun shifokorga borishni kechiktiradi.",
+  "sensitively": "Shifokorlar bunday muammolarga nozik yondashishga o'rgatilgan.",
+  "tone": "Shifokorning xotirjam ohangi uni tinchlantirdi.",
+  "tone of voice": "Mayin ovoz ohangi asabiy bemorlarga yordam beradi."
  }
 });

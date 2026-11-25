@@ -1,4 +1,4 @@
-// Part 1 topic 0459: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0459: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0459', {
  "A1": {
   "Jason": "Jeyson mening do'stim.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0459', {
   "saver": "Qarz oluvchilarga foyda keltiradigan siyosat ko'pincha tejamkor jamg'aruvchilar hisobiga amalga oshadi.",
   "spender": "Iqtisodiyot pul sarflovchilarga tayanadi, biroq shaxsiy moliya bo'yicha maslahatlar odatda jamg'aruvchilarni maqtaydi.",
   "strain": "Surunkali qarzdorlikning ruhiy zo'riqishi ko'pincha siyosatchilar tomonidan yetarlicha baholanmaydi."
+ },
+ "EX": {
+  "Jason": "Jeyson qarzlari qanday qilib nazoratdan chiqib ketganini tushuntirdi.",
+  "disconnect": "Agar to'lamasangiz, elektr tokingizni uzib qo'yishadi.",
+  "estate": "Ular munitsipal turar joy mavzesida yashaydi.",
+  "housing estate": "U Angliya shimolidagi turar joy mavzesida o'sgan.",
+  "in arrears": "Ularning ijara haqi bo'yicha uch oylik qarzi bor.",
+  "moral obligation": "U do'stiga qarzini qaytarishni ma'naviy burch deb bildi.",
+  "overdraft": "Men overdraft bo'yicha bankdan 500 funt qarzdorman.",
+  "personal loan": "U mashina sotib olish uchun shaxsiy kredit oldi.",
+  "repay": "U hamon kreditni to'lamoqda.",
+  "saver": "U har oy pul chetga qo'yadigan tejamkor odam.",
+  "spender": "U ertangi kunni o'ylamay pulni sovuradigan odam.",
+  "strain": "Qarz munosabatlarga juda katta zo'riqish soladi."
  }
 });

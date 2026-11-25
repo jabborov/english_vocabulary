@@ -1,4 +1,4 @@
-// Part 1 topic 0411: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0411: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0411', {
  "A1": {
   "double helix": "DNK qo'sh spiraldan iborat.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0411', {
   "infectious disease": "Qadimgi viruslarni o'rganish olimlarga kelajakdagi yuqumli kasalliklar qanday rivojlanishini bashorat qilishda yordam berishi mumkin.",
   "micro": "\"Mikro\" old qo'shimchasi mikrobdan mikrobiologiyagacha bo'lgan ko'plab ilmiy so'zlarda uchraydi.",
   "prosper": "Ba'zi virus genlari homiladorlikda muayyan rol o'ynab, sutemizuvchilarning ravnaq topishiga yordam bergan bo'lishi mumkin."
+ },
+ "EX": {
+  "double helix": "DNK qo'sh spiral shakliga ega.",
+  "hand down": "Qadimiy viruslarning qismlari DNKmizda avloddan avlodga o'tib kelgan.",
+  "helix": "Spiral prujina yoki buralgan narvonga o'xshaydi.",
+  "infectious": "Gripp yuqumli kasallikdir.",
+  "infectious disease": "Qizamiq yuqumli kasallikdir.",
+  "micro": "Viruslar faqat mikroskopda ko'rinadigan mikroorganizmlardir.",
+  "prosper": "Odamlar bir-biriga yaqin yashaganda viruslar gullab-yashnaydi."
  }
 });

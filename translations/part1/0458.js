@@ -1,4 +1,4 @@
-// Part 1 topic 0458: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0458: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0458', {
  "A1": {
   "bricks and mortar": "Uy g'isht va qorishmadan iborat.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0458', {
   "wear out": "Mashinalar oxir-oqibat eskirib ishdan chiqadi, ammo binoda qozonilgan obro' saqlanib qoladi.",
   "worn": "Binodagi har bir yeyilgan yuza uning efir tarixidan iz saqlab qolgandek tuyulardi.",
   "worn out": "Xodimlar qanchalik hissiyotga berilmasin, binoning eskirib ketgan infratuzilmasi ko'chishni muqarrar qildi."
+ },
+ "EX": {
+  "bricks and mortar": "Oxir-oqibat bu shunchaki g'isht va devor — muhimi odamlar.",
+  "dingy": "Ba'zi idoralar kichkina va qorong'i edi.",
+  "every bit": "Yangi bino va'da qilinganidek har jihatdan zamonaviy.",
+  "find fault": "Yangi studiyalardan kamchilik topish qiyin.",
+  "first moment": "Ichkariga qadam qo'ygan ilk lahzadanoq bu joy menga yoqib qoldi.",
+  "mortar": "Quruvchi g'ishtlar orasiga qorishma surtdi.",
+  "pack up": "Xodimlar ko'chishdan oldin stollaridagi narsalarni yig'ishtirmoqda.",
+  "quirkiness": "Xodimlar binoning g'alati o'ziga xosligini sog'inadi.",
+  "rabbit warren": "Bush House yo'laklari quyonlar iniga o'xshagan chalkash labirint edi.",
+  "staircase": "Bush House binosida hashamatli marmar zinapoya bor.",
+  "undignified": "Bunday mashhur binoni shoshilinch tark etish nomunosib tuyuldi.",
+  "upheaval": "Binolarni almashtirib ko'chish juda katta to'polon.",
+  "warren": "Yerto'la mayda xonalardan iborat chalkash labirint edi.",
+  "wear out": "Minglab oyoqlar tosh zinapoyalarni yedirib yubordi.",
+  "worn": "Yedirilgan zinapoyalar ulardan qancha odam foydalanganini ko'rsatib turardi.",
+  "worn out": "Eski studiyalardagi gilamlar to'zib ketgan."
  }
 });

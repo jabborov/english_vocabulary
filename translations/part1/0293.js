@@ -1,4 +1,4 @@
-// Part 1 topic 0293: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0293: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0293', {
  "A1": {
   "abundant": "Bu yerda suv mo'l.",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('1', '0293', {
   "trigonometry": "O'quv dasturi tanqidchilari trigonometriya amaliy moliyaviy ko'nikmalardan ustun qo'yilayotganini ta'kidlaydilar.",
   "whatsoever": "U hech qanday kapitalsiz boshlab, butunlay xayrixohlik va kreditga tayandi.",
   "wholesaler": "Ulgurji sotuvchini chetlab o'tish yosh asoschilarga narxlarni past ushlab turish imkonini berdi."
+ },
+ "EX": {
+  "abundant": "Bugungi yoshlarda internetda biznes boshlash uchun mo'l-ko'l imkoniyatlar bor.",
+  "arithmetic": "Bolaligida do'kon yuritgani uni arifmetikaga juda usta qilib qo'ydi.",
+  "barman": "O'z biznesini boshlashdan oldin u barmen bo'lib ishlagan.",
+  "calculus": "Kamdan-kam biznesga matematik tahlil kerak bo'ladi, lekin ularning barchasiga oddiy arifmetika kerak.",
+  "cash register": "U o'n yoshida kassa apparatidan foydalanishni o'rgandi.",
+  "coincidence": "O'qituvchisining eri uning birinchi investoriga aylangani shunchaki tasodif edi.",
+  "computerize": "U otasiga oilaviy do'konni kompyuterlashtirishda yordam berdi.",
+  "drawback": "Yosh bo'lishning kamchiliklaridan biri – odamlar sizni jiddiy qabul qilishmaydi.",
+  "fortunate": "Biznesimni qo'llab-quvvatlagan ota-onam borligidan baxtiyorman.",
+  "haired": "Yuzi navqiron, jingalak sochli o'smir yig'ilishga kirib keldi.",
+  "junior": "U birinchi ilovasini sotganida bor-yo'g'i uchinchi kurs talabasi edi.",
+  "junior high": "U o'zining birinchi biznesini o'rta maktabning quyi sinflarida boshlagan.",
+  "networking": "Foydali tanishlar orttirish unga birinchi investorlarini topishga yordam berdi.",
+  "trigonometry": "U trigonometriyani foydasiz deb bildi, lekin biznes matematikasini juda yaxshi ko'rardi.",
+  "whatsoever": "U ish boshlaganida hech qanday biznes tajribasiga ega emas edi.",
+  "wholesaler": "U ulgurji sotuvchidan shirinliklar sotib olib, sinfdoshlariga sotardi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0222: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0222: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0222', {
  "A1": {
   "carry away": "Haddan oshib ketmang.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0222', {
   "sunset": "Kunning nihoyasiga yetgani tuyg'usi bilan quyosh botishi azaldan hayot oxirining metaforasi bo'lib kelgan.",
   "theme": "Mavzu hayotning yo'qotilishini qayd etish uchun emas, balki uning mohiyatini aks ettirish uchun tanlangan edi.",
   "turn up": "Dafn marosimiga karnaval libosida kelish bir paytlar chuqur hurmatsizlik deb hisoblanardi."
+ },
+ "EX": {
+  "carry away": "Ba'zi oilalar haddan oshib ketadi va dafn marosimi ko'proq bazmga o'xshab qoladi.",
+  "ceremonious": "An'anaviy dafn marosimlari ko'pincha juda tantanavor va jiddiy bo'ladi.",
+  "church": "Dafn marosimi kichik qishloq cherkovida bo'lib o'tdi.",
+  "clothing": "Mehmonlardan dafn marosimiga rang-barang kiyim kiyib kelish so'raldi.",
+  "dead person": "Marosim marhum hayotda nimalarni yaxshi ko'rganini aks ettirdi.",
+  "funeral": "Ba'zi odamlar endi dafn marosimiga keladigan mehmonlardan yorqin rangli kiyim kiyishni so'rashadi.",
+  "funeral director": "Dafn marosimlari tashkilotchisining aytishicha, ko'proq oilalar mavzuli dafn marosimlarini so'ramoqda.",
+  "funereal": "U o'z dafn marosimi motamsaro emas, rang-barang bo'lishini istardi.",
+  "go all out": "Oila kostyumlar, musiqa va bezaklar bilan bor kuchini ayamadi.",
+  "goodbyes": "Dafn marosimi — so'nggi bor xayrlashish vaqti.",
+  "graduation": "U o'z dafn marosimi g'amgin xayrlashuvdan ko'ra bitiruv kechasiga o'xshashini istagan.",
+  "just right": "Yorqin, quvnoq muhit shunday xushchaqchaq inson uchun aynan mos tushdi.",
+  "market research": "Bozor tadqiqotlari ko'proq odamlar rang-barang dafn marosimini xohlayotganini ko'rsatmoqda.",
+  "mean out": "Bayramona kiyinish marhumni masxara qilish uchun emas, balki mehr va hurmat belgisi sifatida qilinadi.",
+  "pink": "Hamma pushti rang kiydi, chunki bu uning sevimli rangi edi.",
+  "sleigh": "U Rojdestvoni juda yaxshi ko'rgani uchun tobuti chanada olib kelindi.",
+  "squashed": "Dafn marosimiga ketayotib, hammamiz mashinaning orqa o'rindig'iga siqilib o'tirdik.",
+  "sunset": "Marosim quyosh botayotganda sohilda yakunlandi.",
+  "theme": "Dafn marosimining mavzusi uning sevimli futbol jamoasi edi.",
+  "turn up": "Hamma dafn marosimiga pushti rangda kiyinib keldi."
  }
 });

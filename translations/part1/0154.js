@@ -1,4 +1,4 @@
-// Part 1 topic 0154: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0154: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0154', {
  "A1": {
   "bestseller": "Bu kitob bestseller.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0154', {
   "snicker": "Bir paytlar uning g'alati ixtirolari ustidan piqillab kulganlar endi ularni ko'chirishga urinishmoqda.",
   "turn around": "Bankrotlik yoqasida turgan qandolatchilik korxonasining ahvolini o'nglash uchun birgina kutilmagan muvaffaqiyatli mahsulot kifoya qildi.",
   "unsuccessful": "Muvaffaqiyatsiz mahsulotlar qandolatchilik savdosidagi innovatsiyalarning muqarrar qismidir."
+ },
+ "EX": {
+  "bestseller": "Bu shokolad batonchigi do'konning eng ko'p sotiladigan mahsuloti.",
+  "cocoa": "U shokolad tayyorlash uchun eng sara kakaodan foydalanadi.",
+  "cocoa bean": "Shokolad kakao donidan tayyorlanadi.",
+  "confectionary": "U o'ttiz yildan beri qandolatchilik sohasida ishlaydi.",
+  "eater": "Britaniyadagi shokolad ixlosmandlari har yili milliardlab pul sarflashadi.",
+  "flop": "Har bir yangi shirinlik ham muvaffaqiyat qozonavermaydi - ba'zilari butunlay barbod bo'ladi.",
+  "fudge": "U turli ta'mlarda fadj tayyorlaydi.",
+  "marshmallow": "Zefirlar yostiqdek yumshoq edi.",
+  "pillow": "Uning zefirlari kichkina yostiqchalar shaklida.",
+  "proud of": "U o'zining shokolad fabrikasidan juda faxrlanadi.",
+  "snicker": "Odamlar uning telbanamo shirinlik g'oyalari ustidan piching qilib kulishardi - toki ular muvaffaqiyat qozongunicha.",
+  "turn around": "Yangi shirinliklar kompaniyaning ahvolini o'nglashga yordam berdi.",
+  "unsuccessful": "Uning birinchi biznesi muvaffaqiyatsiz bo'ldi."
  }
 });

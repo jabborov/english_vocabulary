@@ -1,4 +1,4 @@
-// Part 1 topic 0043: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0043: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0043', {
  "A1": {
   "actively": "U faol yordam beradi.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0043', {
   "visiting professor": "Tashrif buyurgan professor sifatida u ish joyidagi xolislikning yo'qligi moslashuvchanlik so'rovlariga qanday ta'sir qilishini o'rgangan.",
   "working day": "Qat'iy belgilangan ish kuni tushunchasi o'rnini natijaga asoslangan tartiblarga bo'shatib bermoqda.",
   "young man": "Farzandiga qarash uchun moslashuvchan tartib so'ragan yigit ishga kamroq sodiq deb qaralishi mumkin."
+ },
+ "EX": {
+  "actively": "Ba'zi kompaniyalar moslashuvchan ishni faol qo'llab-quvvatlaydi.",
+  "be active": "Otalar farzandlari hayotida faol ishtirok etishni xohlaydi.",
+  "bias": "Moslashuvchan ish so'ragan erkaklarga nisbatan xolis bo'lmagan munosabat mavjud.",
+  "budge": "Rahbar moslashuvchan ish soatlari masalasida o'z fikridan qaytmadi.",
+  "childcare": "Moslashuvchan ish soatlari ota-onalarga bola parvarishida yordam beradi.",
+  "clock up": "Ba'zi xodimlar ofisda uzoq soatlar ishlab qo'yishadi.",
+  "common sense": "Odamlarga eng samarali bo'lgan vaqtlarida ishlashga ruxsat berish sog'lom fikrga muvofiq.",
+  "consultant": "Ish joyi bo'yicha maslahatchi moslashuvchan ish biznes uchun foydali ekanini aytadi.",
+  "datum": "Ma'lumotlar moslashuvchan ish tobora ommalashib borayotganini ko'rsatmoqda.",
+  "desk": "Ko'plab ofis xodimlari to'qqizdan beshgacha stol ortida o'tirishadi.",
+  "disabled": "Moslashuvchan ish nogironligi bor odamlarga ishda qolishga yordam berishi mumkin.",
+  "equality": "Moslashuvchan ish ish joyida tenglikni yaratishga yordam berishi mumkin.",
+  "equally": "Erkaklar va ayollarga teng munosabatda bo'lish kerak.",
+  "fairness": "So'rovlarni ko'rib chiqishda adolat muhim.",
+  "favourably": "Ayollarning so'rovlariga ijobiyroq munosabatda bo'lishdi.",
+  "flexibility": "Xodimlar moslashuvchanlikni yuqoriroq maoshdan ko'ra qadrlaydi.",
+  "flexibly": "Tobora ko'proq odamlar moslashuvchan tartibda ishlashni xohlaydi.",
+  "go home": "Moslashuvchan ish vaqti tufayli juma kunlari uyga erta keta olaman.",
+  "inflexible": "Ba'zi kompaniyalarda hali ham qat'iy, o'zgarmas ish soatlari bor.",
+  "negotiation": "Biroz muzokaralardan so'ng unga uydan ishlashga ruxsat berildi.",
+  "per year": "U yiliga yigirma besh kunlik ta'til oladi.",
+  "request": "U haftada ikki kun uydan ishlash uchun ariza berdi.",
+  "routine": "Moslashuvchan ish odamlarga kundalik tartibini o'zgartirish imkonini beradi.",
+  "sensible": "Moslashuvchan ish – yaxshi xodimlarni saqlab qolishning oqilona usuli.",
+  "turn down": "Erkaklarning so'rovlari rad etilishi ehtimoli yuqoriroq.",
+  "unfairness": "Tadqiqot erkaklarning so'rovlarini rad etish adolatsizlik ekanini ko'rsatadi.",
+  "unwilling": "Ba'zi rahbarlar moslashuvchan ishni qabul qilishni istamaydi.",
+  "visiting professor": "Tashrif buyurgan professor moslashuvchan ishga bo'lgan munosabatlarni o'rgandi.",
+  "working day": "Moslashuvchan ish odamlarga ish kuni qachon boshlanishini tanlash imkonini beradi.",
+  "young man": "Moslashuvchan ish vaqtini so'ragan yigit xolis bo'lmagan munosabatga duch kelishi mumkin."
  }
 });

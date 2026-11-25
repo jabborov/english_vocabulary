@@ -1,4 +1,4 @@
-// Part 1 topic 0371: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0371: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0371', {
  "A1": {
   "allow in": "Ular itlarni ichkariga kiritishadi.",
@@ -35,5 +35,11 @@ VOCAB_TR_STORE('1', '0371', {
   "permanently": "Oilalarni butunlay ajratib yuboradigan siyosat uzoq davom etadigan psixologik oqibatlarga olib kelishi mumkin.",
   "remittance": "Iqtisodchilar pul o'tkazmalariga kuchli tayanish uzoq muddatli rivojlanishga yordam beradimi yoki to'sqinlik qiladimi, degan masalada bahslashadi.",
   "send back": "Ular yurtga jo'natadigan pul bo'lmaganida, ko'plab xonadonlar qashshoqlik chegarasidan pastga tushib qolgan bo'lardi."
+ },
+ "EX": {
+  "allow in": "Hukumat bo'sh ish o'rinlarini to'ldirish uchun ko'proq chet ellik ishchilarni mamlakatga kiritishni rejalashtirmoqda.",
+  "permanently": "Ba'zi ishchilar vatanga qaytishadi, boshqalari esa yangi mamlakatlarida doimiy yashab qolishadi.",
+  "remittance": "Chet eldagi ishchilarning pul o'tkazmalari ko'plab kambag'al mamlakatlar uchun asosiy daromad manbaidir.",
+  "send back": "Mehnat muhojirlari har yili oilalariga milliardlab dollar jo'natishadi."
  }
 });

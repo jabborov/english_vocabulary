@@ -1,4 +1,4 @@
-// Part 2 topic 0007: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0007: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0007', {
  "A1": {
   "accessible": "Klinikaga borish oson.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('2', '0007', {
   "to draw any attention": "Zaiflikka hech qanday e'tibor qaratmaslik instinkti tibbiy nuqtai nazardan ko'pincha soxta tejamkorlikdir.",
   "to use up": "Kamyob resurslarni sarflab qo'yishdan xavotirlangan ba'zi bemorlar o'zlariga zarar keltirgan holda o'z davolanishlarini cheklaydi.",
   "vulnerability": "Erkaklarning zaifligiga yopishtirilgan madaniy tamg'a yaqqol halokatli oqibatlarga olib keladi."
+ },
+ "EX": {
+  "accessible": "Sog'liqni saqlash xizmatlarini uzoq yoki notekis soatlarda ishlaydigan erkaklar uchun qulayroq va ochiqroq qilish kerak.",
+  "admit": "Unga mutaxassisga uchrashi kerakligini nihoyat tan olishi uchun bir necha oy kerak bo'ldi.",
+  "angina": "U nimadir noto'g'ri ekanini nihoyat tan olgunicha oylar davomida stenokardiyadan azob chekib yurgan edi.",
+  "aware": "Faollar ko'proq erkaklar yurak kasalligining dastlabki ogohlantiruvchi belgilaridan xabardor bo'lishini istaydi.",
+  "burden": "Davolanmagan kasallik tezda butun oila uchun moliyaviy yukka aylanishi mumkin.",
+  "charity": "Erkaklar salomatligiga oid xayriya tashkiloti erkaklarni alomatlarini ertaroq tekshirtirishga undovchi kampaniya boshladi.",
+  "commit": "U sog'lomroq turmush tarziga sodiq qolishga tayyor bo'lishi uchun salomatligi bilan bog'liq bir xavotirli hodisa yuz berishi kerak bo'ldi.",
+  "fuss": "U arzimas narsa uchun shov-shuv ko'tarishni istamasligini ta'kidlab, ko'kragidagi og'riqqa e'tibor bermadi.",
+  "lifestyle choices": "Chekish va jismoniy faollik yetishmasligi kabi noto'g'ri turmush tarzi tanlovlari erkaklarda yurak kasalliklarining asosiy sabablaridan bo'lib qolmoqda.",
+  "nuisance": "Ko'plab erkaklar muntazam tibbiy ko'rikni zaruratdan ko'ra ko'proq ortiqcha tashvish deb hisoblaydi.",
+  "so forth": "So'rovnoma ovqatlanish, jismoniy mashqlar, uyqu odatlari va hokazolarni qamrab oldi.",
+  "stuck": "U sog'lig'ida jiddiy muammo bo'lishi mumkinligini tan olishni istamay, boshi berk ko'chaga kirib qolgandek his qildi.",
+  "supposedly": "Go'yoki erkaklar kichik bir alomat uchun shifokor qabuliga yozilishga ayollarga qaraganda ancha kamroq moyil.",
+  "tablet": "U qon bosimini nazorat ostida ushlab turish uchun har kuni ertalab bitta tabletka ichishi kerak.",
+  "ten-fold": "U shifokor maslahatiga quloq solmay, yana chekishni boshlagach, ikkinchi yurak xurujiga uchrash xavfi o'n barobar oshdi.",
+  "to draw any attention": "U o'ziga hech qanday e'tibor tortmaslik uchun ishda alomatlari haqida jim yurdi.",
+  "to use up": "Davolanishni kechiktirish shifokorlarga samarali aralashish uchun zarur bo'lgan qimmatli vaqtni sarflab yuborishi mumkin.",
+  "vulnerability": "Zaiflik haqida ochiq gapirish ko'plab erkaklar uchun haliyam chindan qiyin narsa."
  }
 });

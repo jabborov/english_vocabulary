@@ -1,4 +1,4 @@
-// Part 1 topic 0254: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0254: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0254', {
  "A1": {
   "City University": "U City University'da o'qiydi.",
@@ -239,5 +239,45 @@ VOCAB_TR_STORE('1', '0254', {
   "vigilant": "Doimo hushyor bo'lish shahar aholisida notanishlarga do'stona munosabat uchun kam kuch qoldirishi mumkin.",
   "watchful": "Gavjum joylarda sergak bo'lish oqilona, lekin bu odamlarni sovuq va xushmuomala emasdek ko'rsatishi mumkin.",
   "whence": "Shoir shaharning tinimsiz g'ayrati qayerdan paydo bo'lganini o'ylab qoldi."
+ },
+ "EX": {
+  "City University": "City University'dan bir psixolog shaharlardagi qo'pollik haqida gapirdi.",
+  "anonymous": "Katta shaharda o'zingizni butunlay noma'lum odamdek his qilishingiz mumkin.",
+  "badge": "Ba'zi yo'lovchilar suhbatlashishga tayyor ekanliklari yozilgan nishon taqib yurishadi.",
+  "blend in": "Shahardagi ko'pchilik odamlar shunchaki olomonga qo'shilib, ko'zga tashlanmaslikni xohlaydi.",
+  "chitchat": "Londonliklar odatda metroda notanish odamlar bilan gap sotishni yoqtirmaydi.",
+  "claustrophobic": "Odam to'la metro poyezdida o'zingizni qisilib qolgandek his qilishingiz mumkin.",
+  "commuter": "Har kuni ertalab ishga qatnovchilar bekat bo'ylab shoshib o'tishadi.",
+  "cost of living": "Shaharlardagi yuqori turmush narxi ko'p odamlarni stressga soladi.",
+  "defensive": "Shaharda yashash bizni notanish odamlarga nisbatan o'zini himoya qiladigan qilib qo'yishi mumkin.",
+  "deliberate": "Shaharlardagi qo'pollikning ko'p qismi qasddan qilinmaydi.",
+  "disregard": "Band yo'lovchilar ko'pincha yordamga muhtoj odamlarga e'tibor bermaydi.",
+  "evoke": "Bozorning hidi unda bolalik xotiralarini uyg'otdi.",
+  "fiddle": "U kutayotganda asabiylashib, qo'lidagi narsani o'ynab turdi.",
+  "fiddle with": "Yo'lovchilar bir-biri bilan gaplashish o'rniga telefonlarini titkilashadi.",
+  "frown": "Yo'lovchi uni turtib o'tib ketgan odamga qovog'ini solib qaradi.",
+  "frown on": "Ba'zi shaharlarda poyezdda notanish odamlar bilan gaplashish yomon qabul qilinadi.",
+  "get by": "Katta shaharda odamlar notanishlar bilan gaplashmasdan ham kun ko'rishni o'rganishadi.",
+  "hustle": "Ba'zi odamlar shahar hayotining shov-shuvini yaxshi ko'radi.",
+  "hustling": "Platformadagi bu tinimsiz to's-to'polon uni stressga soldi.",
+  "informative": "Ko'rsatuv juda ma'lumotli bo'ldi.",
+  "instructional": "Shahar ma'muriyati poyezdlarda odobli xulq-atvor haqida o'quv videosi tayyorladi.",
+  "insular": "Shahar aholisi o'z qobig'iga o'ralib, atrofidagi odamlarga e'tibor bermay qo'yishi mumkin.",
+  "inward": "Olomon ichida ko'p odamlar o'z ichiga yopilib, boshqalarga e'tibor bermaydi.",
+  "lookout": "Shahar aholisi doimo xavfdan ehtiyot bo'lib turadi.",
+  "melatonin": "Kechasi shahar chiroqlari organizmimizdagi melatoninga ta'sir qilishi mumkin.",
+  "nosey": "Qishloqlarda qo'shnilar boshqalarning ishiga burnini suqadigan bo'lishi mumkin.",
+  "oxytocin": "Boshqalar bilan do'stona muloqot oksitotsin ajralishiga sabab bo'ladi.",
+  "quotient": "Ba'zi shaharlarda stress ko'rsatkichi boshqalarnikiga qaraganda yuqoriroq.",
+  "rudeness": "Shaharlarda qo'pollik ko'proq uchraydimi?",
+  "small person": "Ulkan olomon ichida o'zingizni juda kichkina odamdek his qilishingiz mumkin.",
+  "small town": "Kichik shaharchada odamlar ko'pincha hamma bilan salomlashadi.",
+  "step off": "Odamlar poyezddan tushishlari bilanoq chiqish tomon shoshilishadi.",
+  "thyroxin": "Tiroksin kabi gormonlar o'zimizni qanchalik g'ayratli his qilishimizga ta'sir qiladi.",
+  "unpredictably": "Gavjum shaharda odamlar atrofingizda kutilmagan tarzda harakatlanadi.",
+  "vigilance": "Shahar hayoti doimiy hushyorlikni talab qiladi.",
+  "vigilant": "Shaharda yashovchilar jinoyatchilikdan hushyor bo'lishlari kerak.",
+  "watchful": "Shahardagi ota-onalar bolalarini sinchkovlik bilan kuzatib turishadi.",
+  "whence": "Yo'lovchilar qayerdan kelgan bo'lsalar, o'sha yerga qaytib ketishdi."
  }
 });

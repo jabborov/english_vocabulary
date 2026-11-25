@@ -1,4 +1,4 @@
-// Part 1 topic 0381: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0381: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0381', {
  "A1": {
   "clumping": "Men og'ir qadam tovushlarini eshitdim.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0381', {
   "waiting": "Bir paytlar masofadagi munosabatlarning o'ziga xos belgisi bo'lgan xabarni xavotir bilan kutish asosan o'tmishda qoldi.",
   "waiting list": "Kasalxonalarga parvarish sifatini pasaytirmagan holda navbat ro'yxatlarini qisqartirish yuzasidan bosim o'tkazilmoqda.",
   "workmate": "Ishdoshlar bilan yaqin do'stlik hatto stressli ishni ham chidab bo'ladigan qiladi."
+ },
+ "EX": {
+  "clumping": "U telefonga javob berish uchun pastga yugurib tushayotganda qadam tovushlarining gursillashini eshitdik.",
+  "curly": "Eski telefonlarda go'shak va asos o'rtasida jingalak sim bo'lardi.",
+  "duplicate": "Telefon kompaniyasi menga xato bilan hisobning nusxasini yubordi.",
+  "follow up": "Uchrashuvdan keyin u qisqa elektron xat bilan davom ettirdi.",
+  "follow up on": "Savolingizni aniqlab, sizga qayta qo'ng'iroq qilaman.",
+  "landline": "Uyda statsionar telefondan foydalanadiganlar tobora kamayib bormoqda.",
+  "patiently": "Telefondan foydalanish navbatimizni sabr bilan kutdik.",
+  "sm": "Hozir ko'pchilik qo'ng'iroq qilish o'rniga SMS yuboradi.",
+  "smartly": "U ishga qabul suhbatiga ozoda va did bilan kiyingan edi.",
+  "urgency": "Kechasi kech statsionar telefon jiringlaganda har doim shoshilinchlik hissi paydo bo'lardi.",
+  "voicemail": "Hozirgi kunda deyarli hech kim ovozli pochtasini tinglamaydi.",
+  "waiting": "Yangi telefon liniyasini olishning eng yomon tomoni kutish edi.",
+  "waiting list": "O'tmishda odamlar telefon liniyasi olish uchun oylab navbatda turishardi.",
+  "workmate": "Men odatda hamkasblarimga qo'ng'iroq qilish o'rniga xabar yozaman."
  }
 });

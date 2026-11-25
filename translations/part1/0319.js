@@ -1,4 +1,4 @@
-// Part 1 topic 0319: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0319: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0319', {
  "A1": {
   "Campion": "Campion familiya.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0319', {
   "indication": "Barcha belgilar odamlar munajjimlar bashoratini yo'l-yo'riq uchun emas, balki ko'ngilochar uchun o'qishini ko'rsatadi.",
   "observant": "Yaxshi detektivlar, eng avvalo, boshqalar e'tibordan chetda qoldiradigan mayda tafsilotlarga e'tiborli bo'ladi.",
   "star sign": "Burjlar xarakter yoki taqdirga ta'sir qilishi haqida hech qanday ilmiy dalil yo'q."
+ },
+ "EX": {
+  "Campion": "Campion munajjimlik tarixini o'rgangan.",
+  "Nancy": "Nancy har kuni ertalab munajjimlar bashoratini o'qiydi.",
+  "adaptable": "Egizaklar burjidagilar moslashuvchan bo'lishi kerak, deyishadi.",
+  "astrologer": "Gazetadagi munajjimlar bashoratini munajjim yozadi.",
+  "astrology": "Siz munajjimlikka ishonasizmi?",
+  "come to light": "Munajjimlar bashoratlari qanday yozilishi haqida yangi ma'lumotlar oshkor bo'ldi.",
+  "distant": "Uzoqdagi sayyoralar hayotimizga qanday ta'sir qilishi mumkin?",
+  "domesticate": "Odamlar itlarni ming yillar oldin xonakilashtirgan.",
+  "generalise": "Munajjimlar bashoratlari millionlab odamlar haqida birdaniga umumiy xulosa chiqaradi.",
+  "horoscope": "Men gazetadagi munajjimlar bashoratini doim o'qiyman.",
+  "indication": "Burjlar xarakterga ta'sir qilishi haqida hech qanday belgi yo'q.",
+  "observant": "Sunbula burjida tug'ilganlar ziyrak bo'ladi, deyishadi.",
+  "star sign": "Burjingiz qaysi?"
  }
 });

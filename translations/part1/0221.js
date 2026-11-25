@@ -1,4 +1,4 @@
-// Part 1 topic 0221: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0221: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0221', {
  "A1": {
   "amusing": "Film kulgili edi.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0221', {
   "purr": "Xurrak otayotgan mushuklar haqidagi kliplar tinchlantirsa-da, ommalashishga turtki beradigan qo'zg'alishni emas, qoniqishni uyg'otadi.",
   "rich man": "Oddiy odamning bitta ommalashgan klip tufayli boy odamga aylanishi haqidagi hikoya asosan afsonadir.",
   "sharing": "Platformalar ulashishni deyarli zahmatsiz qilish uchun yaratilgan, bu esa kontent tarqalishini tezlashtiradi."
+ },
+ "EX": {
+  "amusing": "Ko'pchilik odamlarga o'xshab harakat qiladigan hayvonlar haqidagi videolarni juda kulgili deb biladi.",
+  "animation": "Qisqa animatsiyani internetda millionlab odamlar tomosha qildi.",
+  "arousal": "Kuchli hissiy qo'zg'alishga sabab bo'ladigan videolar ko'proq ulashiladi.",
+  "arouse": "Odamlar kuchli his-tuyg'ularni qo'zg'atadigan videolarni ulashishadi.",
+  "bad temper": "Poyezdi kechikkani uchun u kun bo'yi jahli chiqib yurdi.",
+  "contagious": "Kulgi yuqumli — bir kishi kulsa, boshqalar ham kula boshlaydi.",
+  "contentment": "Mamnunlik — xotirjam tuyg'u, shuning uchun u odamlarni videolarni ulashishga undamaydi.",
+  "deepen": "Kulgili videoni ulashish do'stlar o'rtasidagi aloqani mustahkamlashi mumkin.",
+  "fire up": "Odamlarni jo'shtiradigan kontent ularni tinchlantiradigan kontentdan ko'ra ko'proq ulashiladi.",
+  "funny story": "U bizga mushugining vannaga tushib ketgani haqida kulgili voqeani aytib berdi.",
+  "grumpy": "Qovog'i soliq ko'rinishdagi mushuk internet yulduziga aylandi.",
+  "high and low": "O'sha videoni hamma yoqdan qidirdim, lekin topa olmadim.",
+  "hilarious": "O'z dumini quvlayotgan it haqidagi video juda kulgili edi.",
+  "in a similar way": "G'iybat ham virusli videolarga o'xshab tarqaladi.",
+  "meme": "Qovog'i soliq mushukning o'sha surati eng mashhur memlardan biriga aylandi.",
+  "nasty": "Ba'zi virusli videolar yomon xatti-harakatlarni ko'rsatgani uchun tarqaladi.",
+  "purr": "Mushukcha uning tizzasida mamnun xurillab yotardi.",
+  "rich man": "Mashhur suratlar tufayli mushukning egasi boy odamga aylandi.",
+  "sharing": "Ijtimoiy tarmoqlarda videolarni ulashish yangiliklarning tarqalish usulini o'zgartirib yubordi."
  }
 });

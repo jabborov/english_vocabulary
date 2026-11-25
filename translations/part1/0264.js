@@ -1,4 +1,4 @@
-// Part 1 topic 0264: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0264: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0264', {
  "A1": {
   "beekeeper": "U asalarichi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0264', {
   "pollination": "Changlanish biz tarixan butunlay o'z-o'zidan bo'ladigan narsa deb hisoblagan ekotizim xizmatidir.",
   "question mark": "Dehqonchilik changlatuvchilarni himoya qilish uchun yetarlicha tez moslasha oladimi, degan savol katta so'roq belgisi bo'lib turibdi.",
   "unmindful": "Taraqqiyot ko'pincha uning changlatuvchilar yashash muhitiga ta'sirini nazar-pisand qilmay amalga oshirilgan."
+ },
+ "EX": {
+  "beekeeper": "Asalarichi yovvoyi asalarilarni emas, balki asal arilarini parvarish qiladi.",
+  "bumblebee": "Tukli ari muhim yovvoyi changlatuvchidir.",
+  "cling on": "Ba'zi noyob asalari turlari bir necha joydagina zo'rg'a saqlanib qolmoqda.",
+  "flap": "Asalarilar qanotlarini juda tez qoqadi.",
+  "fore": "So'nggi yillarda asalarilar sonining kamayishi muammosi birinchi o'ringa chiqdi.",
+  "grateful": "Meva va sabzavotlarimiz uchun asalarilarga minnatdor bo'lishimiz kerak.",
+  "gratitude": "Biz asalarilardan minnatdor bo'lishimiz kerak.",
+  "lavender": "Asalarilarga yordam berish uchun bog'ingizga lavanda eking.",
+  "oblivious": "Ko'pchilik yovvoyi asalarilar kamayib borayotganidan bexabar.",
+  "pest": "Fermerlar zararkunandalarni yo'qotish uchun kimyoviy moddalar ishlatadi, ammo ular asalarilarga zarar yetkazishi mumkin.",
+  "pollination": "Yovvoyi asalarilar ekinlarni changlatish uchun juda muhim.",
+  "question mark": "Ko'plab yovvoyi asalarilarning kelajagi shubha ostida.",
+  "unmindful": "Pestitsidlar yetkazayotgan zararga befarq bo'la olmaymiz."
  }
 });

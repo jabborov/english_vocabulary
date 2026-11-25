@@ -1,4 +1,4 @@
-// Part 1 topic 0369: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0369: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0369', {
  "A1": {
   "ask away": "So'rayvering!",
@@ -47,5 +47,13 @@ VOCAB_TR_STORE('1', '0369', {
   "ooh": "\"Ooh\" undovi xushmuomala suhbatda qiziqish bildirish yoki shubhani yumshoq ishora qilish uchun tez-tez ishlatiladi.",
   "pm": "\"Soat kunduzi 3 da ketsam bo'ladimi?\" kabi iltimoslar \"Men soat kunduzi 3 da ketyapman\"ga qaraganda xushmuomalaroq eshitiladi.",
   "radiant": "\"Siz nur sochib turibsiz\" kabi maqtovlarni professional muhitda ehtiyotkorlik bilan ishlatish kerak."
+ },
+ "EX": {
+  "ask away": "\"Sizdan bir narsa so'rasam bo'ladimi?\" — \"Albatta, so'rayvering!\"",
+  "come over": "Bir daqiqaga stolim oldiga kela olasizmi?",
+  "keep down": "Iltimos, shovqinni pasaytira olasizmi? Telefonda gaplashyapman.",
+  "ooh": "Voy, bu yaxshi fikr-ku!",
+  "pm": "Bugun soat 16:00 da ketsam bo'ladimi?",
+  "radiant": "Bugun chehrangiz yorqin — biror xushxabar oldingizmi?"
  }
 });

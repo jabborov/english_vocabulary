@@ -1,4 +1,4 @@
-// Part 2 topic 0040: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0040: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0040', {
  "A1": {
   "appraise": "Ishingizni baholang.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('2', '0040', {
   "spiking": "Xavotir odatda kutish paytida eng yuqori cho'qqiga chiqadi: uchrashuv oldidan keskin ko'tarilib, u tugashi bilan tezda pasayadi.",
   "try it out": "Buni sinab ko'rganlarning ko'pchiligi rad etilishni kutish rad etilishning o'zidan ancha og'riqliroq ekanini aytadi.",
   "walk up": "Shunchaki taklifsiz birovning oldiga borishning o'zi haqiqiy xavfga mutlaqo nomutanosib darajada dahshat uyg'otishi mumkin."
+ },
+ "EX": {
+  "appraise": "Rad javobi vaziyatingizni xotirjamroq baholash imkonini beradi.",
+  "cab": "U rad javobini kutib, notanish odamdan taksisiga sherik bo'lsa bo'ladimi, deb so'radi.",
+  "counter": "Kichik rad javoblariga muntazam duch kelish kattaroqlaridan qo'rqishga qarshi kurashishga yordam beradi.",
+  "discovery": "Uning eng katta kashfiyoti odamlar u kutganidan ancha ko'proq \"ha\" deyishi bo'ldi.",
+  "failure": "Muvaffaqiyatsizlikdan qo'rqish ko'p odamlarni yangi narsalarni sinab ko'rishdan to'xtatadi.",
+  "fear": "Rad etish terapiyasi odamlarga \"yo'q\" javobini eshitish qo'rquvini yengishga yordam berishni maqsad qiladi.",
+  "interaction": "Notanish odam bilan har bir muloqot unga biroz ko'proq ishonch bag'ishladi.",
+  "it came easier": "Avvaliga notanishlardan so'rash dahshatli edi, ammo bir haftadan keyin osonroq bo'lib qoldi.",
+  "judge": "Ijtimoiy xavotirga moyil ko'plab odamlar boshqalar ularni qoralashidan xavotirlanishadi.",
+  "nap": "Uning iltimoslaridan biri sotuvchidan do'konda biroz mizg'ib olsa bo'ladimi, deb so'rash edi.",
+  "perfectionism": "Mukammallikka intilish odamlarni xato qilishdan dahshatga soladigan qilib qo'yishi mumkin.",
+  "refusing": "Ko'pchilikka boshqalarning ularning iltimoslarini rad etishiga dosh berish qiyin.",
+  "silly": "Vazifa — odamlar rad etishi ehtimoli katta bo'lgan bema'ni iltimoslar qilish.",
+  "socially anxious": "Ijtimoiy xavotirga moyil odamlar uchun rad etish terapiyasi ayniqsa qiyin bo'lishi mumkin.",
+  "spiking": "Har bir iltimosdan oldin u xavotiri keskin oshib ketayotganini his qilardi.",
+  "try it out": "U rad etish terapiyasi haqida o'qib, uni o'zida sinab ko'rishga qaror qildi.",
+  "walk up": "Notanish odamning oldiga borib, undan yordam so'rash uchun katta jasorat kerak bo'ldi."
  }
 });

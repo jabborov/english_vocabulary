@@ -1,4 +1,4 @@
-// Part 1 topic 0246: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0246: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0246', {
  "A1": {
   "bracket": "Qavsdan foydalaning.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0246', {
   "typographical error": "U ataylab qilingan hazilmi yoki matbaa xatosimi, baribir \"ko'z qisish\" tilshunoslarni maftun etib kelgan.",
   "visual signal": "Emojilar yozma matnda yetishmaydigan vizual signallarni — yuz ifodalari va imo-ishoralarni — to'ldiradi.",
   "witty": "Chinakam zukko yozuvchi vizual vositalarga tayanmasdan ham ohangni yetkaza oladi."
+ },
+ "EX": {
+  "bracket": ":-) belgisidagi tabassumni yopuvchi qavs hosil qiladi.",
+  "clumsy": "Emojisiz matn ba'zan qo'pol yoki beadab tuyulishi mumkin.",
+  "colon": "Jilmaygan emotikonda ko'zlar uchun ikki nuqta belgisi ishlatiladi.",
+  "commander": "Qo'mondon aniq ko'rsatmalar berdi.",
+  "digital communication": "Emojilar hozir raqamli muloqotning katta qismiga aylangan.",
+  "dot": "Ikki nuqta belgisi ikkita nuqtadan iborat.",
+  "each week": "Har hafta milliardlab emojilar yuboriladi.",
+  "emoticon": "Birinchi emotikon ikki nuqta, chiziqcha va qavsdan yasalgan jilmaygan yuz edi.",
+  "emotional state": "Emojilar hissiy holatingizni ko'rsatishi mumkin.",
+  "fall over": "Shunchalik qattiq kulayotganki, yiqilib tushayotgan odam emojisi bor.",
+  "get across": "Emojilar aslida nimani nazarda tutayotganimizni yetkazishga yordam beradi.",
+  "glint": "U buni ko'zlarida uchqun bilan aytdi.",
+  "hammer": "Hatto bolg'a emojisi ham bor.",
+  "instruct": "Olim odamlarga hazillar uchun :-) belgisidan foydalanishni buyurdi.",
+  "punctuation": "Ilk emotikonlar tinish belgilaridan yasalgan.",
+  "reprint": "1862-yildagi nutqning gazetadagi qayta nashrida ilk emotikonlardan biri borga o'xshaydi.",
+  "round up": "Keling, emojilar haqidagi asosiy faktlarni jamlab chiqaylik.",
+  "spoken": "Og'zaki nutqda yuzimiz qanday his qilayotganimizni ko'rsatadi.",
+  "typo": "Birinchi emotikon shunchaki imlo xatosi bo'lganmi?",
+  "typographical": "Maqolada matn terish xatosi bor edi.",
+  "typographical error": "Ilk emotikon matn terishdagi xato bo'lgan bo'lishi mumkin.",
+  "visual signal": "Emoji his-tuyg'ularimizni bildiruvchi vizual belgidir.",
+  "witty": "Zukko, hazilomuz xabarga har doim ham emoji kerak emas."
  }
 });

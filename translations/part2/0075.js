@@ -1,4 +1,4 @@
-// Part 2 topic 0075: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0075: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0075', {
  "A1": {
   "accomplish": "Men maqsadimga erishdim.",
@@ -281,5 +281,52 @@ VOCAB_TR_STORE('2', '0075', {
   "unique": "Bu ish noyob edi, chunki u bolaning orzusini bevosita davlatga qarshi qo'ygan edi.",
   "urge": "Bolalar psixologlari uzoq sayohatlardagi yolg'izlik haqida ogohlantirib, ehtiyotkorlikka chaqirdilar.",
   "voyage": "Rejalashtirilgan dengiz sayohati ota-onalik mas'uliyati haqida jiddiy savollar tug'dirdi."
+ },
+ "EX": {
+  "accomplish": "U hech kim qilmagan narsaga erishmoqchi edi.",
+  "ambitious": "Uning rejasi juda shuhratparastona edi.",
+  "arbiter": "Sud yakuniy hakam edi.",
+  "aspiration": "Uning orzusi dunyo bo'ylab suzib chiqish edi.",
+  "authority": "Niderlandiya hukumati uning sayohatini to'xtatdi.",
+  "battle": "U huquqiy kurashda yutqazdi.",
+  "be due": "U sentabrda yo'lga chiqishi kerak edi.",
+  "catch it": "Oyim bilib qolsa, senga ko'rsatadi!",
+  "chip": "Uning ichida alami bor.",
+  "chip in": "Shu yerda bir gap qo'shsam bo'ladimi?",
+  "circumnavigate": "U yer sharini aylanib suzib chiqishga umid qilardi.",
+  "collocation": "\"Qizg'in bahs\" keng tarqalgan so'z birikmasidir.",
+  "competitor": "Poygada ko'plab raqiblar bor edi.",
+  "dash": "Sud uning dunyo bo'ylab suzib chiqish umidlarini puchga chiqardi.",
+  "decision": "Sudning qarori qat'iy edi.",
+  "deed": "Dunyo bo'ylab suzib chiqish buyuk jasoratdir.",
+  "disagree with": "Ko'p odamlar sud qaroriga qo'shilmaydi.",
+  "dispute": "Uning ota-onasi va rasmiylar o'rtasida nizo bor edi.",
+  "effectively": "Bu qaror amalda uning orzusiga nuqta qo'ydi.",
+  "exhausting": "Yolg'iz suzish juda charchatadi.",
+  "feat": "Dunyo bo'ylab yolg'iz suzib chiqish hayratlanarli jasoratdir.",
+  "fuel": "Bu xabar bahsni yanada qizitdi.",
+  "gruelling": "Bu juda mashaqqatli dengiz sayohati bo'lardi.",
+  "heated": "Bu voqea qizg'in bahsga sabab bo'ldi.",
+  "intention": "Uning niyati dunyo bo'ylab suzib chiqish edi.",
+  "legal": "Uning rejalari yuzasidan huquqiy kurash bo'ldi.",
+  "legged": "Ular uch oyoqli yugurish musobaqasida qatnashishdi.",
+  "moral": "Bu axloqiy masalami yoki huquqiy masalami?",
+  "mousetrap": "U oshxonaga sichqon qopqonini qo'ydi.",
+  "overly": "Rasmiylar haddan tashqari ehtiyotkorlik qilishdimi?",
+  "parental": "Sud ota-onaning nazorat huquqini olib qo'ydi.",
+  "promote": "Bolalar uchun sarguzashtli mashg'ulotlarni qo'llab-quvvatlashimiz kerakmi?",
+  "rag": "Qayiqni latta bilan tozalang.",
+  "rat race": "U yelkanli sayohatga chiqish uchun tinimsiz kurash-u poygadan iborat hayotni tark etdi.",
+  "react": "U bu xabarga qanday munosabat bildirdi?",
+  "reaction": "Sud qaroriga uning munosabati qanday bo'ldi?",
+  "responsible": "Sudning fikriga ko'ra, uning ota-onasi mas'uliyatli emas edi.",
+  "responsible for": "Ota-onalar farzandlari uchun javobgar.",
+  "risky": "Dunyo bo'ylab yolg'iz suzish juda xavfli.",
+  "sail": "U dunyo bo'ylab yolg'iz suzib chiqmoqchi edi.",
+  "solo": "U dunyo bo'ylab yakka o'zi suzib chiqishni rejalashtirgan edi.",
+  "spark": "Uning rejasi bahs-munozaraga turtki berdi.",
+  "unique": "Uning rejasi noyob edi.",
+  "urge": "Mutaxassislar uni bir necha yil kutishga undashdi.",
+  "voyage": "Dengiz sayohati ikki yilcha davom etishi kerak edi."
  }
 });

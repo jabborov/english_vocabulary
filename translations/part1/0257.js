@@ -1,4 +1,4 @@
-// Part 1 topic 0257: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0257: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0257', {
  "A1": {
   "a great deal": "Men juda ko'p narsa o'rgandim.",
@@ -185,5 +185,36 @@ VOCAB_TR_STORE('1', '0257', {
   "sulphur": "Oltingugurt bilan oziqlanuvchi bakteriyalar chuqur dengiz teshiklari atrofidagi oziq zanjirlarining asosini tashkil etadi.",
   "vent": "Gidrotermal teshiklar hayot ilk bor paydo bo'lgan kimyoviy sharoitlarni ta'minlagan bo'lishi mumkin.",
   "zoology": "Mikrobiologiya na botanikaga, na zoologiyaga to'liq mos tushmaydigan hayot olamini ochib berdi."
+ },
+ "EX": {
+  "a great deal": "So'nggi yillarda biz ekstremal sharoitlardagi hayot haqida juda ko'p narsalarni bilib oldik.",
+  "acidic": "Ba'zi bakteriyalar o'ta kislotali suvda yashay oladi.",
+  "adaptation": "Ekstremofillar og'ir sharoitlarga hayratlanarli darajada moslashishni namoyon etadi.",
+  "animal kingdom": "Tardigrada hayvonot olamidagi eng chidamli jonzotlardan biridir.",
+  "botany": "U universitetda botanikani o'rgangan.",
+  "breeze": "Sohilda mayin shabada esardi.",
+  "cleverness": "Tabiatning zukkoligi olimlarni hayratda qoldiradi.",
+  "corner": "Hayot sayyoramizning har bir burchagida topilgan.",
+  "curl up": "Ko'pchiligimiz issiq va qulay joyda g'ujanak bo'lib yotishni afzal ko'ramiz.",
+  "domain": "Barcha tirik mavjudotlar uchta domenga bo'linadi.",
+  "eukaryote": "Odamlar, o'simliklar va zamburug'larning barchasi eukariotlardir.",
+  "face up": "Olimlar hayot ular o'ylaganidan ham chidamliroq ekanligi haqiqatini tan olishga majbur bo'lishdi.",
+  "flow out": "Dengiz tubidagi yoriqlardan issiq suv oqib chiqadi.",
+  "formation": "Ba'zi mikroblar g'alati tosh hosilalarini hosil qiladi.",
+  "geyser": "Mikroblar issiq geyzerlar yaqinida yashayotgani aniqlangan.",
+  "go by": "Yer haqida bilganlarimizga asoslansak, boshqa sayyoralarda ham hayot mavjud bo'lishi mumkin.",
+  "habitable": "Olimlar qaysi sayyoralar yashash uchun yaroqli bo'lishi mumkinligini bilishni istaydi.",
+  "hammock": "Men qayerdadir ekstremal sharoitda yashagandan ko'ra, gamakda dam olishni afzal ko'raman.",
+  "hole down": "Olimlar hayot izlash uchun toshni pastga qarab burg'ilab teshik ochishdi.",
+  "hot spring": "Issiqni yaxshi ko'radigan bakteriyalar birinchi marta issiq buloqda topilgan.",
+  "implication": "Bu kashfiyot o'zga sayyoraliklar hayotini izlash uchun muhim ahamiyatga ega.",
+  "life form": "Olimlar dengiz tubidan yangi hayot shakllarini topishdi.",
+  "log": "Biz daryo bo'yidagi yog'och to'nka ustida o'tirdik.",
+  "multicellular": "Odamlar ko'p hujayrali organizmlardir.",
+  "plant life": "Cho'lda o'simlik dunyosi juda kam.",
+  "squash up": "Men o'tira olishim uchun biroz surilib bera olasizmi?",
+  "sulphur": "Ba'zi bakteriyalar energiyani oltingugurtdan oladi.",
+  "vent": "Dengiz tubidagi issiq tirqishlar atrofida g'alati jonzotlar yashaydi.",
+  "zoology": "Zoologiya hayvonlarni o'rganuvchi fandir."
  }
 });

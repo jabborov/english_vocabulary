@@ -1,4 +1,4 @@
-// Part 1 topic 0073: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0073: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0073', {
  "A1": {
   "Qatar": "Qatar kichik mamlakat.",
@@ -197,5 +197,38 @@ VOCAB_TR_STORE('1', '0073', {
   "visa": "Kafala tizimiga ko'ra ishchining vizasi homiyga bog'langan bo'lib, bu uning ish joyini o'zgartirish erkinligini keskin cheklardi.",
   "winner": "Maydondagi chempionlardan tashqari, haqiqiy g'oliblar va mag'lublar kim bo'lgani haqidagi savol hanuz qizg'in bahs-munozarali bo'lib qolmoqda.",
   "workforce": "Ishchilarni ish beruvchilarga bog'lab qo'yadigan tizimda asosan chet elliklardan iborat ishchi kuchi deyarli hech qanday muzokara kuchiga ega emas."
+ },
+ "EX": {
+  "Qatar": "Qatar 2022-yilda Jahon chempionatiga mezbonlik qildi.",
+  "accommodation": "Ishchilar ko'pincha odam gavjum turar joylarda yashashgan.",
+  "airport": "Qatar Jahon chempionati uchun aeroportini kengaytirdi.",
+  "behemoth": "FIFA jahon sportining ulkan gigantidir.",
+  "construction worker": "Minglab quruvchilar yangi stadionlarni qurishdi.",
+  "contract": "Ba'zi ishchilar shartnomasi o'zlariga va'da qilingan narsadan farq qilishini bilib qolishdi.",
+  "criticise": "Inson huquqlari tashkilotlari mehnat muhojirlariga bo'lgan munosabatni tanqid qildi.",
+  "cultural": "Tashrif buyurgan muxlislar va mezbonlar o'rtasida madaniy farqlar ham bor edi.",
+  "exceed": "Jahon chempionati xarajatlari 200 milliard dollardan oshishi kutilmoqda.",
+  "exorbitant": "Ishchilar ishga yollash agentlariga haddan tashqari katta to'lovlar to'lashgan.",
+  "exploit": "Ba'zi kompaniyalar ishchilarga juda kam haq to'lab, ulardan foydalanadi.",
+  "exploitation": "Faollar ish beruvchilarni mehnat muhojirlarini ekspluatatsiya qilishda ayblashdi.",
+  "football stadium": "Qatar Jahon chempionati uchun yettita yangi futbol stadionini qurdi.",
+  "foreigner": "Chet elliklar soni Qatar fuqarolaridan ko'p.",
+  "gear": "Ba'zi ishchilarda tegishli himoya jihozlari yo'q edi.",
+  "hotel": "Tashrif buyurgan muxlislarni joylashtirish uchun yangi mehmonxonalar qurildi.",
+  "migrant": "Qatardagi qurilish ishlarining katta qismini muhojirlar bajaradi.",
+  "narrow": "Qatar o'zi va yirikroq qo'shnilari o'rtasidagi farqni qisqartirishga umid qildi.",
+  "overwork": "Yozgi jaziramada ishchilar haddan tashqari ko'p ishlatildi.",
+  "policy": "Hukumat ishchilar huquqlari bo'yicha siyosatini o'zgartirdi.",
+  "recoup": "Ishchilarga to'lovlarga sarflagan pullarini qoplash uchun oylar kerak bo'ldi.",
+  "recruitment": "Ishga yollash agentliklari ishchilarni Nepal va Hindistondan topgan.",
+  "regional": "Qatar mintaqaviy sport markaziga aylanishni xohlaydi.",
+  "sandwich": "Qatar Saudiya Arabistoni va dengiz o'rtasida qisilib joylashgan.",
+  "stadium": "Final ulkan yangi stadionda o'tkazildi.",
+  "transport": "Qatar muxlislar uchun yangi metro va transport tizimini qurdi.",
+  "underpaid": "Ko'plab mehnat muhojirlariga mehnatiga yarasha haq to'lanmagan.",
+  "unfairly": "Ko'plab ishchilar o'zlariga nisbatan adolatsiz munosabatda bo'lingan deb hisoblashdi.",
+  "visa": "Ishchilarga vizasini o'zgartirish uchun ish beruvchisining ruxsati kerak edi.",
+  "winner": "Argentina 2022-yilgi Jahon chempionati g'olibi bo'ldi.",
+  "workforce": "Muhojirlar Qatar ishchi kuchining taxminan 90 foizini tashkil etadi."
  }
 });

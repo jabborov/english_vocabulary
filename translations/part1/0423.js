@@ -1,4 +1,4 @@
-// Part 1 topic 0423: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0423: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0423', {
  "A1": {
   "accepted": "Bu umume'tirof etilgan g'oya.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0423', {
   "par": "Barcha giyohvand moddalarni bir qatorga qo'yish ular tug'diradigan juda turlicha xavflarni ko'zdan yashiradi.",
   "penalty": "Tanqidchilarning ta'kidlashicha, giyohvand moddalarni saqlaganlik uchun og'ir jazolar talabni kamaytirmagan holda hayotlarni barbod qiladi.",
   "swearing": "So'kinishga bo'lgan munosabat jamiyat nimaga toqat qilishi vaqt o'tishi bilan qanday o'zgarishini ko'rsatadi."
+ },
+ "EX": {
+  "accepted": "Alkogol zararli bo'lishi mumkinligi hammaga ma'lum haqiqatdir.",
+  "drug user": "Ba'zilarning fikricha, giyohvandlarga jazo emas, yordam kerak.",
+  "formulate": "Hukumat giyohvand moddalar bo'yicha yangi siyosatni ishlab chiqmoqda.",
+  "gambling": "Ba'zi mamlakatlarda qimor o'ynash taqiqlangan.",
+  "jail": "U giyohvand modda sotgani uchun qamoqqa tushdi.",
+  "par": "Ba'zilar nashani alkogol bilan bir qatorda deb hisoblaydi.",
+  "penalty": "Giyohvand moddalarni saqlaganlik uchun jazo juda og'ir bo'lishi mumkin.",
+  "swearing": "Sinfda so'kinish mumkin emas."
  }
 });

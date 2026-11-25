@@ -1,4 +1,4 @@
-// Part 1 topic 0237: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0237: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0237', {
  "A1": {
   "at first sight": "Bu birinchi ko'rishdayoq sevgi edi.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('1', '0237', {
   "starting": "Chaqaloq yig'isi murakkabroq muloqot asta-sekin rivojlanadigan boshlang'ich nuqtani ta'minlaydi.",
   "unoriginal": "Har bir chaqaloq o'z ishoralarini rivojlantirish usulida hech qanday siyqalik yo'q.",
   "write about": "Ilk ota-onalik kabi kam tajribalar bunchalik tez-tez va bunchalik turlicha yozilgan."
+ },
+ "EX": {
+  "at first sight": "Bir qarashda chaqaloqlarning barcha yig'ilari bir xil eshitiladi.",
+  "done for": "Uch kecha uxlamaganimdan keyin o'zimni butunlay holdan toygandek his qildim.",
+  "flowing": "Chaqaloqlar ravon gapira olmaydi — ular yig'i va imo-ishoralardan foydalanadi.",
+  "helpless": "Odam bolalari mutlaqo ojiz holda tug'iladi.",
+  "misunderstanding": "Avvaliga ota-onalar va chaqaloqlar o'rtasida ko'plab tushunmovchiliklar bo'ladi.",
+  "naked eye": "Chaqaloqning ba'zi mayda harakatlarini oddiy ko'z bilan ko'rib bo'lmaydi.",
+  "nappy": "Ba'zan chaqaloq tagligini almashtirish kerakligi uchun yig'laydi.",
+  "newborn": "Yangi tug'ilgan chaqaloqlar uzoqni ko'ra olmaydi.",
+  "newborn baby": "Yangi tug'ilgan chaqaloq asosan yig'lash orqali muloqot qiladi.",
+  "on purpose": "Chaqaloqlar ota-onalarining jonga tegish uchun ataylab yig'lashmaydi.",
+  "one hundred": "Chaqaloq dastlabki haftalarda kuniga yuz daqiqadan ko'proq yig'lashi mumkin.",
+  "overused": "\"Quvonch to'plami\" — yangi chaqaloq uchun haddan tashqari ko'p ishlatiladigan ibora.",
+  "purposeful": "Chaqaloqning yig'isi maqsadli — u sizga nimadir aytmoqchi bo'ladi.",
+  "sleepless": "Yangi ota-onalar ko'pincha ko'p tunlarni bedor o'tkazishadi.",
+  "smoothly": "Bir necha haftadan keyin chaqaloq bilan muloqot ancha silliq kecha boshladi.",
+  "starting": "Yig'lash keyingi barcha muloqotlar uchun boshlang'ich nuqtadir.",
+  "unoriginal": "Chaqaloqni \"kichkina farishta\" deb atash biroz siyqasi chiqqan gap.",
+  "write about": "U chaqaloqlar va farzand tarbiyasi haqida yozadi."
  }
 });

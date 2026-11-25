@@ -1,4 +1,4 @@
-// Part 1 topic 0345: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0345: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0345', {
  "A1": {
   "adolescence": "O'smirlik qiyin davr.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0345', {
   "maturity": "Qonuniy voyaga yetish va psixologik yetuklik, aftidan, butunlay boshqa-boshqa bosqichlardir.",
   "mollycoddle": "O'smirlikni uzaytirish jamiyatni mustaqil bo'lishga qodir odamlarni haddan tashqari erkalatishga undash xavfini tug'diradi.",
   "strike out": "O'n sakkiz yoshda mustaqil yo'lga chiqish haqidagi an'anaviy g'oya bugungi iqtisodiy voqelikka unchalik mos kelmaydi."
+ },
+ "EX": {
+  "adolescence": "Ba'zi mutaxassislarning aytishicha, o'smirlik davri hozir 24 yoshgacha davom etadi.",
+  "aspiration": "Bugungi yoshlarning intilishlari boshqacha.",
+  "juvenile": "Unga katta odamdek emas, voyaga yetmagandek munosabatda bo'lishdi.",
+  "magazine article": "U ulg'ayish haqidagi jurnal maqolasini o'qidi.",
+  "maturity": "Yetuklik 18 yoshga to'lgan kuningiz kelmaydi.",
+  "mollycoddle": "Ba'zilarning aytishicha, ota-onalar farzandlarini haddan tashqari erkalatib yuborishadi.",
+  "strike out": "U 18 yoshida mustaqil hayot boshlashga qaror qildi."
  }
 });

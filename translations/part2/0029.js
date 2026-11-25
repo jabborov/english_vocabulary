@@ -1,4 +1,4 @@
-// Part 2 topic 0029: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0029: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0029', {
  "A1": {
   "affect": "Yomg'ir kayfiyatimga ta'sir qilishi mumkin.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('2', '0029', {
   "subject": "Tadqiqotchilar tadqiqot ishtirokchilarining keng ijtimoiy va iqtisodiy qatlamlardan tanlanishini sinchiklab ta'minlashdi.",
   "take out": "Ham bakalavriat, ham magistratura o'qishini moliyalash uchun kredit olgan qiz o'n yillab to'lovlarga duch keldi.",
   "unaffordable": "Uy-joy butun bir avlod uchun qo'l yetmas darajada qimmat bo'lib qolganda, bir vaqtlar mehnatni taqdirlagan ijtimoiy shartnoma darz keta boshlaydi."
+ },
+ "EX": {
+  "affect": "Chorak umr inqirozi boshqalardan ko'ra ko'proq bitiruvchilarga ta'sir qiladiganga o'xshaydi.",
+  "anxious": "Yoshlar yaxshi ish topish va uy sotib olish haqida xavotirlanishadi.",
+  "certainly": "Bugungi kunda yoshlar uchun uy sotib olish, shubhasiz, qiyinroq.",
+  "essentially": "Chorak umr inqirozi aslida yigirma yoshlarda o'zini yo'qotib qo'ygandek his qilishdir.",
+  "establish": "Yigirma yoshlardagi ko'plab odamlar kasbda o'z o'rnini topishda qiynalmoqda.",
+  "gadget": "Ba'zi yoshlar eng so'nggi gadjetlarga juda ko'p pul sarflashadi.",
+  "loan": "U hali ham universitet uchun olgan kreditini to'lab kelmoqda.",
+  "mid-life": "O'rta yosh inqirozi odatda qirq yoki ellik yoshdagi odamlarda yuz beradi.",
+  "owe": "Ko'plab bitiruvchilar talabalik kreditlari bo'yicha minglab funt qarzdor.",
+  "qualified": "Hatto yuqori malakali bitiruvchilar ham yaxshi ish topishda qiynalmoqda.",
+  "quarter-life": "Mutaxassislarning aytishicha, tobora ko'proq yoshlar chorak umr inqirozini boshdan kechirmoqda.",
+  "recapture": "O'rta yosh inqirozini boshdan kechirayotgan odamlar ko'pincha yoshligini qaytarishga urinishadi.",
+  "recession": "Retsessiya davrida ko'plab yoshlarga ish topish qiyin bo'ldi.",
+  "run over": "U moliyaviy ahvolini qayta-qayta ko'zdan kechirdi, lekin baribir qarzlarini qanday uzishni tushunolmadi.",
+  "status conscious": "Mavqeiga katta e'tibor beradigan yosh kattalar o'z hayotlarini do'stlarinikiga solishtirishadi.",
+  "subject": "Tadqiqot ishtirokchilarining ko'pchiligi kelajaklari haqida xavotirda ekanliklarini aytishdi.",
+  "take out": "Talabalarning aksariyati o'qishi uchun pul to'lash maqsadida kredit olishga majbur.",
+  "unaffordable": "Ko'plab bitiruvchilar uchun shahardagi uylarning narxi shunchaki hamyonbop emas."
  }
 });

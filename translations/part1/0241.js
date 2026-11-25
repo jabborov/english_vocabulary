@@ -1,4 +1,4 @@
-// Part 1 topic 0241: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0241: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0241', {
  "A1": {
   "alveolus": "Alveola juda kichik.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0241', {
   "sighing": "Bir paytlar shunchaki hissiy ishora deb hisoblangan xo'rsinish hayotni ta'minlovchi fiziologik qayta sozlash ekan.",
   "unconsciously": "Nafas olishimizning katta qismi, jumladan xo'rsinish ham, miya ustuni tomonidan ongsiz ravishda boshqariladi.",
   "voluntarily": "Nafas olishning o'ziga xosligi shundaki, uni ham ixtiyoriy, ham beixtiyor boshqarish mumkin."
+ },
+ "EX": {
+  "alveolus": "Har bir alveola kislorod qonga o'tadigan mayda havo pufakchasidir.",
+  "cope": "U bunga dosh berish qiyin bo'layotganini his qilmoqda.",
+  "cope with": "Xo'rsinish stressni yengishimizga yordam berishi mumkin.",
+  "defence mechanism": "Xo'rsinish o'pka uchun o'ziga xos himoya mexanizmi bo'lishi mumkin.",
+  "fabulous": "\"Bu ajoyib fakt\", dedi boshlovchi.",
+  "frustrated": "U asabiylashgani uchun xo'rsindi.",
+  "frustrating": "Kompyuter tinimsiz ishdan chiqib qolsa, asabga tegadi.",
+  "password": "Parolimni yana unutganimda xo'rsinib qo'ydim.",
+  "reflex": "Xo'rsinish miya tomonidan boshqariladigan refleksdir.",
+  "relief": "Imtihon tugagach, u yengil tortib xo'rsindi.",
+  "relieve": "Uzoq xo'rsinish taranglikni yengillatishi mumkin.",
+  "reset": "Har bir xo'rsinish o'pkani qayta tiklashga yordam beradi.",
+  "resetting": "Xo'rsinish o'pkani odatiy holatiga qaytarishdek ishlaydi.",
+  "resign": "U yana bir soat kutishga ko'ndi.",
+  "resignation": "Uzun navbatni ko'rib, u noiloj xo'rsindi.",
+  "sac": "O'pkada millionlab mayda havo pufakchalari bor.",
+  "sighing": "Olimlarning aytishicha, xo'rsinish o'pkamizning to'g'ri ishlashini ta'minlaydigan muhim refleksdir.",
+  "unconsciously": "Biz har soatda taxminan o'n ikki marta beixtiyor xo'rsinamiz.",
+  "voluntarily": "Biz o'z ixtiyorimiz bilan xo'rsinishimiz mumkin, lekin odatda buni o'ylamasdan qilamiz."
  }
 });

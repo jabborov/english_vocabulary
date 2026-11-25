@@ -1,4 +1,4 @@
-// Part 1 topic 0370: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0370: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0370', {
  "A1": {
   "corridor": "Yo'lak bo'ylab yuring.",
@@ -35,5 +35,11 @@ VOCAB_TR_STORE('1', '0370', {
   "diary": "Umumiy onlayn kundaliklar band hamkasblar bilan uchrashuv belgilashni ancha osonlashtirdi.",
   "in person": "Video texnologiyalaridagi yutuqlarga qaramay, ko'pchilik muhim muzokaralar uchun hamon yuzma-yuz uchrashishni afzal ko'radi.",
   "notch": "Ketma-ket yig'ilishlarni to'plab borish samarali ko'rinishi mumkin, ammo bu haqiqiy ish uchun juda oz vaqt qoldiradi."
+ },
+ "EX": {
+  "corridor": "Yo'lakda rahbarimni uchratib qoldim va biz uchrashuv belgiladik.",
+  "diary": "Kundaligimni tekshirib, qachon bo'sh ekanligimni ko'raychi.",
+  "in person": "Yuzma-yuz uchrashamizmi yoki video qo'ng'iroq qilamizmi?",
+  "notch": "Bugun u allaqachon beshta uchrashuvni o'tkazib ulgurdi."
  }
 });

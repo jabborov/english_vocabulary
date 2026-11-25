@@ -1,4 +1,4 @@
-// Part 2 topic 0005: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0005: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0005', {
  "A1": {
   "apparently": "Aftidan, u charchagan.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('2', '0005', {
   "take a breather": "Ko'plab parvarishchilar uchun nafas rostlab olish imkoniyati shu qadar kamyob hashamatki, deyarli afsonadek tuyuladi.",
   "to nag less": "Agar jig'ibiyronlikka sabab bo'layotgan nomutanosiblik saqlanib qolsa, kamroq jig'ibiyron qilishga ahd qilish befoyda.",
   "worksheet": "Puxta tuzilgan topshiriq varag'i talabalar hech qachon o'ylab ko'rmagan farazlarni kutilmaganda chuqur muhokama qilishga undashi mumkin."
+ },
+ "EX": {
+  "apparently": "Aytishlaricha, erkaklar o'zlari aslida bajaradigan uy ishlari hajmini kamroq baholashga ancha moyil ekan.",
+  "conduct": "Tadqiqotchilar juftliklar uy mas'uliyatlarini aslida qanday taqsimlashini aniqlash uchun so'rovnoma o'tkazdi.",
+  "division of labour": "So'rovnoma uyda erkaklar va ayollar o'rtasidagi mehnat taqsimotida ba'zi yaqqol qonuniyatlarni ochib berdi.",
+  "fair share": "Vazifalar aslida qanchalik teng taqsimlanganidan qat'i nazar, ko'pchilik uy ishlarida o'z ulushidan ko'proq ish qilayotganini his qiladi.",
+  "household chores": "Hatto zamonaviy oilalarda ham uy yumushlarining taqsimoti ko'pincha haliyam nomutanosib ravishda sheriklardan birining zimmasiga tushadi.",
+  "once again": "So'rovnoma yana bir bor uy mas'uliyatlari kamdan-kam hollarda to'liq teng taqsimlanishini tasdiqladi.",
+  "pulling their weight": "U umumiy oshxonani tozalash masalasida xonadoshlari o'z zimmasidagi ishni bajarmayotganidan shikoyat qildi.",
+  "reasonable amount": "Har kim o'rinli miqdorda hissa qo'shsa, ko'pchilik uy vazifalarini bo'lishishga qarshi emas.",
+  "scrubbing the toilet": "Hojatxonani tozalashga kamdan-kam odam o'z ixtiyori bilan rozi bo'ladi, ammo har bir xonadonda kimdir muqarrar ravishda bu ishni bajaradi.",
+  "stereotypically": "Garchi so'nggi o'n yilliklarda qarashlar ancha o'zgargan bo'lsa-da, ovqat pishirish odatda stereotip tarzda ayollar bilan bog'lanadi.",
+  "sweep": "U har kuni kechqurun uxlashdan oldin oshxona polini supurardi.",
+  "take a breather": "Dazmollashni tugatgach, u qolgan yumushlarga kirishishdan oldin biroz nafas rostlab olishga qaror qildi.",
+  "to nag less": "Yumushlarni tengroq taqsimlaydigan juftliklar kim nima qilayotgani haqida kamroq ming'irlashadi.",
+  "worksheet": "O'qituvchi o'quvchilarga yangi so'zlarni kontekstda mashq qilishga yordam berish uchun mo'ljallangan ish varag'ini tarqatdi."
  }
 });

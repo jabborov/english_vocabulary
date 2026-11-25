@@ -1,4 +1,4 @@
-// Part 1 topic 0147: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0147: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0147', {
  "A1": {
   "bamboo": "Pandalar bambuk yeydi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0147', {
   "shop at": "Ko'plab iste'molchilar uchun qayerdan xarid qilishni tanlash ularning qadriyatlarini ifodalovchi bayonotga aylangan.",
   "shot": "Bolalarga haqiqiy mas'uliyatni sinab ko'rish imkonini berish har qanday darslikdan ko'ra ibratliroq bo'lishi mumkin.",
   "untypical": "Maktabning muvaffaqiyati odatiy bo'lmasligi mumkin, chunki u ko'p jihatdan maktabning alohida xodimlari va resurslariga bog'liq."
+ },
+ "EX": {
+  "bamboo": "Maktab binolari bambukdan qurilgan.",
+  "broadly": "Umuman olganda, bolalarga mas'uliyatga ega bo'lish yoqadi.",
+  "call the shots": "Bu g'ayrioddiy maktabda hamma narsani bolalar hal qiladi.",
+  "community service": "O'quvchilar yaqin atrofdagi qishloqlarda jamoat ishlarini ham bajarishadi.",
+  "positively": "Ota-onalar yangi tizimga ijobiy munosabat bildirishdi.",
+  "private school": "Bu xususiy maktab, shuning uchun ota-onalar bolalarini u yerda o'qitish uchun pul to'laydi.",
+  "purchase": "Bolalar maktab oshxonasi uchun oziq-ovqat sotib olishadi.",
+  "radical": "Maktabni boshqarishni bolalarga topshirish - tubdan yangi g'oya.",
+  "real world": "Maktab o'quvchilarni real hayotga tayyorlashni maqsad qilgan.",
+  "school day": "Bu maktabda bolalar o'quv kunini o'zlari rejalashtiradi.",
+  "shop at": "Mahalliy aholi o'quvchilar boshqaradigan bozordan xarid qiladi.",
+  "shot": "\"Call the shots\" iborasi otish o'yinlaridan kelib chiqqan.",
+  "untypical": "Bu juda noodatiy maktab."
  }
 });

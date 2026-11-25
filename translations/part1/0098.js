@@ -1,4 +1,4 @@
-// Part 1 topic 0098: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0098: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0098', {
  "A1": {
   "bee": "Ari sariq rangda.",
@@ -233,5 +233,44 @@ VOCAB_TR_STORE('1', '0098', {
   "tortoise": "Masalda toshbaqaning sabotli sabr-toqati quyonning betoqat tezligi ustidan g'alaba qozonadi.",
   "work up": "Ba'zilarimiz hech narsa qilmaslikka asta-sekin o'zimizni tayyorlashimiz kerak, chunki faollik odati shu qadar ildiz otgan.",
   "worker bee": "Hatto maqolga aylangan ishchi asalari ham, aftidan, umrining hayratlanarli darajada katta qismini bekor o'tkazar ekan."
+ },
+ "EX": {
+  "bee": "Asalarilar tinimsiz mehnat qilishi bilan mashhur.",
+  "bee fly": "Asalarisimon pashsha asalariga o'xshaydi, lekin u pashshaning bir turi.",
+  "bore": "Hech narsa qilmaslik sizni zeriktirishi shart emas.",
+  "centimetre": "Ba'zi hayvonlar kuniga bor-yo'g'i bir necha santimetr harakatlanadi.",
+  "coat": "Yalqovning juni mitti o'simliklarga makon bo'ladi.",
+  "colony": "Koloniyadagi chumolilarning yarmiga yaqini umuman ishlamaydi.",
+  "constant": "Biz telefonlarimizdagi to'xtovsiz bildirishnomalar bilan yashaymiz.",
+  "curiosity": "Hech narsa qilmaslik qiziquvchanlikni uyg'otishi mumkin.",
+  "documentary": "Asalarilar haqida hujjatli film ko'rdim.",
+  "exhaust": "Doim ishlash sizni holdan toydirishi mumkin.",
+  "get rid of": "Dam olish dangasalik degan fikrdan qutulishimiz kerak.",
+  "giant tortoise": "Gigant toshbaqa sekin harakatlanadi va juda uzoq yashaydi.",
+  "good enough": "Ba'zan \"yetarlicha yaxshi\" bo'lishning o'zi kifoya.",
+  "good time": "Dam olish o'ylash uchun yaxshi vaqt bo'lishi mumkin.",
+  "idealise": "Biz ko'pincha og'ir mehnatni ideallashtiramiz.",
+  "inactive": "Ko'p hayvonlar kunning katta qismida harakatsiz bo'ladi.",
+  "industrious": "Chumolilar mehnatkash jonzotlar deb hisoblanadi.",
+  "industriousness": "Chumolilar mehnatsevarligi bilan tanilgan.",
+  "kick back": "Dam olish kunlari hech narsa qilmay, maza qilib dam olishni yaxshi ko'raman.",
+  "live together": "Minglab chumolilar bir koloniyada birga yashaydi.",
+  "lounge": "Hayvonlar soyada yastanib yotadi.",
+  "lounge about": "Yakshanbani uyda yastanib, bekorchilikda o'tkazdik.",
+  "motionless": "Kaltakesak quyoshda qimirlamay yotardi.",
+  "nest": "Ko'plab chumolilar hech narsa qilmay uya ichida qoladi.",
+  "overrate": "Band bo'lish ortiqcha baholanmayaptimi?",
+  "rid": "O'sha stressdan qutulganimdan xursandman.",
+  "seabird": "Ba'zi dengiz qushlari suv ustida soatlab suzib yuradi.",
+  "shelter": "Hayvonlar quvvatni tejash uchun pana joyda dam oladi.",
+  "sit around": "Hech narsa qilmay bekor o'tirish yomonmi?",
+  "sloth": "Yalqov daraxtlarda osilib turadi va deyarli qimirlamaydi.",
+  "slowest": "Yalqov dunyodagi eng sekin hayvonlardan biri.",
+  "swipe": "Hech narsa qilmay o'tirish o'rniga telefonlarimizni varaqlaymiz.",
+  "switch off": "Telefoningiz tinmay jiringlab tursa, chalg'imasdan dam olish qiyin.",
+  "toed": "Uch barmoqli yalqov juda sekin.",
+  "tortoise": "Toshbaqa juda sekin harakatlanadi.",
+  "work up": "Sport zaliga borish uchun o'zimda kuch to'plashim kerak.",
+  "worker bee": "Ishchi asalarilar uya uchun oziq to'playdi."
  }
 });

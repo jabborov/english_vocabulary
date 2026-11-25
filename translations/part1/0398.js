@@ -1,4 +1,4 @@
-// Part 1 topic 0398: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0398: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0398', {
  "A1": {
   "Morse": "Siz Morze alifbosini bilasizmi?",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0398', {
   "semaphore": "Undan oldingi semafor singari, bugungi ijtimoiy tarmoqlar ham bir kun kelib g'alati o'tmish yodgorligi bo'lib tuyulishi mumkin.",
   "tap out": "Telegraf kalitlaridan sensorli ekranlargacha, odamlar har doim uzoqdagi do'stlariga xabar urib yuborish yo'llarini topib kelgan.",
   "telegraph wire": "Telegraf simi ko'p jihatdan uzoqdagi odamlarni bog'lagan birinchi ijtimoiy tarmoq edi."
+ },
+ "EX": {
+  "Morse": "Morze alifbosida SOS uchta nuqta, uchta chiziq va uchta nuqtadan iborat.",
+  "discourse": "Ijtimoiy tarmoqlar jamoatchilik muhokamasini o'zgartirib yubordi.",
+  "embody": "Bir paytlar ijtimoiy tarmoqlar o'zaro bog'langan dunyo g'oyasini o'zida mujassam etgan edi.",
+  "false belief": "Hamma ijtimoiy tarmoqlarda bor, degan fikr noto'g'ri tasavvurdir.",
+  "gravitate": "Yoshlar shaxsiy xabar almashish ilovalariga tobora ko'proq intilmoqda.",
+  "hub": "Ijtimoiy tarmoqlar onlayn hayotning markaziga aylandi.",
+  "misconception": "Ijtimoiy tarmoqlar faqat yoshlar uchun, degan keng tarqalgan noto'g'ri tushuncha bor.",
+  "semaphore": "Radiodan oldin kemalar semafor yordamida aloqa qilishgan.",
+  "tap out": "Operatorlar ilgari xabarlarni Morze alifbosida taqillatib yuborishardi.",
+  "telegraph wire": "Bir paytlar xabarlar telegraf simlari orqali uzatilgan."
  }
 });

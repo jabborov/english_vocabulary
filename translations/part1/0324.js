@@ -1,4 +1,4 @@
-// Part 1 topic 0324: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0324: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0324', {
  "A1": {
   "Brazil": "Braziliya katta.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0324', {
   "wash down": "Tushlikdagi og'ir feijoada an'anaga ko'ra kaypirinya bilan ichib yuboriladi, so'ngra uzoq uyqu keladi.",
   "whet": "Hujjatli film Janubiy Amerikaning mintaqaviy oshxonalarini o'rganishga bo'lgan ishtiyoqimni oshirdi.",
   "wooden spoon": "Barmenlar ko'pincha maxsus ezg'ichdan foydalanadi, ammo uyda yog'och qoshiq dastasi ham xuddi shunday yaxshi ish beradi."
+ },
+ "EX": {
+  "Brazil": "Feyjoada Braziliyaning milliy taomidir.",
+  "accent": "U ingliz tilida braziliyacha talaffuz bilan gapiradi.",
+  "adventurous": "Agar tavakkalchi bo'lsangiz, g'ayrioddiyroq mevalarni ham tatib ko'ring.",
+  "appetising": "Dimlama ishtahani ochadigandek ko'rinmasligi mumkin, lekin ta'mi juda mazali.",
+  "black bean": "Feyjoada qora loviya va cho'chqa go'shtidan tayyorlangan dimlamadir.",
+  "consistently": "Restoran doimo a'lo darajadagi taomlar tortadi.",
+  "crushed": "Stakanni maydalangan muz bilan to'ldiring.",
+  "dissolve": "Shakar eriguncha aralashtiring.",
+  "festivity": "Braziliya bayramlarida taom muhim o'rin tutadi.",
+  "fried egg": "Ba'zi Braziliya taomlari ustiga qovurilgan tuxum qo'yib tortiladi.",
+  "kiwis": "Bu ichimlikni kivi yoki qulupnaydan ham tayyorlash mumkin.",
+  "lime juice": "Laym sharbati kaypirinyaning asosiy tarkibiy qismidir.",
+  "manioc": "Ko'plab Braziliya taomlari ustiga qovurilgan manioka uni sepiladi.",
+  "passion fruit": "Kaypirinyani marakuyadan ham tayyorlash mumkin.",
+  "salad": "Feyjoada ko'pincha yangi salat bilan tortiladi.",
+  "side dish": "Garnir sifatida guruch va ko'katlar tortiladi.",
+  "tablespoon": "Ikki osh qoshiq shakar qo'shing.",
+  "vodka": "Ba'zilar bu ichimlikni kashasa o'rniga aroq bilan tayyorlashadi.",
+  "wash down": "Braziliyaliklar ko'pincha feyjoadadan keyin kaypirinya ichishadi.",
+  "whet": "Bu ko'rsatuv Braziliya taomlariga bo'lgan ishtahangizni ochadi.",
+  "wooden spoon": "Laymlarni yog'och qoshiq bilan ezing."
  }
 });

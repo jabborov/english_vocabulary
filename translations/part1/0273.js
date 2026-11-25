@@ -1,4 +1,4 @@
-// Part 1 topic 0273: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0273: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0273', {
  "A1": {
   "Sweden": "Shvetsiya Yevropada joylashgan.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0273', {
   "pit": "Ba'zilar uchun uzoq davom etgan yolg'izlik yordamsiz chiqib bo'lmaydigan umidsizlik chohiga aylanadi.",
   "put up with": "Odamlardan surunkali yolg'izlikka qarilikning muqarrar qismi sifatida chidashni kutmasligimiz kerak.",
   "sociologist": "Sotsiologlar uy-joy, ish va transport tizimlari odamlar o'zini qanchalik yolg'iz his qilishiga ta'sir qilishidan ogohlantirishadi."
+ },
+ "EX": {
+  "Sweden": "Shvetsiya yolg'iz yashovchi odamlar soni eng ko'p bo'lgan mamlakatlardan biri.",
+  "companionship": "Ko'plab keksa odamlar uy hayvonidan hamroh topishadi.",
+  "enriching": "Do'stlik hayotning eng boyituvchi jihatlaridan biridir.",
+  "highschool": "Ko'plab o'smirlar o'rta maktabda o'zlarini yolg'iz his qilishadi.",
+  "inherit": "Olimlarning fikricha, yolg'izlik his qilishga moyillik bizga irsiy o'tishi mumkin.",
+  "intrigue up": "Natijalar tadqiqotchilarning qiziqishini uyg'otadi va ular ko'proq bilishni xohlashadi.",
+  "intriguing": "Yolg'izlik qisman genetik bo'lishi mumkinligi qiziq.",
+  "lonelier": "Ba'zi tadqiqotlarga ko'ra, hozirgi yoshlar keksalarga qaraganda o'zlarini yolg'izroq his qilishadi.",
+  "norm": "Ba'zi shaharlarda yolg'iz yashash odatiy holga aylanmoqda.",
+  "occupancy": "Bir kishi yashaydigan uylar tobora ko'paymoqda.",
+  "pit": "Yolg'izlik qorningiz tubida ichingiz uzilib ketgandek og'ir tuyg'u qoldirishi mumkin.",
+  "put up with": "Ba'zi odamlar hech kimga aytmasdan yillar davomida yolg'izlikka chidab yurishadi.",
+  "sociologist": "Sotsiolog nima uchun hozir ko'proq odamlar yolg'iz yashashini tushuntirib berdi."
  }
 });

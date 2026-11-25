@@ -1,4 +1,4 @@
-// Part 1 topic 0058: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0058: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0058', {
  "A1": {
   "assumption": "Bu shunchaki taxmin.",
@@ -185,5 +185,36 @@ VOCAB_TR_STORE('1', '0058', {
   "understanding": "Haqiqiy tushunish nafaqat ma'lumotni, balki o'z taxminlarini qayta ko'rib chiqishga tayyorlikni ham talab qiladi.",
   "walk of life": "Loyihaning qimmati o'quvchilarni aks holda faqat stereotiplar orqali biladigan turli hayot tarzlari bilan tanishtirishdadir.",
   "walk through": "U tinglovchisiga o'z shaxsiyatini shakllantirgan voqealarni birma-bir tushuntirib berdi."
+ },
+ "EX": {
+  "assumption": "Jonli kutubxona odamlarning oldindan shakllangan taxminlarini shubha ostiga qo'yadi.",
+  "awkward": "Ba'zi o'quvchilar noqulay savollar berishdan xavotirlanadi.",
+  "borrow": "Jonli kutubxonada bir odamni o'ttiz daqiqaga ijaraga olishingiz mumkin.",
+  "browse": "Men kutubxona javonlarini ko'zdan kechirishni yaxshi ko'raman.",
+  "businessman": "Muvaffaqiyatli bir tadbirkor uysiz odamning \"kitobi\"ni o'qishni tanladi.",
+  "celebration": "Jonli kutubxona farqlarni ulug'lash bayramidir.",
+  "county": "Jonli kutubxona ko'plab grafliklardagi kutubxonalarda bo'lib o'tgan.",
+  "criminal": "Jonli kitoblardan biri sobiq jinoyatchi edi.",
+  "diversity": "Jonli kutubxona xilma-xillikni ulug'laydi.",
+  "eggshell": "Jonli kutubxonada har bir so'zingizni o'lchab gapirishingiz shart emas.",
+  "embarrassed": "Savol berishdan uyalmang.",
+  "flesh": "Jonli kutubxonada \"kitob\" bilan shaxsan uchrashasiz.",
+  "immigrant": "Bir muhojir ayol o'quvchilarga Buyuk Britaniyadagi yangi hayoti haqida gapirib berdi.",
+  "instinct": "Bizning ilk instinktimiz ko'pincha odamlarni tashqi ko'rinishiga qarab baholashdir.",
+  "library": "Jonli kutubxonada kitoblar haqiqiy odamlardir.",
+  "life story": "Har bir jonli kitob o'z hayot hikoyasini so'zlab beradi.",
+  "nationality": "Odamlarga millatiga qarab baho berilmasligi kerak.",
+  "normally": "Odatda kutubxonadan odam emas, kitob olasiz.",
+  "offend": "O'quvchilar ko'pincha \"kitob\"ni xafa qilib qo'yishdan qo'rqishadi.",
+  "prejudice": "Jonli kutubxona suhbat orqali xurofot va g'arazli qarashlarga qarshi kurashishni maqsad qilgan.",
+  "romance": "Ba'zilar ishqiy romanlarni o'qishni afzal ko'rsa, boshqalar trillerlarni tanlaydi.",
+  "shelf": "Jonli kitoblar javonda turmaydi, ular stolda o'tiradi.",
+  "sit down": "O'quvchilar jonli kitob bilan birga o'tirib suhbatlashadi.",
+  "skin colour": "Odamlarga hech qachon terisining rangiga qarab baho berilmasligi kerak.",
+  "tremendously": "Bu tajriba nihoyatda ta'sirli bo'ldi.",
+  "understandably": "Tabiiyki, ba'zi o'quvchilar avvaliga hayajonlanishdi.",
+  "understanding": "Loyiha turli guruhlar o'rtasida o'zaro tushunishni shakllantirishga qaratilgan.",
+  "walk of life": "Jonli kitoblar hayotning turli sohalaridan chiqqan odamlardir.",
+  "walk through": "Kutubxona bo'ylab yursangiz, har qanday mavzudagi kitoblarni topasiz."
  }
 });

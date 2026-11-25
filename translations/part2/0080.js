@@ -1,4 +1,4 @@
-// Part 2 topic 0080: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0080: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0080', {
  "A1": {
   "air conditioning": "Konditsionerni yoqing.",
@@ -239,5 +239,45 @@ VOCAB_TR_STORE('2', '0080', {
   "vicious cycle": "Bu ayovsiz siklni buzish uchun u qarshi kurashishi kerak bo'lgan issiqlikni oshirmaydigan sovutish kerak.",
   "warm up": "Konditsionerlar binolarni salqinroq qiladi, ammo tashqaridagi ko'chalarning isishiga hissa qo'shadi.",
   "warmer": "Iliqroq iqlim sovutishni zarurdek his qildiradi, bu esa o'z navbatida iqlimni yanada iliqroq qiladi."
+ },
+ "EX": {
+  "air conditioning": "Konditsioner ofisni salqin saqlaydi.",
+  "blind": "Quyoshli kunda jalyuzini tushirib qo'ying.",
+  "block": "Pardalar quyosh nurini to'sadi.",
+  "civilisation": "Havoni konditsiyalash zamonaviy sivilizatsiyani o'zgartirdi.",
+  "climatology": "U klimatologiya professori.",
+  "collapse": "Jazirama paytida energetika tizimi ishdan chiqishi mumkin.",
+  "conditioning": "Binoda konditsioner yo'q, shuning uchun u juda isib ketadi.",
+  "cool": "Ventilyatorlar havoni sovutadi.",
+  "cool down": "Xonani salqinlatish uchun derazalarni oching.",
+  "cooling": "Sovutish ko'p energiya sarflaydi.",
+  "cope": "Keksa odamlarga issiqqa chidash qiyin.",
+  "cope with": "Odamlar issiqqa qanday bardosh berishadi?",
+  "curtain": "Xonani salqin saqlash uchun pardalarni yoping.",
+  "detrimental": "Konditsionerlar atrof-muhitga zarar yetkazishi mumkin.",
+  "distribute": "Elektr tarmog'i uylarga elektr energiyasini taqsimlaydi.",
+  "downside": "Konditsionerning salbiy tomoni – u sarflaydigan energiya.",
+  "emission": "Konditsionerlar karbonat angidrid chiqindilarini ko'paytiradi.",
+  "grid": "Konditsionerlar haddan tashqari ko'p bo'lsa, elektr tarmog'ini ortiqcha yuklashi mumkin.",
+  "inhabit": "Millionlab odamlar juda issiq hududlarda yashaydi.",
+  "ink": "Birinchi konditsioner bosmaxona uchun siyoh oqib ketmasligi maqsadida yaratilgan.",
+  "instal": "Millionlab odamlar konditsioner o'rnatishni rejalashtirmoqda.",
+  "intensive": "Konditsionerlar juda ko'p energiya talab qiladi.",
+  "lifesaving": "Jazirama paytida konditsioner hayotni saqlab qolishi mumkin.",
+  "location": "Binoning joylashuvi u qanchalik isishiga ta'sir qiladi.",
+  "passive": "Passiv sovutish elektr energiyasi sarflamaydi.",
+  "printing company": "Havoni konditsiyalash tizimi bosmaxona uchun ixtiro qilingan.",
+  "prolonged": "Uzoq davom etadigan jazirama xavfli bo'lishi mumkin.",
+  "saving": "Havoni konditsiyalash hayotni saqlab qoladigan texnologiya bo'lib kelgan.",
+  "shading": "Yaxshi soyabonlar binolarni salqin saqlaydi.",
+  "solar": "Quyosh energiyasi konditsionerlarni ishlatishi mumkin.",
+  "sustainable": "Salqinlikni saqlashning yanada barqaror usullari kerak.",
+  "thermal": "Qalin devorlar yaxshi issiqlik himoyasini beradi.",
+  "tropic": "Tropik mintaqalardagi ko'plab odamlarga sovutish kerak.",
+  "vicious": "Bu buzish qiyin bo'lgan yomon berk doira.",
+  "vicious circle": "Konditsionerlar va iqlim o'zgarishi berk doirani hosil qiladi.",
+  "vicious cycle": "Konditsionerlar berk aylanani yuzaga keltiradi.",
+  "warm up": "Sayyora isib bormoqda.",
+  "warmer": "Dunyo tobora isib bormoqda."
  }
 });

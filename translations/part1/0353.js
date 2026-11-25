@@ -1,4 +1,4 @@
-// Part 1 topic 0353: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0353: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0353', {
  "A1": {
   "barbeque": "Biz barbekyu qildik.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0353', {
   "olden": "O'tgan zamonlarga bo'lgan sog'inch ko'pincha oddiy oilalar uchun qish qanchalik og'ir bo'lishi mumkinligini e'tibordan chetda qoldiradi.",
   "thirdly": "Uchinchidan, o'sha barcha o'rov qog'ozlari va keraksiz sovg'alarning atrof-muhitga keltiradigan zararini ham hisobga olish kerak.",
   "unwrapping": "Onlayn \"anboksing\" videolari sovg'a ochishning oddiy zavqini o'yin-kulgi turiga aylantirdi."
+ },
+ "EX": {
+  "barbeque": "Avstraliyada ko'plab oilalar Rojdestvo kuni barbekyu qilishadi.",
+  "carol": "Biz cherkov tashqarisida Rojdestvo qo'shiqlarini kuyladik.",
+  "catch up": "Biz gaplashib, yangiliklarni bo'lishish uchun qahva ichgani uchrashdik.",
+  "catch up with": "Rojdestvo eski do'stlar bilan ko'rishib, hol-ahvol so'rashish imkoniyatidir.",
+  "good will": "Rojdestvo tinchlik va ezgu niyatlar vaqtidir.",
+  "materially": "Biz moddiy jihatdan bobolarimizdan boyroqmiz, lekin baxtliroqmizmi?",
+  "merry": "Hammaga quvnoq Rojdestvo tilayman!",
+  "olden": "Qadim zamonlarda odamlar Rojdestvo sovg'alarini o'zlari yasashgan.",
+  "thirdly": "Uchinchidan, Rojdestvo sovg'a berish vaqtidir.",
+  "unwrapping": "Sovg'alarni ochish Rojdestvo tongining eng yaxshi qismidir."
  }
 });

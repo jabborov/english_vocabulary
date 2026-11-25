@@ -1,4 +1,4 @@
-// Part 1 topic 0097: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0097: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0097', {
  "A1": {
   "ahead of time": "Biz vaqtidan oldin yetib keldik.",
@@ -221,5 +221,42 @@ VOCAB_TR_STORE('1', '0097', {
   "upbeat": "Musiqani \"ko'tarinki\" deb tasvirlash tomoshabinga notalarsiz hissiy ohangni beradi.",
   "verge": "Aktyor birorta ham dialog satrisiz qulash yoqasida turgan odamni ifodalab berdi.",
   "viewer": "Subtitrlar kar tomoshabinlardan til o'rganuvchilargacha bo'lgan juda turli ehtiyojli tomoshabinlarga xizmat qilishi kerak."
+ },
+ "EX": {
+  "ahead of time": "Filmlar uchun subtitrlar oldindan tayyorlanadi.",
+  "breath": "Izohli yozuvda uning og'ir nafas olishi tasvirlangan edi.",
+  "caption": "Izohli yozuvda \"[eshik g'ichirlaydi]\" deyilgan edi.",
+  "chase": "Film boshida avtomobillar ta'qibi bor.",
+  "cheerful": "Izohli yozuvda musiqa xushchaqchaq deb ta'riflangan edi.",
+  "clap": "Tomoshabinlar qarsak chala boshladi.",
+  "clapping": "Izohli yozuvda \"[qarsaklar]\" deyilgan edi.",
+  "creak": "Izohli yozuvda \"[eshik g'ichirlaydi]\" deyilgan edi.",
+  "deaf": "Subtitrlar kar tomoshabinlar uchun juda zarur.",
+  "descriptive": "Subtitrlar juda tasviriy edi.",
+  "deserve": "Subtitrchilar o'z mehnati uchun ko'proq e'tirofga loyiq.",
+  "dialogue": "Subtitrlar qahramonlar o'rtasidagi dialogni ko'rsatadi.",
+  "drama": "Teledramaga subtitr tayyorlash ko'p soat vaqt oladi.",
+  "dramatic": "Dramatik lahzada musiqa balandlashadi.",
+  "gasp": "Izohli yozuvda \"[nafasi qaytadi]\" deyilgan edi.",
+  "genre": "Subtitrlar film janriga qarab farq qiladi.",
+  "gobsmacked": "Subtitrlar qanday tayyorlanishini bilib, og'zim ochilib qoldi.",
+  "greeting": "Qahramonlar fransuzcha salomlashishdi.",
+  "hearing": "Eshitish muammolari bor odamlar ko'pincha subtitrlardan foydalanadi.",
+  "hopeful": "Subtitrda musiqa \"umidbaxsh\" deb ta'riflangan edi.",
+  "lift up": "Qahramon kelganida musiqa ko'tarinki tus oladi.",
+  "mistaken": "Ko'p odamlar subtitrlar qanday yozilishi haqida adashadi.",
+  "period piece": "Tarixiy davr haqidagi film uchun subtitrlarda eskicha til ishlatilishi kerak.",
+  "prime": "Eng ko'p ko'riladigan vaqt — ko'pchilik televizor ko'radigan payt.",
+  "pronounce": "Subtitrchilar talaffuz qilish qiyin bo'lgan tovushlarni qanday yozishni o'ylab topishlari kerak.",
+  "slang expression": "\"Gobsmacked\" — Britaniyada ishlatiladigan jargon ibora.",
+  "sound effect": "Subtitrlar momaqaldiroq kabi ovoz effektlarini ham tasvirlaydi.",
+  "squelch": "U loyga qadam qo'yganda izohli yozuvda \"[shalop]\" deyildi.",
+  "subtitle": "Chet el filmlarini subtitr bilan ko'rishni yaxshi ko'raman.",
+  "subtitling": "Subtitr tayyorlash ko'pchilik o'ylaganidan ko'ra ijodiyroq ish.",
+  "thriller": "Triller subtitrlari keskinlik yaratishi kerak.",
+  "thrilling": "Izohli yozuvda musiqa \"hayajonli\" deb ta'riflangan edi.",
+  "upbeat": "Izohli yozuvda musiqa \"quvnoq\" deb ta'riflangan edi.",
+  "verge": "Qahramon yig'lab yuborish arafasida edi.",
+  "viewer": "Ko'p tomoshabinlar televizorni subtitr yoqilgan holda ko'radi."
  }
 });

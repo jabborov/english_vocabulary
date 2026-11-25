@@ -1,4 +1,4 @@
-// Part 1 topic 0185: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0185: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0185', {
  "A1": {
   "Bailey": "Bailey gitara chaladi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0185', {
   "sing along": "Notanish odamlarni ham birga kuylashga undaydigan qo'shiq har qanday reklamadan qimmatroq bo'lishi mumkin.",
   "wall": "Havaskor va professional o'rtasidagi devorni yorib o'tish mahorat bilan birga omadni ham talab qiladi.",
   "wing": "Ko'plab iste'dodli musiqachilar e'tiborga tushishdan oldin yillab sahna ortida navbat kutishadi."
+ },
+ "EX": {
+  "Bailey": "Beyli faoliyatini ko'chada chalishdan boshlagan.",
+  "Elvis": "Elvis tarixdagi eng mashhur qo'shiqchilardan biri edi.",
+  "bunch": "U bir guruh do'stlari bilan musiqa chalishni boshladi.",
+  "busk": "U ilgari metro bekatida ko'cha musiqachisi bo'lib chalardi.",
+  "busker": "Ko'cha musiqachisi bekat oldida gitara chaldi.",
+  "busking": "Ko'chada chalish — sahnada chiqish mashq qilishning yaxshi usuli.",
+  "gig": "Ular birinchi konsertlarini kichik bir pabda berishdi.",
+  "sing along": "Olomon jo'r bo'lib kuylay boshladi.",
+  "wall": "U shahar maydonida devorga suyanib chaldi.",
+  "wing": "U sahnaga chiqishdan oldin parda ortida hayajon bilan kutib turdi."
  }
 });

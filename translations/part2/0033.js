@@ -1,4 +1,4 @@
-// Part 2 topic 0033: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0033: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0033', {
  "A1": {
   "amaxophobia": "Amaksofobiya mashinalardan qo'rqishdir.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('2', '0033', {
   "slump": "O'smirlar orasida guvohnomaga egalikning keskin pasayishi befarqlikni emas, balki butun bir avlodning harakatlanish haqidagi tasavvuridagi tub o'zgarishni aks ettiradi.",
   "take me back": "Hech narsa meni instruktorimning mashinasidagi dimiqqan hid va uning cheksiz sabrli xo'rsinishlari kabi yorqin o'tmishga qaytarmaydi.",
   "wind down": "Firma faoliyatini asta-sekin munosib tarzda to'xtatish o'rniga o'zini qayta kashf etishga urindi va natijalar kutilganidek turlicha bo'ldi."
+ },
+ "EX": {
+  "amaxophobia": "Amaksofobiyasi bor odamlar haydovchi o'rindig'ida o'tirishning o'zidanoq vahimaga tushishi mumkin.",
+  "approach": "Ba'zi instruktorlar asabiy o'rganuvchilarga xotirjam, sabrli yondashuvni qo'llashadi.",
+  "autophobia": "Autofobiya mashinalardan qo'rqish emas, balki yolg'iz qolishdan qo'rqishdir.",
+  "carnophobia": "Karnofobiya, eshitilishidan qat'i nazar, mashinalarga hech qanday aloqasi yo'q – bu go'shtdan qo'rqishdir.",
+  "cutthroat": "Haydovchilik instruktorlari narxlar doimo tushirilib turadigan shafqatsiz raqobatli sohada ishlashadi.",
+  "drive off": "Imtihondan o'tgach, u mashinaga o'tirdi va o'zi yolg'iz haydab ketdi.",
+  "either": "Men mashina hayday olmayman, singlim ham hayday olmaydi.",
+  "go through": "Aksariyat o'rganuvchilar haydovchilik imtihonidan oldin juda ko'p stressni boshdan kechirishadi.",
+  "heard of": "Amaksofobiya haqida hech eshitganmisiz?",
+  "learn off": "Ko'plab o'smirlar darslar uchun pul to'lash o'rniga ota-onalaridan o'rganishadi.",
+  "manoeuvre": "Burilishda orqaga yurish haydovchilik imtihonidagi eng qiyin manevrlardan biridir.",
+  "owning": "Mashinaga egalik qilish xarajatlari ko'plab yoshlarni haydashni o'rganishdan aynitadi.",
+  "rely on": "Shaharlardagi yoshlar qatnash uchun jamoat transportiga tayanishadi.",
+  "service-orientated": "Haydovchilik maktablari yangi o'rganuvchilarni jalb qilish uchun ko'proq xizmatga yo'naltirilgan bo'lishi kerak.",
+  "slump": "Haydash darslarini olayotgan o'smirlar soni keskin kamaydi.",
+  "take me back": "Haydash darslari haqida gapirish meni rostdan ham o'n yetti yoshimga qaytaradi.",
+  "wind down": "Ba'zi keksa instruktorlar o'z bizneslarini asta-sekin yig'ishtira boshlashdi."
  }
 });

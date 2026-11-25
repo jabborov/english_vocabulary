@@ -1,4 +1,4 @@
-// Part 2 topic 0011: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0011: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0011', {
  "A1": {
   "No way!": "Bo'lishi mumkin emas! Sizga ishonmayman!",
@@ -107,5 +107,23 @@ VOCAB_TR_STORE('2', '0011', {
   "servant": "Sodiq xizmatkor obrazi orqali Servantes sadoqat va sog'lom aql o'rtasidagi notinch o'zaro munosabatni tadqiq etadi.",
   "sound bite culture": "Qisqa iqtiboslar madaniyatining keng tarqalishi jiddiy o'qish tayanadigan uzoq muddatli diqqatni yemirdi, deyish mumkin.",
   "way back": "Ommaviy savodxonlik paydo bo'lishidan ancha oldin bunday hikoyalar og'zaki tarqalgan va har bir qayta hikoya qilinishida bezab borilgan."
+ },
+ "EX": {
+  "No way!": "Telefonimda ming sahifa o'qishmi? Hech qachon!",
+  "Spaniards": "Ispanlarning aksariyati, hatto kitobni to'liq o'qimagan bo'lsalar ham, Don Kixot hikoyasini biladi.",
+  "best-loved": "\"Don Kixot\" Ispaniyaning eng sevimli kitoblaridan biri bo'lib qolmoqda.",
+  "bite size chunks": "Klassik roman kichik-kichik bo'laklarga bo'linib, har kuni o'quvchilarning telefonlariga yuborildi.",
+  "carried it around on holiday": "Romanni o'tgan yozda sotib olib, ta'tilda o'zim bilan olib yurdim, lekin biror marta ham ochmadim.",
+  "certainly": "Bu, shubhasiz, men o'qishga uringan eng uzun romanlardan biri.",
+  "classic novel": "Klassik romanni o'qish og'ir mehnatdek tuyulishi mumkin, ammo ko'pincha bunga arziydi.",
+  "even though": "Garchi bu klassik roman bo'lsa-da, ko'p odamlar uni hech qachon o'qimagan.",
+  "extremely pleased": "Tashkilotchilar ro'yxatdan o'tgan odamlar soni bilan nihoyatda mamnun bo'lishdi.",
+  "manner": "Hikoya bugun ham o'quvchilarni kuldiradigan hazilomuz uslubda hikoya qilinadi.",
+  "novel": "\"Don Kixot\" ko'pincha birinchi zamonaviy roman deb ta'riflanadi.",
+  "passage": "O'quvchilar har kuni SMS orqali romandan qisqa parcha olib turishdi.",
+  "passionate": "U klassik adabiyotga ishqiboz va har yili Servantesni o'qiydi.",
+  "servant": "Don Kixot o'zining sodiq xizmatkori Sancho Pansa bilan Ispaniya bo'ylab sayohat qiladi.",
+  "sound bite culture": "Bugungi qisqa iqtiboslar madaniyatida ming sahifalik romanni o'qishga kam odamning sabri yetadi.",
+  "way back": "Roman ilk bor ancha avval, 1605-yilda nashr etilgan."
  }
 });

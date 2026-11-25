@@ -1,4 +1,4 @@
-// Part 1 topic 0167: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0167: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0167', {
  "A1": {
   "commitment": "Nikoh katta majburiyatdir.",
@@ -29,5 +29,10 @@ VOCAB_TR_STORE('1', '0167', {
   "commitment": "Nikoh saqlanib qoladimi yoki yo'qmi, insonning barqaror sadoqatga bo'lgan ehtiyoji yo'qolib ketishi dargumon.",
   "pt": "\"Pt\" kabi qisqartmalar norasmiy yozuvlarda keng tarqalgan, ammo rasmiy hujjatlarda to'liq yozilishi kerak.",
   "signing": "Tanqidchilarning fikricha, nikohni shartnoma imzolashga tenglashtirish uning hissiy va madaniy ahamiyatini e'tiborsiz qoldiradi."
+ },
+ "EX": {
+  "commitment": "Nikoh ikki inson o'rtasidagi ommaviy ahdnomadir.",
+  "pt": "Maqola ikki qismda chop etildi: 1-qism va 2-qism.",
+  "signing": "To'y nikoh daftariga imzo chekish bilan yakunlandi."
  }
 });

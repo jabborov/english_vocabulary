@@ -1,4 +1,4 @@
-// Part 1 topic 0412: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0412: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0412', {
  "A1": {
   "December": "Tug'ilgan kunim dekabrda.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0412', {
   "solstice": "Quyosh turishi kunlari ko'plab madaniyatlarda ming yillar davomida kuzatilib, nishonlanib kelgan.",
   "spawn": "Dunyoning oxiridan qo'rquv insoniyat tarixi davomida son-sanoqsiz afsonalarni yuzaga keltirgan.",
   "winter solstice": "Ko'plab qadimgi madaniyatlar uchun qishki quyosh turishi quyoshning qayta tug'ilishi va yangi yil boshlanishini anglatgan."
+ },
+ "EX": {
+  "December": "Ba'zi odamlar dunyo 2012-yil dekabrida tugaydi, deb ishonishgan.",
+  "end on": "Mayya taqvimi 2012-yil 21-dekabrda tugaydi, deyilgan edi.",
+  "equator": "Ekvator yaqinidagi mamlakatlarda yil bo'yi issiq bo'ladi.",
+  "equinox": "Bahorgi tengkunlik mart oyida bo'ladi.",
+  "glut": "2012-yilda dunyoning oxiri haqidagi filmlar haddan tashqari ko'payib ketdi.",
+  "midwinter": "Qishki bayramlar asrlar davomida nishonlanib kelinadi.",
+  "nigh": "Haligi odam \"Oxirat yaqin!\" degan yozuvni ushlab turardi.",
+  "noon": "Ba'zilar dunyo tush paytida tugaydi, deyishdi.",
+  "solstice": "Har yili ikkita quyosh turishi bo'ladi.",
+  "spawn": "Bu bashorat ko'plab filmlar, kitoblar va veb-saytlarning paydo bo'lishiga sabab bo'ldi.",
+  "winter solstice": "Qishki quyosh turishi yilning eng qisqa kunidir."
  }
 });

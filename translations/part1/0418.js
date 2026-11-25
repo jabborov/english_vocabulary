@@ -1,4 +1,4 @@
-// Part 1 topic 0418: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0418: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0418', {
  "A1": {
   "Greek": "U yunon tilida gapiradi.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0418', {
   "pain threshold": "Tadqiqotlar og'riq chegarasi fiziologiya kabi kutish bilan ham shakllanishini ko'rsatadi.",
   "plaster": "Bolaning tirnalgan joyiga yopishtirilgan plastirning tinchlantiruvchi ta'siri platsebo reaksiyasining mumtoz namunasidir.",
   "slap": "Tadqiqotga ko'ra, shapaloq yeyishni kutib turganingizda u ko'proq og'riq beradi."
+ },
+ "EX": {
+  "Greek": "\"Anaesthetic\" so'zi yunon tilidan olingan.",
+  "anaesthetic": "Stomatolog operatsiyadan oldin menga og'riqsizlantiruvchi dori berdi.",
+  "anyhow": "Juda og'ridi, lekin baribir hozir yaxshiman.",
+  "chew off": "Ba'zi hayvonlar qopqondan qutulish uchun oyog'ini kemirib uzib tashlaydi.",
+  "limb": "U baxtsiz hodisada bir a'zosidan ayrildi.",
+  "medical procedure": "Tibbiy muolaja tez va og'riqsiz o'tdi.",
+  "pain threshold": "Ayollarning og'riq chegarasi erkaklarnikidan yuqoriroq bo'lishi mumkin.",
+  "plaster": "Oyim tizzamga plastir yopishtirdilar.",
+  "slap": "U uning yuziga shapaloq urdi."
  }
 });

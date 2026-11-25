@@ -1,4 +1,4 @@
-// Part 1 topic 0220: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0220: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0220', {
  "A1": {
   "bell": "Qo'ng'iroq jiringlaydi.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0220', {
   "tie": "Zamonaviy jamiyat soat vaqtiga shunchalik mahkam bog'langanki, usiz hayotni tasavvur qilish qiyin.",
   "timekeeping": "Vaqt hisobi tarixi savdo va sanoatning yuksalishi bilan chambarchas bog'liq.",
   "timepiece": "Ilk soatlarning mohirona ishlanishi jamiyatlar vaqtni o'lchashga qanchalik katta qadr berganini aks ettiradi."
+ },
+ "EX": {
+  "bell": "Bir paytlar cherkov qo'ng'iroqlari odamlarga vaqtni bildirgan.",
+  "bus stop": "Avtobus bekatida yigirma daqiqa kutdim.",
+  "cheeky": "U surbetlarcha javob berdi.",
+  "clock dial": "Ko'p bolalar endi soat siferblatini o'qiy olmaydi.",
+  "clock on": "Zavod ishchilari soat 7 da ishga kelganini qayd ettirishlari kerak edi.",
+  "common noun": "\"Soat\" — turdosh ot.",
+  "daylight": "Soatlar paydo bo'lishidan oldin odamlar kunduzi yorug'likda ishlashgan.",
+  "devolve": "Soatlarsiz jamiyat tartibsizlikka yuz tutarmidi?",
+  "digital clock": "Raqamli soatim vaqtni katta raqamlarda ko'rsatadi.",
+  "dominate": "Soatlar kundalik hayotimizda hukmronlik qiladi.",
+  "four o'clock": "Soat to'rtda uchrashaylik.",
+  "grandfather clock": "Dahlizdagi baland tik soat qattiq chiqillaydi.",
+  "hurry": "Biz doim shoshib yuramiz.",
+  "hurry up": "Tezroq bo'l, aks holda poyezdga kechikamiz!",
+  "jacket": "\"Straitjacket\" so'zi \"strait\" (tor) va \"jacket\" (kurtka) so'zlaridan tuzilgan.",
+  "round the clock": "Kasalxonalar kecha-kunduz ishlaydi.",
+  "silent": "Raqamli soatlar mutlaqo ovozsiz ishlaydi.",
+  "straitjacket": "Ba'zi odamlar soatlarni o'ziga xos kishan deb hisoblaydi.",
+  "sync": "Soatlar hammani bir vaqtga moslashtirib turadi.",
+  "tie": "Kunlarimiz soatga bog'lab qo'yilgan.",
+  "timekeeping": "Temir yo'llar paydo bo'lishi bilan vaqtni aniq hisoblash muhim bo'lib qoldi.",
+  "timepiece": "Bobosining soati yuz yildan ortiq eski edi."
  }
 });

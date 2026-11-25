@@ -1,4 +1,4 @@
-// Part 1 topic 0188: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0188: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0188', {
  "A1": {
   "candidate": "U nomzod.",
@@ -83,5 +83,19 @@ VOCAB_TR_STORE('1', '0188', {
   "second thought": "Ba'zi bolalar so'nggi daqiqada fikridan qaytib, Qorboboning tizzasiga o'tirishdan bosh tortadi.",
   "smiley": "Ertaklar g'origa o'xshash xonada sakkiz soat o'tirgandan keyin ham u tinimsiz jilmayib turardi.",
   "spirt": "Uning uchun bu rol sovg'alardan ko'ra saxovat ruhini barhayot saqlash bilan bog'liq edi."
+ },
+ "EX": {
+  "candidate": "Har bir nomzod Santa kostyumini kiyib ko'rishi kerak edi.",
+  "convincing": "U juda ishonarli Santa edi.",
+  "dressed": "U Santa Klaus kiyimida edi.",
+  "ho": "\"Xo-xo-xo! Rojdestvo muborak!\" dedi Santa.",
+  "jolly": "Santa — oq soqolli, quvnoq qariya.",
+  "misjudge": "Santa qizchaning yoshini noto'g'ri chamalab, unga chaqaloqlar o'yinchog'ini berdi.",
+  "portray": "U yigirma yildan beri Santa rolini ijro etib keladi.",
+  "reach down": "Santa sovg'a olish uchun qopiga qo'l cho'zdi.",
+  "recreate": "Do'kon Santaning ustaxonasini qayta yaratdi.",
+  "second thought": "Yaxshilab o'ylab ko'rsam, kattaroq soqolni taqaman.",
+  "smiley": "Bolalar jilmayib turgan Santani juda yaxshi ko'rishdi.",
+  "spirt": "Yaxshi Santa Rojdestvo ruhiga to'la bo'ladi."
  }
 });

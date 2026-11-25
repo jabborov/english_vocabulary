@@ -1,4 +1,4 @@
-// Part 1 topic 0102: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0102: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0102', {
  "A1": {
   "biochemist": "U biokimyogar.",
@@ -197,5 +197,38 @@ VOCAB_TR_STORE('1', '0102', {
   "unsafe": "Jamoalar shu qadar uzoq vaqt xavfli suv bilan yashab kelishganki, bu hayotning odatiy qismiga aylangan.",
   "water hyacinth": "Ko'pincha bosqinchi begona o't sifatida mensimaydigan suv giatsinti ifloslangan suvni tozalashda yangi vazifaga ega bo'ldi.",
   "youth": "Mahalliy yoshlarga imkoniyat berish tozalash loyihasini jamoaga uzoq muddatli sarmoyaga aylantirdi."
+ },
+ "EX": {
+  "biochemist": "Nigeriyalik bir biokimyogar ifloslangan yerni o'simliklar yordamida tozalash usulini topdi.",
+  "central": "Mahalliy aholi tozalash loyihasining markazida turadi.",
+  "challenging": "Deltani tozalash — qiyin ish.",
+  "charisma": "Uning jozibasi odamlarning qo'llab-quvvatlashini qozonishga yordam berdi.",
+  "come alive": "Tozalashdan so'ng yer yana jonlana boshladi.",
+  "contaminate": "Neft ichimlik suvini ifloslantirdi.",
+  "delta": "Niger deltasi neft bilan qattiq ifloslangan.",
+  "devastate": "Neft to'kilishi ekin yerlari va baliq ovlanadigan joylarni vayron qildi.",
+  "diplomacy": "Uning ishi uchun ilm-fan ham, diplomatiya ham kerak edi.",
+  "fungus": "Ma'lum bir zamburug' tuproqdagi neftni parchalay oladi.",
+  "highest": "Deltada ifloslanish darajasi dunyodagi eng yuqori ko'rsatkichlardan biri.",
+  "hostility": "Dastlab u ba'zi mahalliy aholining dushmanona munosabatiga duch keldi.",
+  "hyacinth": "Giatsint suv yuzasida suzib yuradi.",
+  "landscape": "Ifloslanish butun manzarani o'zgartirib yubordi.",
+  "multinational": "Transmilliy neft kompaniyalari mintaqada o'nlab yillar davomida ishlab kelgan.",
+  "oil company": "To'kilishlarda neft kompaniyasi ayblandi.",
+  "outsider": "Begona odam sifatida u qishloq aholisining ishonchini qozonishi kerak edi.",
+  "pollute": "Neft to'kilishi mintaqadagi daryolar va qishloq xo'jaligi yerlarini ifloslantirdi.",
+  "polluted": "Ifloslangan tuproqdan dehqonchilikda foydalanib bo'lmaydi.",
+  "prestigious": "U o'z ishi uchun nufuzli mukofotga sazovor bo'ldi.",
+  "ranking": "U hukumatdagi eng yuqori lavozimli amaldorlar bilan uchrashdi.",
+  "reanimate": "Uning maqsadi — neft o'ldirgan tuproqni qayta jonlantirish.",
+  "restoration": "Ifloslangan yerni qayta tiklash yillar oladi.",
+  "river": "Neft daryoni ifloslantirdi.",
+  "suck up": "Bu o'simliklar suvdagi zararli kimyoviy moddalarni so'rib oladi.",
+  "technological": "Ifloslanishga qarshi har bir yechim texnologik bo'lishi shart emas.",
+  "toxic": "Suv ichib bo'lmaydigan darajada zaharli bo'lib qoldi.",
+  "toxic waste": "Neft sanoatining zaharli chiqindilari mahalliy suvni zaharladi.",
+  "unsafe": "Ifloslangan suvni ichish xavfli.",
+  "water hyacinth": "Suv giatsinti daryolardagi ifloslanishni so'rib olishi mumkin.",
+  "youth": "U tozalash ishlariga yordam berish uchun mahalliy yoshlarni o'qitdi."
  }
 });

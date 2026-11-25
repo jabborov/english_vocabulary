@@ -1,4 +1,4 @@
-// Part 1 topic 0294: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0294: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0294', {
  "A1": {
   "be out": "Dadam uyda yo'q.",
@@ -161,5 +161,32 @@ VOCAB_TR_STORE('1', '0294', {
   "stern": "Qat'iy, jiddiy axloqiy ohang so'zlovchining o'zi o'z mezonlariga javob beradimi-yo'qmi, degan sinchkov nazoratga sabab bo'ladi.",
   "supporter": "Tarafdorlar ko'pincha raqiblarnikiga qaraganda o'z tomonidagi ikkiyuzlamachilikni osonroq kechiradilar.",
   "thoughtless": "Ko'rinib turgan ikkiyuzlamachilikning ko'p qismi yovuz niyatdan emas, balki o'ylamasdan qilingan nomuvofiqlikdan kelib chiqadi."
+ },
+ "EX": {
+  "be out": "Haqiqat oshkor bo'lgach, uning martabasi tugadi.",
+  "biting": "Komik siyosatchilarning ikkiyuzlamachiligi haqida achchiq hazil qildi.",
+  "changeable": "Uning fikrlari shunchalik o'zgaruvchanki, hech kim unga ishonmaydi.",
+  "contemporary": "Ikkiyuzlamachilik zamonaviy siyosatda keng tarqalgan mavzudir.",
+  "contradiction": "Uning aytgani bilan qilgani o'rtasida aniq qarama-qarshilik bor.",
+  "democracy": "Demokratiyada saylovchilar ikkiyuzlamachi rahbarlarni jazolashi mumkin.",
+  "enormously": "Rahbarlar o'z qoidalarini buzganda odamlar nihoyatda g'azablanishadi.",
+  "foreign policy": "Davlatlar ko'pincha tashqi siyosatda ikkiyuzlamachilikda ayblanadi.",
+  "guzzle": "U o'zi benzinni ko'p yutadigan mashinada yurib, bizga energiyani tejashni buyurdi.",
+  "harsh": "Biz ko'pincha boshqalarga nisbatan qattiqqo'l, o'zimizga nisbatan esa kechirimli bo'lamiz.",
+  "hypocrisy": "O'z qoidalarini o'zlari buzgan siyosatchilarning ikkiyuzlamachiligi jamoatchilikni g'azablantirdi.",
+  "hypocrite": "U ikkiyuzlamachi: bizga chekmanglar deydi-yu, o'zi chekadi.",
+  "hypocritical": "O'zingiz doim telefondan bosh ko'tarmay turib, bolalarga telefon ishlatmanglar deyish ikkiyuzlamachilikdir.",
+  "incline": "U ilgari ham qoidalarni buzgan bo'lsa-da, men unga ishonishga moyilman.",
+  "incongruous": "Sog'liqni saqlash vazirining chekib turganini ko'rish nomuvofiq tuyuldi.",
+  "inconsistency": "Jurnalistlar uning bayonotlaridagi nomuvofiqlikka e'tibor qaratishdi.",
+  "inconsistent": "Uning xatti-harakati boshqalarga qilishni buyurgan narsalariga mos kelmaydi.",
+  "indignant": "Qoidalarni ishlab chiquvchilarning o'zlari qoidalarni buzayotganini bilgach, odamlar g'azablanishdi.",
+  "orator": "U buyuk notiq edi, ammo o'z so'zlariga amal qilib yashamasdi.",
+  "pernicious": "Ikkiyuzlamachilik jamoatchilik ishonchiga zararli ta'sir ko'rsatadi.",
+  "ridicule": "Vazir o'z qoidalarini buzayotganda qo'lga tushgach, mazaxga qoldi.",
+  "scrutiny": "Siyosatchilarning shaxsiy hayoti doimiy sinchkov nazorat ostida.",
+  "stern": "Direktor chekish haqida qattiq ogohlantirish berdi.",
+  "supporter": "Hatto uning tarafdorlari ham uning ikkiyuzlamachiligidan hayratda qolishdi.",
+  "thoughtless": "Boshqalarni xuddi shunday xato uchun tanqid qilish uning tomonidan o'ylamay qilingan ish edi."
  }
 });

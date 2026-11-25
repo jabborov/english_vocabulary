@@ -1,4 +1,4 @@
-// Part 2 topic 0018: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0018: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0018', {
  "A1": {
   "a question of numbers": "Bu raqamlar masalasi.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('2', '0018', {
   "un-friend": "Kimnidir ochiqchasiga do'stlar ro'yxatidan o'chirish ekrandan ancha nariga o'tadigan oqibatlarga ega bo'lgan ataylab rad etish sifatida talqin qilinishi mumkin.",
   "vuvuzela": "\"Vuvuzela\" so'zining lug'atga kiritilishi global voqea qanchalik tez bir so'zni kundalik muomalaga olib kirishi mumkinligini ko'rsatadi.",
   "worthless": "Go'yoki ishonchli bo'lgan shuncha ko'p aktivlarning qadrsiz ekanini anglash butun jahon iqtisodiyotiga yoyilgan ishonch inqirozini keltirib chiqardi."
+ },
+ "EX": {
+  "a question of numbers": "Yangi so'zning lug'atga kiritilishi aslida raqamlar masalasidir.",
+  "asset": "Inqiroz davrida ko'plab aktivlar qiymatining katta qismini yo'qotdi.",
+  "attempt": "Lug'at hujumi parolni taxmin qilish orqali kompyuterga kirib olishga urinishdir.",
+  "blog": "Hozir millionlab odamlar o'z hayoti va qiziqishlari haqida blog yuritadi.",
+  "blogging": "Blog yuritish internetda fikr bildirishning ommabop usuliga aylandi.",
+  "clumsy": "Ba'zi yangi so'zlar qo'pol eshitiladi, ammo odamlar baribir ularni ishlatishadi.",
+  "de-friend": "Agar kimnidir do'stlikdan chiqarsangiz, uni onlayn do'stlaringiz ro'yxatidan o'chirasiz.",
+  "dictionary attack": "Kuchli parol sizni lug'at hujumidan himoya qilishi mumkin.",
+  "edition": "Lug'atning yangi nashri yuzlab yangi so'zlarni o'z ichiga oladi.",
+  "entertaining": "Yangi so'zlar ro'yxatini o'qish qiziqarli.",
+  "extracts": "Veb-saytda yangi lug'atdan qisqa parchalar ko'rsatilgan.",
+  "hum": "Jahon chempionati davomida vuvuzelalarning tinimsiz g'uvillashi eshitilib turdi.",
+  "jargon": "Ba'zi kompyuter jargonlari endi kundalik ingliz tilining bir qismiga aylangan.",
+  "micro-blogging": "Mikroblog saytlari foydalanuvchilarga obunachilari bilan qisqa xabarlar ulashish imkonini beradi.",
+  "mortgage": "Ko'plab odamlar ipoteka to'lovini to'lay olmagani uchun uylaridan ayrildi.",
+  "nasty": "Xakerlar odamlarning parollarini o'g'irlash uchun ba'zi razil hiylalardan foydalanishadi.",
+  "quantitative easing": "Angliya banki iqtisodiyotni qo'llab-quvvatlash uchun miqdoriy yumshatish siyosatini qo'lladi.",
+  "slightly": "Yangi nashr avvalgisidan biroz kattaroq.",
+  "take somebody off": "Do'stlikdan chiqarish ijtimoiy tarmoqdagi do'stlaringiz ro'yxatidan kimnidir o'chirib tashlashni anglatadi.",
+  "toxic debt": "Zaharli qarzlar moliyaviy inqirozning asosiy sabablaridan biri edi.",
+  "un-friend": "\"Un-friend\" so'zi bir Amerika lug'ati tomonidan yil so'zi deb tanlandi.",
+  "vuvuzela": "\"Vuvuzela\" so'zi 2010-yilda Janubiy Afrikada bo'lib o'tgan Jahon chempionati paytida mashhur bo'ldi.",
+  "worthless": "Banklarning ba'zi investitsiyalari deyarli bir kechada qadrsiz bo'lib qoldi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 2 topic 0041: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0041: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0041', {
  "A1": {
   "boast": "U ko'p maqtanadi.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('2', '0041', {
   "pastime": "Viktoriya davri o'rta sinfi uchun velosiped haydash ermakdan ko'ra zamonaviylik va mustaqillik bayonoti edi.",
   "pedalling away": "Barqarorlik yo'lida pedal aylantirayotgan yaxshi kiyingan mehmonlar bilan to'la xonada qandaydir bema'nilik bor edi.",
   "publicity stunt": "Reklama shousi qanchalik ustomonlik bilan qilingan bo'lmasin, u masalani mustahkam tarzda milliy kun tartibiga kiritishga muvaffaq bo'ldi."
+ },
+ "EX": {
+  "boast": "Restoran mijozlari o'z elektr energiyasini o'zlari ishlab chiqarishi bilan maqtanadi.",
+  "chime": "Bu g'oya ekologik turmush tarziga bo'lgan qiziqishning ortib borayotganiga hamohang.",
+  "clue": "Sizga bir ishora beraman: restoran mijozlari kechki ovqatlari uchun mehnat qilishlari kerak.",
+  "concede": "Egasi velosipedlar ozgina elektr energiyasi ishlab chiqarishini tan oldi.",
+  "environmentally-aware": "Restoran atrof-muhitga e'tiborli mijozlarni jalb qilishga umid qilmoqda.",
+  "gimmick": "Tanqidchilarning aytishicha, trenajyor velosipedlar marketing hiylasidan boshqa narsa emas.",
+  "heightened": "Yoshlar orasida iqlim o'zgarishi haqidagi xabardorlik kuchaygan.",
+  "pastime": "Velosiped haydash ko'plab Yevropa shaharlarida ommabop mashg'ulotga aylangan.",
+  "pedalling away": "Restorandagi chiroqlar yonib turishi uchun mehmonlar tinmay pedal aylantirishardi.",
+  "publicity stunt": "Ba'zilar pedal bilan ishlaydigan restoranni shunchaki reklama nayrangi deb hisoblaydi."
  }
 });

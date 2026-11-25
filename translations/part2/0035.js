@@ -1,4 +1,4 @@
-// Part 2 topic 0035: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0035: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0035', {
  "A1": {
   "He is seen as a good leader": "U yaxshi rahbar deb hisoblanadi.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('2', '0035', {
   "tighter": "Fizika qonunlariga qat'iyroq amal qilish tomoshaviylikni cheklashi mumkin, ammo u ixtirochiroq hikoyachilikni ham yuzaga chiqarishi mumkin.",
   "versus": "Masalani san'atga qarshi fan tarzida qo'yishning o'zi chalg'ituvchi, chunki eng esda qolarli filmlar ikkalasiga ham erishadi.",
   "wholly": "Bunday filmlarni butunlay qadrsiz deb rad etish ularning haqiqiy ilmiy qiziqish uyg'otish qudratini e'tiborsiz qoldirish bo'lardi."
+ },
+ "EX": {
+  "He is seen as a good leader": "Filmda kapitan jasur va ekipaji uni yaxshi yetakchi deb biladi.",
+  "a lit cigarette": "Ko'plab filmlarda benzinga tushib ketgan yonib turgan sigaret ulkan portlashga sabab bo'ladi.",
+  "based on": "Film Oyga missiya haqidagi haqiqiy voqeaga asoslangan.",
+  "be seen as": "Film ilmiy-fantastika janrining klassik namunasi sifatida qaraladi.",
+  "bend": "Rejissyorlar sahnani dramatikroq qilish uchun ko'pincha fizika qonunlarini buzib ko'rsatishadi.",
+  "disappointing": "Kinodagi portlashlarning aksariyati real emasligini bilish hafsalani pir qiladi.",
+  "explode": "Jangari filmlarda mashinalar to'qnashishi bilanoq portlab ketadi.",
+  "fantasy": "Filmda sodir bo'ladigan voqealarning aksariyati sof xayoldir.",
+  "flexibility": "Kino ijodkorlariga yaxshi hikoya so'zlab berish uchun ma'lum bir erkinlik kerak.",
+  "hyped-up": "Film haddan tashqari bo'rttirilgan maxsus effektlarga to'la edi.",
+  "impact on": "Ilmiy-fantastik filmlar odamlarning fanga qarashiga katta ta'sir ko'rsatishi mumkin.",
+  "nonsense": "Olimlarning aytishicha, bu g'oya mutlaqo bema'nilik.",
+  "over-dramatised": "Qutqaruv sahnasi tomoshabinlarni hayajonda ushlab turish uchun haddan tashqari dramatiklashtirilgan edi.",
+  "over-exaggerated": "Portlash ovozi dramatik ta'sir uchun haddan tashqari bo'rttirib ko'rsatilgan edi.",
+  "premise": "Filmning asosiy g'oyasi odamlar Marsda yashay olishidir.",
+  "science-fiction": "Ilmiy-fantastik filmlar qiziqarli sahnalar yaratish uchun ko'pincha fizika qonunlarini e'tiborsiz qoldiradi.",
+  "scientifically": "Sahna qiziqarli ko'rinadi, ammo ilmiy jihatdan aniq emas.",
+  "suck on": "Filmda yovuz qahramon sigaretni so'rib tortib, keyin uni benzinga tashlaydi.",
+  "tighter": "Ba'zi tomoshabinlar filmlarda ilmiy aniqlik bo'yicha qat'iyroq qoidalar bo'lishini xohlashadi.",
+  "versus": "Bahs ko'ngilochar jihat va ilmiy aniqlik o'rtasida bormoqda.",
+  "wholly": "Film syujeti to'liq ishonarli emas."
  }
 });

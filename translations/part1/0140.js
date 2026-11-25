@@ -1,4 +1,4 @@
-// Part 1 topic 0140: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0140: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0140', {
  "A1": {
   "binge": "Haddan tashqari ko'p yemang.",
@@ -137,5 +137,28 @@ VOCAB_TR_STORE('1', '0140', {
   "time of life": "Homiladorlik hayotning shunday davriki, bu paytda har tomondan, ko'pincha bir-biriga zid maslahatlar yog'iladi.",
   "trimester": "Ozuqaviy ehtiyojlar homiladorlikning har bir trimestrida sezilarli darajada o'zgaradi.",
   "whip": "Har bir xato uchun o'zingizni ko'chma ma'noda qamchilash taomning o'zidan ko'ra ko'proq zarar keltirishi mumkin."
+ },
+ "EX": {
+  "binge": "Ba'zi ayollar homiladorlik paytida shirinliklarni me'yoridan ortiq yeb yuborishadi.",
+  "bowl": "U katta kosada muzqaymoq yedi.",
+  "craving": "Ko'plab homilador ayollar g'alati taomlarga qattiq ishtiyoq sezadi.",
+  "first trimester": "Ertalabki ko'ngil aynishi homiladorlikning birinchi trimestrida ko'p uchraydi.",
+  "hard time": "Nima yeyotganingiz uchun o'zingizni qiynamang.",
+  "haywire": "Homiladorlik paytida gormonlaringiz izdan chiqadi.",
+  "ice cream": "U har kecha muzqaymoq yegisi kelardi.",
+  "nosebleed": "Ba'zi ayollarning homiladorlik paytida burnidan qon ketadi.",
+  "now and then": "Vaqti-vaqti bilan biror shirinlik yeyish ziyon qilmaydi.",
+  "physiological": "Biror taomga ishtiyoq fiziologikmi yoki psixologikmi?",
+  "prisoner": "U o'zini ishtiyoqlarining asiridek his qilardi.",
+  "properly": "Homiladorlik paytida to'g'ri ovqatlanish muhim.",
+  "punish": "Biror narsa yegingiz kelgani uchun o'zingizni jazolamang.",
+  "sardine": "Uning tushtinga qo'yilgan sardina yegisi kelardi.",
+  "smoke": "Ular baliqni o'tin olovida dudlashadi.",
+  "smoked": "Homilador ayollar dudlangan baliqqa ehtiyot bo'lishi kerak.",
+  "smoked salmon": "Homilador ayollarga ko'pincha dudlangan losos yemaslik maslahat beriladi.",
+  "therapist": "Terapevt unga ovqatlanish odatlari bo'yicha yordam berdi.",
+  "time of life": "Homiladorlik hayotning alohida davridir.",
+  "trimester": "Homiladorlik uch trimestrga bo'linadi.",
+  "whip": "Ozgina shokolad yesangiz, o'zingizni qamchilamang."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0420: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0420: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0420', {
  "A1": {
   "CV": "Mana mening rezyumem.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0420', {
   "dreaming": "Yillar davomidagi bekorchi orzular professional oshxonadagi mashaqqatli shogirdlik bilan almashdi.",
   "outstanding": "Uning ajoyib iste'dodi u taqdim etgan eng birinchi taomdanoq yaqqol ko'rinib turardi.",
   "signature": "O'ziga xos imzo taomi savdo belgisining oshpazlikdagi muqobiliga aylanib, darhol o'z yaratuvchisi bilan bog'lanadi."
+ },
+ "EX": {
+  "CV": "Rezyumengizni restoran boshqaruvchisiga yuboring.",
+  "botanical": "Oshpaz gullar va o'tlar kabi o'simlik masalliqlaridan foydalanadi.",
+  "catapult": "Tanlovdagi g'alaba uni birdaniga shuhrat cho'qqisiga olib chiqdi.",
+  "covet": "Butun dunyo oshpazlari Michelin yulduzlariga ega bo'lishni orzu qiladi.",
+  "curriculum vitae": "Nomzodlar tarjimai hol va ilova xat yuborishlari kerak.",
+  "dreaming": "Yillar davomida orzu qilganidan so'ng u nihoyat o'z restoranini ochdi.",
+  "outstanding": "Restorandagi taomlar a'lo darajada edi.",
+  "signature": "Bu shokoladli tort oshpazning o'ziga xos taomidir."
  }
 });

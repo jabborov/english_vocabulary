@@ -1,4 +1,4 @@
-// Part 2 topic 0023: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0023: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0023', {
  "A1": {
   "agree on": "Bu masalada biz kelishamiz.",
@@ -227,5 +227,43 @@ VOCAB_TR_STORE('2', '0023', {
   "toiking": "\"Toiking\" so'zi, \"honking\" va \"humming\" kabi, yomon hidlarni har qanday lug'at ta'rifidan ko'ra ancha jonliroq ifodalaydigan o'ynoqi norasmiy uslubga mansub.",
   "unpleasant": "Hidning o'zi tarqab ketganidan keyin ham voqeaning yoqimsiz ta'mi uzoq saqlanib qoldi.",
   "vellichor": "Aksariyat lug'atlarda bo'lmasa-da, \"vellichor\" so'zi changli ikkinchi qo'l kitob do'konida uzoq qolib ketgan har bir kishiga tanish tuyg'uni ifodalaydi."
+ },
+ "EX": {
+  "agree on": "Odamlar qaysi hidlar yoqimli ekani borasida kamdan-kam bir fikrga kelishadi.",
+  "auditory": "Bizda hidni ifodalovchi so'zlardan ko'ra eshitishga oid so'zlar ancha ko'p.",
+  "beat": "Yangi yopilgan non hidiga hech narsa teng kelmaydi.",
+  "damp": "Nam sochiqlar tez orada yomon hid chiqara boshlaydi.",
+  "dedicated": "Ingliz tilida hidlarni tasvirlash uchun maxsus so'zlar juda kam.",
+  "definitely": "O'sha pishloq, shubhasiz, ta'midan ko'ra hidi yomonroq.",
+  "disgusting": "Kanalizatsiyadan kelayotgan hid jirkanch edi.",
+  "extensively": "Olimlar hid bilish tuyg'usini keng qamrovli o'rganishgan.",
+  "feet": "Ba'zi mamlakatlarda oyoq hidiga o'xshash hid taratuvchi pishloq kutilmaganda mashhur.",
+  "foul": "Daryodan badbo'y hid kelardi.",
+  "fragrant": "Bog' xushbo'y atirgullarga to'la edi.",
+  "funky": "Muzlatkichning ichkarisidan g'alati hid kelyapti.",
+  "fusty": "Eski shkafdan dimiqqan hid kelardi, bu meni aksirtirdi.",
+  "head over": "Keling, novvoyxonaga borib, yangi non hididan bahramand bo'laylik.",
+  "honking": "O'sha krossovkalar juda sasib ketgan — ularni tashqariga chiqarib qo'y!",
+  "humming": "Muzlatkichdan hid kelyapti — menimcha, sut aynib qolgan.",
+  "lavender": "Lavanda hidi meni har doim tinchlantiradi.",
+  "leather": "Yangi charm kurtkaning hidini juda yaxshi ko'raman.",
+  "musty": "Yerto'ladan zax, dimiqqan hid kelardi.",
+  "nidor": "Kabob pishirilayotgan joydan kelayotgan go'sht hidi bog' bo'ylab taraldi.",
+  "olfactory": "Itlarning hid bilish tizimi odamnikidan ancha kuchli.",
+  "petrichor": "Haftalab quyoshli kunlardan keyin bo'rondan so'ng yerdan kelgan yomg'ir hidi ajoyib edi.",
+  "put it down": "G'alati hidni sezdim, lekin buni eski gilamdan deb o'yladim.",
+  "reeking": "U futbol o'yinidan badbo'y hid taratayotgan ko'ylakda qaytdi.",
+  "remark on": "Bir nechta mehmon zaldagi yoqimli hid haqida gapirib o'tdi.",
+  "rotten eggs": "Gazning hidi palag'da tuxum hidiga o'xshardi.",
+  "sentimental": "Buvimning atiri hidi menda sog'inchli tuyg'ular uyg'otadi.",
+  "shut it down": "Zavod shunchalik sassiq hid taratardiki, aholi kengashdan uni yopishni talab qildi.",
+  "stale smell": "Mehmonxona xonasida sigaretning eskirgan, dimiqqan hidi bor edi.",
+  "stinky": "Sassiq paypoqlaringni stoldan ol!",
+  "subjective": "Hidning yoqimli yoki yoqimsizligi juda sub'ektiv masala.",
+  "sweaty": "Uzoq yugurishdan keyingi terga botgan kiyimlarning hidini hech kim yoqtirmaydi.",
+  "the rest": "Ba'zi hidlar yoqimli, qolganlari esa ancha jirkanch.",
+  "toiking": "Restoran tashqarisidagi o'sha axlat qutilari juda sassiq hid chiqaryapti.",
+  "unpleasant": "Oshxonada yoqimsiz hid bor edi.",
+  "vellichor": "Eski kitob do'koniga kirgach, eski kitoblar hidi uyg'otadigan o'ziga xos shirin tuyg'u meni qamrab oldi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0049: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0049: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0049', {
  "A1": {
   "accessible": "Parkka kirish oson.",
@@ -191,5 +191,37 @@ VOCAB_TR_STORE('1', '0049', {
   "threaten": "Iqtisodiy bosimlar tillarga har qanday ochiq ta'qib siyosatidan ko'ra makkorroq tahdid soladi.",
   "tribe": "Qabila o'z tilini yo'qotganda, o'z og'zaki tarixiga yo'lni ham yo'qotadi.",
   "weekend": "Ko'plab oilalar uchun dam olish kunlari meros tilda gapiriladigan yagona vaqtdir."
+ },
+ "EX": {
+  "accessible": "Til kurslari hamma uchun ochiq bo'lishi kerak.",
+  "attainable": "Tilni ravon egallash – erishish mumkin bo'lgan maqsad.",
+  "bring up": "Ular farzandlarini maori tilida gapiradigan qilib tarbiyalashni xohlashadi.",
+  "bringing up": "Bolalarni ikki tilda tarbiyalash mehnat talab qiladi.",
+  "bump": "U qornidagi chaqalog'i bilan shu tilda gaplashardi.",
+  "day care": "Ba'zi bolalar bog'chalarida tub xalq tilida ta'lim beriladi.",
+  "disappear": "Asr oxiriga kelib ko'plab tillar yo'qolib ketishi mumkin.",
+  "family history": "Tilni o'rganish unga oilasi tarixini tushunishga yordam berdi.",
+  "feast": "Bu tilda an'anaviy bayram ziyofatlarida gaplashiladi.",
+  "glee": "Bolalar xursandchilikdan qiyqirib yuborishdi.",
+  "identity": "Til inson o'zligining muhim qismidir.",
+  "immersion": "Til muhitiga sho'ng'ish – tilni o'rganishning eng yaxshi usuli.",
+  "indigenous language": "Minglab tub xalqlar tillari yo'qolib ketish xavfi ostida.",
+  "live on": "Yosh so'zlashuvchilar tufayli bu til yashashda davom etadi.",
+  "local government": "Mahalliy hokimiyat til kurslarini moliyalashtirish orqali yordam berishi mumkin.",
+  "native language": "Uning ona tili maori tili.",
+  "phrasal": "\"Live on\" frazali fe'ldir.",
+  "phrasal verb": "\"Bring up\" frazali fe'ldir.",
+  "pleasure": "U bu tilda katta zavq bilan gaplashadi.",
+  "prayer": "Ba'zi tub xalqlar tillari hali ham duolarda ishlatiladi.",
+  "profound": "Tilni yo'qotish jamoaga chuqur ta'sir ko'rsatadi.",
+  "reachable": "Tilni ravon bilish maqsadiga erishsa bo'ladi.",
+  "rough": "So'nggi bir necha yil bu til uchun og'ir kechdi.",
+  "slow": "Til o'rganish sekin jarayon bo'lishi mumkin.",
+  "slow down": "Biz tillarning yo'qolishini sekinlashtirishimiz kerak.",
+  "spoken language": "Ko'plab tub xalqlar tillari faqat og'zaki til sifatida mavjud.",
+  "switching": "Ikki tilli oilalarda tillar o'rtasida almashib gapirish odatiy holdir.",
+  "threaten": "Globallashuv ko'plab kichik tillarga tahdid solmoqda.",
+  "tribe": "Qabilaning o'z tili va an'analari bor.",
+  "weekend": "Dam olish kunlari oila faqat o'z ona tilida gaplashadi."
  }
 });

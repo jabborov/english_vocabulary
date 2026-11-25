@@ -1,4 +1,4 @@
-// Part 1 topic 0289: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0289: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0289', {
  "A1": {
   "Franklin": "Franklin amerikalik bo'lgan.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0289', {
   "take five": "Qisqa tanaffuslar, ya'ni besh daqiqa dam olish, ishni boshqarish osonroqdek tuyulishi orqali paysalga solishni aslida kamaytirishi mumkin.",
   "tedious": "Zerikarli vazifalarni, hatto ular shoshilinch bo'lsa ham, eng ko'p paysalga solamiz.",
   "theorist": "Xulq-atvor nazariyotchilari paysalga solish kelajakdagi mukofotlarni kam baholashga moyilligimizdan kelib chiqadi, deb ta'kidlaydilar."
+ },
+ "EX": {
+  "Franklin": "Benjamin Franklin: \"Bugun qila oladigan ishingni ertaga qoldirma\", degan.",
+  "civic": "Franklin Filadelfiyaning ijtimoiy hayotida faol ishtirok etgan.",
+  "diplomat": "Franklin Fransiyada diplomat ham bo'lgan.",
+  "fallacy": "Ishni ortga suradiganlar shunchaki dangasa degan fikr – xato tushuncha.",
+  "focussed": "Zerikarli vazifalarga diqqatni jamlab turish qiyin.",
+  "knuckle": "U stolni shunchalik qattiq urdiki, barmoq bo'g'imlari og'rib ketdi.",
+  "knuckle down": "Endi jiddiy kirishib, imtihonlaringizga tayyorlanish vaqti keldi.",
+  "postmaster": "Benjamin Franklin bir paytlar pochta boshlig'i bo'lgan.",
+  "seem off": "Topshirish muddati hali ancha uzoqdek tuyulgani uchun ishni boshlamadim.",
+  "slip by": "Haftalar bilinmay o'tib ketdi, men esa hali inshoni boshlamagan edim.",
+  "statesman": "Franklin AQShni barpo etishga hissa qo'shgan davlat arbobi edi.",
+  "take five": "Keling, besh daqiqa dam olib, keyin davom etamiz.",
+  "tedious": "Anketalarni to'ldirish juda zerikarli.",
+  "theorist": "U ixtirochi bo'lish bilan birga siyosiy nazariyotchi ham edi."
  }
 });

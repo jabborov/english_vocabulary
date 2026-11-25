@@ -1,4 +1,4 @@
-// Part 1 topic 0430: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0430: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0430', {
  "A1": {
   "accustom": "Men sovuqqa ko'nikishim kerak.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0430', {
   "shaky": "Muzlatuvchi shamolda soatlab qolgandan so'ng hatto tajribali alpinistlar ham rangi oqarib, qaltiray boshlashdi.",
   "subjectively": "Ular subyektiv jihatdan o'zlarini qulayroq his qilgan bo'lsa-da, o'lchovlar teri harorati hamon pasayib borayotganini ko'rsatdi.",
   "wrapped up": "Bir necha qavat kiyimga o'ranib olganlariga qaramay, cho'ponlar baribir qahraton sovuqni his qilishardi."
+ },
+ "EX": {
+  "accustom": "O'zingizni sovuqqa o'rgatish uchun vaqt kerak.",
+  "differ": "Odamlar sovuqqa bardosh berish darajasi bo'yicha bir-biridan farq qiladi.",
+  "herder": "Shimol bug'usi boquvchilar qahraton sovuqda uzoq soatlab tashqarida bo'lishadi.",
+  "low temperature": "Tanamiz past haroratga tez javob beradi.",
+  "place of birth": "Tug'ilgan joyingiz sovuqqa qanchalik yaxshi bardosh berishingizga ta'sir qilishi mumkin.",
+  "reindeer": "Arktikadagi cho'ponlar katta-katta shimol bug'usi podalariga qarashadi.",
+  "shaky": "Qorda bir soat turganimdan keyin qo'llarim titray boshladi.",
+  "subjectively": "Tana haroratlari o'zgarmagan bo'lsa ham, ular o'zlarini subyektiv ravishda iliqroq his qilishdi.",
+  "wrapped up": "Qorga chiqishdan oldin yaxshilab issiq kiyinib olganingizga ishonch hosil qiling."
  }
 });

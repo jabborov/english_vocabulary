@@ -1,4 +1,4 @@
-// Part 1 topic 0492: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0492: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0492', {
  "A1": {
   "alertness": "Qahva hushyorlikka yordam beradi.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0492', {
   "sleep with": "Chiroqni yoqmasdan uxlay olmaslik ruhiy jarohatning keng tarqalgan belgisidir.",
   "traumatise": "Shifokorlar bombardimon butun bir avlodni ruhiy jarohatga uchratganidan ogohlantiradi.",
   "war zone": "Urush hududida ulg'ayish bolaning ruhiy salomatligiga umrbod ta'sir ko'rsatishi mumkin."
+ },
+ "EX": {
+  "alertness": "Urush hududidagi bolalar ko'pincha xavfga nisbatan doimiy hushyorlik ko'rsatadi.",
+  "massacre": "Bolalarning ba'zilari qirg'inning guvohi bo'lgan.",
+  "observable": "Ruhiy jarohat oqibatlari ba'zan darhol ko'zga tashlanmaydi.",
+  "phenomenally": "Bolalar g'oyat darajada chidamli bo'lishi mumkin.",
+  "recovery": "To'g'ri yordam bilan tuzalib ketish mumkin.",
+  "sleep with": "Ko'plab qo'rqib ketgan bolalar chiroqni yoqib qo'yib uxlashadi.",
+  "traumatise": "Zo'ravonlik ko'plab yosh bolalarda ruhiy jarohat qoldirdi.",
+  "war zone": "Millionlab bolalar urush hududida ulg'aymoqda."
  }
 });

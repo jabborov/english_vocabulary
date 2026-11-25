@@ -1,4 +1,4 @@
-// Part 1 topic 0210: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0210: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0210', {
  "A1": {
   "alpha": "Alfa yunon harfi.",
@@ -77,5 +77,18 @@ VOCAB_TR_STORE('1', '0210', {
   "science fiction": "Biz odatiy deb biladigan ko'plab texnologiyalar dastlab ilmiy fantastika asarlarida tasavvur qilingan.",
   "supercomputer": "Bugungi smartfonlar bir necha o'n yil avvalgi superkompyuterlardan kuchliroq.",
   "zero": "Nol dastlabki bilimdan boshlab, tizim bir necha soat ichida asrlar davomida yaratilgan inson shaxmat nazariyasidan o'zib ketdi."
+ },
+ "EX": {
+  "alpha": "AlphaZero deb nomlangan dastur bir necha soat ichida shaxmatni o'zi mustaqil o'rganib oldi.",
+  "chess": "Kompyuterlar yillar davomida shaxmatda odamlardan ustun kelib kelmoqda.",
+  "chess match": "Inson va mashina o'rtasidagi shaxmat bellashuvini butun dunyo tomosha qildi.",
+  "chess piece": "Robot qo'li shaxmat donasini taxta bo'ylab surdi.",
+  "cutting edge": "Bu tadqiqot sun'iy intellektning eng ilg'or yo'nalishida turibdi.",
+  "defeat": "Kompyuter jahon chempionini mag'lub etdi.",
+  "realize": "Odamlar tez orada kompyuterlar hisoblashdan ko'proq narsaga qodir ekanini anglab yetishdi.",
+  "recognize": "Kompyuterlar endi fotosuratlardagi yuzlarni taniy oladi.",
+  "science fiction": "Ilmiy fantastikada robotlar ko'pincha odamlardan aqlliroq bo'lib qoladi.",
+  "supercomputer": "Superkompyuter soniyasiga milliardlab hisob-kitob qila oladi.",
+  "zero": "AlphaZero shaxmat strategiyasi haqida mutlaqo nol bilim bilan boshlagan."
  }
 });

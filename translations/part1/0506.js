@@ -1,4 +1,4 @@
-// Part 1 topic 0506: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0506: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0506', {
  "A1": {
   "Fahrenheit": "Havo 80 daraja Farengeyt.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0506', {
   "support system": "Kuchli qo'llab-quvvatlash tizimi bo'lmasa, ko'plab yangi talabalar birinchi yilda qiynaladi.",
   "swelter": "Yo'lovchilar konditsionersiz to'xtab turgan poyezdda soatlab jaziramada qiynalishdi.",
   "trajectory": "Birinchi kitobi muvaffaqiyat qozongach, uning karyerasi yuqoriga ko'tarilish yo'nalishida rivojlandi."
+ },
+ "EX": {
+  "Fahrenheit": "AQShda harorat ko'pincha Farengeyt bo'yicha beriladi.",
+  "back out": "Ba'zi davlatlar iqlim kelishuvidan chiqib ketishdi.",
+  "beyond doubt": "Sayyora isiyotgani shubhasiz.",
+  "blue sky": "Tepamizda moviy osmondan boshqa hech narsa yo'q edi.",
+  "cloudless": "Biz bulutsiz osmonga qaradik.",
+  "conditional": "Iqlim bashoratlari qancha uglerod chiqarishimizga bog'liq.",
+  "greenhouse effect": "Issiqxona effekti sayyoramizni isitmoqda.",
+  "head in": "Iqlim xavfli yo'nalishda o'zgarib bormoqda.",
+  "life support": "Sayyoramizning tabiiy tizimlari biz uchun hayotni ta'minlovchi tizim vazifasini bajaradi.",
+  "out of whack": "Uglerod darajasining oshishi iqlim muvozanatini izdan chiqarmoqda.",
+  "solar energy": "Quyosh energiyasi elektr energiyasi ishlab chiqarishning toza usulidir.",
+  "support system": "Iqlim Yerning hayotni qo'llab-quvvatlovchi tizimining bir qismidir.",
+  "swelter": "Jaziramada millionlab odamlar issiqdan qiynalishdi.",
+  "trajectory": "Biz ancha yuqori haroratlar sari olib boruvchi yo'ldamiz."
  }
 });

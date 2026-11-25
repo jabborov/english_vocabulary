@@ -1,4 +1,4 @@
-// Part 1 topic 0485: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0485: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0485', {
  "A1": {
   "Holly": "Xolli futbolni yaxshi ko'radi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0485', {
   "push forward": "Hukumat yangi stadionlar qurish rejalarini qat'iyat bilan ilgari surmoqda.",
   "rotate": "Shakllarni xayolan aylantira olish qobiliyati fazoviy intellekt bilan bog'liq.",
   "stillness": "Jarima zarbasi oldidagi sukunatda butun stadion nafasini ichiga yutdi."
+ },
+ "EX": {
+  "Holly": "Holli tadqiqot o'yinchilar miyasi haqida nimalarni ko'rsatganini tushuntirdi.",
+  "athleticism": "Yetakchi futbolchilarga jismoniy chaqqonlik kerak, lekin tez fikrlash ham zarur.",
+  "brain stem": "Miya ustuni nafas olish kabi asosiy funksiyalarni boshqaradi.",
+  "brainwave": "Olimlar sinov paytida o'yinchilarning miya to'lqinlarini qayd etishdi.",
+  "cognition": "Futbol jismoniy mahorat bilan birga bilish qobiliyatiga ham bog'liq.",
+  "detecting": "To'p qayerga borishini oldindan sezish futboldagi asosiy mahoratdir.",
+  "expertise": "Yillar davomidagi mashg'ulotlar o'yinchilarga o'yinni tushunishda chinakam mahorat beradi.",
+  "football player": "Yaxshi futbolchi o'yinni juda tez tushunib oladi.",
+  "free kick": "U jarima zarbasidan ajoyib gol urdi.",
+  "margin": "Eng yuqori darajada g'alaba va mag'lubiyat o'rtasidagi farq juda kichik.",
+  "push forward": "Jamoa g'alaba golini izlab oldinga intildi.",
+  "rotate": "Yaxshi o'yinchilar eng yaxshi uzatmani ko'rish uchun maydonni xayolan aylantira oladi.",
+  "stillness": "Penaltidan oldin ba'zi o'yinchilar katta xotirjamlik va diqqat namoyon etadi."
  }
 });

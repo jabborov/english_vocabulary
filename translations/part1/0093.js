@@ -1,4 +1,4 @@
-// Part 1 topic 0093: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0093: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0093', {
  "A1": {
   "DNA": "DNK hujayralarimizda bor.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0093', {
   "scatter": "Okeanlar bo'ylab siyrak sochilgan hayot tarkibiy qismlarini to'plash uchun qandaydir mexanizm kerak edi.",
   "snowman": "Qorbobo muzni jonli narsaga o'xshatib shakl berish mumkinligini o'yinqaroqlik bilan eslatadi, hayotning o'zi ham, ehtimol, shunday paydo bo'lgandir.",
   "soup": "Ibtidoiy sho'rva gipotezasi takomillashtirilgan, ammo uning markaziy obrazi ajoyib darajada barqaror qolmoqda."
+ },
+ "EX": {
+  "DNA": "DNK tirik mavjudotlar o'sishi uchun zarur bo'lgan ma'lumotni tashiydi.",
+  "arise": "Yerda hayot qanday paydo bo'lgan?",
+  "atom": "Hamma narsa atomlardan tashkil topgan.",
+  "ball": "Ilk Yer ulkan muz sharga o'xshagan bo'lishi mumkin.",
+  "bring to": "Kometalar Yerga suv olib kelgan bo'lishi mumkin.",
+  "carbon atom": "Uglerod atomlari Yerdagi barcha hayotning asosidir.",
+  "chain reaction": "Muz ichidagi zanjir reaksiyasi murakkab molekulalarni hosil qilgan bo'lishi mumkin.",
+  "chemical reaction": "Muz ichidagi kimyoviy reaksiyalar hayotning qurilish bloklarini yaratgan bo'lishi mumkin.",
+  "comet": "Ba'zi olimlar Yerga muzni kometalar olib kelgan deb hisoblaydi.",
+  "cooling": "Yerning sovishi suvning muzlashiga imkon berdi.",
+  "dirt": "Kometalar muz va changdan iborat.",
+  "ethanol": "Etanol — ichimliklarda uchraydigan spirt turi.",
+  "frozen": "Hayot iliq dengizlarda emas, muzlagan suvda boshlangan bo'lishi mumkin.",
+  "geothermal": "Hayot geotermal manbalar yaqinida boshlangan bo'lishi mumkin.",
+  "hydrogen": "Suv vodorod va kisloroddan tashkil topgan.",
+  "lightning": "Hayotni yaratish uchun energiyani chaqmoq bergan bo'lishi mumkin.",
+  "methane": "Ilk atmosferada metan bo'lgan bo'lishi mumkin.",
+  "methanol": "Koinotdagi muz ichida metanol topilgan.",
+  "organic": "Organik molekulalar muz ichida hosil bo'lgan bo'lishi mumkin.",
+  "primordial": "Hayot ibtidoiy sho'rvada boshlangan bo'lishi mumkin.",
+  "scatter": "Kimyoviy moddalar butun sayyora bo'ylab sochilib ketgan.",
+  "snowman": "Bolalar bog'da qorbobo yasashdi.",
+  "soup": "Olimlar hayot kimyoviy moddalardan iborat \"ibtidoiy sho'rva\"da boshlangan deb hisoblaydi."
  }
 });

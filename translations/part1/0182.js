@@ -1,4 +1,4 @@
-// Part 1 topic 0182: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0182: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0182', {
  "A1": {
   "accordion": "U akkordeon chaladi.",
@@ -149,5 +149,30 @@ VOCAB_TR_STORE('1', '0182', {
   "specialty": "Maxsus qahva bozori miqdorga emas, sifatga sarmoya kiritgan fermerlarni rag'batlantiradi.",
   "tonic": "Tonikning achchiqligi och qovurilgan espressoning mevali nordonligini to'ldiradi.",
   "weasel": "Kampaniya faollarining ta'kidlashicha, sivet (weasel) qahvasiga bo'lgan talab hayvonlarning dahshatli sharoitlarda saqlanishiga olib kelgan."
+ },
+ "EX": {
+  "accordion": "Kafe tashqarisida bir kishi akkordeon chalayotgan edi.",
+  "aficionado": "Qahva ishqibozlari donlar o'rtasidagi farqni ta'midan bila olishadi.",
+  "branding": "Yaxshi brending qahvani qimmatbaho qilib ko'rsatishi mumkin.",
+  "brew": "U har kuni ertalab yangi qahva damlaydi.",
+  "coffee bean": "Qahva donlari maydalanishdan oldin qovuriladi.",
+  "dash": "Men qahvamga ozgina sut qo'shib ichishni yoqtiraman.",
+  "drinker": "Qahva ixlosmandlari qahvalari qayerdan kelishiga tobora ko'proq qiziqmoqda.",
+  "export": "Efiopiya qahvani butun dunyoga eksport qiladi.",
+  "gin": "Ba'zi barlar endi qahvani jin va tonik bilan aralashtirishadi.",
+  "have a look": "Keling, qahvangiz qayerdan kelishini ko'rib chiqaylik.",
+  "instant coffee": "Ko'plab britaniyaliklar uyda eriydigan qahva ichishadi.",
+  "intellectual property": "Brend nomlari intellektual mulkning bir turidir.",
+  "new wave": "Qahvaxonalarning yangi to'lqini sifat va axloqiy qoidalarga e'tibor qaratadi.",
+  "preferably": "Men qahvani sutsiz, iloji bo'lsa yangi maydalanganini ichaman.",
+  "premium": "Premium qahva oddiy qahvadan uch baravar qimmat turishi mumkin.",
+  "quality of life": "Adolatli narxlar fermerlarning turmush sifatini yaxshilashi mumkin.",
+  "relieved": "Qahva adolatli savdo asosida sotilganini eshitib, ko'nglim joyiga tushdi.",
+  "roaster": "Kichik qahva qovuruvchilar ko'pincha donni to'g'ridan-to'g'ri fermerlardan sotib olishadi.",
+  "shoe": "Qahvaxonada eski poyabzal kabi qayta ishlangan materiallardan yasalgan stakanlar sotiladi.",
+  "speciality": "Maxsus navli qahva professional tatib ko'rishlarda yuqori baho olishi kerak.",
+  "specialty": "Maxsus navli qahva katta e'tibor bilan yetishtiriladi va qovuriladi.",
+  "tonic": "Tonikli espresso yozda mashhur ichimlikdir.",
+  "weasel": "\"Suvsar qahvasi\" deb ataladigan qahva hayvon yegan donlardan tayyorlanadi."
  }
 });

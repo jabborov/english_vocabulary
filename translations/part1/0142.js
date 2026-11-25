@@ -1,4 +1,4 @@
-// Part 1 topic 0142: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0142: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0142', {
  "A1": {
   "broth": "Men tovuq sho'rvasini yaxshi ko'raman.",
@@ -71,5 +71,17 @@ VOCAB_TR_STORE('1', '0142', {
   "shame": "Sabzavotlarni foydali qiladigan birikmalarning aynan o'zi ularga yoqimsiz ta'm berishi juda achinarli.",
   "undesirable": "Seleksionerlar ko'plab sabzavotlardan o'zlari nomaqbul deb hisoblagan achchiqlikni asta-sekin yo'qotishdi, ehtimol bu salomatligimiz hisobiga bo'lgandir.",
   "unwanted": "Bir paytlar tabiatning keraksiz nojo'ya ta'siri deb hisoblangan narsa aslida foydali birikmalardan darak beruvchi muhim ishora bo'lishi mumkin."
+ },
+ "EX": {
+  "broth": "U sho'rvaga bir oz achchiq ko'katlar qo'shdi.",
+  "find on": "Achchiq ta'm retseptorlari tilda va boshqa a'zolarda uchraydi.",
+  "flavours": "Bolalar odatda achchiq ta'mdan ko'ra shirin ta'mni afzal ko'rishadi.",
+  "grapefruit": "Ba'zilar greypfrutni yaxshi ko'radi, boshqalarga esa u juda achchiq tuyuladi.",
+  "grill": "Achchiq sabzavotlarni grilda pishirish ularni shirinroq qilishi mumkin.",
+  "inflammation": "Achchiq taomlar tanaga yallig'lanishga qarshi kurashishda yordam berishi mumkin.",
+  "receptor": "Bizda achchiq ta'mni sezuvchi retseptorlar faqat tilda emas, tananing boshqa qismlarida ham bor.",
+  "shame": "Shuncha odam achchiq sabzavotlardan qochishi achinarli.",
+  "undesirable": "Achchiqlik uzoq vaqtdan beri yoqimsiz ta'm deb hisoblanib kelgan.",
+  "unwanted": "Ishlab chiqaruvchilar ko'pincha keraksiz achchiqlikni yashirish uchun shakar qo'shadi."
  }
 });

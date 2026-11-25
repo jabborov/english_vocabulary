@@ -1,4 +1,4 @@
-// Part 1 topic 0290: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0290: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0290', {
  "A1": {
   "Jay": "Uning ismi Jay.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0290', {
   "pillar": "Kattalarga sotuvlar o'yinchoq sanoati o'sishini qo'llab-quvvatlovchi asosiy ustunga aylandi.",
   "plush": "Bir paytlar bolalar o'yinchog'i deb hisoblangan yumshoq kolleksiya o'yinchoqlari endi kattalarga faol sotilmoqda.",
   "secondary": "Mashhur to'plam ishlab chiqarilishi to'xtatilgach, ikkilamchi bozordagi narxlar keskin oshishi mumkin."
+ },
+ "EX": {
+  "Jay": "Jeyning aytishicha, u yillar davomida o'yinchoq to'plab kelgan.",
+  "Lego": "Lego endi maxsus kattalar uchun to'plamlar ishlab chiqaradi.",
+  "brick": "U Lego g'ishtchalaridan qasr qurdi.",
+  "collecting": "O'yinchoq kolleksiya qilish kattalar orasida mashhur mashg'ulotdir.",
+  "cuddly": "Uning karavotida yumshoq o'yinchoqlar to'plami bor.",
+  "market price": "Noyob Lego to'plamlarining bozor narxi keskin oshdi.",
+  "pillar": "Katta yoshli xaridorlar o'yinchoq sanoatining tayanchiga aylandi.",
+  "plush": "Yumshoq momiq o'yinchoqlar bolalar orasida ham, kattalar orasida ham mashhur.",
+  "secondary": "Ba'zi o'yinchoqlar ikkilamchi bozorda ancha qimmatroq sotiladi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0112: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0112: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0112', {
  "A1": {
   "acronym": "NASA qisqartma so'z.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0112', {
   "pursuit": "Ba'zilar uchun muxlislik mashg'uloti oddiy ermak emas, balki hayotning belgilovchi qismiga aylanadi.",
   "quirky": "Muxlislar jamoalari begonalarni hayron qoldiradigan, ammo a'zolarni mahkam birlashtiradigan g'alati ichki hazillarni yaratadi.",
   "week after week": "Hafta sayin, mag'lubiyat ortidan mag'lubiyatga qaramay, sodiq muxlislar kelishda davom etishdi."
+ },
+ "EX": {
+  "acronym": "BIRGing — \"basking in reflected glory\", ya'ni \"o'zgalar shon-shuhratidan bahramand bo'lish\" iborasining qisqartmasi.",
+  "antithesis": "Mag'lubiyatdan o'zini chetga olish o'zgalar shon-shuhratidan bahramand bo'lishning aksidir.",
+  "baseball": "AQShdagi beysbol muxlislari o'z jamoalariga juda sodiq.",
+  "bask": "Katta g'alabadan so'ng muxlislar jamoaning shon-shuhratidan bahramand bo'lishadi.",
+  "bonnet": "Jeyn Ostin muxlislari ba'zan qalpoq va uzun ko'ylaklar kiyib, libos almashtirishadi.",
+  "call at": "Muxlislarning sayohat avtobusi guruh konsert bergan har bir shaharga kirib o'tdi.",
+  "cartoon": "Ba'zi kattalar hamon bolaligida ko'rgan multfilmlarining ashaddiy muxlislari.",
+  "cheer": "Jamoa maydonga chiqqanida minglab muxlislar olqishladi.",
+  "collective": "Jamoasi g'alaba qozonganda muxlislar umumiy quvonchni his qilishadi.",
+  "cut off": "Jamoasi yutqazganda, ba'zi muxlislar \"biz yutqazdik\" emas, \"ular yutqazdi\" deb o'zlarini chetga olishadi.",
+  "fanatic": "U birorta ham o'yinni qoldirmaydigan futbol fanatigi.",
+  "fandom": "\"Yulduzlar jangi\" muxlislari jamoasi juda katta va internetda juda faol.",
+  "gown": "U muxlislar anjumani uchun ko'ylagini o'zi tikdi.",
+  "laugh at": "Ba'zi muxlislar odamlar ularning qiziqishi ustidan kulishidan xavotirlanishadi.",
+  "mean distance": "Koinot ishqibozlari Yerdan Oygacha bo'lgan o'rtacha masofa kabi faktlarni keltirishni yaxshi ko'rishadi.",
+  "movie star": "U o'n yoshidan beri o'sha kino yulduzining muxlisi.",
+  "passion": "Futbol — uning eng katta ishqibozligi.",
+  "pursuit": "Muxlis bo'lish ko'p vaqt va pul talab qiladigan mashg'ulot bo'lishi mumkin.",
+  "quirky": "Ba'zi muxlislarning g'alati odatlari bor, masalan, o'yin kuni omadli paypoqlarini kiyishadi.",
+  "week after week": "Sodiq muxlislar har hafta stadionga borishadi."
  }
 });

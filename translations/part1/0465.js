@@ -1,4 +1,4 @@
-// Part 1 topic 0465: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0465: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0465', {
  "A1": {
   "abandoned ship": "Ular kemani tashlab ketishdi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0465', {
   "unthinkable": "Bir vaqtlar aqlga sig'maydigan bo'lgan narsa qo'mondonlik burchlari haqida bahsga sabab bo'ldi.",
   "utterly": "Tergov favqulodda vaziyatga ko'rsatilgan munosabatni mutlaqo nomaqbul deb topdi.",
   "wash off": "Tanqidchilarning aytishicha, mas'uliyatni shunchaki kechirim so'rash bilan yuvib tashlab bo'lmaydi."
+ },
+ "EX": {
+  "abandoned ship": "Kapitan kemani yo'lovchilaridan oldin tashlab ketdi.",
+  "capsize": "Kema qoyaga urilib, ag'darilib ketdi.",
+  "cruise": "Ular O'rta yer dengizi bo'ylab kruizga chiqishdi.",
+  "cruise ship": "Kruiz layneri bortida 4000 dan ortiq odam bor edi.",
+  "dreadful": "Bu dahshatli halokat edi.",
+  "heroic": "Ekipajning ba'zi a'zolari qahramonlik ko'rsatishdi.",
+  "oasis": "Kema suzib yuruvchi hashamat vohasiga o'xshardi.",
+  "speculating": "Nima noto'g'ri ketgani haqida turli taxminlar ko'p.",
+  "stay on": "Hamma xavfsiz joyga o'tmaguncha kapitan bortda qolishi kerak.",
+  "turn over": "Kema yon tomoniga ag'darila boshladi.",
+  "unthinkable": "Bir paytlar kapitanning birinchi bo'lib ketishi aqlga sig'maydigan narsa edi.",
+  "utterly": "Yo'lovchilar mutlaqo dahshatga tushishdi.",
+  "wash off": "Bir necha kishini to'lqin palubadan yuvib ketdi."
  }
 });

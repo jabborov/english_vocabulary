@@ -1,4 +1,4 @@
-// Part 1 topic 0080: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0080: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0080', {
  "A1": {
   "amaze": "Siz meni hayratda qoldirasiz.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0080', {
   "vicious": "\"Vicious circle\" iborasidagi \"vicious\" so'zi muammolar bir-birini qanday oziqlantirishini ifodalaydi.",
   "vicious circle": "Bu ayovsiz doirani buzish uchun mezbonlar taom tugab qolish xavfini qabul qilishlari kerak.",
   "worse": "Shvedcha stol qanchalik dabdabali bo'lsa, isrof odatda shunchalik yomonroq bo'ladi."
+ },
+ "EX": {
+  "amaze": "Taomlarning xilma-xilligi mehmonlarni hayratga soldi.",
+  "belly": "Shved stolidan keyin qornim to'q edi.",
+  "boastful": "U shved stolida qancha ovqat yeganini maqtanib gapirdi.",
+  "buffet": "Shved stolida xohlaganingizcha ovqat yeyishingiz mumkin.",
+  "cater": "Mehmonxona 500 kishigacha bo'lgan to'ylarga xizmat ko'rsata oladi.",
+  "caterer": "Ovqat yetkazib beruvchi ikki yuz kishilik shved stoli tayyorladi.",
+  "diner": "Shved stolida ovqatlanuvchilar ko'pincha yeya oladiganidan ko'proq oladi.",
+  "explode": "Shunchalik ko'p yedimki, yorilib ketaman deb o'yladim.",
+  "extravagant": "Ba'zi mehmonxonalarning shved stollari juda dabdabali.",
+  "get up": "Odamlar ko'proq ovqat olib kelish uchun tinimsiz o'rnidan turadi.",
+  "guest": "Mehmonlar shved stolidan o'zlari olib yeyishdi.",
+  "invite": "Ular to'ydagi shved stoliga yuzta mehmon taklif qilishdi.",
+  "knock off": "Shved stoli sizni lol qoldiradi.",
+  "occasion": "Shved stoli maxsus tadbirlarda tortiladi.",
+  "one thousand": "Ba'zi shved stollarida mingdan ortiq taom taklif qilinadi.",
+  "overwhelm": "Shved stollaridagi ulkan tanlov ovqatlanuvchilarni gangitib qo'yishi mumkin.",
+  "pile": "Uning likopchasida bir uyum ovqat bor edi.",
+  "pile up": "Ovqatlanuvchilar likopchalarini ovqat bilan to'ldirib, uyib oladi.",
+  "problematic": "Shved stollari keltirib chiqaradigan isrofgarchilik tufayli muammoli.",
+  "show off": "Mehmonxonalar ko'z-ko'z qilish uchun ulkan shved stollaridan foydalanadi.",
+  "social occasion": "Shved stoli to'y kabi ijtimoiy tadbirlarda keng tarqalgan.",
+  "sock": "Ajoyib taomlar meni hayratda qoldirdi.",
+  "take about": "Miyangiz to'yganingizni sezishi uchun taxminan yigirma daqiqa kerak bo'ladi.",
+  "understandable": "To'lagan puliga arzigulik narsa olishni xohlash tushunarli.",
+  "vicious": "Shved stollaridan qoladigan chiqindilar berk doiraning bir qismidir.",
+  "vicious circle": "Shved stollari ortiqcha ishlab chiqarish va isrofdan iborat berk doirani yuzaga keltiradi.",
+  "worse": "Shuncha ko'p yeganimdan keyin ahvolim yomonlashdi."
  }
 });

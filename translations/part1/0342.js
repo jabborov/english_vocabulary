@@ -1,4 +1,4 @@
-// Part 1 topic 0342: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0342: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0342', {
  "A1": {
   "ale": "U el pivosi ichadi.",
@@ -143,5 +143,29 @@ VOCAB_TR_STORE('1', '0342', {
   "trouser leg": "Loy sachragan shim pochasi tafsiloti ichuvchilar qanchalik uzoq yo'l bosib kelganini ko'rsatadi.",
   "walk up": "Peshtaxtaga o'zing borib buyurtma berish odati pabning norasmiy, tenglik ruhidagi muhitini mustahkamlaydi.",
   "wobbly": "Liqillab turgan kursilar ichimlikka bag'ishlangan joyga g'alati tarzda mos tushgandek tuyuldi."
+ },
+ "EX": {
+  "ale": "Pab an'anaviy ingliz pivosi — elni sotadi.",
+  "banquette": "Biz deraza yonidagi qizil yumshoq o'rindiqqa o'tirdik.",
+  "boozer": "Keling, mahalladagi ichimlikxonaga boraylik.",
+  "bunker": "Barlardan biri eski harbiy bunker ichida joylashgan.",
+  "country and western": "Barda kantri musiqasi yangraydi.",
+  "cowboy": "Kovboy barda ichimlik buyurdi.",
+  "den": "Bu bar qimorbozlar uyasi deb ta'riflangan.",
+  "hike": "Pabga yetib borish uchun soatlab piyoda yurishingiz kerak.",
+  "public house": "Pub so'zi \"public house\", ya'ni ichimlikxona so'zining qisqartmasidir.",
+  "remotest": "Aytishlaricha, bu Britaniyadagi eng chekka pab ekan.",
+  "riotous": "Salun o'zining to'polonli kechalari bilan mashhur edi.",
+  "roar": "Pab suhbatlarning gurillagan shovqiniga to'la edi.",
+  "saloon": "\"Yovvoyi G'arb\" filmlarida kovboylar salunda ichishadi.",
+  "seating": "Barda ellik kishilik o'rindiq bor.",
+  "seating area": "Pabning ochiq havodagi katta o'tirish joyi bor.",
+  "silently": "Ba'zi barlarda odamlar jimgina ichishadi.",
+  "sparse": "Bardagi mebellar siyrak edi.",
+  "tavern": "Bir paytlar sayohatchilar ovqatlanish va tunash uchun qovoqxonada to'xtashardi.",
+  "themed": "Shaharda \"Yovvoyi G'arb\" mavzusidagi bar bor.",
+  "trouser leg": "U shimining pochasini etigi ichiga tiqib qo'ydi.",
+  "walk up": "Bar peshtaxtasiga yaqinlashib, buyurtma berasiz.",
+  "wobbly": "Stol biroz liqillab turardi."
  }
 });

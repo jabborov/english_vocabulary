@@ -1,4 +1,4 @@
-// Part 1 topic 0405: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0405: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0405', {
  "A1": {
   "Wayne": "Wayne jurnalist.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0405', {
   "sensitivity": "Jamoatchilikning bilish huquqi bilan jabrlanganlarga nisbatan nozik munosabat o'rtasida muvozanat saqlash doimiy qiyinchilikdir.",
   "snowy": "Ommaviy axborot vositalari shov-shuv izlaganda hatto qorli kunlar ham \"inqiroz\" sarlavhasiga aylanadi.",
   "tabloid": "Bulvar matbuoti savdoni aniqlik va shaxsiy daxlsizlikdan ustun qo'yishda ayblanib kelgan."
+ },
+ "EX": {
+  "Wayne": "Wayne faqat yomon yangiliklarni o'qishdan charchaganini aytdi.",
+  "broadsheet": "Otam har yakshanba jiddiy, katta formatli gazeta o'qiydi.",
+  "condensed": "Sayt kun yangiliklarining qisqartirilgan variantini taqdim etadi.",
+  "corruption": "Korrupsiya haqidagi xabarlar ko'pincha birinchi sahifada chiqadi.",
+  "coverage": "Voqea ommaviy axborot vositalarida keng yoritildi.",
+  "crass": "Bu juda qayg'uli voqea haqidagi qo'pol va didsiz sarlavha edi.",
+  "crude": "Sarlavha murakkab voqeaning qo'pol, yuzaki xulosasi edi.",
+  "disgust": "O'quvchilar fotosuratlarga jirkanish bilan munosabat bildirishdi.",
+  "distaste": "U mashhurlar haqidagi g'iybatlarga nisbatan nafratini bildirdi.",
+  "followed": "Bu dunyodagi eng ko'p kuzatiladigan yangiliklar saytlaridan biridir.",
+  "grimace": "U sarlavhani o'qib, yuzini burishtirdi.",
+  "infertility": "Maqola bepushtlikni davolashning yangi usuli haqida edi.",
+  "mice": "Olimlar sichqonlardagi bepushtlikni davolashdi.",
+  "newsroom": "Tahririyatdagi jurnalistlar qaysi voqealar haqida xabar berishni hal qilishadi.",
+  "on the whole": "Umuman olganda, odamlar yaxshi yangiliklardan ko'ra yomon yangiliklarni afzal ko'rishadi.",
+  "redress": "Ba'zi saytlar faqat yaxshi yangiliklarni e'lon qilib, muvozanatni tiklashga harakat qilishadi.",
+  "seedy": "Ba'zi gazetalar mashhurlar haqidagi uyatli, iflos hikoyalarga e'tibor qaratadi.",
+  "sensitivity": "Jurnalistlar fojialar haqida xabar berishda nozik his-tuyg'uga ega bo'lishlari kerak.",
+  "snowy": "Qorli kun ham yangiliklarning asosiy mavzusi bo'lishi mumkin.",
+  "tabloid": "Sariq matbuot ko'pincha shov-shuvli hikoyalarni chop etadi."
  }
 });

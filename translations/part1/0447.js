@@ -1,4 +1,4 @@
-// Part 1 topic 0447: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0447: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0447', {
  "A1": {
   "at the most": "Bu ko'pi bilan o'n dollar turadi.",
@@ -101,5 +101,22 @@ VOCAB_TR_STORE('1', '0447', {
   "underweight": "Kam vazn bilan tug'ilish bolaning birinchi oyda nobud bo'lish xavfini sezilarli darajada oshiradi.",
   "vicious cycle": "Bo'yi o'smay qolgan qizlar bo'yi o'smagan chaqaloqlar tug'adigan ayollarga aylanib, avlodlar osha davom etadigan berk doirani saqlab qoladi.",
   "weaken": "To'yib ovqatlanmaslik infeksiyalarga qarshilikni zaiflashtiradi, shu sababli oddiy kasalliklar halokatli bo'lib qoladi."
+ },
+ "EX": {
+  "at the most": "Ba'zi ayollar shifokor bilan nari borsa bir necha daqiqa gaplasha oladi.",
+  "caesarean": "Uning birinchi farzandi kesar kesish yo'li bilan tug'ilgan.",
+  "caesarean section": "Ba'zi ayollar xavfsiz tug'ishi uchun kesar kesish amaliyoti kerak bo'ladi.",
+  "epicentre": "Bu mintaqa inqirozning markazidir.",
+  "gland": "Bezlar ter, ko'z yoshi va sut kabi moddalarni ishlab chiqaradi.",
+  "malnutrition": "To'yib ovqatlanmaslik yosh bolalar o'limining asosiy sabablaridan biridir.",
+  "mammary": "\"Mammary\" so'zi ko'krak bezlariga tegishli degani.",
+  "mammary gland": "Sut bezlari chaqaloqni boqish uchun sut ishlab chiqaradi.",
+  "motherhood": "Ba'zi kambag'al mamlakatlarda onalik juda xavfli.",
+  "stunt": "Sifatsiz ovqat bolaning o'sishini to'xtatib qo'yishi mumkin.",
+  "stunting": "O'sishdan orqada qolish yetarlicha ovqat olmaydigan millionlab bolalarga ta'sir qiladi.",
+  "take into account": "Hisobotda sog'liq, ta'lim va daromad hisobga olingan.",
+  "underweight": "Ko'plab chaqaloqlar kam vazn bilan tug'iladi.",
+  "vicious cycle": "Qashshoqlik va yomon sog'liq berk aylana hosil qiladi.",
+  "weaken": "Ochlik onalarni ham, chaqaloqlarni ham holsizlantiradi."
  }
 });

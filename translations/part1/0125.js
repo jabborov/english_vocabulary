@@ -1,4 +1,4 @@
-// Part 1 topic 0125: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0125: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0125', {
  "A1": {
   "VIII": "Genrix VIII qirol edi.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('1', '0125', {
   "tooth decay": "Tish chirishining barcha ijtimoiy tabaqalar orasida tarqalishi shakar narxining pasayishi bilan chambarchas bog'liq kechdi.",
   "triple": "Bu tovar ishchi sinf uchun arzon bo'lib qolgach, o'rtacha shakar iste'moli uch barobardan ham ko'proq oshdi.",
   "worst": "Insoniyat tarixidagi eng og'ir sharoitlarning ba'zilari Karib havzasidagi shakar plantatsiyalarida boshdan kechirilgan."
+ },
+ "EX": {
+  "VIII": "Qirol Genrix VIII shirin taomlarni yaxshi ko'rgan.",
+  "addiction": "Ba'zi olimlar shakarga qaramlik haqida gapirishadi.",
+  "at a low price": "Qullik tufayli shakarni arzon narxda sotish mumkin edi.",
+  "cane": "Ishchilar qamishni qo'lda o'rishadi.",
+  "commodity": "Shakar dunyodagi eng muhim tovarlardan biriga aylandi.",
+  "cup of tea": "Bir piyola choyingizga shakar solasizmi?",
+  "dentist": "Shakarni kamroq yeng, aks holda tish shifokoriga borishingizga to'g'ri keladi.",
+  "dopamine": "Shakar yeyish miyada dofamin ajralib chiqishiga sabab bo'ladi.",
+  "fondness": "Britaniyaliklar shirinliklarni juda yaxshi ko'radi.",
+  "four hundred": "To'rt yuz yil oldin shakar juda qimmat edi.",
+  "just now": "Hozirgina bitta pechenye yedim.",
+  "labour": "Shakar ishlab chiqarish uchun ko'p mehnat talab qilingan.",
+  "liking": "Ko'pchilik bolalar shirin taomlarni xush ko'radi.",
+  "notorious": "Shakar tish chirishiga sabab bo'lishi bilan mashhur.",
+  "plantation": "Qul qilingan odamlar shakar plantatsiyalarida ishlagan.",
+  "slave": "Qullar shakar fermalarida ishlashga majburlangan.",
+  "slavery": "Shakar tarixi qullik bilan bog'liq.",
+  "spoon": "Choyingizga necha qoshiq shakar solasiz?",
+  "staggering": "Biz iste'mol qiladigan shakar miqdori hayratlanarli darajada ko'p.",
+  "stumpy": "Haddan tashqari ko'p shakar odamlarning tishlarini qora va kalta-kalta qilib qo'ygan.",
+  "sugar cane": "Shakar dastlab shakarqamishdan tayyorlangan.",
+  "sweet tooth": "Men shirinlikka juda o'chman.",
+  "tobacco": "Shakar ham xuddi tamaki kabi plantatsiyalarda yetishtirilgan.",
+  "tooth": "Shakar tishlaringizga zararli.",
+  "tooth decay": "Shakar tish chirishining asosiy sababidir.",
+  "triple": "Shakar iste'moli ellik yilda uch baravar oshdi.",
+  "worst": "Shirin ichimliklar tishlaringiz uchun eng zararli narsalar qatoriga kiradi."
  }
 });

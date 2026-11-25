@@ -1,4 +1,4 @@
-// Part 1 topic 0417: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0417: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0417', {
  "A1": {
   "Vanity Fair": "\"Vanity Fair\" kitobdir.",
@@ -125,5 +125,26 @@ VOCAB_TR_STORE('1', '0417', {
   "satire": "So'z televizion satiradan parlament munozaralariga hayratlanarli tezlikda ko'chib o'tdi.",
   "shamble": "Qahramon hukumatning tartibsiz qiyofasini mujassamlashtirib, sahna bo'ylab oyoqlarini sudrab o'tdi.",
   "shambles": "Taqdimot har qanday tasavvur qilish mumkin bo'lgan narsa noto'g'ri ketgan to'liq chalkashlikka aylandi."
+ },
+ "EX": {
+  "Vanity Fair": "\"Vanity Fair\" iborasi XVII asrda yozilgan kitobdan olingan.",
+  "alphabetical": "So'zlar alifbo tartibida berilgan.",
+  "blunder": "Pirogga solingan soliq siyosiy qo'pol xato deb baholandi.",
+  "caravan": "Avtouylarga rejalashtirilgan soliq ko'pchilikning g'azabini qo'zg'atdi.",
+  "criterion": "\"Yil so'zi\"ning mezonlaridan biri uning yil voqealarini aks ettirishidir.",
+  "derivative": "\"Omnishambolic\" so'zi \"omnishambles\"dan yasalgan so'zdir.",
+  "fair use": "Qisqa iborani iqtibos keltirish odatda halol foydalanish qoidasiga kiradi.",
+  "flash in the pan": "Ba'zi yangi so'zlar shunchaki o'tkinchi hodisa bo'lib qoladi.",
+  "foremost": "So'zni tanlashning asosiy sababi uning ommabopligi edi.",
+  "gauge": "So'zning haqiqatan qanchalik mashhurligini baholash qiyin.",
+  "lend oneself": "Bu so'z \"omnishambolic\" kabi yangi shakllarga oson moslashadi.",
+  "longevity": "Bu so'z uzoq yashaydimi yoki yo'qmi, hech kim bilmaydi.",
+  "mess up": "Hukumat byudjetni rosa chalkashtirib yubordi.",
+  "mutate": "So'zlar vaqt o'tishi bilan yangi shakllarga o'zgarishi mumkin.",
+  "pasty": "Issiq piroglarga solinadigan soliq katta siyosiy mavzuga aylandi.",
+  "poorly": "Reja yomon tashkil etilgan edi.",
+  "satire": "\"Omnishambles\" so'zi dastlab televizordagi siyosiy satira ko'rsatuvidan chiqqan.",
+  "shamble": "Qariya ko'cha bo'ylab oyoqlarini sudrab ketdi.",
+  "shambles": "Yig'ilish butunlay tartibsizlikka aylandi."
  }
 });

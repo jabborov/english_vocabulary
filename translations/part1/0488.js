@@ -1,4 +1,4 @@
-// Part 1 topic 0488: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0488: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0488', {
  "A1": {
   "MP": "U parlament a'zosi.",
@@ -65,5 +65,16 @@ VOCAB_TR_STORE('1', '0488', {
   "phoney": "Uning yasama jozibasi u bilan avval uchrashgan hech kimni aldamadi.",
   "sham": "Mansabdorlar faqat viza uchun uyushtirilgan soxta nikohlarni aniqlashga o'rgatiladi.",
   "vicar": "Bu ish yillar davomida o'z ruhoniysiga ishongan cherkov jamoasini larzaga soldi."
+ },
+ "EX": {
+  "MP": "Mahalliy parlament a'zolari nikohlarni qattiqroq tekshirishga chaqirishdi.",
+  "bogus": "To'da pul evaziga soxta nikohlar uyushtirgan.",
+  "clergy": "Ruhoniylar shubhali nikohlar haqida xabar berishlari shart.",
+  "gang": "To'da soxta nikohlar uchun odamlardan minglab funt undirgan.",
+  "licence": "Cherkovning nikoh marosimlarini o'tkazish uchun litsenziyasi bor edi.",
+  "loophole": "To'da qonundagi bo'shliqdan foydalangan.",
+  "phoney": "Ular nikohni tashkil qilish uchun soxta hujjatlardan foydalanishgan.",
+  "sham": "Nikoh uning mamlakatda qolishiga yordam berish uchun tuzilgan soxta nikoh edi.",
+  "vicar": "Yuzlab soxta nikoh o'qigani uchun bir vikariy qamaldi."
  }
 });

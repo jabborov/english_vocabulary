@@ -1,4 +1,4 @@
-// Part 1 topic 0131: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0131: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0131', {
  "A1": {
   "alter": "Biz rejani o'zgartirishimiz mumkin.",
@@ -131,5 +131,27 @@ VOCAB_TR_STORE('1', '0131', {
   "super": "\"Super\" yorlig'i asosan marketing vositasi bo'lib, uning ortida deyarli hech qanday ilmiy asos yo'q.",
   "use in": "Deyarli har qanday ortib qolgan ovqatni qovurmada ishlatish mumkin, bu esa oziq-ovqat isrofini kamaytirishning ajoyib usulidir.",
   "walnut": "Yong'oq omega-3 yog' kislotalariga boy bo'lib, ular neyron membranalarini qo'llab-quvvatlaydi deb hisoblanadi."
+ },
+ "EX": {
+  "alter": "Nima yeyishimiz miyamiz ishlash tarzini o'zgartirishi mumkin.",
+  "balanced": "Har bir taomni sabzavot, oqsil va donli mahsulotlar bilan muvozanatli qilishga harakat qiling.",
+  "balanced diet": "Mutaxassislarning aytishicha, muvozanatli ovqatlanish miya uchun eng yaxshi oziqdir.",
+  "batch": "Men yakshanba kuni butun hafta uchun katta qozonda sho'rva pishiraman.",
+  "chuck": "Shunchaki bir hovuch yong'oqni bo'tqangizga tashlab yuboring.",
+  "complement": "Yong'oqlar bir kosa salatga yaxshi qo'shimcha bo'ladi.",
+  "convenient": "Muzlatilgan mevalar arzon va qulay.",
+  "cook up": "Kechki ovqatga tezda sabzavotli karri tayyorlab qo'ydim.",
+  "doughnut": "Donut mazali, lekin miyangizga deyarli foyda keltirmaydi.",
+  "eat at": "Har kuni bir xil vaqtda ovqatlanishga harakat qiling.",
+  "fortune": "Sog'lom ovqat juda qimmatga tushishi shart emas.",
+  "freezer": "Band kunlar uchun muzlatgichda bir oz muzlatilgan sabzavot saqlab qo'ying.",
+  "full complement": "Miyangiz yaxshi ishlashi uchun barcha ozuqa moddalarining to'liq to'plami kerak.",
+  "leafy": "Bargli yashil sabzavotlar miya uchun juda foydali.",
+  "microwave": "Sabzavotlarni mikroto'lqinli pechda tez pishirishingiz mumkin.",
+  "protein": "Tuxum va baliq oqsilning yaxshi manbalaridir.",
+  "sperm whale": "Kashalot Yerdagi barcha hayvonlar orasida eng katta miyaga ega.",
+  "super": "Ko'k qorag'atni ko'pincha miya uchun super oziq deb atashadi.",
+  "use in": "Muzlatilgan ismaloqni sho'rva va karrilarda ishlatishingiz mumkin.",
+  "walnut": "Yong'oq hatto kichkina miyaga biroz o'xshab ham ketadi."
  }
 });

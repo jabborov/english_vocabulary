@@ -1,4 +1,4 @@
-// Part 1 topic 0281: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0281: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0281', {
  "A1": {
   "aversion": "Men o'rgimchaklarni jinim suymaydi.",
@@ -113,5 +113,24 @@ VOCAB_TR_STORE('1', '0281', {
   "threshold": "Tartibsizlik ma'lum bir chegaradan oshgach, ko'pchilik o'z uyida ham dam ola olmay qoladi.",
   "unfamiliar with": "Kiyim yamashni bilmaydigan avlod ularni shunchaki tashlab yuborishga ko'proq moyil.",
   "untidiness": "Sherigini hayron qoldiradigan uning tartibsizlikka toqat qilishi shunchaki chalkashlikni umuman sezmasligi bilan bog'liq edi."
+ },
+ "EX": {
+  "aversion": "Men dazmol qilishni mutlaqo yoqtirmayman.",
+  "chore": "Idish yuvish – men eng yomon ko'radigan uy yumushi.",
+  "depart": "Ko'plab juftliklar uy ishlarini an'anaviy taqsimlashdan chetga chiqishadi.",
+  "distribution": "Erkaklar va ayollar o'rtasida uy ishlarining taqsimoti hanuz teng emas.",
+  "early on": "Turmushimizning dastlabki davridayoq ovqat pishirishni bo'lishib olishga kelishib oldik.",
+  "housework": "U xotiniga qaraganda ko'proq uy ishlarini bajaradi.",
+  "indefinitely": "Tozalashni cheksiz ortga sura olmaysiz.",
+  "laundry": "Butun yakshanbani kir yuvish bilan o'tkazdim.",
+  "leaky": "O'sha oqayotgan jo'mrakni tuzatishimiz kerak.",
+  "pinafore": "Uning fartugi unga belanib ketgan edi.",
+  "pinny": "Buvim oshxonada doim fartuk taqib yurardi.",
+  "prospect": "Butun uyni tozalash kerakligi haqidagi o'y meni dahshatga soldi.",
+  "sb": "Lug'atda \"help sb with sth\" iborasi \"help somebody with something\" degan ma'noni bildiradi.",
+  "secretary": "U yigirma yil kotiba bo'lib ishlagan.",
+  "threshold": "Ba'zi odamlarning tartibsizlikka chidash chegarasi boshqalarnikidan pastroq.",
+  "unfamiliar with": "Ko'plab yigitlar oddiy ovqat pishirish ko'nikmalarini bilishmaydi.",
+  "untidiness": "Xonadoshining tartibsizligi uning jonini hiqildoqqa keltirdi."
  }
 });

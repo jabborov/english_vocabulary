@@ -1,4 +1,4 @@
-// Part 1 topic 0344: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0344: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0344', {
  "A1": {
   "body process": "Nafas olish organizm jarayonidir.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0344', {
   "pointed": "Tadqiqot mualliflari oziq-ovqat kompaniyalarining nonushta yormalari haqidagi da'volarini keskin tanqid qildi.",
   "poor person": "Ovqatlanish bo'yicha maslahatlar kambag'al odam nonushtaga aslida nimaga qurbi yetishini kamdan-kam hisobga oladi.",
   "spike": "Glyukozaning takroriy keskin sakrashlari tananing moddalar almashinuvi tizimlariga qo'shimcha yuk soladi, deb hisoblanadi."
+ },
+ "EX": {
+  "body process": "Ovqat hazm qilish tana jarayonidir.",
+  "epidemiological": "Epidemiologik tadqiqotlar nonushtani tashlab ketishni sog'liqning yomonlashuvi bilan bog'laydi.",
+  "metabolise": "Tana ovqatni ertalab yaxshiroq o'zlashtirishi mumkin.",
+  "pauper": "Nonushtani podshodek, kechki ovqatni gadodek qiling.",
+  "pointed": "Shirin ovqatdan keyin grafikda o'tkir cho'qqi paydo bo'ldi.",
+  "poor person": "Gado — kambag'al odam.",
+  "spike": "Shirin nonushta qondagi qand miqdorining keskin ko'tarilishiga sabab bo'lishi mumkin."
  }
 });

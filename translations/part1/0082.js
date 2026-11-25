@@ -1,4 +1,4 @@
-// Part 1 topic 0082: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0082: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0082', {
  "A1": {
   "analysis": "Matnni tahlil qiling.",
@@ -215,5 +215,41 @@ VOCAB_TR_STORE('1', '0082', {
   "unpleasantly": "Bu voqea ko'plab kuzatuvchilarga hamdardligimizni dastur kodi qanchalik oson uyg'otishi mumkinligini noxush tarzda anglatdi.",
   "wishful": "Mashinalardan hamroh topishga bo'lgan istagimizda qandaydir xomxayollik bor.",
   "wishful thinking": "Tanqidchilar ongli chatbotga ishonchni xomxayollik va antropomorfizm qorishmasi deb ta'rifladilar."
+ },
+ "EX": {
+  "analysis": "Suhbat tahlili bu shunchaki andozalarni moslashtirish ekanini ko'rsatdi.",
+  "anthropomorphise": "Odamlar gapiradigan mashinalarni insonlashtirishga moyil.",
+  "assign": "Biz gapirayotgandek tuyuladigan narsalarga insoniy his-tuyg'ularni nisbat beramiz.",
+  "automatic": "Avtomatik nutqni aniqlash ovozingizni matnga aylantiradi.",
+  "blindside": "Chatbotning qanchalik insonga o'xshab gapirishi ko'pchilikni kutilmaganda hayratga soldi.",
+  "cognitive": "Kognitiv olimlar odamlarning qanday fikrlashini o'rganadi.",
+  "come to life": "Jonlanib qoladigan robotlar haqidagi hikoyalar filmlarda ko'p uchraydi.",
+  "computer programme": "Chatbot shunchaki so'zlarni bashorat qiladigan kompyuter dasturidir.",
+  "computing": "Hisoblash texnikasidagi yutuqlar chatbotlarni juda kuchli qildi.",
+  "conclusion": "U sun'iy intellekt ongli degan xulosaga keldi.",
+  "converse": "U har kuni sun'iy intellekt bilan suhbatlashardi.",
+  "converse on": "Chatbot deyarli har qanday mavzuda suhbatlasha olardi.",
+  "data": "Chatbotlar juda katta hajmdagi ma'lumotlarni tahlil qilish orqali o'rganadi.",
+  "deceive": "Mashina bizni o'zini tirik deb o'ylashga aldab qo'ya oladimi?",
+  "doll": "Bolalar qo'g'irchoqlari bilan xuddi ular tirikdek gaplashadi.",
+  "ene": "\"Ene\" bo'lagi, ehtimol, matndagi uzunroq so'zdan olingan.",
+  "fluent": "Chatbot ingliz tilida ravon gapiradi.",
+  "headquarters": "Muhandis kompaniyaning Kaliforniyadagi bosh qarorgohida ishlagan.",
+  "interact": "Har kuni millionlab odamlar chatbotlar bilan muloqot qiladi.",
+  "ism": "\"Anthropomorphism\" so'zi \"-ism\" qo'shimchasi bilan tugaydi.",
+  "knowing": "Chatbotning so'zlari ortida haqiqiy bilim bormi?",
+  "massive": "Sun'iy intellekt ulkan hajmdagi matnlar asosida o'qitiladi.",
+  "mental process": "Fikrlash murakkab aqliy jarayondir.",
+  "misleading": "Sun'iy intellekt \"o'ylaydi\" deyish chalg'ituvchi bo'lishi mumkin.",
+  "morph": "\"Morph\" so'zi \"shakl\" yoki \"ko'rinish\" ma'nosini anglatadigan yunoncha so'zdan kelib chiqqan.",
+  "reassign": "Da'volaridan keyin muhandis boshqa lavozimga o'tkazildi.",
+  "recognition": "Ovozni aniqlash dasturi telefoningiz bilan gaplashish imkonini beradi.",
+  "reinforce": "Filmlar robotlarning his-tuyg'ulari bo'lishi mumkin degan fikrni mustahkamlaydi.",
+  "software engineer": "Dasturiy ta'minot muhandisi sun'iy intellekt chatbotining his-tuyg'ulari bor deb da'vo qildi.",
+  "trait": "Mehribonlik biz ba'zan mashinalarda ko'radigan insoniy xususiyatdir.",
+  "transcription": "Dastur nutqni avtomatik ravishda matnga o'giradi.",
+  "unpleasantly": "Kompaniyasining munosabati uni noxush hayratga soldi.",
+  "wishful": "U javob berar degan umidda kompyuterga intiq nigoh tashladi.",
+  "wishful thinking": "Ba'zi mutaxassislar uning da'volarini xomxayol deb atashdi."
  }
 });

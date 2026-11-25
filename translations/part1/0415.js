@@ -1,4 +1,4 @@
-// Part 1 topic 0415: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0415: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0415', {
  "A1": {
   "Stradivari": "Stradivari skripkalar yasagan.",
@@ -95,5 +95,21 @@ VOCAB_TR_STORE('1', '0415', {
   "timbre": "Ko'r-ko'rona sinovlarda tinglovchilar Stradivari skripkasini faqat tembriga qarab aniqlashda qiynalishdi.",
   "violin maker": "Zamonaviy skripka ustalari o'z hunarlari qadimgi italyan ustalarinikidan tabiatan past degan taxmindan norozi.",
   "violinist": "Bir nechta yetakchi skripkachilar qadimgi ustalarning cholg'ularini zamonaviylaridan ajrata olmadi."
+ },
+ "EX": {
+  "Stradivari": "Stradivari yasagan skripka millionlab dollar turishi mumkin.",
+  "chop down": "Daraxtlar yuzlab yillar oldin kesib tashlangan.",
+  "cold spell": "Uzoq davom etgan sovuq davr daraxtlarning sekin o'sishiga sabab bo'lgan bo'lishi mumkin.",
+  "density": "Yog'ochning zichligi ovozga ta'sir qiladi.",
+  "echo": "Bu cherkovda kuchli aks-sado bor.",
+  "mellow": "Eski skripkaning ovozi yoqimli va mayin.",
+  "musical instrument": "Skripka eng go'zal musiqa asboblaridan biridir.",
+  "musical scale": "U har kuni ertalab musiqiy gammani mashq qiladi.",
+  "reverberant": "Cherkovda aks-sado juda kuchli, shu sababli musiqa yoqimli eshitiladi.",
+  "reverberate": "Skripka ovozi zal bo'ylab aks-sado berib yangradi.",
+  "soloist": "Yakkanavoz to'liq orkestr oldida ijro etdi.",
+  "timbre": "Skripkaning tembri iliq va boy.",
+  "violin maker": "Zamonaviy skripka ustalari Stradivari usullarini takrorlashga harakat qiladi.",
+  "violinist": "Skripkachi Stradivari skripkasida yakkanavozlik qildi."
  }
 });

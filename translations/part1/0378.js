@@ -1,4 +1,4 @@
-// Part 1 topic 0378: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0378: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0378', {
  "A1": {
   "cappuccino": "Bitta kapuchino, iltimos.",
@@ -41,5 +41,12 @@ VOCAB_TR_STORE('1', '0378', {
   "coffee can": "Eskirib ketgan qahva qutisidagi choychaqalar hafta oxirida barcha xodimlar o'rtasida teng taqsimlandi.",
   "latte": "Bir piyola latte narxi shaharlarda turmush qiymatining norasmiy o'lchoviga aylandi.",
   "suspend": "Kengash mahalliy korxonalarning shikoyatlarini tekshirayotgan paytda sxemani to'xtatib qo'ydi."
+ },
+ "EX": {
+  "cappuccino": "U kapuchino buyurdi va muhtoj odam uchun yana bittasining pulini to'ladi.",
+  "civet": "Dunyodagi eng qimmat qahva turlaridan biri sivetta yegan donlardan tayyorlanadi.",
+  "coffee can": "Ular pulni peshtaxta ortidagi eski qahva bankasida saqlashardi.",
+  "latte": "Menga katta latte bering, iltimos.",
+  "suspend": "Keyinchalik kambag'al odam olishi mumkin bo'lgan qo'shimcha bir piyola uchun pul to'lab, qahvani \"kutib turgan\" holda qoldirishingiz mumkin."
  }
 });

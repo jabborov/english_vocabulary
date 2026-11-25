@@ -1,4 +1,4 @@
-// Part 1 topic 0139: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0139: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0139', {
  "A1": {
   "Highland fling": "Bu Highland fling raqsi.",
@@ -209,5 +209,40 @@ VOCAB_TR_STORE('1', '0139', {
   "strut": "Raqs maydonchasida o'zini ko'z-ko'z qilib yurish g'urur uchun qanchalik foydali bo'lsa, aql uchun ham shunchalik foydali bo'lishi mumkin.",
   "twitch": "Musiqa ohangiga mos ravishda beixtiyor qimirlash istagi ritm miyaga qanchalik chuqur singib ketganini ko'rsatadi.",
   "waistcoat": "Kashtali nimchasi va lentali shlyapasi bilan u har jihatdan haqiqiy xalq raqqosiga o'xshardi."
+ },
+ "EX": {
+  "Highland fling": "Haylend fling an'anaviy shotland raqsidir.",
+  "Spanish": "Flamenko mashhur ispan raqsidir.",
+  "all right": "Men zo'r raqqos emasman, lekin yomon ham emasman.",
+  "at all costs": "Ba'zi odamlar har qanday holatda ham raqsga tushishdan qochishadi.",
+  "ballroom": "Mehmonxonada chiroyli bal zali bor.",
+  "ballroom dance": "Vals mashhur bal raqsidir.",
+  "boogie": "Keling, tun bo'yi raqsga tushamiz!",
+  "dance floor": "Hamma raqs maydonchasiga otildi.",
+  "dancer": "U professional raqqosa.",
+  "dancing": "Raqs tana uchun ham, miya uchun ham foydali.",
+  "divergent": "Ularning raqs haqidagi qarashlari bir-biridan farq qiladi.",
+  "divergent thinking": "Improvizatsion raqs divergent fikrlashni yaxshilashi mumkin.",
+  "enjoy out": "Biz dam olish kunlari raqsga tushgani borishni yaxshi ko'ramiz.",
+  "favour": "O'zingizga yaxshilik qiling va raqsga boring!",
+  "fling": "Haylend fling - shotlandlarning sho'x raqsi.",
+  "folk": "Festivalda xalq musiqasi chalinadi.",
+  "folk dance": "Har bir mamlakatning o'z xalq raqsi bor.",
+  "freeing": "Raqs odamni juda erkin his qildirishi mumkin.",
+  "hat": "Morris raqqoslari ko'pincha gulli shlyapa kiyishadi.",
+  "involuntary": "Musiqaga oyoq bilan taqillatib turish ixtiyorsiz bo'lishi mumkin.",
+  "jerky": "Uning raqs harakatlari keskin-keskin va noqulay edi.",
+  "morris": "U yillar davomida morris raqsiga tushib keladi.",
+  "morris dance": "Morris raqsi an'anaviy ingliz xalq raqsidir.",
+  "morris dancing": "Morris raqsi ingliz qishloqlarida juda mashhur.",
+  "no matter what happens": "Nima bo'lishidan qat'i nazar, raqs qilishda davom eting.",
+  "on the fence": "Raqs darsiga yozilish-yozilmaslik haqida hali ikkilanib turibman.",
+  "pity": "Raqsga kela olmasligingiz achinarli.",
+  "rhythm": "Raqqoslar musiqa ritmiga mos harakat qilishadi.",
+  "spasm": "G'alati raqs bir qator tirishishlarga o'xshardi.",
+  "stick together": "Raqs guruhlari bir-biriga yaqin bo'lib, bir-birini qo'llab-quvvatlaydi.",
+  "strut": "U raqs maydonchasi bo'ylab gerdayib yurdi.",
+  "twitch": "Musiqani eshitgach, uning oyoqlari uchib-uchib qimirlay boshladi.",
+  "waistcoat": "U raqsga tushish uchun rang-barang nimcha kiydi."
  }
 });

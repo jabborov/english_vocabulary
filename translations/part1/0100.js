@@ -1,4 +1,4 @@
-// Part 1 topic 0100: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0100: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0100', {
  "A1": {
   "and then some": "Bu katta, hatto undan ham kattaroq.",
@@ -167,5 +167,33 @@ VOCAB_TR_STORE('1', '0100', {
   "understate": "O'simlik hayotining murakkabligini kamsitib ko'rsatish tirik olamni noto'g'ri tushunish demakdir.",
   "understatement": "Ingliz kamtarona ifodasi tufayli \"yomon emas\" so'zlovchi aytishi mumkin bo'lgan eng yuksak maqtovlardan biriga aylanadi.",
   "whisper": "Botaniklar o'simliklar o'rtasidagi kimyoviy signalni tarqalgan sari buzilib boradigan pichirlashga o'xshatishadi."
+ },
+ "EX": {
+  "and then some": "O'simliklarda bizdagi beshta sezgi bor, hatto undan ham ko'proq.",
+  "botanist": "Bir botanik o'simliklar olamni qanday sezishini tushuntirib berdi.",
+  "cabbage": "Karamlar ularni yeyishayotganini sezishi mumkin.",
+  "corpse": "Murda guli chirigan go'shtdek hid taratadi.",
+  "digging up": "Sabzini kovlab olish uning hayotiga nuqta qo'yadi.",
+  "distort": "Xabarlar uzatilgan sari buzilib ketishi mumkin.",
+  "distorted": "Oxiriga kelib xabar buzilib ketgan edi.",
+  "graze": "Sigirlar kun bo'yi o't-o'lan yeb o'tlaydi.",
+  "keener": "Ba'zi o'simliklarning hid bilish sezgisi biznikidan o'tkirroq.",
+  "line up": "Ular o'simliklarni qator qilib terib chiqishdi.",
+  "maze": "No'xat o'simliklari labirintdan chiqish yo'lini topa oladi.",
+  "nerve": "O'simliklarda nervlar yo'q, ammo ular baribir zararlanishga javob qaytaradi.",
+  "pass along": "O'simliklar ogohlantiruvchi signallarni qo'shnilariga uzatadi.",
+  "passive": "O'simliklar biz o'ylaganchalik passiv emas.",
+  "perceptive": "O'simliklar biz anglaganimizdan ko'ra sezgirroq.",
+  "philosophy": "O'simliklarni yeyish kerakmi yoki yo'qmi, degan savol falsafaga oid.",
+  "potted": "Uning oshxonasida tuvakdagi o'simliklar ko'p.",
+  "responsive": "O'simliklar atrof-muhitga juda sezgir javob qaytaradi.",
+  "route": "O'simlik labirint ichidan eng yaxshi yo'lni topdi.",
+  "seedling": "Nihollar yorug'lik tomon o'sadi.",
+  "sense of smell": "O'simliklarda o'ziga xos hid bilish sezgisi bor.",
+  "skunk": "Skuns dahshatli hid sochdi.",
+  "skunk cabbage": "Sassiq karam o'z issiqligini o'zi hosil qila oladi.",
+  "understate": "O'simliklar aslida qanchalik sezgir ekanini kamsitib baholaymiz.",
+  "understatement": "O'simliklarni qiziq deyish — juda kamtarona ta'rif.",
+  "whisper": "Xabar o'simlikdan o'simlikka shivirdek o'tib bordi."
  }
 });

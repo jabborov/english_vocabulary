@@ -1,4 +1,4 @@
-// Part 2 topic 0045: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0045: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0045', {
  "A1": {
   "admit": "Men buni tan olaman.",
@@ -173,5 +173,34 @@ VOCAB_TR_STORE('2', '0045', {
   "untruthful": "Qanchalik mohirona tuzilgan bo'lmasin, yolg'on bayon uzoq va sinchkov so'roqqa kamdan-kam bardosh beradi.",
   "upright": "Uning halol davlat xizmatchisi sifatidagi obro'si aldovining fosh bo'lishini yanada larzaga soluvchi qildi.",
   "white lie": "Oq yolg'on g'alati axloqiy makonni egallaydi: tamoyil jihatidan qoralansa-da, deyarli hamma tomonidan qo'llaniladi."
+ },
+ "EX": {
+  "admit": "Kamdan-kam odam aslida qanchalik tez-tez yolg'on gapirishini tan oladi.",
+  "awkward": "Haqiqatni aytish ba'zan sizni noqulay vaziyatga solib qo'yishi mumkin.",
+  "biting down on your tongue": "Ba'zilar poligrafni chalg'itish uchun tillarini tishlab olishga urinishadi.",
+  "bump into": "Agar eski do'stimni tasodifan uchratib qolsam, odatda, aslida unday bo'lmasa ham, ko'rganimdan xursandman deyman.",
+  "claim": "Ba'zi mutaxassislar yolg'onchini faqat ko'zlarini kuzatib aniqlay olishlarini da'vo qilishadi.",
+  "deception": "Tadqiqot kundalik suhbatlarda aldov qanchalik tez-tez uchrashini o'rgandi.",
+  "deliberate": "Bu beixtiyor xato emas, balki ataylab aytilgan yolg'on edi.",
+  "dishonest": "Ishni tugatgandek ko'rsatishi uning tomonidan insofsizlik edi.",
+  "excessive": "Haddan tashqari maqtov samimiyatsiz eshitilishi mumkin.",
+  "flattery": "Xushomad kundalik yolg'onning keng tarqalgan turidir.",
+  "galvanic skin": "Poligraf terlaganimizda o'zgaradigan terining galvanik reaksiyasini o'lchaydi.",
+  "grounding": "Yolg'onchilar ko'z qarashuvidan qochadi degan fikrning ilmiy asosi juda zaif.",
+  "in authority": "Odamlar hokimiyat vakili tomonidan so'roq qilinganda ko'pincha asabiylashadi.",
+  "insincere": "Uning soxta tabassumi bizni ko'rganidan xursand emasligini ko'rsatdi.",
+  "junk science": "Ba'zi mutaxassislar yolg'onni aniqlashni soxta fan deb atashadi.",
+  "liar": "U juda yomon yolg'onchi — yuzi uni doim fosh qilib qo'yadi.",
+  "lie": "Ko'pchilik kuniga kamida bir marta kichik yolg'on gapiradi.",
+  "lie detector": "Gumonlanuvchi yolg'on detektori sinovidan o'tishga rozi bo'ldi.",
+  "lying": "Ba'zi psixologlarning fikricha, yolg'on gapirish inson xulqining odatiy qismidir.",
+  "misleading": "Reklama mahsulot haqida chalg'ituvchi tasavvur berdi.",
+  "motivated liar": "Qat'iy niyatli yolg'onchi tana tilini nazorat qilish uchun juda qattiq harakat qiladi.",
+  "polygraph machine": "Poligraf apparati yurak urishi va nafas olishdagi o'zgarishlarni o'lchaydi.",
+  "sweatiness": "Terlash poligraf o'lchay oladigan asabiylik belgilaridan biri.",
+  "truthful": "Iltimos, menga rostini ayt — nima bo'lganini bilishim kerak.",
+  "untruthful": "Guvoh qayerda bo'lgani haqida rost gapirmagani aniqlandi.",
+  "upright": "U jamiyatning halol va hurmatli a'zosi sifatida tanilgan edi.",
+  "white lie": "Yoqmagan sovg'ani yaxshi ko'rishingizni aytish beg'araz yolg'ondir."
  }
 });

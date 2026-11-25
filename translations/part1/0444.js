@@ -1,4 +1,4 @@
-// Part 1 topic 0444: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0444: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0444', {
  "A1": {
   "ILO": "XMT BMTning bir qismi.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0444', {
   "one and only": "Yagona sohaga ish o'rinlarining birdan-bir manbai sifatida tayanish yosh ishchilarni xavfli darajada himoyasiz qoldiradi.",
   "trifle": "Siyosatchilar arzimas narsa deb e'tiborsiz qoldiradigan narsa zarar ko'rganlar uchun butun bir kasbiy yo'lni belgilab berishi mumkin.",
   "unskilled": "Avtomatlashtirish bir vaqtlar yoshlarga mehnatga ilk qadam bo'lgan malakasiz ish o'rinlarini izchil qisqartirmoqda."
+ },
+ "EX": {
+  "ILO": "XMTning ma'lumotlariga ko'ra, yoshlar ishsizligi rekord darajada.",
+  "a trifle": "Bu yil raqamlar biroz yaxshiroq ko'rinadi.",
+  "custodian": "Hukumatlar o'z yoshlarining kelajagi uchun mas'ul posbonlardir.",
+  "detach": "Uzoq vaqt ishsiz qolgan yoshlar jamiyatdan uzilib qolishi mumkin.",
+  "entrench": "Uzoq muddatli ishsizlik qashshoqlikni mustahkamlab qo'yishi mumkin.",
+  "entrenched": "Ko'plab mamlakatlarda yoshlar ishsizligi chuqur ildiz otib ketgan.",
+  "higher education": "Hatto oliy ma'lumotli yoshlar ham ish topa olmayapti.",
+  "lightly": "Yoshlar ishsizligi muammosiga yengil qarab bo'lmaydi.",
+  "marginalise": "Ishsizlik yoshlarni jamiyat chetiga surib qo'yishi mumkin.",
+  "marginalised": "Jamiyat chetiga surilgan yoshlar ko'pincha umidini yo'qotadi.",
+  "one and only": "Ko'plab oilalar uchun yosh farzandning maoshi ularning yagona daromadidir.",
+  "trifle": "Yosh odam uchun ishdan ayrilish arzimas narsa emas.",
+  "unskilled": "Inqiroz eng ko'p malakasiz yosh ishchilarga zarba beradi."
  }
 });

@@ -1,4 +1,4 @@
-// Part 1 topic 0383: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0383: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0383', {
  "A1": {
   "dummy": "Chaqaloqda so'rg'ich bor.",
@@ -53,5 +53,14 @@ VOCAB_TR_STORE('1', '0383', {
   "linked": "Olimlar tug'ilishdan oldingi ta'sir keyinchalik nutqni idrok etishdagi farqlar bilan bog'liq ekanini aniqladi.",
   "vowel": "Unlilar undoshlarga qaraganda balandroq va cho'ziqroq bo'lgani uchun ona qorni orqali osonroq o'tadi.",
   "vowel sound": "Tadqiqot yangi tug'ilgan chaqaloqlar ona tilidagi unli tovushlarni allaqachon turkumlashni boshlaganini aniqladi."
+ },
+ "EX": {
+  "dummy": "Tadqiqotchilar yangi tug'ilgan chaqaloqlar so'rg'ichni qanchalik kuchli so'rishini o'lchashdi.",
+  "eat c": "Onasi homiladorlik paytida sabzi sharbati ichgan chaqaloqlar keyinchalik sabzini mamnuniyat bilan yeyishgan.",
+  "foetus": "Homila tashqi dunyodagi tovushlarni eshita oladi.",
+  "lingual": "Ikki tilli onalardan tug'ilgan chaqaloqlar ikkala tilni ham taniydi.",
+  "linked": "Chaqaloqlarning til o'rganishi ular ona qornida eshitgan tovushlar bilan chambarchas bog'liq.",
+  "vowel": "A, E, I, O va U ingliz tilidagi unli harflardir.",
+  "vowel sound": "Yangi tug'ilgan chaqaloqlar ona qornida eshitgan unli tovushlarni taniy oladi."
  }
 });

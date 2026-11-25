@@ -1,4 +1,4 @@
-// Part 2 topic 0008: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 2 topic 0008: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('2', '0008', {
  "A1": {
   "affect": "Bu menga ta'sir qiladi.",
@@ -119,5 +119,25 @@ VOCAB_TR_STORE('2', '0008', {
   "unplugged": "Raqamli olamdan butunlay uzilgan bo'lish hozir shu qadar kamyobki, u o'z-o'zidan hashamatli tovarga aylangan.",
   "waking hours": "Ekranlar odamning uyg'oq soatlarining katta qismini egallaganda, dam olish va mehnat o'rtasidagi chegara yo'qoladi.",
   "withdrawal symptoms": "Shunchaki aloqadan uzilish abstinent alomatlarni keltirib chiqarishi giyohvandlik bilan noqulay o'xshatishlarga sabab bo'ladi."
+ },
+ "EX": {
+  "affect": "Tadqiqotchilar doimiy bildirishnomalar insonning diqqatini jamlash qobiliyatiga jiddiy ta'sir qilishi mumkinligini aniqladi.",
+  "afterwards": "U keyinchalik o'zini uzilishdan oldingiga qaraganda sezilarli darajada xotirjamroq va diqqatliroq his qilganini tan oldi.",
+  "detached": "Telefoni doim qo'lida bo'lmagani uchun u o'zini odatiy kundalik tartibidan g'alati tarzda uzilib qolgandek his qildi.",
+  "furry": "Uning stolidagi antistress to'pi kichkina, tukli edi va telefoni olib qo'yilgach, mutlaqo foydasiz bo'lib qoldi.",
+  "guinea pig": "Yigirma nafar ko'ngilli universitetning raqamli detoks tadqiqotida tajriba quyoni vazifasini bajardi.",
+  "help us out with": "Tadqiqotning keyingi bosqichida bizga yordam berishi uchun ko'proq ko'ngillilarni jalb qilyapmiz.",
+  "isolate": "Ajabki, doimiy ravishda lentani varaqlash odamlarni o'zlari eng qadrlaydigan yuzma-yuz munosabatlardan ajratib qo'yishi mumkin.",
+  "literally": "Uchinchi kunga kelib u xabarlarini yana tekshira olishiga qadar qolgan daqiqalarni tom ma'noda sanay boshladi.",
+  "long-term effects": "Olimlar ijtimoiy tarmoqlardan haddan tashqari foydalanishning yoshlar miyasiga uzoq muddatli ta'sirini hali ham o'rganmoqda.",
+  "media blackout": "U diqqatini jamlash qobiliyati yaxshilanadimi-yo'qmi, bilish uchun ikki hafta davomida ommaviy axborotdan butunlay uzilishga ahd qildi.",
+  "mental well-being": "Ekran oldida haddan tashqari ko'p vaqt o'tkazish o'smirlarning ruhiy salomatligi yomonlashishi bilan bog'langan.",
+  "permanent": "Tajriba uni telefon odatlarida ba'zi doimiy o'zgarishlar qilishga ishontirdi.",
+  "reminder": "Bo'sh, jim ekran unga o'zining unga qanchalik qaram bo'lib qolganini doimiy eslatib turardi.",
+  "seem": "Bir hafta ijtimoiy tarmoqlardan voz kechish, u buni amalda sinab ko'rmaguncha, katta ish bo'lib tuyulmadi.",
+  "short-eared rabbit": "Tajriba doirasida ishtirokchilarga telefonlarini tekshirish o'rniga parvarish qilish uchun kalta quloqli quyon berildi.",
+  "unplugged": "U butun dam olish kunlarini telefonini o'chirib, tortmaga solib qo'ygan holda texnologiyalardan uzilib o'tkazdi.",
+  "waking hours": "U uyg'oq bo'lgan deyarli barcha vaqtini ekranga qarab o'tkazishini anglab, hayratda qoldi.",
+  "withdrawal symptoms": "Bir nechta ishtirokchi dastlabki ikki kun ichida tashvish va bezovtalik kabi abstinensiya alomatlarini qayd etdi."
  }
 });

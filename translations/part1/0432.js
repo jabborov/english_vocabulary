@@ -1,4 +1,4 @@
-// Part 1 topic 0432: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0432: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0432', {
  "A1": {
   "avoidance": "Qochish yechim emas.",
@@ -59,5 +59,15 @@ VOCAB_TR_STORE('1', '0432', {
   "neo": "\"Neo\" yangilikni bildirishini tushunish nima uchun neofobiya notanish narsadan qo'rqishni anglatishini tushuntirishga yordam beradi.",
   "preposition": "Predloglarni ko'pincha to'g'ridan-to'g'ri tarjima qilib bo'lmaydi, bu esa ularni o'zlashtirishni nihoyatda qiyinlashtiradi.",
   "wired": "Biz ba'zi ta'mlarni rad etishga tabiatan moslashgan bo'lsak-da, takroriy tatib ko'rish didimizni o'zgartirishi mumkin."
+ },
+ "EX": {
+  "avoidance": "Muayyan taomlardan qochish umrbod odatga aylanishi mumkin.",
+  "claustrophobia": "Yangi taomlardan qo'rqish biroz klaustrofobiyaga o'xshab tuyulishi mumkin.",
+  "coriander": "Ba'zi odamlarga kashnich sovunga o'xshab tuyuladi.",
+  "inherently": "Brokkoli ta'mida o'z-o'zidan yomon narsa yo'q.",
+  "masking": "Achchiq ta'mni sous bilan bekitish bolalarga sabzavot yeyishga yordam berishi mumkin.",
+  "neo": "Oziq-ovqat neofobiyasi — \"neo\" yangi degani — yangi taomlarni tatib ko'rishdan qo'rqishdir.",
+  "preposition": "\"Hate the taste of\" iborasidagi \"of\" so'zi predlogdir.",
+  "wired": "Miyamiz achchiq ta'mni yoqtirmaslikka moslashtirilgandek tuyuladi."
  }
 });

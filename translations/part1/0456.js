@@ -1,4 +1,4 @@
-// Part 1 topic 0456: Uzbek translations of the A1-C2 example sentences (level -> word -> Uzbek).
+// Part 1 topic 0456: Uzbek translations of the example sentences: A1-C2 levels and EX = the original example (level -> word -> Uzbek).
 VOCAB_TR_STORE('1', '0456', {
  "A1": {
   "chemical substance": "Suv kimyoviy moddadir.",
@@ -89,5 +89,20 @@ VOCAB_TR_STORE('1', '0456', {
   "rot away": "Xromosomaning chirib yo'qolib borishi tasviri ta'sirli, ammo boshqa tadqiqotchilar u millionlab yillar davomida barqaror bo'lib kelgan, deb hisoblaydi.",
   "sex organ": "Jinsiy a'zolarning rivojlanishi o'ziga xos bosh kalit vazifasini bajaradigan yagona gen tomonidan ishga tushiriladi.",
   "terrify": "Shov-shuvli sarlavhalar asosiy ilmiy mohiyatni tushuntirish uchun emas, balki o'quvchilarni dahshatga solish uchun yoziladi."
+ },
+ "EX": {
+  "chemical substance": "Gormonlar organizmda hosil bo'ladigan kimyoviy moddalardir.",
+  "chromosome": "Erkaklarda bitta X va bitta Y xromosoma bo'ladi.",
+  "deplete": "Y xromosoma dastlabki genlarining ko'p qismini yo'qotgan.",
+  "heavy lifting": "Asosiy og'ir ishni X xromosoma bajaradi.",
+  "lid": "Bankaning qopqog'ini yana yopib qo'ying.",
+  "natural selection": "Tabiiy tanlanish eng foydali genlarni saqlab qoladi.",
+  "numerical": "Ma'lumotlar raqamli shaklda berilgan.",
+  "plant cell": "O'simlik hujayrasi qalin devor bilan o'ralgan.",
+  "rhesus": "Rezus makakalar Osiyoning ayrim hududlarida keng tarqalgan.",
+  "rhesus monkey": "Olimlar insonning Y xromosomasini rezus maymunnikiga qiyosladilar.",
+  "rot away": "Ba'zi olimlarning fikricha, Y xromosoma asta-sekin yemirilib bormoqda.",
+  "sex organ": "Y xromosomadagi genlar erkak jinsiy a'zolarining rivojlanishini boshqaradi.",
+  "terrify": "Erkaklar yo'qolib ketishi mumkinligi haqidagi fikr ba'zi odamlarni dahshatga soladi."
  }
 });
