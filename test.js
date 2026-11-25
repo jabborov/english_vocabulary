@@ -111,6 +111,13 @@ async function load(url, setup){
     assert.deepStrictEqual(nos.map(n => n[0].textContent), topic.words.map((x, i) => String(i + 1)), name);
     assert.strictEqual(entries[0].firstElementChild.className, 'entry-no');
     assert.strictEqual(entries[0].querySelector('.entry-no').getAttribute('aria-hidden'), 'true');
+    // no list of topics at the bottom of the page: the word cards are followed directly by the footer
+    assert.strictEqual(t.document.getElementById('topic-nav'), null, name);
+    assert.strictEqual(t.document.querySelectorAll('.topic-nav').length, 0, name);
+    assert.deepStrictEqual([...t.document.querySelector('main .wrap').children].map(e => e.id), ['count', 'entries', 'no-results'], name);
+    assert.strictEqual(t.document.querySelector('main').nextElementSibling.tagName, 'FOOTER');
+    assert.strictEqual([...t.document.querySelectorAll('main a[href^="topic.html"], footer a[href^="topic.html"]')].length, 0, name + ': no topic links');
+    assert.strictEqual(t.document.querySelector('nav a.back').getAttribute('href'), 'index.html?part=' + part);   // the way back to all topics stays
   }
   // Part 1 examples follow the level buttons too
   w = await load('topic.html?topic=0001&part=1');
@@ -872,6 +879,10 @@ async function load(url, setup){
     }
     store['vocab-today'] = '[]';
   }
+
+  // the removed topic list leaves no styles behind (also not in the print styles)
+  w = await load('topic.html?topic=0004');
+  assert.ok(![...w.document.querySelectorAll('style')].some(x => x.textContent.includes('topic-nav')), 'no .topic-nav styles');
 
   console.log('ALL TESTS PASSED');
 })().catch(e => { console.error('FAIL', e.message); process.exit(1); });
