@@ -1,9 +1,12 @@
 // Word info for synonyms and opposites.
-// A synonym/opposite that is itself a word in Part 1 or Part 2 gets a dotted underline (a <button class="wi-link">).
-// Clicking it opens a popup with ALL the synonyms and opposites of that word card that have an entry:
-// each original word with its Uzbek translation and English explanation (from Part 1 and Part 2 together);
-// the clicked word is highlighted.
-// Usage: load after data.js, data_part1.js and synonyms.js; build the lists with window.VocabInfo.list(words, item).
+// - A synonym/opposite that is a word in Part 1 or Part 2 gets a dotted underline (<button class="wi-link">).
+// - A synonym/opposite that is not in any topic but has an entry in the synonym dictionary (extra/<letter>.js,
+//   listed in extra/index.js) is shown in green with a dotted underline (<button class="wi-link wi-extra">).
+// Clicking either opens one popup with ALL the synonyms and opposites of that word card: each original word with its
+// pronunciation, Uzbek translation, English explanation and A / B / C example sentences with their Uzbek translations.
+// The clicked word is highlighted.
+// Usage: load after data.js, data_part1.js, examples*.js, synonyms.js, tr-loader.js and extra/index.js;
+// build the lists with window.VocabInfo.list(words, item).
 (function(){
   const PARTS = [
     { part: '1', data: window.VOCAB_DATA_PART1 || {} },
@@ -15,15 +18,41 @@
     const key = String(item.w).trim().toLowerCase();
     (index[key] = index[key] || []).push({ part: P.part, topicKey: k, title: P.data[k].title, item });
   })));
-  const has = w => !!index[String(w).trim().toLowerCase()];
+  const norm = w => String(w).trim().toLowerCase();
+  const has = w => !!index[norm(w)];
+  // Synonym dictionary: words that are not in a topic (extra/index.js sets window.VOCAB_EXTRA_INDEX = [...])
+  const extraSet = new Set((window.VOCAB_EXTRA_INDEX || []).map(norm));
+  const hasExtra = w => !has(w) && extraSet.has(norm(w));
 
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[c]));
+
+  // ----- Synonym dictionary files: extra/<letter>.js calls VOCAB_EXTRA_STORE(letter, {word: entry}) -----
+  // (a <script> tag, not fetch(), so the pages also work when opened from disk)
+  const extraFiles = {}, extraWaiting = {};
+  const letterOf = w => { const c = norm(w)[0] || '_'; return /[a-z]/.test(c) ? c : '_'; };
+  window.VOCAB_EXTRA_STORE = function(letter, data){
+    extraFiles[letter] = data || {};
+    (extraWaiting[letter] || []).forEach(f => f(extraFiles[letter])); delete extraWaiting[letter];
+  };
+  function loadExtra(letter){
+    if(extraFiles[letter]) return Promise.resolve(extraFiles[letter]);
+    return new Promise(resolve => {
+      const first = !extraWaiting[letter];
+      (extraWaiting[letter] = extraWaiting[letter] || []).push(resolve);
+      if(!first) return;
+      const s = document.createElement('script');
+      s.src = `extra/${letter}.js`;
+      s.onerror = () => window.VOCAB_EXTRA_STORE(letter, {});
+      document.head.appendChild(s);
+    });
+  }
+  const extraEntry = w => (extraFiles[letterOf(w)] || {})[norm(w)] || null;
 
   // Distinct meanings of a word: entries with the same part of speech, explanation and translation are merged.
   // Topics 0001–0006 of Part 2 may keep the Uzbek translation in `def` without `tr`.
   function meanings(w){
     const out = [], seen = {};
-    (index[String(w).trim().toLowerCase()] || []).forEach(e => {
+    (index[norm(w)] || []).forEach(e => {
       const it = e.item, tr = it.tr || it.def, def = it.tr ? it.def : '';
       const key = [it.p, def, tr].join('\u0001');
       if(!seen[key]){ seen[key] = { w: it.w, p: it.p, ipa: it.ipa, tr, def, sources: [] }; out.push(seen[key]); }
@@ -32,18 +61,24 @@
     return out;
   }
 
-  // HTML for a list of synonyms/opposites of `owner` (a word item): words with an entry are clickable.
+  // HTML for a list of synonyms/opposites of `owner` (a word item): words with any entry are clickable.
   function list(words, owner){
-    return (words || []).map(w => has(w)
-      ? `<button type="button" class="wi-link" data-w="${esc(w)}" data-of="${esc(owner.w)}" data-ofp="${esc(owner.p || '')}" title="Show translation and explanation">${esc(w)}</button>`
-      : esc(w)).join(', ');
+    return (words || []).map(w => {
+      const cls = has(w) ? 'wi-link' : hasExtra(w) ? 'wi-link wi-extra' : '';
+      return cls
+        ? `<button type="button" class="${cls}" data-w="${esc(w)}" data-of="${esc(owner.w)}" data-ofp="${esc(owner.p || '')}" title="Show translation, explanation and examples">${esc(w)}</button>`
+        : esc(w);
+    }).join(', ');
   }
 
   // ----- Styles (uses the pages' theme variables) -----
   const style = document.createElement('style');
   style.textContent = `
+  :root, [data-theme="dark"]{ --wi-green: #6CC08B; }
+  [data-theme="light"]{ --wi-green: #2F7D4F; }
   .wi-link{ font:inherit; color:inherit; background:none; border:0; padding:0; margin:0; cursor:pointer;
     text-decoration: underline dotted; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  .wi-link.wi-extra{ color:var(--wi-green); }
   .wi-link:hover, .wi-link:focus-visible{ color:var(--accent); }
   .wi-link:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; border-radius:2px; }
   .wi-backdrop{ position:fixed; inset:0; z-index:120; background:rgba(0,0,0,.45);
@@ -66,6 +101,7 @@
   .wi-word + .wi-word{ border-top:1px dashed var(--line); }
   .wi-word.wi-current{ background:color-mix(in srgb, var(--accent-dim) 45%, transparent); border-left-color:var(--accent); }
   .wi-w{ font-family:'Space Grotesk',sans-serif; font-size:17px; font-weight:600; }
+  .wi-word.wi-xword .wi-w{ color:var(--wi-green); }
   .wi-m{ margin-top:6px; }
   .wi-m + .wi-m{ margin-top:10px; }
   .wi-mtop{ display:flex; align-items:baseline; gap:8px; flex-wrap:wrap; }
@@ -79,8 +115,9 @@
   .wi-src{ font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--muted); margin-top:4px; }
   .wi-src a{ color:var(--muted); }
   .wi-src a:hover{ color:var(--accent); }
-  .wi-none{ font-size:13px; color:var(--muted); margin-top:14px; }
-  /* Example sentences by level group: A (A1, A2), B (B1, B2), C (C1, C2) */
+  .wi-none, .wi-loading{ font-size:13px; color:var(--muted); margin-top:14px; }
+  .wi-loading{ margin-top:6px; font-style:italic; }
+  /* Example sentences by level group: A (A1, A2), B (B1, B2), C (C1, C2), each with its Uzbek translation */
   .wi-exs{ margin-top:8px; }
   .wi-exg{ display:flex; gap:8px; }
   .wi-exg + .wi-exg{ margin-top:8px; }
@@ -88,10 +125,13 @@
     font-family:'JetBrains Mono',monospace; font-size:11px; font-weight:500; color:var(--bg); background:var(--accent); }
   .wi-exl{ flex:1; min-width:0; }
   .wi-ex{ font-size:14px; color:var(--muted); font-style:italic; }
-  .wi-ex + .wi-ex{ margin-top:3px; }
+  .wi-ex + .wi-ex, .wi-exuz + .wi-ex{ margin-top:4px; }
   .wi-ex .wi-lv{ font-family:'JetBrains Mono',monospace; font-style:normal; font-size:10.5px; color:var(--muted);
     border:1px solid var(--line); border-radius:4px; padding:0 4px; margin-right:6px; }
   .wi-ex .t::before{ content:"\\201C"; } .wi-ex .t::after{ content:"\\201D"; }
+  .wi-exuz{ font-size:14px; color:var(--text); margin-top:1px; }
+  .wi-exuz .wi-ul{ font-family:'JetBrains Mono',monospace; font-style:normal; font-size:10.5px; color:var(--accent);
+    border:1px solid var(--accent-dim); border-radius:4px; padding:0 4px; margin-right:6px; }
   @media print{ .wi-backdrop{ display:none !important; } .wi-link{ text-decoration:none; } }`;
   document.head.appendChild(style);
 
@@ -110,19 +150,25 @@
   document.body.appendChild(backdrop);
   const $ = id => backdrop.querySelector('#' + id);
 
-  // Example sentences of a word in its topic, grouped A / B / C (empty if the topic has none).
+  // A / B / C groups of sentences [{lv, en, uz}] (uz may be missing until the translations have loaded).
   const LEVELS = ['A1','A2','B1','B2','C1','C2'];
+  function groupsHTML(rows){
+    const groups = ['A', 'B', 'C'].map(g => {
+      const rs = rows.filter(x => x.lv[0] === g && x.en);
+      return rs.length ? `<div class="wi-exg" data-g="${g}"><span class="wi-g" title="Level ${g}">${g}</span><div class="wi-exl">` +
+        rs.map(x => `<div class="wi-ex"><i class="wi-lv">${x.lv}</i><span class="t">${esc(x.en)}</span></div>` +
+          (x.uz ? `<div class="wi-exuz"><i class="wi-ul">UZ</i>${esc(x.uz)}</div>` : '')).join('') +
+        `</div></div>` : '';
+    }).join('');
+    return groups ? `<div class="wi-exs">${groups}</div>` : '';
+  }
+  // Example sentences of a topic word (and their Uzbek translations from translations/part<P>/<topic>.js).
   function examplesHTML(src){
     const all = src.part === '1' ? window.VOCAB_EXAMPLES_PART1 : window.VOCAB_EXAMPLES;
     const set = ((all || {})[src.topicKey] || {})[src.item.w];
     if(!set) return '';
-    const groups = ['A', 'B', 'C'].map(g => {
-      const rows = LEVELS.map((lv, i) => ({ lv, en: set[i] })).filter(x => x.lv[0] === g && x.en);
-      return rows.length ? `<div class="wi-exg" data-g="${g}"><span class="wi-g" title="Level ${g}">${g}</span><div class="wi-exl">` +
-        rows.map(x => `<div class="wi-ex"><i class="wi-lv">${x.lv}</i><span class="t">${esc(x.en)}</span></div>`).join('') +
-        `</div></div>` : '';
-    }).join('');
-    return groups ? `<div class="wi-exs">${groups}</div>` : '';
+    const tr = window.getTopicTranslations ? (window.getTopicTranslations(src.part, src.topicKey) || {}) : {};
+    return groupsHTML(LEVELS.map((lv, i) => ({ lv, en: set[i], uz: (tr[lv] || {})[src.item.w] })));
   }
 
   function wordHTML(w, current){
@@ -142,19 +188,47 @@
       }).join('')}
     </div>`;
   }
+  // A word from the synonym dictionary (not in a topic): shown in green.
+  function extraHTML(w, current){
+    const e = extraEntry(w);
+    return `<div class="wi-word wi-xword${current ? ' wi-current' : ''}" data-w="${esc(w)}">
+      <div class="wi-w">${esc(w)}</div>
+      ${e ? `<div class="wi-m">
+          <div class="wi-mtop"><span class="wi-pos">${esc(e.p)}</span><span class="wi-ipa">${esc(e.ipa || '')}</span></div>
+          <div class="wi-row"><span class="wi-lbl">UZ</span><span class="wi-tr">${esc(e.tr)}</span></div>
+          <div class="wi-row"><span class="wi-lbl">EN</span><span class="wi-def">${esc(e.def)}</span></div>
+          ${groupsHTML(LEVELS.map((lv, i) => ({ lv, en: (e.lv || [])[i], uz: (e.uz || [])[i] })))}
+          <div class="wi-src">Synonym dictionary · not in a topic</div>
+        </div>` : `<div class="wi-loading">Loading…</div>`}
+    </div>`;
+  }
 
-  let opener = null;
-  function open(word, ofW, ofP){
+  let opener = null, shown = null;   // shown = { word, ofW, ofP } of the open popup
+  function render(){
+    const { word, ofW, ofP } = shown;
     const rel = window.adjRelated ? window.adjRelated({ w: ofW, p: ofP }) : null;
-    const syn = rel ? rel.syn.filter(has) : (has(word) ? [word] : []);
-    const ant = rel ? rel.ant.filter(has) : [];
-    const missing = rel ? rel.syn.concat(rel.ant).filter(w => !has(w)) : [];
-    const cur = String(word).toLowerCase();
+    const known = w => has(w) || hasExtra(w);
+    const syn = rel ? rel.syn.filter(known) : (known(word) ? [word] : []);
+    const ant = rel ? rel.ant.filter(known) : [];
+    const missing = rel ? rel.syn.concat(rel.ant).filter(w => !known(w)) : [];
+    const cur = norm(word);
+    const one = w => has(w) ? wordHTML(w, norm(w) === cur) : extraHTML(w, norm(w) === cur);
     $('wi-title').textContent = ofW;
     $('wi-body').innerHTML =
-      (syn.length ? `<div class="wi-sec">Synonyms</div>` + syn.map(w => wordHTML(w, w.toLowerCase() === cur)).join('') : '') +
-      (ant.length ? `<div class="wi-sec">Opposites</div>` + ant.map(w => wordHTML(w, w.toLowerCase() === cur)).join('') : '') +
+      (syn.length ? `<div class="wi-sec">Synonyms</div>` + syn.map(one).join('') : '') +
+      (ant.length ? `<div class="wi-sec">Opposites</div>` + ant.map(one).join('') : '') +
       (missing.length ? `<div class="wi-none">Not in Part 1 or Part 2 yet: ${missing.map(esc).join(', ')}</div>` : '');
+    return syn.concat(ant);
+  }
+  // Redraw when translations or dictionary entries arrive, keeping the popup's scroll position.
+  function rerender(key){
+    if(!shown || shown.key !== key || !backdrop.classList.contains('open')) return;
+    const body = $('wi-body'), top = body.scrollTop;
+    render(); body.scrollTop = top;
+  }
+  function open(word, ofW, ofP){
+    shown = { word, ofW, ofP, key: {} };
+    const words = render();
     if(!backdrop.classList.contains('open')){
       opener = document.activeElement;
       backdrop.classList.add('open');
@@ -163,9 +237,22 @@
     const c = $('wi-body').querySelector('.wi-current');
     if(c && c.scrollIntoView) c.scrollIntoView({ block: 'nearest' });
     $('wi-close').focus();
+    // load what is still missing: Uzbek translations of topic words' sentences, dictionary entries of the others
+    const key = shown.key, jobs = [];
+    words.forEach(w => {
+      if(has(w)) meanings(w).forEach(m => {
+        const s = m.sources[0];
+        if(window.loadTopicTranslations && window.getTopicTranslations && !window.getTopicTranslations(s.part, s.topicKey))
+          jobs.push(window.loadTopicTranslations(s.part, s.topicKey));
+      });
+      else if(!extraEntry(w)) jobs.push(loadExtra(letterOf(w)));
+    });
+    jobs.forEach(j => j.then(() => rerender(key)));
+    return Promise.all(jobs);
   }
   function close(){
     backdrop.classList.remove('open');
+    shown = null;
     if(opener && opener.focus && document.contains(opener)) opener.focus();
   }
 
@@ -182,5 +269,5 @@
     if(e.key === 'Escape' && backdrop.classList.contains('open')){ e.stopPropagation(); close(); }
   }, true);
 
-  window.VocabInfo = { has, meanings, list, open, close };
+  window.VocabInfo = { has, hasExtra, meanings, list, open, close, loadExtra, extraEntry };
 })();

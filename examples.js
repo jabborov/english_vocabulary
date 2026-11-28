@@ -19521,5 +19521,5905 @@ window.VOCAB_EXAMPLES = {
       "A building's location and direction affect how much sun it receives.",
       "Smart decisions about location and orientation can reduce cooling needs before any machine is installed."
     ]
+  },
+  "0081": {
+    "surrounding": [
+      "Look at the surrounding sky.",
+      "The surrounding fields are green.",
+      "Fog covered the surrounding countryside.",
+      "Low clouds hid the surrounding mountains from view.",
+      "Clouds reflect sunlight and help cool the surrounding air.",
+      "The way a cloud forms depends on the temperature and humidity of the surrounding atmosphere."
+    ],
+    "appreciation": [
+      "I have an appreciation of art.",
+      "She has a love and appreciation of nature.",
+      "Members share their appreciation of clouds online.",
+      "His appreciation of the sky grew after he joined the club.",
+      "An appreciation of clouds can make an ordinary day feel special.",
+      "Cultivating an appreciation of everyday things, such as clouds, may improve our mental well-being."
+    ],
+    "dread": [
+      "I dread rain.",
+      "She dreads the winter.",
+      "Some people dread dark clouds.",
+      "He dreaded the storm that the clouds were bringing.",
+      "Instead of dreading cloudy weather, we could learn to enjoy it.",
+      "The society hopes to replace our dread of overcast skies with curiosity and delight."
+    ],
+    "wispy": [
+      "I see wispy clouds.",
+      "Her hair is wispy.",
+      "There were wispy clouds high in the sky.",
+      "Wispy clouds often appear before a change in the weather.",
+      "Those wispy streaks are made of tiny ice crystals blown by strong winds.",
+      "Long, wispy clouds stretching across a blue sky are sometimes called 'mares' tails'."
+    ],
+    "classify": [
+      "We classify the clouds.",
+      "Can you classify these birds?",
+      "Scientists classify clouds by their shape.",
+      "Clouds are classified according to their height and appearance.",
+      "Howard classified clouds using Latin names that are still used today.",
+      "Before anyone tried to classify them, clouds were thought to be too changeable to be studied scientifically."
+    ],
+    "genera": [
+      "There are ten genera.",
+      "Cumulus is one of the genera.",
+      "Each of the cloud genera has a Latin name.",
+      "The cloud genera are grouped by how high they form.",
+      "Meteorologists recognize ten genera of clouds, which are divided further into species.",
+      "The system of genera and species borrowed from biology gave cloud science a clear structure."
+    ],
+    "formation": [
+      "Look at that formation!",
+      "Clouds have many formations.",
+      "Cloud formation happens when warm air rises.",
+      "The formation of rain clouds can take only a few hours.",
+      "Rare cloud formations attract photographers from around the world.",
+      "Understanding cloud formation is essential for predicting rainfall and modelling climate change."
+    ],
+    "meteorologist": [
+      "She is a meteorologist.",
+      "The meteorologist said it will rain.",
+      "Meteorologists study clouds and wind.",
+      "A meteorologist uses satellites to track storms.",
+      "Meteorologists warned that the dark clouds would bring heavy thunderstorms.",
+      "Modern meteorologists rely on computer models, yet they still use the cloud names Howard proposed in 1802."
+    ],
+    "living": [
+      "What do you do for a living?",
+      "He sells bread for a living.",
+      "She takes photos of clouds for a living.",
+      "It's hard to earn a living as a weather photographer.",
+      "Howard made his living as a pharmacist and studied the sky in his spare time.",
+      "Few people can make a living from their hobbies, but some cloud enthusiasts have turned their passion into a career."
+    ],
+    "amateur": [
+      "He is an amateur.",
+      "She is an amateur painter.",
+      "Many amateurs photograph clouds.",
+      "Amateur weather watchers send their reports to scientists.",
+      "Some of the greatest discoveries in science were made by amateurs.",
+      "Howard's work shows that an amateur with patience and careful observation can change an entire scientific field."
+    ],
+    "pharmacist": [
+      "My aunt is a pharmacist.",
+      "Ask the pharmacist for help.",
+      "The pharmacist gave me some medicine.",
+      "A pharmacist must study chemistry for many years.",
+      "By day he was a pharmacist, but in his free time he watched the sky.",
+      "Being a pharmacist trained Howard in careful classification, a skill he later applied to clouds."
+    ],
+    "profession": [
+      "What is your profession?",
+      "Teaching is a good profession.",
+      "Howard was a pharmacist by profession, not a scientist.",
+      "She chose a profession that lets her work outdoors.",
+      "Weather forecasting became a recognized profession only in the 19th century.",
+      "Although clouds were not his profession, Howard's passion for them earned him lasting fame."
+    ],
+    "cumulus": [
+      "That is cumulus.",
+      "Cumulus is white and fluffy.",
+      "We saw cumulus on a sunny afternoon.",
+      "Cumulus usually forms on warm summer days.",
+      "When cumulus grows very tall, it can turn into a storm cloud.",
+      "The word 'cumulus', meaning a heap, perfectly describes these piled-up clouds."
+    ],
+    "stratus": [
+      "Stratus is grey.",
+      "Stratus covers the sky.",
+      "Stratus often brings light drizzle.",
+      "Stratus is low and looks like fog in the sky.",
+      "On days of thick stratus, you can hardly see the sun at all.",
+      "Stratus forms when a wide layer of moist air cools slowly, spreading grey cloud across the sky."
+    ],
+    "interestingly": [
+      "Interestingly, it didn't rain.",
+      "Interestingly, cats like clouds too.",
+      "Interestingly, clouds can weigh a lot.",
+      "Interestingly, the Latin names are still used today.",
+      "Interestingly, an average cumulus cloud weighs about as much as 100 elephants.",
+      "Interestingly, Howard's classification was admired as much by poets and painters as by scientists."
+    ],
+    "for good": [
+      "He left for good.",
+      "The rain stopped for good.",
+      "She moved to the countryside for good.",
+      "Once the sun came out, the clouds were gone for good.",
+      "After that summer, he gave up his job and turned to studying the weather for good.",
+      "Howard's lecture of 1802 changed the way people describe the sky for good."
+    ],
+    "cumulus cloud": [
+      "I like cumulus clouds.",
+      "Cumulus clouds are big and white.",
+      "Children often draw cumulus clouds.",
+      "Cumulus clouds usually mean the weather will be fine.",
+      "On hot afternoons, cumulus clouds can grow quickly and bring sudden showers.",
+      "The flat bases of cumulus clouds mark the height at which rising air cools enough for water vapour to condense."
+    ],
+    "puffy": [
+      "The clouds are puffy.",
+      "I see a puffy white cloud.",
+      "Puffy clouds floated over the hills.",
+      "Puffy cumulus clouds are a sign of good weather.",
+      "Children love lying on the grass and finding shapes in puffy clouds.",
+      "Those puffy clouds may look light, but each one holds hundreds of tonnes of water."
+    ],
+    "cotton wool": [
+      "This is cotton wool.",
+      "Clean it with cotton wool.",
+      "The clouds look like cotton wool.",
+      "She used cotton wool to clean the cut on his knee.",
+      "From the plane window, the clouds below looked like a sea of cotton wool.",
+      "The comparison with cotton wool captures the soft, heaped appearance of fair-weather clouds."
+    ],
+    "cotton": [
+      "My shirt is cotton.",
+      "Cotton is soft.",
+      "These clouds look like cotton.",
+      "Uzbekistan is famous for growing cotton.",
+      "Light cotton clothes are best for watching clouds on a hot day.",
+      "Like freshly picked cotton, the clouds were piled up in white, soft heaps across the sky."
+    ],
+    "stratus cloud": [
+      "It's a stratus cloud.",
+      "Stratus clouds are flat.",
+      "Stratus clouds make the day look grey.",
+      "Stratus clouds are the lowest of all cloud types.",
+      "When a stratus cloud touches the ground, we call it fog.",
+      "Stratus clouds rarely produce heavy rain, but they can keep a region grey and gloomy for days."
+    ],
+    "cirrus cloud": [
+      "Look at that cirrus cloud.",
+      "Cirrus clouds are very high.",
+      "Cirrus clouds are thin and white.",
+      "Cirrus clouds are made of tiny pieces of ice.",
+      "Cirrus clouds often warn us that a change in the weather is on its way.",
+      "Because cirrus clouds form so high up, they catch the colours of the sunset long after the ground is dark."
+    ],
+    "high up": [
+      "The bird is high up.",
+      "The plane is high up.",
+      "The clouds are very high up today.",
+      "It is very cold high up in the atmosphere.",
+      "High up, where the air is freezing, clouds are made of ice rather than water.",
+      "From high up on the mountain, they could look down on a layer of stratus clouds."
+    ],
+    "horizon": [
+      "Look at the horizon.",
+      "The sun is on the horizon.",
+      "We saw clouds on the horizon.",
+      "A ship appeared on the horizon.",
+      "Clouds near the horizon often turn orange and pink at sunset.",
+      "Watching cirrus clouds spreading from the horizon, sailors knew that a storm might arrive within a day."
+    ],
+    "approach": [
+      "The storm is approaching.",
+      "Winter is approaching.",
+      "We saw dark clouds approaching.",
+      "The approach of rain was clear from the sky.",
+      "As the warm front approaches, the cloud base gets lower and lower.",
+      "Experienced observers can read the approach of bad weather from the sequence of clouds overhead."
+    ],
+    "near": [
+      "The rain is near.",
+      "The storm came near.",
+      "When thunder is loud, the storm is near.",
+      "Low grey clouds tell us that rain is near.",
+      "Farmers once looked at the clouds to know whether rain was near.",
+      "With the wind rising and the clouds darkening, everyone could sense that the storm was near."
+    ],
+    "bless": [
+      "Bless you!",
+      "God bless you.",
+      "The priest blessed the farmers.",
+      "We were blessed with a sunny day.",
+      "The village prayed that heaven would bless them with rain.",
+      "For farmers in dry lands, a cloudy sky is a blessing, and many old songs ask the heavens to bless the crops."
+    ]
+  },
+  "0082": {
+    "tribal": [
+      "This is tribal land.",
+      "They wear tribal clothes.",
+      "Tribal leaders met the officials.",
+      "Tribal communities depend on the forest for food.",
+      "The mining plan threatens the tribal way of life in the hills.",
+      "Tribal rights to ancestral land are now protected by law, at least on paper."
+    ],
+    "protest": [
+      "They protest every day.",
+      "The protest was peaceful.",
+      "People protested outside the office.",
+      "Thousands joined the protest against the mine.",
+      "The tribe protested that the mine would destroy their sacred mountain.",
+      "The protest drew international attention to the conflict between industrial development and indigenous rights."
+    ],
+    "tribe": [
+      "The tribe is small.",
+      "The tribe lives in the hills.",
+      "The tribe has its own language.",
+      "The tribe has lived in the forest for centuries.",
+      "Members of the tribe believe the mountain is the home of their god.",
+      "For the tribe, losing the hills would mean losing their identity as well as their land."
+    ],
+    "industrial": [
+      "It is an industrial town.",
+      "There is industrial waste.",
+      "Industrial machines are very loud.",
+      "India needs metals for its industrial growth.",
+      "Campaigners fear that industrial activity will pollute the rivers.",
+      "The dispute highlights how industrial expansion can come at the expense of traditional communities."
+    ],
+    "indigenous": [
+      "They are indigenous people.",
+      "This plant is indigenous.",
+      "Indigenous groups live in the forest.",
+      "Indigenous people often have a deep link to their land.",
+      "Indigenous communities around the world are fighting mining projects.",
+      "The case became a symbol of the struggle of indigenous peoples to keep control of their ancestral territories."
+    ],
+    "displace": [
+      "Floods displace people.",
+      "The war displaced many families.",
+      "The dam will displace two villages.",
+      "Many tribal families were displaced by the new mine.",
+      "Large industrial projects have displaced millions of people in India.",
+      "Critics argue that the people displaced by development rarely share in the wealth it creates."
+    ],
+    "worship": [
+      "They worship the sun.",
+      "This is a place of worship.",
+      "People go to worship every week.",
+      "The tribe worship Niyam Raja, the god of the mountain.",
+      "For the Dongria Kondh, the hills are not just land but a place of worship.",
+      "Mining the mountain they worship would, in their eyes, be an attack on their god himself."
+    ],
+    "faith": [
+      "She has strong faith.",
+      "Their faith is old.",
+      "The mountain is important in their faith.",
+      "The tribe's faith teaches them to protect nature.",
+      "They have kept their faith despite pressure from the outside world.",
+      "The court recognized that the tribe's faith and their land could not be separated."
+    ],
+    "devoted": [
+      "He is a devoted father.",
+      "She is devoted to her family.",
+      "They are devoted to their god.",
+      "The tribe is deeply devoted to protecting the forest.",
+      "Devoted followers travel to the hilltop every year for a festival.",
+      "Their devoted care for the land has kept the forests of Niyamgiri green for generations."
+    ],
+    "divine": [
+      "It is a divine place.",
+      "They pray for divine help.",
+      "They believe the river is divine.",
+      "The mountain is seen as a divine protector of the tribe.",
+      "In their eyes, digging up the hills would anger a divine power.",
+      "For the tribe, the divine and the natural world are one, so harming the forest is a sin."
+    ],
+    "demonstrator": [
+      "The demonstrators are angry.",
+      "Demonstrators carried signs.",
+      "The police spoke to the demonstrators.",
+      "Demonstrators dressed as characters from the film Avatar.",
+      "Hundreds of demonstrators marched through the village chanting slogans.",
+      "The demonstrators insisted that no amount of compensation could replace their sacred hills."
+    ],
+    "headquarters": [
+      "This is the headquarters.",
+      "The headquarters is in London.",
+      "They protested at the headquarters.",
+      "The mining company has its headquarters in the UK.",
+      "Shareholders met at the headquarters to discuss the mine in India.",
+      "Decisions made at the company's headquarters thousands of miles away could change the lives of a small tribe forever."
+    ],
+    "bauxite": [
+      "Bauxite is a rock.",
+      "They dig for bauxite.",
+      "Bauxite is used to make aluminium.",
+      "The company wants to mine bauxite from the hills.",
+      "India has some of the largest bauxite reserves in the world.",
+      "The bauxite under the sacred mountain is worth billions, which explains why the company fought so hard for it."
+    ],
+    "aluminium": [
+      "This can is aluminium.",
+      "Aluminium is light.",
+      "Planes are made of aluminium.",
+      "The company runs an aluminium plant near the hills.",
+      "Demand for aluminium is growing fast in India and China.",
+      "Aluminium is in almost everything we use, yet few consumers think about the communities affected by its production."
+    ],
+    "ore": [
+      "This is iron ore.",
+      "They dig ore from the ground.",
+      "Trucks carry the ore to the factory.",
+      "The ore is crushed before the metal is taken out.",
+      "Mining ore on such a large scale would destroy the forest.",
+      "The company argued that the ore was vital for jobs, while the tribe said the mountain was worth more than any metal."
+    ],
+    "equipment": [
+      "This is new equipment.",
+      "We need more equipment.",
+      "The mining equipment is very big.",
+      "Heavy equipment was brought to the hills.",
+      "Aluminium is used in everything from kitchen equipment to aircraft.",
+      "Villagers blocked the road so that the mining equipment could not reach the mountain."
+    ],
+    "aircraft": [
+      "The aircraft is big.",
+      "I can see an aircraft.",
+      "Aircraft are made of light metal.",
+      "Most modern aircraft contain a lot of aluminium.",
+      "The aluminium from the mine could end up in cars and aircraft around the world.",
+      "Few passengers on an aircraft stop to think where the metal around them was mined and at what human cost."
+    ],
+    "activist": [
+      "She is an activist.",
+      "The activists made a speech.",
+      "Activists came from many countries.",
+      "Environmental activists say the mine will harm the forest.",
+      "Activists helped the tribe take their case to the Supreme Court.",
+      "Local and international activists worked together, turning a remote hill dispute into a global news story."
+    ],
+    "livelihood": [
+      "Farming is their livelihood.",
+      "The forest is their livelihood.",
+      "The mine could destroy their livelihood.",
+      "Thousands of people depend on the hills for their livelihood.",
+      "Tribal livelihoods are based on growing fruit and collecting plants from the forest.",
+      "Losing the forest would not only end their livelihood but also break the link with their ancestors."
+    ],
+    "tribal chief": [
+      "He is the tribal chief.",
+      "The tribal chief is old.",
+      "Everyone listens to the tribal chief.",
+      "The tribal chief led the meeting under a big tree.",
+      "The tribal chief said the mountain would never be sold.",
+      "Speaking for his people, the tribal chief declared that their god lived in the hills and could not be moved."
+    ],
+    "chief": [
+      "He is the chief.",
+      "The chief is wise.",
+      "The chief spoke for the village.",
+      "The chief's main worry is the future of the forest.",
+      "The village chiefs were asked to vote on the mining plan.",
+      "The chief reason the project failed was the united opposition of the local people."
+    ],
+    "existence": [
+      "We need water for our existence.",
+      "They have a simple existence.",
+      "The forest is vital to their existence.",
+      "The tribe's existence depends on the mountain.",
+      "Campaigners say the project is a threat to the tribe's existence.",
+      "Without the hills, the tribe's whole existence, from their food to their faith, would be in danger."
+    ],
+    "lifeline": [
+      "The river is a lifeline.",
+      "The road is our lifeline.",
+      "The forest is a lifeline for the tribe.",
+      "The hills are a lifeline, giving food, water and medicine.",
+      "For remote villages, the mountain streams are a vital lifeline.",
+      "Campaigners argue that the forest is not a resource to be exploited but a lifeline for thousands of people."
+    ],
+    "devotion": [
+      "She shows devotion to her family.",
+      "His devotion is strong.",
+      "They sing songs of devotion.",
+      "Their devotion to the hills has lasted for centuries.",
+      "The tribe's religious devotion gave them strength during the long campaign.",
+      "Outsiders were struck by the depth of the villagers' devotion to a mountain they consider their god."
+    ],
+    "feed on": [
+      "Cows feed on grass.",
+      "Birds feed on seeds.",
+      "Many animals feed on forest plants.",
+      "The villagers feed on the fruit they grow in the hills.",
+      "Wild animals in the forest feed on plants that would disappear with mining.",
+      "The tribe say that the mountain feeds them, and that they feed on what it gives without destroying it."
+    ],
+    "believe in": [
+      "I believe in God.",
+      "Do you believe in ghosts?",
+      "They believe in the spirit of the mountain.",
+      "The villagers believe in protecting nature for their children.",
+      "The Dongria Kondh believe in a god called Niyam Raja who rules the hills.",
+      "Because they believe in the sacred nature of the land, no amount of money could persuade them to leave."
+    ],
+    "understandably": [
+      "Understandably, she was upset.",
+      "He was understandably tired.",
+      "The tribe were understandably worried.",
+      "Understandably, the company wanted to make a profit from the bauxite.",
+      "Understandably, people who had lived there for centuries refused to move.",
+      "Understandably, the court's decision was celebrated in the hills but met with disappointment by investors."
+    ],
+    "on the whole": [
+      "On the whole, it was good.",
+      "On the whole, I agree.",
+      "On the whole, the protest was peaceful.",
+      "On the whole, people in the village support the tribe.",
+      "On the whole, the court ruling was seen as a victory for indigenous rights.",
+      "On the whole, the case suggests that local communities can win against powerful companies, though such victories remain rare."
+    ],
+    "equal": [
+      "We are all equal.",
+      "Cut it into equal parts.",
+      "Tribal people want equal rights.",
+      "Everyone should have an equal voice in the decision.",
+      "The court ruled that tribal people are equal citizens with a right to decide.",
+      "The case tested whether a small tribe could be treated as equal to a powerful multinational company before the law."
+    ],
+    "approval": [
+      "We need approval.",
+      "She got her parents' approval.",
+      "The plan needs official approval.",
+      "The mine was waiting for approval from the ministry.",
+      "The government refused to give its approval to the mining project.",
+      "Without the approval of the village councils, the project could not legally go ahead."
+    ],
+    "seal of approval": [
+      "It has a seal of approval.",
+      "The plan got a seal of approval.",
+      "The company wanted a seal of approval.",
+      "The mine needed the government's seal of approval.",
+      "An official seal of approval would have allowed mining to begin.",
+      "The court made clear that no seal of approval could be given without the consent of the people living on the land."
+    ],
+    "seal": [
+      "This is a seal.",
+      "The letter has a seal.",
+      "The paper had a red seal.",
+      "Every official document carries the state seal.",
+      "The agreement was not valid without the ministry's seal.",
+      "In the past, a wax seal on a letter proved that it came from the king himself."
+    ],
+    "officially": [
+      "It is officially open.",
+      "The plan was officially stopped.",
+      "The tribe was officially asked for its view.",
+      "The project was officially cancelled in 2014.",
+      "The village councils officially voted against the mine.",
+      "Although the mine has been officially rejected, activists warn that companies may try again in the future."
+    ],
+    "institution": [
+      "It is a big institution.",
+      "A bank is an institution.",
+      "Several institutions looked at the case.",
+      "Some large institutions stopped investing in the company.",
+      "Public institutions must respect the rights of tribal people.",
+      "When major financial institutions pulled their money out, the company came under even greater pressure."
+    ],
+    "regulatory agency": [
+      "It is a regulatory agency.",
+      "The regulatory agency said no.",
+      "A regulatory agency checks the factories.",
+      "The regulatory agency found problems with the mine.",
+      "The environmental regulatory agency refused to approve the project.",
+      "Critics say a strong, independent regulatory agency is essential to protect communities from powerful industries."
+    ],
+    "regulatory": [
+      "It is a regulatory body.",
+      "There are regulatory rules.",
+      "The company faced regulatory problems.",
+      "Regulatory officials visited the hills to inspect the site.",
+      "The project was stopped after a long regulatory process.",
+      "Weak regulatory controls in some countries allow companies to ignore the rights of local people."
+    ],
+    "have a look": [
+      "Have a look at this.",
+      "Can I have a look?",
+      "Let's have a look at the map.",
+      "The judges wanted to have a look at the evidence.",
+      "Experts were sent to have a look at the impact on the forest.",
+      "Before deciding, the regulators decided to have a close look at how the mine would affect the tribe's way of life."
+    ],
+    "verified": [
+      "The news is verified.",
+      "Is this a verified fact?",
+      "The report was verified by experts.",
+      "Only verified information was used in the court case.",
+      "The activists published verified evidence of damage to the forest.",
+      "Verified reports from independent observers showed that the company had begun work without proper permission."
+    ],
+    "legal system": [
+      "The legal system is important.",
+      "Every country has a legal system.",
+      "India's legal system protects tribal rights.",
+      "The tribe took their fight to the country's legal system.",
+      "The case showed that the legal system can protect even the poorest communities.",
+      "Many people had lost faith in the legal system, but the Supreme Court's ruling restored some of their trust."
+    ],
+    "campaigner": [
+      "He is a campaigner.",
+      "The campaigners were happy.",
+      "Campaigners wrote to the government.",
+      "Campaigners have fought the mine for over ten years.",
+      "Human rights campaigners welcomed the decision as a historic victory.",
+      "Campaigners warn that the battle is not over, because the bauxite is still there and demand for aluminium keeps rising."
+    ],
+    "convinced": [
+      "I am convinced.",
+      "She is convinced he is right.",
+      "The tribe is convinced the mountain is sacred.",
+      "The company was convinced it would get permission.",
+      "Campaigners are convinced that the forest can be saved.",
+      "Despite years of pressure, the tribe remained convinced that their survival depended on protecting the hills."
+    ]
+  },
+  "0083": {
+    "lunar": [
+      "Look at the lunar light.",
+      "It was a lunar mission.",
+      "The lunar surface is grey and dusty.",
+      "The lunar module landed safely in 1969.",
+      "Scientists are still studying the lunar samples brought back by Apollo astronauts.",
+      "Renewed interest in lunar exploration has turned the Moon into a stepping stone for missions to Mars."
+    ],
+    "landing": [
+      "The landing was soft.",
+      "We had a smooth landing.",
+      "The plane made a safe landing.",
+      "The first Moon landing took place in July 1969.",
+      "The landing was so risky that a speech had been prepared in case it failed.",
+      "Decades later, the precision of that first landing still impresses engineers who work with far better computers."
+    ],
+    "in all": [
+      "There were ten in all.",
+      "In all, we paid twenty pounds.",
+      "In all, the trip took eight days.",
+      "In all, six Apollo missions landed on the Moon.",
+      "In all, around 400,000 people worked on the Apollo programme.",
+      "In all, the programme cost billions of dollars, a price many still consider worth paying for such an achievement."
+    ],
+    "human race": [
+      "We are the human race.",
+      "The human race is very old.",
+      "The Moon landing was a big day for the human race.",
+      "Space travel could change the future of the human race.",
+      "Some believe the human race will one day live on other planets.",
+      "Seeing the Earth from the Moon reminded the human race how small and fragile its home really is."
+    ],
+    "black and white": [
+      "It is a black and white photo.",
+      "My grandparents had a black and white TV.",
+      "The pictures from the Moon were black and white.",
+      "Old black and white films are still popular with some people.",
+      "The grainy black and white images of the first steps on the Moon became world-famous.",
+      "Despite their poor quality, those flickering black and white broadcasts captured the imagination of an entire generation."
+    ],
+    "achievement": [
+      "It was a big achievement.",
+      "Passing the exam is an achievement.",
+      "Walking on the Moon was an amazing achievement.",
+      "The achievement was the result of years of hard work.",
+      "Many consider the Apollo 11 mission the greatest technological achievement of the twentieth century.",
+      "The achievement was all the more remarkable given the primitive computers available to the engineers at the time."
+    ],
+    "total": [
+      "What is the total?",
+      "The total cost was high.",
+      "The total time on the Moon was about two hours.",
+      "A total of twelve men have walked on the Moon.",
+      "The total audience for the broadcast was the largest in television history at the time.",
+      "When the total cost of the space race is calculated, the figures are staggering even by today's standards."
+    ],
+    "historic": [
+      "It was a historic day.",
+      "This is a historic moment.",
+      "Everyone watched the historic landing.",
+      "The historic mission changed the way we see space.",
+      "The crew's historic journey is remembered every year on its anniversary.",
+      "Few events in the twentieth century were as genuinely historic as the moment a human first stood on another world."
+    ],
+    "pivotal": [
+      "It was a pivotal day.",
+      "She had a pivotal role.",
+      "1969 was a pivotal year for space travel.",
+      "The computer played a pivotal part in the landing.",
+      "Many historians see Apollo 11 as a pivotal event in the Cold War.",
+      "That pivotal moment not only settled the space race but also inspired a generation to pursue careers in science."
+    ],
+    "point up": [
+      "Point up the main idea.",
+      "The test pointed up a problem.",
+      "The mission pointed up the skill of the team.",
+      "His story points up the dangers of space travel.",
+      "The anniversary points up how little we have done in space since 1969.",
+      "The near-disaster of Apollo 13 pointed up just how narrow the margin for error had been on every mission."
+    ],
+    "improbable": [
+      "That is improbable.",
+      "It sounds improbable to me.",
+      "A trip to the Moon seemed improbable in 1950.",
+      "It is improbable that people will live on the Moon soon.",
+      "What had seemed wildly improbable a decade earlier became reality in 1969.",
+      "The improbable success of the mission, achieved with such limited technology, still astonishes historians of science."
+    ],
+    "stick in": [
+      "That day sticks in my mind.",
+      "Her words stuck in my head.",
+      "The black and white pictures stuck in his memory.",
+      "Some moments stick in your mind for the rest of your life.",
+      "What sticks in my mind most is how quiet everyone was during the landing.",
+      "Of all the images from that night, it is Armstrong's slow descent down the ladder that has stuck in people's minds."
+    ],
+    "science fiction": [
+      "I like science fiction.",
+      "He reads science fiction books.",
+      "Space travel used to be science fiction.",
+      "Many science fiction stories describe journeys to the Moon.",
+      "The Moon landing turned what had been science fiction into science fact.",
+      "Writers of science fiction often predicted space travel long before engineers had the means to make it possible."
+    ],
+    "imagined": [
+      "I imagined the Moon.",
+      "She imagined a trip into space.",
+      "Nobody imagined it would happen so soon.",
+      "People once imagined that the Moon was made of cheese.",
+      "The real Moon looked very different from the one writers had imagined.",
+      "For centuries humans had imagined lunar journeys, but few dared to believe they would witness one in their lifetime."
+    ],
+    "specially": [
+      "I made it specially for you.",
+      "This food is specially made.",
+      "The rocket was specially built for the mission.",
+      "Some families bought a TV specially to watch the landing.",
+      "The astronauts ate food that had been specially prepared for space travel.",
+      "Every component of the lunar module had to be specially engineered to survive the extreme conditions on the Moon."
+    ],
+    "spacecraft": [
+      "Look at the spacecraft.",
+      "The spacecraft is very big.",
+      "The spacecraft took four days to reach the Moon.",
+      "Only two of the crew left the spacecraft to walk on the Moon.",
+      "The spacecraft had less computing power than a modern mobile phone.",
+      "Bringing the spacecraft safely back through the Earth's atmosphere was one of the most dangerous parts of the mission."
+    ],
+    "witness": [
+      "I witnessed it.",
+      "She witnessed the launch.",
+      "We witnessed something amazing that night.",
+      "My father witnessed the first steps on the Moon.",
+      "People who witnessed the landing still remember exactly where they were.",
+      "To have witnessed such a moment, even on a flickering screen, was to feel part of a shared human story."
+    ],
+    "step on": [
+      "Don't step on the grass.",
+      "He stepped on my foot.",
+      "Who was the first man to step on the Moon?",
+      "Only twelve people have ever stepped on the Moon.",
+      "When Armstrong stepped on the lunar surface, he spoke his famous words.",
+      "No one has stepped on the Moon since 1972, although several countries now plan to send astronauts back."
+    ],
+    "somehow": [
+      "We will do it somehow.",
+      "Somehow I lost my ticket.",
+      "Somehow the pictures reached Earth from the Moon.",
+      "Somehow they managed to land with very little fuel left.",
+      "Somehow, seeing the Earth from so far away made everyone feel closer together.",
+      "Somehow the engineers solved each crisis in time, often with nothing more than pencils, slide rules and determination."
+    ],
+    "all together": [
+      "Let's sing all together.",
+      "We ate dinner all together.",
+      "The neighbours watched the landing all together.",
+      "The whole class sat all together in front of one TV.",
+      "Families gathered all together late at night to see the first steps on the Moon.",
+      "It was a rare moment when people across the world seemed to be watching, hoping and holding their breath all together."
+    ],
+    "not surprised": [
+      "I'm not surprised.",
+      "She was not surprised at all.",
+      "I'm not surprised you remember that day.",
+      "He was not surprised that the mission was a success.",
+      "I'm not surprised so many people stayed up all night to watch it.",
+      "Given how much the programme cost, I'm not surprised that some people questioned whether it was worth it."
+    ],
+    "for anything": [
+      "I won't go for anything.",
+      "I wouldn't miss it for anything.",
+      "She wouldn't change that night for anything.",
+      "I wouldn't swap those memories for anything in the world.",
+      "My grandfather says he wouldn't have missed watching the landing for anything.",
+      "Even though they had to stay up until dawn, the children wouldn't have gone to bed early that night for anything."
+    ],
+    "neither": [
+      "Neither is right.",
+      "I can't swim, and neither can he.",
+      "Neither of my parents saw the landing live.",
+      "Neither astronaut had been to the Moon before.",
+      "Neither the engineers nor the astronauts were sure the landing would succeed.",
+      "Neither the poor picture quality nor the late hour could stop people from staying glued to their screens."
+    ],
+    "live with": [
+      "I can live with that.",
+      "We have to live with the noise.",
+      "He had to live with the risk every day.",
+      "The astronauts learned to live with the danger of their job.",
+      "It's a memory I've lived with for over fifty years.",
+      "Mission control had to live with the knowledge that a single mistake could leave the astronauts stranded on the Moon."
+    ],
+    "breath": [
+      "Take a deep breath.",
+      "I was out of breath.",
+      "We held our breath during the landing.",
+      "The view of the Earth from the Moon took my breath away.",
+      "Millions of viewers held their breath as the lunar module touched down.",
+      "Mission control waited with bated breath for the signal confirming that the crew had landed safely."
+    ]
+  },
+  "0084": {
+    "work out": [
+      "Can you work it out?",
+      "I can't work out the answer.",
+      "We worked out the cheapest way to travel.",
+      "Staying with a stranger worked out better than I expected.",
+      "It took me a while to work out how the couch surfing website works.",
+      "If you're flexible and respectful, couch surfing usually works out well for both the guest and the host."
+    ],
+    "sporting": [
+      "He likes sporting events.",
+      "The city has many sporting clubs.",
+      "We stayed with a host during a big sporting event.",
+      "It was very sporting of her to let us stay for free.",
+      "During major sporting events, hotels are expensive, so couch surfing becomes popular.",
+      "Offering your sofa to a stranger is a sporting gesture that reflects a genuine trust in other people."
+    ],
+    "assume": [
+      "I assume you are tired.",
+      "I assumed it was free.",
+      "Many people assume couch surfing is dangerous.",
+      "I assumed my host would speak English, but she didn't.",
+      "It's wrong to assume that everyone who couch surfs is a poor student.",
+      "Travellers often assume that hospitality must be paid for, yet couch surfing proves that many people offer it freely."
+    ],
+    "hospitality": [
+      "Thank you for your hospitality.",
+      "Their hospitality was wonderful.",
+      "We were amazed by the hospitality of our host.",
+      "Uzbek people are famous for their hospitality.",
+      "Couch surfers often repay their hosts' hospitality by cooking a meal from their own country.",
+      "The whole idea of couch surfing depends on a culture of hospitality in which strangers are welcomed as friends."
+    ],
+    "accommodation": [
+      "We need accommodation.",
+      "The accommodation was cheap.",
+      "Finding accommodation in the city is hard.",
+      "Couch surfing is a free alternative to paid accommodation.",
+      "Many young travellers spend more on accommodation than on anything else.",
+      "Rather than simply providing accommodation, the best hosts introduce their guests to the real life of the city."
+    ],
+    "luxurious": [
+      "It is a luxurious hotel.",
+      "The room was very luxurious.",
+      "Couch surfing is not luxurious, but it's fun.",
+      "I don't need a luxurious room when I travel.",
+      "Some hosts have luxurious flats, while others can only offer a mat on the floor.",
+      "For couch surfers, a genuine welcome matters far more than luxurious surroundings or expensive comforts."
+    ],
+    "destination": [
+      "What is your destination?",
+      "Paris is a popular destination.",
+      "We reached our destination at night.",
+      "Before you travel, look for hosts in your destination.",
+      "Big cities are the most popular destinations for couch surfers.",
+      "Couch surfing can make even a well-known tourist destination feel fresh, because you see it through a local's eyes."
+    ],
+    "database": [
+      "Check the database.",
+      "The database is online.",
+      "My name is in the database.",
+      "You can search the database for hosts in any city.",
+      "The couch surfing database contains profiles of millions of members.",
+      "A large database of reviews helps travellers decide which hosts they can trust before they arrive."
+    ],
+    "willing": [
+      "I am willing to help.",
+      "Are you willing to try?",
+      "She was willing to share her flat.",
+      "You must be willing to sleep on a sofa.",
+      "Hosts are willing to welcome strangers because they enjoy meeting new people.",
+      "Couch surfing only works if both sides are willing to trust each other and respect each other's rules."
+    ],
+    "sleep on": [
+      "I can sleep on the sofa.",
+      "He slept on the floor.",
+      "We slept on a friend's couch in Rome.",
+      "I don't mind sleeping on a sofa if it saves money.",
+      "Some guests sleep on air mattresses, while lucky ones get a spare bedroom.",
+      "Sleeping on a stranger's couch might sound uncomfortable, but many travellers say it's the best way to experience a city."
+    ],
+    "look up": [
+      "Look up the word.",
+      "I looked up the address online.",
+      "Look me up when you come to London.",
+      "You can look up hosts by city on the website.",
+      "I always look up a host's reviews before sending a request.",
+      "Years after staying with them, she looked up her old hosts and found they had become close friends."
+    ],
+    "hopefully": [
+      "Hopefully it will be sunny.",
+      "Hopefully we can meet soon.",
+      "Hopefully my host will reply today.",
+      "Hopefully, couch surfing will help me make new friends.",
+      "Hopefully, the next guest will be as friendly as the last one.",
+      "Hopefully, more people will discover that welcoming strangers can be as rewarding for hosts as it is for travellers."
+    ],
+    "motif": [
+      "I like this motif.",
+      "The cup has a flower motif.",
+      "The sofa had a simple star motif.",
+      "Travel is a common motif in her paintings.",
+      "Friendship between strangers is a recurring motif in stories about couch surfing.",
+      "Don't confuse 'motif', a repeated design or theme, with 'motive', the reason why somebody does something."
+    ],
+    "motive": [
+      "What is your motive?",
+      "He had a good motive.",
+      "My main motive was to meet local people.",
+      "Hosts often have different motives for joining the website.",
+      "Some people question the motives of strangers who offer free accommodation.",
+      "For most members, the real motive is cultural exchange rather than simply finding somewhere cheap to sleep."
+    ],
+    "worldly": [
+      "She is very worldly.",
+      "He seems worldly and wise.",
+      "Travelling made him more worldly.",
+      "My host was a worldly woman who had lived in six countries.",
+      "Meeting people from many cultures is a good way to become more worldly.",
+      "After a year of couch surfing across three continents, she came home far more worldly and open-minded than before."
+    ],
+    "for free": [
+      "You can stay for free.",
+      "I got the ticket for free.",
+      "Our host let us stay for free.",
+      "Couch surfing lets you travel and sleep somewhere for free.",
+      "Hosts offer their sofas for free because they want to meet interesting people.",
+      "Staying somewhere for free does not mean you owe nothing: good guests give their time, conversation and respect in return."
+    ],
+    "volunteer": [
+      "She is a volunteer.",
+      "I want to volunteer.",
+      "He volunteered to show us the city.",
+      "Many hosts are volunteers who simply enjoy helping travellers.",
+      "Our host volunteered to drive us to the station early in the morning.",
+      "In its early years the organization relied almost entirely on volunteers who believed in the idea of free hospitality."
+    ],
+    "visa": [
+      "I need a visa.",
+      "My visa is ready.",
+      "She got a tourist visa for France.",
+      "You may need an invitation from your host to get a visa.",
+      "Getting a visa can take weeks, so plan your couch surfing trip early.",
+      "Couch surfers should remember that staying with a host does not change the visa rules of the country they are visiting."
+    ],
+    "instinctive": [
+      "It was instinctive.",
+      "She made an instinctive choice.",
+      "My instinctive reaction was to say no.",
+      "Many people have an instinctive fear of strangers.",
+      "Experienced couch surfers develop an instinctive sense of which hosts are trustworthy.",
+      "Overcoming our instinctive suspicion of strangers is perhaps the hardest and most valuable part of couch surfing."
+    ],
+    "start off": [
+      "Let's start off now.",
+      "We started off early.",
+      "Start off by making a good profile.",
+      "Our trip started off in Rome and ended in Paris.",
+      "Most people start off as guests and later become hosts themselves.",
+      "What started off as a small website for a few friends has grown into a global community of millions of travellers."
+    ],
+    "surfer": [
+      "He is a surfer.",
+      "The surfer slept on our sofa.",
+      "A young surfer from Spain stayed with us.",
+      "A good surfer always leaves the host's home clean.",
+      "Every surfer writes a review of the host after the visit, and the host does the same.",
+      "A considerate surfer treats the host's home with respect and contributes to the household during the stay."
+    ]
+  },
+  "0085": {
+    "shin": [
+      "My shin hurts.",
+      "He hit his shin on the table.",
+      "The sun burned the skin on my shins.",
+      "Fake tan often looks streaky on the shins and ankles.",
+      "She applied extra lotion to her shins, where the skin is thin and dry.",
+      "Uneven colour on the shins is a classic sign that a fake tan was applied in a hurry."
+    ],
+    "build up": [
+      "Build up slowly.",
+      "The colour builds up over time.",
+      "Don't stay in the sun too long; build up your time slowly.",
+      "Damage from the sun builds up over many years.",
+      "Dermatologists warn that UV damage builds up silently long before any wrinkles appear.",
+      "Because harm to the skin builds up cumulatively, a lifetime of sunbathing may only show its effects decades later."
+    ],
+    "tan": [
+      "I have a tan.",
+      "My skin tans easily.",
+      "He got a nice tan on the beach.",
+      "Some people tan quickly, while others just burn.",
+      "Many people still believe that a tan makes them look healthier and more attractive.",
+      "Doctors stress that there is no such thing as a safe tan, since the colour itself is a sign of skin damage."
+    ],
+    "skin": [
+      "My skin is dry.",
+      "She has very pale skin.",
+      "Too much sun is bad for your skin.",
+      "People with fair skin burn more quickly in the sun.",
+      "Ultraviolet light penetrates the skin and can damage the cells beneath the surface.",
+      "Skin is the body's largest organ, yet many people treat it carelessly in pursuit of a fashionable colour."
+    ],
+    "tanning": [
+      "Tanning is popular.",
+      "She likes tanning in summer.",
+      "Tanning beds can be dangerous.",
+      "The tanning industry makes millions from people wanting darker skin.",
+      "Health campaigns have tried to persuade young people that tanning carries serious risks.",
+      "The history of tanning shows how quickly ideas of beauty can reverse within a single century."
+    ],
+    "unlikely": [
+      "Rain is unlikely today.",
+      "It's unlikely he will come.",
+      "It is unlikely that she got that tan in England.",
+      "A pale Victorian lady was unlikely to sit in the sun.",
+      "It seems unlikely that the fashion for tanned skin will disappear any time soon.",
+      "Given the strength of the beauty industry, it is highly unlikely that health warnings alone will change people's habits."
+    ],
+    "fake": [
+      "It's fake.",
+      "That's a fake tan.",
+      "Fake tan is safer than sunbathing.",
+      "You can usually tell a fake tan by its orange colour.",
+      "Fake tan products have become far more convincing than the streaky lotions of the past.",
+      "For those who still crave a bronzed look, a good fake tan offers the appearance without the cancer risk."
+    ],
+    "lie down": [
+      "Lie down here.",
+      "I want to lie down.",
+      "She lay down on the sand.",
+      "People lie down by the pool and turn over every half hour.",
+      "Rather than lie down in the midday sun, she preferred to read in the shade.",
+      "The habit of lying down motionless for hours under a fierce sun would have baffled people a century earlier."
+    ],
+    "sunbathe": [
+      "I like to sunbathe.",
+      "We sunbathed on the beach.",
+      "Don't sunbathe at midday.",
+      "Many people sunbathe without using enough sunscreen.",
+      "Doctors advise against sunbathing for long periods, particularly for those with fair skin.",
+      "Few Victorians would have dreamt of sunbathing, since a pale complexion was a mark of social standing."
+    ],
+    "desirable": [
+      "It is very desirable.",
+      "A tan was desirable then.",
+      "Pale skin was once desirable for rich women.",
+      "Tanned skin became desirable because it suggested holidays abroad.",
+      "What society considers desirable in appearance changes from one generation to the next.",
+      "Advertisers have long worked to make a bronzed body seem both desirable and a sign of a leisured life."
+    ],
+    "designer": [
+      "She is a designer.",
+      "He wants to be a designer.",
+      "The designer showed her new dresses.",
+      "Coco Chanel was the designer who made a tan look stylish.",
+      "One influential designer can change what millions of people consider beautiful.",
+      "The designer's sun-kissed appearance on the Riviera was copied by fashionable women across Europe."
+    ],
+    "fashionable": [
+      "That hat is fashionable.",
+      "She wears fashionable clothes.",
+      "Pale skin was fashionable in the past.",
+      "It became fashionable to have a tan after a holiday.",
+      "Getting a tan was fashionable because it showed you could afford to travel.",
+      "What was fashionable among the wealthy in one decade often became ordinary, and even unwanted, in the next."
+    ],
+    "regard": [
+      "I regard him as a friend.",
+      "People regard her as beautiful.",
+      "A tan was regarded as a sign of hard work.",
+      "Today many people regard a tan as healthy.",
+      "Doctors regard any change in skin colour from the sun as evidence of damage.",
+      "Whereas Victorians regarded a tan as a mark of manual labour, later generations regarded it as proof of leisure."
+    ],
+    "pale": [
+      "Her skin is pale.",
+      "You look pale today.",
+      "Pale people burn quickly.",
+      "She kept her face pale by staying out of the sun.",
+      "For centuries, a pale complexion was seen as a sign of wealth and refinement.",
+      "Some women went to dangerous lengths to look pale, even using powders that contained lead."
+    ],
+    "upper class": [
+      "They are upper class.",
+      "She came from the upper class.",
+      "The upper class did not work outside.",
+      "Upper class women carried umbrellas to block the sun.",
+      "Among the upper class, a tan once suggested you had to work in the fields.",
+      "Once travel to sunny places became an upper class luxury, the meaning of a tan was turned on its head."
+    ],
+    "upper": [
+      "Go to the upper floor.",
+      "My upper arm is red.",
+      "She came from an upper-class family.",
+      "The upper part of his back was badly sunburnt.",
+      "People from the upper ranks of society carried parasols to stay pale.",
+      "In the upper echelons of Victorian society, sun-darkened skin was something to be hidden at all costs."
+    ],
+    "brim": [
+      "The hat has a big brim.",
+      "Hold the brim of your hat.",
+      "A wide brim gives your face shade.",
+      "Victorian ladies wore bonnets with deep brims to stay pale.",
+      "A broad brim protects not only your face but also your ears and neck.",
+      "The width of a lady's brim was once almost a measure of how seriously she guarded her complexion."
+    ],
+    "parasol": [
+      "She has a parasol.",
+      "Open the parasol, please.",
+      "Ladies walked in the park with parasols.",
+      "A parasol was an important fashion accessory in the 1800s.",
+      "In some Asian countries, people still use a parasol on sunny days to avoid tanning.",
+      "The delicate lace parasol was as much a statement of social status as a practical shield against the sun."
+    ],
+    "sunshade": [
+      "Sit under the sunshade.",
+      "We bought a new sunshade.",
+      "The café put sunshades over the tables.",
+      "A sunshade is useful if you have fair skin.",
+      "Without a sunshade, the children would have burned within an hour.",
+      "Hotels now provide sunshades by every pool, though many guests still choose to lie in full sun."
+    ],
+    "cosmetic": [
+      "I don't use cosmetics.",
+      "She bought some cosmetics.",
+      "This is a cosmetic cream.",
+      "Many cosmetic products now contain sun protection.",
+      "Some people undergo cosmetic treatments to hide the damage caused by years of sunbathing.",
+      "The line between cosmetic and medical products has blurred as moisturisers increasingly promise protection from UV light."
+    ],
+    "in vogue": [
+      "Tans are in vogue.",
+      "This style is in vogue now.",
+      "Pale skin was in vogue long ago.",
+      "Bright colours are in vogue again this summer.",
+      "Natural-looking fake tans are very much in vogue among celebrities.",
+      "What is in vogue today may look absurd in twenty years, as the history of tanning clearly shows."
+    ],
+    "vogue": [
+      "It's the latest vogue.",
+      "That vogue did not last.",
+      "There was a vogue for pale faces.",
+      "The vogue for sunbathing spread quickly across Europe.",
+      "The current vogue for natural beauty has made heavy make-up less popular.",
+      "Each new vogue in appearance tends to reflect deeper changes in how society defines status."
+    ],
+    "lounger": [
+      "Sit on the lounger.",
+      "All the loungers are taken.",
+      "He fell asleep on a lounger.",
+      "Tourists put towels on loungers early in the morning.",
+      "Rows of loungers lined the beach, each occupied by someone trying to get brown.",
+      "The image of a holidaymaker stretched out on a lounger has become a symbol of modern leisure."
+    ],
+    "baste": [
+      "Baste the chicken.",
+      "She basted the meat.",
+      "He basted himself with suntan oil.",
+      "Sunbathers baste their skin and turn over like meat on a grill.",
+      "In the 1970s, people would baste themselves in baby oil to tan faster.",
+      "The image of holidaymakers basting themselves like roasting joints captures how carelessly we once treated our skin."
+    ],
+    "maximum": [
+      "That's the maximum.",
+      "The maximum is ten.",
+      "Use maximum sun protection.",
+      "They oiled their skin to get the maximum tan.",
+      "Sunbathers often turn every half hour to get maximum exposure on each side.",
+      "Chasing maximum colour in minimum time is exactly the behaviour that dermatologists warn against."
+    ],
+    "worshipper": [
+      "He is a sun worshipper.",
+      "The beach is full of sun worshippers.",
+      "Sun worshippers lay on the sand all day.",
+      "My aunt is a real sun worshipper who goes to Spain every year.",
+      "Even keen sun worshippers are now more careful about using sunscreen.",
+      "The term 'sun worshipper' neatly captures the almost religious devotion some people show to getting a tan."
+    ],
+    "grease": [
+      "Grease the pan.",
+      "My hands have grease on them.",
+      "She greased her legs with oil.",
+      "People greased their bodies to tan more quickly.",
+      "Greasing yourself with cooking oil before sunbathing is a recipe for severe burns.",
+      "Older holidaymakers recall greasing themselves up and lying for hours, with no idea of the damage being done."
+    ],
+    "dye": [
+      "This is hair dye.",
+      "She dyed her hair red.",
+      "Fake tan works like a dye.",
+      "The dye in fake tan stays on your skin for about a week.",
+      "The dye reacts with proteins in the skin to produce a brown colour without any sun.",
+      "Because the dye only affects dead surface cells, a fake tan fades naturally as the skin renews itself."
+    ],
+    "foundation": [
+      "I need some foundation.",
+      "Her foundation is too dark.",
+      "She put on foundation and lipstick.",
+      "A bronze foundation can give your face a sun-kissed look.",
+      "Choosing a foundation that matches your neck avoids an obvious line at the jaw.",
+      "Many people now rely on tinted foundation to fake a healthy glow rather than risk real sun exposure."
+    ],
+    "spray up": [
+      "I want to spray up.",
+      "She sprays up every week.",
+      "Many celebrities spray up before events.",
+      "Instead of sunbathing, she decided to spray up at a salon.",
+      "It's far safer to spray up with fake tan than to lie under a sunbed.",
+      "Brides increasingly spray up a few days before the wedding so that the colour looks natural in photographs."
+    ],
+    "spray": [
+      "Spray the plants.",
+      "I use a spray tan.",
+      "She sprayed sunscreen on her arms.",
+      "A spray tan takes about ten minutes to apply.",
+      "Spray tans have become popular because they give an even colour quickly.",
+      "Technicians spray the solution in a fine mist so that it settles evenly across every part of the body."
+    ],
+    "overdo": [
+      "Don't overdo it.",
+      "I overdid the fake tan.",
+      "She overdid the sunbathing and got burnt.",
+      "If you overdo the fake tan, you'll look orange.",
+      "Many holidaymakers overdo it on the first day and spend the rest of the week in pain.",
+      "The temptation to overdo exposure is strongest when people have only a few days of sunshine a year."
+    ],
+    "end up": [
+      "We ended up at home.",
+      "He ended up burnt.",
+      "I ended up with a red nose.",
+      "She used too much fake tan and ended up orange.",
+      "People who sunbathe for years can end up with wrinkled, leathery skin.",
+      "Without proper protection, those chasing the perfect tan may end up paying for it with serious skin disease."
+    ],
+    "fashion designer": [
+      "She is a fashion designer.",
+      "I want to be a fashion designer.",
+      "The fashion designer came back from holiday with a tan.",
+      "A famous fashion designer can start a new trend overnight.",
+      "Coco Chanel, the French fashion designer, is often credited with making a tan fashionable.",
+      "When a celebrated fashion designer appeared bronzed in public, she unintentionally reshaped the beauty ideals of a generation."
+    ],
+    "cruise": [
+      "We went on a cruise.",
+      "The cruise was fun.",
+      "They took a cruise to the Caribbean.",
+      "Passengers on the cruise spent hours lying on deck.",
+      "Coco Chanel reportedly returned from a Mediterranean cruise with a deep tan.",
+      "A sun-darkened complexion after a luxury cruise was proof that one belonged to a privileged, leisured class."
+    ],
+    "step off": [
+      "Step off the bus.",
+      "He stepped off the train.",
+      "Please step off the boat carefully.",
+      "When she stepped off the yacht, everyone noticed her tan.",
+      "Photographers were waiting as the designer stepped off the yacht in Cannes.",
+      "The moment she stepped off the boat, bronzed and relaxed, a new standard of beauty was born."
+    ],
+    "yacht": [
+      "Look at that yacht.",
+      "He has a big yacht.",
+      "They sailed on a yacht.",
+      "Rich people spent weeks on their yachts in the sun.",
+      "Life on a yacht meant long, lazy days in the sunshine and an inevitable tan.",
+      "In the 1920s, a tan acquired on a private yacht signalled wealth as clearly as any jewellery."
+    ],
+    "suntan": [
+      "I have a suntan.",
+      "She wants a suntan.",
+      "Use suntan lotion on the beach.",
+      "His suntan faded a few weeks after the holiday.",
+      "A suntan was once seen as a sign that you worked outdoors in the fields.",
+      "Ironically, the suntan that people see as a sign of health is actually the skin's attempt to defend itself from damage."
+    ],
+    "get by": [
+      "We can get by.",
+      "I get by with little money.",
+      "She gets by without sunbathing.",
+      "You can get by with a hat and some sunscreen.",
+      "Many people get by perfectly well without ever lying in the sun to tan.",
+      "Workers who laboured outdoors in the past had to get by on low wages, which is why their tanned skin carried a social stigma."
+    ]
+  },
+  "0086": {
+    "vaccine": [
+      "I had a vaccine.",
+      "The vaccine is free.",
+      "This vaccine protects against flu.",
+      "Researchers hope a vaccine could one day treat cancer.",
+      "Unlike traditional vaccines, cancer vaccines are designed to treat a disease that is already present.",
+      "A personalised cancer vaccine trains the immune system to recognise the unique mutations in a patient's own tumour."
+    ],
+    "injection": [
+      "I don't like injections.",
+      "The nurse gave me an injection.",
+      "The vaccine is given by injection.",
+      "Patients in the trial received several injections over a few months.",
+      "A simple injection could one day be part of standard cancer treatment.",
+      "Researchers hope that a series of injections will teach the body to hunt down cancer cells wherever they hide."
+    ],
+    "flu": [
+      "I have flu.",
+      "She is in bed with flu.",
+      "Many people get flu in winter.",
+      "A flu vaccine protects you before you get ill.",
+      "Flu vaccines work by preparing the immune system for a virus it has not yet met.",
+      "Whereas a flu jab prevents infection, a cancer vaccine aims to treat disease that has already taken hold."
+    ],
+    "complicated": [
+      "It's complicated.",
+      "This is a complicated job.",
+      "The science is very complicated.",
+      "Treating cancer is complicated because every tumour is different.",
+      "Making a vaccine for each individual patient is a complicated and expensive process.",
+      "Cancer is complicated precisely because the disease arises from the body's own cells, which the immune system tends to ignore."
+    ],
+    "lung cancer": [
+      "He has lung cancer.",
+      "Smoking causes lung cancer.",
+      "Lung cancer is a serious illness.",
+      "Doctors are testing a new vaccine for lung cancer.",
+      "Lung cancer kills more people worldwide than almost any other type of cancer.",
+      "If the trial succeeds, patients with lung cancer could receive a vaccine alongside surgery to stop the disease returning."
+    ],
+    "skin cancer": [
+      "Skin cancer is dangerous.",
+      "Too much sun can cause skin cancer.",
+      "She was treated for skin cancer.",
+      "A vaccine for skin cancer has shown good results in trials.",
+      "Melanoma, the most serious type of skin cancer, has been an early target for vaccine research.",
+      "Early results suggest that combining a vaccine with existing drugs could halve the risk of skin cancer coming back."
+    ],
+    "radiotherapy": [
+      "She needs radiotherapy.",
+      "Radiotherapy can make you tired.",
+      "He had radiotherapy for six weeks.",
+      "Radiotherapy uses strong rays to kill cancer cells.",
+      "Radiotherapy can damage healthy tissue near the tumour as well as the cancer itself.",
+      "If vaccines prove effective, they may eventually reduce the need for radiotherapy and its harsh side effects."
+    ],
+    "chemotherapy": [
+      "He is having chemotherapy.",
+      "Chemotherapy is hard.",
+      "Her hair fell out during chemotherapy.",
+      "Chemotherapy kills cancer cells but also harms healthy ones.",
+      "Scientists hope vaccines could be a gentler alternative to chemotherapy for some patients.",
+      "Because chemotherapy attacks all rapidly dividing cells, its side effects can be almost as debilitating as the disease itself."
+    ],
+    "hopeful": [
+      "I am hopeful.",
+      "She feels hopeful today.",
+      "The results are very hopeful.",
+      "Scientists are hopeful about the new treatment.",
+      "Researchers remain hopeful, although they stress that larger trials are still needed.",
+      "The mood among oncologists is cautiously hopeful, tempered by memories of earlier treatments that failed to live up to expectations."
+    ],
+    "cancer cell": [
+      "This is a cancer cell.",
+      "Cancer cells grow fast.",
+      "The drug kills cancer cells.",
+      "Cancer cells can hide from the immune system.",
+      "Cancer cells carry changes in their DNA that make them different from healthy cells.",
+      "The challenge is to train the body to attack cancer cells without harming the healthy tissue around them."
+    ],
+    "cell": [
+      "Our body has many cells.",
+      "A cell is very small.",
+      "Blood cells carry oxygen.",
+      "Cancer happens when a cell starts dividing too much.",
+      "The immune system contains cells that can recognise and destroy invaders.",
+      "Every cell in the body carries DNA, and tiny errors in that code can turn a healthy cell into a cancerous one."
+    ],
+    "biologist": [
+      "She is a biologist.",
+      "My brother is a biologist.",
+      "The biologist works in a lab.",
+      "A biologist studies how living things work.",
+      "The biologist explained that each tumour has its own pattern of mutations.",
+      "Cancer biologists have spent decades trying to understand why the immune system so often fails to attack tumours."
+    ],
+    "work in": [
+      "I work in a hospital.",
+      "He works in a lab.",
+      "She works in cancer research.",
+      "Many scientists who work in this field are excited by the results.",
+      "People who work in medicine know how slowly new treatments reach patients.",
+      "Those who work in immunology have long dreamt of a vaccine that could turn the body's defences against cancer."
+    ],
+    "encouraging": [
+      "That's encouraging.",
+      "The news is encouraging.",
+      "The first results were encouraging.",
+      "Doctors said the patients' response was encouraging.",
+      "Although the findings are encouraging, it is too early to call the vaccine a cure.",
+      "Encouraging as these early data are, history shows that many promising treatments falter in larger trials."
+    ],
+    "breakthrough": [
+      "It's a breakthrough.",
+      "This is a big breakthrough.",
+      "Scientists made a breakthrough.",
+      "The vaccine could be a breakthrough in cancer treatment.",
+      "The discovery of how to use mRNA was a breakthrough that sped up vaccine development.",
+      "Researchers are careful not to describe every positive result as a breakthrough until it is confirmed in large trials."
+    ],
+    "apparent": [
+      "The problem is apparent.",
+      "It was apparent he was ill.",
+      "The results became apparent quickly.",
+      "It soon became apparent that the vaccine was working.",
+      "The apparent success of the trial has raised hopes among patients.",
+      "Despite the apparent progress, scientists warn that it may take years before the vaccine's true benefits are known."
+    ],
+    "progress": [
+      "We made progress.",
+      "Progress is slow.",
+      "Doctors have made progress against cancer.",
+      "There has been huge progress in vaccine technology.",
+      "Progress in understanding the immune system has opened up new ways to treat cancer.",
+      "Although progress has been steady, turning laboratory success into reliable treatment remains a formidable challenge."
+    ],
+    "tumour": [
+      "He has a tumour.",
+      "The tumour is small.",
+      "Doctors removed the tumour.",
+      "Every tumour has its own genetic changes.",
+      "Scientists take a sample of the tumour to design a personal vaccine.",
+      "Even after a tumour is removed, a few stray cells can survive and cause the cancer to return years later."
+    ],
+    "cancerous": [
+      "Is it cancerous?",
+      "The lump was not cancerous.",
+      "Doctors found cancerous cells.",
+      "The vaccine targets only cancerous cells.",
+      "Tests showed that the growth was cancerous and needed urgent treatment.",
+      "The immune system often fails to attack cancerous cells because they look so similar to the body's own healthy tissue."
+    ],
+    "mutation": [
+      "It's a mutation.",
+      "This mutation is rare.",
+      "A mutation can cause cancer.",
+      "Scientists look for mutations in the tumour's DNA.",
+      "The vaccine is built around the specific mutations found in each patient's cancer.",
+      "Because mutations differ from one tumour to another, a truly effective vaccine may need to be tailored to every individual."
+    ],
+    "sequence": [
+      "They sequence DNA.",
+      "The lab can sequence genes.",
+      "Doctors sequenced the patient's tumour.",
+      "It is now much cheaper to sequence a tumour than it was ten years ago.",
+      "Once they sequence the tumour, researchers can design a vaccine in a matter of weeks.",
+      "The ability to sequence a patient's cancer quickly and cheaply is what makes personalised vaccines realistic."
+    ],
+    "dna": [
+      "DNA is in every cell.",
+      "Scientists study DNA.",
+      "Your DNA comes from your parents.",
+      "Changes in DNA can turn a normal cell into a cancer cell.",
+      "By reading the tumour's DNA, scientists can find targets for the immune system.",
+      "Damage to DNA accumulates over a lifetime, which partly explains why cancer becomes more common as we age."
+    ],
+    "surface": [
+      "The surface is smooth.",
+      "Clean the surface.",
+      "Look at the surface of the cell.",
+      "Cancer cells show unusual proteins on their surface.",
+      "The immune system recognises cells by the markers on their surface.",
+      "By teaching immune cells to spot abnormal proteins on the surface of tumours, the vaccine turns the body into its own doctor."
+    ],
+    "rna": [
+      "RNA is in our cells.",
+      "This vaccine uses RNA.",
+      "RNA helps cells make proteins.",
+      "Covid vaccines showed that RNA technology can work well.",
+      "The RNA in the vaccine tells cells to produce proteins found on the tumour.",
+      "The speed with which RNA vaccines can be redesigned makes them ideal for treatments tailored to individual patients."
+    ],
+    "prim": [
+      "The vaccine primes the body.",
+      "It primes your immune system.",
+      "The injection primes the body to fight.",
+      "The vaccine primes immune cells to spot the tumour.",
+      "Once primed, the immune system can recognise cancer cells if they ever return.",
+      "The goal is to prime the body's defences so thoroughly that any surviving cancer cells are destroyed before they can form a new tumour."
+    ],
+    "prime": [
+      "Prime the body.",
+      "They primed the patients.",
+      "The jab primes your defences.",
+      "Scientists use RNA to prime the immune system.",
+      "Vaccines prime immune cells so that they react quickly when they meet a threat.",
+      "Researchers are exploring how to prime the immune system without triggering dangerous overreactions against healthy tissue."
+    ],
+    "trial": [
+      "The trial starts today.",
+      "She is in a trial.",
+      "The trial was a success.",
+      "Doctors are looking for patients to join the trial.",
+      "The trial will compare patients who receive the vaccine with those who do not.",
+      "Only after large, carefully controlled trials can regulators decide whether a new cancer vaccine is safe and effective."
+    ],
+    "extraordinary": [
+      "It's extraordinary.",
+      "She is an extraordinary doctor.",
+      "The results were extraordinary.",
+      "The vaccine had an extraordinary effect on some patients.",
+      "Scientists described the speed of progress in the field as extraordinary.",
+      "Extraordinary claims require extraordinary evidence, so doctors are waiting for the full results before celebrating."
+    ],
+    "potential": [
+      "It has potential.",
+      "This drug has great potential.",
+      "Scientists see the potential of vaccines.",
+      "The new treatment has the potential to change cancer care.",
+      "Experts are excited about the potential of RNA technology in medicine.",
+      "While the potential is enormous, researchers caution that realising it will require years of careful testing and investment."
+    ]
+  },
+  "0087": {
+    "global": [
+      "It is a global problem.",
+      "The internet is global.",
+      "There is a global crisis in the economy.",
+      "Local money is a reaction to global markets.",
+      "In a global economy, small towns can feel left behind by big companies.",
+      "Critics argue that global finance moves capital away from rural communities faster than they can adapt."
+    ],
+    "currency": [
+      "What is the currency here?",
+      "The euro is a currency.",
+      "You can change currency at the bank.",
+      "The new currency can only be spent in local shops.",
+      "A local currency keeps money circulating within the community.",
+      "Whether a small town's currency can survive depends on how much trust people place in it."
+    ],
+    "exception": [
+      "This is an exception.",
+      "There is one exception.",
+      "All shops take it, with one exception.",
+      "The rule applies to everyone without exception.",
+      "Most local currency schemes fail, but a few are notable exceptions.",
+      "The town is an exception to the trend, having turned a novelty currency into a genuine economic tool."
+    ],
+    "dairy farming": [
+      "My uncle does dairy farming.",
+      "Dairy farming is hard work.",
+      "Dairy farming is the main job in this area.",
+      "Low milk prices have hurt dairy farming in the region.",
+      "The collapse of dairy farming left many local families short of money.",
+      "Without a recovery in dairy farming, no local currency could fully restore the town's prosperity."
+    ],
+    "farming": [
+      "I like farming.",
+      "Farming is an old job.",
+      "Many people here work in farming.",
+      "Farming brings most of the money into the town.",
+      "When farming suffers, shops and services in nearby towns suffer too.",
+      "The town's fortunes have always risen and fallen with the profitability of farming in the hinterland."
+    ],
+    "nearby": [
+      "Is there a shop nearby?",
+      "We live nearby.",
+      "They shop in a nearby town.",
+      "The money can also be spent in nearby villages.",
+      "Shoppers often drive to a nearby city where prices are lower.",
+      "The scheme aims to stop residents taking their money to the large shopping centres in nearby cities."
+    ],
+    "resident": [
+      "She is a resident here.",
+      "The residents are happy.",
+      "Local residents use the new notes.",
+      "Many residents support the scheme.",
+      "Residents who spend locally help keep shops open.",
+      "Some residents remain sceptical, seeing the currency as little more than a souvenir."
+    ],
+    "scheme": [
+      "It is a good scheme.",
+      "The scheme is new.",
+      "The town started a money scheme.",
+      "Shops that join the scheme accept the local notes.",
+      "The scheme was designed to encourage people to spend money in their own town.",
+      "Similar schemes have been tried around the world, with mixed results depending on local commitment."
+    ],
+    "come into": [
+      "The notes come into use today.",
+      "New rules come into force soon.",
+      "The money came into circulation in May.",
+      "When the currency came into use, shops put signs in their windows.",
+      "The law came into effect just as the town's own money was being printed.",
+      "Once the notes come into general circulation, their real test will be whether people keep spending them."
+    ],
+    "gimmick": [
+      "It is only a gimmick.",
+      "Is it a gimmick?",
+      "The free gift is a sales gimmick.",
+      "Critics called the town's money a tourist gimmick.",
+      "The organisers insist the currency is a serious tool, not a publicity gimmick.",
+      "What began as something of a gimmick may turn out to have a lasting effect on local spending habits."
+    ],
+    "organiser": [
+      "He is the organiser.",
+      "Ask the organiser.",
+      "The organisers printed the notes.",
+      "The organisers hope more shops will join.",
+      "According to the organisers, the scheme has already kept thousands of dollars in the town.",
+      "The organisers face the difficult task of persuading sceptical traders that the currency is worth accepting."
+    ],
+    "counter": [
+      "We must counter this.",
+      "They want to counter the problem.",
+      "The scheme aims to counter falling sales.",
+      "Local money may help counter the effects of the drought.",
+      "The council introduced the currency to counter the flow of money out of the town.",
+      "No single measure can fully counter a downturn caused by forces far beyond the town's control."
+    ],
+    "downturn": [
+      "There is a downturn.",
+      "Business is in a downturn.",
+      "The downturn closed some shops.",
+      "Farmers have suffered during the economic downturn.",
+      "The downturn in dairy prices has reduced spending throughout the region.",
+      "Local currencies tend to appear during downturns, when communities feel abandoned by the wider economy."
+    ],
+    "stimulus": [
+      "It is a stimulus.",
+      "Shops need a stimulus.",
+      "The scheme is a stimulus for trade.",
+      "The government gave money as an economic stimulus.",
+      "The currency acts as a stimulus by encouraging people to spend rather than save.",
+      "Economists debate whether such a small-scale stimulus can make any measurable difference."
+    ],
+    "package": [
+      "It is a big package.",
+      "Here is the package.",
+      "The package will help farmers.",
+      "The stimulus package includes money for small towns.",
+      "Many residents felt the national rescue package had not reached their town.",
+      "Critics complained that the package favoured big cities while rural communities were left to fend for themselves."
+    ],
+    "revive": [
+      "Let's revive the town.",
+      "Sales may revive.",
+      "They want to revive local shops.",
+      "The scheme could revive trade in the town centre.",
+      "Organisers believe a local currency can revive a sense of community.",
+      "Reviving a struggling economy takes more than new money; it needs jobs, investment and confidence."
+    ],
+    "gloss": [
+      "The paper has a gloss.",
+      "I like the gloss.",
+      "The notes have a nice gloss.",
+      "The gloss on the notes makes them look expensive.",
+      "Once the gloss of novelty wears off, will people keep using the money?",
+      "Beneath the gloss of colourful banknotes lie serious questions about the town's economic future."
+    ],
+    "counterfeit": [
+      "This note is counterfeit.",
+      "Is this money counterfeit?",
+      "Police found counterfeit notes.",
+      "The notes are hard to copy, so counterfeits are rare.",
+      "The organisers added a hologram to protect the currency against counterfeits.",
+      "Even a small local currency must be designed to resist counterfeiting, or confidence in it will collapse."
+    ],
+    "forge": [
+      "Don't forge money.",
+      "He forged a note.",
+      "It is a crime to forge money.",
+      "The special ink makes the notes hard to forge.",
+      "Anyone caught trying to forge the local notes could face prosecution.",
+      "The organisers studied national banknotes to learn how to make their own currency almost impossible to forge."
+    ],
+    "banknote": [
+      "This is a banknote.",
+      "I have a new banknote.",
+      "The banknote is very colourful.",
+      "The town's banknotes show local animals and places.",
+      "Collectors from abroad have been buying the banknotes as souvenirs.",
+      "If too many banknotes end up in collectors' albums rather than tills, the scheme's economic effect will be limited."
+    ],
+    "convertible": [
+      "Is it convertible?",
+      "The money is convertible.",
+      "These notes are convertible at the bank.",
+      "The currency is fully convertible into national money.",
+      "Because the notes are convertible, shops lose nothing by accepting them.",
+      "A convertible local currency carries less risk, but it also makes it easier for money to leave the community."
+    ],
+    "in short": [
+      "In short, it works.",
+      "In short, I like it.",
+      "In short, the town needs help.",
+      "In short, the scheme keeps money in the town.",
+      "In short, the local currency is both a practical tool and a symbol of pride.",
+      "In short, the experiment's success will depend less on the notes themselves than on the community behind them."
+    ],
+    "hinterland": [
+      "The hinterland is quiet.",
+      "They live in the hinterland.",
+      "Farms cover the hinterland.",
+      "The town is a shopping centre for its rural hinterland.",
+      "Money from the farming hinterland has always flowed through the town's shops.",
+      "As the agricultural hinterland struggles, the towns that depend on it face a slow economic decline."
+    ],
+    "stimulate": [
+      "It can stimulate trade.",
+      "We need to stimulate sales.",
+      "The money will stimulate the local economy.",
+      "Low prices can stimulate demand.",
+      "The council hopes the currency will stimulate spending in small family shops.",
+      "Supporters argue that keeping money local stimulates a cycle of spending that benefits the whole community."
+    ],
+    "urgent": [
+      "This is urgent.",
+      "It's an urgent problem.",
+      "The farmers need urgent help.",
+      "There is an urgent need to bring money back into the town.",
+      "The council said action was urgent after several shops closed in one month.",
+      "The urgent challenge is not printing money but rebuilding the farming economy on which everything depends."
+    ]
+  },
+  "0088": {
+    "vending machine": [
+      "Here is a vending machine.",
+      "The vending machine sells drinks.",
+      "I bought a snack from the vending machine.",
+      "The vending machine at the station only takes coins.",
+      "Some vending machines now sell surprising things, from fresh pizza to gold bars.",
+      "A gold vending machine turns the purchase of a precious metal into something as casual as buying a chocolate bar."
+    ],
+    "vend": [
+      "It vends drinks.",
+      "The machine vends snacks.",
+      "Machines vend tickets at the station.",
+      "The new machine vends gold coins as well as bars.",
+      "Machines that vend luxury goods are becoming more common in airports.",
+      "The idea of a machine that vends gold challenges our notion of what can be bought without a salesperson."
+    ],
+    "synonyms": [
+      "Big and large are synonyms.",
+      "Learn some synonyms.",
+      "Can you find synonyms for 'happy'?",
+      "Using synonyms makes your writing more interesting.",
+      "The presenters discussed several synonyms for 'vending machine'.",
+      "Few synonyms are perfect, since words that seem to mean the same often differ in tone or usage."
+    ],
+    "slot machine": [
+      "He played the slot machine.",
+      "The slot machine is noisy.",
+      "There are slot machines in the casino.",
+      "He lost all his coins in a slot machine.",
+      "In some places, 'slot machine' refers to a vending machine rather than a gambling device.",
+      "Buying gold from a machine felt oddly like playing a slot machine, except that every customer won something."
+    ],
+    "slot": [
+      "Find the slot.",
+      "Put a coin in the slot.",
+      "The slot on the machine is very small.",
+      "Insert your money in the slot and choose a product.",
+      "The machine has one slot for banknotes and another for credit cards.",
+      "A coin jammed in the slot can stop a machine from working until an engineer comes to fix it."
+    ],
+    "dispenser": [
+      "This is a water dispenser.",
+      "The soap dispenser is empty.",
+      "There is a cash dispenser outside the bank.",
+      "The machine is basically a gold dispenser.",
+      "Ticket dispensers have replaced staff at many railway stations.",
+      "The device is less a shop than a sophisticated dispenser, updating its prices every few minutes."
+    ],
+    "transport": [
+      "I use public transport.",
+      "Trucks transport food.",
+      "The gold is transported by van.",
+      "Transporting gold safely is expensive.",
+      "Security companies are paid to transport the gold bars to the hotel.",
+      "The cost of transporting and protecting the gold is built into the price customers pay."
+    ],
+    "in for": [
+      "You're in for a treat.",
+      "We're in for rain.",
+      "Visitors are in for a surprise.",
+      "Shoppers at the hotel are in for something unusual.",
+      "Anyone expecting a normal snack machine is in for a shock when they see the gold bars.",
+      "If gold prices fall sharply, people who bought from the machine may be in for a disappointment."
+    ],
+    "install": [
+      "They will install it today.",
+      "We installed a new machine.",
+      "The airport installed a gold machine.",
+      "It took two days to install the heavy machine.",
+      "The company plans to install similar machines in other cities.",
+      "Installing a gold vending machine requires not only technical work but also serious security arrangements."
+    ],
+    "intrigued": [
+      "I'm intrigued.",
+      "She looks intrigued.",
+      "Tourists were intrigued by the machine.",
+      "I was intrigued to see how the machine worked.",
+      "Passers-by were intrigued enough to stop and watch someone buy a gold bar.",
+      "Even sceptical economists admitted they were intrigued by the public's appetite for gold from a machine."
+    ],
+    "intrigue": [
+      "It intrigues me.",
+      "Gold intrigues people.",
+      "The idea intrigued the reporters.",
+      "What intrigues me is who buys gold this way.",
+      "The machine's flashing prices intrigue visitors who have never bought gold before.",
+      "What intrigues observers most is not the technology but the trust people place in an unattended machine."
+    ],
+    "on the go": [
+      "I'm always on the go.",
+      "She eats on the go.",
+      "Busy people buy snacks on the go.",
+      "Vending machines sell food for people on the go.",
+      "Business travellers on the go can now buy gold between flights.",
+      "Our on-the-go lifestyle has created demand for instant purchases of almost anything, even gold."
+    ],
+    "goody": [
+      "I love goodies.",
+      "The bag is full of goodies.",
+      "Children like sweets and goodies.",
+      "The machine sells drinks, crisps and other goodies.",
+      "Instead of the usual goodies, this machine offers gold bars and coins.",
+      "Most of us associate vending machines with sugary goodies, not with investments in precious metals."
+    ],
+    "consume": [
+      "Don't consume too much sugar.",
+      "We consume a lot of snacks.",
+      "People consume food from vending machines quickly.",
+      "Unlike chocolate, gold is not something you consume.",
+      "Britons consume millions of snacks bought from vending machines every year.",
+      "The gold machine sells something to keep rather than consume, which makes it unusual among vending machines."
+    ],
+    "precious": [
+      "Gold is precious.",
+      "This ring is precious.",
+      "Diamonds are precious stones.",
+      "People buy precious things to keep their money safe.",
+      "In uncertain times, investors turn to precious items such as gold.",
+      "What makes a metal precious is not only its rarity but also centuries of human belief in its value."
+    ],
+    "selection": [
+      "There is a big selection.",
+      "Look at the selection.",
+      "The machine has a good selection of drinks.",
+      "You can choose from a selection of gold products.",
+      "The machine's selection ranges from tiny one-gram bars to heavy gold coins.",
+      "A wider selection might attract more customers, but it would also mean storing more gold in a public place."
+    ],
+    "fizzy": [
+      "I like fizzy drinks.",
+      "This water is fizzy.",
+      "The machine sells fizzy drinks.",
+      "Fizzy drinks contain a lot of sugar.",
+      "Instead of fizzy drinks and crisps, this machine dispenses gold.",
+      "Health campaigners want schools to replace machines selling fizzy drinks with ones offering water and fruit."
+    ],
+    "chewing gum": [
+      "Do you have chewing gum?",
+      "I like mint chewing gum.",
+      "He bought chewing gum at the station.",
+      "Old vending machines sold chewing gum and sweets.",
+      "Gold bars sit in the machine where you would normally expect chewing gum.",
+      "From chewing gum to gold, vending machines show how much our expectations of automated shopping have changed."
+    ],
+    "chew": [
+      "Chew your food.",
+      "She is chewing gum.",
+      "Don't chew gum in class.",
+      "He chewed nervously as he paid for the gold bar.",
+      "Some people chew gum to stay calm before making a big purchase.",
+      "Chewing gum, once sold from simple machines, is now banned from sale in certain countries."
+    ],
+    "gum": [
+      "Do you want some gum?",
+      "This gum is sweet.",
+      "I bought gum from the machine.",
+      "He always has a packet of gum in his pocket.",
+      "The machine sells gold where you might expect to find gum and chocolate.",
+      "A machine stocked with gum is cheap to run, whereas one full of gold needs cameras and armoured glass."
+    ],
+    "packet": [
+      "Give me a packet.",
+      "I have a packet of crisps.",
+      "She bought a packet of peanuts.",
+      "The gold comes in a small sealed packet.",
+      "Each gold bar is sold in a protective packet with a certificate.",
+      "Few people would expect to receive a packet containing real gold from a machine in a hotel lobby."
+    ],
+    "peanut": [
+      "I like peanuts.",
+      "Peanuts are cheap.",
+      "He bought a bag of peanuts.",
+      "Some people are allergic to peanuts.",
+      "A bag of peanuts and a gold coin are now sold from the same kind of machine.",
+      "The contrast between a cheap packet of peanuts and a costly gold bar is what makes this machine so striking."
+    ],
+    "precious metal": [
+      "Gold is a precious metal.",
+      "Silver is a precious metal too.",
+      "People invest in precious metals.",
+      "The price of precious metals often rises in a crisis.",
+      "Investors buy precious metals to protect their savings against inflation.",
+      "The machine makes owning a precious metal accessible to people who would never visit a specialist dealer."
+    ],
+    "rely upon": [
+      "You can rely upon me.",
+      "We rely upon machines.",
+      "People rely upon gold in hard times.",
+      "Customers must rely upon the machine to give the correct price.",
+      "Hotels rely upon security cameras to protect the gold inside the machine.",
+      "Investors have long relied upon gold as a store of value when currencies and markets become unstable."
+    ],
+    "turn to": [
+      "Who can I turn to?",
+      "She turned to her friend.",
+      "People turn to gold when prices rise.",
+      "Many investors turn to gold when shares fall.",
+      "When banks seem risky, savers often turn to precious metals.",
+      "As confidence in paper money weakens, more ordinary people are turning to gold, even buying it from machines."
+    ],
+    "broadcaster": [
+      "She is a broadcaster.",
+      "The BBC is a broadcaster.",
+      "The broadcaster made a programme about gold.",
+      "A famous broadcaster tried the machine on live TV.",
+      "Several broadcasters sent reporters to film the first customers.",
+      "The story spread quickly after an international broadcaster showed footage of a gold bar dropping from the machine."
+    ],
+    "build in": [
+      "The screen is built in.",
+      "They built in a camera.",
+      "The machine has a safe built in.",
+      "Security features are built in to stop thieves.",
+      "The designers built in a system that updates the gold price every ten minutes.",
+      "A profit margin is built into every price, so buying from the machine costs more than buying from a dealer."
+    ],
+    "watch out": [
+      "Watch out!",
+      "Watch out for cars.",
+      "Watch out, the machine is broken.",
+      "You should watch out for hidden charges.",
+      "Buyers need to watch out for the high mark-up on small gold bars.",
+      "Anyone tempted to buy gold on impulse should watch out, because prices can drop as quickly as they rise."
+    ],
+    "dispense": [
+      "It dispenses water.",
+      "The machine dispenses tickets.",
+      "This machine dispenses cash.",
+      "The vending machine dispenses gold as well as coins.",
+      "Once you pay, the machine dispenses your gold in a small box.",
+      "A machine that dispenses gold has to be far more secure than one that dispenses sweets or drinks."
+    ],
+    "bang": [
+      "Don't bang the door.",
+      "He banged the table.",
+      "She banged the machine with her hand.",
+      "He banged on the machine when it kept his money.",
+      "Angry customers often bang vending machines when nothing comes out.",
+      "Banging a gold vending machine is unlikely to help, as its alarms would probably go off at once."
+    ],
+    "fist": [
+      "Make a fist.",
+      "He has big fists.",
+      "She banged the table with her fist.",
+      "He hit the vending machine with his fist when it got stuck.",
+      "Hitting a machine with your fist rarely gets your snack out.",
+      "Designers make modern machines strong enough to survive a frustrated customer's fist."
+    ],
+    "inserting": [
+      "I am inserting a coin.",
+      "He is inserting his card.",
+      "Try inserting the coin again.",
+      "Inserting a banknote is easier than using coins.",
+      "After inserting the money, she watched the gold bar drop into the tray.",
+      "Inserting a card into a machine to buy gold feels strangely ordinary for such a valuable purchase."
+    ],
+    "colloquially": [
+      "People say it colloquially.",
+      "Colloquially, it's called a 'fruit machine'.",
+      "This word is used colloquially.",
+      "Colloquially, a vending machine is sometimes called a slot machine.",
+      "The machine is known colloquially as 'Gold to Go'.",
+      "Words used colloquially in one country may sound strange or even confusing to English speakers elsewhere."
+    ],
+    "synonym": [
+      "'Big' is a synonym for 'large'.",
+      "Give me a synonym.",
+      "What is a synonym for 'buy'?",
+      "'Precious' can be a synonym for 'valuable'.",
+      "A good dictionary lists synonyms to help you avoid repeating the same word.",
+      "Choosing the right synonym requires attention to register, since a formal word can sound odd in casual speech."
+    ],
+    "briefly": [
+      "I'll speak briefly.",
+      "He stopped briefly.",
+      "She briefly explained the idea.",
+      "The presenters briefly discussed the price of gold.",
+      "The gold price dropped briefly before rising again later in the day.",
+      "Put briefly, the machine offers convenience, but buyers pay a premium for that convenience."
+    ]
+  },
+  "0089": {
+    "loneliest": [
+      "It is the loneliest bug.",
+      "He was the loneliest boy in class.",
+      "This tiny bug lives in the loneliest place.",
+      "Deep underground, the loneliest bacterium survives on its own.",
+      "Researchers called the microbe the loneliest organism ever found.",
+      "Living kilometres below the surface, cut off from all other life, it may well be the loneliest species on the planet."
+    ],
+    "loner": [
+      "He is a loner.",
+      "My cat is a loner.",
+      "The bug is a loner deep in the ground.",
+      "Some animals are loners and avoid others of their kind.",
+      "Unlike most microbes, this loner needs no partners to survive.",
+      "Biologists were amazed that such a complete loner could build an entire ecosystem by itself."
+    ],
+    "stretch": [
+      "It is a long stretch.",
+      "We walked along a stretch of beach.",
+      "There is a dark stretch of tunnel ahead.",
+      "The microbe was found in a stretch of rock nearly three kilometres down.",
+      "Over a long stretch of time, the bacterium has lived completely cut off from the surface.",
+      "Across that stretch of hot, pressurised groundwater, no other species could be detected alongside it."
+    ],
+    "in darkness": [
+      "The room is in darkness.",
+      "We sat in darkness.",
+      "Some animals live in darkness all their lives.",
+      "Deep in the mine, the tiny bug survives in darkness.",
+      "Living in darkness, the microbe gets its energy from chemicals rather than the sun.",
+      "For millions of years it has existed in darkness, untouched by the light that powers almost all other life."
+    ],
+    "underground": [
+      "Worms live underground.",
+      "The train goes underground.",
+      "Miners work deep underground.",
+      "Scientists found life in water far underground.",
+      "The discovery suggests that life underground may be far more common than we thought.",
+      "If microbes can thrive so far underground, similar life could be hidden beneath the surface of other planets."
+    ],
+    "on earth": [
+      "Life on earth is amazing.",
+      "It is the biggest animal on earth.",
+      "Water is needed by most life on earth.",
+      "This bug may be the most isolated living thing on earth.",
+      "Almost every species on earth depends on sunlight in some way.",
+      "Discoveries like this force us to rethink where life on earth can exist and how it began."
+    ],
+    "reproduce": [
+      "Animals reproduce.",
+      "Bacteria reproduce very fast.",
+      "This bug can reproduce on its own.",
+      "Most microbes need other organisms to live and reproduce.",
+      "Even in total darkness, the microbe finds enough energy to grow and reproduce.",
+      "Its ability to reproduce using nothing but water, rock and chemicals makes it unique among known organisms."
+    ],
+    "oxygen": [
+      "We need oxygen.",
+      "Fish get oxygen from water.",
+      "There is little oxygen deep in the mine.",
+      "This microbe can live without any oxygen at all.",
+      "Life without oxygen was once thought to be impossible for complex ecosystems.",
+      "Because it needs neither oxygen nor sunlight, the bacterium offers a model for life on worlds very different from ours."
+    ],
+    "tiny": [
+      "It is a tiny bug.",
+      "The baby has tiny hands.",
+      "Bacteria are too tiny to see.",
+      "This tiny creature lives almost three kilometres down.",
+      "Such a tiny organism can tell us a great deal about the limits of life.",
+      "Despite being tiny, the bacterium contains all the genes it needs to survive completely alone."
+    ],
+    "sulphate": [
+      "Sulphate is a chemical.",
+      "The water has sulphate in it.",
+      "The bug uses sulphate to make energy.",
+      "Radiation from the rocks helps produce the sulphate the microbe needs.",
+      "By breaking down sulphate, the organism survives without any sunlight at all.",
+      "The chain linking uranium, water and sulphate provides the energy for an entire one-species ecosystem."
+    ],
+    "iron": [
+      "The gate is made of iron.",
+      "Iron is a strong metal.",
+      "There is iron in the rocks.",
+      "The bacterium takes iron and other elements from the rock.",
+      "Iron and sulphate are among the few ingredients the bug needs to survive.",
+      "Using iron, nitrogen and carbon dissolved in the groundwater, it builds everything it needs from scratch."
+    ],
+    "speculate": [
+      "We can only speculate.",
+      "People speculate about life on Mars.",
+      "Scientists speculate about how the bug got there.",
+      "It is too early to speculate about what this discovery means.",
+      "Some researchers speculate that the microbe has lived alone for millions of years.",
+      "Without more evidence, we can only speculate whether similar organisms might be hidden beneath the ice of distant moons."
+    ],
+    "blueprint": [
+      "This is the blueprint.",
+      "The builder has a blueprint.",
+      "DNA is a blueprint for life.",
+      "The genome is the blueprint that tells the cell what to do.",
+      "Studying the microbe's blueprint revealed how it makes everything it needs.",
+      "Its genetic blueprint could serve as a guide for what life might look like on planets without sunlight."
+    ],
+    "detailed": [
+      "It is a detailed map.",
+      "She wrote a detailed report.",
+      "We need more detailed information.",
+      "The team produced a detailed picture of the microbe's DNA.",
+      "A detailed analysis showed the bug was the only species in the water.",
+      "Only a highly detailed reading of its genome could explain how it manages to survive with no other species around it."
+    ],
+    "ecosystem": [
+      "A forest is an ecosystem.",
+      "A pond is a small ecosystem.",
+      "Most ecosystems have many species.",
+      "This is the first ecosystem found with only one species.",
+      "An ecosystem made of a single species challenges what we thought about life.",
+      "In a typical ecosystem species depend on one another, yet this microbe sustains an entire ecosystem on its own."
+    ],
+    "organism": [
+      "A bug is an organism.",
+      "Bacteria are tiny organisms.",
+      "This organism lives without light.",
+      "Scientists found only one kind of organism in the water.",
+      "The organism gets all its energy from chemical reactions in the rock.",
+      "Such a self-sufficient organism shows that life can flourish in conditions once considered completely hostile."
+    ],
+    "gene": [
+      "We all have genes.",
+      "Genes come from our parents.",
+      "This gene helps the bug make food.",
+      "Scientists studied every gene in the bacterium.",
+      "Some of its genes appear to have come from completely different microbes.",
+      "Each gene appears to have a role, allowing the microbe to make every nutrient it needs without help from others."
+    ],
+    "genome": [
+      "Every cell has a genome.",
+      "Scientists read the genome.",
+      "The bug's genome is quite small.",
+      "Its genome contains everything it needs to live alone.",
+      "Mapping the genome of this microbe took researchers many months.",
+      "The genome reads like a survival manual, listing tools for fixing carbon, nitrogen and energy in total isolation."
+    ],
+    "confirmation": [
+      "We need confirmation.",
+      "I got a confirmation email.",
+      "This is confirmation of our idea.",
+      "The results gave confirmation that only one species lived there.",
+      "Scientists are still waiting for confirmation from further tests.",
+      "This finding may be the strongest confirmation yet that life does not need the sun to support a whole ecosystem."
+    ],
+    "reflection": [
+      "I saw my reflection.",
+      "Her smile is a reflection of her joy.",
+      "The bug's body is a reflection of where it lives.",
+      "Its large genome is a reflection of how much it must do alone.",
+      "The microbe's abilities are a reflection of millions of years of isolation.",
+      "Its remarkable self-sufficiency is a direct reflection of an environment in which no partner species could ever be relied upon."
+    ],
+    "extraterrestrial": [
+      "Is there extraterrestrial life?",
+      "He likes films about extraterrestrials.",
+      "Scientists look for extraterrestrial life.",
+      "Extraterrestrial life might look like this simple bug.",
+      "The microbe gives clues about where extraterrestrial organisms could survive.",
+      "If life can thrive alone deep underground here, extraterrestrial life may be hiding beneath the surface of Mars."
+    ],
+    "outer space": [
+      "Stars are in outer space.",
+      "I want to go to outer space.",
+      "Is there life in outer space?",
+      "Scientists use this bug to imagine life in outer space.",
+      "Conditions in outer space are much harsher than anything on Earth.",
+      "Organisms that survive without sunlight strengthen the case that life may exist elsewhere in outer space."
+    ],
+    "outer": [
+      "Open the outer door.",
+      "The outer wall is old.",
+      "The cell has an outer layer.",
+      "The outer planets are very cold.",
+      "The outer layers of the Earth are full of tiny life forms.",
+      "Moons in the outer solar system, with oceans beneath their ice, are now prime targets in the search for life."
+    ]
+  },
+  "0090": {
+    "gliding": [
+      "I love gliding.",
+      "Gliding is a fun sport.",
+      "We went gliding last weekend.",
+      "Gliding uses rising air instead of an engine.",
+      "Gliding has been popular since the early days of aviation.",
+      "For many pilots, gliding offers a purer experience of flight than anything powered by an engine could provide."
+    ],
+    "unpowered": [
+      "It is an unpowered plane.",
+      "The glider is unpowered.",
+      "Unpowered flight is very quiet.",
+      "An unpowered aircraft needs help to get into the air.",
+      "Early pioneers experimented with unpowered flight long before engines were added.",
+      "Remaining airborne for hours in an unpowered craft depends entirely on the pilot's skill in reading the air."
+    ],
+    "glider": [
+      "Look at the glider!",
+      "The glider has long wings.",
+      "A plane pulled the glider into the sky.",
+      "A glider can stay up for hours on warm air currents.",
+      "Flying a glider requires a good understanding of the weather.",
+      "Modern gliders are so efficient that skilled pilots can travel hundreds of kilometres without an engine."
+    ],
+    "sheer": [
+      "It was sheer fun.",
+      "She cried with sheer joy.",
+      "I felt sheer fear at first.",
+      "The sheer silence of the glider surprised me.",
+      "The sheer beauty of the view from the glider was breathtaking.",
+      "It was the sheer freedom of floating above the landscape, with no engine noise at all, that made me want to go again."
+    ],
+    "incidence": [
+      "Check the angle of incidence.",
+      "The incidence of accidents is low.",
+      "The wing's angle of incidence matters.",
+      "The incidence of injuries in gliding is lower than many people think.",
+      "Engineers set the angle of incidence carefully so the glider flies smoothly.",
+      "Even a small change in the angle of incidence can greatly affect how much lift the glider's wings produce."
+    ],
+    "glide": [
+      "Birds glide in the sky.",
+      "The glider can glide for hours.",
+      "We glided slowly over the town.",
+      "Eagles glide on warm air without moving their wings.",
+      "Once the cable is released, the glider begins to glide back towards the ground.",
+      "A skilled pilot can glide from one rising column of air to the next, staying aloft far longer than you might expect."
+    ],
+    "fly by": [
+      "Time flies by.",
+      "A bird flew by.",
+      "The hour flew by in the air.",
+      "We watched the gliders fly by above the airfield.",
+      "The whole flight flew by, and I couldn't believe we were landing already.",
+      "Floating silently above the countryside, I was so absorbed that forty minutes flew by in what felt like a moment."
+    ],
+    "soar": [
+      "Birds soar in the sky.",
+      "The glider began to soar.",
+      "We soared over the green fields.",
+      "Gliders soar by riding columns of warm, rising air.",
+      "Hawks soar effortlessly, barely moving their wings for minutes at a time.",
+      "To soar silently above the hills, with nothing but the wind for company, is an experience few other sports can match."
+    ],
+    "in the air": [
+      "The bird is in the air.",
+      "Throw the ball in the air.",
+      "The glider was in the air for an hour.",
+      "Once in the air, the glider uses warm currents to climb.",
+      "Staying in the air without an engine takes great skill and patience.",
+      "The record for time spent in the air in a glider is astonishing, lasting far longer than most people could imagine."
+    ],
+    "graceful": [
+      "The swan is graceful.",
+      "She is a graceful dancer.",
+      "Gliders are very graceful in the sky.",
+      "The glider made a long, graceful descent to the runway.",
+      "Watching a graceful glider circle silently overhead is strangely relaxing.",
+      "With its long slender wings and silent flight, the glider is one of the most graceful machines humans have ever built."
+    ],
+    "engine": [
+      "The car has an engine.",
+      "The engine is very loud.",
+      "A plane with an engine pulled us up.",
+      "Without an engine, the glider is wonderfully quiet.",
+      "Some modern gliders have a small engine to help them take off.",
+      "Flying without an engine forces pilots to depend entirely on their understanding of air movements."
+    ],
+    "assistance": [
+      "I need assistance.",
+      "Thank you for your assistance.",
+      "The glider takes off with assistance.",
+      "With assistance from a tow plane, the glider climbed quickly.",
+      "Beginners always fly with the assistance of an experienced instructor.",
+      "Although it needs assistance to take off, once airborne the glider can stay up entirely on its own."
+    ],
+    "pull up": [
+      "Pull up the rope.",
+      "A plane will pull us up.",
+      "A cable pulls the glider up fast.",
+      "A winch on the ground can pull up a glider in seconds.",
+      "The tow plane pulls up the glider until it reaches the right height.",
+      "After the winch pulls up the glider at a steep angle, the pilot releases the cable and levels out."
+    ],
+    "tug": [
+      "Tug the rope.",
+      "The dog tugged at my coat.",
+      "The tug plane took off first.",
+      "I felt a tug as the cable became tight.",
+      "The tug and the glider climbed together until the pilot let go of the rope.",
+      "Following closely behind the tug requires constant attention, as the glider must stay in exactly the right position."
+    ],
+    "tow": [
+      "They tow the car.",
+      "A truck towed our car.",
+      "A plane can tow a glider.",
+      "The glider was towed to about six hundred metres.",
+      "An aerotow is when a powered plane tows a glider up on a long rope.",
+      "Being towed behind a noisy plane felt strange, but the silence after release made it all worthwhile."
+    ],
+    "together with": [
+      "Come together with me.",
+      "I went together with my friend.",
+      "Rob flew together with an instructor.",
+      "The glider climbed together with the tow plane.",
+      "Together with good weather, a skilled pilot can stay up for hours.",
+      "Together with the sheer silence, the view over the countryside made it the most memorable flight of my life."
+    ],
+    "cable": [
+      "Hold the cable.",
+      "The cable is very long.",
+      "A cable pulls the glider up.",
+      "The pilot pulls a handle to release the cable.",
+      "In a winch launch, a steel cable pulls the glider up at high speed.",
+      "If the cable snaps during the launch, the pilot must react immediately and land safely ahead."
+    ],
+    "gracefully": [
+      "She dances gracefully.",
+      "The bird flew gracefully.",
+      "The glider landed gracefully on the grass.",
+      "The glider turned gracefully over the hills.",
+      "Without a sound, the glider circled gracefully as it gained height.",
+      "The way the glider moved so gracefully through the sky made it look as though it weighed nothing at all."
+    ],
+    "back down": [
+      "Come back down!",
+      "We came back down slowly.",
+      "The glider floated back down.",
+      "Every glider must eventually come back down to the ground.",
+      "When the warm air ran out, we had no choice but to glide back down.",
+      "Coming back down after such a peaceful flight, I already wanted to be up in the sky again."
+    ],
+    "scared": [
+      "I am scared.",
+      "Are you scared of flying?",
+      "She was scared, but she went gliding.",
+      "Many people feel scared when the tow rope is released.",
+      "I was scared at first, but the silence of the glider soon calmed me down.",
+      "Even experienced pilots admit that they were scared on their first flight without the comforting sound of an engine."
+    ],
+    "air current": [
+      "Birds use air currents.",
+      "A strong air current lifted us.",
+      "Gliders fly on air currents.",
+      "Pilots look for rising air currents above hot fields.",
+      "By finding the right air currents, a glider can climb thousands of metres.",
+      "Reading invisible air currents is the central skill of gliding, turning the sky into a map of hidden opportunities."
+    ],
+    "three year old": [
+      "He is a three year old.",
+      "My son is a three year old.",
+      "The three year old waved at the glider.",
+      "I was taken to an airfield when I was a three year old.",
+      "Ever since he was a three year old, he has dreamed of flying.",
+      "I can still remember being a three year old, staring up in wonder as a silent glider passed over our garden."
+    ],
+    "stand for": [
+      "What does UK stand for?",
+      "BBC stands for British Broadcasting Corporation.",
+      "What do these letters stand for?",
+      "The letters RNAS stand for Royal Naval Air Service.",
+      "Many people use the letters without knowing what they actually stand for.",
+      "Military history is full of abbreviations, and it can be hard to remember what each one is supposed to stand for."
+    ],
+    "raf": [
+      "He is in the raf.",
+      "My grandfather flew with the raf.",
+      "The raf was formed in 1918.",
+      "Many raf pilots first learned to fly in gliders.",
+      "The raf was created by joining the army's and the navy's air services.",
+      "Before the raf existed, Britain's military flying was divided between the army and the Royal Naval Air Service."
+    ],
+    "air force": [
+      "He joined the air force.",
+      "The air force has many planes.",
+      "My uncle was a pilot in the air force.",
+      "The air force uses gliders to train young cadets.",
+      "Britain was one of the first countries to have an independent air force.",
+      "Many people who later flew fast jets in the air force first discovered their love of flying in a simple glider."
+    ],
+    "infectious disease": [
+      "Flu is an infectious disease.",
+      "Wash your hands to stop infectious disease.",
+      "Doctors study infectious diseases.",
+      "Her love of flying spread like an infectious disease.",
+      "Gliding enthusiasts joke that their hobby is an infectious disease with no cure.",
+      "Like an infectious disease, the passion for gliding seems to pass from one club member to the next until everyone is hooked."
+    ],
+    "infectious": [
+      "Her laugh is infectious.",
+      "A cold is infectious.",
+      "The pilot's smile was infectious.",
+      "The excitement at the gliding club was infectious.",
+      "Her infectious love of flying persuaded me to book a lesson.",
+      "The instructor's enthusiasm was so infectious that even the most nervous beginners left wanting to fly again."
+    ],
+    "rig up": [
+      "Let's rig up a tent.",
+      "We rigged up a light.",
+      "They rigged up a simple launcher.",
+      "Early pilots rigged up ropes to pull their gliders off hills.",
+      "Using elastic cord, the club rigged up a way to launch gliders without a plane.",
+      "With limited money, the early gliding pioneers had to rig up launch systems from rope, rubber and plenty of muscle power."
+    ],
+    "rig": [
+      "Rig the boat.",
+      "We rig the glider in the morning.",
+      "It takes an hour to rig the glider.",
+      "The team rigged the wings onto the glider before take-off.",
+      "Pilots must check every part carefully after they rig a glider.",
+      "Learning to rig and de-rig a glider safely is as much a part of the sport as the flying itself."
+    ],
+    "pull on": [
+      "Pull on the rope.",
+      "He pulled on the handle.",
+      "Six men pulled on the rubber rope.",
+      "The pilot pulled on the lever to release the cable.",
+      "Everyone pulled on the elastic until it was stretched tight.",
+      "When the instructor shouted, the team pulled on the bungee as hard as they could and the glider shot forward off the hill."
+    ],
+    "bungee": [
+      "This is a bungee.",
+      "The bungee is very stretchy.",
+      "They used a bungee to launch the glider.",
+      "A bungee launch needs a team of people to pull the rope.",
+      "Bungee launches were common before tow planes and winches became widespread.",
+      "The bungee works like a giant catapult, storing energy as it stretches and then flinging the glider into the air."
+    ],
+    "catapult": [
+      "He has a toy catapult.",
+      "The catapult threw a stone.",
+      "The rope catapulted the glider forward.",
+      "Ships use a catapult to launch planes from the deck.",
+      "The stretched elastic acts as a catapult, throwing the glider off the hilltop.",
+      "In the early days of naval aviation, engineers experimented with various catapult designs to launch aircraft from ships."
+    ],
+    "hang on": [
+      "Hang on, please.",
+      "Hang on to the rope!",
+      "Hang on, I'm nearly ready.",
+      "Someone has to hang on to the glider's tail before launch.",
+      "The ground crew hang on to the glider until the bungee is fully stretched.",
+      "Hang on a moment - before we go any further, let me explain how the old bungee launch actually worked."
+    ],
+    "let go": [
+      "Let go of my hand.",
+      "Don't let go!",
+      "They let go and the glider flew.",
+      "At the right height, the pilot lets go of the tow rope.",
+      "As soon as the men holding the tail let go, the glider shot into the air.",
+      "Timing is everything: if the crew let go too early, the bungee loses its power and the glider barely leaves the ground."
+    ],
+    "propel": [
+      "Wind propels the boat.",
+      "Engines propel planes.",
+      "The rope propelled the glider forward.",
+      "Gliders have no engine to propel them through the air.",
+      "The stretched rubber propelled the glider off the edge of the hill.",
+      "Once released, the glider relies on gravity and rising air rather than any engine to propel it across the sky."
+    ],
+    "elastic": [
+      "This is elastic.",
+      "The elastic can stretch.",
+      "They pulled the elastic rope tight.",
+      "When the elastic is released, it shoots the glider forward.",
+      "Strong elastic cords were once the cheapest way to launch a glider.",
+      "The principle is simple: energy stored in stretched elastic is suddenly released, flinging the light aircraft off the hillside."
+    ],
+    "occasionally": [
+      "I occasionally go gliding.",
+      "We occasionally see gliders here.",
+      "The club occasionally uses a bungee launch.",
+      "Pilots occasionally have to land in a farmer's field.",
+      "Occasionally, a glider stays up for so long that the pilot misses dinner.",
+      "Although modern clubs mostly use winches, the traditional bungee is occasionally brought out for special events and anniversaries."
+    ],
+    "fly high": [
+      "Birds fly high.",
+      "I want to fly high in a glider.",
+      "Our team is flying high this year.",
+      "With strong air currents, the glider could fly high for hours.",
+      "After winning the competition, the young pilot was really flying high.",
+      "Gliders can fly high enough to need oxygen, climbing on mountain waves to heights normally reached only by airliners."
+    ],
+    "wing": [
+      "A bird has two wings.",
+      "The wing is very long.",
+      "Someone holds the wing at take-off.",
+      "Long wings help a glider stay in the air longer.",
+      "The shape of the wing creates the lift that keeps the glider up.",
+      "Some competition gliders have a wingspan of over twenty metres, with each wing carefully shaped to waste as little energy as possible."
+    ],
+    "rnas": [
+      "He was in the rnas.",
+      "The rnas flew planes from ships.",
+      "The rnas was part of the navy.",
+      "The rnas joined with the army's flyers to form the RAF.",
+      "During the First World War, the rnas tested many new ways to get aircraft into the air.",
+      "Although the rnas existed for only four years, its experiments with launching aircraft shaped naval aviation for decades."
+    ]
+  },
+  "0091": {
+    "for sure": [
+      "I know that for sure.",
+      "She will come for sure.",
+      "One thing is for sure: she loves to dance.",
+      "Nobody knows for sure how long he will keep performing.",
+      "Scientists can't say for sure, but dancing seems to protect the ageing brain.",
+      "What is known for sure is that older dancers bring a depth of experience that young performers simply lack."
+    ],
+    "nicely": [
+      "She dances nicely.",
+      "Please ask nicely.",
+      "The show went nicely from start to finish.",
+      "His knee has healed nicely, so he can dance again.",
+      "The new routine fits nicely with the abilities of the older members of the company.",
+      "The choreographer blended the energy of youth and the grace of age so nicely that the audience forgot about anyone's birth year."
+    ],
+    "tolerant": [
+      "My teacher is very tolerant.",
+      "Be tolerant of other people.",
+      "The dance world is becoming more tolerant of age.",
+      "A tolerant society lets people dance whatever their age or shape.",
+      "Ballet has traditionally been far from tolerant of dancers who do not fit its strict ideals.",
+      "Only when companies become genuinely tolerant of ageing bodies will older performers stop feeling they must hide their years."
+    ],
+    "limitation": [
+      "We all have limitations.",
+      "Age is not a limitation for her.",
+      "He knows his limitations and doesn't jump so high now.",
+      "Despite her physical limitations, she still performs every week.",
+      "Rather than seeing age as a limitation, the company treats it as a source of artistic depth.",
+      "Accepting the limitations of an ageing body can, paradoxically, free a dancer to explore subtler forms of expression."
+    ],
+    "peer": [
+      "He is my peer.",
+      "She plays with her peers.",
+      "At 70, he dances better than most of his peers.",
+      "Dancing with peers of the same age gives older people confidence.",
+      "Unlike many of her peers, who retired in their thirties, she kept performing into her sixties.",
+      "Pressure from peers can push young dancers to extremes, whereas older dancers often find their peers a source of support rather than rivalry."
+    ],
+    "dare": [
+      "I don't dare to dance.",
+      "Would you dare to try ballet?",
+      "She didn't dare tell her father she wanted to dance.",
+      "Not many people dare to start dancing in their seventies.",
+      "He finally dared to step onto the stage, despite fears that people would laugh at his age.",
+      "Those who dare to keep dancing into old age challenge the assumption that performance belongs exclusively to the young."
+    ],
+    "modelling": [
+      "She likes modelling.",
+      "Modelling is hard work.",
+      "He did some modelling for a clothes shop.",
+      "Modelling is no longer only for young people.",
+      "Her graceful posture from years of ballet helped her get into modelling late in life.",
+      "The rise of older faces in fashion modelling reflects a broader shift in how society values beauty at every age."
+    ],
+    "ballet": [
+      "I love ballet.",
+      "We went to the ballet last night.",
+      "Ballet needs a lot of practice.",
+      "Most ballet dancers stop performing in their thirties.",
+      "Ballet places such extreme demands on the body that long careers are rare.",
+      "Classical ballet, with its obsession with youthful lines, has been slow to embrace dancers who have lived long enough to bring real emotional weight to a role."
+    ],
+    "in front": [
+      "Stand in front of me.",
+      "She danced in front of her class.",
+      "I get nervous when I perform in front of people.",
+      "Dancing in front of a big crowd still excites her.",
+      "Performing in front of strangers late in life takes a different kind of courage.",
+      "For many older dancers, the chance to appear in front of an audience again restores a sense of identity they thought they had lost."
+    ],
+    "debut": [
+      "It was her debut.",
+      "His debut was a big success.",
+      "She made her ballet debut when she was ten.",
+      "Few dancers make their professional debut after retirement.",
+      "His late debut proved that it is never too late to step onto a stage for the first time.",
+      "Making a debut in one's seventies carries none of the career pressure of youth, which allows the performer to dance purely for the joy of it."
+    ],
+    "respectable": [
+      "He has a respectable job.",
+      "They are a respectable family.",
+      "In those days, dancing was not seen as respectable.",
+      "His father wanted him to choose a respectable career like law.",
+      "For a woman of her generation, performing on stage was barely considered respectable.",
+      "What one generation dismisses as hardly respectable, the next may celebrate as art, as the history of dance clearly shows."
+    ],
+    "formerly": [
+      "He was formerly a doctor.",
+      "This hall was formerly a church.",
+      "She formerly danced with a famous ballet company.",
+      "Ballet was formerly seen as a career only for the young.",
+      "Many members of the group were formerly professional dancers who missed the stage.",
+      "What was formerly regarded as an embarrassing spectacle - older people dancing in public - is now celebrated as a sign of a healthy, confident later life."
+    ],
+    "take hold of": [
+      "Take hold of my hand.",
+      "She took hold of the bar.",
+      "Take hold of the rail if you feel unsteady.",
+      "The dancers take hold of each other's arms and turn slowly.",
+      "When the music started, he took hold of her waist with a confidence that belied his eighty years.",
+      "Taking hold of a partner in a duet requires trust as much as strength, and older dancers often bring a gentleness to it that younger ones lack."
+    ],
+    "passionate": [
+      "He is passionate about music.",
+      "She is a passionate dancer.",
+      "My grandmother is passionate about ballet.",
+      "Passionate older dancers often inspire the younger ones.",
+      "Her passionate performance showed that age had not reduced her love of movement.",
+      "It is the passionate commitment of these veteran performers, rather than technical perfection, that makes audiences rise to their feet."
+    ],
+    "flexibility": [
+      "Yoga helps flexibility.",
+      "Dancers need good flexibility.",
+      "We lose flexibility as we get older.",
+      "Stretching every day can improve your flexibility at any age.",
+      "Although her flexibility is not what it was, her timing and expression have only improved.",
+      "Studies suggest that dance maintains not only physical flexibility but also mental flexibility, helping older people adapt to new situations."
+    ],
+    "contemporary": [
+      "I like contemporary music.",
+      "This is a contemporary dance class.",
+      "Contemporary dance is good for older dancers.",
+      "Contemporary dance is less strict than classical ballet.",
+      "Contemporary choreographers increasingly cast older performers to explore themes of memory and time.",
+      "Because contemporary dance values personal expression over athletic display, it offers ageing artists a space where their experience becomes an asset."
+    ],
+    "set phrase": [
+      "This is a set phrase.",
+      "Learn this set phrase.",
+      "'For sure' is a common set phrase.",
+      "You can't change the words in a set phrase.",
+      "Learners should treat a set phrase as a single unit rather than translating each word.",
+      "Set phrases such as 'too old for that' reveal how deeply assumptions about age are built into everyday language."
+    ],
+    "regardless": [
+      "He danced regardless.",
+      "Everyone is welcome regardless of age.",
+      "She kept dancing regardless of her bad knee.",
+      "Regardless of what people said, he went to ballet classes.",
+      "Regardless of their background, the dancers share a love of movement that unites them.",
+      "Regardless of the physical decline that comes with age, the urge to express oneself through movement seems to remain remarkably constant."
+    ],
+    "effeminate": [
+      "He is not effeminate.",
+      "Some people called him effeminate.",
+      "In the past, boys who danced were called effeminate.",
+      "He ignored those who said ballet was effeminate and kept training.",
+      "The idea that dance is effeminate kept many talented men away from the stage for generations.",
+      "Labelling male dancers as effeminate says more about narrow ideas of masculinity than about the strength and discipline the art form actually demands."
+    ],
+    "army": [
+      "He is in the army.",
+      "My grandfather was in the army.",
+      "He joined the army when he was eighteen.",
+      "After leaving the army, he finally took up dancing.",
+      "Years of army discipline turned out to be surprisingly useful in the ballet studio.",
+      "In his youth the army was considered the proper path for a young man, and it took him decades to give himself permission to dance."
+    ],
+    "womanlike": [
+      "It is a womanlike gesture.",
+      "He is not womanlike at all.",
+      "People said ballet was a womanlike hobby.",
+      "He worried that his graceful moves looked too womanlike.",
+      "Calling a graceful male dancer womanlike reflects old stereotypes rather than reality.",
+      "The fear of appearing womanlike once discouraged countless men from dancing, a loss that today's mixed-age companies are trying to repair."
+    ]
+  },
+  "0092": {
+    "swap": [
+      "Let's swap seats.",
+      "Can we swap houses this summer?",
+      "They swapped homes with a family from Canada.",
+      "A house swap can save you a lot of money on holiday.",
+      "We agreed to swap homes for a month, including the car and the cat.",
+      "To swap homes with complete strangers requires a degree of trust that would have seemed unthinkable before online reviews existed."
+    ],
+    "swapping": [
+      "House swapping is fun.",
+      "Have you tried house swapping?",
+      "Swapping homes means you don't pay for a hotel.",
+      "Home swapping websites have millions of members around the world.",
+      "Swapping became far easier once online platforms let people check each other's homes and reviews.",
+      "Beyond the financial savings, swapping offers travellers a chance to live like locals rather than observing a place from behind a hotel window."
+    ],
+    "register": [
+      "Please register here.",
+      "I registered online yesterday.",
+      "It costs a small fee to register with the site.",
+      "Once you register, you can add photos of your house.",
+      "Thousands of families register with home exchange agencies every year in search of cheaper travel.",
+      "Members who register with verified identification tend to attract more swap offers, as trust is the currency on which the whole system depends."
+    ],
+    "tremendous": [
+      "It was a tremendous holiday.",
+      "The view was tremendous.",
+      "House swapping saves a tremendous amount of money.",
+      "There has been a tremendous growth in home exchange websites.",
+      "The family felt a tremendous sense of freedom living in a stranger's villa by the sea.",
+      "The tremendous appeal of house swapping lies not only in the savings but in the feeling of belonging to a place, however briefly."
+    ],
+    "airfare": [
+      "The airfare is high.",
+      "How much is the airfare?",
+      "We only had to pay the airfare.",
+      "Airfares usually go up during the school holidays.",
+      "Since we didn't pay for accommodation, we could afford a more expensive airfare.",
+      "For many families, the airfare remains the main obstacle to long-distance swaps, even when the accommodation itself costs nothing."
+    ],
+    "penthouse": [
+      "This is a big penthouse.",
+      "The penthouse has a great view.",
+      "We stayed in a penthouse in the city centre.",
+      "Living in a penthouse for a week felt like a dream.",
+      "The owners of the luxury penthouse were happy to swap it for a quiet farmhouse in Wales.",
+      "House swapping makes it possible for an ordinary family to spend a fortnight in a penthouse they could never otherwise afford to rent."
+    ],
+    "cottage": [
+      "It is a small cottage.",
+      "The cottage has a garden.",
+      "We stayed in a cottage near the sea.",
+      "Their old stone cottage is very popular with house swappers.",
+      "City dwellers often dream of escaping to a country cottage, and a swap lets them do just that.",
+      "The charm of a thatched cottage in an English village proved irresistible to the Australian couple, who offered their beach house in return."
+    ],
+    "houseboat": [
+      "They live on a houseboat.",
+      "The houseboat is very small.",
+      "We swapped our flat for a houseboat.",
+      "Sleeping on a houseboat was a new experience for the children.",
+      "The houseboat, moored on a quiet canal, turned out to be surprisingly spacious and comfortable.",
+      "Among the more unusual homes on offer, a houseboat attracts swappers who want their holiday accommodation to be part of the adventure."
+    ],
+    "canal": [
+      "Look at the canal.",
+      "We walked along the canal.",
+      "Venice is famous for its canals.",
+      "Our swap home was a flat overlooking a canal.",
+      "Waking up each morning to boats gliding past on the canal made the holiday unforgettable.",
+      "Amsterdam's network of canals, once built for trade, now provides a picturesque setting for visitors who swap their homes for a floating one."
+    ],
+    "unexpected": [
+      "It was an unexpected gift.",
+      "We had an unexpected visitor.",
+      "The house had an unexpected problem with the heating.",
+      "One unexpected bonus was free use of the owners' car.",
+      "The most unexpected part of the swap was how quickly we felt at home in a stranger's house.",
+      "House swappers often report unexpected friendships with their exchange partners, sometimes leading to repeat visits over many years."
+    ],
+    "live out": [
+      "Live out your dreams.",
+      "She lived out her dream in Italy.",
+      "We lived out our dream of a holiday by the sea.",
+      "A house swap helped him live out his fantasy of life in a castle.",
+      "Many retired couples use home exchanges to live out ambitions they had to put aside while working.",
+      "For a family on a modest income, swapping homes may be the only realistic way to live out the dream of spending a summer abroad."
+    ],
+    "unpack": [
+      "Let's unpack now.",
+      "I unpacked my suitcase.",
+      "We unpacked and then went to the beach.",
+      "The owners left space in the wardrobe so we could unpack.",
+      "Unpacking in someone else's home felt strange at first, but we soon settled in.",
+      "The moment you unpack in a home exchange, the place stops being a stranger's house and becomes, for a while, your own."
+    ],
+    "smug": [
+      "Don't be so smug.",
+      "He had a smug smile.",
+      "They looked smug about their cheap holiday.",
+      "I felt smug when my friends heard how little we had paid.",
+      "There is something slightly smug about the way experienced swappers talk about hotels.",
+      "Her smug satisfaction at having secured a seaside villa for nothing faded when she realised she would have to look after the owners' three dogs."
+    ],
+    "join on": [
+      "You can join on the website.",
+      "We joined on the app.",
+      "It is free to join on the site for the first month.",
+      "Once you join on the platform, you can list your home.",
+      "More older people are joining on home exchange sites, attracted by long stays and low costs.",
+      "Anyone who joins on such a site must accept that their home will be judged by strangers, from the photos they post to the reviews guests leave."
+    ],
+    "respondent": [
+      "Each respondent got a gift.",
+      "There were 500 respondents.",
+      "Half of the respondents had never swapped homes.",
+      "Many respondents worried about strangers using their things.",
+      "Respondents who had swapped homes reported higher satisfaction than those who stayed in hotels.",
+      "The survey found that respondents' main concern was not theft but the fear that guests might not treat their home with the same care."
+    ]
+  },
+  "0093": {
+    "choir": [
+      "She sings in a choir.",
+      "The school choir is very good.",
+      "My grandad joined a choir last year.",
+      "The choir brings together singers aged five to ninety.",
+      "Singing in a mixed-age choir gave the teenagers a chance to get to know their older neighbours.",
+      "Researchers found that members of intergenerational choirs reported lower levels of loneliness and a stronger sense of belonging to their community."
+    ],
+    "gather together": [
+      "We gather together on Sundays.",
+      "The family gathered together for dinner.",
+      "The children gathered together around their grandmother.",
+      "The project gathers together people of all ages from the town.",
+      "When different generations gather together regularly, misunderstandings between them begin to disappear.",
+      "In the past, extended families naturally gathered together under one roof, but modern life has made such everyday contact between young and old far rarer."
+    ],
+    "attend": [
+      "I attend school.",
+      "Did you attend the meeting?",
+      "My grandmother attends a singing class every week.",
+      "More than thirty older people attend the weekly sessions.",
+      "Residents who attend the sessions with the children say they feel happier and more alert.",
+      "Children who attend intergenerational nurseries appear to develop greater empathy, having learned early on to be patient with people whose abilities differ from their own."
+    ],
+    "nursery": [
+      "My son goes to nursery.",
+      "The nursery opens at eight.",
+      "The nursery children visit the old people every week.",
+      "Putting a nursery inside a care home helps both young and old.",
+      "The idea of combining a nursery with a care home started in Japan and has spread to many countries.",
+      "Staff at the nursery noticed that toddlers who spent time with elderly residents became more confident speakers, while the residents themselves seemed to regain a sense of purpose."
+    ],
+    "northwest": [
+      "We live in the northwest.",
+      "Manchester is in the northwest of England.",
+      "The weather in the northwest is often rainy.",
+      "Several schools in the northwest now visit local care homes.",
+      "A charity in the northwest has linked hundreds of young volunteers with isolated older people.",
+      "The success of the scheme in the northwest has encouraged councils elsewhere to fund similar projects that bring generations together."
+    ],
+    "open up": [
+      "He doesn't open up much.",
+      "She opened up to me.",
+      "Grandad opened up about his life in the war.",
+      "The teenagers were shy at first but slowly opened up.",
+      "Talking to someone from a different generation can make it easier to open up about personal problems.",
+      "Volunteers noticed that residents who had barely spoken for months began to open up once they were asked about the skills and memories that had shaped their lives."
+    ],
+    "grand": [
+      "I'm grand, thanks.",
+      "We had a grand time.",
+      "The children are grand company for the old people.",
+      "\"Is Tuesday OK for the visit?\" \"Yes, that'll be grand.\"",
+      "One resident said it was grand to hear children laughing in the corridors again.",
+      "For residents who had spent long, quiet days alone, an afternoon of crafts with the nursery children was, in one man's words, 'simply grand'."
+    ],
+    "craft": [
+      "I like craft.",
+      "We do crafts on Monday.",
+      "Grandma showed the children a traditional craft.",
+      "Craft sessions give young and old something to do together.",
+      "Many traditional crafts could be lost unless older people pass them on to the next generation.",
+      "Working side by side on a craft creates a natural space for conversation, since neither party has to look the other in the eye or think of something to say."
+    ],
+    "participant": [
+      "Every participant gets a badge.",
+      "There are twenty participants.",
+      "All the participants enjoyed the singing.",
+      "Participants met once a week for three months.",
+      "Older participants said the project made them feel valued and useful again.",
+      "Interviews with participants revealed that both age groups had arrived with negative assumptions about the other, and that most of these disappeared within weeks."
+    ],
+    "void": [
+      "There is a void in my life.",
+      "The children fill a void.",
+      "After her husband died, she felt a void.",
+      "Volunteering helped him fill the void left by retirement.",
+      "For grandparents who live far from their families, contact with local children can fill an emotional void.",
+      "As families scatter across the country, a void has opened between generations that schemes like this are trying, in a small way, to bridge."
+    ],
+    "be after": [
+      "What are you after?",
+      "I'm after a good book.",
+      "The care home is after new singers for its choir.",
+      "We're after people who can teach the children old songs.",
+      "What the residents are really after is not entertainment but genuine conversation.",
+      "Organisers say they are not after experts; they are after people of any age who are willing to listen and share a little of their time."
+    ],
+    "phone up": [
+      "Phone me up later.",
+      "I phoned up my grandma.",
+      "She phones up her grandson every Sunday.",
+      "If you want to volunteer, just phone up the charity.",
+      "During the lockdown, students phoned up isolated pensioners to check they were all right.",
+      "For an older person living alone, being phoned up by a young volunteer each week can be the single conversation that gives shape to their days."
+    ],
+    "grapevine": [
+      "I heard it on the grapevine.",
+      "News travels fast on the grapevine.",
+      "We heard about the choir through the grapevine.",
+      "Most volunteers found out about the scheme on the grapevine.",
+      "In small towns, the local grapevine is often more effective than any advertising campaign.",
+      "It was through the grapevine, rather than official channels, that word of the singing sessions reached the isolated residents who needed them most."
+    ],
+    "as such": [
+      "It's not a job as such.",
+      "He isn't a teacher as such.",
+      "There are no rules as such, just be kind.",
+      "The project doesn't teach singing as such; it brings people together.",
+      "She isn't lonely as such, but she misses having young people around.",
+      "The scheme has no curriculum as such; its value lies in the unplanned conversations that arise when generations simply spend time in the same room."
+    ],
+    "charity": [
+      "She works for a charity.",
+      "We gave money to charity.",
+      "The charity helps lonely old people.",
+      "The charity organises visits between schools and care homes.",
+      "The charity was set up to tackle the growing problem of loneliness among older people.",
+      "Although the charity relies entirely on donations, it has managed to expand its intergenerational programme to dozens of towns."
+    ],
+    "wellbeing": [
+      "Sleep is good for wellbeing.",
+      "Singing helps our wellbeing.",
+      "The project is good for everyone's wellbeing.",
+      "Doctors say social contact is vital for wellbeing in old age.",
+      "Studies show that intergenerational activities boost the wellbeing of both children and older adults.",
+      "A growing body of evidence suggests that a sense of purpose, rather than physical health alone, is central to wellbeing in later life."
+    ],
+    "loneliness": [
+      "Loneliness is sad.",
+      "He suffers from loneliness.",
+      "The visits help reduce loneliness in the care home.",
+      "Young people can feel loneliness too, not just the old.",
+      "Loneliness has been linked to health problems as serious as heart disease and depression.",
+      "Tackling loneliness requires more than occasional visits; it depends on building lasting relationships in which both generations feel they have something to give."
+    ],
+    "break down": [
+      "Let's break down the walls.",
+      "Music can break down barriers.",
+      "Talking helps break down fear of the unknown.",
+      "The choir has broken down barriers between young and old.",
+      "Regular contact is the best way to break down stereotypes that each generation holds about the other.",
+      "Once the initial awkwardness had been broken down, the teenagers and pensioners discovered that they shared far more interests than either side had imagined."
+    ],
+    "stereotype": [
+      "That is a stereotype.",
+      "Don't believe every stereotype.",
+      "A common stereotype is that teenagers are lazy.",
+      "Meeting older people helped the students forget the stereotypes they had.",
+      "Negative stereotypes about age can affect how older people see themselves and even their health.",
+      "Stereotypes flourish where there is little contact between groups, which is precisely why mixing generations is such an effective way of undermining them."
+    ],
+    "calm down": [
+      "Please calm down.",
+      "The baby calmed down.",
+      "Grandma sang a song to calm the children down.",
+      "Singing together helps nervous people calm down.",
+      "Staff noticed that agitated residents calmed down noticeably when the toddlers came to visit.",
+      "The patience that comes with age can help restless teenagers calm down and focus, something their teachers often struggle to achieve."
+    ],
+    "belief": [
+      "That is my belief.",
+      "She has strong beliefs.",
+      "It is a common belief that old people don't like change.",
+      "Her belief in the value of older people never changed.",
+      "Contrary to popular belief, many older people are keen to learn new technology from the young.",
+      "The organisers share an unshakeable belief that every generation possesses knowledge the others need, and that society loses something when they live apart."
+    ],
+    "drag": [
+      "Homework is a drag.",
+      "What a drag!",
+      "Waiting for the bus is such a drag.",
+      "I thought the singing class would be a drag, but it was fun.",
+      "Young people sometimes see spending time with older relatives as a drag, until they hear their stories.",
+      "What many students had expected to be a drag turned into the highlight of their week, as they discovered the humour and wisdom of people they had once ignored."
+    ],
+    "answer for": [
+      "You will answer for this.",
+      "He must answer for his words.",
+      "Older people say they can't answer for the problems of today.",
+      "The young are often asked to answer for things they did not cause.",
+      "Baby boomers are sometimes told they have a lot to answer for when it comes to house prices and the environment.",
+      "Rather than demanding that one generation answer for the failings of another, the project encourages them to understand the pressures each faced."
+    ],
+    "millennial": [
+      "She is a millennial.",
+      "Millennials use phones a lot.",
+      "Many millennials live far from their grandparents.",
+      "Millennials are often described as lazy, which is unfair.",
+      "When a millennial taught her to use video calls, the 85-year-old taught him how to bake bread in return.",
+      "Millennials, often stereotyped as self-absorbed, proved to be among the most committed volunteers, perhaps because many of them feel the loss of everyday contact with older relatives."
+    ],
+    "untrue": [
+      "That is untrue.",
+      "The story was untrue.",
+      "It's untrue that all teenagers are rude.",
+      "Many ideas about older people turn out to be untrue.",
+      "The students soon realised that what they had heard about care homes was largely untrue.",
+      "The claim that the generations have nothing in common is demonstrably untrue, as anyone who has watched a toddler and a pensioner laugh together can confirm."
+    ],
+    "reference": [
+      "He made a reference to his school.",
+      "I didn't get the reference.",
+      "Grandma's songs are full of references to old films.",
+      "The teenagers explained their references to social media and video games.",
+      "Cultural references that seem obvious to one generation can be a complete mystery to another.",
+      "Part of the fun of the sessions lay in decoding each other's references, as pensioners and teenagers discovered the songs, slang and shows that had shaped the other's youth."
+    ]
+  },
+  "0094": {
+    "vary": [
+      "Prices vary.",
+      "My hours vary every week.",
+      "The number of hours people work can vary.",
+      "How much overtime people do varies from job to job.",
+      "Attitudes to long working hours vary widely between cultures.",
+      "Definitions of workaholism vary so much that it is hard to say how common it really is."
+    ],
+    "for the moment": [
+      "I'm fine for the moment.",
+      "Stay here for the moment.",
+      "For the moment, the office is quiet.",
+      "For the moment, she can cope with the extra work.",
+      "The company has stopped paying overtime, at least for the moment.",
+      "For the moment he enjoys the long hours, but he admits it may not last forever."
+    ],
+    "go home": [
+      "I want to go home.",
+      "It's late. Let's go home.",
+      "She never goes home before eight.",
+      "Most of my colleagues go home at five o'clock.",
+      "He feels guilty if he goes home while his boss is still at the office.",
+      "Being able to go home and forget about work is essential for a healthy work-life balance."
+    ],
+    "voluntarily": [
+      "She left voluntarily.",
+      "He works late voluntarily.",
+      "Nobody asked him; he stayed voluntarily.",
+      "Millions of workers voluntarily give up their free time.",
+      "Employees who voluntarily skip their holidays may be heading for burnout.",
+      "It is hard to tell whether people work these hours voluntarily or because of hidden pressure from their managers."
+    ],
+    "unpaid": [
+      "It's unpaid work.",
+      "I did an unpaid job.",
+      "She stays two unpaid hours every evening.",
+      "Unpaid overtime is very common in some offices.",
+      "Many young people start their careers with unpaid internships.",
+      "The value of all the unpaid hours workers put in each year runs into billions of pounds."
+    ],
+    "overtime": [
+      "I do overtime.",
+      "She is paid for overtime.",
+      "We had to do overtime last week.",
+      "Some workers rely on overtime to pay their bills.",
+      "The amount of overtime people do has risen sharply in recent years.",
+      "Regular unpaid overtime can quietly become part of a company's culture until nobody questions it."
+    ],
+    "addiction": [
+      "It is an addiction.",
+      "He has an addiction to work.",
+      "Addiction to work is a real problem.",
+      "Like any addiction, workaholism can damage your family life.",
+      "Unlike drug addiction, an addiction to work is often praised by society.",
+      "Because work is rewarded with money and status, an addiction to it can go unnoticed for years."
+    ],
+    "workaholism": [
+      "Workaholism is bad for you.",
+      "Is workaholism a disease?",
+      "Workaholism can hurt your family life.",
+      "Long working hours are not always a sign of workaholism.",
+      "Psychologists disagree about whether workaholism should be treated as a real addiction.",
+      "Workaholism is difficult to tackle because the behaviour behind it is so often rewarded at work."
+    ],
+    "workaholic": [
+      "He is a workaholic.",
+      "Are you a workaholic?",
+      "My father was a real workaholic.",
+      "Workaholics often check their phones on holiday.",
+      "A true workaholic feels anxious and guilty when they are not working.",
+      "Being labelled a workaholic is often seen as a compliment, which hides how damaging the habit can be."
+    ],
+    "standard": [
+      "It's a standard day.",
+      "This is the standard price.",
+      "Eight hours is a standard working day.",
+      "Working late has become standard practice in many offices.",
+      "In some industries, a twelve-hour shift is considered standard.",
+      "What was once seen as excessive overtime is now regarded as the standard expectation in many professions."
+    ],
+    "later on": [
+      "See you later on.",
+      "I'll call you later on.",
+      "We can finish this later on.",
+      "Later on, she realised she had been working too much.",
+      "The effects of overwork may not appear until much later on.",
+      "Skipping rest today may seem harmless, but the cost often shows up later on in the form of illness."
+    ],
+    "disrupt": [
+      "Don't disrupt the class.",
+      "The noise disrupted my sleep.",
+      "Work calls often disrupt our dinner.",
+      "Working at weekends can disrupt your relationships.",
+      "Constant phone notifications disrupt our ability to rest properly.",
+      "When work begins to disrupt sleep, meals and family time, it may be a sign of a deeper problem."
+    ],
+    "laptop": [
+      "I have a new laptop.",
+      "Close your laptop, please.",
+      "He works on his laptop in bed.",
+      "Laptops make it easy to work from anywhere.",
+      "Taking a laptop home every night blurs the line between work and rest.",
+      "The laptop has freed us from the office, but it has also chained many of us to our work around the clock."
+    ],
+    "conscious": [
+      "I am conscious of the time.",
+      "She is conscious of the problem.",
+      "He wasn't conscious of working so late.",
+      "Be conscious of how many hours you spend at your desk.",
+      "Making a conscious decision to stop working at six can improve your health.",
+      "Many people only become conscious of the damage overwork has done when their health finally breaks down."
+    ],
+    "secondary": [
+      "Money is secondary.",
+      "Fun is secondary to work for him.",
+      "Her health became secondary to her job.",
+      "For many workaholics, friends and hobbies are secondary.",
+      "When work comes first, rest and relationships are treated as secondary concerns.",
+      "Treating sleep as secondary to deadlines may boost output briefly, but it undermines performance in the long run."
+    ],
+    "work up": [
+      "Don't get worked up.",
+      "She gets worked up about work.",
+      "He worked himself up before the meeting.",
+      "Workaholics often get worked up when they can't check their emails.",
+      "There's no point working yourself up over a deadline you can't change.",
+      "She had worked herself up into such a state about the project that she could no longer sleep at night."
+    ],
+    "symptom": [
+      "What are the symptoms?",
+      "A headache is a symptom.",
+      "Stress has many symptoms.",
+      "One symptom of workaholism is not being able to relax.",
+      "Doctors say the symptoms of burnout include exhaustion and irritability.",
+      "Long hours at the office may be a symptom of a deeper insecurity rather than genuine dedication to the job."
+    ],
+    "properly": [
+      "Sit properly.",
+      "I can't think properly.",
+      "Do the job properly.",
+      "Tired workers cannot concentrate properly.",
+      "Without proper breaks, people stop doing their jobs properly.",
+      "Unless managers properly understand the risks of overwork, unhealthy habits will continue to spread."
+    ],
+    "burn out": [
+      "Don't burn out.",
+      "She burned out last year.",
+      "Many young doctors burn out quickly.",
+      "He worked so hard that he burned out at thirty.",
+      "Taking regular holidays is one of the best ways to avoid burning out.",
+      "Companies that push staff too hard risk seeing their best people burn out and leave."
+    ],
+    "exhaustion": [
+      "I feel exhaustion.",
+      "He fell asleep from exhaustion.",
+      "Long hours can lead to exhaustion.",
+      "Exhaustion is one of the first signs of burnout.",
+      "Physical and mental exhaustion can make even simple tasks feel impossible.",
+      "Many workaholics ignore the warning signs of exhaustion until they are forced to stop completely."
+    ],
+    "overwork": [
+      "Don't overwork.",
+      "He is ill from overwork.",
+      "Overwork made her very tired.",
+      "Doctors warn that overwork increases the risk of heart disease.",
+      "In some countries, death from overwork is recognised as a serious social problem.",
+      "Rather than rewarding overwork, organisations should design jobs that can be done well within normal hours."
+    ],
+    "frustration": [
+      "I feel frustration.",
+      "She shouted in frustration.",
+      "His frustration at work is growing.",
+      "Too much work and too little time leads to frustration.",
+      "Constant interruptions are a major source of frustration for office workers.",
+      "The frustration of never finishing your to-do list can drive people to work even longer hours."
+    ],
+    "anxiety": [
+      "I have anxiety.",
+      "She feels anxiety at work.",
+      "Long hours can cause anxiety.",
+      "Many workers suffer from anxiety about losing their jobs.",
+      "Anxiety and depression are common among people who cannot stop working.",
+      "For some workaholics, work is a way of keeping anxiety at bay, which is why stopping feels so frightening."
+    ],
+    "switch off": [
+      "Switch off your phone.",
+      "I can't switch off.",
+      "She switches off by reading.",
+      "It's important to switch off after work.",
+      "Some people never really switch off, even when they're on holiday.",
+      "Learning to switch off mentally at the end of the day is as important as working hard during it."
+    ],
+    "switch": [
+      "Let's switch seats.",
+      "She switched jobs last year.",
+      "I switched to working from home.",
+      "It can be hard to switch from work mode to family mode.",
+      "Making the switch to shorter hours improved her health and her mood.",
+      "Constantly switching between tasks may feel productive, but it actually wastes time and energy."
+    ],
+    "burden": [
+      "It is a big burden.",
+      "Work is a burden for him.",
+      "She carries the burden of the whole team.",
+      "Long hours are a burden on family life.",
+      "The burden of extra work often falls on the most committed employees.",
+      "When staff leave and are not replaced, the burden quietly shifts onto those who remain, fuelling a cycle of overwork."
+    ],
+    "productivity": [
+      "Productivity is low.",
+      "We want better productivity.",
+      "Rest can improve your productivity.",
+      "Tired workers have lower productivity.",
+      "Studies show that productivity falls sharply after about fifty hours a week.",
+      "Despite working some of the longest hours in Europe, the country has relatively poor productivity."
+    ],
+    "output": [
+      "Our output is good.",
+      "His output was low today.",
+      "The factory doubled its output.",
+      "More hours do not always mean more output.",
+      "Tired employees often produce lower-quality output despite working longer.",
+      "Measuring workers by their output rather than their hours could help to discourage a culture of presenteeism."
+    ],
+    "make for": [
+      "Rest makes for good work.",
+      "Sun makes for a happy day.",
+      "Short meetings make for a better day.",
+      "Tired staff do not make for a productive office.",
+      "Clear goals and reasonable hours make for a healthier workplace.",
+      "A culture in which staff are afraid to leave on time hardly makes for creative or efficient work."
+    ],
+    "ineffectually": [
+      "He worked ineffectually.",
+      "She tried ineffectually to relax.",
+      "Tired people work ineffectually.",
+      "He sat at his desk ineffectually until midnight.",
+      "Many people stay late and work ineffectually rather than going home to rest.",
+      "Hours spent working ineffectually at the end of a long day may do more harm than good to both the worker and the company."
+    ],
+    "obsessional": [
+      "He is obsessional.",
+      "She is obsessional about work.",
+      "His obsessional habits worry me.",
+      "Workaholics can be obsessional about small details.",
+      "An obsessional focus on work can leave no room for family or friends.",
+      "The line between healthy dedication and obsessional behaviour is not always easy to draw."
+    ],
+    "bogge down": [
+      "Don't get bogged down.",
+      "I got bogged down in emails.",
+      "She was bogged down with paperwork.",
+      "We got bogged down in long meetings all day.",
+      "It's easy to get bogged down in tasks that don't really matter.",
+      "Managers who get bogged down in every detail often lose sight of the bigger picture and work far longer than they need to."
+    ],
+    "better off": [
+      "You're better off here.",
+      "We're better off now.",
+      "She'd be better off with a new job.",
+      "Many workers would be better off working fewer hours.",
+      "Companies may be better off encouraging staff to take all their holidays.",
+      "In the long run, both employees and employers are better off when work is spread more evenly across the week."
+    ],
+    "make good": [
+      "He wants to make good.",
+      "She made good in the city.",
+      "They worked hard to make good.",
+      "Many immigrants worked long hours to make good.",
+      "His desire to make good drove him to work every weekend for years.",
+      "The pressure to make good in a competitive industry can easily turn healthy ambition into workaholism."
+    ],
+    "even out": [
+      "Things will even out.",
+      "Let's even out the work.",
+      "Busy and quiet weeks even out.",
+      "The manager tried to even out the hours among the team.",
+      "Over the year, long days in winter and short days in summer tend to even out.",
+      "Sharing tasks more fairly would even out the pressure and stop a few people carrying most of the load."
+    ]
+  },
+  "0095": {
+    "sanitation": [
+      "Sanitation is important.",
+      "The village has poor sanitation.",
+      "Good sanitation stops disease.",
+      "Billions of people still live without proper sanitation.",
+      "Investing in sanitation is one of the cheapest ways to improve public health.",
+      "Although sanitation rarely makes headlines, it has saved more lives than almost any medical breakthrough."
+    ],
+    "technological": [
+      "It is a technological change.",
+      "We live in a technological age.",
+      "There are many technological problems.",
+      "Simple toilets need very little technological knowledge.",
+      "Some experts argue that the sanitation crisis is not a technological problem but a political one.",
+      "Technological progress has transformed many areas of life, yet basic sanitation remains out of reach for billions."
+    ],
+    "broad": [
+      "The river is broad.",
+      "It's a broad topic.",
+      "Sanitation has a broad meaning.",
+      "There is broad agreement that clean water saves lives.",
+      "In its broadest sense, sanitation includes rubbish collection and drainage as well as toilets.",
+      "A broad coalition of charities, governments and scientists is needed to tackle a problem on this scale."
+    ],
+    "waste product": [
+      "It is a waste product.",
+      "Urine is a waste product.",
+      "The body makes waste products.",
+      "Factories release waste products into rivers.",
+      "Without toilets, human waste products end up in streets and water supplies.",
+      "Some projects now turn human waste products into fertiliser or fuel, creating value from a dangerous problem."
+    ],
+    "waste": [
+      "Put the waste in the bin.",
+      "There is waste in the river.",
+      "Human waste can spread disease.",
+      "Cities need safe ways to get rid of waste.",
+      "Untreated waste contaminates the water that millions of people drink.",
+      "Managing human waste safely is unglamorous work, but it is fundamental to preventing epidemics."
+    ],
+    "diarrhoea": [
+      "He has diarrhoea.",
+      "Dirty water causes diarrhoea.",
+      "Diarrhoea can be very dangerous for babies.",
+      "Washing your hands with soap helps prevent diarrhoea.",
+      "Diarrhoea is one of the leading causes of death among children under five.",
+      "Most deaths from diarrhoea could be prevented with clean water, safe toilets and basic hygiene."
+    ],
+    "unclean": [
+      "The water is unclean.",
+      "Don't use unclean cups.",
+      "Unclean hands spread germs.",
+      "Many families have to drink unclean water every day.",
+      "Unclean toilets in schools can stop girls from attending classes.",
+      "Unclean water and inadequate sanitation together account for a huge share of preventable disease worldwide."
+    ],
+    "infected": [
+      "The cut is infected.",
+      "He is infected with a virus.",
+      "Infected water makes people sick.",
+      "Thousands of children were infected after the floods.",
+      "Infected people can pass the disease on through contaminated water.",
+      "Once a water source has become infected, an entire community can fall ill within days."
+    ],
+    "outweigh": [
+      "The good outweighs the bad.",
+      "The benefits outweigh the cost.",
+      "The risks outweigh the benefits.",
+      "The health gains of toilets outweigh the cost of building them.",
+      "Economists say the savings in healthcare far outweigh the money spent on sanitation.",
+      "Every pound invested in sanitation returns several in better health, so the advantages clearly outweigh the expense."
+    ],
+    "interrupt": [
+      "Don't interrupt me.",
+      "The rain interrupted the game.",
+      "Illness interrupts children's education.",
+      "Washing hands can interrupt the spread of disease.",
+      "Safe toilets interrupt the cycle of infection that keeps poor communities sick.",
+      "By interrupting the transmission of germs from faeces to food and water, basic sanitation prevents countless infections."
+    ],
+    "aid": [
+      "They need aid.",
+      "Aid arrived after the flood.",
+      "Rich countries send aid to poor ones.",
+      "Some aid money is used to build toilets and wells.",
+      "Charities argue that more aid should go to water and sanitation projects.",
+      "Aid works best when local communities help to decide how the money is spent and maintain what is built."
+    ],
+    "health care": [
+      "Health care is expensive.",
+      "Everyone needs health care.",
+      "Poor people often lack health care.",
+      "Many villages are far from any health care.",
+      "Governments often spend more on health care than on preventing disease.",
+      "Investing in sanitation is a form of preventive health care that can save money for decades to come."
+    ],
+    "priority": [
+      "Safety is our priority.",
+      "Clean water is a priority.",
+      "Health must be a top priority.",
+      "Toilets are rarely a priority in national budgets.",
+      "Campaigners want sanitation to become a global priority alongside education.",
+      "Unless sanitation is made a political priority, progress will remain slow regardless of the technology available."
+    ],
+    "hiv": [
+      "HIV is a virus.",
+      "He has HIV.",
+      "HIV can lead to AIDS.",
+      "Much more money is spent on HIV than on sanitation.",
+      "Campaigns against HIV have attracted huge international funding.",
+      "While HIV has rightly received global attention, the quieter killer of poor sanitation has been largely neglected."
+    ],
+    "tb": [
+      "TB is a disease.",
+      "She was ill with TB.",
+      "TB affects the lungs.",
+      "TB can be cured with the right medicine.",
+      "TB spreads more easily in crowded homes without clean air or water.",
+      "Diseases such as TB and malaria receive far more funding than sanitation, despite the huge toll of dirty water."
+    ],
+    "malaria": [
+      "Malaria is dangerous.",
+      "Mosquitoes carry malaria.",
+      "He caught malaria in Africa.",
+      "Bed nets help protect children from malaria.",
+      "Malaria kills hundreds of thousands of people every year, mostly young children.",
+      "Global efforts against malaria show what can be achieved when a health problem receives sustained political attention."
+    ],
+    "politician": [
+      "He is a politician.",
+      "The politician visited our town.",
+      "Politicians promised clean water.",
+      "Many politicians prefer to open hospitals rather than sewers.",
+      "Politicians often avoid sanitation because it is seen as an embarrassing subject.",
+      "Persuading politicians that toilets deserve funding is one of the biggest challenges facing sanitation campaigners."
+    ],
+    "that is to say": [
+      "Come early, that is to say at eight.",
+      "It's far, that is to say two days away.",
+      "Most people, that is to say over half, agreed.",
+      "The disease is preventable, that is to say it can be stopped.",
+      "The project failed, that is to say the toilets were built but never used.",
+      "Sanitation is a political problem, that is to say the solutions exist but the will to pay for them is missing."
+    ],
+    "shocking": [
+      "That's shocking!",
+      "The news was shocking.",
+      "The conditions in the slum were shocking.",
+      "It's shocking how many people have no toilet.",
+      "The shocking truth is that diarrhoea kills more children than malaria.",
+      "What is most shocking is not the scale of the problem but how cheaply much of it could be solved."
+    ],
+    "fade": [
+      "The light faded.",
+      "My memory has faded.",
+      "The colours faded in the sun.",
+      "After the floods, media attention soon faded.",
+      "Hopes of reaching the sanitation targets are beginning to fade.",
+      "Once the cameras leave a disaster zone, international concern often fades long before the danger of disease has passed."
+    ],
+    "worthwhile": [
+      "It's worthwhile work.",
+      "The trip was worthwhile.",
+      "Clean water is a worthwhile cause.",
+      "Charities say sanitation projects are very worthwhile.",
+      "Even a simple pit latrine is a worthwhile investment for a poor family.",
+      "Few public health measures are as worthwhile as sanitation, which pays back its cost many times over in lives saved."
+    ],
+    "reduction": [
+      "We saw a reduction.",
+      "There was a price reduction.",
+      "Toilets bring a reduction in disease.",
+      "Hand washing led to a reduction in diarrhoea.",
+      "The city saw a dramatic reduction in cholera after the new sewers were built.",
+      "A sharp reduction in infant mortality followed the introduction of clean water and proper sanitation in nineteenth-century cities."
+    ],
+    "advent": [
+      "It was the advent of a new age.",
+      "Life changed with the advent of TV.",
+      "The advent of sewers made cities cleaner.",
+      "Before the advent of toilets, disease spread quickly.",
+      "The advent of modern sanitation added years to average life expectancy.",
+      "Historians argue that the advent of piped water and sewers did more for health than the advent of antibiotics."
+    ],
+    "impulse": [
+      "I had an impulse to help.",
+      "He bought it on impulse.",
+      "She felt a sudden impulse to give money.",
+      "The first impulse of many donors is to fund hospitals.",
+      "The cholera outbreak gave a new impulse to plans for better sewers.",
+      "Charitable impulses are powerful, but lasting change in sanitation requires steady funding rather than sudden generosity."
+    ],
+    "version": [
+      "This is the new version.",
+      "I like the old version.",
+      "There is a simple version of the toilet.",
+      "A cheaper version of the filter is now available.",
+      "A low-cost version of the flush toilet that uses no water is being tested in Africa.",
+      "Designers are developing versions of sanitation technology that can work without sewers, electricity or piped water."
+    ]
+  },
+  "0096": {
+    "under way": [
+      "The work is under way.",
+      "The cleaning is under way.",
+      "Plans for the new kitchen are under way.",
+      "By ten o'clock the big clean was well under way.",
+      "Once the clear-out was under way, we found things we had forgotten about for years.",
+      "With the annual spring clean under way, every cupboard and drawer in the house was being emptied and sorted."
+    ],
+    "housework": [
+      "I do housework on Sunday.",
+      "Housework takes a lot of time.",
+      "We share the housework in our flat.",
+      "Many people find housework boring but necessary.",
+      "Surveys show that women still do most of the housework in many countries.",
+      "Although machines have made housework less physically demanding, the time we spend on it has hardly fallen."
+    ],
+    "varied": [
+      "My work is varied.",
+      "We have a varied list of jobs.",
+      "Cleaning tasks are more varied than people think.",
+      "People have varied opinions about how often to clean.",
+      "The programme heard varied views, from people who love cleaning to those who hate it.",
+      "Attitudes to tidiness are remarkably varied, shaped by upbringing, culture and personality."
+    ],
+    "employ": [
+      "They employ a cleaner.",
+      "The hotel employs ten cleaners.",
+      "We decided to employ someone to clean the windows.",
+      "More and more households employ help with cleaning.",
+      "Rather than employ a professional, they spent the whole weekend cleaning the house themselves.",
+      "Wealthy Victorian families would employ a whole staff of servants just to keep their homes spotless."
+    ],
+    "skimming": [
+      "That is just skimming.",
+      "Quick skimming is not real cleaning.",
+      "My daily cleaning is mostly skimming the surfaces.",
+      "After months of skimming, the house needed a proper clean.",
+      "Skimming over the visible areas hides the dust that builds up behind the furniture.",
+      "Spring cleaning is the antidote to a winter of skimming, when we only ever wiped what guests might notice."
+    ],
+    "polish": [
+      "Polish your shoes.",
+      "I polish the mirror every week.",
+      "We need to buy some furniture polish.",
+      "She polished the old silver until it looked new.",
+      "Polishing the floors by hand is tiring, but the result is worth the effort.",
+      "My grandmother insisted on polishing every brass handle in the house as part of her spring cleaning ritual."
+    ],
+    "grow up": [
+      "Children grow up fast.",
+      "I grew up in a small house.",
+      "Where did you grow up?",
+      "I grew up in a family where everyone helped with the cleaning.",
+      "Children who grow up doing chores often become more independent adults.",
+      "Having grown up with a mother who cleaned obsessively, he swung to the opposite extreme and rarely tidied at all."
+    ],
+    "washday": [
+      "Monday is washday.",
+      "It rained on washday.",
+      "On washday the garden was full of clothes.",
+      "Before washing machines, washday was hard work.",
+      "Washday used to take up an entire day, with water heated over a fire and clothes scrubbed by hand.",
+      "The weekly washday has largely disappeared, since modern machines let us do a load whenever it suits us."
+    ],
+    "carpet": [
+      "The carpet is red.",
+      "Don't walk on the carpet in your shoes.",
+      "There is a big stain on the carpet.",
+      "We clean the carpets thoroughly every spring.",
+      "A carpet can trap a surprising amount of dust, hair and dirt over the winter.",
+      "Many families still haul their carpets into the yard each spring to wash them, a tradition passed down through generations."
+    ],
+    "vacuum cleaner": [
+      "Where is the vacuum cleaner?",
+      "Our vacuum cleaner is very loud.",
+      "I bought a new vacuum cleaner last week.",
+      "A good vacuum cleaner makes cleaning the carpets much easier.",
+      "Robot vacuum cleaners can clean the floors while you are out at work.",
+      "The invention of the vacuum cleaner transformed housework, removing dust that brooms had merely pushed around."
+    ],
+    "vacuum": [
+      "Please vacuum the room.",
+      "I vacuum every Saturday.",
+      "Did you vacuum under the bed?",
+      "It's important to vacuum behind the sofa during spring cleaning.",
+      "If you have pets, you may need to vacuum several times a week to keep the hair under control.",
+      "Experts recommend vacuuming curtains and mattresses as well as floors, since dust mites thrive in soft fabrics."
+    ],
+    "washing": [
+      "I do the washing.",
+      "The washing is dry now.",
+      "There is a big pile of washing in the basket.",
+      "Doing the washing is easier with a modern machine.",
+      "In spring we can finally hang the washing outside instead of drying it on radiators.",
+      "Between the washing, the ironing and the cooking, there seemed to be no time left for anything else."
+    ],
+    "minimum": [
+      "Do the minimum.",
+      "I do the minimum of cleaning.",
+      "Keep the noise to a minimum, please.",
+      "He only does the bare minimum of housework.",
+      "Clearing out clutter keeps the time you spend cleaning to a minimum.",
+      "Some people aim to own the minimum number of possessions, arguing that fewer things mean less to clean and less to worry about."
+    ],
+    "messy": [
+      "My room is messy.",
+      "The kitchen is very messy.",
+      "Don't leave the table messy after dinner.",
+      "I'm a bit messy, but I clean up every weekend.",
+      "Some studies suggest that people with messy desks can be more creative.",
+      "Living with a messy flatmate can test even the most patient person, especially when it comes to the shared kitchen."
+    ],
+    "reasonably": [
+      "It is reasonably clean.",
+      "My room is reasonably tidy.",
+      "The cleaning went reasonably quickly.",
+      "If you clean a little every day, the house stays reasonably neat.",
+      "Most people are happy as long as their home is reasonably clean and free of clutter.",
+      "She describes herself as reasonably organised, though her friends think her standards border on the obsessive."
+    ],
+    "obsessive": [
+      "She is obsessive about cleaning.",
+      "He has an obsessive need to tidy.",
+      "My sister is obsessive about her clean floors.",
+      "Cleaning every day is not obsessive if you enjoy it.",
+      "Obsessive cleaning can sometimes be a sign of anxiety rather than a love of tidiness.",
+      "There is a fine line between taking pride in a clean home and an obsessive need for everything to be perfect."
+    ],
+    "untidy": [
+      "The room is untidy.",
+      "His desk is always untidy.",
+      "I can't relax in an untidy house.",
+      "Teenagers are often accused of being untidy.",
+      "An untidy home can make it harder to find things and to feel calm.",
+      "He admits he is naturally untidy, but he has learned that a quick tidy each evening saves hours at the weekend."
+    ],
+    "downstairs": [
+      "Come downstairs.",
+      "The kitchen is downstairs.",
+      "I left my boots downstairs.",
+      "The downstairs rooms get dirty faster than the bedrooms.",
+      "We keep the downstairs hallway clear so that nobody trips over shoes and bags.",
+      "By the time she had finished scrubbing everything downstairs, she had no energy left for the rest of the house."
+    ],
+    "wellington": [
+      "Where is my other wellington?",
+      "Put on your wellingtons.",
+      "His wellingtons are covered in mud.",
+      "Please take off your wellingtons before you come inside.",
+      "A pair of old wellingtons by the back door had been there since the winter floods.",
+      "Named after the Duke of Wellington, the wellington boot has become a symbol of rainy British weekends and muddy gardens."
+    ],
+    "insist": [
+      "I insist.",
+      "She insists on a clean kitchen.",
+      "My father insisted that we take our shoes off.",
+      "My flatmate insists on doing the washing-up straight after dinner.",
+      "He insisted on throwing out everything he hadn't used for a year.",
+      "Although everyone else was happy to relax, she insisted that the windows be cleaned before the guests arrived."
+    ],
+    "clutter": [
+      "There is too much clutter.",
+      "Clear the clutter from the table.",
+      "The garage is full of clutter.",
+      "Clutter makes a small room look even smaller.",
+      "Many people say they feel more relaxed once the clutter has gone.",
+      "Psychologists suggest that visual clutter competes for our attention, which is why a tidy room can help us concentrate."
+    ],
+    "loo": [
+      "Where is the loo?",
+      "I need the loo.",
+      "The loo is upstairs on the left.",
+      "It's my turn to clean the loo this week.",
+      "A clean loo and kitchen matter more to most visitors than a perfectly tidy bedroom.",
+      "In shared houses, arguments about who last cleaned the loo are among the most common sources of tension."
+    ],
+    "lie around": [
+      "Don't leave your socks lying around.",
+      "Books were lying around everywhere.",
+      "Shoes lie around in the hall all day.",
+      "I hate it when dirty cups are left lying around.",
+      "Papers and old letters had been lying around on the desk for months.",
+      "If things are allowed to lie around for too long, they slowly become part of the furniture and nobody notices them any more."
+    ],
+    "freak": [
+      "He is a clean freak.",
+      "My mum is a tidy freak.",
+      "Are you a neat freak or a messy person?",
+      "Living with a clean freak means the house is always spotless.",
+      "She laughs at being called a neat freak, but she does iron her tea towels.",
+      "Being labelled a 'clean freak' can be a joke among friends, yet for some people the need to clean becomes genuinely distressing."
+    ],
+    "tidying": [
+      "I like tidying.",
+      "Tidying takes ten minutes.",
+      "We did some tidying before the guests came.",
+      "A little tidying every evening keeps the house in order.",
+      "Tidying is different from cleaning: one is about order, the other about dirt.",
+      "Books on tidying have become bestsellers, promising that an orderly home will lead to a calmer, happier life."
+    ],
+    "have out": [
+      "Have everything out.",
+      "We had the old toys out.",
+      "I had all my clothes out on the bed.",
+      "Once you have everything out, you can decide what to keep.",
+      "Every spring we have a good clear-out and have all the junk out of the attic.",
+      "Having everything out on the floor at once is chaotic, but it forces you to face how much you have actually accumulated."
+    ],
+    "clear out": [
+      "Clear out your bag.",
+      "I cleared out my wardrobe.",
+      "We need to clear out the kitchen cupboards.",
+      "It felt great to clear out all the old papers from my desk.",
+      "Spring is the traditional time to clear out the things you no longer need.",
+      "When they finally cleared out the attic, they found letters and photographs that had been forgotten for decades."
+    ],
+    "psychologically": [
+      "It helps psychologically.",
+      "Cleaning is good for us psychologically.",
+      "Psychologically, a tidy room feels calmer.",
+      "Throwing things away can be psychologically difficult for some people.",
+      "Psychologically, finishing a big cleaning job gives us a strong sense of achievement.",
+      "Researchers are interested in why clearing out our possessions can be so psychologically powerful, almost like a fresh start."
+    ],
+    "rid of": [
+      "Get rid of it.",
+      "I got rid of my old sofa.",
+      "We need to get rid of these boxes.",
+      "It's hard to get rid of things that have sentimental value.",
+      "Once the house was rid of clutter, it felt bigger and brighter.",
+      "Many people feel lighter once they are rid of possessions they have been holding on to out of guilt or habit."
+    ],
+    "clear the air": [
+      "Let's clear the air.",
+      "We talked to clear the air.",
+      "A good talk can clear the air.",
+      "The flatmates had a meeting to clear the air about cleaning.",
+      "Sometimes a big clear-out at home can also clear the air between family members.",
+      "Rather than letting resentment build up over who does the chores, it's better to clear the air early and agree on a fair rota."
+    ],
+    "mentally": [
+      "I feel mentally tired.",
+      "Cleaning helps me mentally.",
+      "A tidy desk helps me feel mentally organised.",
+      "Clearing out old things can make you feel mentally lighter.",
+      "Physical tasks like scrubbing floors can be surprisingly relaxing mentally.",
+      "Many people find that sorting out their surroundings helps them prepare mentally for the challenges of a new season."
+    ]
+  },
+  "0097": {
+    "astrology": [
+      "Do you believe in astrology?",
+      "My sister loves astrology.",
+      "Astrology is popular in magazines.",
+      "Astrology is not the same as astronomy, which is a science.",
+      "Despite a lack of scientific evidence, astrology remains popular all over the world.",
+      "Astrology has survived for thousands of years, perhaps because it offers comfort and a sense of order in an uncertain world."
+    ],
+    "horoscope": [
+      "I read my horoscope.",
+      "What does your horoscope say?",
+      "My horoscope said I would meet someone new.",
+      "Most people read their horoscope for fun, not for advice.",
+      "Horoscopes are usually written in such general terms that they could apply to almost anyone.",
+      "Psychologists explain our belief in horoscopes through the tendency to accept vague descriptions as uniquely accurate about ourselves."
+    ],
+    "practical": [
+      "He is very practical.",
+      "This is a practical idea.",
+      "She is practical and doesn't believe in horoscopes.",
+      "Practical people like to solve problems, not dream about them.",
+      "Astrologers often describe some star signs as practical and down-to-earth.",
+      "Words like 'practical' and 'sensitive' appear in so many horoscopes because almost everyone sees themselves that way."
+    ],
+    "perfectionist": [
+      "She is a perfectionist.",
+      "I'm not a perfectionist.",
+      "As a perfectionist, he checks his work many times.",
+      "Being a perfectionist can make simple tasks take a long time.",
+      "Virgos are often described in horoscopes as tidy, careful perfectionists.",
+      "Many people happily call themselves perfectionists, seeing it as a flattering flaw rather than a genuine weakness."
+    ],
+    "independent": [
+      "She is independent.",
+      "I like to be independent.",
+      "He became independent when he left home.",
+      "Horoscopes often tell people they are independent and creative.",
+      "Most of us like to think we are independent, so we agree when a horoscope says so.",
+      "It is ironic that someone who prides herself on being independent should consult the stars before every decision."
+    ],
+    "frequently": [
+      "I frequently read my horoscope.",
+      "She frequently comes late.",
+      "Astrology is frequently discussed online.",
+      "People frequently remember the predictions that came true and forget the rest.",
+      "Celebrities are frequently asked about their star signs in interviews.",
+      "The same few phrases appear so frequently in horoscopes that some writers admit to recycling them week after week."
+    ],
+    "on time": [
+      "Be on time.",
+      "The bus is on time.",
+      "She is always on time for work.",
+      "People with this star sign are said to be organised and always on time.",
+      "Whether you are on time or not probably has more to do with habit than with the stars.",
+      "If being on time were truly written in the stars, employers might start asking candidates for their birth charts."
+    ],
+    "taken with": [
+      "She was taken with the idea.",
+      "I'm quite taken with astrology.",
+      "He was taken with the colourful star charts.",
+      "Many young people are taken with astrology apps these days.",
+      "I wasn't particularly taken with the astrologer's explanation of my personality.",
+      "Even the sceptical journalist seemed rather taken with the idea that the planets might shape our moods."
+    ],
+    "pinch": [
+      "Add a pinch of salt.",
+      "Take it with a pinch of salt.",
+      "I take my horoscope with a pinch of salt.",
+      "You should take online predictions with a pinch of salt.",
+      "Most readers take their horoscopes with a pinch of salt, treating them as light entertainment.",
+      "Anyone promising to predict your future from the stars deserves to be taken with more than a pinch of salt."
+    ],
+    "entirely": [
+      "I entirely agree.",
+      "It's entirely up to you.",
+      "I'm not entirely sure about that.",
+      "The horoscope was entirely wrong about my week.",
+      "Astrologers say their work is not entirely about prediction but also about understanding character.",
+      "It would be unfair to dismiss astrology entirely without considering why it means so much to so many people."
+    ],
+    "lose one's temper": [
+      "Don't lose your temper.",
+      "He lost his temper.",
+      "I rarely lose my temper.",
+      "She lost her temper when the bus was late again.",
+      "Some people blame their star sign when they lose their temper.",
+      "Blaming Mars for the fact that you lost your temper is a convenient way to avoid taking responsibility for your own behaviour."
+    ],
+    "journalism": [
+      "I study journalism.",
+      "Journalism is a hard job.",
+      "He has worked in journalism for ten years.",
+      "Writing horoscopes is a small and unusual part of journalism.",
+      "Some writers admit that horoscopes have little to do with serious journalism.",
+      "The horoscope column sits awkwardly in newspapers that otherwise pride themselves on fact-based journalism."
+    ],
+    "sit down": [
+      "Please sit down.",
+      "Let's sit down and talk.",
+      "I sat down to read my horoscope.",
+      "The writer sits down with a cup of tea and writes twelve horoscopes.",
+      "When I sat down to write my first horoscope, I had no idea what to say.",
+      "Few readers imagine a tired journalist sitting down on a Thursday afternoon to invent their destiny for the week ahead."
+    ],
+    "formula": [
+      "There is a formula.",
+      "It's a simple formula.",
+      "Horoscopes follow the same formula every week.",
+      "The formula is easy: some good news, a warning and some advice.",
+      "Once she had learned the formula, writing horoscopes took her less than an hour.",
+      "The success of the horoscope column lies in a formula that flatters readers while promising change just around the corner."
+    ],
+    "endure": [
+      "They endured the cold.",
+      "I can't endure this noise.",
+      "People endured hard times in the past.",
+      "Ancient people endured floods and famines they could not explain.",
+      "Belief in the stars has endured despite centuries of scientific progress.",
+      "Perhaps astrology endures because people facing hardship have always looked to the sky for meaning and hope."
+    ],
+    "famine": [
+      "There was a famine.",
+      "Famine is very dangerous.",
+      "Many people died in the famine.",
+      "Kings wanted astrologers to warn them about famine and war.",
+      "Ancient astrologers watched the sky for signs of coming famine or a good harvest.",
+      "For early farming societies, predicting famine was a matter of survival, which helps explain why astrology became so influential."
+    ],
+    "sceptical": [
+      "I am sceptical.",
+      "He is sceptical about horoscopes.",
+      "My father is very sceptical about astrology.",
+      "I was sceptical at first, but my horoscope was surprisingly accurate.",
+      "Many scientists remain deeply sceptical, pointing out that no study has shown astrology works.",
+      "Being sceptical does not mean dismissing everything; it means asking for evidence before accepting a claim."
+    ],
+    "postgraduate": [
+      "He is a postgraduate.",
+      "I want to do a postgraduate course.",
+      "She is a postgraduate student in history.",
+      "Some universities offer postgraduate courses about astrology and culture.",
+      "Her postgraduate research looked at why people trust horoscopes.",
+      "Studying astrology at postgraduate level does not mean believing in it; the focus is on its role in history and society."
+    ],
+    "charge": [
+      "How much do you charge?",
+      "They charge ten pounds.",
+      "The app doesn't charge for daily horoscopes.",
+      "Astrologers often charge more for a full birth chart.",
+      "Critics say it is wrong to charge vulnerable people for predictions that cannot be proven.",
+      "Astrology has become a profitable industry, with apps and websites charging monthly subscriptions for personalised forecasts."
+    ],
+    "irritated": [
+      "I feel irritated.",
+      "She looked irritated.",
+      "He was irritated by the noise.",
+      "My horoscope said I would feel irritated, and I did.",
+      "Scientists are often irritated when astrology is presented as if it were a science.",
+      "She grew increasingly irritated as her colleague explained every minor problem by referring to the planets."
+    ],
+    "annoyed": [
+      "Are you annoyed?",
+      "I'm a bit annoyed.",
+      "She was annoyed with her brother.",
+      "I was annoyed when my friend laughed at my star sign.",
+      "Some readers get annoyed when newspapers stop printing horoscopes.",
+      "Astrologers are understandably annoyed when their work is dismissed as nonsense by people who have never studied it."
+    ],
+    "trivialise": [
+      "Don't trivialise it.",
+      "They trivialise the problem.",
+      "Jokes can trivialise serious topics.",
+      "Astrologers say short horoscopes trivialise a complex tradition.",
+      "We shouldn't trivialise people's beliefs, even if we don't share them.",
+      "Reducing thousands of years of astrological practice to a single cheerful sentence arguably trivialises both the tradition and its readers."
+    ],
+    "make out": [
+      "He makes out he's rich.",
+      "She made out she was ill.",
+      "It's not as bad as people make out.",
+      "Some astrologers make out that they can predict the future.",
+      "The article made out that astrology was completely harmless, which some readers disputed.",
+      "Critics make out that horoscope readers are naive, yet surveys suggest most of them treat it as harmless fun."
+    ],
+    "out to": [
+      "He's out to win.",
+      "They're out to get you.",
+      "She is out to prove them wrong.",
+      "Not every astrologer is out to trick people.",
+      "The journalist was out to discover how horoscopes were really written.",
+      "Sceptics argue that the industry is out to exploit people's anxieties, while supporters see it as a source of comfort."
+    ],
+    "tabloid": [
+      "He reads a tabloid.",
+      "The tabloid has big pictures.",
+      "My horoscope is in the tabloid.",
+      "Tabloids often print celebrity gossip and horoscopes.",
+      "The tabloid's astrologer became famous for her bold predictions about celebrities.",
+      "Horoscopes have long been a staple of the tabloid press, sitting comfortably alongside gossip, puzzles and sports results."
+    ],
+    "on the same page": [
+      "We are on the same page.",
+      "Are we on the same page?",
+      "My friends and I are on the same page about horoscopes.",
+      "Scientists and astrologers will never be on the same page.",
+      "Before we argue, let's make sure we're on the same page about what astrology actually claims.",
+      "The two presenters were not quite on the same page: one found horoscopes harmless, the other thought they were misleading."
+    ],
+    "lineage": [
+      "It has a long lineage.",
+      "She is proud of her lineage.",
+      "The tradition has an old lineage.",
+      "Western astrology's lineage can be traced to Babylon and Greece.",
+      "Astrologers often point to the ancient lineage of their practice as proof of its value.",
+      "A long lineage does not prove that an idea is true, but it does show how deeply it is rooted in human culture."
+    ],
+    "date back": [
+      "It dates back years.",
+      "This house dates back to 1900.",
+      "The custom dates back to ancient times.",
+      "The twelve star signs date back to the Babylonians.",
+      "Newspaper horoscopes only date back to the 1930s, when one was printed for a royal birth.",
+      "Although astrology dates back millennia, the modern sun-sign column is a surprisingly recent invention of the popular press."
+    ]
+  },
+  "0098": {
+    "flashback": [
+      "I had a flashback.",
+      "The song gave me a flashback.",
+      "Smells can cause sudden flashbacks.",
+      "The smell of bread gave her a flashback to her grandmother's kitchen.",
+      "Scientists study why odours produce such vivid flashbacks to early life.",
+      "A single whiff of mothballs can trigger a flashback so intense that decades seem to disappear in a moment."
+    ],
+    "conjure up": [
+      "Smells conjure up pictures.",
+      "This song conjures up my school days.",
+      "The smell of rain conjures up my old village.",
+      "Certain perfumes can conjure up very strong feelings.",
+      "Just the word 'holiday' conjures up images of sunshine and the sea.",
+      "Few things conjure up the past as powerfully as a familiar smell met unexpectedly years later."
+    ],
+    "conjure": [
+      "He can conjure tricks.",
+      "The smell conjured a happy picture.",
+      "The magician conjured a rabbit from a hat.",
+      "Old photographs conjure feelings we thought we had forgotten.",
+      "A good writer can conjure a whole world with just a few words.",
+      "Smell has a unique ability to conjure scenes from the past with almost photographic detail."
+    ],
+    "mothball": [
+      "I can smell mothballs.",
+      "Put a mothball in the box.",
+      "The old coat smelled of mothballs.",
+      "People use mothballs to protect woollen clothes from insects.",
+      "For many people, the smell of mothballs brings back memories of elderly relatives.",
+      "The sharp chemical smell of mothballs is unpleasant to some, yet comfortingly nostalgic to others."
+    ],
+    "lavender": [
+      "Lavender is purple.",
+      "I love the smell of lavender.",
+      "She keeps a bag of lavender in her drawer.",
+      "Lavender oil is often used to help people relax and sleep.",
+      "The fields of lavender in the south of France attract thousands of tourists.",
+      "Even years later, a faint trace of lavender could transport him back to his mother's bedroom."
+    ],
+    "sense of smell": [
+      "Dogs have a good sense of smell.",
+      "I lost my sense of smell.",
+      "A cold can affect your sense of smell.",
+      "Our sense of smell gets weaker as we grow older.",
+      "The sense of smell is connected directly to the parts of the brain that handle emotion.",
+      "Although we rarely think about it, the sense of smell shapes our memories more than any other sense."
+    ],
+    "trigger": [
+      "Smells trigger memories.",
+      "Dust can trigger a cough.",
+      "What triggered that memory?",
+      "The smell of hospitals triggers bad feelings for some people.",
+      "Researchers wanted to know which smells trigger the strongest emotional responses.",
+      "A smell can act as a powerful trigger, releasing memories we didn't even know we still had."
+    ],
+    "pipe": [
+      "My grandad had a pipe.",
+      "He smoked a pipe every evening.",
+      "The room smelled of his pipe.",
+      "The sweet smell of pipe tobacco filled the old library.",
+      "Whenever I smell pipe tobacco, I picture my grandfather reading by the fire.",
+      "Although he gave up his pipe decades ago, its smell still lingers in my earliest memories of him."
+    ],
+    "mud": [
+      "My shoes are full of mud.",
+      "The children played in the mud.",
+      "There was a lot of mud on the farm.",
+      "The smell of wet mud reminds him of football in the rain.",
+      "For some, the earthy smell of mud is linked to happy memories of the countryside.",
+      "It may seem odd, but the smell of mud and wet leaves is one of the most nostalgic scents people report."
+    ],
+    "home in": [
+      "Let's home in on one smell.",
+      "The dog homed in on the food.",
+      "The study homes in on childhood memories.",
+      "Scientists homed in on the part of the brain that processes smell.",
+      "Once you home in on the problem, it becomes much easier to solve.",
+      "By homing in on a single odour, the team could measure exactly how memories were triggered."
+    ],
+    "vodka": [
+      "Vodka is a strong drink.",
+      "He doesn't drink vodka.",
+      "The smell of vodka made her feel sick.",
+      "Some people can't stand vodka because of one bad experience.",
+      "In the study, people who smelled vodka recalled memories from their student years.",
+      "A single sniff of vodka was enough to bring back an embarrassing evening she had tried hard to forget."
+    ],
+    "bring back": [
+      "This song brings back memories.",
+      "The smell brought back my childhood.",
+      "Old photos bring back happy times.",
+      "The smell of cut grass brings back summers at my grandparents' house.",
+      "Researchers found that smells bring back older memories than words or pictures do.",
+      "Walking into the bakery brought back, with astonishing clarity, mornings spent at my mother's side."
+    ],
+    "emotionally": [
+      "She spoke emotionally.",
+      "I was emotionally tired.",
+      "The smell affected him emotionally.",
+      "Memories linked to smell feel more emotionally intense.",
+      "People rated smell-triggered memories as more emotionally vivid than those triggered by pictures.",
+      "Because smell is processed so close to the emotional centres of the brain, its memories are emotionally charged."
+    ],
+    "to that": [
+      "I agree to that.",
+      "Add sugar to that.",
+      "There's more to that story.",
+      "Smells bring back memories, and added to that, they make us feel emotional.",
+      "The memories are older, and to that we can add the fact that they feel more vivid.",
+      "Smell is closely linked to emotion; add to that its direct route to the memory centre, and its power makes sense."
+    ],
+    "cue": [
+      "That's your cue.",
+      "Smells are good memory cues.",
+      "The actor missed his cue.",
+      "In the experiment, people were given words or smells as cues.",
+      "Smell cues tended to bring back memories from early childhood.",
+      "Compared with visual or verbal cues, odour cues produced memories that people described as more vivid and emotional."
+    ],
+    "exact": [
+      "What's the exact time?",
+      "This is the exact place.",
+      "I remember the exact smell of her perfume.",
+      "Scientists are not sure of the exact reason smell is linked to memory.",
+      "The smell took her back to the exact moment she first arrived in London.",
+      "Although she couldn't recall the exact words, the scent brought back every feeling of that afternoon."
+    ],
+    "take back": [
+      "This takes me back!",
+      "The song took me back.",
+      "This smell takes me back to Spain.",
+      "The smell of the old house took her back thirty years.",
+      "A single smell can take you back to a place you haven't visited in decades.",
+      "The aroma of baking bread took him straight back to his grandmother's kitchen, as if no time had passed."
+    ],
+    "convincingly": [
+      "He spoke convincingly.",
+      "She lied convincingly.",
+      "The results convincingly support the idea.",
+      "No one has convincingly explained why smell is so powerful.",
+      "The researchers argued convincingly that smell memories are different from others.",
+      "Only a much larger study could convincingly prove that odours unlock memories better than any other sense."
+    ],
+    "fragrance": [
+      "I like this fragrance.",
+      "Roses have a sweet fragrance.",
+      "She bought a new fragrance.",
+      "The fragrance of her perfume reminded him of their first date.",
+      "Perfume companies spend millions creating fragrances that make people feel good.",
+      "The delicate fragrance of orange blossom carried her back to the courtyard of her childhood home."
+    ],
+    "scent": [
+      "What a lovely scent!",
+      "The candle has a nice scent.",
+      "The dog followed the scent.",
+      "The scent of pine trees reminds me of family holidays.",
+      "A familiar scent can bring back a memory faster than a photograph.",
+      "Long after she had gone, the faint scent of her perfume remained in the room, stirring memories of her."
+    ],
+    "aroma": [
+      "I love this aroma.",
+      "The soup has a nice aroma.",
+      "The aroma of bread filled the kitchen.",
+      "The aroma of spices reminds me of my mother's cooking.",
+      "Supermarkets sometimes pump the aroma of baking bread into the shop to attract customers.",
+      "The rich aroma of slow-cooked plov drifted through the house, reminding everyone of family celebrations."
+    ],
+    "odour": [
+      "What is that odour?",
+      "The fridge has a bad odour.",
+      "Open the window to get rid of the odour.",
+      "Some odours can bring back unpleasant memories.",
+      "Scientists used a range of odours to test people's memories in the experiment.",
+      "Even an unpleasant odour, such as damp or smoke, can unlock surprisingly fond memories of the past."
+    ],
+    "stink": [
+      "Your socks stink!",
+      "What a terrible stink!",
+      "The bins stink in summer.",
+      "The stink of the old fish market stayed with me for years.",
+      "Strangely, even the stink of petrol brings back happy memories for some people.",
+      "The stink of the farm, which she had hated as a child, now made her feel unexpectedly homesick."
+    ],
+    "drink in": [
+      "Drink in the view.",
+      "She drank in the fresh air.",
+      "We drank in the smell of the sea.",
+      "He closed his eyes and drank in the aroma of the coffee.",
+      "Tourists stood on the hill, drinking in the beauty of the old city.",
+      "Returning to her village after twenty years, she paused at the gate to drink in every familiar smell and sound."
+    ],
+    "fruity": [
+      "It smells fruity.",
+      "I like fruity drinks.",
+      "The shampoo has a fruity smell.",
+      "The fruity smell of the sweets reminded her of her school days.",
+      "Wine experts often describe a wine as fruity, spicy or earthy.",
+      "The sweet, fruity scent of ripe apricots instantly took him back to summers in his grandfather's orchard."
+    ],
+    "distinct": [
+      "It has a distinct smell.",
+      "There is a distinct difference.",
+      "Each flower has a distinct scent.",
+      "I have a distinct memory of the smell of my first school.",
+      "Smell memories seem to be distinct from memories triggered by sight or sound.",
+      "There was a distinct note of smoke in the air, which immediately reminded her of bonfire nights years ago."
+    ],
+    "foot": [
+      "My foot hurts.",
+      "He hurt his left foot.",
+      "Wash your feet before bed.",
+      "The changing room smelled of football boots and sweaty feet.",
+      "Some cheeses are said to smell like feet, but people still love them.",
+      "Oddly, the smell of damp socks and muddy feet brought back fond memories of his school football team."
+    ],
+    "evoke": [
+      "Smells evoke memories.",
+      "The music evoked my childhood.",
+      "The smell evoked a happy feeling.",
+      "The film evokes life in a small village in the 1950s.",
+      "Researchers asked which smells evoke the most vivid memories.",
+      "Few experiences evoke the past as instantly as a smell we haven't encountered since childhood."
+    ],
+    "pair up": [
+      "Pair up with a friend.",
+      "The teacher paired us up.",
+      "Pair up each word with a picture.",
+      "Our brains pair up smells with the places where we first met them.",
+      "Participants were paired up and asked to describe their earliest smell memories.",
+      "When a smell is paired up with a strong emotion, the memory it creates can last a lifetime."
+    ],
+    "imprint": [
+      "It left an imprint.",
+      "That day is imprinted on my mind.",
+      "Smells imprint strongly on young children.",
+      "The smell of the hospital was imprinted on her memory for ever.",
+      "Experiences in early childhood leave a deep imprint on the way we react to smells.",
+      "Smells we meet before the age of ten seem to imprint themselves on the brain more deeply than those we meet later."
+    ],
+    "go away": [
+      "Please go away!",
+      "The smell won't go away.",
+      "My headache went away after lunch.",
+      "Open the windows and the smell of smoke will soon go away.",
+      "Some memories never really go away; they just wait for the right smell to bring them back.",
+      "After an illness, the sense of smell can disappear for months before it slowly comes back, though for some it never fully goes away."
+    ],
+    "deodorant": [
+      "I use deodorant.",
+      "Don't forget your deodorant.",
+      "This deodorant smells of lemons.",
+      "The changing room smelled of cheap deodorant and sweat.",
+      "Many adults say a certain brand of deodorant takes them straight back to being a teenager.",
+      "A single spray of the deodorant he wore at sixteen was enough to bring back the nerves of his first school dance."
+    ],
+    "duration": [
+      "What is the duration of the film?",
+      "The duration of the test is one hour.",
+      "They stayed for the duration of the summer.",
+      "The duration of a smell memory can be surprisingly long.",
+      "The researchers looked at both the strength and the duration of the emotions people felt.",
+      "Loss of smell after a virus varies greatly in duration, lasting a few days for some and many months for others."
+    ],
+    "sniff": [
+      "The dog sniffed the bag.",
+      "Sniff this flower.",
+      "He sniffed the milk to check it.",
+      "One sniff of the soap brought back memories of her grandmother.",
+      "In the experiment, volunteers were asked to sniff a series of bottles.",
+      "It only took a quick sniff of the old book's yellowed pages to transport him back to his school library."
+    ],
+    "get worse": [
+      "My cold got worse.",
+      "The weather is getting worse.",
+      "The smell got worse every day.",
+      "If your sense of smell gets worse, you should see a doctor.",
+      "Studies suggest the ability to identify smells gets worse after the age of sixty.",
+      "For some people, a sense of smell that suddenly gets worse can be an early warning sign of other health problems."
+    ]
+  },
+  "0099": {
+    "patron": [
+      "He is a patron of the arts.",
+      "Who is the patron of England?",
+      "The queen was a patron of many charities.",
+      "St George became the patron of England in the 14th century.",
+      "Interestingly, St George is also the patron of several other countries, including Georgia.",
+      "Few English people realise that their patron was probably born in what is now Turkey and never visited England."
+    ],
+    "proudly": [
+      "She smiled proudly.",
+      "He proudly showed us his medal.",
+      "They proudly wore red and white.",
+      "The town proudly celebrates St George's Day every April.",
+      "Many English people say they proudly support their national team but rarely celebrate their national day.",
+      "Unlike the Irish, who proudly celebrate St Patrick's Day around the world, the English have often been shy about their national day."
+    ],
+    "mayor": [
+      "He is the mayor.",
+      "The mayor gave a speech.",
+      "Our town has a new mayor.",
+      "The mayor opened the festival in Trafalgar Square.",
+      "The mayor said the celebration was a chance for all Londoners to come together.",
+      "Since the 2000s, the mayor of London has organised free events to encourage people to celebrate St George's Day."
+    ],
+    "theatrical": [
+      "It was a theatrical show.",
+      "She loves theatrical costumes.",
+      "The festival had theatrical performances.",
+      "A theatrical group acted out the story of the dragon.",
+      "His theatrical way of speaking made the crowd laugh.",
+      "The celebrations combined theatrical performances with traditional food, giving visitors a lively taste of English culture."
+    ],
+    "enactment": [
+      "We saw an enactment.",
+      "The enactment was very funny.",
+      "There was an enactment of the old story.",
+      "The enactment of the battle took place in the town square.",
+      "Volunteers in costumes performed an enactment of the legend for the crowd.",
+      "The dramatic enactment of the dragon's defeat, complete with smoke and swords, was the highlight of the day."
+    ],
+    "sword": [
+      "He has a sword.",
+      "The knight held a sword.",
+      "The boy played with a wooden sword.",
+      "In the painting, St George raises his sword above the dragon.",
+      "Actors dressed as knights showed the crowd how to fight with a sword.",
+      "The image of a knight with a sword and shield has become a lasting symbol of courage in English folklore."
+    ],
+    "fighting": [
+      "No fighting, please.",
+      "We watched the sword fighting.",
+      "The fighting was only a show.",
+      "Medieval fighting displays are popular at English festivals.",
+      "Children cheered as the knights showed their fighting skills.",
+      "The day offered everything from traditional dancing to staged fighting between knights in shining armour."
+    ],
+    "archery": [
+      "I like archery.",
+      "We tried archery today.",
+      "Archery is an old English sport.",
+      "Archery was very important in medieval English armies.",
+      "The fair offered archery lessons alongside folk music and dancing.",
+      "Archery, once a skill every English man was expected to practise, is now enjoyed mainly as a hobby and an Olympic sport."
+    ],
+    "patron saint": [
+      "Who is the patron saint?",
+      "Every country has a patron saint.",
+      "St David is the patron saint of Wales.",
+      "The day of the patron saint is celebrated on 23 April.",
+      "St Andrew is the patron saint of Scotland, and St Patrick is the patron saint of Ireland.",
+      "Although St George is England's patron saint, he is a figure shared by many nations, from Portugal to Ethiopia."
+    ],
+    "legend": [
+      "It's an old legend.",
+      "I like this legend.",
+      "The legend is about a brave knight.",
+      "The legend of St George and the dragon is told all over Europe.",
+      "Historians say the legend of the dragon was added hundreds of years after George died.",
+      "Separating the real man from the legend is difficult, since almost nothing reliable is known about George's life."
+    ],
+    "mythical creature": [
+      "Is it a mythical creature?",
+      "Dragons are mythical creatures.",
+      "Children love stories about mythical creatures.",
+      "The unicorn is a mythical creature that appears on Scotland's coat of arms.",
+      "Every culture seems to have its own mythical creatures, often based on real animals.",
+      "The dragon, perhaps the most famous mythical creature of all, symbolises evil in the West but good fortune in China."
+    ],
+    "mythical": [
+      "It's a mythical animal.",
+      "Dragons are mythical.",
+      "The book is full of mythical heroes.",
+      "St George's fight with the dragon is a mythical story, not real history.",
+      "Many countries use mythical animals as national symbols.",
+      "The idea of a pure, unchanging English identity is, some argue, just as mythical as the dragon itself."
+    ],
+    "unicorn": [
+      "I drew a unicorn.",
+      "A unicorn has one horn.",
+      "My sister loves unicorns.",
+      "A lion and a unicorn appear on the royal coat of arms.",
+      "The unicorn has been a symbol of purity and strength for centuries.",
+      "In medieval Europe, people believed powder from a unicorn's horn could cure illness, so traders sold narwhal tusks instead."
+    ],
+    "griffin": [
+      "Look at the griffin!",
+      "A griffin can fly.",
+      "There is a griffin on the old gate.",
+      "The griffin is a symbol on the badge of the City of London.",
+      "Like the dragon, the griffin appears in many old English stories and buildings.",
+      "Combining the strength of the lion with the speed of the eagle, the griffin was seen as a guardian of treasure."
+    ],
+    "distinction": [
+      "What's the distinction?",
+      "There is a clear distinction.",
+      "She passed the exam with distinction.",
+      "Visitors often don't understand the distinction between England and Britain.",
+      "The distinction between English and British identity has become more important in recent years.",
+      "For many people from minority backgrounds, the distinction matters: they feel comfortable calling themselves British but not English."
+    ],
+    "make up": [
+      "Girls make up half the class.",
+      "Four countries make up the UK.",
+      "Young people make up most of the crowd.",
+      "England makes up about 84 per cent of the UK's population.",
+      "Immigrants and their children make up a large part of London's population.",
+      "The many cultures that make up modern English society are changing what it means to celebrate St George's Day."
+    ],
+    "diverse": [
+      "Our class is diverse.",
+      "London is a diverse city.",
+      "The festival had a diverse crowd.",
+      "England has become a much more diverse country in the last fifty years.",
+      "Organisers wanted the celebrations to reflect the diverse communities living in the city.",
+      "A truly modern St George's Day would celebrate an England that is diverse in religion, language and ethnic background."
+    ],
+    "multiple": [
+      "I have multiple bags.",
+      "She speaks multiple languages.",
+      "He has multiple jobs.",
+      "Many people feel they belong to multiple cultures at the same time.",
+      "Children of immigrants often grow up with multiple languages and traditions.",
+      "Holding multiple identities, such as British, English and Asian, is now completely normal for millions of people in England."
+    ],
+    "truer": [
+      "Nothing could be truer.",
+      "This is truer than ever.",
+      "Her story is truer than his.",
+      "The idea that England is a mixed nation is truer now than in the past.",
+      "Some historians say a truer picture of St George is very different from the legend.",
+      "Perhaps a truer celebration of England would recognise that the country has always been shaped by newcomers."
+    ],
+    "immigration": [
+      "Immigration is a big topic.",
+      "We talked about immigration.",
+      "Immigration to the UK grew after the war.",
+      "Immigration has made English cities more diverse.",
+      "Centuries of immigration mean that few English people have purely 'English' ancestors.",
+      "From the Vikings to the Windrush generation, immigration has always been part of the story of what it means to be English."
+    ],
+    "mobility": [
+      "Mobility is important.",
+      "Cars give us mobility.",
+      "Young people have more mobility today.",
+      "Mobility between countries has made Europe more mixed.",
+      "Increased mobility means fewer people live in the town where they were born.",
+      "Global mobility has created a generation who feel at home in several countries and fully English in none."
+    ],
+    "hybrid": [
+      "It's a hybrid car.",
+      "This plant is a hybrid.",
+      "Her style is a hybrid of two cultures.",
+      "English is a hybrid language with many words from French and Latin.",
+      "Many second-generation immigrants describe themselves as having a hybrid identity.",
+      "Modern Englishness is perhaps best understood as a hybrid, built over centuries from many different peoples and cultures."
+    ],
+    "move around": [
+      "We move around a lot.",
+      "Please don't move around.",
+      "His family moved around when he was young.",
+      "People now move around the country for work and study.",
+      "Because people move around so much, local traditions are slowly disappearing.",
+      "When families move around between countries, children often grow up with a sense of belonging to several places at once."
+    ],
+    "ethnic": [
+      "It's an ethnic group.",
+      "I like ethnic food.",
+      "The city has many ethnic communities.",
+      "People from ethnic minorities joined the St George's Day parade.",
+      "The survey asked people about their ethnic background and national identity.",
+      "Some people from ethnic minority backgrounds have felt excluded by the way the English flag was used in the past."
+    ],
+    "descent": [
+      "He is of Irish descent.",
+      "She's of Chinese descent.",
+      "Many Londoners are of African descent.",
+      "Millions of English people are of mixed descent.",
+      "Many people of Caribbean descent arrived in England after the Second World War.",
+      "Whether of Anglo-Saxon, Pakistani or Polish descent, everyone living in England can share in St George's Day."
+    ],
+    "backward": [
+      "Don't be backward.",
+      "He took a backward step.",
+      "Some ideas are very backward.",
+      "Critics say national days can feel backward-looking.",
+      "Organisers wanted a modern celebration, not a backward look at a lost England.",
+      "The challenge is to celebrate English traditions without appearing backward or excluding people who arrived more recently."
+    ],
+    "devote": [
+      "She devotes time to her family.",
+      "He devoted his life to music.",
+      "The school devoted a day to English history.",
+      "The newspaper devoted two pages to the celebrations.",
+      "Historians have devoted years to finding out who St George really was.",
+      "Few English schools devote much time to St George's Day, whereas St Patrick's Day is celebrated enthusiastically in Ireland."
+    ],
+    "look into": [
+      "I'll look into it.",
+      "Police are looking into the case.",
+      "We looked into the history of the flag.",
+      "The programme looks into why the English rarely celebrate St George's Day.",
+      "A university team looked into the links between national identity and ethnic background.",
+      "When historians looked into the origins of the dragon story, they found it had travelled from the Middle East to Europe."
+    ],
+    "foreseeable": [
+      "It won't change in the foreseeable future.",
+      "I'll stay here for the foreseeable future.",
+      "Prices will rise in the foreseeable future.",
+      "For the foreseeable future, London will remain a very diverse city.",
+      "The problems were foreseeable, but nobody did anything to stop them.",
+      "Immigration is likely to keep changing English society for the foreseeable future, making national identity an ongoing debate."
+    ],
+    "northern": [
+      "It's a northern city.",
+      "He has a northern accent.",
+      "It is cold in northern England.",
+      "Many northern towns have a long history of immigration.",
+      "People in northern England sometimes feel a stronger English identity than Londoners.",
+      "Northern cities such as Bradford and Leicester show how English and South Asian cultures have mixed over decades."
+    ],
+    "over here": [
+      "Come over here!",
+      "I'm over here!",
+      "Life over here is very different.",
+      "My parents moved over here from Jamaica in the 1960s.",
+      "Over here, people don't celebrate their national day as much as the Irish do.",
+      "Americans are surprised to learn that, over here, many English people couldn't tell you the date of St George's Day."
+    ],
+    "melting pot": [
+      "It's a melting pot.",
+      "Our school is a melting pot.",
+      "New York is a famous melting pot.",
+      "England has always been a melting pot of different peoples.",
+      "The city's food reflects its history as a melting pot of cultures.",
+      "Seen as a melting pot, modern England is the product of Celts, Romans, Vikings, Normans and more recent immigrants."
+    ],
+    "melt": [
+      "The ice is melting.",
+      "Snow melts in the sun.",
+      "Melt the butter in a pan.",
+      "Over time, the different groups melted into one community.",
+      "Some people fear their traditions will melt away in a multicultural society.",
+      "Rather than melting into a single culture, many communities in England keep their own traditions while sharing common ones."
+    ],
+    "pot": [
+      "Put the pot on the stove.",
+      "The soup is in the pot.",
+      "She cooked rice in a big pot.",
+      "Everything goes into one pot and slowly mixes together.",
+      "The idea of a 'melting pot' compares society to a pot where metals are melted together.",
+      "Just as flavours blend in a pot of stew, the cultures of England have mixed to create something new and distinctive."
+    ],
+    "melting": [
+      "Look at the melting snow.",
+      "The melting ice is dangerous.",
+      "My ice cream is melting.",
+      "The melting snow made the streets wet for the parade.",
+      "The image of melting metals helps explain how cultures can combine.",
+      "Critics of the 'melting' idea argue that cultures don't simply disappear into one another but continue to exist side by side."
+    ],
+    "live together": [
+      "We live together.",
+      "Cats and dogs can live together.",
+      "My grandparents live together with us.",
+      "Different communities live together happily in this town.",
+      "Festivals like St George's Day can help people from different backgrounds live together.",
+      "A shared national day matters most in a country where so many cultures must learn to live together in mutual respect."
+    ],
+    "movement": [
+      "I saw a movement.",
+      "Free movement is important.",
+      "The movement of people is increasing.",
+      "The movement of workers within Europe brought many Poles to England.",
+      "There is a growing movement to make St George's Day a public holiday.",
+      "The movement of peoples across borders over many centuries has made it impossible to define a single English identity."
+    ]
+  },
+  "0100": {
+    "lasting": [
+      "It was a lasting gift.",
+      "They are lasting friends.",
+      "Plastic can do lasting damage to the sea.",
+      "Scientists worry about the lasting effects of microplastics.",
+      "The lasting impact of plastic waste will be felt for generations.",
+      "Whether microplastics cause lasting harm to human organs remains one of the key unanswered questions."
+    ],
+    "media": [
+      "I read it in the media.",
+      "The media love this story.",
+      "Microplastics are often in the media.",
+      "The media sometimes exaggerate health risks.",
+      "Media coverage of microplastics has increased public concern.",
+      "Scientists warn that sensational media headlines can outrun the actual evidence on microplastics."
+    ],
+    "every week": [
+      "I swim every week.",
+      "We buy bread every week.",
+      "She cleans the beach every week.",
+      "Every week, tonnes of plastic enter the ocean.",
+      "Researchers estimated how much plastic a person might swallow every week.",
+      "The claim that we consume five grams of plastic every week has been widely repeated but also strongly questioned."
+    ],
+    "ingest": [
+      "Don't ingest it.",
+      "Birds ingest plastic.",
+      "We may ingest plastic in our food.",
+      "People can ingest microplastics through drinking water.",
+      "Marine animals often ingest plastic because they mistake it for food.",
+      "Even if we ingest microplastics daily, it is unclear how much of it is absorbed rather than simply passed out of the body."
+    ],
+    "marine animal": [
+      "A seal is a marine animal.",
+      "I love marine animals.",
+      "Plastic can kill a marine animal.",
+      "Almost every marine animal studied had plastic inside it.",
+      "Scientists found microplastics in the stomach of a marine animal living in the deepest ocean.",
+      "The discovery of plastic fragments in nearly every marine animal sampled has alarmed ocean scientists."
+    ],
+    "marine": [
+      "I like marine life.",
+      "She is a marine scientist.",
+      "Plastic harms marine plants.",
+      "Marine pollution is a global problem.",
+      "Microplastics have been found in marine ecosystems all over the world.",
+      "Protecting marine environments requires cutting plastic waste at its source, not just cleaning beaches."
+    ],
+    "liver": [
+      "The liver is an organ.",
+      "My liver is healthy.",
+      "Alcohol can damage the liver.",
+      "Tiny plastic particles were found in human liver samples.",
+      "The liver filters harmful substances from the blood, so it may collect microplastics.",
+      "Finding microplastics in liver tissue does not by itself prove that they cause disease."
+    ],
+    "hind": [
+      "The dog hurt its hind leg.",
+      "A horse has two hind legs.",
+      "The rabbit stood on its hind legs.",
+      "Scientists looked at the hind gut of each fish.",
+      "Microplastics tended to collect in the hind section of the animals' digestive system.",
+      "Particles lodged in the hind gut may stay longer, giving chemicals more time to leach into the body."
+    ],
+    "gut": [
+      "My gut hurts.",
+      "Eat food that is good for your gut.",
+      "Plastic was found in the bird's gut.",
+      "Microplastics may affect the bacteria in our gut.",
+      "Some studies suggest microplastics could cause inflammation in the gut.",
+      "Scientists are investigating whether microplastics disturb the delicate balance of microbes living in the human gut."
+    ],
+    "emerge": [
+      "The sun will emerge soon.",
+      "The truth will emerge.",
+      "New facts emerged last year.",
+      "It has emerged that plastic is in our blood.",
+      "A clearer picture of the risks is beginning to emerge from recent research.",
+      "As more studies emerge, scientists may finally be able to say whether microplastics are genuinely harmful."
+    ],
+    "inspire": [
+      "Music inspires me.",
+      "She inspires her students.",
+      "The film inspired me to recycle.",
+      "His research inspired other scientists.",
+      "Images of polluted beaches have inspired many people to change their habits.",
+      "The documentary inspired a wave of campaigns to ban single-use plastics around the world."
+    ],
+    "dive": [
+      "I can dive.",
+      "He dives into the pool.",
+      "We dived near the coral reef.",
+      "Divers often see plastic when they dive in the sea.",
+      "Researchers had to dive deep to find out how far plastic had spread.",
+      "Even when explorers dive to the deepest trenches on Earth, they find plastic waste waiting for them."
+    ],
+    "toxic": [
+      "This is toxic.",
+      "Toxic smoke is dangerous.",
+      "Burning plastic produces toxic gas.",
+      "Microplastics can carry toxic chemicals into the body.",
+      "Some additives in plastic are toxic even at very low levels.",
+      "The real danger may lie less in the plastic itself than in the toxic substances that cling to its surface."
+    ],
+    "nylon": [
+      "This bag is nylon.",
+      "My coat is made of nylon.",
+      "Fishing nets are often nylon.",
+      "Nylon fibres are a common type of microplastic.",
+      "Every wash of nylon and polyester clothing sheds thousands of tiny fibres.",
+      "Lost nylon fishing nets keep trapping marine animals for years and slowly break down into microplastics."
+    ],
+    "expose": [
+      "Don't expose it to the sun.",
+      "Babies are exposed to plastic.",
+      "We are exposed to plastic every day.",
+      "Heating food in plastic can expose you to chemicals.",
+      "Workers in plastic factories may be exposed to higher levels of particles.",
+      "Because we are exposed to microplastics from so many sources, it is hard to measure the effect of any single one."
+    ],
+    "spike": [
+      "There was a spike in prices.",
+      "We saw a big spike.",
+      "There was a spike in plastic waste.",
+      "Scientists noticed a spike in particles after boiling.",
+      "The study recorded a sharp spike in microplastic levels during the holiday season.",
+      "A spike in public interest followed the report, though the underlying science had not changed much."
+    ],
+    "packaging": [
+      "Throw away the packaging.",
+      "The packaging is plastic.",
+      "Too much packaging is bad.",
+      "Plastic packaging can shed tiny particles into food.",
+      "Supermarkets are under pressure to reduce plastic packaging.",
+      "Switching to paper or glass packaging reduces plastic waste but brings environmental costs of its own."
+    ],
+    "quantified": [
+      "It is quantified.",
+      "The risk is quantified.",
+      "The damage was quantified.",
+      "The level of plastic in each sample was quantified.",
+      "Few health risks from microplastics have been properly quantified so far.",
+      "Until the dose we receive is quantified accurately, claims about harm will remain largely speculative."
+    ],
+    "sharp": [
+      "It was a sharp drop.",
+      "Prices saw a sharp rise.",
+      "There was a sharp increase in waste.",
+      "Plastic use saw a sharp rise after the 1950s.",
+      "Researchers recorded a sharp increase in microplastics in human tissue over the past decade.",
+      "A sharp fall in plastic production seems unlikely, given how deeply plastic is built into modern life."
+    ],
+    "quantify": [
+      "Can you quantify it?",
+      "It is hard to quantify.",
+      "Scientists want to quantify the risk.",
+      "We need to quantify how much plastic is in our food.",
+      "New methods allow researchers to quantify even the smallest plastic particles.",
+      "The challenge is not only to quantify exposure but to link specific doses to measurable health effects."
+    ],
+    "conclude": [
+      "What did you conclude?",
+      "They concluded it was safe.",
+      "The study concluded that plastic is everywhere.",
+      "We cannot conclude that microplastics are harmful yet.",
+      "The report concluded that there was not enough evidence to show a risk to human health.",
+      "It would be premature to conclude that microplastics are safe simply because harm has not yet been proven."
+    ],
+    "chopping board": [
+      "Use the chopping board.",
+      "This chopping board is wood.",
+      "Wash the chopping board after use.",
+      "A plastic chopping board can shed tiny pieces into food.",
+      "Some experts suggest replacing plastic chopping boards with wooden ones.",
+      "Every cut on a plastic chopping board may scrape off fragments that end up in the meal you are preparing."
+    ],
+    "chopping": [
+      "I do the chopping.",
+      "Chopping onions makes me cry.",
+      "The chopping took ten minutes.",
+      "Regular chopping wears down a plastic board.",
+      "Researchers measured how many particles came off during chopping.",
+      "Years of daily chopping can leave deep grooves in a board, and the missing plastic has to go somewhere."
+    ],
+    "utensil": [
+      "A spoon is a utensil.",
+      "Put the utensils away.",
+      "I bought new kitchen utensils.",
+      "Plastic utensils can melt in hot food.",
+      "Metal or wooden utensils are a good alternative to plastic ones.",
+      "Cooking with plastic utensils at high temperatures may release both microplastics and chemical additives."
+    ],
+    "storage": [
+      "We need more storage.",
+      "This box is for storage.",
+      "Use glass jars for storage.",
+      "Plastic food storage boxes are very common.",
+      "Avoid heating food in plastic storage containers.",
+      "Changing how we handle food storage at home is one of the few practical steps we can take to limit exposure."
+    ],
+    "looseleaf": [
+      "I drink looseleaf tea.",
+      "Looseleaf tea is nice.",
+      "She buys looseleaf tea, not bags.",
+      "Looseleaf tea avoids plastic tea bags.",
+      "Switching to looseleaf tea is a simple way to cut your plastic intake.",
+      "Some tea bags release billions of particles in hot water, so looseleaf tea brewed in a metal strainer is a safer choice."
+    ]
+  },
+  "0101": {
+    "relaxing": [
+      "It is very relaxing.",
+      "I had a relaxing day.",
+      "A walk in the park is relaxing.",
+      "Staying at home can be surprisingly relaxing.",
+      "Without airports and long journeys, a staycation is often more relaxing than a foreign holiday.",
+      "For many people, the most relaxing part of a staycation is simply not having to pack, travel or follow a timetable."
+    ],
+    "justify": [
+      "Can you justify it?",
+      "I can't justify the price.",
+      "How can we justify flying so far?",
+      "She couldn't justify spending so much on a holiday.",
+      "Rising prices make it harder for families to justify an expensive trip.",
+      "Some people feel they need to justify a staycation, as if staying home were somehow a failure."
+    ],
+    "appealing": [
+      "That sounds appealing.",
+      "The beach looks appealing.",
+      "A quiet week at home is appealing.",
+      "Staycations are appealing because they are cheap.",
+      "Avoiding crowded airports makes a staycation especially appealing.",
+      "What makes a staycation appealing to some people makes it deeply boring to others who crave adventure."
+    ],
+    "appeal": [
+      "I see the appeal.",
+      "It doesn't appeal to me.",
+      "Staycations appeal to busy families.",
+      "The main appeal is saving money.",
+      "The appeal of exploring your own area grew during the pandemic.",
+      "Part of the appeal lies in discovering places on your doorstep that you have always overlooked."
+    ],
+    "once in a while": [
+      "I go there once in a while.",
+      "Call me once in a while.",
+      "Once in a while we eat out.",
+      "Everyone needs a break once in a while.",
+      "Once in a while, it's worth exploring the sights in your own town.",
+      "Travelling abroad once in a while is exciting, but a staycation can offer a kind of rest that a busy trip never does."
+    ],
+    "stay at": [
+      "I stay at home.",
+      "We stayed at a hotel.",
+      "She stayed at her friend's house.",
+      "Many families now stay at home during the summer.",
+      "Rather than flying abroad, they chose to stay at a cottage nearby.",
+      "The word staycation describes people who stay at home but still treat the time as a proper holiday."
+    ],
+    "liberating": [
+      "It feels liberating.",
+      "Having no plans is liberating.",
+      "A day without my phone was liberating.",
+      "It is liberating not to pack a suitcase.",
+      "Many people find it liberating to have a holiday with no schedule at all.",
+      "There is something liberating about switching off at home without the pressure to make every moment of a trip count."
+    ],
+    "liberate": [
+      "It will liberate you.",
+      "Holidays liberate us from work.",
+      "Staying home liberated me from airports.",
+      "A break can liberate your mind.",
+      "Working from home has liberated many people from long commutes.",
+      "A staycation can liberate people from the idea that a holiday only counts if it involves going abroad."
+    ],
+    "point of view": [
+      "What's your point of view?",
+      "I understand your point of view.",
+      "From my point of view, home is best.",
+      "From a money point of view, a staycation makes sense.",
+      "From a psychologist's point of view, a change of routine matters more than the destination.",
+      "Seen from a different point of view, a staycation is not a lesser holiday but simply a different kind of rest."
+    ],
+    "contradiction in terms": [
+      "That's a contradiction in terms.",
+      "A quiet party is a contradiction in terms.",
+      "Is a staycation a contradiction in terms?",
+      "For him, a working holiday is a contradiction in terms.",
+      "Critics say a 'holiday at home' is a contradiction in terms, since a holiday means going away.",
+      "The phrase may sound like a contradiction in terms, but many people find staying home genuinely refreshing."
+    ],
+    "contradiction": [
+      "That's a contradiction.",
+      "I see no contradiction.",
+      "His words and actions are a contradiction.",
+      "There is a contradiction in what she says about holidays.",
+      "It's a contradiction to want a relaxing break but fill every day with activities.",
+      "The contradiction at the heart of modern holidays is that we often return more exhausted than when we left."
+    ],
+    "make sense": [
+      "That makes sense.",
+      "It doesn't make sense.",
+      "Staying home makes sense this year.",
+      "It makes sense to explore your own country first.",
+      "For families with young children, a short holiday close to home often makes more sense.",
+      "It makes sense economically, but whether a staycation feels like a real break depends on the person."
+    ],
+    "underpin": [
+      "Facts underpin his view.",
+      "Science underpins the claim.",
+      "Rest underpins good health.",
+      "Several studies underpin this theory.",
+      "The belief that we must travel to relax is underpinned by advertising.",
+      "The benefits of a holiday seem to be underpinned less by the destination than by the break in routine."
+    ],
+    "energize": [
+      "Coffee energizes me.",
+      "Sun energizes people.",
+      "A break will energize you.",
+      "A short staycation can energize tired workers.",
+      "Doing something new, even close to home, can energize the mind.",
+      "Psychologists suggest that novelty, not distance, is what truly energizes us after time off."
+    ],
+    "holidaying": [
+      "We are holidaying in Wales.",
+      "They are holidaying at home.",
+      "She is holidaying by the sea.",
+      "Holidaying close to home saves money.",
+      "Holidaying in your own country can be just as rewarding as going abroad.",
+      "The trend towards holidaying locally reflects both financial pressures and growing concern about the environment."
+    ],
+    "get away": [
+      "I need to get away.",
+      "Let's get away this weekend.",
+      "We didn't get away last year.",
+      "It's good to get away from work for a while.",
+      "Many people feel they can only relax if they get away from home.",
+      "You don't have to get away to escape your routine; switching off your phone can be enough."
+    ],
+    "first lady": [
+      "She is the first lady.",
+      "The first lady smiled.",
+      "The first lady visited a school.",
+      "The first lady often travels with the president.",
+      "Even the first lady chose a quiet holiday in her home country this year.",
+      "The first lady's decision to holiday at home was seen as a gesture of support for the national tourism industry."
+    ],
+    "peace of mind": [
+      "I want peace of mind.",
+      "It gives me peace of mind.",
+      "Travel insurance gives peace of mind.",
+      "Staying home gives some people peace of mind.",
+      "Booking a local holiday offers peace of mind if plans suddenly change.",
+      "For anxious travellers, the peace of mind that comes with staying close to home outweighs the thrill of a foreign trip."
+    ],
+    "rare": [
+      "It's a rare bird.",
+      "Snow is rare here.",
+      "A free weekend is rare for me.",
+      "Holidays abroad have become rare for many families.",
+      "It is rare to find someone who doesn't enjoy some kind of break.",
+      "In a culture of constant connection, a holiday where you truly switch off has become surprisingly rare."
+    ],
+    "negate": [
+      "It negates the good.",
+      "Bad food negated the fun.",
+      "Delays negated the rest.",
+      "A long flight can negate the benefits of a short trip.",
+      "Worrying about work during a holiday can negate its positive effects.",
+      "The anxiety of planning and travelling may negate much of the relaxation people hope to gain from going abroad."
+    ],
+    "lock": [
+      "Lock the door.",
+      "I locked my car.",
+      "Did you lock the house?",
+      "Always lock your windows before a holiday.",
+      "Worrying whether you remembered to lock the front door can spoil a trip.",
+      "On a staycation, there's no anxious moment at the airport wondering whether you locked the back door."
+    ],
+    "go wrong": [
+      "What went wrong?",
+      "Nothing will go wrong.",
+      "Our trip went wrong.",
+      "Things can go wrong at the airport.",
+      "Even a carefully planned holiday can go wrong if the weather turns bad.",
+      "Part of the appeal of a staycation is that there is simply less that can go wrong."
+    ],
+    "cancel out": [
+      "They cancel out.",
+      "The good and bad cancel out.",
+      "Delays cancel out the fun.",
+      "Cheap flights are cancelled out by expensive hotels.",
+      "The money you save on travel may be cancelled out by spending more on days out.",
+      "Any rest gained on holiday can be cancelled out within days if you return to an overflowing inbox."
+    ],
+    "anticipation": [
+      "I'm full of anticipation.",
+      "The anticipation is exciting.",
+      "Children feel great anticipation before a trip.",
+      "Anticipation can make us happier than the holiday itself.",
+      "Studies show that people are often happiest in the weeks of anticipation before a holiday.",
+      "If anticipation is a large part of a holiday's value, a staycation may need careful planning to create that same excitement."
+    ],
+    "over and over again": [
+      "I read it over and over again.",
+      "He says it over and over again.",
+      "We watched the film over and over again.",
+      "She visits the same resort over and over again.",
+      "Doing the same things over and over again can make home feel boring.",
+      "Some families return to the same holiday spot over and over again because the familiarity itself is relaxing."
+    ],
+    "day after day": [
+      "It rained day after day.",
+      "He works day after day.",
+      "I eat the same food day after day.",
+      "Day after day, she sat at the same desk.",
+      "Seeing the same four walls day after day can make a staycation feel dull.",
+      "Breaking the routine we follow day after day is arguably the real point of any holiday, wherever it is spent."
+    ],
+    "positively": [
+      "Think positively.",
+      "She spoke positively about it.",
+      "Rest affects us positively.",
+      "Most people responded positively to the idea.",
+      "A change of scene can positively influence your mental health.",
+      "Researchers found that even brief staycations positively affected people's stress levels when they fully disconnected from work."
+    ],
+    "negatively": [
+      "Don't think negatively.",
+      "He reacted negatively.",
+      "Stress affects us negatively.",
+      "Long flights can negatively affect sleep.",
+      "Some people view staycations negatively, as a second-best option.",
+      "Failing to take any break at all can negatively affect both productivity and personal relationships over time."
+    ],
+    "stressful": [
+      "Work is stressful.",
+      "It was a stressful day.",
+      "Airports are often stressful.",
+      "Planning a big holiday can be stressful.",
+      "Many people find the journey the most stressful part of going abroad.",
+      "Ironically, the effort to make a holiday perfect can make it more stressful than the working life it was meant to escape."
+    ],
+    "prepare for": [
+      "Prepare for the trip.",
+      "We prepared for the holiday.",
+      "I need to prepare for my journey.",
+      "There's less to prepare for with a staycation.",
+      "Families often spend weeks preparing for a summer holiday abroad.",
+      "A staycation still benefits from planning, so prepare for it as you would for any trip, with a list of things to do."
+    ],
+    "underpinning": [
+      "It has a strong underpinning.",
+      "What is the underpinning?",
+      "The idea lacks an underpinning.",
+      "The theory has a solid scientific underpinning.",
+      "The psychological underpinning of a good holiday is a break from routine.",
+      "Without a clear theoretical underpinning, claims about the benefits of staycations remain largely anecdotal."
+    ],
+    "county": [
+      "I live in this county.",
+      "Kent is a county.",
+      "Our county has nice beaches.",
+      "Many people never explore their own county.",
+      "A staycation is a good chance to visit the castles and villages in your county.",
+      "Tourist boards in every county have tried to persuade local residents to rediscover the attractions on their doorstep."
+    ]
+  },
+  "0102": {
+    "sunnier": [
+      "Today is sunnier.",
+      "Spain is sunnier than England.",
+      "I feel better when the weather is sunnier.",
+      "Many people believe they would be happier in a sunnier place.",
+      "Moving to a sunnier climate may lift your mood, but it rarely changes how satisfied you are with life.",
+      "Surveys suggest that a sunnier outlook on life matters far more to well-being than sunnier weather does."
+    ],
+    "recession": [
+      "There is a recession.",
+      "He lost his job in the recession.",
+      "Shops sell less during a recession.",
+      "Can people stay happy even in a recession?",
+      "The recession forced many families to rethink what really makes them happy.",
+      "Paradoxically, some researchers found that a recession can strengthen community ties as people rely more on one another."
+    ],
+    "increasingly": [
+      "It is increasingly hot.",
+      "Life is increasingly busy.",
+      "Phones are increasingly important to us.",
+      "Governments are increasingly measuring happiness, not just wealth.",
+      "As incomes rise, people increasingly find that extra money brings little extra joy.",
+      "Economists are increasingly willing to accept that well-being cannot be captured by GDP figures alone."
+    ],
+    "happiest": [
+      "This is my happiest day.",
+      "She is happiest at home.",
+      "Children are often happiest when they play.",
+      "The happiest people are not always the richest.",
+      "According to the survey, the happiest nations combine strong social ties with a sense of freedom.",
+      "It is striking that the happiest countries on the index are not necessarily those with the highest incomes."
+    ],
+    "hang out": [
+      "Let's hang out.",
+      "We hang out at the park.",
+      "Teenagers like to hang out in shopping centres.",
+      "Hanging out with family at the weekend makes me feel relaxed.",
+      "Research shows that people who regularly hang out with friends report higher levels of happiness.",
+      "In a culture obsessed with productivity, simply hanging out with others is often undervalued as a source of well-being."
+    ],
+    "slow down": [
+      "Please slow down.",
+      "The car slowed down.",
+      "My doctor told me to slow down and rest.",
+      "Many people slow down at weekends and enjoy simple things.",
+      "The slow movement encourages people to slow down and pay attention to the present moment.",
+      "Learning to slow down in a world that rewards speed may be one of the most effective routes to lasting contentment."
+    ],
+    "very fast": [
+      "He runs very fast.",
+      "The train is very fast.",
+      "Time goes very fast when you are happy.",
+      "Everything happens very fast in big cities.",
+      "When life moves very fast, we rarely stop to ask whether we are actually happy.",
+      "Technology changes very fast, yet our basic need for connection and meaning has hardly changed at all."
+    ],
+    "speedy": [
+      "It is a speedy car.",
+      "Thanks for the speedy reply.",
+      "I wish you a speedy recovery.",
+      "Our speedy lifestyle leaves little time for friends.",
+      "A speedy lifestyle may bring success at work, but it often comes at the cost of personal happiness.",
+      "Critics argue that our speedy, always-connected culture has eroded the quiet moments in which contentment grows."
+    ],
+    "take stock": [
+      "Let's take stock.",
+      "I need to stop and take stock.",
+      "After the holiday, she took stock of her life.",
+      "The recession made many people take stock of what really matters.",
+      "Taking stock of your achievements and relationships can help you see where real happiness lies.",
+      "Turning forty prompted him to take stock and ask whether the career he had chased was worth the sacrifices."
+    ],
+    "infect": [
+      "Smiles can infect others.",
+      "His good mood infected us all.",
+      "Happy people can infect their friends with joy.",
+      "Studies suggest that happiness can infect a whole social network.",
+      "A cheerful manager can infect the entire team with enthusiasm and make work more enjoyable.",
+      "Just as a bad mood can infect a household, contentment appears to spread from person to person through everyday contact."
+    ],
+    "contentment": [
+      "She smiled with contentment.",
+      "The cat purred in contentment.",
+      "Contentment is more important than wealth.",
+      "Many people find contentment in simple pleasures.",
+      "Contentment, unlike excitement, is a quiet and lasting kind of happiness.",
+      "Philosophers have long argued that contentment comes from wanting less rather than from acquiring more."
+    ],
+    "hop": [
+      "Hop in the car!",
+      "We hopped on a bus.",
+      "She hopped over to Paris for the weekend.",
+      "It's easy to hop on a plane, but happiness doesn't come with you.",
+      "People who hop from country to country in search of happiness often find the same problems waiting for them.",
+      "Rather than hopping on the next flight to paradise, the presenters suggest looking for contentment closer to home."
+    ],
+    "improvement": [
+      "There is some improvement.",
+      "His English shows improvement.",
+      "We made improvements to our house.",
+      "A pay rise is an improvement, but it may not bring lasting joy.",
+      "Despite huge improvements in living standards, people in rich countries are not much happier than fifty years ago.",
+      "Economists debate whether continuous improvement in material wealth can ever translate into a matching rise in well-being."
+    ],
+    "fulfil": [
+      "I want to fulfil my dream.",
+      "She fulfilled her promise.",
+      "His job does not fulfil him.",
+      "Money can fulfil basic needs, but not all of our wishes.",
+      "Many people only feel happy when they fulfil their potential at work and at home.",
+      "Buying more things rarely fulfils us, because the satisfaction fades as soon as the novelty wears off."
+    ],
+    "material possession": [
+      "A phone is a material possession.",
+      "He has many material possessions.",
+      "Material possessions do not buy happiness.",
+      "Some people judge success by their material possessions.",
+      "Studies show that experiences make us happier than material possessions such as clothes or gadgets.",
+      "The more importance we attach to material possessions, the more likely we are to feel dissatisfied with what we have."
+    ],
+    "possession": [
+      "This bag is my possession.",
+      "He lost all his possessions.",
+      "Her guitar is her favourite possession.",
+      "Our possessions can make us feel safe, but not truly happy.",
+      "After the fire, they realised that family mattered far more than any possession.",
+      "A life organised around the accumulation of possessions can leave little room for the relationships that actually sustain happiness."
+    ],
+    "acquire": [
+      "He acquired a new car.",
+      "She acquired a new skill.",
+      "They acquired a big house last year.",
+      "We often acquire things we don't really need.",
+      "The urge to acquire the latest gadgets is fuelled by advertising rather than genuine need.",
+      "No matter how much we acquire, our expectations tend to rise, leaving us no more satisfied than before."
+    ],
+    "mortgage": [
+      "We have a mortgage.",
+      "The mortgage is very big.",
+      "They took out a mortgage to buy a flat.",
+      "In a recession, many families struggle to pay their mortgage.",
+      "Worrying about the mortgage every month can seriously damage a family's happiness.",
+      "Having finally paid off their mortgage, the couple felt a sense of freedom that no new possession had ever given them."
+    ],
+    "shelter": [
+      "Everyone needs shelter.",
+      "We found shelter from the rain.",
+      "Food, water and shelter are basic needs.",
+      "Once people have food and shelter, extra money adds little to their happiness.",
+      "Research suggests that money increases happiness only until basic needs like food and shelter are met.",
+      "Beyond the provision of shelter and security, the link between income and life satisfaction becomes surprisingly weak."
+    ],
+    "assess": [
+      "Assess your work.",
+      "Teachers assess the students.",
+      "How do you assess happiness?",
+      "The survey asked people to assess their own well-being.",
+      "Researchers assess national happiness using questionnaires about life satisfaction.",
+      "Assessing something as subjective as happiness raises difficult questions about whether people's answers can be compared across cultures."
+    ],
+    "expectation": [
+      "I have no expectations.",
+      "Her expectations are very high.",
+      "The holiday was better than my expectations.",
+      "When expectations are too high, we are often disappointed.",
+      "People in some of the happiest countries seem to have modest expectations about life.",
+      "Rising expectations may explain why growing wealth has not produced a corresponding rise in happiness."
+    ],
+    "abstract": [
+      "Love is abstract.",
+      "This idea is too abstract.",
+      "Happiness is an abstract word.",
+      "It is hard to put a number on something so abstract.",
+      "Because happiness is so abstract, researchers rely on people's own descriptions of how they feel.",
+      "Turning an abstract concept like well-being into a single national score inevitably involves some simplification."
+    ],
+    "score": [
+      "What is your score?",
+      "She got a high score.",
+      "Our country scored well in the survey.",
+      "Rich countries do not always score high on happiness.",
+      "Each country was given a score based on life satisfaction, life expectancy and environmental impact.",
+      "A country's happiness score says as much about its values and social ties as about its economic performance."
+    ]
+  },
+  "0103": {
+    "catch out": [
+      "You caught me out!",
+      "Don't let them catch you out.",
+      "The fake news story caught out many readers.",
+      "Every April Fool's Day, someone in the office catches me out.",
+      "The prank was so convincing that it caught out even experienced journalists.",
+      "Clever April Fool's stories catch people out precisely because they mix the absurd with just enough plausible detail."
+    ],
+    "flatmate": [
+      "This is my flatmate.",
+      "My flatmate is from Italy.",
+      "I share the kitchen with my flatmate.",
+      "My flatmate put salt in the sugar bowl as an April Fool's joke.",
+      "Living with a flatmate who loves practical jokes means you have to be careful every April.",
+      "By the time I realised my flatmate had changed all the clocks, I had already rushed to work an hour early."
+    ],
+    "bet": [
+      "I bet he is late.",
+      "I bet you know this joke.",
+      "I bet she will try to trick us today.",
+      "I bet that news story is an April Fool's joke.",
+      "I'd bet most people have fallen for at least one April Fool's prank in their lives.",
+      "I bet the programme makers never imagined their spoof would still be talked about decades later."
+    ],
+    "traditionally": [
+      "We traditionally eat cake.",
+      "This day is traditionally fun.",
+      "People traditionally play jokes on 1st April.",
+      "Traditionally, the joke must end at twelve o'clock.",
+      "Newspapers have traditionally published a fake story on April Fool's Day to amuse their readers.",
+      "In Britain, anyone who plays a trick after midday is traditionally considered the fool themselves."
+    ],
+    "practical joke": [
+      "It was a practical joke.",
+      "He loves practical jokes.",
+      "They played a practical joke on their teacher.",
+      "April Fool's Day is the perfect day for a practical joke.",
+      "A good practical joke should make everyone laugh, including the person who has been tricked.",
+      "What begins as a harmless practical joke can easily go too far if the victim feels genuinely humiliated."
+    ],
+    "play a trick on": [
+      "Let's play a trick on him.",
+      "She played a trick on me.",
+      "My friends played a trick on me at school.",
+      "It's fun to play a trick on someone on 1st April.",
+      "The radio station played a trick on its listeners by announcing that clocks would change to decimal time.",
+      "When you play a trick on someone, you take the risk that they will be planning their revenge for next year."
+    ],
+    "hoax": [
+      "It was a hoax.",
+      "The news was a hoax.",
+      "Many people believed the hoax.",
+      "The spaghetti harvest is one of the most famous hoaxes ever.",
+      "The hoax was so convincing that viewers phoned the BBC asking how to grow their own spaghetti.",
+      "A well-crafted hoax exploits our tendency to trust familiar, authoritative sources without questioning them."
+    ],
+    "deceive": [
+      "Don't deceive me.",
+      "He deceived his friends.",
+      "The photo was made to deceive people.",
+      "On April Fool's Day, it's acceptable to deceive people for fun.",
+      "Viewers were deceived because the report was presented by a well-known and trusted journalist.",
+      "An April Fool's joke differs from a lie in that the aim is not to deceive for gain but to share a laugh once the truth is revealed."
+    ],
+    "look through": [
+      "Look through this book.",
+      "I looked through my emails.",
+      "She looked through the photos from the party.",
+      "Every 1st April, I look through the news for fake stories.",
+      "Looking through old newspapers, you can find some brilliant April Fool's jokes from decades ago.",
+      "Archivists looking through the BBC's records found letters from viewers who had genuinely believed in the spaghetti harvest."
+    ],
+    "spoof": [
+      "It's a spoof.",
+      "I love this spoof video.",
+      "The film is a spoof of old horror movies.",
+      "Many newspapers print a spoof article on 1st April.",
+      "The documentary was such a clever spoof that few viewers realised it was a joke.",
+      "The best spoofs imitate the serious tone of real journalism so closely that the audience only gradually notices the absurdity."
+    ],
+    "genuine": [
+      "Is it genuine?",
+      "This is a genuine photo.",
+      "I thought the news story was genuine.",
+      "It can be hard to tell a genuine story from a joke on 1st April.",
+      "Because the BBC was so respected, people assumed the spaghetti report was genuine.",
+      "The spread of fake news online has made it harder than ever to distinguish genuine reports from deliberate spoofs."
+    ],
+    "walk down": [
+      "I walk down this road.",
+      "We walked down the hill.",
+      "She walked down the street to the shop.",
+      "People walking down the high street laughed at the strange sign.",
+      "As he walked down the corridor, he had no idea that a sign saying 'kick me' was stuck to his back.",
+      "Walking down the street that morning, she noticed several shop windows advertising products that were obviously April Fool's jokes."
+    ],
+    "gullible": [
+      "Don't be gullible.",
+      "He is very gullible.",
+      "My gullible friend believed my joke.",
+      "Were the viewers gullible, or was the hoax just very clever?",
+      "It would be unfair to call the viewers gullible, since few people in Britain had eaten spaghetti at that time.",
+      "Pranksters often say that the word 'gullible' is not in the dictionary, and the gullible immediately check."
+    ],
+    "no matter": [
+      "No matter what, I'll come.",
+      "No matter who calls, don't answer.",
+      "No matter how hard I try, I always fall for jokes.",
+      "No matter how silly the story is, some people will believe it.",
+      "No matter how many times you've been fooled, a good prank can still catch you out.",
+      "No matter how sceptical we think we are, a trusted voice and a serious tone can persuade us to accept almost anything."
+    ],
+    "respected": [
+      "He is a respected man.",
+      "She is a respected doctor.",
+      "The BBC is a respected news company.",
+      "People believed the story because it came from a respected programme.",
+      "Using a highly respected presenter made the spoof far more believable to the audience.",
+      "The fact that such a respected current affairs programme would broadcast a joke took the nation completely by surprise."
+    ],
+    "harvest": [
+      "The harvest is good.",
+      "Farmers work hard at harvest.",
+      "This year's apple harvest is very big.",
+      "The film showed women picking the spaghetti harvest from trees.",
+      "Viewers were told that a mild winter had produced an excellent spaghetti harvest that year.",
+      "The image of a family gathering the spaghetti harvest under the spring sun became one of television's most memorable jokes."
+    ],
+    "bumper": [
+      "It's a bumper year.",
+      "We had a bumper crop.",
+      "The farmers are happy with the bumper harvest.",
+      "A warm spring led to a bumper crop of spaghetti, said the report.",
+      "The presenter calmly explained that the bumper harvest was due to the disappearance of the spaghetti weevil.",
+      "The idea of a bumper spaghetti harvest seemed perfectly reasonable to an audience for whom pasta was still an exotic food."
+    ],
+    "film clip": [
+      "Watch this film clip.",
+      "The film clip is short.",
+      "Our teacher showed us a funny film clip.",
+      "The film clip shows people picking spaghetti from trees.",
+      "The three-minute film clip has been watched millions of times since it was put online.",
+      "Seen today, the black-and-white film clip seems charmingly innocent, yet it remains a masterclass in deadpan comedy."
+    ],
+    "cultivate": [
+      "They cultivate rice.",
+      "My grandpa cultivates vegetables.",
+      "Farmers cultivate wheat in this area.",
+      "The film claimed that Swiss farmers cultivate spaghetti on trees.",
+      "Some viewers asked the BBC where they could buy plants to cultivate spaghetti at home.",
+      "The joke worked because few Britons knew that spaghetti is made from flour and water rather than cultivated like fruit."
+    ],
+    "of all time": [
+      "He is the best of all time.",
+      "It's my favourite film of all time.",
+      "This is the funniest joke of all time.",
+      "Many people call it the greatest hoax of all time.",
+      "The spaghetti harvest was voted the best April Fool's prank of all time by a panel of experts.",
+      "Whether it truly deserves to be called the greatest television hoax of all time is debatable, but few have matched its charm."
+    ],
+    "naughty": [
+      "You are naughty!",
+      "The naughty boy hid my bag.",
+      "It was naughty of you to trick your teacher.",
+      "My naughty little sister put a toy spider in my bed.",
+      "April Fool's Day gives everyone permission to be a little naughty without getting into trouble.",
+      "There is something deliciously naughty about seeing a serious news programme mischievously fool its own viewers."
+    ],
+    "prankster": [
+      "He is a prankster.",
+      "The prankster laughed loudly.",
+      "Every office has a prankster.",
+      "The prankster hid all the chairs in the classroom.",
+      "On 1st April, pranksters all over the world try to fool their friends and family.",
+      "A skilled prankster knows that the secret of a good trick is to keep a straight face and never overdo the details."
+    ],
+    "play tricks": [
+      "Don't play tricks!",
+      "My cat plays tricks on me.",
+      "People play tricks on April Fool's Day.",
+      "Newspapers and TV channels also like to play tricks on their audience.",
+      "In many countries, people play tricks on each other on 1st April, but the customs are slightly different.",
+      "Big companies now play tricks on their customers every April, turning an old folk custom into a marketing opportunity."
+    ],
+    "prank": [
+      "It was a prank.",
+      "That was a good prank.",
+      "The students planned a prank for 1st April.",
+      "The radio prank made thousands of listeners laugh.",
+      "The prank went viral after a video of the confused victims was posted online.",
+      "A harmless prank can strengthen friendships, but one that embarrasses or frightens people can do lasting damage."
+    ],
+    "broadcast": [
+      "They broadcast the news.",
+      "The show is broadcast live.",
+      "The programme was broadcast on 1st April.",
+      "The radio station broadcast a fake report about the clocks.",
+      "When the BBC broadcast the spoof, millions of people were watching their new television sets.",
+      "Had the report been broadcast on any other day, it might have been seen as an abuse of the public's trust."
+    ],
+    "airwave": [
+      "Music is on the airwaves.",
+      "His voice filled the airwaves.",
+      "The news spread across the airwaves.",
+      "Jokes fill the airwaves every 1st April.",
+      "For one day a year, serious journalists use the airwaves to play tricks on their audience.",
+      "In 1957 the airwaves were dominated by a handful of trusted broadcasters, which made a television hoax especially powerful."
+    ],
+    "send over": [
+      "Send it over.",
+      "Please send over the photos.",
+      "I'll send over the video later.",
+      "Can you send over the details of the April Fool's story?",
+      "The station promised to send over a sprig of spaghetti to anyone who wanted to grow their own.",
+      "Instead of sending over plants, the BBC humorously advised callers to put spaghetti in a tin of tomato sauce and hope for the best."
+    ],
+    "expense": [
+      "Travel is a big expense.",
+      "They laughed at my expense.",
+      "He made a joke at his friend's expense.",
+      "Some pranks are funny, but not when they are at someone else's expense.",
+      "The BBC enjoyed a laugh at the nation's expense, but most viewers took the joke in good spirit.",
+      "A joke at someone's expense is only acceptable if the target can share the laugh rather than feel humiliated by it."
+    ],
+    "obvious": [
+      "It's obvious.",
+      "The answer is obvious.",
+      "It was obvious that he was joking.",
+      "Some April Fool's jokes are too obvious to fool anyone.",
+      "What seems obvious to us today was not at all obvious to viewers in the 1950s.",
+      "The art of a great hoax lies in making the absurd seem plausible while leaving just enough obvious clues for the alert viewer."
+    ]
+  },
+  "0104": {
+    "yawn": [
+      "I yawn a lot.",
+      "She yawned in class.",
+      "Yawning is a sign that you are tired.",
+      "The students kept yawning during the early morning lesson.",
+      "Constant yawning at work may suggest you are not getting enough sleep.",
+      "Although yawning is often linked to tiredness, scientists still debate exactly why we do it and why it is so contagious."
+    ],
+    "sleep deprivation": [
+      "Sleep deprivation is bad for you.",
+      "Many students suffer from sleep deprivation.",
+      "Sleep deprivation can make you feel angry.",
+      "Long-term sleep deprivation is linked to serious health problems.",
+      "Researchers found that even mild sleep deprivation affects memory and mood.",
+      "Chronic sleep deprivation among teenagers has been associated with poorer exam results, irritability and a higher risk of obesity."
+    ],
+    "deprivation": [
+      "Deprivation is hard.",
+      "They lived in deprivation.",
+      "Food deprivation makes people weak.",
+      "The study looked at the effects of sleep deprivation on children.",
+      "Deprivation of basic needs, like rest, quickly affects how well we think.",
+      "The report argues that the deprivation many children experience, from poor diet to lack of sleep, has lasting effects on their learning."
+    ],
+    "deprive": [
+      "Don't deprive yourself of sleep.",
+      "The noise deprived us of rest.",
+      "Busy parents are often deprived of sleep.",
+      "Early school times deprive many pupils of the sleep they need.",
+      "When the brain is deprived of rest, it struggles to process new information.",
+      "Scientists who deprived volunteers of sleep for a single night found a sharp drop in their ability to stay alert."
+    ],
+    "pupil": [
+      "He is a good pupil.",
+      "The school has 500 pupils.",
+      "Some pupils go to bed very late.",
+      "The teacher noticed that many pupils were falling asleep in class.",
+      "Pupils who sleep well tend to concentrate better and get higher marks.",
+      "Some schools have experimented with later start times, hoping that better-rested pupils will be more alert and less irritable."
+    ],
+    "concentration": [
+      "I lost my concentration.",
+      "This job needs concentration.",
+      "Good sleep helps your concentration.",
+      "After a bad night, my concentration was terrible all day.",
+      "Poor concentration is one of the first signs of sleep deprivation.",
+      "Tests showed that participants' concentration declined steadily the longer they went without sleep, until they could barely complete simple tasks."
+    ],
+    "in on": [
+      "I lie in on Sundays.",
+      "Can I lie in on Saturday?",
+      "She likes to lie in on holidays.",
+      "Students often lie in on weekends after a busy week.",
+      "Lying in on the weekend may help a little, but it can't fully repair a week of short nights.",
+      "Experts warn that lying in on weekends can confuse your body clock, making it even harder to wake up early on Monday morning."
+    ],
+    "catch up": [
+      "I want to catch up.",
+      "Let me catch up on my sleep.",
+      "He tries to catch up on sleep at weekends.",
+      "After exams, students often go home to catch up on rest.",
+      "It is difficult to catch up on lost sleep once you have built up a large sleep debt.",
+      "Although many people believe they can catch up at the weekend, research suggests the effects of weekday sleep loss are not so easily reversed."
+    ],
+    "up on": [
+      "Catch up on sleep.",
+      "I caught up on my rest.",
+      "She caught up on sleep on the train.",
+      "Many workers catch up on sleep during their days off.",
+      "Catching up on sleep at the weekend has become a habit for many busy students.",
+      "Doctors say that trying to catch up on sleep only at weekends is a poor substitute for a regular and sufficient sleep routine."
+    ],
+    "frayed": [
+      "My nerves are frayed.",
+      "Tempers were frayed at home.",
+      "Lack of sleep left him with frayed nerves.",
+      "By the end of the long night shift, the nurses' tempers were frayed.",
+      "Frayed tempers are a common result of too little sleep and too much stress.",
+      "With exams approaching and nobody sleeping properly, frayed nerves soon turned into arguments over the smallest things."
+    ],
+    "stressed": [
+      "I feel stressed.",
+      "She is stressed about work.",
+      "Stressed people often sleep badly.",
+      "Students get stressed when they have too many exams.",
+      "Being stressed makes it harder to fall asleep, which in turn makes you more stressed.",
+      "Feeling stressed and sleeping poorly can create a vicious circle that is difficult to break without changing your daily habits."
+    ],
+    "tetchy": [
+      "Don't be tetchy.",
+      "He is tetchy today.",
+      "Tired children are often tetchy.",
+      "I was a bit tetchy this morning because I slept so badly.",
+      "A short night's sleep can leave even the calmest person tetchy and impatient.",
+      "The meeting grew increasingly tetchy as the exhausted team argued over details they would normally have agreed on quickly."
+    ],
+    "fray": [
+      "Tempers fray.",
+      "My nerves began to fray.",
+      "Tempers fray when people are tired.",
+      "As the night went on, the passengers' tempers started to fray.",
+      "Without proper rest, nerves fray and small problems seem much bigger.",
+      "Researchers observed that volunteers' tempers frayed noticeably after just two nights of restricted sleep."
+    ],
+    "angered": [
+      "He was angered.",
+      "She was angered by the noise.",
+      "Sleepy drivers are easily angered.",
+      "The angered parents complained about the early school start.",
+      "Studies show that people who lack sleep are angered by situations they would usually ignore.",
+      "Angered by constant tiredness, she finally decided to change her routine and stop using her phone late at night."
+    ],
+    "intellectually": [
+      "It's intellectually hard.",
+      "The game is intellectually fun.",
+      "Sleep helps us grow intellectually.",
+      "Tired pupils find it harder to keep up intellectually in class.",
+      "The study measured how well children performed intellectually after different amounts of sleep.",
+      "Even a modest loss of sleep can leave adults intellectually slower, though many of them fail to notice the decline themselves."
+    ],
+    "vigilance": [
+      "Drivers need vigilance.",
+      "Vigilance is important at night.",
+      "Tiredness lowers our vigilance.",
+      "Pilots must keep up their vigilance during long flights.",
+      "Tests of vigilance showed that sleepy volunteers missed many more warning signals.",
+      "In jobs where a moment's lapse in vigilance can cost lives, such as surgery or air traffic control, adequate sleep is a matter of public safety."
+    ],
+    "behavioural": [
+      "It is a behavioural problem.",
+      "The boy has behavioural issues.",
+      "Sleep can affect behavioural changes.",
+      "Teachers noticed behavioural changes in pupils who slept badly.",
+      "Behavioural difficulties at school are sometimes caused by poor sleep rather than bad attitude.",
+      "The researchers concluded that many behavioural symptoms usually blamed on other causes improved dramatically once children's sleep was regularised."
+    ],
+    "irritable": [
+      "The baby is irritable.",
+      "He gets irritable when tired.",
+      "Lack of sleep makes me irritable.",
+      "My sister was irritable all day after staying up late.",
+      "People who sleep less than six hours are more likely to be irritable with colleagues.",
+      "Becoming irritable over trivial matters is often the first sign that your body is not getting the rest it needs."
+    ],
+    "hostile": [
+      "He was hostile.",
+      "Don't be hostile to me.",
+      "Tired people can seem hostile.",
+      "The tired workers gave the manager a hostile reply.",
+      "Lack of sleep can make people react in a hostile way to harmless comments.",
+      "The experiment suggested that sleep-deprived participants were more likely to interpret neutral facial expressions as hostile."
+    ],
+    "unfriendly": [
+      "He is unfriendly.",
+      "That was an unfriendly look.",
+      "She seemed unfriendly this morning.",
+      "Lack of sleep made him unfriendly to his classmates.",
+      "People often seem unfriendly simply because they are exhausted, not because they dislike you.",
+      "A colleague who appears unfriendly every morning might actually be struggling with a long-term sleep problem."
+    ],
+    "disagreeable": [
+      "He is disagreeable.",
+      "It was a disagreeable day.",
+      "Tired people can be disagreeable.",
+      "I was disagreeable at breakfast because I had slept so little.",
+      "Sleep-deprived volunteers were rated as more disagreeable by the people they worked with.",
+      "What we dismiss as a disagreeable personality may sometimes be nothing more than the result of years of poor sleep."
+    ],
+    "worryingly": [
+      "He is worryingly thin.",
+      "The number is worryingly high.",
+      "Worryingly, she sleeps only four hours.",
+      "Worryingly, rates of sleep problems among children are rising.",
+      "The survey found that a worryingly large number of drivers had fallen asleep at the wheel.",
+      "Worryingly, the link between short sleep and long-term health problems appears to be stronger than scientists had previously assumed."
+    ],
+    "obesity": [
+      "Obesity is a problem.",
+      "Obesity is bad for the heart.",
+      "Too little sleep may cause obesity.",
+      "Child obesity is a growing problem in many countries.",
+      "Lack of sleep changes the hormones that control hunger, which may increase the risk of obesity.",
+      "Public health experts now consider adequate sleep, alongside diet and exercise, as an important factor in tackling the obesity crisis."
+    ]
+  },
+  "0105": {
+    "relative": [
+      "She is my relative.",
+      "We visit our relatives often.",
+      "I call my relatives every Sunday.",
+      "Social media helps people keep in touch with distant relatives.",
+      "Many older people still prefer to send handwritten cards to their relatives.",
+      "Thanks to video calls, relatives living on opposite sides of the world can now see each other almost every day."
+    ],
+    "funnily": [
+      "Funnily enough, I know him.",
+      "Funnily enough, it worked.",
+      "Funnily enough, I was just thinking of you.",
+      "Funnily enough, my grandmother sends more emails than I do.",
+      "Funnily enough, young people are starting to buy writing paper and stamps again.",
+      "Funnily enough, the more we rely on instant messages, the more a simple handwritten letter seems to mean to the person who receives it."
+    ],
+    "seldom": [
+      "I seldom call him.",
+      "We seldom see each other.",
+      "People seldom send postcards now.",
+      "My brother seldom answers his phone, so I send him messages instead.",
+      "Young people seldom use the post, except to send parcels or official documents.",
+      "A handwritten letter is seldom seen in most homes today, which is precisely why receiving one can feel so special."
+    ],
+    "communicating": [
+      "We are communicating.",
+      "I like communicating by email.",
+      "Communicating online is quick and easy.",
+      "My grandparents are learning new ways of communicating with us.",
+      "Communicating by letter takes longer, but people often say it feels more personal.",
+      "The way we are communicating has changed so rapidly that many children have never posted a letter in their lives."
+    ],
+    "die out": [
+      "Old customs die out.",
+      "Will letters die out?",
+      "This tradition is starting to die out.",
+      "Many experts believe handwritten letters will never completely die out.",
+      "The habit of sending birthday cards by post is slowly dying out among young people.",
+      "Although some predicted that the postal service would die out with the arrival of email, online shopping has given it a new purpose."
+    ],
+    "bother": [
+      "Don't bother.",
+      "I didn't bother to call.",
+      "Few people bother to send postcards now.",
+      "She always bothers to write a thank-you note after a party.",
+      "Many teenagers don't bother checking their email because they use messaging apps instead.",
+      "The fact that someone has bothered to buy a stamp and write by hand shows a level of care that a quick message rarely does."
+    ],
+    "postal service": [
+      "The postal service is slow.",
+      "I use the postal service.",
+      "The postal service delivers parcels too.",
+      "Our postal service delivers letters six days a week.",
+      "The postal service has had to change as fewer people send letters.",
+      "Despite the rise of digital communication, the postal service remains essential for delivering official documents and online shopping orders."
+    ],
+    "postal": [
+      "What's your postal address?",
+      "He is a postal worker.",
+      "Postal prices went up this year.",
+      "The postal strike meant that our letters arrived a week late.",
+      "Postal deliveries have changed as people now receive more parcels than letters.",
+      "Some countries have reduced their postal deliveries to a few days a week because the volume of letters has fallen so dramatically."
+    ],
+    "jokingly": [
+      "He said it jokingly.",
+      "She smiled jokingly.",
+      "My friends jokingly call me 'the writer'.",
+      "My dad jokingly asked if I still knew how to use a stamp.",
+      "Email users jokingly began calling the traditional post 'snail mail' because it was so slow.",
+      "What began as a name used jokingly by early internet users has now become a standard way of describing letters sent through the post."
+    ],
+    "nickname": [
+      "What's your nickname?",
+      "His nickname is Max.",
+      "The post has a funny nickname.",
+      "People gave traditional letters the nickname 'snail mail'.",
+      "The nickname became popular because ordinary post seemed so slow compared with email.",
+      "Nicknames like this often reveal how a new technology changes the way people see an older one."
+    ],
+    "slug": [
+      "Look, a slug!",
+      "Slugs eat plants.",
+      "A slug moves very slowly.",
+      "We found a slug on the lettuce in the garden.",
+      "They joked that the post was so slow it should be called 'slug mail'.",
+      "Gardeners dislike the slug because a single one can destroy young plants overnight while barely seeming to move."
+    ],
+    "worm": [
+      "I see a worm.",
+      "Birds eat worms.",
+      "The worm lives in the soil.",
+      "After the rain, there were worms all over the path.",
+      "We laughed when someone suggested calling slow letters 'worm mail' instead of snail mail.",
+      "Although the worm moves slowly, it plays a vital role in keeping soil healthy, which is perhaps why nobody chose it as a nickname for the post."
+    ],
+    "snail mail": [
+      "I love snail mail.",
+      "Snail mail is slow.",
+      "My grandma still uses snail mail.",
+      "Snail mail can take several days to arrive.",
+      "Some young people are rediscovering snail mail as a more personal way to keep in touch.",
+      "In an age of instant messaging, snail mail has gained a certain charm precisely because it requires patience and effort."
+    ],
+    "snail": [
+      "The snail is slow.",
+      "A snail has a shell.",
+      "We saw a snail in the garden.",
+      "The snail took an hour to cross the path.",
+      "The snail has become a symbol of slowness, which is why it gave its name to traditional post.",
+      "Comparing the postal service to a snail may seem unfair, given that most letters still arrive within a day or two."
+    ],
+    "exclusively": [
+      "It is exclusively for kids.",
+      "I use email exclusively.",
+      "This shop sells exclusively stamps.",
+      "Today, the post is used almost exclusively for bills and parcels.",
+      "Many young people now communicate almost exclusively through social media apps.",
+      "Relying exclusively on digital messages means that future generations may have very few personal letters to remember us by."
+    ],
+    "parcel": [
+      "I got a parcel.",
+      "The parcel is heavy.",
+      "She sent me a parcel for my birthday.",
+      "Online shopping means that postal workers carry many more parcels.",
+      "The number of parcels sent each year has grown while the number of letters has fallen.",
+      "Postal companies have reinvented themselves as parcel delivery services, as online shopping has replaced personal letters as their main business."
+    ],
+    "certificate": [
+      "Here is my certificate.",
+      "I got a certificate at school.",
+      "The certificate came by post.",
+      "You need your birth certificate to apply for a passport.",
+      "Exam certificates are usually posted to students rather than emailed.",
+      "Although many services are now online, official certificates are still often sent through the post because a paper original is required."
+    ],
+    "tactile": [
+      "Paper is tactile.",
+      "I like tactile things.",
+      "A letter is more tactile than an email.",
+      "Many people enjoy the tactile pleasure of opening an envelope.",
+      "The tactile experience of holding a card is something a screen simply cannot offer.",
+      "Part of the appeal of snail mail is its tactile quality: the texture of the paper and the handwriting make the message feel more real."
+    ],
+    "through": [
+      "I sent it through the post.",
+      "We talk through the internet.",
+      "I met her through a friend.",
+      "My cousin and I stay in contact through video calls.",
+      "Most young people now share news through messaging apps rather than letters.",
+      "It is through these small, regular contacts, whether by phone, message or letter, that friendships are kept alive over long distances."
+    ],
+    "hence": [
+      "It's slow, hence the name.",
+      "He's tired, hence his mood.",
+      "Email is fast, hence its popularity.",
+      "Fewer people send letters, hence the drop in post office income.",
+      "Handwritten letters take time and effort, hence the special value people place on them.",
+      "Online shopping has grown enormously in recent years, hence the postal service's shift from delivering letters to delivering parcels."
+    ],
+    "literacy": [
+      "Literacy is important.",
+      "The school teaches literacy.",
+      "Reading books improves literacy.",
+      "When literacy rates rose, more people began writing letters.",
+      "Some teachers worry that texting is harming young people's literacy skills.",
+      "The spread of literacy in the nineteenth century, combined with cheap postage, turned letter writing into an everyday activity for ordinary people."
+    ],
+    "link up": [
+      "Let's link up later.",
+      "We link up online.",
+      "Friends link up through social media.",
+      "The app lets families link up from anywhere in the world.",
+      "Old school friends often link up again years later through the internet.",
+      "Technology has made it easier than ever to link up with people, though some argue it has made those connections less meaningful."
+    ],
+    "arrange": [
+      "Let's arrange a time.",
+      "I arranged a meeting.",
+      "She arranged to call me tonight.",
+      "It's easy to arrange a get-together using a group chat.",
+      "Before mobile phones, people had to arrange meetings days in advance by letter or phone.",
+      "Being able to arrange everything instantly by message has made us more flexible, but perhaps also less reliable about keeping plans."
+    ],
+    "face to face": [
+      "Let's talk face to face.",
+      "We met face to face.",
+      "I prefer face to face meetings.",
+      "We chat online, but we rarely see each other face to face.",
+      "Some news is too important to share by text and should be told face to face.",
+      "However convenient digital communication may be, many people feel that face to face contact is still essential for building real trust."
+    ],
+    "standing": [
+      "It's a standing date.",
+      "We have a standing plan.",
+      "I have a standing order for flowers.",
+      "My friends and I have a standing invitation to lunch at her house.",
+      "A standing weekly call is a simple way to make sure you keep in touch with family.",
+      "Their standing arrangement to meet on the first Sunday of every month has kept the friendship alive for more than twenty years."
+    ]
+  },
+  "0106": {
+    "nerd": [
+      "He is a nerd.",
+      "I am a computer nerd.",
+      "Being a nerd is cool now.",
+      "My brother is a science nerd who reads books about space.",
+      "Calling someone a nerd used to be an insult, but now many people are proud of it.",
+      "In a world driven by technology, the nerds who were once teased at school are often the ones building the companies that shape our lives."
+    ],
+    "pisa": [
+      "What is pisa?",
+      "Pisa tests students.",
+      "Our country took part in pisa.",
+      "Pisa tests are taken by 15-year-olds every few years.",
+      "According to pisa, reading and maths scores have dropped in many rich countries.",
+      "Critics argue that pisa rankings encourage governments to focus on test scores rather than on broader goals such as creativity and wellbeing."
+    ],
+    "assessment": [
+      "I have an assessment today.",
+      "The assessment was easy.",
+      "Teachers use tests for assessment.",
+      "The international assessment compares students from many countries.",
+      "The latest assessment suggests that teenagers' problem-solving skills have declined.",
+      "Any assessment of young people's intelligence must take into account changes in schooling, technology and the way knowledge itself is valued."
+    ],
+    "massive": [
+      "It's a massive school.",
+      "That was a massive mistake.",
+      "Phones are a massive distraction.",
+      "There has been a massive drop in reading for pleasure.",
+      "School closures caused massive disruption to students' learning.",
+      "The massive growth in smartphone use among teenagers has led researchers to ask whether it is changing the way young minds develop."
+    ],
+    "disruption": [
+      "There was some disruption.",
+      "Phones cause disruption in class.",
+      "The strike caused disruption to lessons.",
+      "Students who faced long disruption to their education fell behind.",
+      "The disruption caused by school closures affected poorer students the most.",
+      "Researchers are still trying to measure the long-term disruption that the pandemic caused to a whole generation's learning."
+    ],
+    "closure": [
+      "The school closure was long.",
+      "We heard about the closure.",
+      "The closure lasted three months.",
+      "School closures meant students had to learn at home.",
+      "Long school closures are thought to be one reason why test scores fell.",
+      "Governments are now asking whether the benefits of school closures during the pandemic outweighed the damage done to children's learning."
+    ],
+    "deteriorate": [
+      "Things deteriorate.",
+      "His health deteriorated.",
+      "Her grades began to deteriorate.",
+      "Reading skills have deteriorated since the pandemic.",
+      "If students' concentration continues to deteriorate, schools may need to change how they teach.",
+      "The data suggest that test scores began to deteriorate before the pandemic, roughly when smartphones became widespread among teenagers."
+    ],
+    "steep": [
+      "It's a steep drop.",
+      "Prices saw a steep rise.",
+      "There was a steep fall in reading.",
+      "The report showed a steep decline in students' test results.",
+      "The steep drop in scores worried teachers and politicians alike.",
+      "The steepest declines were recorded in countries where teenagers spent the most time on their phones, though the link is not necessarily causal."
+    ],
+    "ban": [
+      "Phones are banned here.",
+      "There is a ban on phones.",
+      "Our school banned phones in class.",
+      "Many parents support a ban on smartphones in schools.",
+      "Since the phone ban was introduced, teachers say pupils concentrate better.",
+      "Some countries are considering a ban on social media for under-16s, arguing that it harms young people's attention and mental health."
+    ],
+    "come home": [
+      "Come home now.",
+      "I come home at five.",
+      "He comes home and plays games.",
+      "When I come home, I like to relax with my phone for a while.",
+      "Many parents say their children come home tired and spend the evening scrolling.",
+      "Unlike earlier generations, young people today rarely switch off when they come home, because their friends and social lives follow them on their phones."
+    ],
+    "scroll": [
+      "Scroll down.",
+      "I scroll on my phone.",
+      "She scrolled through the photos.",
+      "Many teenagers scroll for hours without noticing the time.",
+      "When you scroll endlessly, it becomes harder to focus on a book or a long task.",
+      "Apps are designed to keep us scrolling, offering a constant stream of short videos that reward our attention but rarely deepen our understanding."
+    ],
+    "you said it": [
+      "'It's cold.' 'You said it!'",
+      "'That test was hard.' 'You said it.'",
+      "'Kids use phones too much.' 'You said it!'",
+      "'We need more time away from screens.' 'You said it - I can't stop scrolling.'",
+      "When my friend said exams were harder than they used to be, I just replied, 'You said it.'",
+      "'Maybe the problem isn't intelligence, but attention,' one presenter suggested, and the other laughed and said, 'You said it.'"
+    ],
+    "disturbance": [
+      "Sorry for the disturbance.",
+      "Noise is a disturbance.",
+      "Phones cause disturbance in class.",
+      "Even a short disturbance can break your concentration.",
+      "Teachers report fewer disturbances in lessons since phones were banned.",
+      "Research suggests that every disturbance from a notification costs several minutes of focus, as the brain struggles to return to the original task."
+    ],
+    "aimlessly": [
+      "He walked aimlessly.",
+      "I scroll aimlessly.",
+      "She sat aimlessly looking at her phone.",
+      "I wasted the whole evening scrolling aimlessly through social media.",
+      "Spending hours aimlessly online leaves little time for reading or thinking deeply.",
+      "The concern is not that young people use technology, but that so much of that time is spent aimlessly consuming content rather than creating or learning."
+    ],
+    "endpoint": [
+      "This is the endpoint.",
+      "The video has no endpoint.",
+      "A book has a clear endpoint.",
+      "Social media feeds are designed without an endpoint, so you keep scrolling.",
+      "Unlike a newspaper, an online feed never reaches an endpoint, which makes it hard to stop.",
+      "Designers deliberately removed any natural endpoint from the feed, knowing that users who never reach the bottom of the page stay online much longer."
+    ]
   }
 };

@@ -64,7 +64,7 @@ async function load(url, setup){
   // index page: Part 2 by default, Part 1 / Part 2 switch (remembered)
   let w = await load('index.html');
   const P2 = Object.keys(w.VOCAB_DATA), P1 = Object.keys(w.VOCAB_DATA_PART1);
-  assert.strictEqual(P2.length, 80);
+  assert.strictEqual(P2.length, 106);                  // 0001-0080 + the new topics 0081-0106
   assert.strictEqual(P1.length, 508);
   const cardKeys = () => [...w.document.querySelectorAll('.topic-card')].map(a => a.getAttribute('href'));
   assert.deepStrictEqual(cardKeys(), P2.map(k => `topic.html?topic=${k}`));
@@ -74,7 +74,7 @@ async function load(url, setup){
   w = await load('index.html');                                    // remembered
   assert.strictEqual(w.document.querySelectorAll('.topic-card').length, 508);
   w.document.querySelector('.part-btn[data-part="2"]').click();
-  assert.strictEqual(w.document.querySelectorAll('.topic-card').length, 80);
+  assert.strictEqual(w.document.querySelectorAll('.topic-card').length, 106);
   assert.strictEqual(store['vocab-part'], '2');
 
   // topics render, examples default to original: every Part 2 topic, and every 25th Part 1 topic plus the last
@@ -245,7 +245,7 @@ async function load(url, setup){
     const d = w.document, btn = d.querySelector('[data-random-word]');
     assert.ok(btn, 'random button on ' + page);
     const total = [w.VOCAB_DATA, w.VOCAB_DATA_PART1].reduce((n, D) => n + Object.values(D).reduce((m, t) => m + t.words.length, 0), 0);
-    assert.strictEqual(total, 13994);   // 14086 minus the 92 people's names that were removed
+    assert.strictEqual(total, 14725);   // 14086 - 92 removed people's names + 731 words of topics 0081-0106
     assert.strictEqual(w.VocabRandom.poolSize, total);
     const seen = new Set(), parts = new Set(); let prev = null;
     for (let n = 0; n < 400; n++) {
@@ -894,9 +894,9 @@ async function load(url, setup){
     const D = { '1': w.VOCAB_DATA_PART1, '2': w.VOCAB_DATA }, E = { '1': w.VOCAB_EXAMPLES_PART1, '2': w.VOCAB_EXAMPLES };
     const count = X => Object.values(X).reduce((n, t) => n + t.words.length, 0);
     assert.strictEqual(count(D['1']), 11574);                  // 11662 - 88
-    assert.strictEqual(count(D['2']), 2420);                   // 2424 - 4
+    assert.strictEqual(count(D['2']), 3151);                   // 2424 - 4 + 731 (topics 0081-0106)
     assert.strictEqual(Object.keys(D['1']).length, 508);       // no topic was removed or emptied
-    assert.strictEqual(Object.keys(D['2']).length, 80);
+    assert.strictEqual(Object.keys(D['2']).length, 106);
     for (const part of ['1', '2']) for (const t of Object.values(D[part])) assert.ok(t.words.length > 0);
     for (const part of ['1', '2']) {
       for (const [k, name] of REMOVED[part]) {
@@ -920,6 +920,62 @@ async function load(url, setup){
       assert.ok(!all.has(n), n + ' is not a word on the site');
       assert.ok(!w.VocabInfo.has(n), n + ' is not linked in the synonym popup');
     }
+  }
+
+  // ---- New Part 2 topics 0081-0106 (731 words; the people's names "oliver" and "jade" were left out) ----
+  { const NEW = {"0081": ["Clouds", 27, "surrounding", "bless"], "0082": ["Tribal Protest over Indian Mine", 41, "tribal", "convinced"], "0083": ["Moon Landing", 25, "lunar", "breath"], "0084": ["Couch Surfing", 21, "work out", "surfer"], "0085": ["Tanning", 39, "shin", "get by"], "0086": ["Could Vaccines Cure Cancer", 29, "vaccine", "potential"], "0087": ["Aussie Town Gets Own Money", 25, "global", "urgent"], "0088": ["Gold Vending Machine", 35, "vending machine", "briefly"], "0089": ["Lonely Bug", 23, "loneliest", "outer"], "0090": ["Going Gliding", 40, "gliding", "rnas"], "0091": ["Dancing into Old Age", 21, "for sure", "womanlike"], "0092": ["House Swap", 15, "swap", "respondent"], "0093": ["Learning from Different Generations", 26, "choir", "reference"], "0094": ["Workaholism", 35, "vary", "even out"], "0095": ["Fighting Poor Sanitation", 25, "sanitation", "version"], "0096": ["Spring Cleaning", 31, "under way", "mentally"], "0097": ["Horoscopes and Astrology", 28, "astrology", "date back"], "0098": ["Smells and Memories", 35, "flashback", "get worse"], "0099": ["St George's Day", 37, "patron", "movement"], "0100": ["Are Microplastics Harming Us", 26, "lasting", "looseleaf"], "0101": ["Staycations", 32, "relaxing", "county"], "0102": ["Happiness", 23, "sunnier", "score"], "0103": ["April Fool's Day", 29, "catch out", "obvious"], "0104": ["A Good Night's Rest", 23, "yawn", "obesity"], "0105": ["Keeping in Touch", 25, "relative", "standing"], "0106": ["Is Gen Z Getting Less Intelligent", 15, "nerd", "endpoint"]};   // key: [title, words, first word, last word]
+    w = await load('index.html');
+    const D = w.VOCAB_DATA, E = w.VOCAB_EXAMPLES, keys = Object.keys(D);
+    assert.deepStrictEqual(keys.slice(80), Object.keys(NEW), 'new topics come after 0080, in order');
+    assert.strictEqual(Object.values(NEW).reduce((n, x) => n + x[1], 0), 731);
+    for (const [k, [title, n, first, last]] of Object.entries(NEW)) {
+      const t = D[k];
+      assert.strictEqual(t.title, title, k);
+      assert.strictEqual(t.slug, title.toLowerCase().replace(/'/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''), k + ' slug');
+      assert.ok(t.desc && t.desc.split(' ').length >= 6, k + ' desc');
+      assert.strictEqual(t.words.length, n, k + ' word count');
+      assert.strictEqual(t.words[0].w, first, k + ' first word');
+      assert.strictEqual(t.words[n - 1].w, last, k + ' last word');
+      assert.strictEqual(new Set(t.words.map(x => x.w)).size, n, k + ': no word twice');
+      const tr = await w.loadTopicTranslations('2', k);
+      for (const x of t.words) {
+        const id = k + ' ' + x.w;
+        for (const f of ['p', 'ipa', 'def', 'tr', 'ex']) assert.ok(typeof x[f] === 'string' && x[f].trim(), id + ': ' + f);
+        assert.ok(x.ipa.startsWith('/') && x.ipa.endsWith('/'), id + ': ipa');
+        const set = E[k][x.w];
+        assert.ok(Array.isArray(set) && set.length === 6 && set.every(s => s.trim()), id + ': six A1-C2 sentences');
+        assert.strictEqual(new Set(set.concat(x.ex)).size, 7, id + ': seven different sentences');
+        for (const lv of ['A1', 'A2', 'B1', 'B2', 'C1', 'C2', 'EX']) {
+          const uz = tr[lv] && tr[lv][x.w];
+          assert.ok(uz && uz.trim(), id + ': ' + lv + ' Uzbek');
+          assert.ok(!/[Ѐ-ӿ‘’ʻʼ]/.test(uz), id + ': ' + lv + ' Uzbek in Latin script with plain apostrophes');
+        }
+        assert.ok(!/[Ѐ-ӿ‘’ʻʼ]/.test(x.tr), id + ': tr in Latin script');
+      }
+      assert.strictEqual(Object.keys(tr.EX).length, n, k + ': no extra translations');
+    }
+    // the words are kept exactly as given, even unusual spellings and lower-case abbreviations
+    const has = (k, word) => D[k].words.some(x => x.w === word);
+    for (const [k, word] of [['0094', 'bogge down'], ['0086', 'prim'], ['0086', 'dna'], ['0086', 'rna'], ['0097', 'out to'],
+                             ['0090', 'raf'], ['0090', 'rnas'], ['0095', 'hiv'], ['0095', 'tb'], ['0104', 'in on'], ['0106', 'pisa'],
+                             ['0088', 'synonyms'], ['0088', 'synonym'], ['0090', 'three year old'], ['0097', "lose one's temper"]])
+      assert.ok(has(k, word), `${k} keeps "${word}"`);
+    // the people's names are left out
+    assert.ok(!has('0095', 'oliver') && !has('0106', 'jade'));
+    assert.ok(!(D['0095'].words.length === 26) && !('oliver' in E['0095']) && !('jade' in E['0106']));
+    // synonyms: e.g. an adjective of a new topic has its synonyms and opposites, linked in the popup when they are words
+    const rel = w.adjRelated(D['0081'].words.find(x => x.w === 'surrounding'));
+    assert.ok(rel && rel.syn.length > 0, 'synonyms for a new word');
+    // a new topic page works: all words, the Uzbek line under each original example
+    const tp = await load('topic.html?topic=0106');
+    const trp = await tp.loadTopicTranslations('2', '0106'); await new Promise(r => setTimeout(r, 0));
+    assert.strictEqual(tp.document.getElementById('topic-title').textContent, NEW['0106'][0]);
+    assert.strictEqual(tp.document.querySelectorAll('.entry').length, 15);
+    tp.VOCAB_DATA['0106'].words.forEach((x, i) => {
+      const c = tp.document.querySelectorAll('.entry')[i];
+      assert.strictEqual(c.querySelector('.entry-ex').textContent, x.ex);
+      assert.strictEqual(c.querySelector('.entry-uzex .uz').textContent, 'UZ' + trp.EX[x.w]);
+    });
   }
 
   console.log('ALL TESTS PASSED');
